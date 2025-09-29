@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vilma Jää.
 
-980 songs - 2 day 11 hr 6 min
+981 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Dust](https://open.spotify.com/track/1LcCtblPDLB8l6tkEupDnR) | [Discoteca Fatale](https://open.spotify.com/artist/0WJFyZRcFzQLhifWX3etGV) | [A Disco Life Vol\. 2](https://open.spotify.com/album/1hRQDTQAes2vNIRYcZOES9) | 4:02 | 2025-03-20 | 2025-04-18 |
 | [Dusty](https://open.spotify.com/track/1JBXeDtk85Bt94DGd502tk) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Dusty](https://open.spotify.com/album/60aUHME0C9tz4HY8nI1ViZ) | 3:41 | 2025-04-24 | 2025-05-30 |
 | [Déjà vu](https://open.spotify.com/track/32oSfuSY8xp7X0zsjmE7wv) | [VEERA REBEKKA](https://open.spotify.com/artist/4EGI2ebSI7HOPQe0M85Kim) | [Déjà vu](https://open.spotify.com/album/3j9XUjOd60zhagpcWVOfap) | 4:43 | 2024-07-02 | 2024-07-09 |
-| [Ehkä maailma ei vielä lopu huomenna](https://open.spotify.com/track/08urvf3Fs9YrPY59f5Rvun) | [Itcevät](https://open.spotify.com/artist/1dqKlPZyKIsxrmEkk1brEp) | [Ehkä maailma ei vielä lopu huomenna](https://open.spotify.com/album/2CwGNcq22cNgubBErIYqQu) | 3:47 | 2025-06-26 |  |
+| [Ehkä maailma ei vielä lopu huomenna](https://open.spotify.com/track/08urvf3Fs9YrPY59f5Rvun) | [Itcevät](https://open.spotify.com/artist/1dqKlPZyKIsxrmEkk1brEp) | [Ehkä maailma ei vielä lopu huomenna](https://open.spotify.com/album/2CwGNcq22cNgubBErIYqQu) | 3:47 | 2025-06-26 | 2025-09-29 |
 | [ehkä syksy muuttaa kaiken](https://open.spotify.com/track/2GO2c2x72lyCXEsc2xVAuW) | [myrtsi](https://open.spotify.com/artist/5gMm4q8mLtISzaNUBD3XWe) | [ehkä syksy muuttaa kaiken](https://open.spotify.com/album/6YP12n4bMUpxBGZEoewcci) | 3:55 | 2024-10-10 | 2024-11-22 |
 | [Ei aikaa](https://open.spotify.com/track/5jn2mlHNTa44FMxeEtzYEQ) | [Tams](https://open.spotify.com/artist/4dViQ7ArMCqM7xZx9TddSs) | [Ei aikaa](https://open.spotify.com/album/5uNiSQeftpgY26MMXF8xdT) | 3:21 | 2024-11-21 | 2025-02-07 |
 | [Ei kukaan muu](https://open.spotify.com/track/0iaRAOtFAAqW81Kj5SKcYI) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Pitäis ja pitäis](https://open.spotify.com/album/1JwueWM1iLWPwUJ1UjReCN) | 3:04 | 2025-09-04 |  |
@@ -872,6 +872,7 @@
 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 | 2024-09-12 | 2024-10-25 |
 | [Tuhkaa](https://open.spotify.com/track/4814VWnOYwmaI9bsQOniK2) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Tuhkaa](https://open.spotify.com/album/6emBmpZS24ZFZ9JdCmROmh) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Tuhma kuva](https://open.spotify.com/track/2B55MJg3Zc9cO7gabvInUe) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Tuhma kuva](https://open.spotify.com/album/0pQMxapTVJ21Jy31gJiJGP) | 4:49 | 2024-08-29 | 2024-09-20 |
+| [Tuho](https://open.spotify.com/track/4OHk5yz8GaXJrb5qVQxBEs) | [Haamuvalo](https://open.spotify.com/artist/57ZP9Ck5W5GisrMzCJoYeR) | [Tuho](https://open.spotify.com/album/1nieyFfZv0KHkFV0KLqUzR) | 2:07 | 2025-09-28 |  |
 | [Tukholma](https://open.spotify.com/track/1SeOMA98WKBhbqxU77lwdu) | [Muovikukat](https://open.spotify.com/artist/6096QEMNGbKLdTxrV9Eo2M) | [Tukholma](https://open.spotify.com/album/2z5I9rne8kd80cZ9sSerjf) | 3:46 | 2025-05-08 | 2025-06-13 |
 | [Tulikärpäsiä](https://open.spotify.com/track/3XYhizwNYe1apdU7v5wWcc) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Tulikärpäsiä](https://open.spotify.com/album/478VCABdG1e4lqaZRaXaNo) | 3:07 | 2025-08-14 | 2025-09-19 |
 | [Tunteet](https://open.spotify.com/track/4czHkHAPVqWPEXrk0Jvf9Z) | [Anne\-Mari Kivimäki](https://open.spotify.com/artist/15w9NOQTdZLSCZjnHtGIPl) | [Kotiin](https://open.spotify.com/album/05f1wDE5DYQ5rhHFndlCn4) | 2:41 | 2025-02-06 | 2025-02-28 |

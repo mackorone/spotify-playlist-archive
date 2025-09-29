@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,007 songs - 4 day 7 hr 59 min
+2,008 songs - 4 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,7 +988,7 @@
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-05-09 |
-| [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 | 2025-05-29 |  |
+| [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 | 2025-05-29 | 2025-09-29 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känns som igår](https://open.spotify.com/track/1GWsPe0PZYRRlY8Awcejds) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känns som igår](https://open.spotify.com/album/08c1O8RIYYnazaS59PwhPD) | 2:53 | 2024-03-28 | 2024-05-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |
@@ -1448,6 +1448,7 @@
 | [SAKNAR ORD](https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL) | [LEON GABOR](https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k) | [SAKNAR ORD](https://open.spotify.com/album/5MIcN6w6kxUlfqwvg2SyUV) | 3:08 | 2022-05-05 | 2022-06-24 |
 | [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 | 2023-09-22 |
 | [Saltvatten](https://open.spotify.com/track/0eobXC0WPa6Qrb38yCUh84) | [Dao](https://open.spotify.com/artist/66bnMtizXwZWDn6CzzNvMe) | [Saltvatten](https://open.spotify.com/album/7mh9FnyT38ZLkTvaV5zI8M) | 2:38 | 2023-12-08 | 2024-03-08 |
+| [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 | 2025-09-25 |  |
 | [Salut](https://open.spotify.com/track/3kUWzhuTmwA5Y8vzFDLyEy) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut](https://open.spotify.com/album/2A1SFlRSsKp9JVzt8J2oci) | 2:57 | 2024-05-23 | 2024-06-21 |
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2022-05-12 | 2023-10-06 |

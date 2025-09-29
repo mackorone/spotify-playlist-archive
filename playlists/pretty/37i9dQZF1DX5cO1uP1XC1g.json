@@ -1,6 +1,6 @@
 {
   "description": "The Hottest Arabic Music.\nCover: TUL8TE",
-  "num_followers": 573022,
+  "num_followers": 573119,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2025-09-07 08:26:40",
       "album": {
-        "name": "Sahak Isho2",
-        "url": "https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Sahak Isho2",
-      "url": "https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65"
-    },
-    {
-      "added_at": "2025-09-07 08:26:40",
-      "album": {
         "name": "Maleket Gamal El Kon",
         "url": "https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl"
       },
@@ -141,20 +125,24 @@
       "url": "https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy"
     },
     {
-      "added_at": "2025-09-07 08:26:40",
+      "added_at": "2025-09-27 11:30:58",
       "album": {
-        "name": "7arrir 3aqlak / Asli Ana",
-        "url": "https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME"
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 (Deluxe)",
+        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
       },
       "artists": [
         {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Fares Sokar",
+          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
         }
       ],
-      "duration_ms": 171021,
-      "name": "asli ana - \u0623\u0635\u0644\u064a \u0623\u0646\u0627",
-      "url": "https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ"
+      "duration_ms": 158571,
+      "name": "DO YOU LOVE ME? / \u0633\u0646\u064a\u0648\u0631\u0629",
+      "url": "https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5"
     },
     {
       "added_at": "2025-09-07 08:26:40",
@@ -191,22 +179,18 @@
     {
       "added_at": "2025-09-07 08:26:40",
       "album": {
-        "name": "Kifek 3A Fra2e",
-        "url": "https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T"
+        "name": "Sahak Isho2",
+        "url": "https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD"
       },
       "artists": [
         {
           "name": "Fadel Chaker",
           "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        },
-        {
-          "name": "Mohamed Chaker",
-          "url": "https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0"
         }
       ],
-      "duration_ms": 228236,
-      "name": "Kifek 3A Fra2e",
-      "url": "https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii"
+      "duration_ms": 204615,
+      "name": "Sahak Isho2",
+      "url": "https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65"
     },
     {
       "added_at": "2025-09-07 08:26:40",
@@ -223,6 +207,38 @@
       "duration_ms": 190250,
       "name": "Skaba",
       "url": "https://open.spotify.com/track/2qKD4crtO5JqTjSepwUtBU"
+    },
+    {
+      "added_at": "2025-09-07 08:26:40",
+      "album": {
+        "name": "7arrir 3aqlak / Asli Ana",
+        "url": "https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 171021,
+      "name": "asli ana - \u0623\u0635\u0644\u064a \u0623\u0646\u0627",
+      "url": "https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ"
+    },
+    {
+      "added_at": "2025-09-27 11:30:58",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "MOON",
+      "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
     },
     {
       "added_at": "2025-09-07 08:26:40",
@@ -257,20 +273,20 @@
       "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
     },
     {
-      "added_at": "2025-09-07 08:26:40",
+      "added_at": "2025-09-27 11:30:58",
       "album": {
-        "name": "Yaah",
-        "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
+        "name": "3alam Kadaba (From The TV Series Ma Trah Lays Kama Ybdo)",
+        "url": "https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0"
       },
       "artists": [
         {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
         }
       ],
-      "duration_ms": 234456,
-      "name": "Youm Ma Tensa",
-      "url": "https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ"
+      "duration_ms": 180618,
+      "name": "3alam Kadaba - From The TV Series Ma Trah Lays Kama Ybdo",
+      "url": "https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW"
     },
     {
       "added_at": "2025-09-07 08:26:40",
@@ -331,6 +347,50 @@
       "duration_ms": 231206,
       "name": "Ya Ana Ya La",
       "url": "https://open.spotify.com/track/4eL7MpDmxh1TKqmsOFG7zE"
+    },
+    {
+      "added_at": "2025-09-07 08:26:40",
+      "album": {
+        "name": "Kifek 3A Fra2e",
+        "url": "https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        },
+        {
+          "name": "Mohamed Chaker",
+          "url": "https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0"
+        }
+      ],
+      "duration_ms": 228236,
+      "name": "Kifek 3A Fra2e",
+      "url": "https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii"
+    },
+    {
+      "added_at": "2025-09-27 11:30:58",
+      "album": {
+        "name": "WALA MEEN",
+        "url": "https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        },
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "WALA MEEN",
+      "url": "https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid"
     },
     {
       "added_at": "2025-09-07 08:26:40",
@@ -447,22 +507,6 @@
       "duration_ms": 248241,
       "name": "Woseltelha",
       "url": "https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS"
-    },
-    {
-      "added_at": "2025-09-07 08:26:40",
-      "album": {
-        "name": "\u062d\u0641\u0644\u0629 \u062a\u0646\u0643\u0631\u064a\u0629",
-        "url": "https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF"
-      },
-      "artists": [
-        {
-          "name": "Rahma Mohsen",
-          "url": "https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u062d\u0641\u0644\u0629 \u062a\u0646\u0643\u0631\u064a\u0629",
-      "url": "https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7"
     },
     {
       "added_at": "2025-09-07 08:26:40",
@@ -811,22 +855,6 @@
     {
       "added_at": "2025-09-07 08:26:40",
       "album": {
-        "name": "\u0642\u0644\u0628\u064a \u064a\u0627 \u0645\u062d\u062a\u0627\u0633",
-        "url": "https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 174034,
-      "name": "\u0642\u0644\u0628\u064a \u064a\u0627 \u0645\u062d\u062a\u0627\u0633",
-      "url": "https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2"
-    },
-    {
-      "added_at": "2025-09-07 08:26:40",
-      "album": {
         "name": "\u0646\u0633\u0627\u0649",
         "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
       },
@@ -839,30 +867,6 @@
       "duration_ms": 261224,
       "name": "\u0627\u0644\u0648\u062a\u0631 \u0627\u0644\u062d\u0633\u0627\u0633",
       "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr"
-    },
-    {
-      "added_at": "2025-09-07 08:26:40",
-      "album": {
-        "name": "Kolo Falso",
-        "url": "https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        },
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        },
-        {
-          "name": "Esaad Younes",
-          "url": "https://open.spotify.com/artist/244JwBOuYHi3RiWItQtKIY"
-        }
-      ],
-      "duration_ms": 178088,
-      "name": "Kolo Falso",
-      "url": "https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX"
     },
     {
       "added_at": "2025-09-07 08:26:40",

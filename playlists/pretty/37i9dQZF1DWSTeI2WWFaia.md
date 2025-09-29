@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,610 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,448 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 29 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 30 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
 | 31 | [The Omerta](https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 3:18 |
-| 32 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
-| 33 | [Daddy's Girl](https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [MadRaps](https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV) | 2:10 |
+| 32 | [Daddy's Girl](https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [MadRaps](https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV) | 2:10 |
+| 33 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
 | 34 | [Summer '25](https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Summer '25](https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk) | 2:19 |
 | 35 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
 | 36 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 |
 | 47 | [055](https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 4:03 |
 | 48 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
-| 49 | [The Whole Shabang](https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 3:18 |
-| 50 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
+| 49 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
+| 50 | [The Whole Shabang](https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 3:18 |
 
 Snapshot ID: `AAAAAM51N5SpdCYslYykmroy/SCsUzzP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:0uZRjholJ0fVC2J9EvnYnj">Meshell Ndegeocello</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,388 likes - 35 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,396 likes - 35 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 4 | [Witch Hunt](https://open.spotify.com/track/4ISR8jbfn5x4deKzPflL6B) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Jazz Profile: Wayne Shorter](https://open.spotify.com/album/02skoawlF51dDWdTctUZhw) | 8:10 |
 | 5 | [Daydreaming by the Sea](https://open.spotify.com/track/7zWOz3N1HoJBdKb1kfCPrc) | [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6) | [Music for Meditation and Relaxation, Vol\. 2](https://open.spotify.com/album/14Rv6hRFbMHosk3ltwi0DD) | 7:15 |
 | 6 | [The 5th Dimension \(feat\. The HawtPlates\)](https://open.spotify.com/track/2mZ54R5qegUMg4hTp0GiI5) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [The HawtPlates](https://open.spotify.com/artist/0u0ab9zlxulr37gZolmOWs) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 5:24 |
-| 7 | [Daahoud](https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 4:05 |
+| 7 | [Daahoud](https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 4:05 |
 | 8 | [Lotus Blossom](https://open.spotify.com/track/38HJAmGAl3oJc9umq0awe3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [...And His Mother Called Him Bill](https://open.spotify.com/album/39ZPIDYNwj9B5x9eUpE2Ie) | 3:54 |
 | 9 | [Patterns](https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:18 |
 | 10 | [Come Smoke My Herb](https://open.spotify.com/track/36l0kcuXVPKwine0EqGE6W) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Comfort Woman \(U.S\. Version\)](https://open.spotify.com/album/0EEXYJTOYUVweuXxm2j7wu) | 3:52 |

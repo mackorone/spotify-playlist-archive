@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-736 songs - 2 day 22 hr 6 min
+737 songs - 2 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 | 2023-11-27 | 2024-04-19 |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-26 | 2025-07-26 |
 | [Dreaming \- Casper Cole Remix](https://open.spotify.com/track/1QhtyPVcTEoRa6fkizTwkj) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Dreaming \(Casper Cole Remix\)](https://open.spotify.com/album/3HqGiVhA5ASObu5Nzq8uVd) | 4:25 | 2022-10-07 | 2022-10-29 |
+| [DREAMING ON](https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [DREAMING ON](https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN) | 3:50 | 2025-09-26 |  |
 | [Drifter](https://open.spotify.com/track/3qTJbiHIjxSm1RDTtwybdE) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Drifter](https://open.spotify.com/album/79p9DOvfUpXIVUUzkqdeb2) | 4:39 | 2022-07-08 | 2022-08-13 |
 | [Dune Suave](https://open.spotify.com/track/3RkZM4hPoN6AupH4Ir1RAO) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Einmusik / Lake Avalon](https://open.spotify.com/album/1sz5tUBNYQd4jasYDTvxV1) | 8:16 | 2019-12-11 | 2021-06-05 |
 | [Eagles](https://open.spotify.com/track/3q4gmVrPTMPL8tDrNFFLmu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Eagles](https://open.spotify.com/album/687LI57BvGEzBP2lvCmk0D) | 5:07 | 2019-08-06\* | 2020-10-21 |
@@ -353,7 +354,7 @@
 | [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 | 2025-05-25 |
 | [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 | 2025-01-31 |  |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
-| [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
+| [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 | 2025-09-29 |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-08-30 |  |
 | [Lilith](https://open.spotify.com/track/6yx9zRTFM0zvz9l1YBjnNj) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Lilith](https://open.spotify.com/album/4RDyC7MPQMpyHEVm584kQD) | 8:37 | 2019-09-27 | 2021-06-04 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2019-08-06\* | 2021-05-27 |

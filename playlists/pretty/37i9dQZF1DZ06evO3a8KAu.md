@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,831 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,834 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 41 | [Entre Mas Te Miro](https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:39 |
 | 42 | [Tenía Que Ser Así](https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:11 |
 | 43 | [Toditos Somos Iguales](https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:35 |
-| 44 | [Contigo](https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:46 |
-| 45 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:36 |
+| 44 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:36 |
+| 45 | [Contigo](https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:46 |
 | 46 | [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 |
 | 47 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 |
 | 48 | [Gracias Mamá](https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Gracias Mamá](https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W) | 3:09 |
 | 49 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
 | 50 | [Borrachos Por Amor](https://open.spotify.com/track/756car8F1QRXlZBmafNRcV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:22 |
 
-Snapshot ID: `aNXXgAAAAACYqqg1PE4QQ+pvioFN0P+K`
+Snapshot ID: `aNcpAAAAAABS6QuHB7SCVF2o6FmNNSG/`

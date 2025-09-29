@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,076 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,098 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 35 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 |
 | 36 | [Regalo Caro](https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo) | 3:17 |
 | 37 | [El Corrido de Ramiro Quiroz](https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las + Tocadas](https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv) | 3:00 |
-| 38 | [Aguanta Corazón](https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1) | [Carlo Mora](https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguanta Corazón](https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb) | 2:14 |
-| 39 | [De Nada Sirvió](https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:58 |
+| 38 | [De Nada Sirvió](https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:58 |
+| 39 | [Aguanta Corazón](https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1) | [Carlo Mora](https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguanta Corazón](https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb) | 2:14 |
 | 40 | [Me Regalo Contigo](https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:07 |
-| 41 | [Entre La Vida Y La Muerte](https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Serie Diamante\-15 Súper Éxitos](https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR) | 3:18 |
-| 42 | [Que Dios Me Perdone](https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Más Pegadas](https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc) | 2:48 |
+| 41 | [Que Dios Me Perdone](https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Más Pegadas](https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc) | 2:48 |
+| 42 | [Entre La Vida Y La Muerte](https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Serie Diamante\-15 Súper Éxitos](https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR) | 3:18 |
 | 43 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 |
 | 44 | [Pero María](https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:07 |
 | 45 | [Flor de Dalia](https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Exitos Vol\. 1](https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 |
 | 50 | [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 |
 
-Snapshot ID: `aNXXgAAAAABseG3A/Kbfe8mmXnYwxFUb`
+Snapshot ID: `aNcpAAAAAAD+AceYrSzj89K9OBqTYZgQ`

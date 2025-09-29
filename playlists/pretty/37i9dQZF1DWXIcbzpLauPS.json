@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore. where brutality and technicality collide. Cover: We Came As Romans",
-  "num_followers": 944689,
+  "num_followers": 944606,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
+        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
+        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
+      },
+      "artists": [
+        {
+          "name": "Autumn Kings",
+          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
+        }
+      ],
+      "duration_ms": 216716,
+      "name": "SLEEP WHEN I\u2019M DEAD",
+      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
         "name": "Silk & Static",
         "url": "https://open.spotify.com/album/75jOtFQtV3xOtM5PDTXf8X"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 198666,
       "name": "one by one",
       "url": "https://open.spotify.com/track/4vWjhclo8wnfpllXhiefxx"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
-        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
-      },
-      "artists": [
-        {
-          "name": "Autumn Kings",
-          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
-        }
-      ],
-      "duration_ms": 216716,
-      "name": "SLEEP WHEN I\u2019M DEAD",
-      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1287,38 +1287,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "The End Aesthetic",
-        "url": "https://open.spotify.com/album/3VwIw2ich9nLzzwPBMeU0g"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 232223,
-      "name": "The End Aesthetic",
-      "url": "https://open.spotify.com/track/0Q7KGor0cF0vO2x2Gs0xyp"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "bad luck",
-        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 245767,
-      "name": "bad luck",
-      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "Soft Spine",
         "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
       },
@@ -1331,6 +1299,22 @@
       "duration_ms": 183990,
       "name": "Soft Spine",
       "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "The End Aesthetic",
+        "url": "https://open.spotify.com/album/3VwIw2ich9nLzzwPBMeU0g"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 232223,
+      "name": "The End Aesthetic",
+      "url": "https://open.spotify.com/track/0Q7KGor0cF0vO2x2Gs0xyp"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1351,6 +1335,22 @@
       "duration_ms": 201120,
       "name": "Don't Talk",
       "url": "https://open.spotify.com/track/5KWVqP6ooLAgmbwJnVol9D"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 245767,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Perfect Soul",
-        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "Perfect Soul",
-      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "Victim",
         "url": "https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 261487,
       "name": "Victim",
       "url": "https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "Hiding In Plain Sight",
         "url": "https://open.spotify.com/album/3WXl0Tv7jMZBhRSJLWEqxI"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 240652,
       "name": "Hiding In Plain Sight",
       "url": "https://open.spotify.com/track/3EIBXSn6RpBdtyvb6G7UPw"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "DYSTOPIA",
-        "url": "https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 277201,
-      "name": "DYSTOPIA",
-      "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "CURSED (The Complete Edition)",
         "url": "https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 201426,
       "name": "I Am A Cursed One",
       "url": "https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 277201,
+      "name": "DYSTOPIA",
+      "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "easy exit",
-        "url": "https://open.spotify.com/album/6OD6jUCnzQBfROD6EHKW0H"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        },
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 213353,
-      "name": "easy exit",
-      "url": "https://open.spotify.com/track/7KNgLQgOlCmmtXVWd4K7Pa"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "Make Me Disappear",
         "url": "https://open.spotify.com/album/3mb0O9XNCcmWUWBzgsyQEP"
       },
@@ -1683,54 +1663,6 @@
       "duration_ms": 203667,
       "name": "Make Me Disappear",
       "url": "https://open.spotify.com/track/3EdP6zXUdiqg4135AtFoCI"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "Begin The Sacrifice",
-        "url": "https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 238636,
-      "name": "Begin The Sacrifice",
-      "url": "https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "HUMAN=KIND",
-        "url": "https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x"
-      },
-      "artists": [
-        {
-          "name": "PINKNOISE",
-          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
-        }
-      ],
-      "duration_ms": 191874,
-      "name": "WHY ARE WE CALLING IT LOVE?",
-      "url": "https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "The Darkest Place I've Ever Been",
-        "url": "https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 240868,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1751,18 +1683,54 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+        "name": "easy exit",
+        "url": "https://open.spotify.com/album/6OD6jUCnzQBfROD6EHKW0H"
       },
       "artists": [
         {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        },
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
         }
       ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+      "duration_ms": 213353,
+      "name": "easy exit",
+      "url": "https://open.spotify.com/track/7KNgLQgOlCmmtXVWd4K7Pa"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "HUMAN=KIND",
+        "url": "https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x"
+      },
+      "artists": [
+        {
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+        }
+      ],
+      "duration_ms": 191874,
+      "name": "WHY ARE WE CALLING IT LOVE?",
+      "url": "https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Begin The Sacrifice",
+        "url": "https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 238636,
+      "name": "Begin The Sacrifice",
+      "url": "https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1779,6 +1747,38 @@
       "duration_ms": 242809,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/7pbnndpH911zmnBfInjD1u"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "The Darkest Place I've Ever Been",
+        "url": "https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 240868,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Give Me A Show",
-        "url": "https://open.spotify.com/album/4fWzo6lZQ8QXO4SbdkVKSE"
-      },
-      "artists": [
-        {
-          "name": "Holywatr",
-          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
-        }
-      ],
-      "duration_ms": 285384,
-      "name": "Give Me A Show",
-      "url": "https://open.spotify.com/track/23YRAhmu6XEahPahM7EJvh"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "Hit It!",
         "url": "https://open.spotify.com/album/7jcC7erlgmd9QbhooPY4bt"
       },
@@ -1839,6 +1823,22 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
+        "name": "Give Me A Show",
+        "url": "https://open.spotify.com/album/4fWzo6lZQ8QXO4SbdkVKSE"
+      },
+      "artists": [
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "duration_ms": 285384,
+      "name": "Give Me A Show",
+      "url": "https://open.spotify.com/track/23YRAhmu6XEahPahM7EJvh"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
         "name": "Wrath",
         "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
       },
@@ -1851,26 +1851,6 @@
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "Overdose (feat. Blindside)",
-        "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        },
-        {
-          "name": "Blindside",
-          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "Overdose - feat. Blindside",
-      "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1895,34 +1875,22 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/0V5YauW5H7qqrlJuRqgLIN"
+        "name": "Overdose (feat. Blindside)",
+        "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 215959,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4stlvMMftU1rkS5onjmB38"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "Inner Sanctum",
-        "url": "https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L"
-      },
-      "artists": [
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
         {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
         }
       ],
-      "duration_ms": 229470,
-      "name": "Inner Sanctum",
-      "url": "https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3"
+      "duration_ms": 187862,
+      "name": "Overdose - feat. Blindside",
+      "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -1943,6 +1911,38 @@
       "duration_ms": 211384,
       "name": "unnatural order",
       "url": "https://open.spotify.com/track/0jOLel6xMyZwPFRzQ7byfp"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Inner Sanctum",
+        "url": "https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 229470,
+      "name": "Inner Sanctum",
+      "url": "https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/0V5YauW5H7qqrlJuRqgLIN"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 215959,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4stlvMMftU1rkS5onjmB38"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "no rest for the dreamer",
-        "url": "https://open.spotify.com/album/4XdijybRm85vm6RZZGNg3v"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "no rest for the dreamer",
-      "url": "https://open.spotify.com/track/0qCdxP1pLL3a5qdOBTasDT"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "Break Through the Surface",
         "url": "https://open.spotify.com/album/1MB3h7FxSqORVK421hB5pL"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 155200,
       "name": "Break Through the Surface",
       "url": "https://open.spotify.com/track/6dGR23JyiwXLGL2JMQLxZH"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "no rest for the dreamer",
+        "url": "https://open.spotify.com/album/4XdijybRm85vm6RZZGNg3v"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "no rest for the dreamer",
+      "url": "https://open.spotify.com/track/0qCdxP1pLL3a5qdOBTasDT"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Lonely God",
-        "url": "https://open.spotify.com/album/4WHoqXOY0kPwtiHK9Xcg19"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 197576,
-      "name": "Lonely God",
-      "url": "https://open.spotify.com/track/5cNupHw6WZMRfFHTqsoACU"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "they\u2019re all around us",
         "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
       },
@@ -2339,18 +2323,18 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/0motcONJsfhElYdP1r0hcQ"
+        "name": "Lonely God",
+        "url": "https://open.spotify.com/album/4WHoqXOY0kPwtiHK9Xcg19"
       },
       "artists": [
         {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 245941,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/0VOwatDTO6LFwZQgsUMY8N"
+      "duration_ms": 197576,
+      "name": "Lonely God",
+      "url": "https://open.spotify.com/track/5cNupHw6WZMRfFHTqsoACU"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -2371,6 +2355,22 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/0motcONJsfhElYdP1r0hcQ"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 245941,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/0VOwatDTO6LFwZQgsUMY8N"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
         "name": "mallxcore",
         "url": "https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu"
       },
@@ -2387,50 +2387,18 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/0O2SirOLrTgeR090nKsXKO"
+        "name": "Bleeding Star",
+        "url": "https://open.spotify.com/album/3OJy1H2OZSIv8QvAhKfMj2"
       },
       "artists": [
         {
-          "name": "From Fall to Spring",
-          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+          "name": "Kingdom Of Giants",
+          "url": "https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe"
         }
       ],
-      "duration_ms": 191680,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/35MyLnfHifLWW15xh2OneJ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "face.",
-        "url": "https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "face.",
-      "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
-        "name": "No Loss, No Love",
-        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "No Loss, No Love",
-      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
+      "duration_ms": 199372,
+      "name": "Scorpion",
+      "url": "https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -2451,6 +2419,54 @@
       "duration_ms": 184994,
       "name": "TECHNIUM",
       "url": "https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/0O2SirOLrTgeR090nKsXKO"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/35MyLnfHifLWW15xh2OneJ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "No Loss, No Love",
+        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "face.",
+        "url": "https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "face.",
+      "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
     },
     {
       "added_at": "2025-09-26 04:00:34",
@@ -2507,22 +2523,6 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Bleeding Star",
-        "url": "https://open.spotify.com/album/3OJy1H2OZSIv8QvAhKfMj2"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Of Giants",
-          "url": "https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe"
-        }
-      ],
-      "duration_ms": 199372,
-      "name": "Scorpion",
-      "url": "https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN"
-    },
-    {
-      "added_at": "2025-09-26 04:00:34",
-      "album": {
         "name": "I Brought You My Soul (Your World Brought Me Despair)",
         "url": "https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd"
       },
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "Thanks For Nothing",
-        "url": "https://open.spotify.com/album/2rTr503ollPifDLec3kyea"
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
       },
       "artists": [
         {
-          "name": "Dead Eyes",
-          "url": "https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2"
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
         }
       ],
-      "duration_ms": 222382,
-      "name": "Thanks For Nothing",
-      "url": "https://open.spotify.com/track/2xcG0Df2Q1MlAtPF4yP6BG"
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
     }
   ],
   "unique_name": "The Core",

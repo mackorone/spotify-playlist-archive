@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Darlene Zschech
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,533 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,807 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 51 | [Famous For \(I Believe\)](https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 4:02 |
 | 52 | [Revelation Song](https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf) | 6:01 |
 | 53 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
-| 54 | [We Believe](https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Restart](https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl) | 4:21 |
-| 55 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
+| 54 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
+| 55 | [We Believe](https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Restart](https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl) | 4:21 |
 | 56 | [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 |
-| 57 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
-| 58 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
-| 59 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
-| 60 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 |
+| 57 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
+| 58 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
+| 59 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 |
+| 60 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
 | 61 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 62 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
 | 63 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 72 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 73 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 74 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
-| 75 | [He Reigns](https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Adoration](https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig) | 4:55 |
-| 76 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
-| 77 | [Protector \- Live](https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Protector \(Live\)](https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu) | 6:48 |
-| 78 | [You Are Holy \(Prince Of Peace\)](https://open.spotify.com/track/1gUoaZkPi7vMZdxMlGsGOw) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [The Second Decade 1993\-2003](https://open.spotify.com/album/6jyFDjBUZk1CgirjSOTh8s) | 5:20 |
+| 75 | [Protector \- Live](https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Protector \(Live\)](https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu) | 6:48 |
+| 76 | [He Reigns](https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Adoration](https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig) | 4:55 |
+| 77 | [You Are Holy \(Prince Of Peace\)](https://open.spotify.com/track/1gUoaZkPi7vMZdxMlGsGOw) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [The Second Decade 1993\-2003](https://open.spotify.com/album/6jyFDjBUZk1CgirjSOTh8s) | 5:20 |
+| 78 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 79 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 80 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
 | 81 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 |
 | 100 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
 
-Snapshot ID: `AAAAAM/RQPgZM1SiHstQS1KI16aYk+Rz`
+Snapshot ID: `AAAAADY19Jnw3jsfeitIjvuE92lBIbVL`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAD3XmkPvQacZ7yU2EKg2pBl",
+  "snapshot_id": "aNcpAAAAAABtNaQFZjmZRExJ9DDKpWU5",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 143333,
-      "name": "Silver Threads and Golden Needles",
-      "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -543,18 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+      "duration_ms": 143333,
+      "name": "Silver Threads and Golden Needles",
+      "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Like a Butterfly",
+        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Like a Butterfly",
-        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
     },
     {
       "added_at": null,

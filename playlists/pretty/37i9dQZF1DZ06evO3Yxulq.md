@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,363 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,362 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 32 | [Magnifico](https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:08 |
 | 33 | [Incontrolable Amor](https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 5:39 |
 | 34 | [Para Mí Es Solo Cristo](https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 7:47 |
-| 35 | [Más Alto Honor](https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:50 |
-| 36 | [El Gran Nombre del Señor](https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 4:29 |
-| 37 | [Como Dijiste](https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:32 |
+| 35 | [Eterno \(Con Cuando los Santos Marchen Ya\)](https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 6:02 |
+| 36 | [Como Dijiste](https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:32 |
+| 37 | [El Gran Nombre del Señor](https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 4:29 |
 | 38 | [Ruge](https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:27 |
-| 39 | [Eterno \(Con Cuando los Santos Marchen Ya\)](https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 6:02 |
+| 39 | [Más Alto Honor](https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:50 |
 | 40 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
 | 41 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 42 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY) | 4:31 |
 | 50 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 |
 
-Snapshot ID: `aNXXgAAAAAA3hX8CsNYN0x+2pIC3sfEv`
+Snapshot ID: `aNcpAAAAAACGEhAbLetFnwqCPwcDQQZ6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,648 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,658 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 20 | [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 |
 | 21 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
 | 22 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
-| 23 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
-| 24 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
+| 23 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
+| 24 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
 | 25 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
 | 26 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 27 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 42 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 43 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 |
 | 44 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
-| 45 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 45 | [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
 | 46 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 47 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 |
-| 48 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
-| 49 | [Raintalk](https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Raintalk](https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi) | 3:17 |
-| 50 | [Dooriyan](https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/4BOujWmDMwZosg7mvW0Y9x) | 3:59 |
+| 48 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 49 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
+| 50 | [Raintalk](https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Raintalk](https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi) | 3:17 |
 
 Snapshot ID: `AAAAAEzGFzM0dlSMzDBrMJ7OHH+mzVVR`

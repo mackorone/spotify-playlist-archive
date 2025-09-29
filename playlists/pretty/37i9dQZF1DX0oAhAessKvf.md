@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,434 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,450 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 15 | [La Danza Bella](https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:19 |
 | 16 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
 | 17 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
-| 18 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
-| 19 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
+| 18 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
+| 19 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
 | 20 | [El Meneaito \(Panama\)](https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 3:41 |
 | 21 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |
 | 22 | [Mujeres](https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy](https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo) | 2:52 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 37 | [Ansias](https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:55 |
 | 38 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
 | 39 | [Sabanas Blancas](https://open.spotify.com/track/5KF17ePUmiBbS6IEKu5gQL) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
-| 40 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
-| 41 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
+| 40 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
+| 41 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 42 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
 | 43 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
 | 44 | [Interlude \- Don Che Tra Mix](https://open.spotify.com/track/6CBjYv25BAXI0cyPuHwnRI) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:38 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 57 | [Me Arrepiento](https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:26 |
 | 58 | [Baila El Mambo](https://open.spotify.com/track/31tEgzedhAb2zllml0m50n) | [Notty Play](https://open.spotify.com/artist/1m5LVKalSAbpqNSOLGwCkr) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:14 |
 | 59 | [Un Nnuevo Estilo](https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:29 |
-| 60 | [Voltio \(Live\)](https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [No Fear Live](https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f) | 3:01 |
-| 61 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 |
+| 60 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 |
+| 61 | [Voltio \(Live\)](https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [No Fear Live](https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f) | 3:01 |
 | 62 | [Outro \- Vamos A Darle Slow](https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3) | [El Hombre Tra](https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:23 |
 | 63 | [Tira Un Ritmo Sandunguero](https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5) | [Great Kilo](https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:56 |
 | 64 | [Unknown \(Hector & Tito / Gargolas 1\)](https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Gargolas 1](https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In) | 2:08 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 66 | [Intro \- Soy El Sandunguero](https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:27 |
 | 67 | [Callate](https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S) | [Dj Gian](https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw) | [DJ Joe presenta: A Mover...](https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6) | 3:14 |
 | 68 | [San Yó!](https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
-| 69 | [Me No Like Rikers Island](https://open.spotify.com/track/71P4eSrTusKY3C2pnmQVSm) | [Cocoa\-Tea, Nardo Ranks](https://open.spotify.com/artist/722YGC8Lz3tBJaWiAnC1kP) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:01 |
-| 70 | [Bailen](https://open.spotify.com/track/4tT8ryAtyKDAlSD0aJ97Pj) | [Jenay](https://open.spotify.com/artist/4kejafUkN53v2HsYzMhgaJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:30 |
+| 69 | [Bailen](https://open.spotify.com/track/4tT8ryAtyKDAlSD0aJ97Pj) | [Jenay](https://open.spotify.com/artist/4kejafUkN53v2HsYzMhgaJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:30 |
+| 70 | [Me No Like Rikers Island](https://open.spotify.com/track/71P4eSrTusKY3C2pnmQVSm) | [Cocoa\-Tea, Nardo Ranks](https://open.spotify.com/artist/722YGC8Lz3tBJaWiAnC1kP) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:01 |
 | 71 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 |
 | 72 | [Unknown \(Alberto Sytle / Gargolas 1\)](https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta) | [Alberto Style](https://open.spotify.com/artist/4xm2t02dUpgQSXbUmPeETU) | [Gargolas 1](https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In) | 3:12 |
 | 73 | [Vamos Alla](https://open.spotify.com/track/4Ircf7uE0Jd5Zfg18iVUzy) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:29 |

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Lobo Herido",
+        "url": "https://open.spotify.com/album/6iCIFwmkD2dPZhD3UwaZGG"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Borracho Te Recuerdo",
+      "url": "https://open.spotify.com/track/2tICgKCcfgufj9vtfwJ63m"
+    },
+    {
+      "album": {
         "name": "Con Un Mismo Corazon",
         "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 178440,
       "name": "Los Mandados",
       "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,343 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,378 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 78 | [Pero Qué Necesidad](https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pero Qué Necesidad](https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w) | 3:10 |
 | 79 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
 | 80 | [Palomita / Olguita / Engañadora / Mi Gran Amor \(En Vivo\)](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
-| 81 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
-| 82 | [Mariposa Del Dolor](https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ILag Keins](https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y) | [Mariposa Del Dolor](https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg) | 4:13 |
+| 81 | [Mariposa Del Dolor](https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ILag Keins](https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y) | [Mariposa Del Dolor](https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg) | 4:13 |
+| 82 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
 | 83 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 | 84 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
 | 85 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |

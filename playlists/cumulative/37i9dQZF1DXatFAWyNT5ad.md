@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-890 songs - 1 day 21 hr 47 min
+891 songs - 1 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Elephant In The Room](https://open.spotify.com/track/1cmkY5LNyHpESfwiQ1SH9v) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Elephant In The Room](https://open.spotify.com/album/5W0GraoGsDmTE020ZtiNA1) | 2:39 | 2022-11-11 | 2023-03-18 |
 | [Elephant In The Room](https://open.spotify.com/track/22jyNqimPlWBKDJQ76wqQ5) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Elephant In The Room](https://open.spotify.com/album/3kwAcIMBpwgQLfZNNrSvnQ) | 2:39 | 2022-03-24 | 2022-04-21 |
 | [Elizabeth](https://open.spotify.com/track/2a84nQl1QLtqignur40m1I) | [STRUAN](https://open.spotify.com/artist/2HMnTx5HskhESJ4x5jVPyb) | [Elizabeth](https://open.spotify.com/album/65iANnmULuO8SvsH8ObeDE) | 3:32 | 2022-03-24 | 2022-04-21 |
+| [Emerald](https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Emerald](https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36) | 3:18 | 2025-09-26 |  |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-03-17 | 2022-07-29 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-07 | 2023-03-25 |
 | [Empty Bottles \(feat\. MOD SUN\)](https://open.spotify.com/track/2j9UWkSA9T4mUAXrcBi2Fr) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Empty Bottles \(feat\. MOD SUN\)](https://open.spotify.com/album/46VxhQQYo7t1R3FCKdMsp3) | 2:36 | 2022-03-17 | 2022-07-29 |
@@ -548,7 +549,7 @@
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-25 |  |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-03-17 | 2023-05-23 |
 | [Moments](https://open.spotify.com/track/1jQl9VPQjB3FsEQAUnPgWU) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [Moments](https://open.spotify.com/album/70IiZhyldR4WR88Nyudi3P) | 3:35 | 2022-03-24 | 2022-04-21 |
-| [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-23 |  |
+| [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-23 | 2025-09-29 |
 | [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2024-03-08 | 2025-09-22 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-06-17 |
 | [Monster](https://open.spotify.com/track/6Wl7eKrZdQtobWOYbLI47J) | [Casey Lowry](https://open.spotify.com/artist/6g01TPprAdALKCjAwBYPH1) | [Nervous](https://open.spotify.com/album/7gK6jXAO3V7f3nDcQM2Wlf) | 3:01 | 2022-03-24 | 2022-04-18 |

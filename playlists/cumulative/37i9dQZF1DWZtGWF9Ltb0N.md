@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-843 songs - 2 day 7 hr 11 min
+844 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 | 2025-08-15 |  |
 | [Goblin \- 2024 Remaster](https://open.spotify.com/track/0EikGhoWleZXxtwJNUXtVy) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Goblin \(2024 Remaster & Hamdi Remix\)](https://open.spotify.com/album/6VV7XaCfPKDjwBT9tnA2TY) | 4:36 | 2024-09-13 | 2024-10-26 |
 | [Godless](https://open.spotify.com/track/34tVJbdGRbYzmphqiGVjAd) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [The Lower World](https://open.spotify.com/album/2hpPyPFwpyxZUPpVkou6sI) | 3:40 | 2025-05-23 |  |
+| [Gold](https://open.spotify.com/track/6Xx6KRpa03FgxyLy1H11XY) | [Ashez](https://open.spotify.com/artist/4EmkjZuqatnvAygxt3a3tC), [Heirz](https://open.spotify.com/artist/2CWuVGqUPw2faiFp5CZ5Xi) | [Gold](https://open.spotify.com/album/1odNlkdv4scCJk8DW5rZkO) | 3:53 | 2025-09-26 |  |
 | [Gom Jabbar](https://open.spotify.com/track/0TQV90JKk7IyHcjI29TKo3) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Gom Jabbar](https://open.spotify.com/album/6djHuRoajtBmvj8hNCzQUi) | 2:44 | 2024-12-13 |  |
 | [Good Day](https://open.spotify.com/track/16EHRzGqzzhNTiUpMx5r8n) | [Maddman](https://open.spotify.com/artist/7GCPF7s0Ud25ptkmIAKpqQ) | [Good Day](https://open.spotify.com/album/4CvS5NDYdK1wLZUN7MJQja) | 6:24 | 2022-02-17 | 2022-04-09 |
 | [Goodfella](https://open.spotify.com/track/0XGcSFfyc2NYxVOEOJu2l9) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Goodfella](https://open.spotify.com/album/0k4R6MfemjcCUxwnldFsex) | 3:15 | 2024-10-25 | 2024-12-14 |
@@ -683,7 +684,7 @@
 | [Spear Dub](https://open.spotify.com/track/75wuEqw0J9eGyXiKi9aZzm) | [DubDiggerz](https://open.spotify.com/artist/48VBzyr90iGZSYmQd0uRRl) | [Spear Dub](https://open.spotify.com/album/59jfCrTfAPH2qti0ZNe63p) | 5:32 | 2022-02-17 | 2022-07-29 |
 | [Special Delivery](https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Special Delivery](https://open.spotify.com/album/6VQQqcpH9HgXdIRl95wsWZ) | 3:47 | 2023-09-15 |  |
 | [Spenk](https://open.spotify.com/track/3VdvyE4glqXT5MtL7PKkyK) | [Aweminus](https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [Spenk](https://open.spotify.com/album/7nGjjRLeM4rDzDdWylsL9H) | 4:36 | 2025-08-29 |  |
-| [Spine](https://open.spotify.com/track/1Hms7YOiUhcfICk4IjeS0o) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Spine](https://open.spotify.com/album/2eTaMkVXER0MYqEaNljMe4) | 3:27 | 2025-01-31 |  |
+| [Spine](https://open.spotify.com/track/1Hms7YOiUhcfICk4IjeS0o) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Spine](https://open.spotify.com/album/2eTaMkVXER0MYqEaNljMe4) | 3:27 | 2025-01-31 | 2025-09-29 |
 | [Spook'em](https://open.spotify.com/track/6gHCnGXo5FwyMhM97JQ0OH) | [Rygby](https://open.spotify.com/artist/4JYWD2cPpCgnXE1T3lhKg9) | [ENC021](https://open.spotify.com/album/5Mn6vzceZIbtSbuVMj9zRO) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Spooky Dub](https://open.spotify.com/track/0FhXQww4gwk4AxW01BgYYg) | [MR.K](https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G) | [Holdin' EP](https://open.spotify.com/album/2TR8HDuIlwwLeLONBqISKS) | 4:37 | 2022-02-17 | 2022-07-30 |
 | [Squeal](https://open.spotify.com/track/5g3m7cRXK6yNogRTooE5sS) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [The Keepsake Collection](https://open.spotify.com/album/29tm6UrmcfIfgndF44WklM) | 2:28 | 2024-12-13 | 2025-05-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3915477,
+  "num_followers": 3915135,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "Holding On To You",
         "url": "https://open.spotify.com/album/6VvZQ2f9QdblEkGsbngGmW"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 226352,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 275010,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Loveless (George FitzGerald Remix)",
-        "url": "https://open.spotify.com/album/2UO2UtgxrTozLMUrKOTc2E"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 217298,
-      "name": "Loveless - George FitzGerald Remix",
-      "url": "https://open.spotify.com/track/0zng0Xfmmx2RWykbd0s7Zx"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "Out Of Ten (Shingo Nakamura & before saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -1135,6 +1115,42 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Loveless (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/2UO2UtgxrTozLMUrKOTc2E"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 217298,
+      "name": "Loveless - George FitzGerald Remix",
+      "url": "https://open.spotify.com/track/0zng0Xfmmx2RWykbd0s7Zx"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Teahupoo",
+        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Teahupoo",
+      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Teahupoo",
-        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Teahupoo",
-      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 230035,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
-        "name": "1973",
-        "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        },
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 285595,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1295,6 +1275,26 @@
       "duration_ms": 207609,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "1973",
+        "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 285595,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Bigger Than All Of Us",
-        "url": "https://open.spotify.com/album/69Ci2CvI5ayPqzSVAFClos"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
-        }
-      ],
-      "duration_ms": 262180,
-      "name": "Bigger Than All Of Us",
-      "url": "https://open.spotify.com/track/4bzdeTvjrJZK4E6kLs7zm1"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 313064,
       "name": "Sunrise (feat. Madeline Megery)",
       "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Bigger Than All Of Us",
+        "url": "https://open.spotify.com/album/69Ci2CvI5ayPqzSVAFClos"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 262180,
+      "name": "Bigger Than All Of Us",
+      "url": "https://open.spotify.com/track/4bzdeTvjrJZK4E6kLs7zm1"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "Wanna Know",
         "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 218709,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Dark In This Room",
-        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Dark In This Room",
-      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+      "duration_ms": 238065,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1843,18 +1843,38 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
       },
       "artists": [
         {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        },
+        {
+          "name": "Alessandro Martire",
+          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
         }
       ],
-      "duration_ms": 238065,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
+      "duration_ms": 162786,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
+    },
+    {
+      "added_at": "2025-09-26 04:00:41",
+      "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
       "added_at": "2025-09-26 04:00:41",
@@ -1875,22 +1895,6 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Care 4 U",
-        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Care 4 U",
-      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
-    },
-    {
-      "added_at": "2025-09-26 04:00:41",
-      "album": {
         "name": "My Reflection",
         "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
       },
@@ -1907,22 +1911,26 @@
     {
       "added_at": "2025-09-26 04:00:41",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0LjOwDYvZGhQ6qcjy49ijr"
       },
       "artists": [
         {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
         },
         {
-          "name": "Alessandro Martire",
-          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Afnan Prince",
+          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
         }
       ],
-      "duration_ms": 162786,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
+      "duration_ms": 259512,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav"
     }
   ],
   "unique_name": "Chill Tracks",

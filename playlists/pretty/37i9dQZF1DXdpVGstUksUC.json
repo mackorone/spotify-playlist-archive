@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tumuli Schroomaroom",
-        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
-      },
-      "artists": [
-        {
-          "name": "Acrimony",
-          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
-        }
-      ],
-      "duration_ms": 599683,
-      "name": "Heavy Feather",
-      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Run Run Run Run Run",
         "url": "https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 329833,
       "name": "Run Run Run Run Run",
       "url": "https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tumuli Schroomaroom",
+        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
+      },
+      "artists": [
+        {
+          "name": "Acrimony",
+          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
+        }
+      ],
+      "duration_ms": 599683,
+      "name": "Heavy Feather",
+      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
     },
     {
       "added_at": "2024-07-19 04:00:00",

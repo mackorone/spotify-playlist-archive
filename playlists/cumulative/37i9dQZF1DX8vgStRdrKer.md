@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-603 songs - 2 day 1 hr 1 min
+604 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [ALL I WANT](https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [ALL I WANT](https://open.spotify.com/album/1ZdTVup0DzP4t5rrPmzERY) | 3:06 | 2025-06-27 | 2025-08-04 |
 | [All Night Prayer](https://open.spotify.com/track/1hZaoh4wKbi2XKkWKYav85) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Condoseven](https://open.spotify.com/artist/20rqbefynSHHd079In5Ipa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [All Night Prayer](https://open.spotify.com/album/5KlJitZ9pta6sZNNAHR94C) | 2:30 | 2025-09-19 |  |
 | [All Over The World](https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [All Over The World](https://open.spotify.com/album/2WW74ORHcfnmasd6ROZOlK) | 3:06 | 2024-07-19 | 2024-09-27 |
-| [All Powerful](https://open.spotify.com/track/3ajMxkGIalFItWrXuEf9YS) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [The Pursuit](https://open.spotify.com/album/4c1ujaYiWGsU3qFsKmu8rv) | 7:49 | 2025-09-05 |  |
+| [All Powerful](https://open.spotify.com/track/3ajMxkGIalFItWrXuEf9YS) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [The Pursuit](https://open.spotify.com/album/4c1ujaYiWGsU3qFsKmu8rv) | 7:49 | 2025-09-05 | 2025-09-29 |
 | [All The Way](https://open.spotify.com/track/5xoTK2L3G7eLbUdHo4TnpU) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8), [Tite Tunez](https://open.spotify.com/artist/4kkaELRqmzjvexnCIKPyBT) | [All The Way](https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB) | 3:07 | 2025-06-06 | 2025-06-27 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 | 2025-06-06 |
@@ -127,6 +127,7 @@
 | [E Chowque](https://open.spotify.com/track/48ecJGfnBKDLF8oUd2h1mJ) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Logik Tha Pro](https://open.spotify.com/artist/6grOJlyvUhDYrgBKZMAa45) | [E Chowque](https://open.spotify.com/album/0LazgqYvydovjWD0caIImX) | 2:24 | 2025-07-04 | 2025-07-29 |
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-04-19 |
 | [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 |  |
+| [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-09-15 | 2024-03-16 |
 | [Ebenezer \- Live](https://open.spotify.com/track/0LrmJpJOK9k3Ob0oueMxEv) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Ebenezer \(Live\)](https://open.spotify.com/album/5Ijn49UMMcX4QETIQEQz1T) | 5:02 | 2024-02-02 | 2025-05-30 |
 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 | 2024-07-12 | 2025-06-06 |

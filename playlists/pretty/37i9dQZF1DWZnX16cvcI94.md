@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,918 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,019 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 42 | [Bien Loco](https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ) | [Nova y Jory](https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V) | [Bien Loco](https://open.spotify.com/album/6IgRN2hP7uOTeZmL7np7Kd) | 3:38 |
 | 43 | [Lejos de Aquí](https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:41 |
 | 44 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 |
-| 45 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
-| 46 | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O) | 4:16 |
+| 45 | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O) | 4:16 |
+| 46 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
 | 47 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 |
 | 48 | [Na De Na](https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN) | 3:22 |
 | 49 | [Métele Sazón](https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 4:02 |

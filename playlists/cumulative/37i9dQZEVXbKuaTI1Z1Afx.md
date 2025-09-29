@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,382 songs - 9 day 18 hr 57 min
+4,383 songs - 9 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,7 +801,8 @@
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-04-08 | 2025-04-11 |
 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 | 2022-07-14 | 2022-07-16 |
 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 | 2022-07-24 | 2022-07-30 |
-| [Confess Your Love](https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO) | 2:11 | 2025-08-22 |  |
+| [Confess Your Love](https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO) | 2:11 | 2025-08-22 | 2025-09-29 |
+| [Confess Your Love](https://open.spotify.com/track/0WHDl4ekiXAgW3ZjmXFvmV) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/61nq049Q0X3nkF05dOqNOa) | 2:11 | 2025-09-28 |  |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-11-09 | 2024-01-18 |
 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 | 2024-01-14 | 2024-01-24 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-03-05 | 2024-03-10 |
@@ -2304,7 +2305,7 @@
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-12 | 2023-11-01 |
 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 | 2025-08-24 | 2025-09-11 |
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-07-15 | 2025-08-25 |
-| [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2023-06-03 |  |
+| [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2023-06-03 | 2025-09-29 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-28 | 2024-01-31 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-01-03 | 2023-01-16 |
 | [LOW ROAD](https://open.spotify.com/track/0F6OsjUyPSAe9rW8rvKTt2) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [LOW ROAD](https://open.spotify.com/album/7bTYNAn3WjO52LSwt6Jomi) | 2:57 | 2024-09-17 | 2024-10-04 |
@@ -3784,7 +3785,7 @@
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-03-01 | 2022-05-04 |
 | [The Rumbling \(TV Size\)](https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling \(TV Size\)](https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu) | 1:30 | 2022-02-01 | 2022-03-02 |
 | [The Scuttlebutt](https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt) | [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 2:01 | 2023-06-13 | 2023-06-28 |
-| [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-19 | 2025-09-24 |
+| [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-19 |  |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-05-07 | 2024-05-09 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 | 2024-04-18 | 2024-04-22 |
 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 | 2024-07-02 | 2024-08-19 |

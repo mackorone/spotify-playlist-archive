@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,368 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,378 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 |
 | 50 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 |
 
-Snapshot ID: `aNXXgAAAAACw32PsgYpTD6Fn42e5oj++`
+Snapshot ID: `aNcpAAAAAADf467L8UfakPa2vhrTatjE`

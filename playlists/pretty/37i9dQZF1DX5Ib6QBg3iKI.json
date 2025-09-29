@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 142902,
+  "num_followers": 142895,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
+        "name": "Kylie Christmas",
+        "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
+      "duration_ms": 201653,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -435,22 +451,6 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Kylie Christmas",
-        "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "The Christmas Song (Merry Christmas To You) - Remastered 1999",
+      "url": "https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Loneliest Time Of Year",
         "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 216220,
       "name": "Night Before Christmas",
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "The Christmas Song (Merry Christmas To You) - Remastered 1999",
-      "url": "https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "The Very Best Of Mud",
+        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "The Very Best Of Mud",
-        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7cembgX5mpEafu9m36iw6G"
       },
       "artists": [
         {
-          "name": "Mud",
-          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+          "name": "David Essex",
+          "url": "https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf"
         }
       ],
-      "duration_ms": 213160,
-      "name": "Lonely This Christmas",
-      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
+      "duration_ms": 250826,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -679,22 +695,6 @@
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7cembgX5mpEafu9m36iw6G"
-      },
-      "artists": [
-        {
-          "name": "David Essex",
-          "url": "https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "This Christmas Day",
         "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 225040,
       "name": "This Christmas Day",
       "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Man on the Moon",
-        "url": "https://open.spotify.com/album/7ChaTXG8VLVpzQnI2tzhJ2"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 171078,
-      "name": "Man on the Moon",
-      "url": "https://open.spotify.com/track/4fIR2Qocg33dhjEVrGWAlj"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Day After Tomorrow",
         "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 221906,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Man on the Moon",
+        "url": "https://open.spotify.com/album/7ChaTXG8VLVpzQnI2tzhJ2"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 171078,
+      "name": "Man on the Moon",
+      "url": "https://open.spotify.com/track/4fIR2Qocg33dhjEVrGWAlj"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Make It Home",
-        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179309,
-      "name": "Make It Home",
-      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "christmas morning",
         "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232040,
       "name": "christmas morning",
       "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Make It Home",
+        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179309,
+      "name": "Make It Home",
+      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218465,
-      "name": "White Christmas (with Shania Twain)",
-      "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Christmas Wishes",
         "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218465,
+      "name": "White Christmas (with Shania Twain)",
+      "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Ultimate Pop Christmas",
         "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 188400,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
     },
     {
       "added_at": "2024-12-13 09:34:44",

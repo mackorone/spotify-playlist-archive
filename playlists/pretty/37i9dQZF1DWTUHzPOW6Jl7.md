@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,465 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,582 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 73 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 74 | [Survivor](https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294) | 4:14 |
 | 75 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
-| 76 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
+| 76 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
 | 77 | [Last Night](https://open.spotify.com/track/24NPziq3dayIMKppeI94Um) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Just Like You](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 4:15 |
-| 78 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
+| 78 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
 | 79 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
 | 80 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 81 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 84 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 85 | [Knock You Down](https://open.spotify.com/track/3OWcWJz1c0pIc6L3IDDhpP) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In A Perfect World...](https://open.spotify.com/album/5Ol7UcvxuzeE34MqGivc0o) | 5:26 |
 | 86 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 |
-| 87 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
-| 88 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
-| 89 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
+| 87 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
+| 88 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
+| 89 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 90 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 91 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 92 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |

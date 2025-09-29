@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,218 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,219 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 56 | [FOG](https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [FOG](https://open.spotify.com/album/7i8mmO1nVFC5WwV0aoDHwP) | 3:15 |
 | 57 | [Lajl Aldar](https://open.spotify.com/track/6Mt9xxJ9RVgvMtN7Qqguv7) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Lajl Aldar](https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB) | 2:20 |
 | 58 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
-| 59 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
-| 60 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
+| 59 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
+| 60 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
 | 61 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
 | 62 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
 | 63 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 |

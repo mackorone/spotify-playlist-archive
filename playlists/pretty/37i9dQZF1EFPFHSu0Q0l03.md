@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,861 likes - 264 songs - 17 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 264 songs - 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 153 | [Hey Rosey](https://open.spotify.com/track/4sJ48xoHPUcgWPrsvpnNrp) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:14 |
 | 154 | [Not In Kansas](https://open.spotify.com/track/3QGW4gfcvnFhOOBo1p6FKT) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 6:44 |
 | 155 | [Sleep Well Beast](https://open.spotify.com/track/1ZiCI5KyHTd1LFh4bsJ0En) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 6:33 |
-| 156 | [Gratitude](https://open.spotify.com/track/69vydy2jTCzzMNGgCVf2Pv) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 5:56 |
-| 157 | [A Cautionary Tale](https://open.spotify.com/track/45V401Bth2A0G5yh1B2irI) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 4:16 |
+| 156 | [A Cautionary Tale](https://open.spotify.com/track/45V401Bth2A0G5yh1B2irI) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 4:16 |
+| 157 | [Gratitude](https://open.spotify.com/track/69vydy2jTCzzMNGgCVf2Pv) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 5:56 |
 | 158 | [Hairpin Turns](https://open.spotify.com/track/30SPSWQRfDagq4lJ2KoaR0) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:27 |
 | 159 | [Name of God](https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:29 |
 | 160 | [So Far Around the Bend](https://open.spotify.com/track/2GPJRy7UIfZexAvOSoWUuX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Knotty Pine / So Far Around the Bend](https://open.spotify.com/album/5wFshCjP24neaGoa9XQv4T) | 3:42 |
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 263 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 264 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `Ab9YKAAAAAA0BC4+OFls0FH3hZG55UZ5`
+Snapshot ID: `Ab9d5gAAAACNLNrT1z4XmBGZWhrR9sWL`

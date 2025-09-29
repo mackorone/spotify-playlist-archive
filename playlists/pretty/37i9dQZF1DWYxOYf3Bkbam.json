@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 60047,
+  "num_followers": 60077,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Taipero Poriahu",
-      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 146320,
       "name": "Neique Chamigo",
       "url": "https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Oraci\u00f3n del Remanso",
         "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 311531,
       "name": "Oraci\u00f3n del Remanso",
       "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "P\u00e1jaro Chog\u00fc\u00ed",
-        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Dominguez",
-          "url": "https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo"
-        },
-        {
-          "name": "Raul Barboza",
-          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "P\u00e1jaro Chog\u00fc\u00ed",
-      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "P\u00e1jaro Chog\u00fc\u00ed",
+        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Dominguez",
+          "url": "https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo"
+        },
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "P\u00e1jaro Chog\u00fc\u00ed",
+      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
     },
     {
       "added_at": "2025-03-31 12:53:49",

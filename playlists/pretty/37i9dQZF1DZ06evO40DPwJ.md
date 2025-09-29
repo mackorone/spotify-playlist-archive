@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,453 likes - 44 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,458 likes - 44 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 43 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 | 44 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `aNXXgAAAAABwhqcyqA/BfPrf7aiM0WDU`
+Snapshot ID: `aNcpAAAAAADQ0DTyyOTEqwYIlezQCBAK`

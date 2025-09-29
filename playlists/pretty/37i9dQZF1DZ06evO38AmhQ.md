@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,944 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,948 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 26 | [Amazing Day](https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:12 |
 | 27 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
 | 28 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Man Emu](https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b) | 3:42 |
-| 29 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
-| 30 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
+| 29 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
+| 30 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
 | 31 | [Papa Whisky November](https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:19 |
 | 32 | [The Truckies Wife](https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 5:05 |
 | 33 | [Why They Call Him Sundown](https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 49 | [The Big Red](https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 3:47 |
 | 50 | [Keeper of the Stones](https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Chandelier of Stars](https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi) | 3:45 |
 
-Snapshot ID: `aNXXgAAAAABSxQdmHud4yF3fWnaWbG6V`
+Snapshot ID: `aNcpAAAAAADIXgsriBN1QQAvEB3JpZmf`

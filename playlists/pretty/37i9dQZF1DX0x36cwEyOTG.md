@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,122 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,017 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 26 | [Shimmering](https://open.spotify.com/track/6Hu0QQtufUG9WYDF2dig9m) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Midnattssol](https://open.spotify.com/album/3sZrEdlXLWvTSQeOcLtdmq) | 3:35 |
 | 27 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
 | 28 | [Undone](https://open.spotify.com/track/5H2Mf22OhaswQNHZwb7q5h) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 5:03 |
-| 29 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
-| 30 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
-| 31 | [I'll Come Running](https://open.spotify.com/track/1b2noys3aqkIiznUza7I6R) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:38 |
+| 29 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
+| 30 | [I'll Come Running](https://open.spotify.com/track/1b2noys3aqkIiznUza7I6R) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:38 |
+| 31 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 32 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
 | 33 | [Symmetry](https://open.spotify.com/track/5K4QD9d4XNCmCf27Oib1rp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 2:52 |
 | 34 | [Summer](https://open.spotify.com/track/7rY9qTVYJziRT87gI8KPra) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 5:22 |

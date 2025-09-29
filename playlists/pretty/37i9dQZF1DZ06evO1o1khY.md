@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,423 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,439 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 21 | [All Dere \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:56 |
 | 22 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 | 23 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
-| 24 | [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 |
-| 25 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
+| 24 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
+| 25 | [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 |
 | 26 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 27 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/6eHksHmETBULwFo0N3k562) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:39 |
 | 28 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Nut Quick](https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:38 |
 | 50 | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3) | 2:20 |
 
-Snapshot ID: `aNXXgAAAAABPmcVrUJRrOcH/cs3Yz/98`
+Snapshot ID: `aNcpAAAAAADhwsu7II6GcziyDwTG7bET`

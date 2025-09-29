@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-846 songs - 1 day 16 hr 57 min
+847 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Chances](https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Chances](https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq) | 2:44 | 2025-09-05 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2024-04-19 |
 | [Charm](https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 3:24 | 2024-04-19 | 2024-06-28 |
-| [Check & Balance](https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5) | [Synnex Music](https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB), [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9) | [Check & Balance](https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx) | 2:36 | 2025-08-25 |  |
+| [Check & Balance](https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5) | [Synnex Music](https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB), [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9) | [Check & Balance](https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx) | 2:36 | 2025-08-25 | 2025-09-29 |
 | [Choco Milo](https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Choco Milo](https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz) | 1:56 | 2025-04-18 | 2025-05-29 |
 | [Chop & Slide](https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:48 | 2022-05-05 | 2022-08-26 |
 | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 | 2023-05-11 | 2023-06-10 |
@@ -453,6 +453,7 @@
 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 | 2023-06-09 | 2023-07-21 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-02-11 | 2024-11-22 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-10 | 2024-06-01 |
+| [Love Like Poison](https://open.spotify.com/track/087nQXfOCaa5vNrKNMSSvx) | [LYRXX](https://open.spotify.com/artist/6IP3yCr9AOjbbB3CdXq06G) | [Love Like Poison](https://open.spotify.com/album/1Nk1if4shW0e0hJNOlKDap) | 3:05 | 2025-09-26 |  |
 | [Love Like This \(feat\. Fireboy DML\)](https://open.spotify.com/track/0Eq1YipYrFdRzPKT8y7iOC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:09 | 2022-02-11 | 2023-02-27 |
 | [Love Me](https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Grateful](https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ) | 2:16 | 2024-09-27 | 2024-12-07 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-11-22 |

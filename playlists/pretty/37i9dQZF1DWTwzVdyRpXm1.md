@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,419 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,570 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

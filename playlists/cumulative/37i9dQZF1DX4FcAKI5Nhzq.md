@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: TWS\)
 
-1,441 songs - 3 day 5 hr 35 min
+1,443 songs - 3 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [BRAIN](https://open.spotify.com/track/4lAToXJW9Lvc8etF42IcoF) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Chocolate Box](https://open.spotify.com/album/4ilhdkJzJudY6RBp0PifGw) | 3:28 | 2021-09-24 | 2021-10-30 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-09-30 | 2022-11-25 |
 | [Brand New Day](https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3) | 3:26 | 2025-06-25 | 2025-07-25 |
+| [Brat Attitude](https://open.spotify.com/track/2XTbl7e9ZcAr57dgRNrwUa) | [BOYS II PLANET](https://open.spotify.com/artist/3HO8BSftZMyNkPuCIbgQom) | [BOYS II PLANET – FINAL DEBUT BATTLE](https://open.spotify.com/album/3qdRplX3RGyQgzDPmmueIQ) | 3:00 | 2025-09-29 |  |
 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 | 2022-08-03 | 2022-09-25 |
 | [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 | 2023-01-17 | 2023-02-18 |
 | [Breath](https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath](https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz) | 3:07 | 2020-11-23 | 2021-04-22 |
@@ -1013,12 +1014,13 @@
 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 | 2022-03-28 | 2022-06-18 |
 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-03-05 | 2024-05-24 |
 | [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-13 | 2023-03-16 |
+| [Refresh!](https://open.spotify.com/track/3IADXVr5gLIYzxifer9zFH) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [To The Moon, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/25G6zBCoaAbZxAORbFImB0) | 2:37 | 2025-09-29 |  |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-16 | 2024-02-27 |
 | [Remember](https://open.spotify.com/track/2MO6sxfNbVBkGvZRPJCPbe) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hometown, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7B7whF7sfWLeuCngNAiEu0) | 3:31 | 2021-10-06 | 2021-12-02 |
 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-01 | 2025-08-01 |
 | [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-02 | 2024-06-01 |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-12 | 2022-09-17 |
-| [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 | 2025-08-12 |  |
+| [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 | 2025-08-12 | 2025-09-29 |
 | [Retro Romance](https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Retro Romance](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) | 2:32 | 2024-09-26 | 2024-11-26 |
 | [Revolution](https://open.spotify.com/track/59jcTRUaGUbKAjjmguiINC) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [DECOHERENCE](https://open.spotify.com/album/5xobv4mIR1C2BiSts7WDxL) | 3:09 | 2020-10-22 | 2021-01-18 |
 | [REWIND](https://open.spotify.com/track/3gnby6MCtW10Zl0EvA308e) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [CONNECT](https://open.spotify.com/album/4JdZ37sM1QoMhUvY3nzorw) | 3:09 | 2024-01-10 | 2024-02-27 |

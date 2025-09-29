@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,352 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,372 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 15 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 | 16 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 |
 | 17 | [Sweet Munchies](https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Sweet Munchies](https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h) | 2:09 |
-| 18 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
-| 19 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
+| 18 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
+| 19 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
 | 20 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
 | 21 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 |
 | 22 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |

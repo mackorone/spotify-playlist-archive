@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 135077,
+  "num_followers": 135103,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAA3BYQWtVbAk8iU48dRGEx3",
+  "snapshot_id": "aNcpAAAAAADF3Fp9pQZGuYwKr384mJXe",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
         "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 222402,
       "name": "Always (feat. Summer Walker) - Bonus",
       "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": null,

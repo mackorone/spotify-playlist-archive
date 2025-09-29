@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 218253,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5AteoUPPoKLaUhGTXsxoTR"
@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 224213,
       "name": "Baugar",
       "url": "https://open.spotify.com/track/5HalGUbUQRMJvAKuupeD1M"
@@ -11880,7 +11880,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
@@ -12888,7 +12888,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 155785,
       "name": "Eg\u00f3",
       "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
@@ -12968,7 +12968,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 167428,
       "name": "EINMANA",
       "url": "https://open.spotify.com/track/2YOptCj0C4d4XVIiKBdcZ1"
@@ -21382,7 +21382,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 207178,
       "name": "Hjarta",
       "url": "https://open.spotify.com/track/0YI4W46LkUhdpBZtFC74Mf"
@@ -21982,7 +21982,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 183937,
       "name": "HOT",
       "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
@@ -25500,7 +25500,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 180343,
       "name": "J\u00e1 \u00e9g veit",
       "url": "https://open.spotify.com/track/3IgapLLSeD5XoX9hTruPhR"
@@ -45344,7 +45344,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 148855,
       "name": "St\u00f3rir Str\u00e1kar",
       "url": "https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE"
@@ -47086,7 +47086,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -47126,7 +47126,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 323813,
       "name": "Tala minn sk\u00edt",
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
@@ -53258,6 +53258,24 @@
       "duration_ms": 116750,
       "name": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
       "url": "https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN"
+    },
+    {
+      "album": {
+        "name": "What Am I Now?",
+        "url": "https://open.spotify.com/album/0t7vfKZB2AuOw95UC3gMah"
+      },
+      "artists": [
+        {
+          "name": "Cici Melody",
+          "url": "https://open.spotify.com/artist/5uQEaeLwjuvzpQn4xBFQPI"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220377,
+      "name": "What Am I Now?",
+      "url": "https://open.spotify.com/track/34TxVVQXg9Ve1JnJotLquF"
     },
     {
       "album": {

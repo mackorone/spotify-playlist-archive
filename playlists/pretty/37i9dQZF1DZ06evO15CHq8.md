@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,574 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,659 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 7 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
 | 8 | [For the Last Time](https://open.spotify.com/track/240audWazVjwvwh7XwfSZE) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [For the Last Time](https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR) | 2:36 |
 | 9 | [Monochromatic](https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:17 |
-| 10 | [Runnin' Thru the 7th with My Woadies](https://open.spotify.com/track/1tm7c4V0kqLiN0XPVnoUcT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$outh $ide $uicide](https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl) | 3:25 |
-| 11 | [New Chains, Same Shackles](https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
-| 12 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 |
+| 10 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 |
+| 11 | [Runnin' Thru the 7th with My Woadies](https://open.spotify.com/track/1tm7c4V0kqLiN0XPVnoUcT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$outh $ide $uicide](https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl) | 3:25 |
+| 12 | [New Chains, Same Shackles](https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
 | 13 | [Full of Grace \(I Refuse to Tend My Own Grave\)](https://open.spotify.com/track/5mSRLKGJ0Uc7FW7SlJFKaP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:00 |
 | 14 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
 | 15 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 |
 | 50 | [Champagne Face](https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:20 |
 
-Snapshot ID: `aNXXgAAAAAA+Q5Z5PsqG88+nHXpsp30r`
+Snapshot ID: `aNcpAAAAAAAaA8bHOlXZqu/EYks3Hq+Q`

@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Vazquez",
-  "num_followers": 1893897,
+  "num_followers": 1893565,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
       "artists": [
         {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -635,22 +651,6 @@
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Yo Deluxe",
-        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "DJ Buddha",
-          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
-        }
-      ],
-      "duration_ms": 208774,
-      "name": "Es Un Secreto",
-      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "TROPICALIA",
         "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 220880,
       "name": "Con Dinero y Sin Dinero",
       "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Yo Deluxe",
+        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "duration_ms": 208774,
+      "name": "Es Un Secreto",
+      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "C\u00f3mo Se Compara",
-      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "La Foto, el Video, la Chicaner\u00eda",
         "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 341839,
       "name": "Charrupi",
       "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "C\u00f3mo Se Compara",
+      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Enam\u00f3rate Bailando",
-        "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 267332,
-      "name": "Enam\u00f3rate Bailando",
-      "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Enam\u00f3rate Bailando",
+        "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 267332,
+      "name": "Enam\u00f3rate Bailando",
+      "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "M\u00e1s Que Un Beso",
-        "url": "https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "M\u00e1s Que Un Beso",
-      "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "M\u00e1s Que Un Beso",
+        "url": "https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "M\u00e1s Que Un Beso",
+      "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 179894,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 209723,
       "name": "LA RONDA",
       "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 179894,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1635,30 +1635,6 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "JACARANDOSA",
-        "url": "https://open.spotify.com/album/7uaseBXSWlKzztmr7fBblR"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Aguirre",
-          "url": "https://open.spotify.com/artist/45GvR0b9kXuYqSH6jpAWDr"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Cali Big Band",
-          "url": "https://open.spotify.com/artist/6w2RBFxyl6FRHoC505rUkP"
-        }
-      ],
-      "duration_ms": 252363,
-      "name": "JACARANDOSA",
-      "url": "https://open.spotify.com/track/1cvLp0KMMMU46aPJhZ0bSj"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1699,6 +1675,30 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "JACARANDOSA",
+        "url": "https://open.spotify.com/album/7uaseBXSWlKzztmr7fBblR"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Aguirre",
+          "url": "https://open.spotify.com/artist/45GvR0b9kXuYqSH6jpAWDr"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Cali Big Band",
+          "url": "https://open.spotify.com/artist/6w2RBFxyl6FRHoC505rUkP"
+        }
+      ],
+      "duration_ms": 252363,
+      "name": "JACARANDOSA",
+      "url": "https://open.spotify.com/track/1cvLp0KMMMU46aPJhZ0bSj"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Volver a Enamorarnos",
         "url": "https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 231833,
       "name": "Es Ajena",
       "url": "https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2025-08-22 04:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Bliss n Eso
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,985 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,963 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

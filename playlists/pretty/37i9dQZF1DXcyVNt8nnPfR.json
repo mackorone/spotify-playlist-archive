@@ -1,6 +1,6 @@
 {
   "description": "Relax with these seriously laid-back classics.",
-  "num_followers": 501481,
+  "num_followers": 501677,
   "original_name": "Chilled Classics",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Buffalo Springfield",
+        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     }
   ],
   "unique_name": "Chilled Classics",

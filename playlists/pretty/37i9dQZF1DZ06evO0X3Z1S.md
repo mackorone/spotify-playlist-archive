@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,687 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,698 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 20 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 |
 | 21 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
 | 22 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
-| 23 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
-| 24 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
+| 23 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
+| 24 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
 | 25 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
 | 26 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW) | 3:11 |
 | 27 | [Let's Ride Away \- Jonas Blue Remix](https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Let's Ride Away \(Jonas Blue Remix\)](https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Billboard](https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [Billboard](https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr) | 2:52 |
 | 50 | [Siento](https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq) | 3:37 |
 
-Snapshot ID: `aNXXgAAAAACF9o1S1uGnKyjadZkTjuaS`
+Snapshot ID: `aNcpAAAAAADVyu+pO1ulUDGH/stTJSs1`

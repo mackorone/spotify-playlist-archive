@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 93074,
+  "num_followers": 93086,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-06-12 21:29:00",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 173636,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
-    },
-    {
-      "added_at": "2024-06-12 21:29:00",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2024-06-12 21:29:00",
+      "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 173636,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
     },
     {
       "added_at": "2024-06-12 21:29:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-12 21:29:00",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
-    },
-    {
-      "added_at": "2024-06-12 21:29:00",
-      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 183573,
       "name": "Hate My Heart",
       "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "added_at": "2024-06-12 21:29:00",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
     },
     {
       "added_at": "2024-06-12 21:29:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-06-12 21:29:00",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
         }
       ],
-      "duration_ms": 185280,
-      "name": "This Bar",
-      "url": "https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr"
+      "duration_ms": 169466,
+      "name": "Last Cigarette",
+      "url": "https://open.spotify.com/track/1B2NvOSBaQi5C2Lh1zLyVP"
     }
   ],
   "unique_name": "Country Gaming",

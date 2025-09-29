@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ROTH BART BARON
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,711 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,707 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 52 | [フラワー](https://open.spotify.com/track/3cZrnf9LZGDnGU8LYkoMsK) | [MOSA](https://open.spotify.com/artist/5mcOgAebLZwLL5JAb5rm7I) | [フラワー](https://open.spotify.com/album/4zLQE7boj8IiQo4vqqj7QZ) | 2:34 |
 | 53 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
 | 54 | [NEWDAY](https://open.spotify.com/track/19gXO9wW5lz9PAcuhIIN8h) | [N4TURALKILLERS](https://open.spotify.com/artist/0ZrI9XmZ9z5tWMgDqJ30H2) | [NEWDAY](https://open.spotify.com/album/3wZIjwzMxRBDc0OjUYnyOg) | 5:10 |
-| 55 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
+| 55 | [夢から覚めても](https://open.spotify.com/track/49nGw1NKcK4nZb8x1MzY6S) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [夢から覚めても](https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU) | 3:59 |
 | 56 | [Vega](https://open.spotify.com/track/44bhl4Gd375bo5dCBu8Fd9) | [Noranekoguts](https://open.spotify.com/artist/0aJp1u4UL2KnWWP3Bx0EyM) | [Vega](https://open.spotify.com/album/3BYvcjNE6zk68LtmIkVYel) | 3:58 |
-| 57 | [夢から覚めても](https://open.spotify.com/track/49nGw1NKcK4nZb8x1MzY6S) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [夢から覚めても](https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU) | 3:59 |
+| 57 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
 | 58 | [Get It On](https://open.spotify.com/track/3BKs6DVkuCaP6czpecQaTa) | [QUINCAMPOIX](https://open.spotify.com/artist/66CZGKffXQ5OrJQLeOX1oR) | [Get It On](https://open.spotify.com/album/2KxdyhX9BPYA7CQUXY3o6X) | 2:50 |
 | 59 | [munasawagi](https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [munasawagi](https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x) | 3:27 |
-| 60 | [love it](https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:51 |
-| 61 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
+| 60 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
+| 61 | [love it](https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:51 |
 | 62 | [Showdown](https://open.spotify.com/track/1OLrX49OrQZ6rvoCVBcHuL) | [MUJINA](https://open.spotify.com/artist/6aWTTeaUS0NR95xjGHpwkf) | [Showdown](https://open.spotify.com/album/0jiHBKZEoI3itidxQCQTm9) | 3:54 |
-| 63 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
+| 63 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
 | 64 | [Tokyo Tower](https://open.spotify.com/track/3DK7rKYYwEXJ3HCzakQ1Uy) | [choreography](https://open.spotify.com/artist/4WytylkljmLiq6cBmceCDc) | [Tokyo Tower](https://open.spotify.com/album/6JeYqRiefqZy5oaSY6U1UN) | 3:49 |
 | 65 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
 | 66 | [Grown Too Old](https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Grown Too Old](https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8) | 3:12 |

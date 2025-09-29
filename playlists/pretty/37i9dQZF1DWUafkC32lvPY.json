@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 30027,
+  "num_followers": 30051,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,30 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Hotel Lounge in Havana",
+        "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "93Alekk",
+          "url": "https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu"
+        },
+        {
+          "name": "Lipoov",
+          "url": "https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t"
+        }
+      ],
+      "duration_ms": 115016,
+      "name": "Hotel Lounge in Havana",
+      "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -195,30 +219,6 @@
       "duration_ms": 138461,
       "name": "Confete e serpentina",
       "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Hotel Lounge in Havana",
-        "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "93Alekk",
-          "url": "https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu"
-        },
-        {
-          "name": "Lipoov",
-          "url": "https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t"
-        }
-      ],
-      "duration_ms": 115016,
-      "name": "Hotel Lounge in Havana",
-      "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Ipanema Sunset",
         "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Like Coconut From The Tree",
         "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
       },
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
       "artists": [
         {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         }
       ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+      "duration_ms": 149333,
+      "name": "Cempasuchil",
+      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -963,34 +963,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
       },
       "artists": [
         {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Cempasuchil",
-      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Lofi Latino, Vol. 2",
-        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
-      },
-      "artists": [
-        {
-          "name": "Lofi Cult",
-          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
-        }
-      ],
-      "duration_ms": 138709,
-      "name": "La Selva Nos Llama",
-      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1015,22 +999,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Mi\u00e9rcoles Azul",
-        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+        "name": "Lofi Latino, Vol. 2",
+        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Monno Briceno",
-          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+          "name": "Lofi Cult",
+          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
         }
       ],
-      "duration_ms": 167857,
-      "name": "Mi\u00e9rcoles Azul",
-      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+      "duration_ms": 138709,
+      "name": "La Selva Nos Llama",
+      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Mi\u00e9rcoles Azul",
+        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        }
+      ],
+      "duration_ms": 167857,
+      "name": "Mi\u00e9rcoles Azul",
+      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Ciudad de Papel",
         "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "100% Barztep",
-        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Shemomedjamo",
-      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1123,22 +1107,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Hora Azul",
-        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+        "name": "100% Barztep",
+        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
         }
       ],
-      "duration_ms": 165976,
-      "name": "Lunes Azul",
-      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+      "duration_ms": 210750,
+      "name": "Shemomedjamo",
+      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1155,6 +1135,26 @@
       "duration_ms": 101065,
       "name": "bailar contigo",
       "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Hora Azul",
+        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "Lunes Azul",
+      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Aesthetic Beach",
         "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
       },
@@ -1263,6 +1247,38 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -1275,30 +1291,6 @@
       "duration_ms": 168103,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "LA FALDA (LoFi)",
-        "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
-      },
-      "artists": [
-        {
-          "name": "AstroLofi",
-          "url": "https://open.spotify.com/artist/2Piv8Ufq8XhpHwedI6FRMm"
-        },
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171844,
-      "name": "LA FALDA - LoFi",
-      "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1323,22 +1315,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 122250,
       "name": "Maya",
       "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "LA FALDA (LoFi)",
+        "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
+      },
+      "artists": [
+        {
+          "name": "AstroLofi",
+          "url": "https://open.spotify.com/artist/2Piv8Ufq8XhpHwedI6FRMm"
+        },
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171844,
+      "name": "LA FALDA - LoFi",
+      "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
     },
     {
       "added_at": "2025-04-04 04:00:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 74986,
+  "num_followers": 74982,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADHga43BVFgUgxRQIEAYxMh",
+  "snapshot_id": "aNcpAAAAAAANW+oug9xC0Uc4lhk4SagC",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Some Things I'll Never Know (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211767,
-      "name": "80s Mercedes",
-      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211767,
+      "name": "80s Mercedes",
+      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "Beat the Devil",
+        "url": "https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 250653,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
+      "duration_ms": 133699,
+      "name": "Beat the Devil",
+      "url": "https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI"
     },
     {
       "added_at": null,
@@ -519,6 +535,22 @@
       "duration_ms": 178533,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/6NE6lJp63rVCHZ9RRGR22k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
     },
     {
       "added_at": null,
@@ -563,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D R E A M S I C L E (deluxe)",
         "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beat the Devil",
-        "url": "https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 133699,
-      "name": "Beat the Devil",
-      "url": "https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "dreamsicle",
-      "url": "https://open.spotify.com/track/6CMO1hdKWGZx7AolQQK8cG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
@@ -683,6 +667,42 @@
       "duration_ms": 208186,
       "name": "Line By Line (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D R E A M S I C L E (deluxe)",
+        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 167253,
+      "name": "because, of course",
+      "url": "https://open.spotify.com/track/32D40ahBsZPCaGkkQcUWv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time Around",
+        "url": "https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216822,
+      "name": "Fallin\u2019 For You (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/0UhyoKv0CabELdmgi2G8Yy"
     },
     {
       "added_at": null,
@@ -764,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 167253,
-      "name": "because, of course",
-      "url": "https://open.spotify.com/track/32D40ahBsZPCaGkkQcUWv7"
+      "duration_ms": 168080,
+      "name": "dreamsicle",
+      "url": "https://open.spotify.com/track/6CMO1hdKWGZx7AolQQK8cG"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time Around",
-        "url": "https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 216822,
-      "name": "Fallin\u2019 For You (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/0UhyoKv0CabELdmgi2G8Yy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D R E A M S I C L E",
         "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To The End",
-        "url": "https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 135126,
-      "name": "Welcome To The End",
-      "url": "https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 187640,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To The End",
+        "url": "https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 135126,
+      "name": "Welcome To The End",
+      "url": "https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA"
     },
     {
       "added_at": null,
@@ -1003,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+      "duration_ms": 136546,
+      "name": "Make Out With Me",
+      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
     }
   ],
   "unique_name": "This Is Maren Morris",

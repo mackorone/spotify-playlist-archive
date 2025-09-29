@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Chris Beats Zn, Yuri Redicopa",
-  "num_followers": 147853,
+  "num_followers": 147907,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -431,30 +431,6 @@
     {
       "added_at": "2025-09-26 03:01:21",
       "album": {
-        "name": "Sentido \u00e0 Zona Leste",
-        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 123508,
-      "name": "Sentido \u00e0 Zona Leste",
-      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2025-09-26 03:01:21",
-      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
+    },
+    {
+      "added_at": "2025-09-26 03:01:21",
+      "album": {
+        "name": "Sentido \u00e0 Zona Leste",
+        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 123508,
+      "name": "Sentido \u00e0 Zona Leste",
+      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
     },
     {
       "added_at": "2025-09-26 03:01:21",
@@ -1075,6 +1075,38 @@
     {
       "added_at": "2025-09-26 03:01:21",
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/20dtIlr9uvhNd7X1Ltk8DN"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "duration_ms": 142706,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/7G6wkitbUYwifUNxWglmxR"
+    },
+    {
+      "added_at": "2025-09-26 03:01:21",
+      "album": {
+        "name": "Alta Massa (ATM)",
+        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Alta Massa (ATM)",
+      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
+    },
+    {
+      "added_at": "2025-09-26 03:01:21",
+      "album": {
         "name": "Voc\u00ea Sabe",
         "url": "https://open.spotify.com/album/6JNMwaZ8TLYfRrEJQWsDzO"
       },
@@ -1095,22 +1127,6 @@
       "duration_ms": 137151,
       "name": "Voc\u00ea Sabe",
       "url": "https://open.spotify.com/track/5Xpj8Z85aR3IjAnC4QAauT"
-    },
-    {
-      "added_at": "2025-09-26 03:01:21",
-      "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/20dtIlr9uvhNd7X1Ltk8DN"
-      },
-      "artists": [
-        {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
-        }
-      ],
-      "duration_ms": 142706,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/7G6wkitbUYwifUNxWglmxR"
     },
     {
       "added_at": "2025-09-26 03:01:21",
@@ -1243,26 +1259,6 @@
       "duration_ms": 223384,
       "name": "Ratos",
       "url": "https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj"
-    },
-    {
-      "added_at": "2025-09-26 03:01:21",
-      "album": {
-        "name": "Da Ponte Pra L\u00e1 O Futuro Das Ruas",
-        "url": "https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP"
-      },
-      "artists": [
-        {
-          "name": "FRESH",
-          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 179994,
-      "name": "ESTRAT\u00c9GIA",
-      "url": "https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD"
     }
   ],
   "unique_name": "O Drip",

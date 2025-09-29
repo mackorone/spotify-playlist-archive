@@ -4,7 +4,7 @@
 
 > 
 
-1,179 songs - 2 day 12 hr 10 min
+1,181 songs - 2 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Money Twërk](https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:19 | 2022-08-26 | 2023-12-14 |
 | [Moneybags](https://open.spotify.com/track/75wojwz55E8iWfUHreFEg8) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [RichPoSlim](https://open.spotify.com/artist/2qY9jco1b25sKtNR3u8K8f) | [Dirty Dingy](https://open.spotify.com/album/2T9pnP03f4v6XMVb1VAJcT) | 3:36 | 2024-02-22 | 2024-11-06 |
 | [Monks](https://open.spotify.com/track/0msrDPXxZpts4FRnoX0bFr) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2025-06-26 |  |
+| [Montana](https://open.spotify.com/track/3mNfKVgSiejiZYmFRVjNbQ) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:39 | 2025-09-28 |  |
 | [Montego Slay](https://open.spotify.com/track/6WBzCRqjK96aKBvKiIyiZO) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 3:58 | 2024-07-29 | 2024-11-06 |
 | [More Motions](https://open.spotify.com/track/0X8zrNBc4gHbONk7pwLRs6) | [Summrs Vault](https://open.spotify.com/artist/1U6kpZ2mr1ikdfTjRYpI0D) | [More Motions](https://open.spotify.com/album/5vFWVuAPayG2OJV6kt980Z) | 2:12 | 2025-05-16 |  |
 | [Movie](https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [3vil Reflection](https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M) | 2:16 | 2025-05-08 |  |
@@ -893,6 +894,7 @@
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-28 | 2024-11-06 |
 | [Save Me](https://open.spotify.com/track/0PzncLHHW8Utar5zZwW6zG) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 1](https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48) | 3:34 | 2023-01-07 | 2023-04-12 |
 | [Savior \- Interlude](https://open.spotify.com/track/5G4uLkFKdEZLcuNyeomQmE) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 2:32 | 2023-07-10 | 2023-12-14 |
+| [Say Somethin'](https://open.spotify.com/track/4kV3szbiAKhjIa18Ojmr3D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Emancipation of Mimi \(International Jewel\)](https://open.spotify.com/album/1qmkUjb9IsZgAttODKZPSB) | 3:44 | 2025-09-28 |  |
 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 | 2024-06-14 | 2024-11-06 |
 | [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 | 2024-05-02 | 2024-11-06 |
 | [Scoliosis \(feat\. Gunna & Duke\)](https://open.spotify.com/track/2AKWKzRCuyuMJzMzsJKr8G) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:40 | 2024-06-24 | 2024-11-06 |

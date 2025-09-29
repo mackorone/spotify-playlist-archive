@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0NEThBmp8Mb.md) - [plain]
 
 > This Christmas get exactly what you want...Listen to the music from Babygirl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,248 likes - 22 songs - 59 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,254 likes - 22 songs - 59 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

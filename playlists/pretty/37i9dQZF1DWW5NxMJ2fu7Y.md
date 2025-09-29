@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,118 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,155 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 24 | [L](https://open.spotify.com/track/3t5rxFCtPFSUULtNAaARXz) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [L](https://open.spotify.com/album/3L6hcHjXIAQimZpiOMr9Hg) | 3:04 |
 | 25 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
 | 26 | [ROUTINE](https://open.spotify.com/track/3eIJC1PibL9VQHOMGpf9Ut) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:27 |
-| 27 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
-| 28 | [DIAMOND](https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
+| 27 | [DIAMOND](https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
+| 28 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
 | 29 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
 | 30 | [T9aws](https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 3:42 |
 | 31 | [No Complaints](https://open.spotify.com/track/0E7vM9JTF6RQ0Mb7cZmP8V) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:50 |

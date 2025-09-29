@@ -4,7 +4,7 @@
 
 > Even rockers need a break.
 
-175 songs - 12 hr 8 min
+176 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blackbird](https://open.spotify.com/track/0HDxGCvYCJCan8mRsLl9dL) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Blackbird](https://open.spotify.com/album/2QXSv6uks8yVKpmrNu2oPq) | 4:37 | 2021-11-03 | 2025-04-26 |
 | [Broken](https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi) | 4:18 | 2022-06-16 | 2024-04-19 |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-04 |  |
+| [Caught Up In the Past](https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 4:23 | 2025-09-26 |  |
 | [Chasing Birds](https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:12 | 2021-11-03 | 2025-08-03 |
 | [Children of the Sun](https://open.spotify.com/track/3zE4M7oIsAvx8HXCxdAOnH) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Generation Freakshow \(Special Edition\)](https://open.spotify.com/album/6Cmou0Qq9BgFRUCN5oVBr8) | 4:20 | 2021-11-03 | 2022-07-29 |
 | [Comfortably Numb \- 2011 Remastered Version](https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall \(Remastered\)](https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g) | 6:19 | 2024-06-27 | 2025-03-03 |
@@ -49,7 +50,7 @@
 | [Funeral](https://open.spotify.com/track/3u2Javyb9jFxkQLRg7n2jM) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Funeral](https://open.spotify.com/album/7iKJS9rS03zY4zJbdduilg) | 4:17 | 2021-11-03 | 2022-07-07 |
 | [Glasgow](https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:37 | 2022-06-16 | 2022-09-21 |
 | [Glasgow](https://open.spotify.com/track/0mAgOUcUmplfqf610W5DVU) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz) | 5:39 | 2021-12-30 | 2022-06-27 |
-| [Golden Songs](https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 3:38 | 2021-11-03 |  |
+| [Golden Songs](https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 3:38 | 2021-11-03 | 2025-09-29 |
 | [Gone Away \- 2021](https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:16 | 2021-11-03 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2021-11-03 |  |
 | [Happiness \- Reworked](https://open.spotify.com/track/68kNk4dgiZcU25IX5B55CV) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked \- Deluxe Version\)](https://open.spotify.com/album/7Mbg5xs1MVMJzow6nRxXUL) | 3:54 | 2021-11-03 | 2022-07-29 |

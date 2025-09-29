@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,321 likes - 84 songs - 4 hr 6 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,299 likes - 84 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

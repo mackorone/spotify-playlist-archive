@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,953 likes - 67 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,934 likes - 67 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 26 | [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 |
 | 27 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 |
 | 28 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
-| 29 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
-| 30 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Christmas Time Is Here](https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U) | 2:24 |
+| 29 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Christmas Time Is Here](https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U) | 2:24 |
+| 30 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
 | 31 | [Round & Round the Christmas Tree](https://open.spotify.com/track/2xWqam73LOsenwNiI5kveT) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:46 |
 | 32 | [Christmas Will Really Be Christmas](https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish \(Deluxe\)](https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA) | 3:56 |
 | 33 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |

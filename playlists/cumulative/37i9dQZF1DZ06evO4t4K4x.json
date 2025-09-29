@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 74573,
       "name": "Computermatic",
       "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
@@ -706,10 +706,32 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 30280,
       "name": "Doctor Who Opening Titles - \u201cIn Colour\u201d Mix, Daleks Version",
       "url": "https://open.spotify.com/track/4nPL3jDMpykffewYoKwu4f"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4cYIXkLqo9yjowBBEa4Ajp"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30280,
+      "name": "Doctor Who Opening Titles - \u201cIn Colour\u201d Mix, Daleks Version",
+      "url": "https://open.spotify.com/track/7KDquLPVjbJJw7tj1jl6Vj"
     },
     {
       "album": {
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 126200,
       "name": "The Wizard's Laboratory",
       "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"

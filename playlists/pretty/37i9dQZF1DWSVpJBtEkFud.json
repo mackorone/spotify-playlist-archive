@@ -1,6 +1,6 @@
 {
   "description": "Pop favorites from today and yesterday",
-  "num_followers": 257636,
+  "num_followers": 257687,
   "original_name": "Pop Road Trip",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
+        "name": "Let The Road",
+        "url": "https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd"
+      },
+      "artists": [
+        {
+          "name": "Rixton",
+          "url": "https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Me And My Broken Heart",
+      "url": "https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
-        "name": "Let The Road",
-        "url": "https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd"
-      },
-      "artists": [
-        {
-          "name": "Rixton",
-          "url": "https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Me And My Broken Heart",
-      "url": "https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"
     },
     {
       "added_at": "2024-12-09 17:46:14",

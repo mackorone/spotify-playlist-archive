@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: ILLIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,388 likes - 59 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,351 likes - 59 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

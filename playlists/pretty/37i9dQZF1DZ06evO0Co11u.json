@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 194994,
+  "num_followers": 195006,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADoAcGqL/kK2ak2jbu5fIBY",
+  "snapshot_id": "aNcpAAAAAABOxUPsxyFidEQWa4Aqd1vN",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Can't We Be Friends?",
-      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
+      "duration_ms": 342133,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 342133,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
+      "duration_ms": 227493,
+      "name": "Can't We Be Friends?",
+      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Louis Under The Stars",
+        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 221400,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louis Under The Stars",
-        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Reunion",
-        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louis and Friends",
         "url": "https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 200466,
       "name": "My Sweet Hunk O' Trash - Single Version",
       "url": "https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
     },
     {
       "added_at": null,

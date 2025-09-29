@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 393032,
+  "num_followers": 393064,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -535,38 +535,6 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "Light of My Life",
-        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 259518,
-      "name": "Light of My Life",
-      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
         "name": "A Way With My Heart",
         "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
       },
@@ -587,6 +555,38 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
+        "name": "Light of My Life",
+        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 259518,
+      "name": "Light of My Life",
+      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 200441,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
-      },
-      "artists": [
-        {
-          "name": "Youri Lentjes",
-          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -635,18 +619,18 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "On The Way",
-        "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
         }
       ],
-      "duration_ms": 192373,
-      "name": "On The Way",
-      "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
+      "duration_ms": 189064,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -667,6 +651,22 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
+        "name": "On The Way",
+        "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "On The Way",
+      "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 194675,
       "name": "Last Forever - Acoustic",
       "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -699,22 +715,6 @@
       "duration_ms": 219968,
       "name": "Old Summers (feat. philine)",
       "url": "https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -887,38 +887,6 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
-      },
-      "artists": [
-        {
-          "name": "Opera Alaska",
-          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
-        }
-      ],
-      "duration_ms": 172852,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
       },
@@ -939,8 +907,40 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "I Believe In Life",
-        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
+      },
+      "artists": [
+        {
+          "name": "Opera Alaska",
+          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
+        }
+      ],
+      "duration_ms": 172852,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 216519,
-      "name": "I Believe In Life",
-      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+        "name": "I Believe In Life",
+        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+      "duration_ms": 216519,
+      "name": "I Believe In Life",
+      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
         "name": "Never Fall In Love Again",
         "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 168991,
       "name": "Never Fall In Love Again",
       "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        }
+      ],
+      "duration_ms": 169993,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/6uHpnYIepU8aYH2eVTJeVm"
       },
@@ -1131,18 +1115,34 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
       "artists": [
         {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 169993,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
+        "name": "i'm changing my mind",
+        "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
+      },
+      "artists": [
+        {
+          "name": "Katie Koss",
+          "url": "https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN"
+        }
+      ],
+      "duration_ms": 234336,
+      "name": "adeline",
+      "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
         "name": "In my cluttered head",
         "url": "https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 161979,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "i'm changing my mind",
-        "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
-      },
-      "artists": [
-        {
-          "name": "Katie Koss",
-          "url": "https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN"
-        }
-      ],
-      "duration_ms": 234336,
-      "name": "adeline",
-      "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 254100,
-      "name": "Waiting in the Wings",
-      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
         "name": "Po\u00e8te Maudit",
         "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 254100,
+      "name": "Waiting in the Wings",
+      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
         "name": "Dark Harvest, Pt. 1",
         "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 292148,
       "name": "Solastalgia",
       "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+      "duration_ms": 164493,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2025-09-25 22:00:13",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
         "name": "Amen (Acoustic)",
         "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 210000,
       "name": "Amen - Acoustic",
       "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
+    },
+    {
+      "added_at": "2025-09-25 22:00:13",
+      "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
       "added_at": "2025-09-25 22:00:13",
@@ -1639,22 +1655,6 @@
       "duration_ms": 234183,
       "name": "Kind Of Love",
       "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
-    },
-    {
-      "added_at": "2025-09-25 22:00:13",
-      "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     }
   ],
   "unique_name": "'t Koffiehuis",

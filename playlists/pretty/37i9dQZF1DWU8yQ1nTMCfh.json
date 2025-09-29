@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 297842,
+  "num_followers": 297841,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
+        "name": "Esa Estrella",
+        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 238232,
+      "name": "Esa Estrella",
+      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 203333,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "Esa Estrella",
-        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 238232,
-      "name": "Esa Estrella",
-      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
     },
     {
       "added_at": "2025-08-15 04:00:29",

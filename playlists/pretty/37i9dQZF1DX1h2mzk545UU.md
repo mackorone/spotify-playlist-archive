@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,457 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,470 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 7 | [Una Cerveza RMX](https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una Cerveza RMX](https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX) | 3:01 |
 | 8 | [La Matraca \(Remix\)](https://open.spotify.com/track/1umDTlmpNfOjoG0EpS267S) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [DJ NIÑOTE](https://open.spotify.com/artist/5j01QsF6RHkL762ppHOrFt) | [La Matraca \(Remix\)](https://open.spotify.com/album/704w2YaMd2ghbjYseGYF8M) | 2:57 |
 | 9 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
-| 10 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [DY](https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
+| 10 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [DY](https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
 | 11 | [7 VIDAS](https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [7 VIDAS](https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB) | 2:24 |
 | 12 | [Así Así](https://open.spotify.com/track/5yV2BEVcRibgXMxZuf9awh) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Así Así](https://open.spotify.com/album/3EOCDX0SyIHjN9vaEgX8EI) | 3:13 |
 | 13 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |

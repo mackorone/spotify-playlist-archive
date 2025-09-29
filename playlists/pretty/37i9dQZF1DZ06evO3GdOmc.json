@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 44059,
+  "num_followers": 44073,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADieG/bwLvrIVyTaXBDhsYa",
+  "snapshot_id": "aNcpAAAAAAATAXVTOCUImMlZ5QFVpEL7",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Altar and The Door",
-        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Slow Fade",
-      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 268666,
       "name": "Does Anybody Hear Her",
       "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 249600,
-      "name": "City On The Hill",
-      "url": "https://open.spotify.com/track/2oEy4YPNn1h6ZQRpcIFk6Q"
+      "duration_ms": 295200,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 295200,
-      "name": "The Well",
-      "url": "https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3"
+      "duration_ms": 249600,
+      "name": "City On The Hill",
+      "url": "https://open.spotify.com/track/2oEy4YPNn1h6ZQRpcIFk6Q"
     },
     {
       "added_at": null,

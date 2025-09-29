@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Mark Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,940 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,965 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 22 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 23 | [Overrated](https://open.spotify.com/track/55BmlUAYuZTqpvM7bfSUuo) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 3:38 |
 | 24 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 |
-| 25 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
-| 26 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
+| 25 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
+| 26 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 27 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
 | 28 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
 | 29 | [INSIGNIFICANT OTHER \- feat\. Sam Canty & Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 53 | [Interstate Cowboy](https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS) | [The Vegabonds](https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh), [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Interstate Cowboy](https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj) | 3:34 |
 | 54 | [Break My Heart](https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Break My Heart](https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq) | 4:14 |
 | 55 | [In Your Hands \(feat\. Don Miggs and Zane Carney\)](https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n), [Don Miggs](https://open.spotify.com/artist/6d9L7od02ZS10dHH3jGQ9y), [Zane Carney](https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl) | [In Your Hands \(feat\. Don Miggs and Zane Carney\)](https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht) | 3:53 |
-| 56 | [xoxo](https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [xoxo](https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX) | 4:07 |
-| 57 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
-| 58 | [God's Gonna Cut You Down](https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb) | [The Native Howl](https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4) | [God's Gonna Cut You Down](https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt) | 3:30 |
+| 56 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
+| 57 | [God's Gonna Cut You Down](https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb) | [The Native Howl](https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4) | [God's Gonna Cut You Down](https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt) | 3:30 |
+| 58 | [xoxo](https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [xoxo](https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX) | 4:07 |
 | 59 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
 | 60 | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Jon Harvey](https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN), [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye) | 3:40 |
 | 61 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 |

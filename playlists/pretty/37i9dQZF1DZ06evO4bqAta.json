@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 582757,
+  "num_followers": 582806,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAIVo9lB5cODp4QSxaJzwLL",
+  "snapshot_id": "aNcpAAAAAADWQSUjwVFzOxknrhxxlPTs",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 412200,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 224733,
       "name": "One More Cup of Coffee",
       "url": "https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 412200,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 290466,
       "name": "Just Like a Woman",
       "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
     },
     {
       "added_at": null,

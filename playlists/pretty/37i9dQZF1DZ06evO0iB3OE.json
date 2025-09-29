@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 10101,
+  "num_followers": 10108,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADdcdaUC8/eyMrqCqoAC5FR",
+  "snapshot_id": "aNcpAAAAAAA4I3mPkmjLaQRV00VJyYiN",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cargamento Del Diablo",
+        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "El Hueso Del Perron",
+      "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 191840,
-      "name": "El Hueso Del Perron",
-      "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
+      "duration_ms": 216333,
+      "name": "El Mes De Enero",
+      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     },
     {
       "added_at": null,
@@ -715,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
         }
       ],
-      "duration_ms": 216333,
-      "name": "El Mes De Enero",
-      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
+      "duration_ms": 173638,
+      "name": "El M.P.",
+      "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 171363,
       "name": "El Compa Many - En Vivo",
       "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 173638,
-      "name": "El M.P.",
-      "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Traficante Del Diablo",
-      "url": "https://open.spotify.com/track/5A6kdjVTmyP1LM6DXdwhaH"
+      "duration_ms": 129533,
+      "name": "Como en la Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
     },
     {
       "added_at": null,

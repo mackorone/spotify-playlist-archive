@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 78589,
+  "num_followers": 78625,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184435,
-      "name": "HP",
-      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 163813,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
     },
     {
       "added_at": "2024-07-13 01:21:22",

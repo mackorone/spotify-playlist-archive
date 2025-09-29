@@ -1,6 +1,6 @@
 {
   "description": "Die cozy season geht los \ud83c\udf42",
-  "num_followers": 1085041,
+  "num_followers": 1085198,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -455,6 +455,26 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Moon (Feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Jessie (i miss you)",
-        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 197748,
-      "name": "Jessie (i miss you)",
-      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 161773,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
+        "name": "Jessie (i miss you)",
+        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 197748,
+      "name": "Jessie (i miss you)",
+      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1003,18 +1003,34 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 135866,
-      "name": "Welcome to the Mood",
-      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1055,6 +1071,22 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "Welcome to the Mood",
+      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
       },
@@ -1071,22 +1103,6 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
-        "name": "Feel The Rush",
-        "url": "https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0"
-      },
-      "artists": [
-        {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        }
-      ],
-      "duration_ms": 193823,
-      "name": "Feel The Rush",
-      "url": "https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1115,34 +1131,18 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+        "name": "Feel The Rush",
+        "url": "https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0"
       },
       "artists": [
         {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
         }
       ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+      "duration_ms": 193823,
+      "name": "Feel The Rush",
+      "url": "https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1159,6 +1159,22 @@
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 167826,
       "name": "Oceanside",
       "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Sick To My Stomach",
-        "url": "https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "June",
-      "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
         "name": "Versailles (Hold)",
         "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
+        "name": "Sick To My Stomach",
+        "url": "https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "June",
+      "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1567,6 +1583,26 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
+    },
+    {
+      "added_at": "2025-09-25 06:00:47",
+      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1587,26 +1623,6 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
-        "name": "Psychopath",
-        "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Psychopath",
-      "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
     },
     {
       "added_at": "2025-09-25 06:00:47",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Someone Special",
-        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 256670,
-      "name": "Someone Special",
-      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
-    },
-    {
-      "added_at": "2025-09-25 06:00:47",
-      "album": {
         "name": "what if we?",
         "url": "https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-09-25 06:00:47",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+        "name": "Someone Special",
+        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+      "duration_ms": 256670,
+      "name": "Someone Special",
+      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
     }
   ],
   "unique_name": "Herbst Chillout",

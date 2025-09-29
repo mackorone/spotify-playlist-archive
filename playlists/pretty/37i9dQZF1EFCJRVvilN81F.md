@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,093 likes - 170 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,094 likes - 170 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 143 | [ON THE LOW](https://open.spotify.com/track/698woGLcYhbvbeQtRNvksr) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 2:37 |
 | 144 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 145 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
-| 146 | [Lookin for Ya](https://open.spotify.com/track/1ulXrCzBYnG3JJW11IXVZ8) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:24 |
-| 147 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
+| 146 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
+| 147 | [Lookin for Ya](https://open.spotify.com/track/1ulXrCzBYnG3JJW11IXVZ8) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:24 |
 | 148 | [Come Again](https://open.spotify.com/track/0FZv7zASMbqSz3XNL6sAxi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 2:42 |
 | 149 | [You And Me](https://open.spotify.com/track/6efwJ8S8qvGIJPCivsXcGX) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 4:38 |
 | 150 | [Mustang Sally](https://open.spotify.com/track/1vKmMfZszrCAqSAJgLfm04) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:17 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 169 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 170 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Ab9YHgAAAAD7dGaOEXLVz/Y6dXxI9N65`
+Snapshot ID: `Ab9dyAAAAAApE7ZR6BRV2t5jAKoQYaW9`

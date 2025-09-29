@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,621 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,808 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 16 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 17 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 18 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 |
-| 19 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
-| 20 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 |
+| 19 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 |
+| 20 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 21 | [Acid Blood](https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Acid Blood](https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf) | 3:31 |
 | 22 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
 | 23 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 32 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 |
 | 33 | [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 |
 | 34 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
-| 35 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
-| 36 | [REESE](https://open.spotify.com/track/5gdMfPQGOaqrDusCAV5uZ8) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [REESE](https://open.spotify.com/album/0ImSLM2gJU1EYeWpRFIIon) | 3:44 |
+| 35 | [REESE](https://open.spotify.com/track/5gdMfPQGOaqrDusCAV5uZ8) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [REESE](https://open.spotify.com/album/0ImSLM2gJU1EYeWpRFIIon) | 3:44 |
+| 36 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
 | 37 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 | 38 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
 | 39 | [Checkmate](https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Checkmate](https://open.spotify.com/album/4jmiczml2DXJ5idy60KGwY) | 3:27 |

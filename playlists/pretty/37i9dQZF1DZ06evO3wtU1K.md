@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,701 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,708 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [Another Thing \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 3:56 |
 | 50 | [Grace \- Live](https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:09 |
 
-Snapshot ID: `aNXXgAAAAADW7l9ANG3LS6NW4bM/lrUd`
+Snapshot ID: `aNcpAAAAAAA/WDom5U4AUWwS0tH6CdfM`

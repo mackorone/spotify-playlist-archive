@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,196 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,227 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 |
 | 50 | [Los Pasajes Del Sera](https://open.spotify.com/track/62FMTKHZSmPnTZrZJvPHMy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:43 |
 
-Snapshot ID: `aNXXgAAAAACtqmHd8i6UHg9lkexN9L3M`
+Snapshot ID: `aNcpAAAAAACF3VmJ2zDu10bC63piabl/`

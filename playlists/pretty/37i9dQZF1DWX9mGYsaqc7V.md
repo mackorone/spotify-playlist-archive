@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 
 > Dim the lights and chill with these classic slow jamz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,695 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,761 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 19 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 |
 | 20 | [Swim Good](https://open.spotify.com/track/3CgZCQyuyxHRMWB9BTwmni) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Swim Good](https://open.spotify.com/album/3TLaFWQDhV1g39Qwd5sPAm) | 4:17 |
 | 21 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
-| 22 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
-| 23 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
+| 22 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
+| 23 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
 | 24 | [Lovers And Friends](https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 4:20 |
-| 25 | [Adorn](https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:13 |
-| 26 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
+| 25 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
+| 26 | [Adorn](https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:13 |
 | 27 | [I'll Make Love To You](https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7) | 3:56 |
 | 28 | [Girls Need Love](https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 2:20 |
 | 29 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 81 | [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:06 |
 | 82 | [Everything](https://open.spotify.com/track/3CbnA6S33amyRNmgmfi33H) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:59 |
 | 83 | [Almost Doesn't Count](https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 3:38 |
-| 84 | [Diary \(feat\. Tony! Toni! Tone! & Jermaine Paul\)](https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:44 |
-| 85 | [Tell Me](https://open.spotify.com/track/5P0FaLdSqCpFolBHv4M8ig) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Dru Hill](https://open.spotify.com/album/3R50GvGH8MAPLR6svNy6zz) | 4:12 |
+| 84 | [Tell Me](https://open.spotify.com/track/5P0FaLdSqCpFolBHv4M8ig) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Dru Hill](https://open.spotify.com/album/3R50GvGH8MAPLR6svNy6zz) | 4:12 |
+| 85 | [Diary \(feat\. Tony! Toni! Tone! & Jermaine Paul\)](https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:44 |
 | 86 | [Neighbors Know My Name](https://open.spotify.com/track/5ol0jvC2yFKm3E1GcIgU2n) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready](https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ) | 3:06 |
 | 87 | [Crying Out For Me](https://open.spotify.com/track/3lMgczyYCjVDpJX8Wl2ilu) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 4:48 |
 | 88 | [My, My, My](https://open.spotify.com/track/33GJ5M8Pluf119G1PObkZM) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/1I1wFLIuEXMYqQ4fm3NwOo) | 5:22 |

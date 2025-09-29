@@ -5118,7 +5118,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -6622,7 +6622,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -8028,6 +8028,24 @@
       "duration_ms": 175106,
       "name": "Klaxon",
       "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
+    },
+    {
+      "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
+      },
+      "artists": [
+        {
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244018,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
     },
     {
       "album": {
@@ -11636,7 +11654,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg"
@@ -11654,7 +11672,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
@@ -16264,7 +16282,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 154000,
       "name": "XOXZ",
       "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
@@ -17154,7 +17172,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -21660,7 +21678,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 262105,
       "name": "\u6df1\u95a8",
       "url": "https://open.spotify.com/track/5ZzOLLmvp31DU4D5vsFA0u"
@@ -23252,7 +23270,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
@@ -23270,7 +23288,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 232940,
       "name": "\u81f4\u6211",
       "url": "https://open.spotify.com/track/0FgvyfBRIWBwYaoAKaotHO"

@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Feel You",
+        "url": "https://open.spotify.com/album/3uBHz77NGhAuxozj6CUIzL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "Feel You",
+      "url": "https://open.spotify.com/track/0AkQIzDWxywsrtnY6f0oYB"
+    },
+    {
+      "album": {
         "name": "Feelings Gone (feat. London Grammar)",
         "url": "https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7"
       },
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"

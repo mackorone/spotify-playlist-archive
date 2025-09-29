@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,047 likes - 136 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,065 likes - 136 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 135 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 |
 | 136 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 |
 
-Snapshot ID: `AAAAAAllYZt/AFvVZgLlABxkIGdRg06w`
+Snapshot ID: `AAAAAMmBimD034izKgp6HG/1mLp/i8yF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 
 > 🍬😝 CA7RIEL & Paco Amoroso EN PORTADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,944 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,931 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

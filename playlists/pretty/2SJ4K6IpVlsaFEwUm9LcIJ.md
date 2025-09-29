@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,364 likes - 41 songs - 2 hr 12 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,372 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 39 | [Hello Stranger](https://open.spotify.com/track/7dBGHDBPg1sBSWXkPrU1sa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Hazel & Alice](https://open.spotify.com/album/4nbDlug3zC6jKR3QnkPjfY) | 3:12 |
 | 40 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
 | 41 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 |
+| 42 | [Sospetti E Tenerezze](https://open.spotify.com/track/51FtXU9pPeXA4PV1pgh39g) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Senza Sapere Niente Di Lei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7iWJnjKnHwxHAnIfNIJrDP) | 4:26 |
+| 43 | [Groovin'](https://open.spotify.com/track/1pZ4YQ93Wc9xoN0Q3h3fLq) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [Solid Soul](https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq) | 2:59 |
 
-Snapshot ID: `AAANMC5mxR0mwFnOzd9lVAuesg3gvvrH`
+Snapshot ID: `AAANMYtVJuf7CDTyRvzJee//piVeh1w4`

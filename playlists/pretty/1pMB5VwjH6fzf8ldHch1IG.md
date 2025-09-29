@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Miley Cyrus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 44,472 likes - 103 songs - 5 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 44,449 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

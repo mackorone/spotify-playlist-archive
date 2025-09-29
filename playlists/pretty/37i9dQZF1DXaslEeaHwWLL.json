@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 78904,
+  "num_followers": 78957,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "Ubuntu",
         "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "El Farsante",
-      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 219506,
       "name": "El Amante",
       "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "El Farsante",
+      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Tu No Metes Cabra",
-        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 170762,
-      "name": "Tu No Metes Cabra",
-      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 218306,
       "name": "Por el Momento (feat. Plan B)",
       "url": "https://open.spotify.com/track/1GZZELGFwWsi2oLE1v1eyQ"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Tu No Metes Cabra",
+        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 170762,
+      "name": "Tu No Metes Cabra",
+      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 221026,
       "name": "Si T\u00fa La Ves (feat. Wisin)",
       "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2024-07-13 01:15:47",

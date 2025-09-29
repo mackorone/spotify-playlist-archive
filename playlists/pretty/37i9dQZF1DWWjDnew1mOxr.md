@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: James Marriott
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,226 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,243 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 42 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 |
 | 43 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
 | 44 | [Thorn](https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Thorn](https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W) | 4:08 |
-| 45 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
-| 46 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 |
+| 45 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 |
+| 46 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
 | 47 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
 | 48 | [You Change with the Seasons](https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Get Away from the Feeling](https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC) | 3:50 |
 | 49 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 68 | [Gravestone](https://open.spotify.com/track/2WSY9RWtQ1CTnadExfLubq) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Gravestone](https://open.spotify.com/album/3Cx0kxwDoDBpWSMPjWlw7h) | 3:55 |
 | 69 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
 | 70 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |
-| 71 | [Big Mouth](https://open.spotify.com/track/5NpAghBCYAYELwgeaIzj0z) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Big Mouth](https://open.spotify.com/album/0ll2OHVzsVRz7vkbZBbiQA) | 2:09 |
+| 71 | [Hole In My Home](https://open.spotify.com/track/39Dd3JAlz0IxRVtfB0mR3J) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 3:32 |
 | 72 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 |
 | 73 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 |
-| 74 | [Hole In My Home](https://open.spotify.com/track/39Dd3JAlz0IxRVtfB0mR3J) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 3:32 |
+| 74 | [Big Mouth](https://open.spotify.com/track/5NpAghBCYAYELwgeaIzj0z) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Big Mouth](https://open.spotify.com/album/0ll2OHVzsVRz7vkbZBbiQA) | 2:09 |
 | 75 | [Nothing's As It Seems](https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Nothing's As It Seems](https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7) | 3:42 |
 | 76 | [Breakdown In My Bedroom](https://open.spotify.com/track/2kRQnZAR5rtR7Opn9IPshm) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Breakdown In My Bedroom](https://open.spotify.com/album/133sF0Z8zU7o3LUBm2ssQ7) | 3:33 |
 | 77 | [Let's Leave Together](https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Death & Love, Pt\. 1](https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK) | 3:20 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 80 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 81 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
 | 82 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
-| 83 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
+| 83 | [American Nights & English Mornings](https://open.spotify.com/track/46xG9c1QESN8uKQiL8f3YA) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [American Nights & English Mornings](https://open.spotify.com/album/4jeyDNsaj16dLsDIVsVp09) | 3:14 |
 | 84 | [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 |
-| 85 | [American Nights & English Mornings](https://open.spotify.com/track/46xG9c1QESN8uKQiL8f3YA) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [American Nights & English Mornings](https://open.spotify.com/album/4jeyDNsaj16dLsDIVsVp09) | 3:14 |
+| 85 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
 | 86 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 | 87 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 88 | [Adrenaline](https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Ballad Of A Bystander](https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ) | 3:00 |
 | 89 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
 | 90 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 |
 | 91 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
-| 92 | [Fly Away](https://open.spotify.com/track/42ryTZsxvCHyo5fYsnt7cD) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Fly Away](https://open.spotify.com/album/3OjsDq7R6vwPvfroafuqfs) | 4:18 |
-| 93 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
-| 94 | [Thinking About You](https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:07 |
-| 95 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
+| 92 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
+| 93 | [Thinking About You](https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:07 |
+| 94 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
+| 95 | [Fly Away](https://open.spotify.com/track/42ryTZsxvCHyo5fYsnt7cD) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Fly Away](https://open.spotify.com/album/3OjsDq7R6vwPvfroafuqfs) | 4:18 |
 | 96 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 |
-| 97 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 |
+| 97 | [Life Will Go On](https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [When Youth Fades Away](https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u) | 3:36 |
 | 98 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 |
-| 99 | [Life Will Go On](https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [When Youth Fades Away](https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u) | 3:36 |
+| 99 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 |
 | 100 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 |
 
 Snapshot ID: `AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ`

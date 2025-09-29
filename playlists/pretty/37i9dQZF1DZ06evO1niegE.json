@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8603,
+  "num_followers": 8607,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABEgrz618WeTrAuCFyztazg",
+  "snapshot_id": "aNcpAAAAAAAKcwUbJJETMvepfL492d5O",
   "tracks": [
     {
       "added_at": null,
@@ -459,74 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Ojal\u00e1 Te Vaya Mal",
-      "url": "https://open.spotify.com/track/2tQjKz9dpge3nwSNLPgvuY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "El Club",
-      "url": "https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Viaje Al Amanecer",
-      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo en la Tierra",
         "url": "https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6"
       },
@@ -547,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
@@ -556,25 +488,29 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 190053,
-      "name": "Casual (YTQDV)",
-      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/2tQjKz9dpge3nwSNLPgvuY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
       "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Mundo Cruel",
-      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
     },
     {
       "added_at": null,
@@ -588,9 +524,41 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Como Quisiera",
-      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
+      "duration_ms": 238600,
+      "name": "Viaje Al Amanecer",
+      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Casual (YTQDV)",
+      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
     },
     {
       "added_at": null,
@@ -611,6 +579,38 @@
       "duration_ms": 217232,
       "name": "M\u00cdO",
       "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Mundo Cruel",
+      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -804,29 +804,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Te Da Igual",
-        "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
-      },
-      "artists": [
-        {
-          "name": "Soy Os",
-          "url": "https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Todo Te Da Igual",
-      "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
+      "duration_ms": 226586,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
       "duration_ms": 176000,
       "name": "VHS",
       "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Te Da Igual",
+        "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
+      },
+      "artists": [
+        {
+          "name": "Soy Os",
+          "url": "https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Todo Te Da Igual",
+      "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
     },
     {
       "added_at": null,

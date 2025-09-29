@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 134 | [No One Like The Lord / King of Glory \(feat\. Eniola Abioye\) \- Live](https://open.spotify.com/track/6AcSOvYb3jeOoZ5EAj8BFL) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/0EUFBRnb0TbFkpSFRbIvHY) | 16:54 |
 | 135 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `Ab9YRgAAAABjFf9HGONRP2aM+WhvSt0c`
+Snapshot ID: `Ab9dyAAAAAAWZNfzM3FfwlWQ2TIk6GHi`

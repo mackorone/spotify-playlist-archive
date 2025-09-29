@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 530772,
+  "num_followers": 530944,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
         "name": "Love, Ella",
         "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
       },
@@ -403,38 +419,6 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 156506,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Tears Dry On Their Own",
-      "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+      "duration_ms": 185186,
+      "name": "Tears Dry On Their Own",
+      "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
     },
     {
       "added_at": "2025-09-06 23:00:06",
@@ -495,6 +479,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2025-09-06 23:00:06",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "Greatest Motown Hits",
-        "url": "https://open.spotify.com/album/1tW5QSPVGeD5U0WzPFGTAX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/09Nlhtnn087cbbhMzuInxy"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
         "name": "Morning Matters",
         "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
+        "name": "Greatest Motown Hits",
+        "url": "https://open.spotify.com/album/1tW5QSPVGeD5U0WzPFGTAX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/09Nlhtnn087cbbhMzuInxy"
     },
     {
       "added_at": "2025-09-06 23:00:06",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
         "name": "Why Not More? (MORE!)",
         "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 196706,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
+        "name": "Ain't I Good For You",
+        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "Ain't I Good For You",
+      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
     },
     {
       "added_at": "2025-09-06 23:00:06",
@@ -795,6 +811,26 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2025-09-06 23:00:06",
@@ -831,42 +867,6 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
-        "name": "Ain't I Good For You",
-        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "Ain't I Good For You",
-      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "Definitive Soul: Spinners",
-        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "It's A Shame - Remastered",
-      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
+        "name": "Definitive Soul: Spinners",
+        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "It's A Shame - Remastered",
+      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
         "name": "Sun Is Gone",
         "url": "https://open.spotify.com/album/1khO1egdgcjU26efaTHLb0"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 195887,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2025-09-06 23:00:06",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-09-06 23:00:06",
       "album": {
+        "name": "Renascence",
+        "url": "https://open.spotify.com/album/0jHsTZnD9lsOWvZBkVtNDY"
+      },
+      "artists": [
+        {
+          "name": "Cymande",
+          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+        }
+      ],
+      "duration_ms": 291664,
+      "name": "Coltrane",
+      "url": "https://open.spotify.com/track/5bkI4gJhfKheZ5WwgjvN5c"
+    },
+    {
+      "added_at": "2025-09-06 23:00:06",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
-    },
-    {
-      "added_at": "2025-09-06 23:00:06",
-      "album": {
-        "name": "Renascence",
-        "url": "https://open.spotify.com/album/0jHsTZnD9lsOWvZBkVtNDY"
-      },
-      "artists": [
-        {
-          "name": "Cymande",
-          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
-        }
-      ],
-      "duration_ms": 291664,
-      "name": "Coltrane",
-      "url": "https://open.spotify.com/track/5bkI4gJhfKheZ5WwgjvN5c"
     },
     {
       "added_at": "2025-09-06 23:00:06",

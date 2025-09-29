@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 208874,
+  "num_followers": 208875,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADYmQubbDLkQcWsyCzGz5wfQ+Ygz",
+  "snapshot_id": "AAAAAKOrrBS7rR7ag82kjYeqsbuyAudM",
   "tracks": [
     {
       "added_at": "2025-09-14 09:15:48",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Love Is A Fight",
-        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 213716,
-      "name": "Love Is A Fight",
-      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Love Me Like I Am",
         "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 184103,
       "name": "Love Me Like I Am",
       "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Love Is A Fight",
+        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 213716,
+      "name": "Love Is A Fight",
+      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "The Magic",
-        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 189862,
-      "name": "The Magic",
-      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "What Are We Waiting For? +",
         "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189142,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 189862,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "All Over The World",
-        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "All Over The World",
-      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Falling At The Thought Of You",
         "url": "https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 170201,
       "name": "Falling At The Thought Of You",
       "url": "https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Cortado",
-        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 160514,
-      "name": "Cortado",
-      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "If It Wasn't You",
         "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 186473,
       "name": "If It Wasn't You",
       "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 160514,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Britt Nicole (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Fallin In Love",
-      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "With Love, Anike",
         "url": "https://open.spotify.com/album/0LHtU4Hcv2OEfW3xaBHX4p"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 216446,
       "name": "SHOW ME LOVE AGAIN",
       "url": "https://open.spotify.com/track/0r3fryvorHwYl4pPIJilco"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Britt Nicole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Fallin In Love",
+      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 178387,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 298092,
       "name": "Capuchino de Amor",
       "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 178387,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Let Me Be There",
         "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 185095,
       "name": "Laughter In The Rain",
       "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2025-09-14 09:15:48",

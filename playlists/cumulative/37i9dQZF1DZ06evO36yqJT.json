@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "You Can Make It",
+        "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355333,
+      "name": "It's Under the Blood",
+      "url": "https://open.spotify.com/track/6D9wJt6lfTdR4ZZjshFS9X"
+    },
+    {
+      "album": {
         "name": "Jesus I Love Calling Your Name",
         "url": "https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 287226,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/0EwrqWRthgHdUwD6nbtNRa"

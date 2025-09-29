@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 337106,
+  "num_followers": 337115,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -643,26 +659,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -687,18 +683,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+        "name": "I",
+        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Move Your Body - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 213946,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "Move Your Body - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
     },
     {
       "added_at": "2023-08-25 09:30:35",

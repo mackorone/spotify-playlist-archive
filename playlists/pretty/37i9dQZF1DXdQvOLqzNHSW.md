@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,986 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,905 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 60 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
 | 61 | [Go Go Chaos](https://open.spotify.com/track/7EW6U2Qiikd51ApDZmllMx) | [Bonjah](https://open.spotify.com/artist/3SGCwaCfLxx2axpPq9J5LC) | [Go Go Chaos](https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y) | 4:04 |
 | 62 | [Human Breach](https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP) | [LOMELI](https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB) | [I Ask Nothing of You](https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT) | 4:14 |
-| 63 | [negotiate](https://open.spotify.com/track/5dvS2lWBnnvG1t4FE2PTFD) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [negotiate](https://open.spotify.com/album/2Zt49RShX3Gr4aouDdqeEj) | 3:06 |
-| 64 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
+| 63 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
+| 64 | [negotiate](https://open.spotify.com/track/5dvS2lWBnnvG1t4FE2PTFD) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [negotiate](https://open.spotify.com/album/2Zt49RShX3Gr4aouDdqeEj) | 3:06 |
 | 65 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
 | 66 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
 | 67 | [go steady](https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [go steady](https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3) | 3:57 |
@@ -90,20 +90,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 80 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
 | 81 | [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 |
 | 82 | [What’s In The Tea?](https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45) | [Calimossa](https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q) | [What’s In The Tea?](https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO) | 2:53 |
-| 83 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
-| 84 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
+| 83 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
+| 84 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 85 | [Dot](https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 5:22 |
 | 86 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
 | 87 | [I'll Never Leave](https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:17 |
 | 88 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 |
-| 89 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 |
+| 89 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
 | 90 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
-| 91 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
-| 92 | [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 |
-| 93 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 91 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 |
+| 92 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 93 | [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 |
 | 94 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 |
-| 95 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
-| 96 | [Falling in Loves too Mean](https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Hether Who?](https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA) | 2:56 |
+| 95 | [Falling in Loves too Mean](https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Hether Who?](https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA) | 2:56 |
+| 96 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
 | 97 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |
 | 98 | [Fallin 4 Ya Luv](https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Café Noir](https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI) | 2:20 |
 | 99 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |

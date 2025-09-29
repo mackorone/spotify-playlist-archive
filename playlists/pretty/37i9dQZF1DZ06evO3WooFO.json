@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 612351,
+  "num_followers": 612376,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAtyfp/oPVKHxIvreVQcWem",
+  "snapshot_id": "aNcpAAAAAAABZt+r2P17TIPL5yGCMW83",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 30213,
-      "name": "Brohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cheshire Cat",
         "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 194960,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 30213,
+      "name": "Brohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE MORE TIME... PART-2",
-        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 138460,
-      "name": "FELL IN LOVE",
-      "url": "https://open.spotify.com/track/3zwRNJfoHAioyZJOkxJJ9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cheshire Cat",
         "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 159773,
       "name": "M+M's",
       "url": "https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 138460,
+      "name": "FELL IN LOVE",
+      "url": "https://open.spotify.com/track/3zwRNJfoHAioyZJOkxJJ9Z"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddha",
-        "url": "https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw"
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 64560,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL"
+      "duration_ms": 179440,
+      "name": "Pin the Grenade",
+      "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+        "name": "Buddha",
+        "url": "https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Pin the Grenade",
-      "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
+      "duration_ms": 64560,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Noi e il tuo specchio non ti giudicheremo mai, promesso \ud83e\udd1e\ud83c\udffc",
-  "num_followers": 361211,
+  "num_followers": 361231,
   "original_name": "Hit da cantare (come se nessuno ti stesse guardando)",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
-    },
-    {
-      "added_at": "2025-09-01 08:49:42",
-      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 259453,
       "name": "She Will Be Loved - Radio Mix",
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "added_at": "2025-09-01 08:49:42",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2025-09-01 08:49:42",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2025-09-01 08:49:42",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2025-09-01 08:49:42",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2025-09-01 08:49:42",
@@ -755,8 +755,8 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2025-09-01 08:49:42",
@@ -835,8 +835,8 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2025-09-01 08:49:42",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "Sotto una pioggia di parole",
-        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Per dimenticare",
-      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
-    },
-    {
-      "added_at": "2025-09-01 08:49:42",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
+    },
+    {
+      "added_at": "2025-09-01 08:49:42",
+      "album": {
+        "name": "Sotto una pioggia di parole",
+        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
+      },
+      "artists": [
+        {
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Per dimenticare",
+      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
     },
     {
       "added_at": "2025-09-01 08:49:42",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "CHIAMO IO CHIAMI TU",
-        "url": "https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS"
-      },
-      "artists": [
-        {
-          "name": "Gaia",
-          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
-        }
-      ],
-      "duration_ms": 218068,
-      "name": "CHIAMO IO CHIAMI TU",
-      "url": "https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5"
-    },
-    {
-      "added_at": "2025-09-01 08:49:42",
-      "album": {
         "name": "Fuori dall'Hype Ringo Starr",
         "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 214733,
       "name": "Ridere",
       "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
+    },
+    {
+      "added_at": "2025-09-01 08:49:42",
+      "album": {
+        "name": "CHIAMO IO CHIAMI TU",
+        "url": "https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "duration_ms": 218068,
+      "name": "CHIAMO IO CHIAMI TU",
+      "url": "https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5"
     },
     {
       "added_at": "2025-09-01 08:49:42",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-09-01 08:49:42",
       "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
-    },
-    {
-      "added_at": "2025-09-01 08:49:42",
-      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 236417,
       "name": "Pastello Bianco",
       "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
+    },
+    {
+      "added_at": "2025-09-01 08:49:42",
+      "album": {
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2025-09-01 08:49:42",

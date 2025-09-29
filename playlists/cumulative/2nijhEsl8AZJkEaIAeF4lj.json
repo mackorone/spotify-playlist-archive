@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "If I Were to Die",
+        "url": "https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225116,
+      "name": "If I Were to Die",
+      "url": "https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ"
+    },
+    {
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,640 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 41 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
 | 42 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
 | 43 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
-| 44 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
-| 45 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
-| 46 | [Higher \- Single Version](https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:47 |
+| 44 | [Turn Me Loose](https://open.spotify.com/track/5min27LLty1G9R270gS0p4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 1:55 |
+| 45 | [Higher \- Single Version](https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:47 |
+| 46 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
 | 47 | [Medley: Higher/Music Lover \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 7:50 |
-| 48 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
-| 49 | [Turn Me Loose](https://open.spotify.com/track/5min27LLty1G9R270gS0p4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 1:55 |
-| 50 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
+| 48 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
+| 49 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
+| 50 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
 
-Snapshot ID: `aNXXgAAAAAC1FuatWhpglTUv35EhXMAC`
+Snapshot ID: `aNcpAAAAAAB5AcIjAvUFUn1sPkqy2+D2`

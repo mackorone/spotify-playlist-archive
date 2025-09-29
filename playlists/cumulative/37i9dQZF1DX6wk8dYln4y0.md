@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: aleksiah
 
-605 songs - 1 day 8 hr 38 min
+606 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [BITCHES BREW](https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:31 | 2025-05-15 | 2025-06-26 |
 | [Bless the Internet](https://open.spotify.com/track/6RGWdRv5ZZSHO7TqGrRAk5) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [tell me if the world is gonna end](https://open.spotify.com/album/5M6DBibWNDlicJ1mAsnK9C) | 2:44 | 2024-12-05 | 2025-01-10 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-12 |  |
+| [Blue Moon](https://open.spotify.com/track/20R5YwjmKubeva79prlvJq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:02 | 2025-09-25 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 |  |
 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 | 2025-09-12 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-09 |  |
@@ -292,7 +293,7 @@
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-02-20 | 2025-08-22 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-04-04 |
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-02-13 | 2025-04-05 |
-| [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 | 2025-09-25 |  |
+| [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 | 2025-09-25 | 2025-09-29 |
 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 | 2025-07-24 | 2025-08-03 |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-25 | 2023-09-10 |
 | [Julie's House](https://open.spotify.com/track/6wIy2XMSP4q7FPq22g8oIZ) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Julie's House](https://open.spotify.com/album/7gnzw64SgJ73FGO4jAMoTZ) | 4:41 | 2025-05-08 | 2025-05-23 |

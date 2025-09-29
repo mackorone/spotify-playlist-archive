@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106206,
+  "num_followers": 106216,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADTB3S4wnBaFOxKmfT3nijo",
+  "snapshot_id": "aNcpAAAAAADc6I7OjfTmgq8jMYJx/wXq",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+        "name": "Carnaval De Exitos",
+        "url": "https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM"
       },
       "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 342173,
-      "name": "Toro Mata",
-      "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
+      "duration_ms": 232400,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnaval De Exitos",
-        "url": "https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 232400,
-      "name": "Que Le Den Candela",
-      "url": "https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK"
+      "duration_ms": 342173,
+      "name": "Toro Mata",
+      "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Vieja Luna",
-      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 156866,
       "name": "No Encuentro Palabras",
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Vieja Luna",
+      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
     },
     {
       "added_at": null,

@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 ### [Furry Radio](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
 
-> Made for furs, by furs\.  Check out FurryRadio.com
+> FurryRadio.com, made for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 716 likes - 376 songs - 19 hr 42 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 722 likes - 376 songs - 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 |
-| 2 | [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 |
+| 2 | [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 |
 | 3 | [I cant stop making mistakes](https://open.spotify.com/track/6iD8XQ4eVCZG4OouuTsKHY) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [I cant stop making mistakes](https://open.spotify.com/album/68mFu6qBeVMEXtf1KPoSEo) | 1:44 |
-| 4 | [Tryna Be](https://open.spotify.com/track/2xPq5i3aCHq65THwUTeCJh) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See\-Through](https://open.spotify.com/album/0ZkkL7C35NV9vevX3oSm7m) | 2:23 |
-| 5 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 |
-| 6 | [Trainhopper](https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri), [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Trainhopper](https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu) | 1:52 |
+| 4 | [dogwhistle](https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [my teeth will free you](https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR) | 4:49 |
+| 5 | [Tryna Be](https://open.spotify.com/track/2xPq5i3aCHq65THwUTeCJh) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See\-Through](https://open.spotify.com/album/0ZkkL7C35NV9vevX3oSm7m) | 2:23 |
+| 6 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 |
 | 7 | [okay, fine.](https://open.spotify.com/track/5FYM1FA3QBT8QM8g6NEYoI) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [okay, fine.](https://open.spotify.com/album/08k2Hkqia0NIZcZ9haOZ3Z) | 2:09 |
-| 8 | [dogwhistle](https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [my teeth will free you](https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR) | 4:49 |
+| 8 | [Trainhopper](https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri), [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Trainhopper](https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu) | 1:52 |
 | 9 | [the power of manipulation](https://open.spotify.com/track/5kwdyWSTgvkyCvE2E1dp4t) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [the power of manipulation](https://open.spotify.com/album/11Dc7hF7oPmH9ulwn8oIxL) | 3:34 |
-| 10 | [Therianthropy](https://open.spotify.com/track/7gZQMic7mgHNpD4F2rJEBl) | [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Therianthropy](https://open.spotify.com/album/13lhFQ67OSlrmlXSFmF782) | 4:58 |
-| 11 | [Kill Me](https://open.spotify.com/track/1aPUJE7BWylI4cjpQQRBs8) | [Joseph Barmon](https://open.spotify.com/artist/6XmkZvLVh3ct1FReteWY7t), [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM) | [Kill Me](https://open.spotify.com/album/7AtO7tTV3q9V0V95Ku9SSA) | 3:26 |
-| 12 | [Magnetic](https://open.spotify.com/track/2XSi3EMeKsCUbI9HLgk5JP) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Magnetic](https://open.spotify.com/album/3enpfoY39g32QfaS4zs2n9) | 3:02 |
-| 13 | [Webpunk](https://open.spotify.com/track/3Hx9z2y10IRs1bdE18PVsh) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [Love & Ponystep](https://open.spotify.com/album/2g5xTWYxh5RkalkOc2Rxds) | 3:58 |
-| 14 | [Xenia](https://open.spotify.com/track/4aVaL6jY0gwmzbpwFf0Wnu) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [Baby Trans](https://open.spotify.com/album/3ScDRn8pt2TV2KNKCAgmiC) | 2:29 |
-| 15 | [Energy Drink](https://open.spotify.com/track/6T8KeH4lZDTnQeaxRkTwTn) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs), [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P), [Kaito Fox](https://open.spotify.com/artist/2AlBONFADL42MfVe9yFCpF) | [SDM 01: The Beginning](https://open.spotify.com/album/2jzBQjYGit8ZthH6LAPLjp) | 2:42 |
-| 16 | [Solstice](https://open.spotify.com/track/0pvk4XW3NGJ0lXZvt1r5Qx) | [Bandit the Raccoon](https://open.spotify.com/artist/23hVrr6FU5ODEaCMZ7b2pM), [Jaiko](https://open.spotify.com/artist/7begZdMXA61zMi6hUFE21R) | [Solstice \(EP\)](https://open.spotify.com/album/3eWGxKezdmD5OD759iM9Fn) | 3:58 |
-| 17 | [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 |
+| 10 | [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 |
+| 11 | [Therianthropy](https://open.spotify.com/track/7gZQMic7mgHNpD4F2rJEBl) | [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Therianthropy](https://open.spotify.com/album/13lhFQ67OSlrmlXSFmF782) | 4:58 |
+| 12 | [Kill Me](https://open.spotify.com/track/1aPUJE7BWylI4cjpQQRBs8) | [Joseph Barmon](https://open.spotify.com/artist/6XmkZvLVh3ct1FReteWY7t), [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM) | [Kill Me](https://open.spotify.com/album/7AtO7tTV3q9V0V95Ku9SSA) | 3:26 |
+| 13 | [Magnetic](https://open.spotify.com/track/2XSi3EMeKsCUbI9HLgk5JP) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Magnetic](https://open.spotify.com/album/3enpfoY39g32QfaS4zs2n9) | 3:02 |
+| 14 | [Webpunk](https://open.spotify.com/track/3Hx9z2y10IRs1bdE18PVsh) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [Love & Ponystep](https://open.spotify.com/album/2g5xTWYxh5RkalkOc2Rxds) | 3:58 |
+| 15 | [Xenia](https://open.spotify.com/track/4aVaL6jY0gwmzbpwFf0Wnu) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [Baby Trans](https://open.spotify.com/album/3ScDRn8pt2TV2KNKCAgmiC) | 2:29 |
+| 16 | [Energy Drink](https://open.spotify.com/track/6T8KeH4lZDTnQeaxRkTwTn) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs), [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P), [Kaito Fox](https://open.spotify.com/artist/2AlBONFADL42MfVe9yFCpF) | [SDM 01: The Beginning](https://open.spotify.com/album/2jzBQjYGit8ZthH6LAPLjp) | 2:42 |
+| 17 | [Solstice](https://open.spotify.com/track/0pvk4XW3NGJ0lXZvt1r5Qx) | [Bandit the Raccoon](https://open.spotify.com/artist/23hVrr6FU5ODEaCMZ7b2pM), [Jaiko](https://open.spotify.com/artist/7begZdMXA61zMi6hUFE21R) | [Solstice \(EP\)](https://open.spotify.com/album/3eWGxKezdmD5OD759iM9Fn) | 3:58 |
 | 18 | [SPOTS 2](https://open.spotify.com/track/4duDZn6Idgy9qH9Yl95pTs) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS 2](https://open.spotify.com/album/43rqwQewbnqPw1S8EUgOyC) | 2:30 |
 | 19 | [So Right](https://open.spotify.com/track/1BJ4cnNwfJx1N9TQ1V7EcW) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See This Day Come](https://open.spotify.com/album/5IzQnzMlWwLsjYxdlKSw4y) | 2:56 |
 | 20 | [Idolize](https://open.spotify.com/track/78Ol3nUXejDT4XnaIwTP8d) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU), [WORLDWIDEWOLF](https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV) | [Idolize](https://open.spotify.com/album/2PNLETgw15vhbWlaA7RLeu) | 4:03 |
@@ -385,4 +385,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 375 | [Lone Skater](https://open.spotify.com/track/0vzIdVmpB0rSfGJROfIBLM) | [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Lone Skater](https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN) | 3:44 |
 | 376 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 |
 
-Snapshot ID: `AAAEEVnpbn3byijJ83uiTvHChZVw+w79`
+Snapshot ID: `AAAEGXfdtIY+VNkD3VtjiI2hNXFLGFbX`

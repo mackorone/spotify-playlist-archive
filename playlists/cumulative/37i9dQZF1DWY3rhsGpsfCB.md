@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-840 songs - 1 day 19 hr 17 min
+841 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Addicted](https://open.spotify.com/track/5DxOi1PJsqLupAo5ZBT6jL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 1:59 | 2025-08-29 |  |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-05-09 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-05 | 2024-10-26 |
-| [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-09-20 |  |
+| [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-09-20 | 2025-09-29 |
 | [Ain't Shit](https://open.spotify.com/track/4XObjc7nQCCMarEjTrrnxL) | [Niambi](https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6) | [Ain't Shit](https://open.spotify.com/album/44Qy2nUgkwik1iRaNAaSOd) | 3:13 | 2024-11-22 | 2025-02-22 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-28 | 2022-10-01 |
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-08-05 |
@@ -361,6 +361,7 @@
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 | 2023-02-11 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-09-29 |
 | [JUDAH LION](https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [JUDAH LION](https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg) | 3:38 | 2022-11-04 | 2022-12-09 |
+| [Julie](https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Muse](https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3) | 2:10 | 2025-09-26 |  |
 | [JULY](https://open.spotify.com/track/3rQEMJGx2f2W5q2MlhS5F9) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Nora](https://open.spotify.com/artist/5aqI6maLb5AUJLQRfGudhN), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [JULY](https://open.spotify.com/album/0rwWIdruplKKSu4RpQ7cMs) | 3:38 | 2025-09-05 | 2025-09-19 |
 | [Jump Up Skirt](https://open.spotify.com/track/5h5owfuUP5Te0LFGJQPBHk) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Jump Up Skirt](https://open.spotify.com/album/4fc7TNhO0DWeE9eosCps7D) | 1:58 | 2024-03-22 | 2024-05-09 |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-02-17 |

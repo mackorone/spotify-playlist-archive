@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 187458,
+  "num_followers": 187476,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAZZOlefQDxLh76qUF5aow0",
+  "snapshot_id": "aNcpAAAAAABUlyrtEpntTj65PpgAiQCf",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 209666,
-      "name": "A Woman Left Lonely",
-      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Get It While You Can",
-      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 234366,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 83461,
       "name": "Talk, Pt.1 - Live",
       "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,

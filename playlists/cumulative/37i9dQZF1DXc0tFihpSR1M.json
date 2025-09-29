@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "DEPRESSED",
+        "url": "https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138332,
+      "name": "DEPRESSED",
+      "url": "https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW"
+    },
+    {
+      "album": {
         "name": "05050",
         "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
       },
@@ -5420,7 +5438,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"

@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Give Me One Reason",
+        "url": "https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD"
+    },
+    {
+      "album": {
         "name": "Gnarly (Clean Edit)",
         "url": "https://open.spotify.com/album/2h98KUNEJEL1NNfG4IbrDp"
       },
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 149669,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
@@ -5081,6 +5099,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
         "name": "Somebody Else's",
         "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
       },
@@ -5320,7 +5356,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 205727,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/2zXQCwTdgEIPxz3iX3plIY"

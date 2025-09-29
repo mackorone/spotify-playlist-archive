@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,017 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,087 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 24 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
 | 25 | [Our Love](https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Corazón](https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1) | 2:28 |
 | 26 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:08 |
-| 27 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
-| 28 | [The Green Leaves Of Summer](https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Best Of Nelson Riddle](https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl) | 2:24 |
+| 27 | [The Green Leaves Of Summer](https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Best Of Nelson Riddle](https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl) | 2:24 |
+| 28 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
 | 29 | [Market Day](https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:30 |
 | 30 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
 | 31 | [The Song from 'moulin Rouge' \(Where Is Your Heart\)](https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Music From Hollywood](https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4) | 5:51 |
 | 32 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
 | 33 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Robert Maxwell](https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB), [Carl Sigman](https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
-| 34 | [Theme From "Bus Stop"](https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Champagne, Candlelight And Kisses](https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx) | 3:42 |
-| 35 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
+| 34 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
+| 35 | [Theme From "Bus Stop"](https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Champagne, Candlelight And Kisses](https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx) | 3:42 |
 | 36 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
 | 37 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 38 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8577,
+  "num_followers": 8582,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAC0HE7+ccON7uyr2nVv4Au",
+  "snapshot_id": "aNcpAAAAAAA0XDq2R9xpM3Bmd6Sq2flk",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u0219e",
-        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
       },
       "artists": [
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Ma\u0219e",
-      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+      "duration_ms": 245626,
+      "name": "Good Or Bad (Oway)",
+      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
       "added_at": null,
@@ -127,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u0219e",
+        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Ma\u0219e",
+      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Serious",
-        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
-      },
-      "artists": [
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "Good Or Bad (Oway)",
-      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum - Machel Montano Remix",
       "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
     },
     {
       "added_at": null,

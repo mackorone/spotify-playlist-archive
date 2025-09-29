@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Mikael Gabriel.",
-  "num_followers": 26277,
+  "num_followers": 26281,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-09-25 21:01:13",
       "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "Safe (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+    },
+    {
+      "added_at": "2025-09-25 21:01:13",
+      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -1375,22 +1395,6 @@
     {
       "added_at": "2025-09-25 21:01:13",
       "album": {
-        "name": "American Heart",
-        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Mr Electric Blue",
-      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
-    },
-    {
-      "added_at": "2025-09-25 21:01:13",
-      "album": {
         "name": "we never dated",
         "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
       },
@@ -1407,22 +1411,18 @@
     {
       "added_at": "2025-09-25 21:01:13",
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 177886,
-      "name": "Safe (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+      "duration_ms": 190320,
+      "name": "Mr Electric Blue",
+      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
     },
     {
       "added_at": "2025-09-25 21:01:13",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-09-25 21:01:13",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
-    },
-    {
-      "added_at": "2025-09-25 21:01:13",
-      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+    },
+    {
+      "added_at": "2025-09-25 21:01:13",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
     },
     {
       "added_at": "2025-09-25 21:01:13",
@@ -1663,18 +1663,26 @@
     {
       "added_at": "2025-09-25 21:01:13",
       "album": {
-        "name": "The Contract",
-        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+        "name": "Something Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
         }
       ],
-      "duration_ms": 228000,
-      "name": "The Contract",
-      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+      "duration_ms": 229458,
+      "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
+      "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
     },
     {
       "added_at": "2025-09-25 21:01:13",
@@ -1703,26 +1711,18 @@
     {
       "added_at": "2025-09-25 21:01:13",
       "album": {
-        "name": "Something Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        },
-        {
-          "name": "Mick Fleetwood",
-          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 229458,
-      "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
-      "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
     },
     {
       "added_at": "2025-09-25 21:01:13",

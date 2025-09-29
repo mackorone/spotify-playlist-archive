@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc85 amo, troppo noi \ud83e\udec2",
-  "num_followers": 3229,
+  "num_followers": 3235,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "Savage Love (Laxed - Siren Beat)",
         "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 171374,
       "name": "Savage Love (Laxed - Siren Beat)",
       "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "Faccio un casino",
         "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2025-05-28 13:33:55",

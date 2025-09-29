@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
@@ -4302,10 +4302,36 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+    },
+    {
+      "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/75ganPv831RMYXCwQlWzsN"
     },
     {
       "album": {
@@ -4842,7 +4868,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 250466,
       "name": "Triumphant (Get 'Em)",
       "url": "https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL"
@@ -4915,6 +4941,24 @@
     },
     {
       "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/2G0ut5Ii61RrxTjr18sYnI"
+    },
+    {
+      "album": {
         "name": "Type Dangerous",
         "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
       },
@@ -4926,7 +4970,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
@@ -5096,7 +5140,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"

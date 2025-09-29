@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 173434,
+  "num_followers": 173452,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACVAIxBeMMs7+hyRcIsGBwr",
+  "snapshot_id": "aNcpAAAAAAALm0pvyT7Mis2jfO829iEb",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ay Mi Dios",
+        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 252003,
+      "name": "Ay Mi Dios",
+      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -195,34 +223,6 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ay Mi Dios",
-        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 252003,
-      "name": "Ay Mi Dios",
-      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De L\u00edder a Leyenda",
+        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Moviendo Caderas (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 315440,
       "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
       "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De L\u00edder a Leyenda",
-        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Moviendo Caderas (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 194941,
-      "name": "Sigo Enamorau'",
-      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 185973,
       "name": "La Calle Me Lo Pidio",
       "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 194941,
+      "name": "Sigo Enamorau'",
+      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
     },
     {
       "added_at": null,
@@ -1067,6 +1067,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap Capos II",
+        "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "Doble Personalidad",
+      "url": "https://open.spotify.com/track/63Sj8CfN6RtKBES7G7l5Bp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sr. Santos II Sue\u00f1os de Grandeza",
         "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
       },
@@ -1091,30 +1115,6 @@
       "duration_ms": 293156,
       "name": "Wells Fargo",
       "url": "https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap Capos II",
-        "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "Doble Personalidad",
-      "url": "https://open.spotify.com/track/63Sj8CfN6RtKBES7G7l5Bp"
     },
     {
       "added_at": null,

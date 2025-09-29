@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,997 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,899 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 37 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 38 | [The Power Of Love](https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [The Power Of Love](https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ) | 2:19 |
 | 39 | [Kids](https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Kids](https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv) | 2:09 |
-| 40 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
-| 41 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 |
+| 40 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 |
+| 41 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 42 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |
 | 43 | [Refuge](https://open.spotify.com/track/1PCkDEDApsRDfUIIp7uEp3) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Refuge / Ur Alive](https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ) | 3:21 |
 | 44 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |

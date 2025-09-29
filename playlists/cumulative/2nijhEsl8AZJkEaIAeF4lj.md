@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-345 songs - 22 hr 13 min
+346 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 | 2025-08-08 |  |
 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 | 2025-05-25 |  |
 | [I\. Flight of the Navigator](https://open.spotify.com/track/5k8eNtmqlKe21qjIFIp1Du) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 5:44 | 2020-04-01 |  |
+| [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 | 2025-09-28 |  |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2020-11-28 |  |
 | [II HANDS II HEAVEN](https://open.spotify.com/track/2g042sh2sg0fmOrr1lApqi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 5:41 | 2024-11-12 |  |
 | [III\. Telegraph Ave\. \("Oakland" by Lloyd\)](https://open.spotify.com/track/0VXfZi7XhfJnuBvF6XiypU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:30 | 2019-09-16 |  |

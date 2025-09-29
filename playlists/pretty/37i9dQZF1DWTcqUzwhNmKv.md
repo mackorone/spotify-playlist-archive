@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > PRESIDENT are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,603,227 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,603,487 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [carry on for you](https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [THE WHEEL](https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv) | 4:21 |
 | 80 | [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 |
 
-Snapshot ID: `AAAAANKJBqQStRV3MaPY1GmKmIig5MUX`
+Snapshot ID: `AAAAAAzlq1PS2WJv5JgmsFO2MOlEy+/B`

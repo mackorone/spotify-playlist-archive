@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Larissa Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,944 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,947 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 41 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
 | 42 | [O Caminho \- Ao Vivo](https://open.spotify.com/track/1aDRZ7fQdnUfCq5hFzIWmn) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [O Caminho \(Ao Vivo\)](https://open.spotify.com/album/7ogKkqtvKtLVa0JfjUHsmi) | 4:37 |
 | 43 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
-| 44 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
-| 45 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
+| 44 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
+| 45 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 | 46 | [Vida Boa](https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa) | [Marllon Ribeiro](https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l) | [Vida Boa](https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F) | 4:43 |
 | 47 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
 | 48 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |

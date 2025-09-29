@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pa perrear y carretear non stop!",
-  "num_followers": 145102,
+  "num_followers": 145094,
   "original_name": "Carrete",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -731,6 +731,34 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
         "name": "Si Se da Remix",
         "url": "https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6"
       },
@@ -759,34 +787,6 @@
       "duration_ms": 332240,
       "name": "Si Se Da - Remix",
       "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -1015,42 +1015,6 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
-        "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
-        "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 241659,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
+        "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
+        "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 241659,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "CONTIGO VOY A MUERTE",
-      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
         "name": "Fantasias",
         "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 199711,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "CONTIGO VOY A MUERTE",
+      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
-        "name": "El Pr\u00edncipe [Ghost Edition]",
-        "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 238564,
-      "name": "Prrrum",
-      "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 184254,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
+        "name": "El Pr\u00edncipe [Ghost Edition]",
+        "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 238564,
+      "name": "Prrrum",
+      "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -1743,6 +1743,38 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
+        "name": "La Jeepeta (Remix)",
+        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "La Jeepeta - Remix",
+      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
         "name": "105 F Remix",
         "url": "https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w"
       },
@@ -1783,38 +1815,6 @@
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
-        "name": "La Jeepeta (Remix)",
-        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "La Jeepeta - Remix",
-      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
     },
     {
       "added_at": "2025-09-02 16:38:49",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2025-09-02 16:38:49",
       "album": {
+        "name": "Monastery",
+        "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Monastery",
+      "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
+    },
+    {
+      "added_at": "2025-09-02 16:38:49",
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -2011,26 +2031,6 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
-    },
-    {
-      "added_at": "2025-09-02 16:38:49",
-      "album": {
-        "name": "Monastery",
-        "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Monastery",
-      "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
     },
     {
       "added_at": "2025-09-02 16:38:49",

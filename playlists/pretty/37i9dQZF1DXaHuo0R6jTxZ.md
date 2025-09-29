@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,254 likes - 40 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,279 likes - 40 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 15 | [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 |
 | 16 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
 | 17 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 |
-| 18 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
+| 18 | [Didi](https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [1, 2, 3 Soleils](https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO) | 6:08 |
 | 19 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 |
 | 20 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
 | 21 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 | 22 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
-| 23 | [Didi](https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [1, 2, 3 Soleils](https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO) | 6:08 |
+| 23 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
 | 24 | [Tallou Hbabna](https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [The Very Best Of Wadi Al\-Safi](https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9) | 3:04 |
 | 25 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
 | 26 | [Ya Alby](https://open.spotify.com/track/6mFeZYWPxxcncrVdgsm7gK) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Ya Alby](https://open.spotify.com/album/5WzH9MSuo5vX7CUDMHcU37) | 3:57 |

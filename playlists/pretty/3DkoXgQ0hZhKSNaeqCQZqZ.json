@@ -1,12 +1,12 @@
 {
-  "description": "Made for furs, by furs.  Check out FurryRadio.com",
-  "num_followers": 716,
+  "description": "FurryRadio.com, made for furs, by furs. ",
+  "num_followers": 722,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEEVnpbn3byijJ83uiTvHChZVw+w79",
+  "snapshot_id": "AAAEGXfdtIY+VNkD3VtjiI2hNXFLGFbX",
   "tracks": [
     {
       "added_at": "2025-04-14 15:57:34",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br"
     },
     {
-      "added_at": "2025-09-22 20:12:06",
+      "added_at": "2025-04-12 07:35:53",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26"
+        "name": "iPop",
+        "url": "https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P"
       },
       "artists": [
         {
-          "name": "ivycomb",
-          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
         }
       ],
-      "duration_ms": 215802,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy"
+      "duration_ms": 175000,
+      "name": "iPop",
+      "url": "https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC"
     },
     {
       "added_at": "2025-09-26 04:53:01",
@@ -55,6 +55,22 @@
       "duration_ms": 104000,
       "name": "I cant stop making mistakes",
       "url": "https://open.spotify.com/track/6iD8XQ4eVCZG4OouuTsKHY"
+    },
+    {
+      "added_at": "2025-09-19 07:47:39",
+      "album": {
+        "name": "my teeth will free you",
+        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "duration_ms": 289154,
+      "name": "dogwhistle",
+      "url": "https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx"
     },
     {
       "added_at": "2025-09-15 07:13:29",
@@ -89,26 +105,6 @@
       "url": "https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf"
     },
     {
-      "added_at": "2025-09-15 07:12:32",
-      "album": {
-        "name": "Trainhopper",
-        "url": "https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu"
-      },
-      "artists": [
-        {
-          "name": "Catasham",
-          "url": "https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri"
-        },
-        {
-          "name": "Muffin Fox",
-          "url": "https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q"
-        }
-      ],
-      "duration_ms": 112421,
-      "name": "Trainhopper",
-      "url": "https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B"
-    },
-    {
       "added_at": "2025-09-15 07:13:44",
       "album": {
         "name": "okay, fine.",
@@ -129,20 +125,24 @@
       "url": "https://open.spotify.com/track/5FYM1FA3QBT8QM8g6NEYoI"
     },
     {
-      "added_at": "2025-09-19 07:47:39",
+      "added_at": "2025-09-15 07:12:32",
       "album": {
-        "name": "my teeth will free you",
-        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
+        "name": "Trainhopper",
+        "url": "https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu"
       },
       "artists": [
         {
-          "name": "sixwing",
-          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+          "name": "Catasham",
+          "url": "https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri"
+        },
+        {
+          "name": "Muffin Fox",
+          "url": "https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q"
         }
       ],
-      "duration_ms": 289154,
-      "name": "dogwhistle",
-      "url": "https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx"
+      "duration_ms": 112421,
+      "name": "Trainhopper",
+      "url": "https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B"
     },
     {
       "added_at": "2025-09-15 07:13:22",
@@ -159,6 +159,22 @@
       "duration_ms": 214465,
       "name": "the power of manipulation",
       "url": "https://open.spotify.com/track/5kwdyWSTgvkyCvE2E1dp4t"
+    },
+    {
+      "added_at": "2025-09-22 20:12:06",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 215802,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy"
     },
     {
       "added_at": "2025-09-15 07:13:44",
@@ -291,22 +307,6 @@
       "duration_ms": 238053,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/0pvk4XW3NGJ0lXZvt1r5Qx"
-    },
-    {
-      "added_at": "2025-04-12 07:35:53",
-      "album": {
-        "name": "iPop",
-        "url": "https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "iPop",
-      "url": "https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC"
     },
     {
       "added_at": "2025-08-15 04:02:54",

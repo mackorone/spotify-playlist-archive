@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Kes
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,732 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,803 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 28 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 29 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
 | 30 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
-| 31 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/3FaDIXA3ByDklrL4mcoCYb) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
-| 32 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
+| 31 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
+| 32 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/3FaDIXA3ByDklrL4mcoCYb) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
 | 33 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
 | 34 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 35 | [Movin To De Left](https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca for De World](https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN) | 5:17 |

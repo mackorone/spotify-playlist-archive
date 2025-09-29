@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Iv\u00e1n Ferreiro.",
-  "num_followers": 600065,
+  "num_followers": 599938,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
+        "name": "Tragas o Escupes",
+        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Eso Que T\u00fa Me Das",
+      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
         "name": "Camiseta de Rokanrol",
         "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 229832,
       "name": "Camiseta de Rokanrol",
       "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
-        "name": "Tragas o Escupes",
-        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Eso Que T\u00fa Me Das",
-      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
     },
     {
       "added_at": "2025-09-25 22:01:06",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
     },
     {
       "added_at": "2025-09-25 22:01:06",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
         "name": "Vamos Tirando",
         "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2025-09-25 22:01:06",
@@ -1659,42 +1659,6 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
-        "name": "A Ratos",
-        "url": "https://open.spotify.com/album/3OdchJWXYqNycwgAa6sxZY"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "A Ratos",
-      "url": "https://open.spotify.com/track/3rWww1QHFAcHvbeUqW8JbS"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
-        "name": "Carne para Linda (feat. Tarque)",
-        "url": "https://open.spotify.com/album/7DD79U2rEKb67qZaCfH4nu"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        },
-        {
-          "name": "Tarque",
-          "url": "https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Carne para Linda (feat. Tarque)",
-      "url": "https://open.spotify.com/track/2v9WnPOVpssjVjfUyd8rKe"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
         "name": "De verdad lo siento",
         "url": "https://open.spotify.com/album/0QsXzAYmBaCPtwinIAy6pC"
       },
@@ -1739,6 +1703,42 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
+        "name": "A Ratos",
+        "url": "https://open.spotify.com/album/3OdchJWXYqNycwgAa6sxZY"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "A Ratos",
+      "url": "https://open.spotify.com/track/3rWww1QHFAcHvbeUqW8JbS"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
+        "name": "Carne para Linda (feat. Tarque)",
+        "url": "https://open.spotify.com/album/7DD79U2rEKb67qZaCfH4nu"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        },
+        {
+          "name": "Tarque",
+          "url": "https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Carne para Linda (feat. Tarque)",
+      "url": "https://open.spotify.com/track/2v9WnPOVpssjVjfUyd8rKe"
     },
     {
       "added_at": "2025-09-25 22:01:06",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-09-25 22:01:06",
       "album": {
+        "name": "Na de na",
+        "url": "https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt"
+      },
+      "artists": [
+        {
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        }
+      ],
+      "duration_ms": 227992,
+      "name": "Na de na",
+      "url": "https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36"
+    },
+    {
+      "added_at": "2025-09-25 22:01:06",
+      "album": {
         "name": "Idas Y Venidas",
         "url": "https://open.spotify.com/album/5xw1lxvbtdZP0UUXHACaQA"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
-    },
-    {
-      "added_at": "2025-09-25 22:01:06",
-      "album": {
-        "name": "Na de na",
-        "url": "https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt"
-      },
-      "artists": [
-        {
-          "name": "Tu Otra Bonita",
-          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Na de na",
-      "url": "https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36"
     },
     {
       "added_at": "2025-09-25 22:01:06",

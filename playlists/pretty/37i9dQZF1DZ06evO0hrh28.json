@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 253914,
+  "num_followers": 253982,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAFKC+SP9I6o2WoLeJpA3qU",
+  "snapshot_id": "aNcpAAAAAAATE0kSbwNymc4/pBMw+md5",
   "tracks": [
     {
       "added_at": null,
@@ -339,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOTTI A",
-        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 165054,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -399,6 +375,30 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 165054,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
     },
     {
       "added_at": null,

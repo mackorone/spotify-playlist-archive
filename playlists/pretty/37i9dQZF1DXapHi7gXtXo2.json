@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 91538,
+  "num_followers": 91546,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Todo el Universo",
         "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 237456,
       "name": "Otro Lado",
       "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ojitos de Md (Remix)",
-        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Ojitos de Md - Remix",
-      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Primer Recreo",
         "url": "https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor"
       },
@@ -995,6 +975,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 225938,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "CURSI",
         "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
       },
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
+        "name": "Ojitos de Md (Remix)",
+        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
       "artists": [
         {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 225938,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+      "duration_ms": 170192,
+      "name": "Ojitos de Md - Remix",
+      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "T\u00c1",
-        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Ana Mar\u00eda",
-      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Ana Mar\u00eda",
+      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "El Mundo Siempre Estuvo Dividido en Dos",
         "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-09-20 03:00:00",

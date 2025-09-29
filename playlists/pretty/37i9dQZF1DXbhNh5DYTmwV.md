@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,682 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,689 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buscándote \- Radio Edit](https://open.spotify.com/track/06Y4G78xvsbwnwAbsLC01K) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Buscándote](https://open.spotify.com/album/7Mr05L5Uq1gpu99MqT48ZR) | 4:01 |
 | 2 | [Eres Mi Sueño \- Versión Radio Edit](https://open.spotify.com/track/2BzPF9dX13wqEAo5a3XPR2) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Ilusión](https://open.spotify.com/album/6f2FlzClPbqLT8c7PJXKHP) | 3:14 |
-| 3 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [DY](https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
+| 3 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [DY](https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
 | 4 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
 | 5 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
 | 6 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |

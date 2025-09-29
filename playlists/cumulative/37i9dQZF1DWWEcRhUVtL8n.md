@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lola Young
 
-2,204 songs - 4 day 20 hr 56 min
+2,205 songs - 4 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-12-10 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 | 2024-07-06 |
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-25 | 2025-05-31 |
+| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 |  |
 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2023-11-06 | 2024-07-17 |
 | [Dream Drop](https://open.spotify.com/track/4UR2N5fuU37KA0gu6SjJr3) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Dream Drop](https://open.spotify.com/album/5xeJjEHTAmh2W59hqFRRVk) | 2:54 | 2021-06-03 | 2021-10-16 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-02-24 | 2021-05-21 |
@@ -725,7 +726,7 @@
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-10-20 | 2023-02-25 |
 | [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-14 | 2024-01-13 |
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-10-13\* | 2020-12-12 |
-| [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-11 |  |
+| [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-11 | 2025-09-29 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 | 2024-10-26 |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-10-13 |
 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 | 2022-12-16 | 2023-03-02 |

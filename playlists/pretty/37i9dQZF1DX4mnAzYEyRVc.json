@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sublime\n",
-  "num_followers": 63330,
+  "num_followers": 63341,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "El Himno de Mi Pe\u00f1a",
-        "url": "https://open.spotify.com/album/6lXCcdTUmxN8ZptAgn7vWV"
-      },
-      "artists": [
-        {
-          "name": "Isabel Aai\u00fan",
-          "url": "https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "El Himno de Mi Pe\u00f1a",
-      "url": "https://open.spotify.com/track/5097PIxRRGilR1esMUlqxO"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "The Return of El Santo",
         "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "El Himno de Mi Pe\u00f1a",
+        "url": "https://open.spotify.com/album/6lXCcdTUmxN8ZptAgn7vWV"
+      },
+      "artists": [
+        {
+          "name": "Isabel Aai\u00fan",
+          "url": "https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3"
+        }
+      ],
+      "duration_ms": 188501,
+      "name": "El Himno de Mi Pe\u00f1a",
+      "url": "https://open.spotify.com/track/5097PIxRRGilR1esMUlqxO"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Que Corra La Voz",
+        "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Mis Colegas",
+      "url": "https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 232444,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Que Corra La Voz",
-        "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Mis Colegas",
-      "url": "https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Los Rabanes",
         "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184533,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Random Hand",
         "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2025-07-18 06:00:06",

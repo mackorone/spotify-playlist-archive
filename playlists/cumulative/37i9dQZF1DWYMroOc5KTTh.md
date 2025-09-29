@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-576 songs - 1 day 14 hr 9 min
+577 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 | 2022-06-10 | 2022-09-06 |
 | [Feel Good](https://open.spotify.com/track/3PURbsY67tLMyausOABtit) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:27 | 2022-04-06 | 2024-07-13 |
 | [Feel Good](https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm) | 3:58 | 2021-12-03 | 2024-01-06 |
+| [Feel You](https://open.spotify.com/track/0AkQIzDWxywsrtnY6f0oYB) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Feel You](https://open.spotify.com/album/3uBHz77NGhAuxozj6CUIzL) | 2:58 | 2025-09-11 |  |
 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-09-11 |  |
 | [Ferris Wheel \- Terrace Martin Remix](https://open.spotify.com/track/7HhYOQV0lR1L6fVuF0aP4A) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Ferris Wheel \[Feat\. Robert Glasper\] \(Terrace Martin Remix\)](https://open.spotify.com/album/7m9kZfDONAl0UMYeQRFTNI) | 2:57 | 2021-12-03 | 2022-07-29 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2022-04-15 | 2024-04-20 |
@@ -207,7 +208,7 @@
 | [Give u](https://open.spotify.com/track/2PXEL9hT8aNfzQuU12yVo7) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Give u](https://open.spotify.com/album/6UEUTJ7p3ydXkISSwLqzet) | 3:25 | 2022-01-11 | 2022-07-12 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-12-03 | 2022-07-23 |
 | [Givemeafeeling](https://open.spotify.com/track/0NVBRjhjjf7gFtlDW8uRKX) | [FINNfm](https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE) | [Givemeafeeling](https://open.spotify.com/album/5Y65dlZF1POx8ynO3ItTka) | 3:06 | 2024-01-05 | 2024-06-07 |
-| [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-19 |  |
+| [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-19 | 2025-09-29 |
 | [glow](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 7:33 | 2024-09-12 |  |
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 | 2024-05-11 |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |

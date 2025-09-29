@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336400,
+      "name": "Highway Patrolman",
+      "url": "https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2"
+    },
+    {
+      "album": {
         "name": "History Books",
         "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
       },
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 270266,
       "name": "She's the One",
       "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"

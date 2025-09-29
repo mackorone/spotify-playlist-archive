@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,329 likes - 67 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,334 likes - 67 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 56 | [Tell Me How It Feels](https://open.spotify.com/track/4KP6qHh69z3NixXZntqDPX) | [Jeigo](https://open.spotify.com/artist/0kRZEV6XLNRXpxxY5pgQfa) | [Tell Me How It Feels](https://open.spotify.com/album/5VBRxwhxc6L3XM2LJ0gtvF) | 5:54 |
 | 57 | [Good Days](https://open.spotify.com/track/75HoQ0xvH2Yrg3qmvCLpv7) | [Brioski](https://open.spotify.com/artist/3B8f6bnw18v77tmSSfa8Uz) | [Italian Synth Planetarium \- Sistema 1](https://open.spotify.com/album/76ZRl1ytNi58NdteegiXEY) | 6:37 |
 | 58 | [I Like You Go Away \- Budino & Berko Remix](https://open.spotify.com/track/17nnVIijpwuZ5iawtM08Hj) | [Tony y Not](https://open.spotify.com/artist/1X5oUzkhU0CDaTFdk4nJ5V), [Budino](https://open.spotify.com/artist/7hIgvBjjOaeDERlGsp2kCb), [Ivan Berko](https://open.spotify.com/artist/49fMChoZdpfEmWJQMkIncs) | [Send Me up EP](https://open.spotify.com/album/3tZNHeBAMJhUCVVfTUFjCD) | 7:31 |
-| 59 | [Flashlight](https://open.spotify.com/track/2iO4cpLU7mF2moF0Ivq5QM) | [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B), [The Revenge](https://open.spotify.com/artist/2GZQcb7NlDdoBXf06U2i6V) | [The Nancy Whang Casablanca Reworks](https://open.spotify.com/album/3s6UlL1IqWdly3lMxshTmb) | 7:00 |
+| 59 | [Flashlight](https://open.spotify.com/track/2iO4cpLU7mF2moF0Ivq5QM) | [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B), [The Revenge](https://open.spotify.com/artist/0zfnbnZrQKJz5nH3kDM78X) | [The Nancy Whang Casablanca Reworks](https://open.spotify.com/album/3s6UlL1IqWdly3lMxshTmb) | 7:00 |
 | 60 | [Harmonise \- Juju & Jordash Remix](https://open.spotify.com/track/1cfEWnsIMEzDok4MvgrRf0) | [Komon](https://open.spotify.com/artist/0ClLKdQDuf0qQwgZ4spEgO), [Will Saul](https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53), [Juju & Jordash](https://open.spotify.com/artist/1AodPTJeY4eSw69exOwnmX) | [Harmonise](https://open.spotify.com/album/49UpK5CRYA4TGr7IWu4764) | 6:24 |
 | 61 | [Signal](https://open.spotify.com/track/3Pe7xoKwdUHKe6ENN1SCV8) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Nox Anima](https://open.spotify.com/album/5YcO7fIqw63iOxtk8GHCAQ) | 4:23 |
 | 62 | [Two Sleepy People \(ASMR\)](https://open.spotify.com/track/70qMnKkUIb3GToCSI9Lkqd) | [House of Feelings](https://open.spotify.com/artist/2leFxZWtiHtCwGSwP5Jcbx) | [New Lows](https://open.spotify.com/album/37I6MeB6yTF4dDcUIv2dVV) | 6:03 |

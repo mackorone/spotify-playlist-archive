@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 223898,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0m00au0MMoII2767mu4sj7"
@@ -2825,6 +2825,32 @@
     },
     {
       "album": {
+        "name": "I Got Love (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/02tU2PCM8IxoO83gPjgiam"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132272,
+      "name": "I Got Love (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/2RKZDPCxvzotfFkUNlc361"
+    },
+    {
+      "album": {
         "name": "4AM (LA LA LA)",
         "url": "https://open.spotify.com/album/1TYlqFHeXpIOaLSdnu8Kji"
       },
@@ -5249,6 +5275,28 @@
     },
     {
       "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/1ytdCmycRnhnGCEecUoISo"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Adrian Dzvuke",
+          "url": "https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234831,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/4j5jyPieqmrFSaKmPKIwoo"
+    },
+    {
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -6493,6 +6541,32 @@
     },
     {
       "album": {
+        "name": "This Is Our Haus",
+        "url": "https://open.spotify.com/album/59Knt83dZ3IiJODE4c1e3Z"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        },
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        },
+        {
+          "name": "Loosie Grind",
+          "url": "https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "This Is Our Haus",
+      "url": "https://open.spotify.com/track/0PYxjuza1vSdRbT1jHMwjC"
+    },
+    {
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -6578,7 +6652,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 196267,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"

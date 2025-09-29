@@ -1,6 +1,6 @@
 {
   "description": "a serotonin forward glow ",
-  "num_followers": 1666509,
+  "num_followers": 1666465,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
       "added_at": "2025-04-04 04:00:27",
       "album": {
         "name": "MUTT",
@@ -595,6 +579,22 @@
       "duration_ms": 192933,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1077,6 +1077,26 @@
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
+      "added_at": "2025-06-13 04:01:00",
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
       "added_at": "2025-07-25 04:01:00",
       "album": {
         "name": "One Condition",
@@ -1099,26 +1119,6 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
-    },
-    {
-      "added_at": "2025-06-13 04:01:00",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "8TEEN",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 231825,
       "name": "Fire for You",
       "url": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "8TEEN",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1267,6 +1267,22 @@
       "duration_ms": 233228,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh"
+    },
+    {
+      "added_at": "2025-09-26 18:55:37",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2025-04-04 04:00:27",
@@ -1375,22 +1391,6 @@
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     }
   ],
   "unique_name": "DOPAMINE",

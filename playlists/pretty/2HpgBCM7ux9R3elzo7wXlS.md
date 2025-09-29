@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 979 songs - 2 day 12 hr 32 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 985 songs - 2 day 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -987,5 +987,11 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 977 | [Flower Moon](https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:56 |
 | 978 | [Welcome to...](https://open.spotify.com/track/4fFiXfYW8JTyWwysayiNUf) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Somewhere City](https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn) | 3:05 |
 | 979 | [24 Hr Drive\-Thru](https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Somewhere City](https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn) | 2:44 |
+| 980 | [Kids with Guns](https://open.spotify.com/track/0eEgMbSzOHmkOeVuNC3E0k) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:45 |
+| 981 | [DARE \(feat\. Shaun Ryder & Roses Gabor\)](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
+| 982 | [El Mañana](https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:55 |
+| 983 | [Demon Days](https://open.spotify.com/track/2k6hpKTyubRVOmQR11ViY3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:28 |
+| 984 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:35 |
+| 985 | [Clint Eastwood](https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 5:40 |
 
-Snapshot ID: `AAAHhuQ7ezqX6khkkd7DPg6XBO3b51bW`
+Snapshot ID: `AAAHjI2Q3I0IkBrZ8FY9SpOja6pj2Y8e`

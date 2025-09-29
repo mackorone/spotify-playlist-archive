@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 73898,
+  "num_followers": 73911,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABf+1WftDWZHNU1JHngmd/c",
+  "snapshot_id": "aNcpAAAAAAA+4FGvKYNaZyroTcV94zQG",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broken Boy (feat. Iggy Pop)",
         "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+        "name": "Clair Obscur",
+        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
       "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+      "duration_ms": 245866,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clair Obscur",
-        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
       },
       "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 245866,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 150453,
-      "name": "La Javanaise",
-      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
+      "duration_ms": 213760,
+      "name": "Fire Girl",
+      "url": "https://open.spotify.com/track/5j0r6b2Bjgg4rYk4OYhOKv"
     }
   ],
   "unique_name": "This Is Iggy Pop",

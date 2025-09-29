@@ -5468,7 +5468,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -5486,7 +5486,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -6952,7 +6952,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -7784,7 +7784,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 126401,
       "name": "envy - slowed",
       "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
@@ -7838,7 +7838,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 238720,
       "name": "Erjaa",
       "url": "https://open.spotify.com/track/3LdGcxMAUp6iDt4cKUTdB6"
@@ -12170,7 +12170,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
@@ -12188,7 +12188,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6skGMlljk0s5yeBKZ7sN5n"
@@ -18444,10 +18444,32 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/3xFwFTxNgtVKWK2hIYPRkX"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/1HxXAbdLYlQl32DVPIuYc4"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123576,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/3egPKT8vlN8wmPb70jT9if"
     },
     {
       "album": {
@@ -18980,7 +19002,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -22516,7 +22538,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
@@ -24448,7 +24470,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -24466,7 +24488,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -32406,7 +32428,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 371258,
       "name": "\u0645\u0627\u062e\u0633\u0631\u062a\u0643",
       "url": "https://open.spotify.com/track/77HQd3SxG4dsHkFB6hwG9E"
@@ -32460,7 +32482,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 304103,
       "name": "\u0645\u062e\u062a\u0644\u0641\u064a\u0646",
       "url": "https://open.spotify.com/track/3ZVfvApOacqaWH6vlcdk3T"
@@ -33264,7 +33286,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 179860,
       "name": "\u064a\u0627 \u0645\u062d\u0645\u062f",
       "url": "https://open.spotify.com/track/1qb8TX2V7CLe5RZ2AD3EpU"

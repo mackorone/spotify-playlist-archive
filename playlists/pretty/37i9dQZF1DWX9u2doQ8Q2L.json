@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394339,
+  "num_followers": 394343,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-09-24 02:59:20",
       "album": {
-        "name": "The 1",
-        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 191717,
-      "name": "The 1",
-      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
-    },
-    {
-      "added_at": "2025-09-24 02:59:20",
-      "album": {
         "name": "HOWL",
         "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 191666,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "added_at": "2025-09-24 02:59:20",
+      "album": {
+        "name": "The 1",
+        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 191717,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
     },
     {
       "added_at": "2025-09-24 02:59:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-09-24 02:59:20",
       "album": {
-        "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
-        "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u68ee\u5143\u8cb4",
-          "url": "https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "\u7d75\u753b",
-      "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
-    },
-    {
-      "added_at": "2025-09-24 02:59:20",
-      "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 215066,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
+    },
+    {
+      "added_at": "2025-09-24 02:59:20",
+      "album": {
+        "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
+        "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u68ee\u5143\u8cb4",
+          "url": "https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "\u7d75\u753b",
+      "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
     },
     {
       "added_at": "2025-09-24 02:59:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-09-24 02:59:20",
       "album": {
-        "name": "\u6d77\u99ac\u6210\u9577\u75db",
-        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "\u6d77\u99ac\u6210\u9577\u75db",
-      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
-    },
-    {
-      "added_at": "2025-09-24 02:59:20",
-      "album": {
         "name": "Don't Tell Nobody",
         "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 173925,
       "name": "Don't Tell Nobody",
       "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
+    },
+    {
+      "added_at": "2025-09-24 02:59:20",
+      "album": {
+        "name": "\u6d77\u99ac\u6210\u9577\u75db",
+        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "\u6d77\u99ac\u6210\u9577\u75db",
+      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
     },
     {
       "added_at": "2025-09-24 02:59:20",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-24 02:59:20",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": "2025-09-24 02:59:20",
-      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2025-09-24 02:59:20",
       "album": {
-        "name": "Whole of Flower",
-        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
       "artists": [
         {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 249013,
-      "name": "Whole of Flower",
-      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2025-09-24 02:59:20",
@@ -1451,6 +1435,22 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+    },
+    {
+      "added_at": "2025-09-24 02:59:20",
+      "album": {
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
     },
     {
       "added_at": "2025-09-24 02:59:20",

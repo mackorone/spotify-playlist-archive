@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: Firdaus Rahmat
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,585 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,589 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 43 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 |
 | 44 | [Tak Kan Terganti](https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Tak Kan Terganti](https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR) | 3:57 |
 | 45 | [Malapetaka](https://open.spotify.com/track/42elvNonmDWGnpyxBpd9Mu) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Malapetaka](https://open.spotify.com/album/5XFwxKmkc0RmrncnPKnejB) | 3:47 |
-| 46 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 46 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 |
 | 47 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
-| 48 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
-| 49 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 |
+| 48 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 49 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 50 | [Sebatas Mimpi](https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo) | [Angie Carvalho](https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Sebatas Mimpi](https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY) | 3:38 |
 
 Snapshot ID: `AAAAAIqvZrvR2/AZVyVIdEBXBWfT5GL1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432,633 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432,651 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 44 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 |
 | 45 | [STREET X STREET](https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [DJ Flict](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [STREET X STREET \(LAFC\)](https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF) | 2:53 |
 | 46 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 |
-| 47 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
-| 48 | [I Forgive You \- \(Chromeo Remix\) \[radio edit\]](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \[\(Chromeo Remix\) \[radio edit\]\]](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 |
+| 47 | [I Forgive You \- \(Chromeo Remix\) \[radio edit\]](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \[\(Chromeo Remix\) \[radio edit\]\]](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 |
+| 48 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
 | 49 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 |
 | 50 | [Guts Over Fear](https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [SHADYXV](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU) | 5:01 |
 
-Snapshot ID: `aNXXgAAAAAArVkAo5NV5yCD2UWGVlbCl`
+Snapshot ID: `aNcpAAAAAADBG7xLUpnfO+lEh6tx92z/`

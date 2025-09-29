@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,572 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,647 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

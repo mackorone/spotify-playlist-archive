@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 25 | [Afterglow](https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:43 |
 | 26 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
 | 27 | [Deja Vu](https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 4:24 |
-| 28 | [Fast](https://open.spotify.com/track/5WQrDB34o6M8V0jxNiX6RU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:28 |
-| 29 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
+| 28 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
+| 29 | [Fast](https://open.spotify.com/track/5WQrDB34o6M8V0jxNiX6RU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:28 |
 | 30 | [Rich & Sad](https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
 | 31 | [Cardigan](https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:38 |
 | 32 | [Try Me](https://open.spotify.com/track/4ppTAJUbNXELZcoUaL90wo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:41 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
 | 242 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Ab9YPAAAAAAWeFyqyrQ/HJF+u3RJZgCo`
+Snapshot ID: `Ab9dvgAAAAAQYRBgcqicvH0hvipLv1Ug`

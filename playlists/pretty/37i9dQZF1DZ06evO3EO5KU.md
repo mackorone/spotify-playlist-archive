@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,535 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,538 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 29 | [Dado A La Vida](https://open.spotify.com/track/6aY11ZLwdFwkCHX0gaoYYr) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Dado A La Vida](https://open.spotify.com/album/6tUh9wo5wFmFn1XHL3q2DC) | 2:47 |
 | 30 | [El Plebe del Rancho](https://open.spotify.com/track/2WrtMLBOcdUr3BmHBaCUly) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Plebe del Rancho](https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK) | 3:27 |
 | 31 | [Tres Botellas](https://open.spotify.com/track/03mFB2ot7uqND6aBYhwZBM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:19 |
-| 32 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 |
-| 33 | [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 |
+| 32 | [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 |
+| 33 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 |
 | 34 | [Somos](https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Somos](https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4) | 2:51 |
 | 35 | [Buscamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
 | 36 | [En Un Día Como Hoy](https://open.spotify.com/track/47iMaBA9XSFD6SUqhzzOOy) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Mariposa Traicionera](https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mariposa Traicionera](https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ) | 4:04 |
 | 50 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 
-Snapshot ID: `aNXXgAAAAACcUqIYwsGWuW7jFCl4UYPb`
+Snapshot ID: `aNcpAAAAAABk55txoSHT+azioXL92zDT`

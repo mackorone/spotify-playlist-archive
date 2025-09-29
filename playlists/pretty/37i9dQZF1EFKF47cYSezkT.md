@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 66 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 26 | [Faccio un casino](https://open.spotify.com/track/1knOlvwv1A6AVadKwM2UR8) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/1r3kQVZ87tRU00QVzvN0oO) | 2:53 |
 | 27 | [Gemini](https://open.spotify.com/track/5pmafQfCSF9y6jVUhiaR7I) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 3:11 |
 | 28 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 |
-| 29 | [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 |
+| 29 | [Cute Aggression](https://open.spotify.com/track/6L4b4Xmspqzc4285p4ALdA) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 2:36 |
 | 30 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
 | 31 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
 | 32 | [American Adrenaline](https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 2:43 |
@@ -65,13 +65,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 55 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 |
 | 56 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
 | 57 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
-| 58 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
-| 59 | [Birthday](https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 2:40 |
-| 60 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
-| 61 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
-| 62 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
-| 63 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
-| 64 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
-| 65 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 |
+| 58 | [Baby Steps](https://open.spotify.com/track/1X5nXL62BXvl99QRQKxq0A) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 2:47 |
+| 59 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
+| 60 | [Birthday](https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 2:40 |
+| 61 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
+| 62 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
+| 63 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
+| 64 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
+| 65 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
+| 66 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 |
 
-Snapshot ID: `Ab9YPAAAAACAVuH2zAh8cQKolUf6QIcy`
+Snapshot ID: `Ab9dtAAAAAB3TjMuRcrL5d5lB0DTdac6`

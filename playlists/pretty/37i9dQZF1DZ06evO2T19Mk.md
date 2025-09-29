@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,875 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,919 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 30 | [Nobody Puts Baby In The Corner](https://open.spotify.com/track/6HJzCcSMggn7Ultxs48dAe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:20 |
 | 31 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
 | 32 | [Heartbreak Feels So Good](https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:37 |
-| 33 | [Start Today](https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Start Today](https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0) | 2:02 |
+| 33 | [Dead on Arrival](https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:14 |
 | 34 | [7 Minutes In Heaven \(Atavan Halen\)](https://open.spotify.com/track/2erNwv0Yti7uirpIU8wbvv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:02 |
-| 35 | [Dead on Arrival](https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:14 |
+| 35 | [Start Today](https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Start Today](https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0) | 2:02 |
 | 36 | [Fake Out](https://open.spotify.com/track/41M7guw2h3mo6d47DJ5Tx7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:29 |
-| 37 | [Young Volcanoes](https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:24 |
-| 38 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |
-| 39 | [Chicago Is So Two Years Ago](https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:19 |
+| 37 | [Chicago Is So Two Years Ago](https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:19 |
+| 38 | [Young Volcanoes](https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:24 |
+| 39 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |
 | 40 | [So Much \(For\) Stardust](https://open.spotify.com/track/2svOhUXIy2932LBNEFdNcq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 4:51 |
-| 41 | [Where Did The Party Go](https://open.spotify.com/track/66324Jt0mZdXaM7f8uUitE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 4:03 |
-| 42 | [Stay Frosty Royal Milk Tea](https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 2:51 |
-| 43 | [Saturday](https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:36 |
+| 41 | [Saturday](https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:36 |
+| 42 | [Where Did The Party Go](https://open.spotify.com/track/66324Jt0mZdXaM7f8uUitE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 4:03 |
+| 43 | [Stay Frosty Royal Milk Tea](https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 2:51 |
 | 44 | [What a Time To Be Alive](https://open.spotify.com/track/6eyaiauoVhwiUuZjTcayXv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:42 |
-| 45 | [Disloyal Order Of Water Buffaloes](https://open.spotify.com/track/4qg2rXtE20scfPhGvG5tqq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 4:17 |
-| 46 | [Church](https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:31 |
-| 47 | [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 |
+| 45 | [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 |
+| 46 | [Disloyal Order Of Water Buffaloes](https://open.spotify.com/track/4qg2rXtE20scfPhGvG5tqq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 4:17 |
+| 47 | [Church](https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:31 |
 | 48 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
-| 49 | [America's Suitehearts](https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
-| 50 | [Wilson \(Expensive Mistakes\)](https://open.spotify.com/track/2W6kVW3UZ3hwr4qbfCDp6B) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:36 |
+| 49 | [The Pros and Cons of Breathing](https://open.spotify.com/track/3koOoLN69AAiw5JCQNaZMe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:21 |
+| 50 | [America's Suitehearts](https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 
-Snapshot ID: `aNXXgAAAAADdbZoc142cjFi2McuSaJEh`
+Snapshot ID: `aNcpAAAAAACK1ylZz4M0Yl42Fz2OcSwS`

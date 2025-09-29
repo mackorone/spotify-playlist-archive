@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Oikonomopoulos",
-  "num_followers": 36749,
+  "num_followers": 36752,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-09-25 21:00:36",
       "album": {
-        "name": "Pano Kato",
-        "url": "https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU"
-      },
-      "artists": [
-        {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
-        }
-      ],
-      "duration_ms": 162035,
-      "name": "Pano Kato",
-      "url": "https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY"
-    },
-    {
-      "added_at": "2025-09-25 21:00:36",
-      "album": {
         "name": "Psixi Me Psixi",
         "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 261117,
       "name": "Psixi Me Psixi",
       "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+    },
+    {
+      "added_at": "2025-09-25 21:00:36",
+      "album": {
+        "name": "Pano Kato",
+        "url": "https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "duration_ms": 162035,
+      "name": "Pano Kato",
+      "url": "https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY"
     },
     {
       "added_at": "2025-09-25 21:00:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-25 21:00:36",
       "album": {
-        "name": "Perno Tin Efthini",
-        "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Perno Tin Efthini",
-      "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
-    },
-    {
-      "added_at": "2025-09-25 21:00:36",
-      "album": {
         "name": "24 Ores",
         "url": "https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 197378,
       "name": "24 Ores",
       "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
+    },
+    {
+      "added_at": "2025-09-25 21:00:36",
+      "album": {
+        "name": "Perno Tin Efthini",
+        "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Perno Tin Efthini",
+      "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
     },
     {
       "added_at": "2025-09-25 21:00:36",

@@ -4,7 +4,7 @@
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-94 songs - 7 hr 42 min
+95 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Chung Kuo](https://open.spotify.com/track/0y8yOha94wVIUhnVyc2CXX) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 5:31 | 2022-05-30 | 2022-08-11 |
 | [City of Isabel](https://open.spotify.com/track/02nEzf5yn6sqI6PxM6QZ8N) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 2:16 | 2022-09-06 | 2024-06-14 |
 | [Come to Me](https://open.spotify.com/track/0I0i0baAjsJMlTq4rw8w5Q) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Caroline Lavelle](https://open.spotify.com/artist/4tmvH1mdQEmU8RbbVAXcGL) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:38 | 2022-05-29 |  |
+| [Conquest of Paradise](https://open.spotify.com/track/0peXPGCCFJotcUwLbRbuXa) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Cinema](https://open.spotify.com/album/60wULKo3XC35GgqO1n23fj) | 3:33 | 2025-09-29 |  |
 | [Conquest of Paradise](https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 4:38 | 2022-05-29 |  |
 | [Création du monde \- Remastered](https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 10:01 | 2022-06-01 | 2023-05-16 |
 | [Dawn](https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:16 | 2022-05-29 | 2022-09-30 |

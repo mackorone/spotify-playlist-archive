@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Daffo
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,496 likes - 194 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,257 likes - 194 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

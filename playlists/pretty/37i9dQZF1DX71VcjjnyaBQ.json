@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 431249,
+  "num_followers": 431310,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMv5HDSRJDKT1k+0DiXAB8mH3Znt",
+  "snapshot_id": "AAAAACQMEJzv+SeKWDKZPoDc8PO3wWLj",
   "tracks": [
     {
       "added_at": "2025-09-12 08:22:25",
@@ -311,6 +311,30 @@
     {
       "added_at": "2025-09-12 08:22:25",
       "album": {
+        "name": "The Velvet Blues",
+        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Lennart Ginman",
+          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
+        },
+        {
+          "name": "Thomas Blachman",
+          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
+        }
+      ],
+      "duration_ms": 276040,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2025-09-12 08:22:25",
+      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
-    },
-    {
-      "added_at": "2025-09-12 08:22:25",
-      "album": {
-        "name": "The Velvet Blues",
-        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        },
-        {
-          "name": "Lennart Ginman",
-          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
-        },
-        {
-          "name": "Thomas Blachman",
-          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
-        }
-      ],
-      "duration_ms": 276040,
-      "name": "Somewhere over the Rainbow",
-      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
     },
     {
       "added_at": "2025-09-12 08:22:25",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-09-12 08:22:25",
       "album": {
-        "name": "Came and Went",
-        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
       "artists": [
         {
-          "name": "Geoffrey Dean",
-          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
         }
       ],
-      "duration_ms": 335196,
-      "name": "Came and Went",
-      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2025-09-12 08:22:25",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-09-12 08:22:25",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+        "name": "Came and Went",
+        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
       },
       "artists": [
         {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+          "name": "Geoffrey Dean",
+          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
         }
       ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+      "duration_ms": 335196,
+      "name": "Came and Went",
+      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
     },
     {
       "added_at": "2025-09-12 08:22:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-09-12 08:22:25",
       "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Glover",
-          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
-        }
-      ],
-      "duration_ms": 337160,
-      "name": "Tell Him I Said Hello",
-      "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
-    },
-    {
-      "added_at": "2025-09-12 08:22:25",
-      "album": {
         "name": "These Simple Things",
         "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 308786,
       "name": "These Simple Things",
       "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+    },
+    {
+      "added_at": "2025-09-12 08:22:25",
+      "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Glover",
+          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
+        }
+      ],
+      "duration_ms": 337160,
+      "name": "Tell Him I Said Hello",
+      "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
     },
     {
       "added_at": "2025-09-12 08:22:25",

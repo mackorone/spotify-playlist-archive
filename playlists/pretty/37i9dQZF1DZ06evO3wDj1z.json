@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 113289,
+  "num_followers": 113308,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABzm3nEV96RyTrKeZ2Pso+R",
+  "snapshot_id": "aNcpAAAAAACAwG6xec5Utj/Xtey4stlk",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 165053,
-      "name": "La Mentada",
-      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Cielo",
         "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 164106,
       "name": "Las Parcelas de Mendoza",
       "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 165053,
+      "name": "La Mentada",
+      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sus Primeros Exitos Con Los Hermanos",
         "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 184666,
       "name": "Te So\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/078OlTYi0bydRM1r8Wuglb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
     },
     {
       "added_at": null,

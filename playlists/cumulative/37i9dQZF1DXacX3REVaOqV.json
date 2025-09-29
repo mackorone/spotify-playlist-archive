@@ -2617,6 +2617,36 @@
     },
     {
       "album": {
+        "name": "Dancing (Samm Remix)",
+        "url": "https://open.spotify.com/album/4i9KcN0cSezrfYaI6T2sNm"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240024,
+      "name": "Dancing - Samm Remix",
+      "url": "https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM"
+    },
+    {
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
       },
@@ -10626,7 +10656,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 357840,
       "name": "Searching for love - Jackin' Vibes Mix",
       "url": "https://open.spotify.com/track/56apWnb2IzYgkHVI4rSLJ1"

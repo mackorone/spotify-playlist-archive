@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 36063,
+  "num_followers": 36080,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Gentility",
-        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "Freestyle EP",
         "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 165000,
       "name": "Certified Loner (No Competition)",
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Gentility",
+        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
       "added_at": "2025-09-26 00:01:37",

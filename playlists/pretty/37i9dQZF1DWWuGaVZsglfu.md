@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: ALYPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,045 likes - 53 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,040 likes - 53 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

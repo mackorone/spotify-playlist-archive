@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Perrie",
+        "url": "https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167821,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/1X5nXL62BXvl99QRQKxq0A"
+    },
+    {
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV"
       },
@@ -294,10 +312,28 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 156926,
       "name": "Cute Aggression",
       "url": "https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL"
+    },
+    {
+      "album": {
+        "name": "Perrie",
+        "url": "https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156926,
+      "name": "Cute Aggression",
+      "url": "https://open.spotify.com/track/6L4b4Xmspqzc4285p4ALdA"
     },
     {
       "album": {

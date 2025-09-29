@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,896,366 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,895,539 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 75 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 |
 | 76 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 |
 | 77 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
-| 78 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
+| 78 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
 | 79 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
-| 80 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
+| 80 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
 
 Snapshot ID: `AAAAAMCykT0gSQH4A60QCXpHDoE/oGtb`

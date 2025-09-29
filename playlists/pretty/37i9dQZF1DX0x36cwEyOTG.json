@@ -1,6 +1,6 @@
 {
   "description": "Relax with this mix of peaceful, ambient, indie music.",
-  "num_followers": 427122,
+  "num_followers": 427017,
   "original_name": "Peaceful Ambient Indie",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-29 20:18:50",
       "album": {
-        "name": "The Malady Of Elegance",
-        "url": "https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 281120,
-      "name": "Threnody",
-      "url": "https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa"
-    },
-    {
-      "added_at": "2023-09-29 20:18:50",
-      "album": {
         "name": "Tape 4",
         "url": "https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 278906,
       "name": "I'll Come Running",
       "url": "https://open.spotify.com/track/1b2noys3aqkIiznUza7I6R"
+    },
+    {
+      "added_at": "2023-09-29 20:18:50",
+      "album": {
+        "name": "The Malady Of Elegance",
+        "url": "https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 281120,
+      "name": "Threnody",
+      "url": "https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa"
     },
     {
       "added_at": "2023-09-29 20:18:50",

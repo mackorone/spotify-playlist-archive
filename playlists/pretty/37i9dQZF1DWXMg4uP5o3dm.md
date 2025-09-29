@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,198 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,230 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 54 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
 | 55 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
 | 56 | [Skinny Loser](https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Skinny Loser](https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV) | 3:28 |
-| 57 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
-| 58 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 57 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 58 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
 | 59 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 |
 | 60 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
 | 61 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 83 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
 | 84 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 | 85 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 86 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
-| 87 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
+| 86 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
+| 87 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
 | 88 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
 | 89 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |
-| 90 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 91 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
+| 90 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
+| 91 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 | 92 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
 | 93 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
 | 94 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Imogiri Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,950 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,145 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

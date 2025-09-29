@@ -12215,6 +12215,24 @@
     },
     {
       "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
+    },
+    {
+      "album": {
         "name": "Mi Vida Eres T\u00fa",
         "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
       },
@@ -19372,7 +19390,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 189456,
       "name": "top diesel",
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"

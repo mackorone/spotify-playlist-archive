@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 23213,
+  "num_followers": 23222,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -783,26 +783,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 159926,
-      "name": "Petty Too (feat. Future)",
-      "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 248626,
       "name": "Down And Out",
       "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 159926,
+      "name": "Petty Too (feat. Future)",
+      "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
     },
     {
       "added_at": "2022-10-01 20:09:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,134 likes - 48 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,133 likes - 48 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 8 | [Na Mesa do Rei](https://open.spotify.com/track/6SqZpvMfE3VlK5DFyRs1Wn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:49 |
 | 9 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 5:58 |
 | 10 | [Apocalipse](https://open.spotify.com/track/58t8JPi9ITJU6w0uZBAjlV) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 6:42 |
-| 11 | [Diamante](https://open.spotify.com/track/5SssGK4lCEs02du4PjrEh4) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Mega Hits \- Damares](https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J) | 6:11 |
+| 11 | [Pode Ser Hoje](https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:40 |
 | 12 | [Sacrifício e Adoração](https://open.spotify.com/track/0oAksCragvUN6QRcAIMic9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 5:45 |
-| 13 | [Pode Ser Hoje](https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:40 |
+| 13 | [Diamante](https://open.spotify.com/track/5SssGK4lCEs02du4PjrEh4) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Mega Hits \- Damares](https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J) | 6:11 |
 | 14 | [Tudo Isso Vai Passar \- Ao Vivo](https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 4:38 |
 | 15 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
 | 16 | [Quem Viver Verá](https://open.spotify.com/track/1V12zsH9LzszGEwxcPUhWo) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:44 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 47 | [Pai, Preciso de Ti](https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:33 |
 | 48 | [Obra Prima](https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 5:34 |
 
-Snapshot ID: `aNXXgAAAAACTR/NkdwXCctisaIOKoLgw`
+Snapshot ID: `aNcpAAAAAADW6QB0LEEGyPt054O7bxlF`

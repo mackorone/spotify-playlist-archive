@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-328 songs - 21 hr 8 min
+329 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 | 2022-04-22 | 2025-07-26 |
 | [DAUGHTER](https://open.spotify.com/track/0hWCzWl04zT7P6vMy63XCN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:23 | 2024-03-29 | 2024-07-27 |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2023-02-08 | 2024-01-25 |
-| [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 |  |
+| [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 | 2025-09-29 |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-06-20 |  |
 | [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 | 2023-12-06 | 2023-12-14 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-08-18 | 2024-03-23 |
@@ -224,6 +224,7 @@
 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 | 2022-08-12 | 2025-02-12 |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2023-03-01 |  |
 | [pinot noir](https://open.spotify.com/track/7quKy7lopBm3VTCjYTmUvK) | [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [pinot noir](https://open.spotify.com/album/5iOtQs0o3KpnAv2yIKtlws) | 2:17 | 2025-09-12 |  |
+| [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 | 2025-09-26 |  |
 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 | 2024-05-24 | 2024-06-01 |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 | 2025-09-28 |
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-22 | 2024-06-15 |

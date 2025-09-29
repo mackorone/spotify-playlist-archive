@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 59 min
+93 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [PISO FIRME](https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:08 | 2024-04-07 |  |
 | [Pistas Clandestinas](https://open.spotify.com/track/721gbr72vRMoHmc9GBLt1w) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Edgar Quintero](https://open.spotify.com/artist/0dNujNfEABFYHmE50TIlWr) | [Pistas Clandestinas](https://open.spotify.com/album/3WylmnpOtxGbYQxzLCwbzo) | 2:09 | 2024-03-18 | 2024-10-28 |
 | [Placas De Papel](https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Placas De Papel](https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m) | 3:40 | 2024-01-29 |  |
-| [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 |  |
+| [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 | 2025-09-29 |
 | [Quien Es Quien](https://open.spotify.com/track/6LfcpjezozJFYAarlGYTs3) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:31 | 2024-01-29 | 2024-05-22 |
 | [Quien Es Quien](https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Quien Es Quien](https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j) | 3:42 | 2024-05-22 |  |
 | [Recuérdame Bonito](https://open.spotify.com/track/70kH8OQkCgKExAg8oYGI9c) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Recuérdame Bonito](https://open.spotify.com/album/1u9IQOnTKMKXV4LpNqfVy7) | 3:30 | 2024-07-08 | 2025-02-09 |
@@ -95,6 +95,7 @@
 | [Soy El Ace Para Ganar \(Live\)](https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Soy El Ace Para Ganar](https://open.spotify.com/album/1BIbkKD9bKqICzdneFagLD) | 4:17 | 2025-05-30 |  |
 | [Taking Over La Ciudad](https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Taking Over La Ciudad](https://open.spotify.com/album/3HxHOSPPzMhJnnDr5BS3Cx) | 3:45 | 2025-09-16 |  |
 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 | 2024-01-29 |  |
+| [Todo a la Sorda](https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Clave 602](https://open.spotify.com/artist/7lpQI8bhkynzTuFUPsLPUS) | [Todo a la Sorda](https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa) | 3:17 | 2025-09-29 |  |
 | [Turbo Cheyenne \(En Vivo\)](https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:36 | 2024-10-16 |  |
 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 | 2025-01-11 |
 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 | 2024-01-29 |  |

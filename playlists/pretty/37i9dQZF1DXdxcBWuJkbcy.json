@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7896366,
+  "num_followers": 7895539,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1603,18 +1603,30 @@
     {
       "added_at": "2025-09-18 13:01:16",
       "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+        "name": "2 Times",
+        "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        },
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
         }
       ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+      "duration_ms": 131200,
+      "name": "2 Times",
+      "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
     },
     {
       "added_at": "2025-09-18 13:01:16",
@@ -1643,30 +1655,18 @@
     {
       "added_at": "2025-09-18 13:01:16",
       "album": {
-        "name": "2 Times",
-        "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
-        },
-        {
-          "name": "Sound Of Legend",
-          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         }
       ],
-      "duration_ms": 131200,
-      "name": "2 Times",
-      "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     }
   ],
   "unique_name": "Gym Hits",

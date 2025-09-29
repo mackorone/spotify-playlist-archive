@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-467 songs - 1 day 0 hr 31 min
+469 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 | 2023-05-15 | 2023-05-23 |
 | [Internet Official](https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Internet Official](https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY) | 2:25 | 2023-05-01 | 2023-05-09 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-21 |  |
-| [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 |  |
+| [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 | 2025-09-29 |
 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 | 2023-10-02 | 2023-10-10 |
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-06-06 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/album/5idWJVJgo5Wa7wFGsB3Kjj) | 4:08 | 2022-06-27 | 2022-07-16 |
@@ -303,6 +303,7 @@
 | [No 1 Like U](https://open.spotify.com/track/0U5lak1skTwKoMi0BbRalS) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [No 1 Like U](https://open.spotify.com/album/6c9PeZsjgmMbNjLR6C0Ybn) | 2:47 | 2022-06-06 | 2022-06-13 |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2025-01-20 | 2025-02-10 |
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-10-09 | 2025-01-27 |
+| [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-09-28 |  |
 | [Not Your B](https://open.spotify.com/track/3DnBeUKpyH4mFtfSWlvQjQ) | [Vandetta](https://open.spotify.com/artist/2zJyoM4BKp0Aufq8QIpexd), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Chok Kerong](https://open.spotify.com/artist/1IOS1SiiBsCWWjebFzynOh), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D) | [Not Your B](https://open.spotify.com/album/6AOGxyQ5oWdQv7PP8K8EuC) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-14 | 2025-05-02 |
 | [Olympia](https://open.spotify.com/track/6xsIZGWud4OdojtNN63z3Y) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Olympia](https://open.spotify.com/album/4y0eCEU0tFEqJJnJzeD9IG) | 3:40 | 2022-12-12 | 2022-12-20 |
@@ -382,8 +383,9 @@
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-04-04 | 2023-04-11 |
 | [SPINE](https://open.spotify.com/track/28vHQECRl8L7pjMGvSRxZA) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [SPINE](https://open.spotify.com/album/7qyvVpY8rXmWqMd4w6aU2g) | 2:21 | 2025-04-14 | 2025-04-21 |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-11 | 2023-12-18 |
-| [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-29 |  |
+| [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-29 | 2025-09-29 |
 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 | 2022-06-20 | 2022-07-26 |
+| [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 | 2025-09-28 |  |
 | [Steps](https://open.spotify.com/track/2VF8EvvtcLqQp6yqz1Eg8Q) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Running In Borrowed Shoes: Part 1](https://open.spotify.com/album/75ZWpSwhnqfneMyqvIEjh1) | 3:38 | 2022-06-06 | 2022-07-29 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-06 | 2023-04-04 |
 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-31 | 2023-08-08 |

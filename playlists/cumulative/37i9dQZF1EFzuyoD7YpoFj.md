@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-608 songs - 1 day 9 hr 5 min
+609 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,8 +551,9 @@
 | [What Shall I Do?](https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D) | 5:11 | 2024-09-25 | 2025-07-10 |
 | [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 | 2024-07-24 | 2024-09-26 |
 | [What Shall I Do? \(feat\. David Garrison & Harry Groener\)](https://open.spotify.com/track/0NkceLa3wcYsgtkxzAnSfV) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4), [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:07 | 2025-07-10 |  |
+| [When I Found You](https://open.spotify.com/track/4aGDe0Gdr8yl110J4UbNjn) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [Grit, Groove & Guitar](https://open.spotify.com/album/1cbi8zTZbOLpeN521p1znx) | 2:28 | 2025-09-28 |  |
 | [When I Found You](https://open.spotify.com/track/2wjSUhL0W8kmoGZerQTgzL) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [All Time Greatest Hits](https://open.spotify.com/album/68P0fMo1NnXQ0ur2iNXRI1) | 2:29 | 2024-07-24 | 2024-12-13 |
-| [When I Found You](https://open.spotify.com/track/5qnq72N43NXsWnQjsgtu8n) | [Jerry Reed](https://open.spotify.com/artist/3SCfmZvLIgItA9H6fZ13CI) | [You Make It, They Take It](https://open.spotify.com/album/3JeRiKPLJBtnLjpixqwimz) | 2:29 | 2024-12-12 |  |
+| [When I Found You](https://open.spotify.com/track/5qnq72N43NXsWnQjsgtu8n) | [Jerry Reed](https://open.spotify.com/artist/3SCfmZvLIgItA9H6fZ13CI) | [You Make It, They Take It](https://open.spotify.com/album/3JeRiKPLJBtnLjpixqwimz) | 2:29 | 2024-12-12 | 2025-09-29 |
 | [When I Was A Little Cuckoo](https://open.spotify.com/track/3hucaRW0QgCTAaih6PtU23) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/4ppiu14KbWmJ0bICpNQyRP) | 2:27 | 2024-07-24 |  |
 | [When Love Beckoned](https://open.spotify.com/track/0HWc6ey66jIHdOhIiRAm2A) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad), [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Sweet & Simple \(Vol\. 2\)](https://open.spotify.com/album/59nEZFLagAvkQvLfVDAlb5) | 3:14 | 2024-07-24 |  |
 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 | 2024-07-24 | 2025-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,430 likes - 42 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,432 likes - 42 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 23 | [A Clearing \- Remastered 2004](https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:07 |
 | 24 | [The Chill Air \- Remastered 2004](https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 2:13 |
 | 25 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
-| 26 | [Pause](https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:23 |
+| 26 | [Safety](https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:43 |
 | 27 | [Under Stars \- 2005 Mix](https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:30 |
 | 28 | [Steal Away \- Remastered 2004](https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Eugene Bowen](https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 1:29 |
 | 29 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 35 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 |
 | 36 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 |
 | 37 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 |
-| 38 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
+| 38 | [Pause](https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:23 |
 | 39 | [Foreshadowed \- 2005 Digital Remaster](https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:52 |
 | 40 | [The Ritan Bells 1](https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 3:42 |
 | 41 | [Milky Sleep](https://open.spotify.com/track/3GMrX2c1h8222h29Nza0Hi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 3:18 |
 | 42 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 |
 
-Snapshot ID: `aNXXgAAAAABqKjEftS2TzL+tWxc0zrUd`
+Snapshot ID: `aNcpAAAAAACge7dsK9S0cxm9WvFOoljg`

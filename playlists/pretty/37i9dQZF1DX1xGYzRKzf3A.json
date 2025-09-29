@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 163909,
+  "num_followers": 163941,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Necesito M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Sentimientos De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Necesito M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Sentimientos De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -791,6 +791,22 @@
       "duration_ms": 197733,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -875,38 +891,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Cumbias Para Bailar",
         "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 255280,
       "name": "Qu\u00e9 Bello",
       "url": "https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Ni Dada La Quiero",
         "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 182786,
       "name": "Eslab\u00f3n Por Eslab\u00f3n",
       "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "La Combinacion Vallenata",
         "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "A Pesar De Todo (15 Super Temas)",
-        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
@@ -1303,18 +1287,34 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3"
+        "name": "A Pesar De Todo (15 Super Temas)",
+        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
       },
       "artists": [
         {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Ay! Papacito",
-      "url": "https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j"
+      "duration_ms": 215840,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+      "duration_ms": 227000,
+      "name": "Ay! Papacito",
+      "url": "https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Para Sobrevivir",
-        "url": "https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Bienvenido Al Amor",
-      "url": "https://open.spotify.com/track/37BWywucpTcrzdhcZwkKyG"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "El Desorden",
         "url": "https://open.spotify.com/album/07XhIDBf3asLUakoprXiek"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 234944,
       "name": "El Desorden",
       "url": "https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Para Sobrevivir",
+        "url": "https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Bienvenido Al Amor",
+      "url": "https://open.spotify.com/track/37BWywucpTcrzdhcZwkKyG"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Algo en ti",
-        "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Hay Algo en ti",
-      "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 300520,
       "name": "Cumbia poder",
       "url": "https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Algo en ti",
+        "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Hay Algo en ti",
+      "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "La Burbuja",
-        "url": "https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "La Burbuja",
-      "url": "https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "La Burbuja",
+        "url": "https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "La Burbuja",
+      "url": "https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Con Ganas De T\u00ed",
-        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "De Qu\u00e9 Sirvi\u00f3",
-      "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 164613,
       "name": "Mi Padrino el Diablo",
       "url": "https://open.spotify.com/track/0z07OSWiapGp0I8ttzgXo1"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Con Ganas De T\u00ed",
+        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "De Qu\u00e9 Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+        "name": "Cumbia Embajadora",
+        "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Arrastrando La Cobija",
-      "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+      "duration_ms": 218337,
+      "name": "Cumbia de Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

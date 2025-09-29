@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,493 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,658 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 46 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 47 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 48 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
-| 49 | [Want U](https://open.spotify.com/track/0hW6yD1MgFpwonGgFf617D) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Want U](https://open.spotify.com/album/4KImdEXoK1S2Id8E53qTgW) | 3:13 |
-| 50 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
+| 49 | [Feel You](https://open.spotify.com/track/0AkQIzDWxywsrtnY6f0oYB) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Feel You](https://open.spotify.com/album/3uBHz77NGhAuxozj6CUIzL) | 2:58 |
+| 50 | [Want U](https://open.spotify.com/track/0hW6yD1MgFpwonGgFf617D) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Want U](https://open.spotify.com/album/4KImdEXoK1S2Id8E53qTgW) | 3:13 |
 
 Snapshot ID: `AAAAAM39s08R3pVzm0B0DaFglSDOLiqu`

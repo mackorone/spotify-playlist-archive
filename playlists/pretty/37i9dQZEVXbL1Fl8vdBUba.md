@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,786 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,794 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8) | 4:38 |
 | 50 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 |
 
-Snapshot ID: `MGtVeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGykoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

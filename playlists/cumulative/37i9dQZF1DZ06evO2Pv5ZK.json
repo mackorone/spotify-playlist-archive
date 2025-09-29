@@ -279,6 +279,32 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/60wULKo3XC35GgqO1n23fj"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213285,
+      "name": "Conquest of Paradise",
+      "url": "https://open.spotify.com/track/0peXPGCCFJotcUwLbRbuXa"
+    },
+    {
+      "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
       },

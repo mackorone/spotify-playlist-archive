@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YDBB\(유다빈밴드\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,228 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,226 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dizzy](https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CODA](https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp) | 4:19 |
-| 2 | [go easy go](https://open.spotify.com/track/0kWqAA7MfCM0BBZAxbMJ6o) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [go easy go](https://open.spotify.com/album/0zsFnowMMRAY4g0ZZuVw4q) | 3:08 |
+| 1 | [go easy go](https://open.spotify.com/track/0kWqAA7MfCM0BBZAxbMJ6o) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [go easy go](https://open.spotify.com/album/0zsFnowMMRAY4g0ZZuVw4q) | 3:08 |
+| 2 | [Dizzy](https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CODA](https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp) | 4:19 |
 | 3 | [Don't Cry](https://open.spotify.com/track/00J5g1QoLIInU4XER7JLMu) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [bo1](https://open.spotify.com/album/7ievUM2bjICgHvTPVSu9e0) | 2:52 |
 | 4 | [Tongue](https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Starring](https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt) | 3:43 |
 | 5 | [Riddle of Life](https://open.spotify.com/track/0MNcLcsyHp25Siq9M7BkA1) | [Jeong Gayi](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [Conundrum](https://open.spotify.com/album/5tNIxtyS1X2W1rjf5yIZzj) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Peachy](https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Peachy](https://open.spotify.com/album/5yu53vfvfv6IE6lZ98xViM) | 3:29 |
 | 50 | [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 |
 
-Snapshot ID: `AAAAAKN6Wv/Nue32V1iWshJCzLfQcC8I`
+Snapshot ID: `AAAAAFu27+m6BOgB64sGinA5RvWaJaX7`

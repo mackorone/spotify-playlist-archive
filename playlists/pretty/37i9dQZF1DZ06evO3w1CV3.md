@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,059 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,081 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 8 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
 | 9 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 |
 | 10 | [Brave](https://open.spotify.com/track/288HSFmURcl6yxx4c5tFdr) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:54 |
-| 11 | [Mathematics \(feat\. Kano\)](https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Mathematics \(feat\. Kano\)](https://open.spotify.com/album/5JtKI0Ys4swduOVAnxVgVN) | 3:18 |
-| 12 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
-| 13 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 |
-| 14 | [First Last Dance](https://open.spotify.com/track/2tE28bQYBZFOspAgqPGsJq) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:20 |
+| 11 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
+| 12 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 |
+| 13 | [Mathematics \(feat\. Kano\)](https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Mathematics \(feat\. Kano\)](https://open.spotify.com/album/5JtKI0Ys4swduOVAnxVgVN) | 3:18 |
+| 14 | [Perfect Crime](https://open.spotify.com/track/6AiKuKk65VfgMUR9DpW9xG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:32 |
 | 15 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 16 | [Poison](https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:31 |
 | 17 | [You & Me Song](https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [You & Me Song](https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7) | 2:51 |
-| 18 | [Perfect Crime](https://open.spotify.com/track/6AiKuKk65VfgMUR9DpW9xG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:32 |
+| 18 | [First Last Dance](https://open.spotify.com/track/2tE28bQYBZFOspAgqPGsJq) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:20 |
 | 19 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
 | 20 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
 | 21 | [Hurts](https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 39 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 |
 | 40 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 |
 
-Snapshot ID: `aNXXgAAAAACSvwyE/GZ8CxcszlDqn1wE`
+Snapshot ID: `aNcpAAAAAAA5HvzZUiIheP0tFVEd/DWB`

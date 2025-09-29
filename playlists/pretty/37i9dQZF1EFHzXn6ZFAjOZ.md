@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,263 likes - 127 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,268 likes - 127 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 54 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
 | 55 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
 | 56 | [Friends](https://open.spotify.com/track/34KTVmypyKLAFJc8CpfI5P) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Friends](https://open.spotify.com/album/5WmYE9Qy49qZ9brCCZ9h79) | 3:24 |
-| 57 | [If I Get My Way](https://open.spotify.com/track/7nZfqSVjcyoKTv0fYFd8rb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:40 |
-| 58 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
+| 57 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
+| 58 | [If I Get My Way](https://open.spotify.com/track/7nZfqSVjcyoKTv0fYFd8rb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:40 |
 | 59 | [Not In Love](https://open.spotify.com/track/6zN256SHzVljMn5i3SCitv) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Not In Love](https://open.spotify.com/album/0lw6II357NuP1I9Jk8f1Gm) | 3:35 |
 | 60 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 |
 | 61 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/6f7SVoKbc1zFE5Lg2Qo9P4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:35 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 75 | [Oscar Winning Tears\. \(feat\. Flames Collective\) \- Live at the Royal Albert Hall](https://open.spotify.com/track/29lljQQOZikL3BwRX2ekDC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx), [Flames Collective](https://open.spotify.com/artist/7CrMgMVd8fYaJWMFr3xYdI) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 3:20 |
 | 76 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 77 | [The Wave \(feat\. Madcon\)](https://open.spotify.com/track/2aE5Nih0DGEVWhA9BVsiua) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [The Wave \(feat\. Madcon\)](https://open.spotify.com/album/3PXhfheqGadYFCxkz33Pmf) | 2:58 |
-| 78 | [Don’t Think About It](https://open.spotify.com/track/4IlakQ3QzAp2WD5tjIpAs7) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 2:50 |
-| 79 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
+| 78 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
+| 79 | [Don’t Think About It](https://open.spotify.com/track/4IlakQ3QzAp2WD5tjIpAs7) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 2:50 |
 | 80 | [Midnight Cowboy](https://open.spotify.com/track/4zrnaKcJWGYVfGZqmCOELM) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:31 |
 | 81 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
 | 82 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 126 | [I, U, Us \- RIVRS Remix](https://open.spotify.com/track/4g22usiSE89zT5JXZlSx9m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [I, U, Us \(The Remixes\)](https://open.spotify.com/album/1OQ08PNMnSd2Iizo027Lb5) | 3:39 |
 | 127 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `Ab9YHgAAAADmUKaf23mM0bUu8ijgWWR8`
+Snapshot ID: `Ab9dyAAAAAAX0/CP5PEYCqMOaaZwoeqJ`

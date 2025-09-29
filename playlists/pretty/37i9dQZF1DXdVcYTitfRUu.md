@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,388 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,393 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 41 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 |
 | 42 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 |
 | 43 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
-| 44 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
-| 45 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
+| 44 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
+| 45 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
 | 46 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
 | 47 | [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 |
 | 48 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 49 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 |
-| 50 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
-| 51 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 |
+| 50 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 |
+| 51 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
 | 52 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 |
 | 53 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 54 | [I\`m Firefly](https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I\`m Firefly](https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT) | 3:35 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 76 | [When we meet again](https://open.spotify.com/track/6gQk1uAnn2hRujlUKmqydC) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Head over Heels, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5RH88dyB79lPDgIytTZNwc) | 4:22 |
 | 77 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
 | 78 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
-| 79 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
-| 80 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
+| 79 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
+| 80 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
 
 Snapshot ID: `AAAAAN+CJsmXKLCKyTRJAyLh0XPKJd+D`

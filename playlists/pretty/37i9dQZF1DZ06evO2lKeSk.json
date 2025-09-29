@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 363479,
+  "num_followers": 363542,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACVj5Jrut4MXk/eGEigwZmC",
+  "snapshot_id": "aNcpAAAAAABMnvl4FL3tQB0pFh0ha/KP",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Qu\u00e9 Manera de Perder",
+      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conquistando Corazones",
         "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Qu\u00e9 Manera de Perder",
-      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qui\u00e9n Como t\u00fa",
         "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 270733,
       "name": "Ni un Roce (Nem um Toque)",
       "url": "https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 310173,
-      "name": "Eres Todo en M\u00ed (You're My Everything)",
-      "url": "https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 189893,
       "name": "Parece Que Fue Ayer",
       "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 310173,
+      "name": "Eres Todo en M\u00ed (You're My Everything)",
+      "url": "https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 206466,
       "name": "Pecado Original",
       "url": "https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 40 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 |
 | 41 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 |
 | 42 | [decay](https://open.spotify.com/track/1PNpHAmVys80vSWp1CpsGE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:29 |
-| 43 | [forgive the world](https://open.spotify.com/track/7m059kV1WgO9czlih2hDrI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:28 |
-| 44 | [Take Me Home](https://open.spotify.com/track/0TO0JzcSvrR932muxU9I5O) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:01 |
+| 43 | [Take Me Home](https://open.spotify.com/track/0TO0JzcSvrR932muxU9I5O) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:01 |
+| 44 | [forgive the world](https://open.spotify.com/track/7m059kV1WgO9czlih2hDrI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:28 |
 | 45 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 |
 | 46 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 |
 | 47 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:19 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 56 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 |
 | 57 | [Distance](https://open.spotify.com/track/5HrHaeqSvIviQAmCZaPejd) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW) | 3:42 |
 | 58 | [Bite My Tongue](https://open.spotify.com/track/46H2plPamhaf0S64tdCEWK) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Neon From Now On](https://open.spotify.com/album/6yjozquVFNSroCrsOFwKQw) | 2:47 |
-| 59 | [Five Past Ten](https://open.spotify.com/track/6iOQIQleZKnvWbPu9LZLnY) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Five Past Ten](https://open.spotify.com/album/0iEMgxSGCsUH77oJPtKFjT) | 3:31 |
-| 60 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 |
+| 59 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 |
+| 60 | [Five Past Ten](https://open.spotify.com/track/6iOQIQleZKnvWbPu9LZLnY) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Five Past Ten](https://open.spotify.com/album/0iEMgxSGCsUH77oJPtKFjT) | 3:31 |
 | 61 | [GRUDGE](https://open.spotify.com/track/3F9lkDd91qdLnhkVtZxOGo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:12 |
 | 62 | [Strawberry Water](https://open.spotify.com/track/1VUDUqZizxZcgX6LZL8Mfp) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Problems](https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3) | 2:20 |
 | 63 | [OBSESSED](https://open.spotify.com/track/3MVuuSJqmJvBNbDYi74O8v) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:25 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 104 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 105 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Ab9YRgAAAADYws9NuuhKer0OFrjy12VB`
+Snapshot ID: `Ab9dyAAAAABNVkT40edPuIYi2FQsg0SN`

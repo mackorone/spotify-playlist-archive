@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 23262,
+  "num_followers": 23268,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Picture This",
-        "url": "https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG"
-      },
-      "artists": [
-        {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
-        }
-      ],
-      "duration_ms": 234826,
-      "name": "Po Pimp",
-      "url": "https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Holy Ghost Zone",
         "url": "https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 107316,
       "name": "Depend on U",
       "url": "https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Picture This",
+        "url": "https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG"
+      },
+      "artists": [
+        {
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+        }
+      ],
+      "duration_ms": 234826,
+      "name": "Po Pimp",
+      "url": "https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra (feat. Q-Tip)",
-      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra (feat. Q-Tip)",
+      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
     },
     {
       "added_at": "2022-10-01 16:00:00",

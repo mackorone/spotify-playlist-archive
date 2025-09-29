@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,066 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,113 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [4×4×U](https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:59 |
-| 2 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 |
+| 1 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 |
+| 2 | [4×4×U](https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:59 |
 | 3 | [Save Me \- with Lainey Wilson](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 4 | [Things A Man Oughta Know](https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:23 |
-| 5 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
-| 6 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
+| 5 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
+| 6 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
 | 7 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
 | 8 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
 | 9 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 |
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 35 | [Waste of Good Whiskey](https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:55 |
 | 36 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 2:59 |
 | 37 | [Sayin’ What I’m Thinkin’](https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:21 |
-| 38 | [Workin' Overtime](https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Workin' Overtime](https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O) | 3:17 |
+| 38 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
 | 39 | [Breakin' Your Heart](https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:57 |
-| 40 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
-| 41 | [WWDD](https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:20 |
-| 42 | [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 |
+| 40 | [Workin' Overtime](https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Workin' Overtime](https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O) | 3:17 |
+| 41 | [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 |
+| 42 | [WWDD](https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:20 |
 | 43 | [Microphone](https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:54 |
 | 44 | [Feather In My Hat \(feat\. Lainey Wilson\)](https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Eagle Feather](https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI) | 3:21 |
-| 45 | [Rolling Stone](https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:59 |
-| 46 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
+| 45 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
+| 46 | [Rolling Stone](https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:59 |
 | 47 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
 | 48 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
 
-Snapshot ID: `aNXXgAAAAACNsUHJp9HeA6rGROOazePR`
+Snapshot ID: `aNcpAAAAAADSUXt/YiOzjg4pHScSbTmp`

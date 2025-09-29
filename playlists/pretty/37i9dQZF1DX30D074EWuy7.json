@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33337,
+  "num_followers": 33341,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,22 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
       "artists": [
         {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
         }
       ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -475,22 +479,18 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
         }
       ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 388854,
       "name": "Estate",
       "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -843,6 +843,58 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
+        "name": "La ragazza dalla pelle di luna",
+        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 175047,
+      "name": "Stella del sud",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
+        "name": "Prati Bagnati Del Monte Analogo",
+        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
+      },
+      "artists": [
+        {
+          "name": "Raul Lovisoni",
+          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
+        },
+        {
+          "name": "Francesco Messina",
+          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
+        }
+      ],
+      "duration_ms": 566966,
+      "name": "Hula Om",
+      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
         "name": "Citt\u00e0 Futura",
         "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
       },
@@ -879,58 +931,6 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "La ragazza dalla pelle di luna",
-        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 175047,
-      "name": "Stella del sud",
-      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
-        "name": "Prati Bagnati Del Monte Analogo",
-        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
-      },
-      "artists": [
-        {
-          "name": "Raul Lovisoni",
-          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
-        },
-        {
-          "name": "Francesco Messina",
-          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
-        }
-      ],
-      "duration_ms": 566966,
-      "name": "Hula Om",
-      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
         "name": "Fidate Correnti",
         "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -963,22 +979,6 @@
       "duration_ms": 219853,
       "name": "ILLUSIONI E ASTRATTISMI (feat. Paolo Fresu)",
       "url": "https://open.spotify.com/track/0m4TP7FtjVY7G4PJ45aAKk"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
-      },
-      "artists": [
-        {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
-        },
-        {
-          "name": "Paolo Di Sabatino Trio",
-          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
-        }
-      ],
-      "duration_ms": 434413,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
+      },
+      "artists": [
+        {
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+        },
+        {
+          "name": "Paolo Di Sabatino Trio",
+          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
+        }
+      ],
+      "duration_ms": 434413,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -1627,6 +1643,22 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
+        "name": "PRIMATE",
+        "url": "https://open.spotify.com/album/1qEO0hdcSAtKXugFFDfsnz"
+      },
+      "artists": [
+        {
+          "name": "PRIMATE",
+          "url": "https://open.spotify.com/artist/043PrzkQZOUdcg767gm06W"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Trax",
+      "url": "https://open.spotify.com/track/04ZVDkn4dmxcLgNnoxM1xA"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
         "name": "Dualism",
         "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
       },
@@ -1639,22 +1671,6 @@
       "duration_ms": 281466,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -1687,22 +1703,6 @@
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
-        "name": "PRIMATE",
-        "url": "https://open.spotify.com/album/1qEO0hdcSAtKXugFFDfsnz"
-      },
-      "artists": [
-        {
-          "name": "PRIMATE",
-          "url": "https://open.spotify.com/artist/043PrzkQZOUdcg767gm06W"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Trax",
-      "url": "https://open.spotify.com/track/04ZVDkn4dmxcLgNnoxM1xA"
     },
     {
       "added_at": "2025-09-11 22:01:10",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-09-11 22:01:10",
       "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
+    },
+    {
+      "added_at": "2025-09-11 22:01:10",
+      "album": {
         "name": "Jazz Carnival",
         "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2025-09-11 22:01:10",
-      "album": {
-        "name": "So In Love",
-        "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "That Old Black Magic",
-      "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
     },
     {
       "added_at": "2025-09-11 22:01:10",

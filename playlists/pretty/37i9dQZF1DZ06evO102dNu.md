@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,641 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,672 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 25 | [Blue Moon \- 1999 Remastered](https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:51 |
 | 26 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
 | 27 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:57 |
-| 28 | [The Girl From Ipanema \- 2008 Remastered](https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:14 |
-| 29 | [My Way](https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Highlights From Duets](https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9) | 3:31 |
+| 28 | [My Way](https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Highlights From Duets](https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9) | 3:31 |
+| 29 | [The Girl From Ipanema \- 2008 Remastered](https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:14 |
 | 30 | [Quiet Nights of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:45 |
 | 31 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
 | 32 | [Autumn Leaves \- Remastered 1999](https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 2:52 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 47 | [Let Me Try Again \(Laisse Moi le Temps\)](https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 3:31 |
 | 48 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
 | 49 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
-| 50 | [Night And Day \- Remastered 1998](https://open.spotify.com/track/3JPykdXkCds32OP5hzxm7j) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 4:00 |
+| 50 | [More \(Theme From Mondo Cane\)](https://open.spotify.com/track/0a545c4gOsyYupVvliDOy0) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 3:01 |
 
-Snapshot ID: `aNXXgAAAAAAJjUbdJK6xBwLal5i6zrXi`
+Snapshot ID: `aNcpAAAAAACYq4Cbt4iJ9LJUlFJG36Fy`

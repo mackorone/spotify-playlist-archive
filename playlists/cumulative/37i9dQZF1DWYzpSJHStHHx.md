@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-375 songs - 21 hr 17 min
+376 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Feeding the Family](https://open.spotify.com/track/1h6xvFLgvoK74l5qMICEDR) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Feeding the Family](https://open.spotify.com/album/3xDztpVMcm9iOV2y2djuuq) | 4:44 | 2024-02-16 | 2025-02-08 |
 | [Feeling Ok](https://open.spotify.com/track/0pufbBQTb9Voh9ZtpCpYLH) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/3lobKWYjPRZWL6gFLKYE4P) | 3:16 | 2021-02-05 | 2022-04-20 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2023-03-01 | 2023-07-14 |
-| [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 | 2023-07-13 |  |
+| [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 | 2023-07-13 | 2025-09-29 |
 | [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 | 2022-09-22 | 2023-03-02 |
 | [Fire Flower](https://open.spotify.com/track/4zSZfVqbXLFFvNfT4RLDlM) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Fire Flower](https://open.spotify.com/album/2DHEZDsm02YY3MLxvNkPcA) | 4:10 | 2021-02-05 | 2022-06-30 |
 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 | 2025-02-07 |  |
@@ -355,6 +355,7 @@
 | [Valleys \(My Love\)](https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:56 | 2023-05-22 | 2023-06-06 |
 | [Veni Vidi Vici](https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/5xyf2bbQjF0yONbosNl53M) | 2:28 | 2021-02-05 | 2022-04-21 |
 | [Waiting on Summer](https://open.spotify.com/track/4OhTbBrGmuUzMImkJrzGjC) | [Stuck in Vacation](https://open.spotify.com/artist/5EHeaLUHACalZ0bNp1MCQD) | [Waiting on Summer](https://open.spotify.com/album/7LKQyGMMUkgQfzysQxQd0Z) | 2:45 | 2021-08-27 | 2022-04-20 |
+| [Walk To The One You Love](https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Down In Heaven](https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5) | 3:33 | 2025-02-07 |  |
 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 | 2021-02-05 | 2022-04-20 |
 | [Warned You](https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/5CsiKKVYjYSu7yQqqxW5Wi) | 2:13 | 2021-02-05 | 2022-06-25 |
 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 | 2022-07-22 | 2023-07-14 |

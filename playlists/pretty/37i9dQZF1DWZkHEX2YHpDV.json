@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Yellowcard",
-  "num_followers": 452008,
+  "num_followers": 451766,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
         "name": "Funeral Soundtrack #4",
         "url": "https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 181866,
       "name": "HEART AWAY",
       "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "Joyride The Pale Horse",
-        "url": "https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Lay Down and Die",
-      "url": "https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "Joyride The Pale Horse",
+        "url": "https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Lay Down and Die",
+      "url": "https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 153133,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
-        "name": "High Stakes",
-        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        },
-        {
-          "name": "Matty Mullins",
-          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "High Stakes",
-      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "Nice to Know Ya",
-        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 179454,
-      "name": "Nice to Know Ya",
-      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "i\u2019m still breathing",
         "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 182234,
       "name": "nosebleeds",
       "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "Nice to Know Ya",
+        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 179454,
+      "name": "Nice to Know Ya",
+      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
     },
     {
       "added_at": "2025-09-19 04:00:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 342649,
+  "num_followers": 342691,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACNGOxrx15N7ZcNdAECyutq",
+  "snapshot_id": "aNcpAAAAAADoaXSJQQy5daPbaQanJWj9",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 157285,
+      "name": "Ay Nom\u00e1s",
+      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157285,
-      "name": "Ay Nom\u00e1s",
-      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 769477,
+  "num_followers": 769678,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
-        "name": "Se Me Olvida",
-        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 167285,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
         "name": "El Que Se Enamora Pierde",
         "url": "https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 144868,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 167285,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
     },
     {
       "added_at": "2025-09-26 15:15:08",
@@ -935,38 +935,6 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 220753,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
         "name": "Quisiera que esta noche (En Vivo)",
         "url": "https://open.spotify.com/album/5l3EyOH5X3F51PwvJQEMB3"
       },
@@ -987,18 +955,34 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 220753,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
     },
     {
       "added_at": "2025-09-26 15:15:08",
@@ -1019,6 +1003,42 @@
       "duration_ms": 198277,
       "name": "A veces, a besos",
       "url": "https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
+        "name": "Si tu no vuelves / Tu misterioso alguien (En Vivo)",
+        "url": "https://open.spotify.com/album/4Uny4FGxGwA9WBYCxwbTvO"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        },
+        {
+          "name": "Maximiliano Mur\u00faa",
+          "url": "https://open.spotify.com/artist/7hNABZM9cObZ9c4uzO9w4a"
+        }
+      ],
+      "duration_ms": 259604,
+      "name": "Si tu no vuelves / Tu misterioso alguien - En Vivo",
+      "url": "https://open.spotify.com/track/2dLOhL6DX6VR0ZLYiui5hb"
     },
     {
       "added_at": "2025-09-26 15:15:08",
@@ -1051,26 +1071,6 @@
       "duration_ms": 155990,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
-        "name": "Si tu no vuelves / Tu misterioso alguien (En Vivo)",
-        "url": "https://open.spotify.com/album/4Uny4FGxGwA9WBYCxwbTvO"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        },
-        {
-          "name": "Maximiliano Mur\u00faa",
-          "url": "https://open.spotify.com/artist/7hNABZM9cObZ9c4uzO9w4a"
-        }
-      ],
-      "duration_ms": 259604,
-      "name": "Si tu no vuelves / Tu misterioso alguien - En Vivo",
-      "url": "https://open.spotify.com/track/2dLOhL6DX6VR0ZLYiui5hb"
     },
     {
       "added_at": "2025-09-26 15:15:08",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
-        "name": "Muero (feat. Eugenia Quevedo)",
-        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 264563,
-      "name": "Muero (feat. Eugenia Quevedo)",
-      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
         "name": "Dejarnos Ir",
         "url": "https://open.spotify.com/album/4blgi7a5EMVZT2vnpRObV1"
       },
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
         "name": "Conmigo Te Gust\u00f3 - Pechos Calientes",
         "url": "https://open.spotify.com/album/26xqJNDKQXuWBAn5B1cfBW"
       },
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 199651,
       "name": "Esto se Acab\u00f3",
       "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2025-09-26 15:15:08",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2025-09-26 15:15:08",
       "album": {
+        "name": "Ni Lo Pienses",
+        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Registrada",
+          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "added_at": "2025-09-26 15:15:08",
+      "album": {
         "name": "Que vamos a hacer",
         "url": "https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 176554,
       "name": "Que vamos a hacer",
       "url": "https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU"
-    },
-    {
-      "added_at": "2025-09-26 15:15:08",
-      "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
-      },
-      "artists": [
-        {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
     },
     {
       "added_at": "2025-09-26 15:15:08",

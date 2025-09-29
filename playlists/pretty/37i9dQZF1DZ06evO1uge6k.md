@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,165 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,162 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 23 | [I Got the Six \(2008 Remaster\)](https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 2:54 |
 | 24 | [A Fool for Your Stockings](https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:14 |
 | 25 | [Sleeping Bag](https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
-| 26 | [Arrested for Driving While Blind](https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:06 |
+| 26 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
 | 27 | [Viva Las Vegas \- 2003 Remaster](https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9) | 4:43 |
-| 28 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
-| 29 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
+| 28 | [Arrested for Driving While Blind](https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:06 |
+| 29 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
 | 30 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
 | 31 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
 | 32 | [Stages](https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:32 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 42 | [Delirious](https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:41 |
 | 43 | [La Grange](https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \(‘That Little Ol' Band From Texas’ Original Soundtrack\)](https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw) | 4:41 |
 | 44 | [Goin' Down to Mexico](https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:23 |
-| 45 | [Balinese \(2005 Remaster\)](https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:36 |
-| 46 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
+| 45 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
+| 46 | [Balinese \(2005 Remaster\)](https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:36 |
 | 47 | [Francine](https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 3:33 |
 | 48 | [Certified Blues](https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:27 |
 | 49 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
 | 50 | [Nasty Dogs and Funky Kings \(2005 Remaster\)](https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:42 |
 
-Snapshot ID: `aNXXgAAAAADiBFRTRhEDfGs0kBx8/IL+`
+Snapshot ID: `aNcpAAAAAABi8+s1TJ2kIzxTVTSLxZ87`

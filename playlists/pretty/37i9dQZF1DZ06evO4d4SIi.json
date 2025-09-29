@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 51498,
+  "num_followers": 51541,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAANSlQCU6lMH8T9f0EZJRNw",
+  "snapshot_id": "aNcpAAAAAADYfkcoPgPzHE7Quma+Ofrr",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know You Like That",
-        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
+        "name": "Life Is A Highway: Refueled Duets",
+        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
       "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 176450,
-      "name": "Know You Like That",
-      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
+      "duration_ms": 199733,
+      "name": "Yours If You Want It",
+      "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Highway: Refueled Duets",
-        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
+        "name": "Know You Like That",
+        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
       },
       "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Yours If You Want It",
-      "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
+      "duration_ms": 176450,
+      "name": "Know You Like That",
+      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
     },
     {
       "added_at": null,

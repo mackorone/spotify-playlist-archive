@@ -4,7 +4,7 @@
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 49 min
+83 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 | 2022-06-01 |  |
 | [El Mundo es Tuyo](https://open.spotify.com/track/1ReTfp9nMGVHZruQ5XnkxA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 3:46 | 2024-10-07 | 2024-11-12 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-19 |  |
-| [Eres Arte <3](https://open.spotify.com/track/5yJBiHH4O9q3gFVFl4abUZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:30 | 2025-04-01 |  |
+| [Eres Arte <3](https://open.spotify.com/track/5yJBiHH4O9q3gFVFl4abUZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:30 | 2025-04-01 | 2025-09-29 |
 | [Esa noche](https://open.spotify.com/track/2mgB7dTJpANxh0Xayd0o9S) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:18 | 2025-03-16 |  |
 | [Eslabon Intro](https://open.spotify.com/track/4rvQ7BtQl20UuLmW0DwItj) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 0:45 | 2023-11-10 | 2023-12-30 |
 | [Faldita](https://open.spotify.com/track/1TKBveWY8Ahq5SEnSMcNGa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 2:58 | 2024-10-07 | 2025-03-16 |
@@ -63,6 +63,7 @@
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-12 | 2023-02-16 |
 | [Nada Me Va Mal](https://open.spotify.com/track/1C0OMWgbKnJza9HEyC7s8g) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Navegando y Flotando](https://open.spotify.com/album/5nlr24zHTeIXfuBci42L1Q) | 2:42 | 2023-04-19 | 2023-05-01 |
 | [No Dudes de Ti](https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:09 | 2022-06-01 |  |
+| [NO VOY A JUGAR](https://open.spotify.com/track/027Ux04z3yNfLRQC6J1Cwf) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:53 | 2025-09-29 |  |
 | [NO VOY A ODIARTE](https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:46 | 2024-11-10 | 2025-08-24 |
 | [OTRAS 24 HORAS](https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:42 | 2025-03-16 |  |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-06-01 |  |
@@ -79,7 +80,7 @@
 | [Te Quiero a Ti](https://open.spotify.com/track/5OpHUq6Fo1qaUhU3imV6TK) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 3:40 | 2022-06-01 |  |
 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/15BYgAqFbSrnsKvvs3Yu45) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/album/43jEzQ4AlCO7sHXegbuYjm) | 3:45 | 2024-06-17 | 2024-09-11 |
 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESDE MI HABITACIÓN](https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE) | 3:45 | 2024-09-11 | 2024-09-18 |
-| [Tentacion](https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:02 | 2022-06-01 | 2025-08-12 |
+| [Tentacion](https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:02 | 2022-06-01 |  |
 | [Termine Sufriendo](https://open.spotify.com/track/79A1VwJknwHTh2105djsQm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:15 | 2023-04-29 | 2023-06-26 |
 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 | 2022-06-01 |  |
 | [Tres de la Mañana](https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:36 | 2022-06-01 | 2025-03-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。為何放棄 為何懷疑 別太快 將我推開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,022 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,016 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 3 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 4 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 | 5 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
-| 6 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
-| 7 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |
+| 6 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |
+| 7 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
 | 8 | [人質](https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 3:52 |
 | 9 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 10 | [她說](https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 5:18 |
 | 11 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
-| 12 | [想見你想見你想見你 \- 電視劇《想見你》片尾曲](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你 \(電視劇《想見你》片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
-| 13 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
+| 12 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
+| 13 | [想見你想見你想見你 \- 電視劇《想見你》片尾曲](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你 \(電視劇《想見你》片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
 | 14 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
 | 15 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 |
 | 16 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 19 | [失落沙洲](https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk) | 4:59 |
 | 20 | [最後一堂課 \- 《媽，別鬧了！》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽，別鬧了！》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 |
 | 21 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
-| 22 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
-| 23 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
+| 22 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
+| 23 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
 | 24 | [退後](https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:21 |
 | 25 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 |
 | 26 | [記得](https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jerry Lin](https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm) | [真實](https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw) | 4:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 46 | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 |
 | 47 | [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 |
 | 48 | [我們都傻](https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [仰望](https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5) | 5:30 |
-| 49 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 |
+| 49 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
 | 50 | [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 |
 
 Snapshot ID: `AAAAAPn7VbQoqSOA/1tXMq1VZJGzD3Ug`

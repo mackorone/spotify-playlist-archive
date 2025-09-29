@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,555 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,559 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 22 | [See you soon](https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 3:40 |
 | 23 | [zarcillos de plata](https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 3:18 |
 | 24 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
-| 25 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 |
+| 25 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
 | 26 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
-| 27 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
+| 27 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 |
 | 28 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 29 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 30 | [No Problems](https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [SHINBANGUMI](https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7) | 3:44 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 32 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
 | 33 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
 | 34 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
-| 35 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
-| 36 | [For God and Country](https://open.spotify.com/track/5JmjXrRYZyJYmXz72IstSS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:43 |
+| 35 | [For God and Country](https://open.spotify.com/track/5JmjXrRYZyJYmXz72IstSS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:43 |
+| 36 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
 | 37 | [Snoopy](https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:00 |
 | 38 | [SUPERSTAR](https://open.spotify.com/track/0PQff1DRs2QDmAP9oIc1nN) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6wpNNU4kpjNllbd501Jipd) | 1:57 |
 | 39 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 64 | [Some Kind of Angel](https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Split Lip](https://open.spotify.com/album/40B9Xk2WmXKJY9kNWH1yBk) | 4:34 |
 | 65 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
 | 66 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
-| 67 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
-| 68 | [Feed My Release](https://open.spotify.com/track/06HsoB1J6BYNJtxOuvy2yN) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Below a Massive Dark Land](https://open.spotify.com/album/4FBlXgeZ4n0nwY0bXuZ8P2) | 5:16 |
+| 67 | [Feed My Release](https://open.spotify.com/track/06HsoB1J6BYNJtxOuvy2yN) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Below a Massive Dark Land](https://open.spotify.com/album/4FBlXgeZ4n0nwY0bXuZ8P2) | 5:16 |
+| 68 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
 | 69 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
 | 70 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
 | 71 | [Soak](https://open.spotify.com/track/6vdu0VyKBcN7lkUcdS37mF) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 2:44 |

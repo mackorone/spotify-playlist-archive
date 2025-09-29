@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Oikonomopoulos
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,749 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,752 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 35 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 |
 | 36 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
 | 37 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 |
-| 38 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
-| 39 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 |
+| 38 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 |
+| 39 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
 | 40 | [Na Peite Sto Paidi](https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Na Peite Sto Paidi](https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl) | 3:47 |
 | 41 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
 | 42 | [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 44 | [Bam](https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Bam](https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H) | 2:46 |
 | 45 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
 | 46 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 |
-| 47 | [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 |
-| 48 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
+| 47 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
+| 48 | [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 |
 | 49 | [Dysi Kai Anatoli](https://open.spotify.com/track/1SlEspnD2trG8pZSiUCy94) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Dysi Kai Anatoli](https://open.spotify.com/album/6QgvVuIEs3WAKpEq5XOS1T) | 3:25 |
 | 50 | [Horis Esena Den Iparho](https://open.spotify.com/track/7xGfCLpA8UdempaJ5EnSr5) | [Harry Varthakouris](https://open.spotify.com/artist/1SaOXUm6hMFbMdAzAT5ZWd) | [Horis Esena Den Iparho](https://open.spotify.com/album/0byNCHqjkdDFaO2Zcw7xQI) | 4:14 |
 

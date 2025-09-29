@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,779 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,806 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
 | 2 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
 | 3 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
-| 4 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
-| 5 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |
+| 4 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |
+| 5 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 6 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
 | 7 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
 | 8 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 25 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 26 | [Tune Kaha](https://open.spotify.com/track/1gWtHDe403RuyZqhvSRcv8) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tune Kaha](https://open.spotify.com/album/1sXF26ED1bQT76rFEvPwaP) | 3:36 |
 | 27 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
-| 28 | [Nit Nit](https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Nit Nit](https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05) | 4:06 |
-| 29 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
+| 28 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
+| 29 | [Nit Nit](https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Nit Nit](https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05) | 4:06 |
 | 30 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 31 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 32 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Luciano Pereyra & David Bisbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,775 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,832 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 13 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |
 | 14 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 |
 | 15 | [Un Milagro](https://open.spotify.com/track/1jcht9cNMIiEEdiFY0iIm8) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Un Milagro](https://open.spotify.com/album/6s7yLvsFsWrKHgrjaAyMDD) | 5:11 |
-| 16 | [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 |
+| 16 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 17 | [Estrella Fugaz](https://open.spotify.com/track/3BJ1CCCBuxUCxMtMO0DMpS) | [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Estrella Fugaz](https://open.spotify.com/album/6jpJuQcLhhSVGtOIiRnIrj) | 2:57 |
 | 18 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 |
 | 19 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/0vUqiSvbUICW3YtTA5ecSX) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:41 |
-| 20 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
+| 20 | [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 |
 | 21 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 |
 | 22 | [La del Primer Puesto](https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La del Primer Puesto](https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua) | 3:14 |
 | 23 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 39 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 |
 | 40 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 41 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
-| 42 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
-| 43 | [La Pelirroja](https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [La Pelirroja](https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1) | 2:44 |
+| 42 | [La Pelirroja](https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [La Pelirroja](https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1) | 2:44 |
+| 43 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
 | 44 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 |
 | 45 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
 | 46 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 |

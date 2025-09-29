@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60076,
+  "num_followers": 60084,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
+        "name": "Laat Me Lekker Leven",
+        "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 191590,
+      "name": "Laat Me Lekker Leven",
+      "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
         "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Laat Me Lekker Leven",
-        "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
+        "name": "Een Blik In Jouw Ogen",
+        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
       "artists": [
         {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
         }
       ],
-      "duration_ms": 191590,
-      "name": "Laat Me Lekker Leven",
-      "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
+      "duration_ms": 184671,
+      "name": "Een Blik In Jouw Ogen",
+      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -1039,22 +1055,6 @@
       "duration_ms": 138655,
       "name": "HJB",
       "url": "https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
-        "name": "Een Blik In Jouw Ogen",
-        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "Een Blik In Jouw Ogen",
-      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Se\u00f1orita, Meisje van de nacht",
-        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 176012,
-      "name": "Se\u00f1orita, Meisje van de nacht",
-      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 196632,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
+        "name": "Se\u00f1orita, Meisje van de nacht",
+        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "Se\u00f1orita, Meisje van de nacht",
+      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
     },
     {
       "added_at": "2025-08-13 08:02:17",

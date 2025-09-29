@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,533 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,540 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 34 | [Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:38 |
 | 35 | [ICY GRL](https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 1:49 |
 | 36 | [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 |
-| 37 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
-| 38 | [Mojo So Dope](https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:30 |
+| 37 | [Mojo So Dope](https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:30 |
+| 38 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
 | 39 | [No Smoke](https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 2:40 |
 | 40 | [Mannequin \(feat\. Lil Tjay\)](https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:40 |
 | 41 | [Atlantic City](https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Jericho](https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU) | 5:14 |

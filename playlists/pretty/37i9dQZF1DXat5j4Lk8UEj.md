@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,197 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,066 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 74 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
 | 75 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
 | 76 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
-| 77 | [Holster](https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Holster](https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs) | 3:00 |
-| 78 | [Proximity](https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P) | [Blank Range](https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t) | [In Unison](https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w) | 3:17 |
-| 79 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
+| 77 | [Proximity](https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P) | [Blank Range](https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t) | [In Unison](https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w) | 3:17 |
+| 78 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
+| 79 | [Holster](https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Holster](https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs) | 3:00 |
 | 80 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
 | 81 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
 | 82 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
 | 83 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
 | 84 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |
-| 85 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
-| 86 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
+| 85 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
+| 86 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
 | 87 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
 | 88 | [Difference Of Opinion](https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Difference Of Opinion](https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI) | 3:40 |
 | 89 | [Starting from Scratch](https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Starting from Scratch](https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk) | 3:09 |

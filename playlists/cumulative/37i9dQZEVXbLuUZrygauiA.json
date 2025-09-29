@@ -41352,7 +41352,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 182576,
       "name": "Nobody\u2019s Son",
       "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
@@ -47416,7 +47416,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -60268,6 +60268,28 @@
     {
       "album": {
         "name": "Tumbayork",
+        "url": "https://open.spotify.com/album/08SpopmCsFsvKqd7gr4Nyg"
+      },
+      "artists": [
+        {
+          "name": "David GZ",
+          "url": "https://open.spotify.com/artist/4ieIdTp4RHs450vVGqDtKk"
+        },
+        {
+          "name": "Cris MP",
+          "url": "https://open.spotify.com/artist/0m7uX6LEI0W8aKBK53Zxep"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142952,
+      "name": "Tumbayork",
+      "url": "https://open.spotify.com/track/1MRuWfOVxpJiAyW8AS1laj"
+    },
+    {
+      "album": {
+        "name": "Tumbayork",
         "url": "https://open.spotify.com/album/3Yvc0qZdCKDR3GIxXPLRSY"
       },
       "artists": [
@@ -64036,7 +64058,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"

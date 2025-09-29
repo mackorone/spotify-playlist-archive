@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,700 likes - 25 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701 likes - 25 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 21 | [Commentary 2](https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j) | [Robert Sherman](https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 1:08 |
 | 22 | [The Firebird: Berceuse \(Arr\. For theremin and piano\)](https://open.spotify.com/track/40jjsKUVCChR7SIiwr9KVG) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Rachmaninov, S.: Vocalise / Saint\-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody \(The Art of the Theremin\)](https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd) | 3:10 |
 | 23 | [Habanera](https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music and Memories: Clara Rockmore \(Bonus Album\)](https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv) | 2:59 |
-| 24 | [Sonata for violin and piano: Allegretto poco mosso](https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:35 |
+| 24 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
 | 25 | [Theremin Concerto](https://open.spotify.com/track/164RuJFLGfWUnvLPZaoDEH) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [New York Symphony Orchestra](https://open.spotify.com/artist/2Ygb9yY45hoD9IZOFKAngE), [Leopold Stokowski](https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx) | [Ionisation \(1927\-1945\)](https://open.spotify.com/album/5UJsUtvJhH5n1YqHSSJ8sD) | 12:25 |
 
-Snapshot ID: `aNXXgAAAAADIrQHEuJ3pjd6Q8We60MjS`
+Snapshot ID: `aNcpAAAAAAA57P+JZclzO3KBOjL580Tm`

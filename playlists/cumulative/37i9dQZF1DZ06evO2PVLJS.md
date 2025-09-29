@@ -4,7 +4,7 @@
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 19 min
+65 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2023-06-29 |  |
 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\)](https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:26 | 2025-09-16 |  |
 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 | 2023-06-29 |  |
+| [Borracho Te Recuerdo](https://open.spotify.com/track/2tICgKCcfgufj9vtfwJ63m) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lobo Herido](https://open.spotify.com/album/6iCIFwmkD2dPZhD3UwaZGG) | 2:27 | 2025-09-29 |  |
 | [Con un Mismo Corazón \(with Vicente Fernández\)](https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:40 | 2023-06-29 |  |
 | [Cruz de Olvido](https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Muerte De Un Gallero](https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w) | 3:22 | 2023-06-29 |  |
 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:02 | 2023-06-29 |  |
@@ -42,7 +43,7 @@
 | [Las Botas de Charro](https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:00 | 2023-06-29 |  |
 | [Las Llaves de Mi Alma](https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:56 | 2023-06-29 |  |
 | [Le Pese a Quien Le Pese](https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:11 | 2023-06-29 |  |
-| [Los Mandados](https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 2:58 | 2023-06-29 |  |
+| [Los Mandados](https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 2:58 | 2023-06-29 | 2025-09-29 |
 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 | 2023-06-29 |  |
 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 2:46 | 2023-06-29 |  |
 | [Mi Gusto Es](https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Con Banda](https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0) | 3:34 | 2024-12-01 | 2025-02-24 |

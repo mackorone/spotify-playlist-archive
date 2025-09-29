@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-704 songs - 1 day 12 hr 4 min
+705 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-08-18 | 2023-08-26 |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-07-18 |  |
 | [Where You Are \- Zedd Remix](https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Where You Are \(Zedd Remix\)](https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B) | 3:04 | 2023-08-01 | 2025-08-01 |
-| [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 | 2025-03-19 |  |
+| [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 | 2025-03-19 | 2025-09-29 |
 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 | 2024-01-17 | 2024-03-01 |
 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 | 2022-07-14 | 2023-07-19 |
 | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Coleman Trapp](https://open.spotify.com/artist/0kaT04M4TfkicWIQEnAbYE) | [Why We Lose](https://open.spotify.com/album/4oDVpaNimKnYHNva9S7vMs) | 3:17 | 2022-07-14 | 2023-07-19 |
@@ -712,5 +712,6 @@
 | [You Can't Help Me](https://open.spotify.com/track/3EmSy3kYIuix0aU5rpuWEN) | [RIZLERGX7](https://open.spotify.com/artist/0ygLSl6MmXEbUSrNhg0ylq) | [You Can't Help Me](https://open.spotify.com/album/4VS11BHMrAOUD7DATzFPa6) | 2:51 | 2022-05-13 | 2022-05-15 |
 | [Your Love](https://open.spotify.com/track/2TBDYRGQjmnOFc52J9hPwy) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [hackeDJackerz](https://open.spotify.com/artist/5SjmLFki4fYNLgdve4x6k3) | [Your Love](https://open.spotify.com/album/77V1OhLeojkT9q34iGyLvB) | 3:30 | 2022-06-03 | 2022-07-19 |
 | [ZENLESS](https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x) | [ZENLESS](https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu) | 2:24 | 2024-07-05 | 2025-01-19 |
+| [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 | 2025-09-26 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

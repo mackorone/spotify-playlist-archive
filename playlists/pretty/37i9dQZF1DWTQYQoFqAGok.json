@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64028,
+  "num_followers": 64030,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -615,6 +615,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -685,6 +685,26 @@
       "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
     },
     {
+      "added_at": "2023-04-13 19:45:15",
+      "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Semillas De Copinol",
@@ -719,26 +739,6 @@
       "duration_ms": 285746,
       "name": "Ana's Song",
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
-    },
-    {
-      "added_at": "2023-04-13 19:45:15",
-      "album": {
-        "name": "Calladito Te Ves Mejor",
-        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
-      },
-      "artists": [
-        {
-          "name": "La Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
-        },
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Calladito Te Ves Mejor",
-      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
       "added_at": "2021-07-28 16:44:28",

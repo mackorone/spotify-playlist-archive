@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,394 likes - 45 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,390 likes - 45 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 12 | [Sleepover](https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:53 |
 | 13 | [I Wish](https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp) | 3:25 |
 | 14 | [Gravel to Tempo](https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:38 |
-| 15 | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI) | 2:34 |
+| 15 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
 | 16 | [Feelings](https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:36 |
-| 17 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
+| 17 | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI) | 2:34 |
 | 18 | [found my friends](https://open.spotify.com/track/2XmcVGC8s33zjG2aeVTnFe) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [demons](https://open.spotify.com/album/6nRu1dwPkZlk467QaV1Q0N) | 3:34 |
 | 19 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 |
 | 20 | [Wanna Be Missed](https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:15 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 44 | [A Belle to Remember](https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:26 |
 | 45 | [Wild & Wicked World](https://open.spotify.com/track/3hVsOFrAxjPdqebJobfZSZ) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:24 |
 
-Snapshot ID: `aNXXgAAAAACfOxBBoZIjWjB65GMfy0US`
+Snapshot ID: `aNcpAAAAAADplbBSQlmuNrffqoXcPnOV`

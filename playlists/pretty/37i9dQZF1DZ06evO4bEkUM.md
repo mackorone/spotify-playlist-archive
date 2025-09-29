@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,986 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,074 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 23 | [Told You So](https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:08 |
 | 24 | [Crave](https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:55 |
 | 25 | [Last Hope](https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
-| 26 | [Conspiracy](https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:42 |
-| 27 | [Let the Flames Begin](https://open.spotify.com/track/2myJNvcL71V5IZ1N2NW29O) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:18 |
+| 26 | [Let the Flames Begin](https://open.spotify.com/track/2myJNvcL71V5IZ1N2NW29O) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:18 |
+| 27 | [Conspiracy](https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:42 |
 | 28 | [Fake Happy](https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:55 |
 | 29 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 30 | [\(One of Those\) Crazy Girls](https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:32 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 48 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 | 49 | [Stuck On You](https://open.spotify.com/track/5kdWRrbFpKOzvwyZa6GH9F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:29 |
 
-Snapshot ID: `aNXXgAAAAACPvG3yJlRNBT+uJPorPm+L`
+Snapshot ID: `aNcpAAAAAADWzC3KboQbJVJeODIKVcjg`

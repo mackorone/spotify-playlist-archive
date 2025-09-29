@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,898 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,911 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 24 | [He's Frank \- Slight Return](https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4) | [The BPA](https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [He's Frank \(Slight Return\)](https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F) | 3:17 |
 | 25 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
 | 26 | [Everybody's Talkin'](https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:48 |
-| 27 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
-| 28 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
+| 27 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
+| 28 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
 | 29 | [Gardenia](https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 4:14 |
 | 30 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
 | 31 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 35 | [Funtime](https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 2:54 |
 | 36 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 |
 | 37 | [Gold \- From The Original Motion Picture Soundtrack "Gold"](https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Gold \(From The Original Motion Picture Soundtrack "Gold"\)](https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE) | 3:12 |
-| 38 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
+| 38 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 |
 | 39 | [Dum Dum Boys](https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 7:13 |
-| 40 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 |
+| 40 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
 | 41 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
 | 42 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 |
 | 43 | [Tiny Girls](https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 3:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 47 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 |
 | 48 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
 | 49 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 |
-| 50 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
+| 50 | [Fire Girl](https://open.spotify.com/track/5j0r6b2Bjgg4rYk4OYhOKv) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 3:33 |
 
-Snapshot ID: `aNXXgAAAAABf+1WftDWZHNU1JHngmd/c`
+Snapshot ID: `aNcpAAAAAAA+4FGvKYNaZyroTcV94zQG`

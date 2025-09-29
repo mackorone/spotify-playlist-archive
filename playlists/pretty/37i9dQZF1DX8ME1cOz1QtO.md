@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,103 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,172 likes - 100 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,21 +71,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 61 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
 | 62 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 |
 | 63 | [Star Children Theme II \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/1bJ1KjsjWAAN1sq7GIviSw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 3:19 |
-| 64 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
-| 65 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
+| 64 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
+| 65 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
 | 66 | [Zen Garden of the Soul Part I](https://open.spotify.com/track/09s4W3bYDmwotLUgozutls) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 2:21 |
 | 67 | [Formentera Sunset Clouds](https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:50 |
 | 68 | [Silmarillion](https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v), [Jan Akkerman](https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t) | [Meditation](https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND) | 12:00 |
-| 69 | [Inner Mood I](https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [Mooncircles](https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk) | 1:30 |
-| 70 | [Boreale \- Remastered](https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 4:14 |
+| 69 | [Boreale \- Remastered](https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 4:14 |
+| 70 | [Inner Mood I](https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [Mooncircles](https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk) | 1:30 |
 | 71 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 |
 | 72 | [Sunrise](https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE) | [Klaus Schønning](https://open.spotify.com/artist/1Kjz8hvlaTQiYdTvO53bPM) | [Lydglimt](https://open.spotify.com/album/37ixvLulBM547iKlOYXna0) | 3:09 |
 | 73 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
-| 74 | [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 |
-| 75 | [Arrival \- Remastered](https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:48 |
-| 76 | [Crystal Petals](https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 3:20 |
+| 74 | [Arrival \- Remastered](https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:48 |
+| 75 | [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 |
+| 76 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
 | 77 | [Koto](https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Pathless Path](https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok) | 3:46 |
-| 78 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
+| 78 | [Crystal Petals](https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 3:20 |
 | 79 | [Glide III](https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 8:25 |
 | 80 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
 | 81 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 |

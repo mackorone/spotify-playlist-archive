@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-178 songs - 11 hr 7 min
+180 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,11 @@
 | [Contigo](https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Contigo](https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw) | 2:27 | 2025-04-30 |  |
 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 | 2020-11-24 | 2025-09-27 |
 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 | 2020-11-24 | 2024-04-19 |
+| [Corro a Ti](https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Corro a Ti](https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP) | 3:32 | 2025-09-26 |  |
+| [Cuando está la Presencia del Rey](https://open.spotify.com/track/2l2IGV4CEBnT310cWK5PH4) | [Margarita de la Cruz](https://open.spotify.com/artist/6TgLtqzmFhIQD4OMxW1AF7) | [Cuando está la Presencia del Rey](https://open.spotify.com/album/5w6KLLGX8tLm7r4SL04PDZ) | 4:36 | 2025-09-26 |  |
 | [Cuestión de Fé](https://open.spotify.com/track/1hA9pOl53hYmKBDzxE2Y6i) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [A Solas](https://open.spotify.com/album/7j9iOuNGdCEpBw4qVUPNwl) | 4:53 | 2024-07-19 | 2025-03-01 |
 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 | 2020-11-24 | 2024-04-19 |
-| [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 | 2020-11-24 |  |
+| [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 | 2020-11-24 | 2025-09-29 |
 | [De Vuelta](https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [De Vuelta](https://open.spotify.com/album/6ZbWg7zKqSDAn41W6QhxWm) | 3:26 | 2020-11-24 | 2024-07-19 |
 | [Demasiado Amor \- Salsa](https://open.spotify.com/track/2xX5LxxeVvyUVZQZ6E664S) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Familia](https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO) | 3:20 | 2025-09-26 |  |
 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 | 2020-11-24 | 2024-07-19 |
@@ -93,7 +95,7 @@
 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 | 2020-11-24 | 2024-07-19 |
 | [Llegó el Culto \- Remix](https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Llegó el Culto \(Remix\)](https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY) | 3:16 | 2024-07-19 |  |
 | [LONELY](https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [LONELY](https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz) | 2:39 | 2024-12-11 |  |
-| [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 | 2024-07-19 |  |
+| [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 | 2024-07-19 | 2025-09-29 |
 | [Me Dejo Llevar](https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Nathalye Rios](https://open.spotify.com/artist/3dfjx2pUDQBCsgZqdTEwaF), [Miguel Ibañez](https://open.spotify.com/artist/0TRZ28ZMERih7XbJXWBuqJ) | [No Hay Otro](https://open.spotify.com/album/1HmpOYUfu1GByycGrR9grk) | 2:41 | 2025-09-26 |  |
 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 | 2020-11-24 | 2025-09-27 |
 | [Me Encontró](https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Me Encontró](https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p) | 3:54 | 2025-05-23 |  |

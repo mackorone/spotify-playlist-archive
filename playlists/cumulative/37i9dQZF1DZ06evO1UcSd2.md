@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 32 min
+127 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 | 2023-07-29 |  |
 | [Pensando En Verte](https://open.spotify.com/track/6eusau4yKSgkQm7YUBChVf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Clave Doble L](https://open.spotify.com/artist/3FI7OHP038BGJwg2fMaPeI) | [Pensando En Verte](https://open.spotify.com/album/3KFEfi9tNP2cimjoPi9tPL) | 3:23 | 2022-07-29 | 2023-04-10 |
 | [Plegarias](https://open.spotify.com/track/4brGzrH7rgluGqvXLIoIIA) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Plegarias](https://open.spotify.com/album/6iFc4jh5yxj9JB2LD3Qom3) | 3:43 | 2025-09-21 |  |
-| [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 | 2024-03-30 |  |
+| [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 | 2024-03-30 | 2025-09-29 |
+| [Polvo Rosita](https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:39 | 2025-09-29 |  |
 | [Por Los Radios](https://open.spotify.com/track/1psNcA19Q704H7YawPu2WT) | [Jose Castellon](https://open.spotify.com/artist/3ksd1FMwWHt3WudSkcOOZb), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Por Los Radios](https://open.spotify.com/album/34xv71fVprWXX8ofUwnOaI) | 3:27 | 2024-07-08 | 2024-09-03 |
 | [Quien Lo Diria](https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Kmill](https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e) | [Quien Lo Diria](https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm) | 2:27 | 2024-05-13 | 2024-07-20 |
 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 | 2022-06-01 |  |

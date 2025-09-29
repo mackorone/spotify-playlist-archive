@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 43 min 38 sec
+[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 44 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Roy](https://open.spotify.com/track/1IwpNoNWNUqIxsfvUptHzB) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/13fXtIpIyvz4D5Ny3TSHym) | 4:09 |
-| 2 | [He's Fine](https://open.spotify.com/track/5sou92yX82KNizKCdOWJDw) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY) | 3:43 |
-| 3 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 |
-| 4 | [Strasbourg / St\. Denis](https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:38 |
-| 5 | [Spanish Girl](https://open.spotify.com/track/15T2Fk5WwgAxszxyHD7gJV) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Emociones](https://open.spotify.com/album/0mvXH32wQdtXKqXlKd7vUY) | 3:29 |
-| 6 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
-| 7 | [Glass House](https://open.spotify.com/track/65MAh0uBZ9PNlWM1Oay7hA) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 3:44 |
-| 8 | [Bob \- 2006 Remaster](https://open.spotify.com/track/6hMDMgqttllnWrN6g4vq9F) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 5:43 |
-| 9 | [Pink Turns to Blue](https://open.spotify.com/track/1icyef1nNmLusODA03FLGf) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Zen Arcade](https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc) | 2:42 |
-| 10 | [Good Times](https://open.spotify.com/track/57pP3LvnId3txetLeBaTmV) | [Eric Burdon & the Animals](https://open.spotify.com/artist/70tMW5bZT3TJUa1CWtfVkq) | [Winds Of Change](https://open.spotify.com/album/0aeV2p7ZUhm9Q2PJAizF7a) | 2:59 |
-| 11 | [Nearing Home](https://open.spotify.com/track/2boSnGZWqD6efIo0e1rx1v) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 3:38 |
+| 1 | [Green Eyes](https://open.spotify.com/track/5iwTDcZSrVq71HjMjNno5c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:18 |
+| 2 | [Dirty Hound](https://open.spotify.com/track/3kBaxSbf7FdlzVazwqrPC8) | [Cicada Rhythm](https://open.spotify.com/artist/3Ks6VJR2RbM1Yhlux5xh76) | [Cicada Rhythm](https://open.spotify.com/album/09jfhpXHhCFkHTQTvMigM4) | 3:25 |
+| 3 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 4 | [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK) | 3:57 |
+| 5 | [Dark Child](https://open.spotify.com/track/7wGqKldCrQev6HEtUxilME) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/6zyHtPo88NOvkXW749yGwU) | 5:23 |
+| 6 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
+| 7 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
+| 8 | [Tried And True](https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 4:02 |
+| 9 | [Meddle with Metal](https://open.spotify.com/track/6Bau7xvbJLgmHW96Eyb7IF) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Czarface Meets Metal Face](https://open.spotify.com/album/2PPvDD3t985MvMphfSwzgr) | 3:26 |
+| 10 | [Cold Shoulder](https://open.spotify.com/track/462XC4yxrvWoc2yVpkx8uV) | [Yosemite in Black](https://open.spotify.com/artist/0zOVAB3GRqMiwtfu6Y5j59) | [The Pursuit Of](https://open.spotify.com/album/75HoaRTglwuPxMNQtszlvN) | 2:34 |
+| 11 | [Down For My Niggaz](https://open.spotify.com/track/6SSJcmQgBEvHqqCivyVfqG) | [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x), [Magic](https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Trapped In Crime](https://open.spotify.com/album/7MDd3o71CPSVTi3F58gWVu) | 3:45 |
 
-Snapshot ID: `AAAHsVncNNEstPXrLPceg+n3D2KOl79o`
+Snapshot ID: `AAAHx1KdHt07EdIVQ/+JB/zQDBuxRkq3`

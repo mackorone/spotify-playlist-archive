@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-75 songs - 3 hr 37 min
+77 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [American Adrenaline](https://open.spotify.com/track/3lB29hZfDXcYVkPIxhRcEY) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [American Adrenaline](https://open.spotify.com/album/1S5775jJvJl7gLNhU4HoEf) | 2:43 | 2024-01-29 | 2025-02-03 |
 | [American Adrenaline](https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 2:43 | 2025-02-02 |  |
 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 | 2024-01-29 |  |
+| [Baby Steps](https://open.spotify.com/track/1X5nXL62BXvl99QRQKxq0A) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 2:47 | 2025-09-28 |  |
 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 | 2024-01-29 |  |
 | [Birthday](https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 2:40 | 2025-09-26 |  |
 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 | 2024-01-29 |  |
@@ -23,7 +24,8 @@
 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 | 2024-01-29 |  |
 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2024-01-29 |  |
 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 | 2024-01-29 |  |
-| [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 | 2025-09-12 |  |
+| [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 | 2025-09-12 | 2025-09-29 |
+| [Cute Aggression](https://open.spotify.com/track/6L4b4Xmspqzc4285p4ALdA) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 2:36 | 2025-09-28 |  |
 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 | 2025-01-18 |  |
 | [Dandelion](https://open.spotify.com/track/6YxZS8ihXa33a757v0cTZ7) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy) | 3:06 | 2024-11-24 | 2025-01-19 |
 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 | 2025-09-10 |  |

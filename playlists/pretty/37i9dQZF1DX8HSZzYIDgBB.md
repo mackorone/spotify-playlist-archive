@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Simon Grossmann en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,718 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,716 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 47 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 |
 | 48 | [Fuego](https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuego](https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o) | 3:34 |
 | 49 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
-| 50 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
-| 51 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
+| 50 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
+| 51 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
 | 52 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 53 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
 | 54 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 69 | [No Parará](https://open.spotify.com/track/5gnsv6OSaOHo0Si19gU5PR) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0), [Biomigrant](https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk) | [No Parará](https://open.spotify.com/album/0IoVpR3PF5uOUfbGJ5KAOe) | 3:23 |
 | 70 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 |
 | 71 | [Nubecita](https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Nubecita](https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt) | 3:17 |
-| 72 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
-| 73 | [La Princesa](https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 6:05 |
+| 72 | [La Princesa](https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 6:05 |
+| 73 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
 | 74 | [Agua que Llegó](https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi) | [La Marimba](https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx) | [Agua que Llegó](https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV) | 4:01 |
 | 75 | [Agua Que Quema](https://open.spotify.com/track/4ZycfilbjT0c4s9p4qFuO6) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/66AvzyLo1w8c1EsejEY4Oj) | 3:19 |
 

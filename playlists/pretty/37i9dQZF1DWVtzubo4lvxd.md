@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,339 likes - 75 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,340 likes - 75 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 7 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
 | 8 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
 | 9 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
-| 10 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
-| 11 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
+| 10 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
+| 11 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
 | 12 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
 | 13 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 14 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 62 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
 | 63 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
 | 64 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
-| 65 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
-| 66 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
+| 65 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
+| 66 | [Vanilla Sky](https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q) | [Vanilla Sky](https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD) | 2:03 |
 | 67 | [Into the Forest](https://open.spotify.com/track/0iZfjegO4FcdmzhMvk92gA) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
-| 68 | [Vanilla Sky](https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q) | [Vanilla Sky](https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD) | 2:03 |
+| 68 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
 | 69 | [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 |
 | 70 | [Milk & Cookies](https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Milk & Cookies](https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6) | 2:04 |
 | 71 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |

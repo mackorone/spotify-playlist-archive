@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,281 likes - 73 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,284 likes - 73 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 10 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 11 | [DOS DÍAS](https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:33 |
 | 12 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
-| 13 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 14 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
+| 13 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
+| 14 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 15 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 |
 | 16 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 17 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 27 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 |
 | 28 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 | 29 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 |
-| 30 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 31 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
+| 30 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
+| 31 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 32 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 33 | [Make It Bun Dem](https://open.spotify.com/track/6AbVJjzv7thIvmMCuhZrmK) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian "Jr Gong" Marley](https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN) | [Make It Bun Dem](https://open.spotify.com/album/381oom8nio77eU6BuUb4UO) | 3:33 |
 | 34 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 36 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
 | 37 | [Girls](https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 1:59 |
 | 38 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
-| 39 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
-| 40 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 |
+| 39 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 |
+| 40 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 41 | [Conticinio](https://open.spotify.com/track/0GqylPxaT9i7pg6Kk0w8tm) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Conticinio](https://open.spotify.com/album/0cFY27iZrkhNUJnL90EwDA) | 3:32 |
 | 42 | [2+1](https://open.spotify.com/track/0uB9gsssuj6l3XLi25ADYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [2+1](https://open.spotify.com/album/3bPJNCgy93rlyBQdBoAHCu) | 2:37 |
-| 43 | [Rest My Chemistry](https://open.spotify.com/track/2O5UcpKolgLT8l8yAvEmID) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 5:01 |
-| 44 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
+| 43 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
+| 44 | [Rest My Chemistry](https://open.spotify.com/track/2O5UcpKolgLT8l8yAvEmID) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 5:01 |
 | 45 | [Tócame \(feat\. Dillom\)](https://open.spotify.com/track/0hrrIKyJYc5BNLOn6zsCE6) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 2:41 |
 | 46 | [MORE](https://open.spotify.com/track/5IDRSA83ayUGCCRdfdl04z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:07 |
 | 47 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |

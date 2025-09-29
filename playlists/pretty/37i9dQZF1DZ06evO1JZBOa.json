@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 9958,
+  "num_followers": 9959,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABCcxWVwS1tSK5Gb5CqbExH",
+  "snapshot_id": "aNcpAAAAAADi56t/gHeCWgtLhWvWfBm8",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anbessa",
+        "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
+      },
+      "artists": [
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 172686,
+      "name": "Ekedi",
+      "url": "https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NYXIA. Tome III",
         "url": "https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 230106,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anbessa",
-        "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
-      },
-      "artists": [
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 172686,
-      "name": "Ekedi",
-      "url": "https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manu 76",
-        "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
+        "name": "World Psychedelic Classics: Love's A Real Thing",
+        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 241893,
-      "name": "Qui Est Fou De Qui? - Chouchou",
-      "url": "https://open.spotify.com/track/24yVlN5kOcPLzAe0nuZ9p5"
+      "duration_ms": 309800,
+      "name": "Ceddo End Title",
+      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Psychedelic Classics: Love's A Real Thing",
-        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
+        "name": "Manu 76",
+        "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 309800,
-      "name": "Ceddo End Title",
-      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
+      "duration_ms": 241893,
+      "name": "Qui Est Fou De Qui? - Chouchou",
+      "url": "https://open.spotify.com/track/24yVlN5kOcPLzAe0nuZ9p5"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africadelic",
-        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Wa-Wa",
-      "url": "https://open.spotify.com/track/3WXAfAWrrHDO2EBAo34DHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c0 La Jama\u00efque",
         "url": "https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 514000,
       "name": "Goro City",
       "url": "https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Wa-Wa",
+      "url": "https://open.spotify.com/track/3WXAfAWrrHDO2EBAo34DHH"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
         }
       ],
-      "duration_ms": 344760,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
+      "duration_ms": 259160,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
         }
       ],
-      "duration_ms": 259160,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
+      "duration_ms": 344760,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
     },
     {
       "added_at": null,
@@ -899,22 +899,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lorenzo 2015 CC.",
-        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+        "name": "Le testament du makossa, Vol. 8",
+        "url": "https://open.spotify.com/album/0XUeMGRZi1SsVxmakzESw7"
       },
       "artists": [
         {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+          "name": "Franck Chaleur",
+          "url": "https://open.spotify.com/artist/3IVxFMLPR7oePD3DHpYvbp"
+        },
+        {
+          "name": "Moni Bile",
+          "url": "https://open.spotify.com/artist/2uMATivHXNKTu89qctJZdg"
+        },
+        {
+          "name": "GUY LOBE",
+          "url": "https://open.spotify.com/artist/5KkKfOmZ3Ku3jmbi1Vp7AS"
+        },
+        {
+          "name": "Ben Decca",
+          "url": "https://open.spotify.com/artist/0167ut3NFs3TI8EGscI3aZ"
         },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Sergeo Polo",
+          "url": "https://open.spotify.com/artist/3d14xPEq0eQJDwxUKuZw0I"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
+      "duration_ms": 952386,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/3Kn1HI0X47ydVVSHgPBoA7"
     }
   ],
   "unique_name": "This Is Manu Dibango",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,729 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,726 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 22 | [El Niño Y La Boda](https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:03 |
 | 23 | [El Maestro](https://open.spotify.com/track/1Vtiq4XS36Y0qvFp9HRyin) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 2:52 |
 | 24 | [Señor Locutor](https://open.spotify.com/track/6tTdUPxER1wdW1lAVcuBc4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Historias Que Contar](https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP) | 3:08 |
-| 25 | [No Pude Enamorarme Mas](https://open.spotify.com/track/6EAKWJ5K0SY0gsJF3u0yy4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:34 |
-| 26 | [En Qué Fallé](https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 3:49 |
+| 25 | [En Qué Fallé](https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 3:49 |
+| 26 | [No Pude Enamorarme Mas](https://open.spotify.com/track/6EAKWJ5K0SY0gsJF3u0yy4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:34 |
 | 27 | [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 |
 | 28 | [Si No Me Falla El Corazón](https://open.spotify.com/track/0SGdWCUiPeb2Q9sqBoJzGc) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:03 |
 | 29 | [La Fuga Del Rojo](https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Un Dia A La Vez](https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U) | 3:12 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 32 | [Los Tres Amigos](https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Tahur](https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo) | 3:49 |
 | 33 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
 | 34 | [José Pérez León](https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 3:53 |
-| 35 | [Agua Salada](https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:26 |
-| 36 | [Mi Sangre Prisionera](https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:01 |
-| 37 | [Carrera Contra La Muerte](https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Carrera Contra La Muerte](https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9) | 3:00 |
+| 35 | [Carrera Contra La Muerte](https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Carrera Contra La Muerte](https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9) | 3:00 |
+| 36 | [Agua Salada](https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:26 |
+| 37 | [Mi Sangre Prisionera](https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:01 |
 | 38 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
-| 39 | [Los Dos Plebes](https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:30 |
-| 40 | [Cuando Se Llega A Viejo](https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Incansables](https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS) | 2:53 |
+| 39 | [Cuando Se Llega A Viejo](https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Incansables](https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS) | 2:53 |
+| 40 | [Los Dos Plebes](https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:30 |
 | 41 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 |
 | 42 | [Como Aceite Y Como El Agua](https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 3:27 |
 | 43 | [La Reina Del Sur](https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [El Tahur](https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Tahur](https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo) | 3:36 |
 | 50 | [Tu Cárcel](https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desde El Azteca \(En Vivo\)](https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb) | 3:38 |
 
-Snapshot ID: `aNXXgAAAAACinPLciNRyLvo9wQUSUN5Q`
+Snapshot ID: `aNcpAAAAAAAQX0jEhU1MLSqrP2KGHiay`

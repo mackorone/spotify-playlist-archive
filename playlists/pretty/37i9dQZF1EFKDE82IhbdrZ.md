@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 101 | [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 |
 | 102 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 |
 | 103 | [Break My Heart](https://open.spotify.com/track/6lMfTCsISpmVhdV97ltlEl) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:29 |
-| 104 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/41J9hA7Tev5iFg2ugHRIPg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:39 |
-| 105 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
+| 104 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
+| 105 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/41J9hA7Tev5iFg2ugHRIPg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:39 |
 | 106 | [Goodbye Summer](https://open.spotify.com/track/1kmpcpEK0f56M5dkqNajRk) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Goodbye Summer](https://open.spotify.com/album/3Yl5E4IlQOVDr7xV6I76hY) | 3:08 |
 | 107 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
 | 108 | [What It Is](https://open.spotify.com/track/0w3A7y2EJ8awXWMUtftue5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 5:25 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab9YHgAAAACym1ozmLlKi8KIGq/NMQgJ`
+Snapshot ID: `Ab9d0gAAAABji/MqKhpSBxU29EVX9Xp2`

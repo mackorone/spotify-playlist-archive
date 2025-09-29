@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon! Cover: Pamkutya
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,271 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,301 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 36 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
 | 37 | [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 |
 | 38 | [ANGYALOK](https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ANGYALOK](https://open.spotify.com/album/7El982ts9FR1auscPCNLr6) | 3:31 |
-| 39 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
-| 40 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 |
+| 39 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 |
+| 40 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
 | 41 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 |
 | 42 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 |
 | 43 | [POKOL](https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [POKOL](https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94) | 3:05 |
-| 44 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
-| 45 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
+| 44 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
+| 45 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
 | 46 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
 | 47 | [GIN TONIC](https://open.spotify.com/track/3ObcOmEWDsBKLeqxoyxVzu) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [GIN TONIC](https://open.spotify.com/album/5Gn66d9b7excbeLZuZygB9) | 3:28 |
 | 48 | [10/10](https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [10/10](https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV) | 2:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,228 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 45 | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7) | 2:22 |
 | 46 | [Dolce](https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:16 |
 | 47 | [Arquivos](https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Arquivos](https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9) | 2:15 |
-| 48 | [Privê \- Ao Vivo no REP Festival](https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS) | [REP Festival](https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Azzy \(Ao Vivo no REP Festival\)](https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx) | 3:16 |
-| 49 | [Pra Te Envolver](https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:15 |
-| 50 | [Nota$ \(Papatracks \#3\) \(Participação especial de Papatinho\)](https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Nota$ \(Papatracks \#3\) \(Participação especial de Papatinho\)](https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn) | 3:34 |
+| 48 | [Pra Te Envolver](https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:15 |
+| 49 | [Nota$ \(Papatracks \#3\) \(Participação especial de Papatinho\)](https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Nota$ \(Papatracks \#3\) \(Participação especial de Papatinho\)](https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn) | 3:34 |
+| 50 | [Privê \- Ao Vivo no REP Festival](https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS) | [REP Festival](https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Azzy \(Ao Vivo no REP Festival\)](https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx) | 3:16 |
 
-Snapshot ID: `aNXXgAAAAAAdY+t8Uxqrlv/i0npbrOXG`
+Snapshot ID: `aNcpAAAAAAAA2FeLpF8Vlwjo8b6Z0/uO`

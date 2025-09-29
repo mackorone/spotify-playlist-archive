@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-136 songs - 8 hr 17 min
+137 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,9 +87,10 @@
 | [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 | 2025-08-21 | 2025-08-23 |
 | [Move on Up](https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS) | [The Dynamics](https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn) | [Disco Reggae](https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx) | 4:52 | 2025-07-18 |  |
 | [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-21 |  |
+| [My Melody](https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [My Melody](https://open.spotify.com/album/37eHr1dawqnSS0BBLS7tfY) | 4:38 | 2025-09-25 |  |
 | [My Mind Is For Sale](https://open.spotify.com/track/4zohK59ouRruiqESaTcOZW) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:59 | 2025-07-18 | 2025-07-26 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-07-18 | 2025-07-26 |
-| [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 | 2025-09-25 |  |
+| [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 | 2025-09-25 | 2025-09-29 |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 |  |
 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-08-07 |  |
 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 | 2025-07-18 |  |

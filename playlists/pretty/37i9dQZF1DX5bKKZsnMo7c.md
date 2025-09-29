@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,353 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,387 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 74 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 | 75 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
 
-Snapshot ID: `AAAAAJgXBGn1eWCq0hOofeGWTAFPZXYt`
+Snapshot ID: `AAAAABV5sbgrzAt8NnWSvLFXOF194Gl0`

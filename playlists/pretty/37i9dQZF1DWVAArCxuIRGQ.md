@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,770 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,752 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 54 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
 | 55 | [Get Free](https://open.spotify.com/track/4p4hyqRFdoiw4EMbEsqBdA) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber of Dirty Projectors](https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr) | [Free the Universe](https://open.spotify.com/album/1MGMwkEuzCHda8lE3GA4RR) | 4:49 |
 | 56 | [Is This Love](https://open.spotify.com/track/4mPd1gJhgcYFRSJyoYAxE8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:51 |
-| 57 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
-| 58 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
+| 57 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
+| 58 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
 | 59 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 60 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |
 | 61 | [Here Comes the Hotstepper](https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:07 |

@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-428 songs - 1 day 2 hr 44 min
+429 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [In The Ghetto](https://open.spotify.com/track/0nbCaZiVcMymlmRiXo4cUp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [In The Ghetto](https://open.spotify.com/album/3CiaaaS65DDkakXc8Seamm) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 | 2021-12-10 | 2023-08-19 |
 | [Iris](https://open.spotify.com/track/5li0T0hP91MgcGMMKfw3KM) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Iris](https://open.spotify.com/album/2cE2EIYVWbnsKrLCN55Kix) | 3:26 | 2024-12-06 | 2025-03-23 |
+| [Iris](https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Iris](https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI) | 2:56 | 2025-09-26 |  |
 | [Iris](https://open.spotify.com/track/4T0NKEfBxsVsSjoMg5FsNV) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Iris](https://open.spotify.com/album/6kwvbPkXCbL0ywkLUlooKo) | 3:13 | 2024-06-07 |  |
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2021-12-10 | 2024-08-06 |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-12-10 | 2024-08-03 |
@@ -340,7 +341,7 @@
 | [Stupid Boy](https://open.spotify.com/track/4hXHfVaFhLiwExyQdjneAe) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand \- EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [Summertime Blues](https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:12 | 2022-03-25 | 2024-08-03 |
 | [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 | 2024-07-19 |  |
-| [Sundown](https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Sundown](https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g) | 3:36 | 2024-08-30 |  |
+| [Sundown](https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Sundown](https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g) | 3:36 | 2024-08-30 | 2025-09-29 |
 | [Suspicious Minds](https://open.spotify.com/track/4GodBGiUwjcXkDB8i3OAMW) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:50 | 2021-12-10 | 2022-07-29 |
 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 | 2021-12-10 |  |
 | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/album/6eLAOiOvVLfjNGkUv0wRMl) | 4:01 | 2021-12-10 | 2022-07-26 |

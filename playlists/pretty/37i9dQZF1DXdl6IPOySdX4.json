@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2087367,
+  "num_followers": 2087652,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -533,6 +533,38 @@
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
     },
     {
+      "added_at": "2025-09-19 04:00:19",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
@@ -559,22 +591,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2025-09-19 04:00:19",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv"
     },
     {
       "added_at": "2024-08-02 04:00:00",

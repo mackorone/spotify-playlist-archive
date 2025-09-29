@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,251 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,389 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 34 | [Luna](https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:12 |
 | 35 | [Te Lo Dije](https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Te Lo Dije](https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt) | 3:18 |
 | 36 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 |
-| 37 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
-| 38 | [Tú \(En Vivo\)](https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú \(En Vivo\)](https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy) | 4:23 |
+| 37 | [Tú \(En Vivo\)](https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú \(En Vivo\)](https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy) | 4:23 |
+| 38 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
 | 39 | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 |
 | 40 | [El Güero \(En Vivo\)](https://open.spotify.com/track/5ZRMUce9HCMJpiIN5rSEYs) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(En Vivo\)](https://open.spotify.com/album/7JWISvo58VF6E1zefmcMym) | 3:33 |
 | 41 | [Me Canse de Amarte](https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Corporacion](https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o) | [Me Canse de Amarte](https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Me Recordaras](https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Me Recordaras](https://open.spotify.com/album/0rZjGjQ7Ldvcn43ecZ1z2b) | 3:28 |
 | 50 | [Lujos y Secretos](https://open.spotify.com/track/6V9ZXuiHRGVU1sblM9LRbZ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Lujos y Secretos](https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx) | 2:45 |
 
-Snapshot ID: `aNXXgAAAAAD1/ss+TOIxh8yXKCqV4rG3`
+Snapshot ID: `aNcpAAAAAACFivICsy36S0JRaXlLAVsc`

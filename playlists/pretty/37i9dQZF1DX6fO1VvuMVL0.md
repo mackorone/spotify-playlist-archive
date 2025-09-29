@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,427 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,478 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 24 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
 | 25 | [Just In Time](https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 3:45 |
 | 26 | [Ghost of a Chance](https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM) | [Lennie Tristano](https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e) | [Lennie Tristano / The New Tristano](https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9) | 6:05 |
-| 27 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
+| 27 | [How Deep Is The Ocean](https://open.spotify.com/track/6OkDQI3XFhWc4Ui18hi66h) | [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Tenor Conclave](https://open.spotify.com/album/1tGUz6CL3KTjp0Wm4ouZpY) | 15:03 |
 | 28 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
-| 29 | [How Deep Is The Ocean](https://open.spotify.com/track/6OkDQI3XFhWc4Ui18hi66h) | [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Tenor Conclave](https://open.spotify.com/album/1tGUz6CL3KTjp0Wm4ouZpY) | 15:03 |
+| 29 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 30 | [It Could Happen To You](https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Ivory Hunters](https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59) | 7:26 |
 | 31 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
 | 32 | [Tangerine](https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR) | [Stan Kenton](https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb) | [Stan Kenton](https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8) | 9:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 44 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 |
 | 45 | [Under Capricorn](https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx) | [Gil Melle](https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX) | [New Faces \- New Sounds](https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw) | 3:01 |
 | 46 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
-| 47 | [A Handful Of Stars](https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 3:23 |
-| 48 | [It Had To Be You \- Live At The Half Note, NYC, 1959](https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Jazz Alive! A Night At The Half Note \(Live\)](https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn) | 10:14 |
+| 47 | [It Had To Be You \- Live At The Half Note, NYC, 1959](https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Jazz Alive! A Night At The Half Note \(Live\)](https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn) | 10:14 |
+| 48 | [A Handful Of Stars](https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 3:23 |
 | 49 | [Laura](https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters Deluxe Collection: Gerry Mulligan](https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd) | 4:10 |
 | 50 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
 | 51 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-746 songs - 1 day 19 hr 49 min
+748 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2024-02-28 | 2024-03-10 |
 | [Green Is the Colour of Evil](https://open.spotify.com/track/2Zc1uDaiEkuh3il7wl8nZm) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:46 | 2025-02-22 | 2025-03-02 |
 | [Grey Today](https://open.spotify.com/track/29iOKTPFn88YR889dSMrrH) | [Woody Simmons](https://open.spotify.com/artist/4umiRBYyqrPdYiyuHeYhDy) | [Oregon Mountains](https://open.spotify.com/album/2yKLdPLXBQKuEHqmxNJ78m) | 5:02 | 2024-07-29 | 2024-09-08 |
+| [Groovin'](https://open.spotify.com/track/1pZ4YQ93Wc9xoN0Q3h3fLq) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [Solid Soul](https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq) | 2:59 | 2025-09-28 |  |
 | [Guided Beam](https://open.spotify.com/track/4z1YabjDCOGQuv2E4ymKyi) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientist Meets The Space Invaders](https://open.spotify.com/album/5MNl47ou2VjYKXUHlcKuZT) | 3:16 | 2025-06-12 | 2025-07-04 |
 | [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 | 2024-08-07 | 2024-09-08 |
 | [Hallelujah Bruv](https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Hallelujah Bruv](https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd) | 2:01 | 2024-09-08 | 2024-11-14 |
@@ -598,6 +599,7 @@
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 | 2025-07-04 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 | 2025-04-28 |
+| [Sospetti E Tenerezze](https://open.spotify.com/track/51FtXU9pPeXA4PV1pgh39g) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Senza Sapere Niente Di Lei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7iWJnjKnHwxHAnIfNIJrDP) | 4:26 | 2025-09-28 |  |
 | [Soul City](https://open.spotify.com/track/1bg23PKffo3LYltL0yNBC5) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Lushlife](https://open.spotify.com/album/6FtTHRQ1AM733k7dJBKDrI) | 3:42 | 2025-07-08 | 2025-09-11 |
 | [Space : Unadorned](https://open.spotify.com/track/0UqPxh5QwZza8CDU4vmrES) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:01 | 2024-07-12 | 2024-09-08 |
 | [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 | 2024-06-17 | 2024-07-12 |

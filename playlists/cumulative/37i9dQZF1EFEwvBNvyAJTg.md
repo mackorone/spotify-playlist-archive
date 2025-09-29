@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-252 songs - 13 hr 45 min
+255 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Control Of The Knife](https://open.spotify.com/track/2BA8K7pvwK8BRir61JBhpf) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Tangled Up \(Deluxe\)](https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw) | 3:49 | 2024-06-13 |  |
 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 | 2024-06-13 |  |
 | [Crayola](https://open.spotify.com/track/3SzBzT0sUaKRMaD9MtmnlH) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:02 | 2024-06-13 |  |
-| [Crazy Fool](https://open.spotify.com/track/0GcIT8YyochQj6IqDZPCCp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:37 | 2024-06-13 |  |
+| [Crazy Fool](https://open.spotify.com/track/2bn4Nl7lIQxBmMmeuqxBGc) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/0UuAQD9Qv1Nd51Z75kgNqp) | 3:36 | 2025-09-28 |  |
+| [Crazy Fool](https://open.spotify.com/track/0GcIT8YyochQj6IqDZPCCp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:37 | 2024-06-13 | 2025-09-29 |
 | [Crazy Girls](https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301) | [TOOPOOR](https://open.spotify.com/artist/2G9tNsytSp4gYKZxONzFw2) | [Crazy Girls](https://open.spotify.com/album/154oJT2twqCFdna5UI2MyE) | 3:14 | 2024-06-13 |  |
 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 | 2025-07-10 |  |
 | [Cry Alone](https://open.spotify.com/track/4kQazx3VMaDKUG1IIaC94i) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 2:47 | 2024-06-13 |  |
@@ -107,6 +108,7 @@
 | [Hell Bound](https://open.spotify.com/track/5q7qGNhvkSe9aNyGhy87Lb) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:40 | 2024-06-13 |  |
 | [Heroes](https://open.spotify.com/track/7hZ2EoSYkzmONuIKFHWu4s) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 3:38 | 2024-06-13 |  |
 | [History](https://open.spotify.com/track/3JN6wykoBHA9nfTQSZpcHH) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:37 | 2024-06-13 |  |
+| [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 | 2025-09-28 |  |
 | [Hot Right Now \(feat\. RITA ORA\) \- Radio Edit](https://open.spotify.com/track/2SSYLcSiT7oImgsS8cPyQu) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Nextlevelism](https://open.spotify.com/album/5IqZHG6yO5SL6biWicPG3Y) | 3:02 | 2024-06-13 |  |
 | [HOT STEPPA](https://open.spotify.com/track/3XmtcI1fONYFrGHGVpGxPa) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [HOT STEPPA](https://open.spotify.com/album/3PexIX2Jh9Dpd9ol6dBqoV) | 2:49 | 2024-06-13 |  |
 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 | 2024-06-13 |  |
@@ -170,7 +172,8 @@
 | [No Broken Hearts \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4qULqxfCRhJAXVc75UupQB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [No Broken Hearts \(feat\. Nicki Minaj\)](https://open.spotify.com/album/11jAMg5CsXfhmwe0A8BIU2) | 3:59 | 2024-06-13 |  |
 | [No Can Do](https://open.spotify.com/track/66UqoMiEdnzUH5BjYpzs4r) | [Kashief Lindo](https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt) | [What Kinda World](https://open.spotify.com/album/048zkHSlgu1BOzKnDMmuFl) | 3:17 | 2024-06-13 | 2025-06-28 |
 | [No Can Do](https://open.spotify.com/track/6c16C54Rhziuxp473czKcZ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Catfights and Spotlights](https://open.spotify.com/album/3brpDH7FmImzQU5PmOHmHb) | 3:09 | 2025-06-27 | 2025-07-17 |
-| [Nobody But You](https://open.spotify.com/track/0HZ8o8lOp8sKtcnv3ngaOJ) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:10 | 2025-07-09 |  |
+| [Nobody But You](https://open.spotify.com/track/0HZ8o8lOp8sKtcnv3ngaOJ) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:10 | 2025-07-09 | 2025-09-29 |
+| [Nobody But You](https://open.spotify.com/track/0KPpyvLO9bFid2y1qbiBqp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/0UuAQD9Qv1Nd51Z75kgNqp) | 4:11 | 2025-09-28 |  |
 | [Nobody but You](https://open.spotify.com/track/3xc9WGY2CSKSxjY7YhVnEl) | [Nadeah](https://open.spotify.com/artist/0aTt9pxnOoozI8UoyJ7jSc) | [Venus Gets Even \(International Version\)](https://open.spotify.com/album/0Nyk48bnfHK6KEgQ1a1SjP) | 5:43 | 2024-06-13 | 2025-07-10 |
 | [Nothing Compares](https://open.spotify.com/track/0XVgY7qVIVmlTe8OzoOoHL) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [In Awe of You](https://open.spotify.com/album/6Gzenp1AwlhrOqiVAx45M5) | 2:53 | 2025-01-09 | 2025-04-12 |
 | [Oh Well](https://open.spotify.com/track/2Y54OMJFKcPIGO6tQLx91g) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:33 | 2024-06-13 |  |

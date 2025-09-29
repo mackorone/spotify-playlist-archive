@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > Feelgood indie & roadtrip bangers
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,372 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,377 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 15 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
 | 16 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 17 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
-| 18 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 19 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
+| 18 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
+| 19 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 20 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |
 | 21 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
 | 22 | [Road Trippin'](https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication](https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD) | 3:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 49 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 |
 | 50 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 51 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 |
-| 52 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |
-| 53 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
+| 52 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
+| 53 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |
 | 54 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 |
 | 55 | [Drive](https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7ri2zz9FdwG1fcmUMHXe1R) | 3:29 |
 | 56 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |

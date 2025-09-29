@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-728 songs - 1 day 15 hr 42 min
+729 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-03-25 | 2022-04-16 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/1JoIlhLcydGM3QcFg8aIge) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/5zaolWrLO7LZ34MdaaNHTk) | 3:36 | 2022-04-14 | 2022-04-19 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2022-03-25 | 2025-07-12 |
+| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 |  |
 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 | 2025-09-12 | 2025-09-27 |
 | [Drowsy](https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa) | [OHNO](https://open.spotify.com/artist/6h3EDETuCnGDrUk9hwvbGp) | [Sunshine In A Bag](https://open.spotify.com/album/60OGodPKisTJO0HLhT2nZy) | 2:47 | 2022-06-28 | 2022-06-30 |
 | [Dugout](https://open.spotify.com/track/2Wbssw1v5pKtnBaQ1doY1Z) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:50 | 2022-03-28 | 2022-04-16 |
@@ -440,7 +441,7 @@
 | [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-28 | 2024-07-19 |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:30 | 2022-03-25 | 2022-04-20 |
 | [MICHUUL.](https://open.spotify.com/track/3iGNoYKIabGohB9A0C7dKU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [an XTRA UUGLY Mixtape](https://open.spotify.com/album/2Qxg5B6lYfFr4h3DUJK8kX) | 3:06 | 2022-03-28 | 2022-04-21 |
-| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2022-03-25 |  |
+| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2022-03-25 | 2025-09-29 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-07 | 2024-07-25 |
 | [Midsummer Madness](https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 4:40 | 2022-03-28 | 2022-04-18 |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2022-03-28 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Tate McRae
 
-684 songs - 1 day 11 hr 13 min
+685 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-07-12 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-05 |  |
 | [Manifest Girl](https://open.spotify.com/track/5AD6qHY3vZtSEZqzan9EeW) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Manifest Girl](https://open.spotify.com/album/7L8m54pVt46SzHAKPLAZEG) | 2:23 | 2023-08-10 | 2023-09-15 |
-| [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 |  |
+| [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2025-09-29 |
 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 | 2023-07-20 | 2023-08-18 |
 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 | 2025-02-13 | 2025-02-28 |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-11-23 | 2023-12-15 |
@@ -663,6 +663,7 @@
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-08-18 |
 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 | 2024-04-04 | 2024-06-10 |
+| [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 | 2025-09-25 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-11 | 2025-02-14 |
 | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/track/1WxODiG0B1x5eunqiP6AoS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/album/2Tq48FIwmhfjyfSI436PLr) | 3:32 | 2025-03-27 | 2025-04-11 |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-27 | 2023-09-08 |

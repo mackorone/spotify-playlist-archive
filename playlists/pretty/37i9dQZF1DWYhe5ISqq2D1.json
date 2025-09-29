@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: Luvis",
-  "num_followers": 63949,
+  "num_followers": 63945,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-09-23 18:57:34",
       "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202181,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
+    },
+    {
+      "added_at": "2025-09-23 18:57:34",
+      "album": {
         "name": "BEAT",
         "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 279591,
       "name": "\u76fe\u611b",
       "url": "https://open.spotify.com/track/54nAzF3n7Aq6iezzKktdxS"
-    },
-    {
-      "added_at": "2025-09-23 18:57:34",
-      "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202181,
-      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
     },
     {
       "added_at": "2025-09-23 18:57:34",

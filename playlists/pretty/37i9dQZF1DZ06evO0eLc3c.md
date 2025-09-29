@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,623 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,625 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 49 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
 | 50 | [Nine](https://open.spotify.com/track/3QhvmNavqP0mxrxeih9vBr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 5:02 |
 
-Snapshot ID: `aNXXgAAAAACUX35eERj6rDEX4G92OZJN`
+Snapshot ID: `aNcpAAAAAADsSa44FuFAaMEbJUmUJvTr`

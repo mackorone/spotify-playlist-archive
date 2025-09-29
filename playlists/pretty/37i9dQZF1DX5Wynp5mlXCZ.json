@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0425\u0440\u0438\u0441\u0442\u0438\u043d\u0430 \u0421\u043e\u043b\u043e\u0432\u0456\u0439",
-  "num_followers": 12232,
+  "num_followers": 12236,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-25 21:00:36",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2025-09-25 21:00:36",
-      "album": {
         "name": "Next Summer",
         "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "added_at": "2025-09-25 21:00:36",
+      "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-09-25 21:00:36",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-09-25 21:00:36",
       "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
-    },
-    {
-      "added_at": "2025-09-25 21:00:36",
-      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "added_at": "2025-09-25 21:00:36",
+      "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
       "added_at": "2025-09-25 21:00:36",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-09-25 21:00:36",
       "album": {
-        "name": "Bird of Pray (Eurovision 2025)",
-        "url": "https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR"
+        "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+        "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
       },
       "artists": [
         {
-          "name": "Ziferblat",
-          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
         }
       ],
-      "duration_ms": 180895,
-      "name": "Bird of Pray - Eurovision 2025",
-      "url": "https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn"
+      "duration_ms": 152076,
+      "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+      "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",

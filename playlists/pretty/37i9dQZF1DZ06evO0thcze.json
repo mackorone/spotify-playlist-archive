@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56264,
+  "num_followers": 56272,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAG2VW9MtO2YpqIT4YI1YBc",
+  "snapshot_id": "aNcpAAAAAADzRhWa4jctUszoXKhoQW8h",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Nada Me Va A Importar",
+      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 267796,
       "name": "Todo Va Estar Bien",
       "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Nada Me Va A Importar",
-      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cholo en un Low",
+      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cholo en un Low",
-      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
     },
     {
       "added_at": null,
@@ -419,38 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 349297,
-      "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 349297,
+      "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aunque Me Llames",
+        "url": "https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 298778,
+      "name": "Aunque Me Llames",
+      "url": "https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aunque Me Llames",
-        "url": "https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 298778,
-      "name": "Aunque Me Llames",
-      "url": "https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje"
     },
     {
       "added_at": null,
@@ -1199,34 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALIENTE",
-        "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
-      },
-      "artists": [
-        {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 302104,
-      "name": "CALIENTE",
-      "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO LOGR\u00c9 CONQUISTARTE",
         "url": "https://open.spotify.com/album/3YC0oHVHqArWdKTvelM0Uq"
       },
@@ -1327,22 +1299,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alcohol Amargo",
-        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
+        "name": "CALIENTE",
+        "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
       },
       "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 236202,
-      "name": "Alcohol Amargo",
-      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
+      "duration_ms": 302104,
+      "name": "CALIENTE",
+      "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
     },
     {
       "added_at": null,
@@ -1367,6 +1347,26 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alcohol Amargo",
+        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 236202,
+      "name": "Alcohol Amargo",
+      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

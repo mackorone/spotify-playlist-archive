@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 227810,
       "name": "9awdooha",
       "url": "https://open.spotify.com/track/2MHafKNq1mDFBA9HGa2QdK"
@@ -9870,7 +9870,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 186502,
       "name": "D\u00e9sert",
       "url": "https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y"
@@ -20921,6 +20921,28 @@
     },
     {
       "album": {
+        "name": "Medical",
+        "url": "https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA"
+      },
+      "artists": [
+        {
+          "name": "salvh",
+          "url": "https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT"
+        },
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Medical",
+      "url": "https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN"
+    },
+    {
+      "album": {
         "name": "meet the grahams",
         "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
@@ -20994,7 +21016,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 201758,
       "name": "Melina",
       "url": "https://open.spotify.com/track/0qFlboEpOSiM1WuEEBhH7f"
@@ -26732,10 +26754,32 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 191723,
       "name": "Quand elle danse",
       "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
+    },
+    {
+      "album": {
+        "name": "Quand elle danse",
+        "url": "https://open.spotify.com/album/1AS846nygfxTVD46ahSeSX"
+      },
+      "artists": [
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        },
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191723,
+      "name": "Quand elle danse",
+      "url": "https://open.spotify.com/track/1b6Czn9Q3aAXTbSO0o5aZy"
     },
     {
       "album": {
@@ -29656,7 +29700,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 155852,
       "name": "Sobba d L\u00e9gumes",
       "url": "https://open.spotify.com/track/03PJKbsQkf48Tn3JVhXoUb"
@@ -32930,6 +32974,24 @@
       "duration_ms": 213750,
       "name": "Trump",
       "url": "https://open.spotify.com/track/36Bjp9ZefI3K5zeBKOENbn"
+    },
+    {
+      "album": {
+        "name": "Tsswirtek",
+        "url": "https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147761,
+      "name": "Tsswirtek",
+      "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"
     },
     {
       "album": {

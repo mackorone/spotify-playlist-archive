@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Indigo",
-  "num_followers": 15324,
+  "num_followers": 15368,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
+        "name": "Sivatag",
+        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Sivatag",
+      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
         "name": "Lobog",
         "url": "https://open.spotify.com/album/1eVdNYdWMyuBeksfdJa4V4"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 151846,
       "name": "Lobog",
       "url": "https://open.spotify.com/track/4uYodtawzMLvVcRSuIDbu0"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
-        "name": "Sivatag",
-        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
-      },
-      "artists": [
-        {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "Dan Pinto",
-          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Sivatag",
-      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "FELDOBOM A K\u00d6VET",
-        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "FELDOBOM A K\u00d6VET",
-      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "Aludn\u00e9k (de nem lehet)",
         "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 205440,
       "name": "Aludn\u00e9k (de nem lehet)",
       "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "FELDOBOM A K\u00d6VET",
+        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "FELDOBOM A K\u00d6VET",
+      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "plusz egy (+1)",
-        "url": "https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "plusz egy (+1)",
-      "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "SZORONGOK",
         "url": "https://open.spotify.com/album/2KQ4vDGWOGkYeo8XiFH00m"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 178064,
       "name": "SZORONGOK",
       "url": "https://open.spotify.com/track/6qrJ9qETfaFnn74G5CLfIl"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "plusz egy (+1)",
+        "url": "https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "plusz egy (+1)",
+      "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "vesz\u00e9lyes utc\u00e1k",
-        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "vesz\u00e9lyes utc\u00e1k",
-      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "Nekedval\u00f3s\u00e1g",
         "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 213333,
       "name": "Nekedval\u00f3s\u00e1g",
       "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "vesz\u00e9lyes utc\u00e1k",
+        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "vesz\u00e9lyes utc\u00e1k",
+      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 259624,
-      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
+        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 259624,
+      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
         "name": "Ugyanitt v\u00e1rlak",
         "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 197500,
       "name": "Ugyanitt v\u00e1rlak",
       "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
-        "name": "LENN\u00c9K M\u00c1S...",
-        "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
-      },
-      "artists": [
-        {
-          "name": "4ma",
-          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
-        },
-        {
-          "name": "FRANKO",
-          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
-        }
-      ],
-      "duration_ms": 168199,
-      "name": "Gordon",
-      "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -959,18 +939,22 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "Pillang\u00f3hat\u00e1s",
-        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+        "name": "LENN\u00c9K M\u00c1S...",
+        "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
       },
       "artists": [
         {
-          "name": "T\u00f3th Abig\u00e9l",
-          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+          "name": "4ma",
+          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
+        },
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
         }
       ],
-      "duration_ms": 138351,
-      "name": "Pillang\u00f3hat\u00e1s",
-      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+      "duration_ms": 168199,
+      "name": "Gordon",
+      "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -991,6 +975,22 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
+        "name": "Pillang\u00f3hat\u00e1s",
+        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "duration_ms": 138351,
+      "name": "Pillang\u00f3hat\u00e1s",
+      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 210400,
       "name": "Quatre Grapes",
       "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -1043,22 +1059,6 @@
       "duration_ms": 174957,
       "name": "T\u00e1rsas\u00e1gban",
       "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "S\u00f6t\u00e9t vill\u00e1m",
-        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Nem volt \u00fagy m\u00e9g",
-      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "Soha",
         "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 212432,
       "name": "Soha",
       "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "S\u00f6t\u00e9t vill\u00e1m",
+        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Nem volt \u00fagy m\u00e9g",
+      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
     },
     {
       "added_at": "2025-09-26 15:32:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-09-26 15:32:36",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
-    },
-    {
-      "added_at": "2025-09-26 15:32:36",
-      "album": {
         "name": "Elment\u00e9l",
         "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+    },
+    {
+      "added_at": "2025-09-26 15:32:36",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2025-09-26 15:32:36",

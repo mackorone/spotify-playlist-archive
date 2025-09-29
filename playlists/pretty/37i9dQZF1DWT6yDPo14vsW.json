@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 345533,
+  "num_followers": 345549,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Tu Respiraci\u00f3n",
+      "url": "https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Tu Respiraci\u00f3n",
-      "url": "https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Tanto (Nueva edici\u00f3n)",
         "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
       },
@@ -1407,42 +1407,6 @@
       "duration_ms": 247186,
       "name": "Solamente t\u00fa",
       "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -1479,6 +1443,22 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
         "name": "S\u00f3lo Para Mujeres",
         "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 248613,
       "name": "Cuando Se Va el Amor",
       "url": "https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 267186,
-      "name": "Te Enamoraste de Ti",
-      "url": "https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Desde mi barrio",
         "url": "https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 232800,
       "name": "Celos",
       "url": "https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Te Enamoraste de Ti",
+      "url": "https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom"
     },
     {
       "added_at": "2025-09-19 03:00:12",

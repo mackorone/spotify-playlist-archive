@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,817 songs - 5 day 3 hr 36 min
+1,818 songs - 5 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-14 |  |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2022-07-01 | 2023-09-09 |
 | [Can’t Stop Loving You \- Poolside Mix](https://open.spotify.com/track/31jNPoOdc4AXUJRl4ABbfH) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Can’t Stop Loving You \(Poolside Mix\)](https://open.spotify.com/album/10jta1EMIwQXiGbWFQ5yjW) | 3:01 | 2020-05-22 | 2021-03-06 |
-| [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 | 2025-07-04 |  |
+| [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 | 2025-07-04 | 2025-09-29 |
 | [Carry Me Through](https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [24, summer](https://open.spotify.com/album/3n4bScXJkjZLPeSAg4C1YU) | 3:27 | 2024-09-20 | 2024-11-16 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-07 | 2022-11-12 |
 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 | 2023-09-08 | 2023-12-02 |
@@ -1396,6 +1396,7 @@
 | [She Won't Let Me Down \(feat\. Leo Stannard\) \- French Braids Remix](https://open.spotify.com/track/5EBOsWjb6ktTuftGPIpuuF) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [She Won't Let Me Down \(feat\. Leo Stannard\) \[French Braids Remix\]](https://open.spotify.com/album/1fuhFFPL1NEP689eUne6yV) | 3:46 | 2020-03-17 | 2022-01-15 |
 | [Shelter](https://open.spotify.com/track/3ISYGHoYnu4gos6JNMfL4z) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/1dSXaXQpdXuhORM0sx6ycc) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Shimmer](https://open.spotify.com/track/4X2Qg72J6kqCGNqNfXtt4A) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Shimmer](https://open.spotify.com/album/59jjqcR0O0eWGxhG9t15aS) | 3:32 | 2022-12-28 | 2023-01-06 |
+| [Shine](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Shine](https://open.spotify.com/album/0LjOwDYvZGhQ6qcjy49ijr) | 4:19 | 2025-09-26 |  |
 | [Shooting Stars](https://open.spotify.com/track/3j4Q0OcxYgvJYev93mevxz) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [MARSHES](https://open.spotify.com/artist/22QCRSs7Gwn7UmLQ1xImIQ) | [Shooting Stars](https://open.spotify.com/album/7ntE6qOgJMXsyylRY1HGjB) | 3:24 | 2020-07-18 | 2020-10-10 |
 | [Shortline \- Frank Wiedemann Remix](https://open.spotify.com/track/2hmCjVFWlmcaJOmX9eT8hf) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Shortline \(Frank Wiedemann Remix\)](https://open.spotify.com/album/1sGTLVhdlJWyQHn6FCutAg) | 9:20 | 2020-02-29\* | 2020-03-16 |
 | [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-18 | 2025-06-06 |

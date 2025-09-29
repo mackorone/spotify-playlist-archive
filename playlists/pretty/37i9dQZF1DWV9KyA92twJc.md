@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: פאר טסי
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,548 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,549 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 31 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 32 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 33 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
-| 34 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 35 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
+| 34 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
+| 35 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 36 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 37 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |
 | 38 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 80 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
 | 81 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
 | 82 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 |
-| 83 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
-| 84 | [לדפוק ת'ראש](https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox), [רותם סלע](https://open.spotify.com/artist/6RHKnN409hmH8d8f2wGHk3), [דני קושמרו](https://open.spotify.com/artist/74Dnck8lIrte67p80UizJN), [אורי גבריאל](https://open.spotify.com/artist/3xIUNEwPWaEUSQUip0OQH0), [אסי ישראלוף](https://open.spotify.com/artist/6ECfOxlo1z5RwXCQqCR4ta) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:58 |
+| 83 | [לדפוק ת'ראש](https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox), [רותם סלע](https://open.spotify.com/artist/6RHKnN409hmH8d8f2wGHk3), [דני קושמרו](https://open.spotify.com/artist/74Dnck8lIrte67p80UizJN), [אורי גבריאל](https://open.spotify.com/artist/3xIUNEwPWaEUSQUip0OQH0), [אסי ישראלוף](https://open.spotify.com/artist/6ECfOxlo1z5RwXCQqCR4ta) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:58 |
+| 84 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
 | 85 | [צריך אותך](https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) | [שובר במות](https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU) | 4:57 |
 | 86 | [למי את מתקשרת](https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW) | [ליאם גולן](https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX) | [למי את מתקשרת](https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt) | 3:05 |
 | 87 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
-| 88 | [אוזניות](https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 3:01 |
-| 89 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
+| 88 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
+| 89 | [אוזניות](https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 3:01 |
 | 90 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
 | 91 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
 | 92 | [אל תפחד](https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 99 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 |
 | 100 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 |
 
-Snapshot ID: `AAAAAPPjDKxmM9zCr9SOAEqTmZKJyJsY`
+Snapshot ID: `AAAAAGrPLw0accbHSMGOL4VR1n3V74hI`

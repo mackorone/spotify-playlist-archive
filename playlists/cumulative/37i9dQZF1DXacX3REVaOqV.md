@@ -4,7 +4,7 @@
 
 > The best in house music
 
-677 songs - 1 day 20 hr 14 min
+678 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-03-14 | 2024-08-30 |
 | [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-29 |  |
 | [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 | 2025-06-05 |  |
+| [Dancing \- Samm Remix](https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Dancing \(Samm Remix\)](https://open.spotify.com/album/4i9KcN0cSezrfYaI6T2sNm) | 4:00 | 2025-09-26 |  |
 | [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 | 2024-11-22 | 2025-04-30 |
 | [Dancing Queen](https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB) | 2:54 | 2022-07-28 | 2024-03-01 |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2022-04-14 | 2022-07-29 |
@@ -509,7 +510,7 @@
 | [Saving It All](https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Angel Janson](https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz) | [Saving It All](https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV) | 3:06 | 2025-04-28 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-04-11 | 2025-03-21 |
 | [Say It](https://open.spotify.com/track/4xac76l55QO0SktrL2iQeY) | [Fein Cerra](https://open.spotify.com/artist/1OkT3YMHuOuDTIKsCJUWSm), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mizbee](https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh) | [Say It](https://open.spotify.com/album/6vH7aziXmsqAO8KL7zOOkB) | 2:28 | 2023-06-08 | 2024-09-13 |
-| [Searching for love \- Jackin' Vibes Mix](https://open.spotify.com/track/56apWnb2IzYgkHVI4rSLJ1) | [Kako Martinez](https://open.spotify.com/artist/74ORaG1yQCCQJONUGW31hD), [PINK COFFEE](https://open.spotify.com/artist/7BegyQyt6tGkCHMENnaqvC) | [Searching for love \(Jackin' vibes mix\)](https://open.spotify.com/album/6o4jU6zjvGwImC7zDl4JTj) | 5:57 | 2024-09-12 |  |
+| [Searching for love \- Jackin' Vibes Mix](https://open.spotify.com/track/56apWnb2IzYgkHVI4rSLJ1) | [Kako Martinez](https://open.spotify.com/artist/74ORaG1yQCCQJONUGW31hD), [PINK COFFEE](https://open.spotify.com/artist/7BegyQyt6tGkCHMENnaqvC) | [Searching for love \(Jackin' vibes mix\)](https://open.spotify.com/album/6o4jU6zjvGwImC7zDl4JTj) | 5:57 | 2024-09-12 | 2025-09-29 |
 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2025-06-20 |  |
 | [See\-Line Woman \- Masters At Work Remix](https://open.spotify.com/track/37bkqeTSvtX2ruBFA1jtxF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Verve Remixed](https://open.spotify.com/album/1tXfhj4nx8x18xvwCEKnTK) | 10:04 | 2022-05-05 | 2022-05-13 |
 | [Seguimos](https://open.spotify.com/track/2PmGGx7S3GWN5khgs5CjPW) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Seguimos](https://open.spotify.com/album/5HPdoCHMjOOuxhOBvCcY1N) | 4:30 | 2025-06-05 |  |

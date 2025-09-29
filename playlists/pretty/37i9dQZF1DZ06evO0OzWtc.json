@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2114,
+  "num_followers": 2116,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAuta8Mv7+43r/ltmFKRpiy",
+  "snapshot_id": "aNcpAAAAAADWoBnD9T8p2s5XOYwXjl2Q",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mafioso Americano",
         "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 142501,
       "name": "Mafioso Americano",
       "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": null,

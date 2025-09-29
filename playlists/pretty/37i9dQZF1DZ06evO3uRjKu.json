@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74003,
+  "num_followers": 74006,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAmF3ybc7MtE3IjS2C5SKU/",
+  "snapshot_id": "aNcpAAAAAADQF3t4r+Ax+r0Cc5bsjPfL",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 162285,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
       "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+      "duration_ms": 162285,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
     },
     {
       "added_at": null,

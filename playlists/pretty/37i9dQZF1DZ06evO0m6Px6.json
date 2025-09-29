@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 341,
+  "num_followers": 342,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABGuJvOZYdpeICLHjTb2Leh",
+  "snapshot_id": "aNcpAAAAAABR4ncMPsNKvG0LM/DG+5dR",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neon Future Odyssey",
+        "url": "https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+        }
+      ],
+      "duration_ms": 201210,
+      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
+      "url": "https://open.spotify.com/track/1bUqaX8ucv4VTMtKlAd8mW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "United We Are",
         "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
       },
@@ -199,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 111923,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beige",
         "url": "https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA"
       },
@@ -215,22 +255,6 @@
       "duration_ms": 171000,
       "name": "Beige",
       "url": "https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 111923,
-      "name": "Around You",
-      "url": "https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1"
     },
     {
       "added_at": null,
@@ -279,30 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Future II",
-        "url": "https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Albin Myers",
-          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
-        }
-      ],
-      "duration_ms": 201210,
-      "name": "Holding Up The World (feat. Harrison & Albin Myers)",
-      "url": "https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
       },
@@ -315,6 +315,26 @@
       "duration_ms": 104650,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/6TlPveqZiWf1o3dp3dsDeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        }
+      ],
+      "duration_ms": 215741,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
     },
     {
       "added_at": null,
@@ -359,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
-        }
-      ],
-      "duration_ms": 215741,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 85883,
       "name": "A View From The Sky",
       "url": "https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
       },
@@ -483,6 +483,26 @@
       "duration_ms": 252000,
       "name": "You're Light (feat. Maddee)",
       "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 103301,
+      "name": "Big Waves",
+      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
     },
     {
       "added_at": null,
@@ -575,26 +595,6 @@
       "duration_ms": 182907,
       "name": "Your Girl",
       "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Above the Waters",
-        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 103301,
-      "name": "Big Waves",
-      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
     },
     {
       "added_at": null,
@@ -698,15 +698,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -734,11 +730,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,502 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,529 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 5 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
 | 6 | [Medalla de Oro](https://open.spotify.com/track/2BkCOixgH4hPK0lVYOfh3Z) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 5:40 |
 | 7 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 |
-| 8 | [Estos últimos días](https://open.spotify.com/track/3v2KkWLAvvetVbP64DpOQ5) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:56 |
+| 8 | [Amigo Piedra](https://open.spotify.com/track/4DQfu72qP1PkhL2gkNNlk7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 4:14 |
 | 9 | [El Mundo Extraño](https://open.spotify.com/track/3z6CZiS2I89YQ2N0FMtGlG) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 3:58 |
 | 10 | [Tantas Cosas Buenas](https://open.spotify.com/track/7hZ5ChA3eSzlw5QJDJa7ks) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:58 |
 | 11 | [Chica de Oro](https://open.spotify.com/track/6gqqdXshLNeVIXUV7B5O6p) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 3:53 |
-| 12 | [Amigo Piedra](https://open.spotify.com/track/4DQfu72qP1PkhL2gkNNlk7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 4:14 |
+| 12 | [Estos últimos días](https://open.spotify.com/track/3v2KkWLAvvetVbP64DpOQ5) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:56 |
 | 13 | [Fuego](https://open.spotify.com/track/7mhHTogBD9THpIUeLE6atl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:11 |
 | 14 | [Un Segundo Plan](https://open.spotify.com/track/40a6HU6cI4BGv0fJmR0Dfq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 4:37 |
 | 15 | [El Perro](https://open.spotify.com/track/3ITRIxqiuoku311BLeWGgG) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/7ph1wgl97iq2aFdx6L0aSN) | 3:56 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 36 | [Slippery People](https://open.spotify.com/track/0ZQ6P0kDhjjhZSDvV3i9Br) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Slippery People](https://open.spotify.com/album/61l4URgOvUZqdRs9Qlrdru) | 5:40 |
 | 37 | [Doctora Muerte \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/4pM3DNnhGqjL9YOZ5ftaBr) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 2:32 |
 | 38 | [El Baile de la Colina](https://open.spotify.com/track/4QpW7Ufhek26AzJGtcN08f) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 3:13 |
-| 39 | [Noche Negra \- Versión 2021](https://open.spotify.com/track/1gq4FV6nuuzhW1hiou3QY7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 2:26 |
-| 40 | [Provincia de Buenos Aires](https://open.spotify.com/track/2RT7CiOobV3IkNHTgnbbPv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 1:43 |
+| 39 | [Provincia de Buenos Aires](https://open.spotify.com/track/2RT7CiOobV3IkNHTgnbbPv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 1:43 |
+| 40 | [Noche Negra \- Versión 2021](https://open.spotify.com/track/1gq4FV6nuuzhW1hiou3QY7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 2:26 |
 | 41 | [Terrorismo en la Copa del Mundo \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/05OoVaem9vngEmCW2rsZcd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 4:14 |
 | 42 | [El Último Sereno](https://open.spotify.com/track/4zKSmgRp3lKV8jVmWJNNUH) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 4:25 |
 | 43 | [Rey del Terror \- Versión 2021](https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 5:42 |
 
-Snapshot ID: `aNXXgAAAAAAuPSJ+S7xG3KDwkQ0FEzPk`
+Snapshot ID: `aNcpAAAAAAA0ylD3IScogBYcmtsIPHk6`

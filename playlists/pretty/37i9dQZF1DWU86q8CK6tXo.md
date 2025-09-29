@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Madilyn Mei
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,285 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,296 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 6 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 |
 | 7 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 |
 | 8 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
-| 9 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
-| 10 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |
+| 9 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |
+| 10 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
 | 11 | [CAM GIRL](https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [CAM GIRL](https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks) | 3:00 |
 | 12 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |
 | 13 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 |
 | 14 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
 | 15 | [Velcro](https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Thousand Songs About It All: Act 1](https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ) | 1:53 |
 | 16 | [perfectas](https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:38 |
-| 17 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
-| 18 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 |
+| 17 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 |
+| 18 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
 | 19 | [iGO](https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:13 |
 | 20 | [Uñas Afiladas](https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:27 |
-| 21 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 |
-| 22 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
+| 21 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
+| 22 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 |
 | 23 | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 |
 | 24 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
 | 25 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
 | 34 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |
 | 35 | [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 |
-| 36 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
-| 37 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 36 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 37 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 38 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 39 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
 | 40 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 62 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
 | 63 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 |
 | 64 | [Jumbos](https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Jumbos](https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr) | 3:11 |
-| 65 | [Pressure](https://open.spotify.com/track/46H0bctMtuGEn11ZhNJkkc) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Pressure](https://open.spotify.com/album/1qo6mW0KlP5vEOLXqM7OIn) | 2:05 |
+| 65 | [crisis EXistencial](https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [crisis EXistencial](https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin) | 3:15 |
 
-Snapshot ID: `AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx`
+Snapshot ID: `AAAAAEEGNokA9UhABLJD1MwEjt8JWUVm`

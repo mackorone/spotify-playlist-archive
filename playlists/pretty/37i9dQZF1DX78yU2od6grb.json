@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 545465,
+  "num_followers": 545276,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "duration_ms": 179279,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
-        }
-      ],
-      "duration_ms": 179279,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
     },
     {
       "added_at": "2025-02-07 03:01:15",

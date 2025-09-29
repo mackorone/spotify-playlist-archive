@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,440 likes - 130 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,469 likes - 130 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

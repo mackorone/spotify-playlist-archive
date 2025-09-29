@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,648 likes - 24 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,655 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,22 +15,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 5 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
 | 6 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
 | 7 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 |
-| 8 | [Sugar Man](https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe) | [Jazz Lounge : pour travailler à la maison](https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC) | 3:32 |
+| 8 | [I Wonder](https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:20 |
 | 9 | [Sugar Man](https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:49 |
 | 10 | [Climb Up On My Music](https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 4:54 |
 | 11 | [Street Boy](https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:47 |
-| 12 | [I Wonder](https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:20 |
+| 12 | [Somebody to Love](https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 4:01 |
 | 13 | [Inner City Blues](https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:26 |
 | 14 | [Sandrevan Lullaby \- Lifestyles](https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 6:37 |
 | 15 | [Revolution](https://open.spotify.com/track/4WAPTzwWBatGJtaC8qeHLK) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Revolution](https://open.spotify.com/album/4Tu85opDpfmiM1owf2x6ML) | 5:55 |
-| 16 | [Somebody to Love](https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 4:01 |
+| 16 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
 | 17 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
 | 18 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
 | 19 | [Attacke](https://open.spotify.com/track/45wHa5cP7fMRhA9iEtDBr9) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Attacke](https://open.spotify.com/album/1NTJot1TTlA1H3goKdzcrp) | 3:50 |
-| 20 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
+| 20 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 | 21 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
 | 22 | [To Whom It May Concern](https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:21 |
 | 23 | [Ecuador \(feat\. Rodriguez\) \- Single Mix](https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [QMusic Top 500 van de 90's](https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB) | 3:31 |
-| 24 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 
-Snapshot ID: `aNXXgAAAAAB+DAglY7qjO8iObV65xHCt`
+Snapshot ID: `aNcpAAAAAACgH5wK1ze/JTSIfh8zbz6X`

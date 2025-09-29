@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,914 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,911 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Memories \(feat\. UMI, Camilo\)](https://open.spotify.com/track/50AhtIZqSMmA3WnhUbdphf) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:36 |
 | 80 | [Glam Up](https://open.spotify.com/track/7jBB49sLtnuigwWSbf1dVr) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Glam Up](https://open.spotify.com/album/5HL7sWBxJrwuNAWCdTc9xb) | 2:42 |
 
-Snapshot ID: `AAAAAMiwOSt583KrEWg2JrG0MjZlA9uF`
+Snapshot ID: `AAAAAFv5m17vAO5+vZjnuTG25ncQ8qME`

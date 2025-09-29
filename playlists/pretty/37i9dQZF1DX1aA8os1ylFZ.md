@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,761 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,744 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 54 | [Watch You Leave](https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Watch You Leave](https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y) | 4:23 |
 | 55 | [Slow Down](https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Slow Down](https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a) | 2:20 |
 | 56 | [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 |
-| 57 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 |
-| 58 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 2:55 |
+| 57 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 2:55 |
+| 58 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 |
 | 59 | [INFINITY](https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [INFINITY](https://open.spotify.com/album/7FUUeTnlcCJ78stxTPvPkI) | 2:34 |
 | 60 | [STAR](https://open.spotify.com/track/7IiVKpdCtU1Y5seKBe3Asg) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Star](https://open.spotify.com/album/5ZOCtRyWxSwDY4e0rWPTxi) | 3:22 |
-| 61 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
-| 62 | [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 |
+| 61 | [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 |
+| 62 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
 | 63 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
 | 64 | [HIGHER](https://open.spotify.com/track/1PqvFkb8ui6dkMFXUky8Sv) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [HIGHER](https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T) | 3:01 |
 | 65 | [Favorite One](https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Favorite One](https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL) | 2:56 |
@@ -97,15 +97,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 87 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
 | 88 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 |
 | 89 | [Disaster](https://open.spotify.com/track/4DEgSzgOIA0PlALY6iv3NI) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Forest Fire](https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL) | 3:23 |
-| 90 | [Lifetime](https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:32 |
+| 90 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
 | 91 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
-| 92 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
-| 93 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 |
-| 94 | [Angel](https://open.spotify.com/track/1WWVZOdu0xkgEo7RRBWuUQ) | [MAVEE](https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte) | [Angel](https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ) | 2:59 |
-| 95 | [On My Way](https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [On My Way](https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc) | 3:31 |
+| 92 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 |
+| 93 | [Lifetime](https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:32 |
+| 94 | [On My Way](https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [On My Way](https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc) | 3:31 |
+| 95 | [Angel](https://open.spotify.com/track/1WWVZOdu0xkgEo7RRBWuUQ) | [MAVEE](https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte) | [Angel](https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ) | 2:59 |
 | 96 | [Need You Now](https://open.spotify.com/track/3KHIZHZ3wAfpPVYdQF7oAs) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Need You Now](https://open.spotify.com/album/1nIGSOY1ko8wYh10bJuhan) | 1:49 |
 | 97 | [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 |
 | 98 | [Can't Talk](https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Can't Talk](https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7) | 2:53 |
-| 99 | [Misbehave](https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:15 |
+| 99 | [Sonho \(Summer\)](https://open.spotify.com/track/6yjfTTqYwypuxqICDMsm7Y) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Words From Venus](https://open.spotify.com/album/35gXzZCAYihydBIiivsmGr) | 1:54 |
 
 Snapshot ID: `AAAAAGAAuTQ93WvtfGFbCQeDsYfKPChr`

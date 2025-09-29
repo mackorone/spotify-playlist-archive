@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 230657,
+  "num_followers": 230674,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 318293,
-      "name": "Are You Alright?",
-      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Childhood Home",
         "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 162800,
       "name": "A House Is A Home",
       "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 318293,
+      "name": "Are You Alright?",
+      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
-        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Johnson Blvd",
-      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The River & The Thread",
         "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 198200,
       "name": "A Feather's Not A Bird",
       "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
+        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Johnson Blvd",
+      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
-      },
-      "artists": [
-        {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Traveling Kind",
         "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
       },
@@ -963,18 +943,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
       "artists": [
         {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
         "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
@@ -1047,34 +1031,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
       "artists": [
         {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1095,18 +1063,34 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 161013,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Django and Jimmie",
         "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 173453,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 318160,
-      "name": "Troublesome Waters",
-      "url": "https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Nowhere to Hide",
         "url": "https://open.spotify.com/album/2ffD2tYaD8wcbnsgOudUtA"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 212104,
       "name": "Every Pilgrim Needs a Highway",
       "url": "https://open.spotify.com/track/0AsSPcTKgY81UnorV87EJa"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 318160,
+      "name": "Troublesome Waters",
+      "url": "https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Little Black Train",
-      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Little Black Train",
+      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 338126,
       "name": "Mother, Son and Holy Ghost",
       "url": "https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Lonely, The Lonesome & The Gone",
-        "url": "https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "End Of The End Of The World",
-      "url": "https://open.spotify.com/track/2ka6UfbB6rRjnvpUv1VIjA"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Midnight Special",
         "url": "https://open.spotify.com/album/63LJ7HtG7tDibRiYUHvCQo"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 214949,
       "name": "The Midnight Special",
       "url": "https://open.spotify.com/track/21roVVtN1ed5QAMFlVxqrv"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Lonely, The Lonesome & The Gone",
+        "url": "https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "End Of The End Of The World",
+      "url": "https://open.spotify.com/track/2ka6UfbB6rRjnvpUv1VIjA"
     },
     {
       "added_at": "2024-08-30 04:00:00",

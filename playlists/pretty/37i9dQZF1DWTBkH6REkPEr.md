@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,780 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,820 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 49 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
 | 50 | [Kanye](https://open.spotify.com/track/5brMyscUnQg14hMriS91ks) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [sirenXX](https://open.spotify.com/artist/1QM03lnjHcx2l52sWaW5V5) | [Kanye](https://open.spotify.com/album/1kDxLifAXYG0I81ynPPRcn) | 3:49 |
 | 51 | [You're On \(feat\. Kyan\)](https://open.spotify.com/track/4PTPZeJlK1rYlYr6bf11hk) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 3:12 |
-| 52 | [Wicked Wonderland](https://open.spotify.com/track/0zQXwzM2gtGfClqBBTsKXp) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Wicked Wonderland](https://open.spotify.com/album/0sto8hJizRoPKSQoFo57d9) | 3:37 |
-| 53 | [Turn Up The Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
+| 52 | [Turn Up The Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
+| 53 | [Wicked Wonderland](https://open.spotify.com/track/0zQXwzM2gtGfClqBBTsKXp) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Wicked Wonderland](https://open.spotify.com/album/0sto8hJizRoPKSQoFo57d9) | 3:37 |
 | 54 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |
 | 55 | [Faded](https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 3:43 |
 | 56 | [Ah Yeah So What \- Radio Edit](https://open.spotify.com/track/37PuGmhHTzDbbaUAFKj6bJ) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Elen Levon](https://open.spotify.com/artist/3gClSlUEpEoQd4IldcqBUz) | [Ah Yeah So What](https://open.spotify.com/album/0O6VKi6sTFS7xUsG2I85C1) | 3:15 |

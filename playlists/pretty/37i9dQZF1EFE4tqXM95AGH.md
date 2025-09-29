@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,351 likes - 179 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,352 likes - 179 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 89 | [Man Up](https://open.spotify.com/track/1YKOm06nQc83UXXG4ubrjo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 2:48 |
 | 90 | [Love of My Life](https://open.spotify.com/track/3o6dtVImjXolMR9EVwzJOG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 |
 | 91 | [The Other Side](https://open.spotify.com/track/1GbrJXEPkBb492q2t5mtRC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Other Side \(From "Sierra Burgess Is a Loser"\)](https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY) | 2:59 |
-| 92 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
-| 93 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
+| 92 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
+| 93 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
 | 94 | [Lie for Love](https://open.spotify.com/track/6MrYbA2BABupgYu3eONu7G) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:05 |
 | 95 | [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 |
 | 96 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 104 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 |
 | 105 | [Oh God \(feat\. Konshens\)](https://open.spotify.com/track/7cs2ujAGExV7scDYTPLsMX) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Oh God \(feat\. Konshens\)](https://open.spotify.com/album/2puY2Kn8P7AAPV8GuH6f6Q) | 3:17 |
 | 106 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 |
-| 107 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 |
-| 108 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 107 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 108 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 |
 | 109 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 |
 | 110 | [SANCTUARY](https://open.spotify.com/track/6DP8nbZpPLgWboZf1ABRzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 4:39 |
 | 111 | [The Wrong Party](https://open.spotify.com/track/3zpUhSVw7S1lD6okDqZ2yX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 2:39 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 178 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 179 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Ab9YHgAAAADSiaQdcHqS9FF3ogg7D7in`
+Snapshot ID: `Ab9d5gAAAADHFU1469WpuwMLb8eYf/D1`

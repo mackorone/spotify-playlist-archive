@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8562,
+  "num_followers": 8563,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADrHqBPRL+Cr+9VWPQe7Na5",
+  "snapshot_id": "aNcpAAAAAABOL2/MdPMveZ44Tv9fx0fu",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Love That Never - IMANU Remix",
+      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young Art Sound II",
         "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 263586,
       "name": "Go With It (feat. MNDR)",
       "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Love That Never - IMANU Remix",
-      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Reverie Remixes",
         "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 187218,
       "name": "Sci Fi - Polar Youth Remix",
       "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 218589,
-      "name": "Early to Dawn (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO WAY",
         "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 204077,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 218589,
+      "name": "Early to Dawn (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
     },
     {
       "added_at": null,

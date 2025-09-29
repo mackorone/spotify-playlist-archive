@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,477 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,478 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 36 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 |
 | 37 | [New York, Let's Do Nothing](https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 3:22 |
 | 38 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
-| 39 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
-| 40 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
+| 39 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
+| 40 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
 | 41 | [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 |
 | 42 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
 | 43 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 46 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 |
 | 47 | [Trenches](https://open.spotify.com/track/218P4brorJq8BLcyzconqS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Trenches](https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh) | 3:32 |
 | 48 | [Deep Clay](https://open.spotify.com/track/0BsFIzlsXRmseeQ44iHATK) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Sunshine and Balance Beams](https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4) | 4:13 |
-| 49 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
-| 50 | [Jesse](https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 2:55 |
+| 49 | [Jesse](https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 2:55 |
+| 50 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
 | 51 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 | 52 | [Be A Big Girl](https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be A Big Girl](https://open.spotify.com/album/3M48990TSLoCplWuNssAAs) | 2:50 |
 | 53 | [Crashing Highs](https://open.spotify.com/track/7aeDHsVnCToDJIV5fLalnZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/1h98ixZPZWOAAp29e0cZoU) | 3:01 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 59 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 60 | [Bedrock](https://open.spotify.com/track/5NQzU2NZYt8bJoieGVkZEZ) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Bedrock](https://open.spotify.com/album/3bk7FJxpty6jsKxjKizKCW) | 3:13 |
 | 61 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
-| 62 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
-| 63 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
+| 62 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
+| 63 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
 | 64 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 |
 | 65 | [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 |
 | 66 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 84 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
 | 85 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
 | 86 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
-| 87 | [Broadcast](https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Unreal](https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri) | 4:18 |
-| 88 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
+| 87 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
+| 88 | [Broadcast](https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Unreal](https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri) | 4:18 |
 | 89 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
 | 90 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
 | 91 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 94 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
 | 95 | [Blue Kite](https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 6:11 |
 | 96 | [Salome](https://open.spotify.com/track/2ZhMiaTlkiqwKNz6iUO1KN) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Spring Grove](https://open.spotify.com/album/5t7CByjhX4jdwiCtN4llLI) | 2:18 |
-| 97 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
-| 98 | [Goon Show](https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Goon Show](https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut) | 5:06 |
+| 97 | [Goon Show](https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Goon Show](https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut) | 5:06 |
+| 98 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
 | 99 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 |
 | 100 | [I Love My Wife](https://open.spotify.com/track/2ZjGheF3bEDNwHktj7WQXu) | [Touchdown Jesus](https://open.spotify.com/artist/4m2cmezyP3GrxPbHdNSgjM) | [It's All Feast Or Famine](https://open.spotify.com/album/3DjQPilg3Hxgx88B6bWmfd) | 3:44 |
 

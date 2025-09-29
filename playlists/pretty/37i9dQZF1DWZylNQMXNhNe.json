@@ -659,30 +659,6 @@
     {
       "added_at": "2025-09-05 20:36:38",
       "album": {
-        "name": "CHATA",
-        "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 156330,
-      "name": "CHATA",
-      "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
-    },
-    {
-      "added_at": "2025-09-05 20:36:38",
-      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 233534,
       "name": "Quebrados",
       "url": "https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9"
+    },
+    {
+      "added_at": "2025-09-05 20:36:38",
+      "album": {
+        "name": "CHATA",
+        "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 156330,
+      "name": "CHATA",
+      "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
     },
     {
       "added_at": "2025-09-05 20:36:38",

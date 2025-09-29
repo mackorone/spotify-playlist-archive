@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABrPBz9aVw+aMgCSzXhAOBe",
+  "snapshot_id": "aNcpAAAAAABkUXmQcZbK0StUJaGetMW6",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Bailala Baila",
-      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
+      "duration_ms": 147013,
+      "name": "El Toro Zacatecano",
+      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 147013,
-      "name": "El Toro Zacatecano",
-      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
+      "duration_ms": 200293,
+      "name": "Bailala Baila",
+      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 164786,
-      "name": "Me Caiste del Cielo",
-      "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
         "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 200400,
       "name": "Ando Que Me Lleva",
       "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 164786,
+      "name": "Me Caiste del Cielo",
+      "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "La Muerta",
-      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vamos a la Playa, Recordando los Exitos",
         "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 140080,
       "name": "Gema",
       "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "El Herradero",
-      "url": "https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Caminante Recordando los Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 148093,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "El Herradero",
+      "url": "https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Las Nieves de Enero",
-      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
         "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195946,
       "name": "Me Rio de Miedo",
       "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Las Nieves de Enero",
+      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "No Voy a Llorar",
-      "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Estilo Tierra Caliente",
         "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197066,
       "name": "Carta Perdida - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "No Voy a Llorar",
+      "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
     },
     {
       "added_at": null,

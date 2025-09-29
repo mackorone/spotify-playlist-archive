@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to sept-oct 2025",
-  "num_followers": 23364,
+  "num_followers": 23372,
   "original_name": "warmth, and red eyes",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANMC5mxR0mwFnOzd9lVAuesg3gvvrH",
+  "snapshot_id": "AAANMYtVJuf7CDTyRvzJee//piVeh1w4",
   "tracks": [
     {
       "added_at": "2025-09-10 18:40:15",
@@ -683,6 +683,38 @@
       "duration_ms": 240508,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf"
+    },
+    {
+      "added_at": "2025-09-28 17:58:18",
+      "album": {
+        "name": "Senza Sapere Niente Di Lei (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7iWJnjKnHwxHAnIfNIJrDP"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Sospetti E Tenerezze",
+      "url": "https://open.spotify.com/track/51FtXU9pPeXA4PV1pgh39g"
+    },
+    {
+      "added_at": "2025-09-28 17:58:18",
+      "album": {
+        "name": "Solid Soul",
+        "url": "https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq"
+      },
+      "artists": [
+        {
+          "name": "Willie Mitchell",
+          "url": "https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/1pZ4YQ93Wc9xoN0Q3h3fLq"
     }
   ],
   "unique_name": "warmth, and red eyes",

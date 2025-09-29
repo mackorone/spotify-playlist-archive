@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Sep 18:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Sep 03:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVC4cWMKvVyGMa0EKLy9f5GFp1nXXm",
+  "snapshot_id": "AAAVEcybUzQjuYKz1z/hyxTo8iapXq7u",
   "tracks": [
     {
       "added_at": "2025-09-26 13:06:43",
@@ -55,6 +55,42 @@
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "added_at": "2025-09-28 22:06:41",
+      "album": {
+        "name": "DEFENSELESS",
+        "url": "https://open.spotify.com/album/1iUmL0eYABJ74DcFBx6F7A"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 150222,
+      "name": "DEFENSELESS",
+      "url": "https://open.spotify.com/track/6BldH7peblFKnRUxHX0Ms8"
+    },
+    {
+      "added_at": "2025-09-29 03:05:09",
+      "album": {
+        "name": "Everything Is Fine (Remix)",
+        "url": "https://open.spotify.com/album/67JjYeEI3M4HmWyGLWJFLb"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        },
+        {
+          "name": "Qbomb",
+          "url": "https://open.spotify.com/artist/0IXhfnD7calHs6R5vilU62"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Everything Is Fine - Remix",
+      "url": "https://open.spotify.com/track/4y4fiEGIkUqGzQF9NyDr7O"
     },
     {
       "added_at": "2025-09-26 08:06:07",
@@ -221,6 +257,22 @@
       "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
     },
     {
+      "added_at": "2025-09-28 22:06:41",
+      "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/6K1qRw01nmZVjafCXLo0u0"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/1xHWII0YRyiTAzWndE5TVB"
+    },
+    {
       "added_at": "2025-09-26 18:06:00",
       "album": {
         "name": "Infinity Heart",
@@ -253,6 +305,22 @@
       "url": "https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy"
     },
     {
+      "added_at": "2025-09-28 08:05:45",
+      "album": {
+        "name": "If I Were to Die",
+        "url": "https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "If I Were to Die",
+      "url": "https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ"
+    },
+    {
       "added_at": "2025-09-26 18:06:00",
       "album": {
         "name": "go spin",
@@ -267,6 +335,22 @@
       "duration_ms": 104721,
       "name": "go spin",
       "url": "https://open.spotify.com/track/1kpl9OjwsYHpdFBrkkfbfX"
+    },
+    {
+      "added_at": "2025-09-28 08:05:45",
+      "album": {
+        "name": "DON'T BE A BITCH",
+        "url": "https://open.spotify.com/album/7qznk8QmhRLgK4MPQ8AP7K"
+      },
+      "artists": [
+        {
+          "name": "KILL KARL",
+          "url": "https://open.spotify.com/artist/6EkKa58rGJ5799EpRA1Kjy"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "DON'T BE A BITCH",
+      "url": "https://open.spotify.com/track/59DhIr3xOEsFMMHS4JBYbQ"
     },
     {
       "added_at": "2025-09-26 08:06:07",
@@ -735,90 +819,6 @@
       "duration_ms": 223402,
       "name": "Into The Cesspool",
       "url": "https://open.spotify.com/track/2YZlG2b8Gz0t6ThDiRPinZ"
-    },
-    {
-      "added_at": "2025-09-19 08:06:27",
-      "album": {
-        "name": "RACER",
-        "url": "https://open.spotify.com/album/6geBfBpOE48ZMYCMs8FD3b"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "RACER",
-      "url": "https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ"
-    },
-    {
-      "added_at": "2025-09-19 08:06:27",
-      "album": {
-        "name": "JESSE PINKMAN",
-        "url": "https://open.spotify.com/album/0o1hCarMhASGaCPC3WH2ys"
-      },
-      "artists": [
-        {
-          "name": "Sematary",
-          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
-        }
-      ],
-      "duration_ms": 143673,
-      "name": "JESSE PINKMAN",
-      "url": "https://open.spotify.com/track/2OQknOHKfp3jhODTh1Dsfb"
-    },
-    {
-      "added_at": "2025-09-20 18:04:53",
-      "album": {
-        "name": "Hocus Pocus",
-        "url": "https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 165012,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
-    },
-    {
-      "added_at": "2025-09-19 22:04:48",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/3d2Ys2ZfDiqHOxcuXJzOW7"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4XuJ0BRSM4JRcMuLCxOmux"
-    },
-    {
-      "added_at": "2025-09-19 18:05:28",
-      "album": {
-        "name": "Congratulations",
-        "url": "https://open.spotify.com/album/6zwKdmOEabNVJa3j7NQo76"
-      },
-      "artists": [
-        {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
-        }
-      ],
-      "duration_ms": 212089,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/7vLfIfO3SGuZWEC0VJXpKt"
     }
   ],
   "unique_name": "New Singles Now",

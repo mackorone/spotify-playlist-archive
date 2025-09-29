@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 149559,
+  "num_followers": 149574,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,34 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Segunda Vida",
+        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
+      },
+      "artists": [
+        {
+          "name": "Kingdom & Culture",
+          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Segunda Vida",
+      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Conectao",
         "url": "https://open.spotify.com/album/1fo3maaIHMFeNjeR1KrtKF"
       },
@@ -603,34 +631,6 @@
       "duration_ms": 206367,
       "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
       "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Segunda Vida",
-        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
-      },
-      "artists": [
-        {
-          "name": "Kingdom & Culture",
-          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Segunda Vida",
-      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -727,18 +727,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+        "name": "De Cabeza",
+        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
         }
       ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+      "duration_ms": 189130,
+      "name": "De Cabeza",
+      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "De Cabeza",
-        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 189130,
-      "name": "De Cabeza",
-      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Bueno",
-      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "SMC",
         "url": "https://open.spotify.com/album/64cOmXs4LduN3vgXiUnNrn"
       },
@@ -963,6 +947,42 @@
       "duration_ms": 163200,
       "name": "SMC",
       "url": "https://open.spotify.com/track/53Rb7O0Khyu3n0yx9kgHpk"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Bueno",
+      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "De Fiesta Con Jes\u00fas",
+        "url": "https://open.spotify.com/album/7LJsa9sRDXqLQ2NMG5kqqf"
+      },
+      "artists": [
+        {
+          "name": "Emsy",
+          "url": "https://open.spotify.com/artist/6WLYOmbe6S1nOe2IiL6DhR"
+        },
+        {
+          "name": "Defra",
+          "url": "https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "De Fiesta Con Jes\u00fas",
+      "url": "https://open.spotify.com/track/6eZVEUDPHxb4pEgpmpzt4J"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -991,42 +1011,6 @@
       "duration_ms": 209316,
       "name": "Del Agua Al Cielo",
       "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "De Fiesta Con Jes\u00fas",
-        "url": "https://open.spotify.com/album/7LJsa9sRDXqLQ2NMG5kqqf"
-      },
-      "artists": [
-        {
-          "name": "Emsy",
-          "url": "https://open.spotify.com/artist/6WLYOmbe6S1nOe2IiL6DhR"
-        },
-        {
-          "name": "Defra",
-          "url": "https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "De Fiesta Con Jes\u00fas",
-      "url": "https://open.spotify.com/track/6eZVEUDPHxb4pEgpmpzt4J"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1067,26 +1051,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Ni\u00f1os De Iglesia",
-        "url": "https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh"
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
       },
       "artists": [
         {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Ana Pau",
-          "url": "https://open.spotify.com/artist/3A3WUNVvqb3E7VfVQGxCcg"
-        },
-        {
-          "name": "DesXa",
-          "url": "https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 210690,
-      "name": "La Bandera",
-      "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1107,6 +1083,30 @@
       "duration_ms": 203368,
       "name": "Yo Soy Cristiano",
       "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Ni\u00f1os De Iglesia",
+        "url": "https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Ana Pau",
+          "url": "https://open.spotify.com/artist/3A3WUNVvqb3E7VfVQGxCcg"
+        },
+        {
+          "name": "DesXa",
+          "url": "https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us"
+        }
+      ],
+      "duration_ms": 210690,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Vers\u00e1til, Vol. 2",
-        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Me Voy Con \u00c9l",
-      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "closefriend",
         "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 188108,
       "name": "closefriend",
       "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Vers\u00e1til, Vol. 2",
+        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Me Voy Con \u00c9l",
+      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "La Verdad EP",
+        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 182474,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Volver\u00e1",
         "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 168000,
       "name": "Volver\u00e1",
       "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "La Verdad EP",
-        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 182474,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Base y fundamento",
         "url": "https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
       },
       "artists": [
         {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
         }
       ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Fiesta En El Cielo",
         "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
       },
@@ -1651,6 +1651,26 @@
       "duration_ms": 200000,
       "name": "Fiesta En El Cielo",
       "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "SE\u00d1ALES (REMIX)",
+        "url": "https://open.spotify.com/album/73AtKrcy1EeMGnXMX0v1bM"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        },
+        {
+          "name": "BOUE",
+          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "SE\u00d1ALES - REMIX",
+      "url": "https://open.spotify.com/track/5eCA0Ler7a6U4cAbSXJzCK"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1683,26 +1703,6 @@
       "duration_ms": 129119,
       "name": "Vigilia",
       "url": "https://open.spotify.com/track/18irKhrkZjuvV5IkWmbhNW"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "SE\u00d1ALES (REMIX)",
-        "url": "https://open.spotify.com/album/73AtKrcy1EeMGnXMX0v1bM"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        },
-        {
-          "name": "BOUE",
-          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "SE\u00d1ALES - REMIX",
-      "url": "https://open.spotify.com/track/5eCA0Ler7a6U4cAbSXJzCK"
     },
     {
       "added_at": "2025-09-14 08:28:23",

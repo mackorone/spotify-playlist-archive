@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: HÅN
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,160 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,162 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

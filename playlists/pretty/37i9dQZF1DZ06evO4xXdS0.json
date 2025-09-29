@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 502340,
+  "num_followers": 502374,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAA75/BXSQXFL8TJ27YJMmbU",
+  "snapshot_id": "aNcpAAAAAADD+zneCwMEXLXLNz2Dv1vI",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadway-Blues-Ballads",
-        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 244866,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broadway-Blues-Ballads",
+        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 235760,
-      "name": "If I Should Lose You",
-      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
+      "duration_ms": 125960,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -332,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 125960,
-      "name": "Take Care Of Business",
-      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
       "duration_ms": 297920,
       "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
       "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Ne Me Quitte Pas",
-      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Single Woman (Expanded)",
-        "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 58426,
-      "name": "The Times They Are A-Changin' - Outtake",
-      "url": "https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 187973,
       "name": "Tell Me More And More And Then Some",
       "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Single Woman (Expanded)",
+        "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 58426,
+      "name": "The Times They Are A-Changin' - Outtake",
+      "url": "https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw"
     },
     {
       "added_at": null,

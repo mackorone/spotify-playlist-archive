@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,910 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,912 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 61 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
 | 62 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
 | 63 | [Rise \- Acoustic](https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Rise \(Acoustic\)](https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm) | 3:52 |
-| 64 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 |
-| 65 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 |
+| 64 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 |
+| 65 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 |
 | 66 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
 | 67 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
 | 68 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 78 | [Bad Memories \- Acoustic](https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(Acoustic\)](https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La) | 2:21 |
 | 79 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 4:55 |
 | 80 | [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 |
-| 81 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
-| 82 | [Numa Ilha Ao Vivo](https://open.spotify.com/track/0vmQzhON4VUUryyZ6eMiqa) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha Ao Vivo](https://open.spotify.com/album/2bC3idqVrTZsUvg9JsrmL0) | 4:38 |
+| 81 | [Numa Ilha Ao Vivo](https://open.spotify.com/track/0vmQzhON4VUUryyZ6eMiqa) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha Ao Vivo](https://open.spotify.com/album/2bC3idqVrTZsUvg9JsrmL0) | 4:38 |
+| 82 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
 | 83 | [Sagrado Profano \- Acústico](https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 3:07 |
 | 84 | [Nada Sei \- Apneia, Ao Vivo](https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Nada Sei \(Apneia\)](https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO) | 3:49 |
 | 85 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 |

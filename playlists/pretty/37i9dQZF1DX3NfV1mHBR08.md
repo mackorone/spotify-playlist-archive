@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,462 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,458 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 21 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 22 | [A Race](https://open.spotify.com/track/2XIxIDXxuE9d97TqjQPwQy) | [Go Younjung](https://open.spotify.com/artist/6j2pt3nJm1AzHnOrh9NZWx), [Shin Sia](https://open.spotify.com/artist/4rkbfpZPF5jBQAjXQLnN1t), [Kang Youseok](https://open.spotify.com/artist/3eLKjmcl0cWqhATKJK77lx), [Han Yeji](https://open.spotify.com/artist/0tpsMeSSlB302vfEkdBBk2) | [Resident Playbook \(Original Soundtrack\)](https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb) | 3:35 |
 | 23 | [Good Night](https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:02 |
-| 24 | [First Step](https://open.spotify.com/track/3vHXdq1OnJRynfeic4jOCP) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:18 |
-| 25 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 |
+| 24 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 |
+| 25 | [First Step](https://open.spotify.com/track/3vHXdq1OnJRynfeic4jOCP) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:18 |
 | 26 | [Amateur](https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [Resident Playbook, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l) | 4:03 |
 | 27 | [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 |
 | 28 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
-| 29 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
-| 30 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
+| 29 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
+| 30 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
 | 31 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |
 | 32 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 |
 | 33 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 44 | [Being an Adult](https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Being an Adult](https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH) | 3:45 |
 | 45 | [For myself](https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP) | [ Seo Youngju](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4Wa3VLLWGqL0WKzgZfhhaA) | 4:01 |
 | 46 | [Dear my past self](https://open.spotify.com/track/0laoS4jmA6MAk3tBaWff0n) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Law and The City, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3Sb2ajq2MVbcB5gxL26rIe) | 4:16 |
-| 47 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
-| 48 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 47 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 48 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
 | 49 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 50 | [A Race](https://open.spotify.com/track/3JT9RScdU7B1xURAOxZFX0) | [Seorina](https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP), [CHA HAKYEON\(N\)](https://open.spotify.com/artist/1ApI8Lk8hqmUO6872mH5Fj) | [A Race \(Oh My Ghost Clients Original Soundtrack Part.4\)](https://open.spotify.com/album/3YKkR5JCueFxrF0aFRhQ9K) | 3:05 |
 

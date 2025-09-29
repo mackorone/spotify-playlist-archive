@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Doja Cat, Olivia Dean, Tate McRae, 5 Seconds of Summer, Aina Abdul, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,602 likes - 124 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,606 likes - 124 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

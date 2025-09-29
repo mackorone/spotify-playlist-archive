@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,961 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,958 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 35 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 36 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 |
 | 37 | [Kiedy umrę kochanie \(H\. Poświatowska\)](https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Dwoje ludzieńków](https://open.spotify.com/album/6LKxswBVj57QxwDfDSl22s) | 3:12 |
-| 38 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
-| 39 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
+| 38 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
+| 39 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
 | 40 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 |
 | 41 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 |
 | 42 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |

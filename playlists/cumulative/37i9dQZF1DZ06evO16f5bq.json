@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 166829,
       "name": "At\u00e9 o c\u00e9u",
       "url": "https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n"
@@ -1083,6 +1083,32 @@
     },
     {
       "album": {
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "LITTLE BABY",
+      "url": "https://open.spotify.com/track/6kTMNktsL1XZOqnXNOmYqC"
+    },
+    {
+      "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
       },
@@ -1260,7 +1286,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 200106,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8"
@@ -2632,6 +2658,32 @@
       "duration_ms": 131575,
       "name": "Sinceridade",
       "url": "https://open.spotify.com/track/6ONkuPoFaWjSgnq3hoOfD1"
+    },
+    {
+      "album": {
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "SOZINHO",
+      "url": "https://open.spotify.com/track/4GvumINo7IcrKMPM7KIYZY"
     },
     {
       "album": {

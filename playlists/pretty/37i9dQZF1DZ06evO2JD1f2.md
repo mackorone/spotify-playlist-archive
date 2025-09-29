@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,012 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,014 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 38 | [Bigger Than Life Or Death](https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:43 |
 | 39 | [Plug Motivation](https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:08 |
 | 40 | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19) | 3:51 |
-| 41 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
+| 41 | [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 |
 | 42 | [Make It Even](https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:29 |
 | 43 | [My Love \(feat\. Veeze & Rylo Rodriguez\)](https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:19 |
 | 44 | [Scarface \(feat\. EST Gee\)](https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 3:24 |
-| 45 | [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 |
+| 45 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
 | 46 | [Capitol 1](https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:21 |
 | 47 | [Go](https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:06 |
 | 48 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 |
 | 49 | [DEATH BEFORE DISHONOR](https://open.spotify.com/track/4DR2F9HEucYO4Z6XJC0I67) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [INTRUSIVE THOUGHTS](https://open.spotify.com/album/0tjWYspyQvDrgVk4ExxCKX) | 3:12 |
 | 50 | [Since When \(feat\. EST Gee\)](https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 3:02 |
 
-Snapshot ID: `aNXXgAAAAAArm465IrrKl6Q7Ju4Aujxf`
+Snapshot ID: `aNcpAAAAAAAtYdUsCpQNe1jtd2E/5Drl`

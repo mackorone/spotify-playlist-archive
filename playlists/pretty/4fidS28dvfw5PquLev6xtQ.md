@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > MBV without Loveless is like Shenmue without Ryo
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 40 likes - 99 songs - 12 hr 38 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 41 likes - 99 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

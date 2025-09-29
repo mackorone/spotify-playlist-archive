@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Zara Larsson",
-  "num_followers": 4059226,
+  "num_followers": 4058675,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+        "name": "Money Made Me A Savage (Calabria)",
+        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+      "duration_ms": 123854,
+      "name": "Money Made Me A Savage - Calabria",
+      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -439,22 +443,18 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Money Made Me A Savage (Calabria)",
-        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 123854,
-      "name": "Money Made Me A Savage - Calabria",
-      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1227,6 +1227,30 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "Sunroof (Loud Luxury Remix)",
+        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "hey daisy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Sunroof - Loud Luxury Remix",
+      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
       },
@@ -1251,30 +1275,6 @@
       "duration_ms": 212880,
       "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Sunroof (Loud Luxury Remix)",
-        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "hey daisy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Sunroof - Loud Luxury Remix",
-      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
     },
     {
       "added_at": "2025-09-05 13:32:53",

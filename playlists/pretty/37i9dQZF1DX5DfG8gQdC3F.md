@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Cameron Whitcomb, Tate McRae, Patrick Watson, Rochelle Jordan, Cœur de Pirate and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,958 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,950 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

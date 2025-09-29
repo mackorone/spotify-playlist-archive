@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,130 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,142 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 26 | [Run to You](https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [The Life… DOC Blues](https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U) | 3:46 |
 | 27 | [너를 사랑해](https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 3:36 |
 | 28 | [정](https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [1집\-정](https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU) | 3:50 |
-| 29 | [Phone Number](https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [노.라.보.세.](https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li) | 3:32 |
-| 30 | [비의 랩소디](https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN) | [최재훈](https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB) | [Return](https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV) | 4:21 |
+| 29 | [비의 랩소디](https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN) | [최재훈](https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB) | [Return](https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV) | 4:21 |
+| 30 | [Phone Number](https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [노.라.보.세.](https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li) | 3:32 |
 | 31 | [To Heaven](https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [To Heaven](https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep) | 4:10 |
 | 32 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
 | 33 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 49 | [A\-Yo](https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [The Reign](https://open.spotify.com/album/2mtlNInQJMycvTN1losasj) | 3:45 |
 | 50 | [Break up With Her](https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [Legend](https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2) | 4:04 |
 | 51 | [Eternal Love](https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [White](https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi) | 4:09 |
-| 52 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
-| 53 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
+| 52 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
+| 53 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
 | 54 | [현명한 선택](https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp) | [So Chanwhee](https://open.spotify.com/artist/0IsLM1iIcsp652W1ruNLfV) | [Eight Times Begin Again](https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t) | 3:09 |
 | 55 | [Bruise](https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [The Third Eye](https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq) | 3:27 |
 | 56 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 |
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 66 | [Com\` Back](https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:52 |
 | 67 | [비밀은 없어](https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Roo\`ra Best Album](https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm) | 4:03 |
 | 68 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
-| 69 | [Illusion](https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 4:05 |
-| 70 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
+| 69 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
+| 70 | [Illusion](https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 4:05 |
 | 71 | [GOOSE'S DREAM \(feat.Lee Juck\)](https://open.spotify.com/track/1JdMeBH2CkX8pzj6FbMwUS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 5:50 |
 | 72 | [해변으로 가요 Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [삐걱삐걱 Creak Creak](https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy) | 3:22 |
 | 73 | [To Be Continued](https://open.spotify.com/track/6JaOpuYDNzxYo2lNOgssac) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Suprise Party Collection](https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX) | 4:11 |
-| 74 | [줄래](https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:42 |
-| 75 | [The Rose of Betrayal](https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [All Details](https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z) | 3:36 |
+| 74 | [The Rose of Betrayal](https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [All Details](https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z) | 3:36 |
+| 75 | [줄래](https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:42 |
 | 76 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |
 | 77 | [Sad Fate](https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [Big 5](https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN) | 4:04 |
 | 78 | [Hunch](https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:57 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 90 | [Kung Ddari Sha Bah Rah](https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [Are You Ready?](https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8) | 3:54 |
 | 91 | [Poison](https://open.spotify.com/track/2wbJw0ROn1S11TVtjEa4IT) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:43 |
 | 92 | [Two Of Us](https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK) | [Chae Yeon](https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR) | [Virginalness Bloom](https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY) | 3:03 |
-| 93 | [Excuses](https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [핑계](https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39) | 3:39 |
-| 94 | [겁쟁이](https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:43 |
+| 93 | [겁쟁이](https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:43 |
+| 94 | [Excuses](https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [핑계](https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39) | 3:39 |
 | 95 | [애송이의 사랑](https://open.spotify.com/track/12vpE3RdDwSy6D8W1Vp5cm) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa Best](https://open.spotify.com/album/3ABGP2JrFsCzvkfuvSpDDu) | 3:39 |
 | 96 | [Shaky Friendship](https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R) | [Hong Kyung Min](https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr) | [홍경민 Vol\. 3](https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU) | 3:56 |
-| 97 | [우연](https://open.spotify.com/track/1TinopfhqVzeATjuo9aiqu) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh) | 3:58 |
-| 98 | [Invitation](https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:53 |
-| 99 | [I Love You](https://open.spotify.com/track/6NodLa0dtcDgIi1Beaugh1) | [차태현 Cha TaeHyun](https://open.spotify.com/artist/5EOwYQaCYtpejtbBTPQ9Gn) | [Accident](https://open.spotify.com/album/0hpEt4s6zaZyXqoKmbBJ1L) | 3:07 |
+| 97 | [I Love You](https://open.spotify.com/track/6NodLa0dtcDgIi1Beaugh1) | [차태현 Cha TaeHyun](https://open.spotify.com/artist/5EOwYQaCYtpejtbBTPQ9Gn) | [Accident](https://open.spotify.com/album/0hpEt4s6zaZyXqoKmbBJ1L) | 3:07 |
+| 98 | [우연](https://open.spotify.com/track/1TinopfhqVzeATjuo9aiqu) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh) | 3:58 |
+| 99 | [Invitation](https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:53 |
 | 100 | [Unreasonable Reason](https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [이유같지 않은 이유](https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO) | 3:57 |
 
 Snapshot ID: `AAAAALGhkT0/7tXputompWvzjI9T0Nqx`

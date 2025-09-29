@@ -4,7 +4,7 @@
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 18 min
+107 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 | 2024-03-25 |  |
 | [CONTEST](https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 | 2025-07-16 | 2025-07-17 |
 | [CR@SH \(feat\. Travis Scott\)](https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ALL TIME HIGH](https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2) | 2:16 | 2024-11-05 | 2024-11-11 |
-| [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-17 |  |
+| [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-17 | 2025-09-29 |
 | [DA WIZARD](https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:36 | 2025-08-02 |  |
 | [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 | 2024-01-04 |  |
 | [Days Before Rodeo: The Prayer](https://open.spotify.com/track/6TQwgRWmnovDECDrHVOxlY) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:20 | 2024-08-25 | 2024-10-11 |
@@ -79,6 +79,7 @@
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 | 2024-06-24 | 2024-11-15 |
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-03-17 | 2025-07-27 |
 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 | 2024-02-11 | 2025-02-03 |
+| [Pipe Down \(feat\. Travis Scott\)](https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:30 | 2025-09-29 |  |
 | [Portland](https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:56 | 2023-11-10 | 2024-06-12 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2023-11-10 | 2025-03-12 |
 | [Quintana Pt\. 2](https://open.spotify.com/track/7zCVvmyZj2FPCHZ1nVdB3p) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:06 | 2024-08-25 | 2024-10-26 |

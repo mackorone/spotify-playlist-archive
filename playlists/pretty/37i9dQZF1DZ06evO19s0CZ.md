@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,138 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,152 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Almost Hear You Sigh \- Remastered](https://open.spotify.com/track/2r41JRUZ5Cjcx98ARVI0vo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Steel Wheels \(Remastered 2009\)](https://open.spotify.com/album/7yUBkHdrxKHn4a3QhrfEj4) | 4:37 |
 | 50 | [Rocks Off](https://open.spotify.com/track/42o3gy9e8dzBHvQE991ad8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:31 |
 
-Snapshot ID: `aNXXgAAAAADf6GuigrgNi+ls9EBZKV15`
+Snapshot ID: `aNcpAAAAAACcpAR6s1bF+S1KEgzyr+GH`

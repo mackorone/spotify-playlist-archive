@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Музика для приємних осінніх прогулянок 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,221 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,242 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 11 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 |
 | 12 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
 | 13 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 14 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 |
+| 14 | [Alleys of My Mind](https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Black Soil](https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD) | [Alleys of My Mind](https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA) | 3:57 |
 | 15 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
-| 16 | [Alleys of My Mind](https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Black Soil](https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD) | [Alleys of My Mind](https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA) | 3:57 |
+| 16 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 |
 | 17 | [забався](https://open.spotify.com/track/6VNyKMoDGkM1GFOAMb1izH) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [IHRYK](https://open.spotify.com/artist/3N9LWzMGgRlUR9ehu0Qmzv) | [забався](https://open.spotify.com/album/6ImDPICHH57HSqpJrVKHKV) | 2:00 |
 | 18 | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/3NYwBfpXtucYLmt0UehvAg) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 3:46 |
 | 19 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
 | 20 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 21 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
 | 22 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
-| 23 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
-| 24 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 23 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 24 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
 | 25 | [моменти](https://open.spotify.com/track/3vWXpZ1xGI8gi14JunlmUc) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [моменти](https://open.spotify.com/album/2xBr5aCarnvgIpwANLekHC) | 3:24 |
 | 26 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 |
 | 27 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [Марина Круть](https://open.spotify.com/artist/3UkTZC1dnSNR6dkHpvD7xT) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 50 | [An Excuse \- Abbey Road Version](https://open.spotify.com/track/4HKyA6vXYh1gO1AEkJha7Y) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [An Excuse / IF YOU DANCE AGAIN](https://open.spotify.com/album/7eaCbCjzOCvCOMh7aa8xsB) | 2:30 |
 | 51 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
 | 52 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
-| 53 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
-| 54 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
-| 55 | [Сосни](https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Янанебібув](https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh) | 4:31 |
+| 53 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
+| 54 | [Сосни](https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Янанебібув](https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh) | 4:31 |
+| 55 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
 | 56 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
 | 57 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 |
 | 58 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
-| 59 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
-| 60 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
+| 59 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [Марина Круть](https://open.spotify.com/artist/3UkTZC1dnSNR6dkHpvD7xT) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
+| 60 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 
 Snapshot ID: `AAAAAGOpioEj28CKIPYKhXyvsUFzMiow`

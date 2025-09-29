@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,712 likes - 50 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,728 likes - 50 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 8 | [Hamri Atariya](https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc) | [Rita Dev](https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E) | [Hamri Atariya](https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg) | 10:36 |
 | 9 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 10 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 |
-| 11 | [Raga Mand Bhairav](https://open.spotify.com/track/4wYMQoYxttFTyDXFeVIxK6) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 9:19 |
-| 12 | [Raga Tilak Kamod](https://open.spotify.com/track/0xyEZc2ntQg5ss0i8vJ8PF) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 15:05 |
+| 11 | [Raga Tilak Kamod](https://open.spotify.com/track/0xyEZc2ntQg5ss0i8vJ8PF) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 15:05 |
+| 12 | [Raga Mand Bhairav](https://open.spotify.com/track/4wYMQoYxttFTyDXFeVIxK6) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 9:19 |
 | 13 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 14 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |
 | 15 | [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 124 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 26 | [Back To Summer](https://open.spotify.com/track/1ecT8HKw4RnjgGoC63jHXI) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Back To Summer](https://open.spotify.com/album/0Ri4Tg1CvxhvaDKmHtf8X5) | 3:01 |
 | 27 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 28 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 |
-| 29 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 |
-| 30 | [TEN](https://open.spotify.com/track/1eS4LiGfU3kvjAcvF8jNii) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/2ockdJ9rBZfHNf36FU4JyH) | 2:09 |
+| 29 | [TEN](https://open.spotify.com/track/1eS4LiGfU3kvjAcvF8jNii) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/2ockdJ9rBZfHNf36FU4JyH) | 2:09 |
+| 30 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 |
 | 31 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
 | 32 | [All Night & Every Day \(with Rêve\)](https://open.spotify.com/track/7MroW6hLGBS1Fgq9kQ7zL6) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Cutting Through Noise](https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY) | 2:26 |
 | 33 | [On My Way \- Rain or Shine Remix](https://open.spotify.com/track/2z1QmtOJ2qC0XtVL8mMrf7) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/6XBNZbBJp0V0w2y9VAXR2n) | 4:00 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 55 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 |
 | 56 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 |
 | 57 | [Magic Still Exists](https://open.spotify.com/track/0udYwuCYpStSlVouEDS7EW) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:22 |
-| 58 | [Just Because I'm Okay](https://open.spotify.com/track/6czPBedtyYptPzCs9puGhq) | [Harvest Son](https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/1r60ujMAc6UEVCrOtembWK) | 3:17 |
-| 59 | [Conversations With Strangers](https://open.spotify.com/track/4vDKWs9yLXTJz7SBSO0jsP) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:35 |
-| 60 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 |
+| 58 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 |
+| 59 | [Just Because I'm Okay](https://open.spotify.com/track/6czPBedtyYptPzCs9puGhq) | [Harvest Son](https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/1r60ujMAc6UEVCrOtembWK) | 3:17 |
+| 60 | [Conversations With Strangers](https://open.spotify.com/track/4vDKWs9yLXTJz7SBSO0jsP) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:35 |
 | 61 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
 | 62 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 |
 | 63 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 |
@@ -130,7 +130,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 120 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
 | 121 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
 | 122 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
-| 123 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
-| 124 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 123 | [Adaline](https://open.spotify.com/track/0Oq8ub8pcJHs30ct3eo5eM) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Perfect Strangers](https://open.spotify.com/album/1GI0272y3GSL2QxSvh71vn) | 3:17 |
+| 124 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
+| 125 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 126 | [Parachute](https://open.spotify.com/track/4lViHb3L4irBiH26TOJFsj) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/4gzIENtoG03PRegwArlMA6) | 3:21 |
 
-Snapshot ID: `Ab9YHgAAAADb4yoZ4JGIkTfReVKBIGGA`
+Snapshot ID: `Ab9dyAAAAAA4j/cAa4B+i0428uDCcz3V`

@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 204248,
+  "num_followers": 204259,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
     },
     {
+      "added_at": "2023-12-20 04:44:18",
+      "album": {
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
+    },
+    {
       "added_at": "2024-08-22 17:06:21",
       "album": {
         "name": "Organs",
@@ -521,22 +537,6 @@
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
     },
     {
-      "added_at": "2023-12-20 04:44:18",
-      "album": {
-        "name": "Agitprop Alterna",
-        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 314059,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
-    },
-    {
       "added_at": "2024-05-03 16:59:29",
       "album": {
         "name": "The Turning Ground",
@@ -551,26 +551,6 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2023-05-26 18:09:55",
-      "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 311562,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
     },
     {
       "added_at": "2023-10-22 04:22:10",
@@ -599,6 +579,26 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
+    },
+    {
+      "added_at": "2023-05-26 18:09:55",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 311562,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
     },
     {
       "added_at": "2024-03-21 22:34:34",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
     },
     {
-      "added_at": "2023-06-02 00:24:20",
-      "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -879,6 +863,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2023-06-02 00:24:20",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -929,26 +929,6 @@
       "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
     },
     {
-      "added_at": "2023-08-15 18:36:31",
-      "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
-    },
-    {
       "added_at": "2024-03-22 00:00:20",
       "album": {
         "name": "Follow The Light",
@@ -979,6 +959,26 @@
       "duration_ms": 217733,
       "name": "Dry",
       "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
+    },
+    {
+      "added_at": "2023-08-15 18:36:31",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Evening Mood",
-        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 384589,
-      "name": "Evening Mood",
-      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
       "added_at": "2024-04-18 19:57:51",
       "album": {
         "name": "The Games You Play",
@@ -1047,6 +1031,22 @@
       "duration_ms": 154578,
       "name": "The Games You Play",
       "url": "https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
     },
     {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
       "added_at": "2023-03-31 19:24:48",
       "album": {
         "name": "Counter Melodies",
@@ -1377,20 +1393,20 @@
       "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
-      "added_at": "2023-01-03 23:48:36",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1423,22 +1439,6 @@
       "duration_ms": 215733,
       "name": "The Presence",
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
-      "added_at": "2024-08-16 20:06:32",
-      "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
       "added_at": "2023-03-24 15:38:14",
       "album": {
         "name": "A Time To Blossom",
@@ -1599,6 +1583,22 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
+    },
+    {
+      "added_at": "2024-08-16 20:06:32",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2023-08-24 03:26:17",
@@ -1657,6 +1657,22 @@
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Sekwar",
+      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
       "added_at": "2024-08-16 20:06:32",
       "album": {
         "name": "Sur La Terre",
@@ -1689,36 +1705,20 @@
       "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-05-22 18:30:22",
       "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
       },
       "artists": [
         {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Sekwar",
-      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
-    },
-    {
-      "added_at": "2023-12-22 16:06:56",
-      "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Nodos",
-      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     }
   ],
   "unique_name": "Oblique",

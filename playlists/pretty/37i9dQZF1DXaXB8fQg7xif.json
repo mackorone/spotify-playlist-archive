@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 9176964,
+  "num_followers": 9176573,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAADu3pwDl9ocm5NZUg/aFVkXF/eFU",
   "tracks": [
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -763,6 +763,30 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "duration_ms": 120578,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        },
-        {
-          "name": "Bobby Harvey",
-          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
-        }
-      ],
-      "duration_ms": 120578,
-      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Can't Decide",
         "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "REHAB",
+        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 195003,
+      "name": "REHAB",
+      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "I'm Not Alone (MPH Remix)",
         "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 213333,
       "name": "I'm Not Alone - MPH Remix",
       "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "REHAB",
-        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 195003,
-      "name": "REHAB",
-      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "Fancy $hit",
+        "url": "https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Fancy $hit",
+      "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "TESLA",
         "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Fancy $hit",
-        "url": "https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "Fancy $hit",
-      "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Smack Yo'",
         "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Slow Burner",
-        "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Original Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 212647,
-      "name": "Slow Burner",
-      "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -2143,6 +2123,26 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Slow Burner",
+        "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Slow Burner",
+      "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2343,6 +2343,46 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "Galvanize (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 223618,
+      "name": "Galvanize - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -2375,42 +2415,18 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
         }
       ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Galvanize (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 223618,
-      "name": "Galvanize - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
+      "duration_ms": 194198,
+      "name": "Versatile",
+      "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2431,22 +2447,6 @@
       "duration_ms": 124545,
       "name": "Afters",
       "url": "https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Versatile",
-        "url": "https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Versatile",
-      "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2527,26 +2527,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "London's On Fire",
         "url": "https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB"
       },
@@ -2567,6 +2547,26 @@
       "duration_ms": 179076,
       "name": "London's On Fire",
       "url": "https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2619,26 +2619,18 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2663,18 +2655,26 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
       "artists": [
         {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2025-09-26 04:00:38",

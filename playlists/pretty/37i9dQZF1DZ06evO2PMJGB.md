@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,994 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,981 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 16 | [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 |
 | 17 | [ATENÇÃO](https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:15 |
 | 18 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 |
-| 19 | [Uñas Afiladas](https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:27 |
-| 20 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 19 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 20 | [Uñas Afiladas](https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:27 |
 | 21 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 |
 | 22 | [Carnificina](https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:20 |
 | 23 | [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 47 | [Rough](https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 1:42 |
 | 48 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 
-Snapshot ID: `aNXXgAAAAAAzUv1TjtWI9GD9/5O+g+uI`
+Snapshot ID: `aNcpAAAAAACzp4LFFs0Jhn14hnG5Sy86`

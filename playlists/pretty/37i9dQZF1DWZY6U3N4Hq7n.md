@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,957 likes - 80 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,048 likes - 80 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 69 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
 | 70 | [Jungle Love](https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [Ice Cream Castle](https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4) | 5:33 |
 | 71 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
-| 72 | [Nasty](https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:03 |
-| 73 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:39 |
+| 72 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:39 |
+| 73 | [Nasty](https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:03 |
 | 74 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
 | 75 | [Double Dutch Bus](https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo) | [Frankie Smith](https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF) | [Children Of Tomorrow](https://open.spotify.com/album/5jEBGG3MJ5gaEteo9EaqiI) | 5:20 |
 | 76 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 |

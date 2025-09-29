@@ -4,7 +4,7 @@
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-94 songs - 6 hr 13 min
+96 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Emotions](https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:08 | 2023-07-28 |  |
 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:19 | 2023-07-28 |  |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2023-07-28 |  |
-| [Forever](https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:00 | 2023-08-01 |  |
+| [Forever](https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:00 | 2023-08-01 | 2025-09-29 |
 | [Hark! The Herald Angels Sing / Gloria \(In Excelsis Deo\)](https://open.spotify.com/track/74VQqRHWXDUyErPqwdeG5D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:59 | 2023-12-21 | 2023-12-30 |
 | [Heartbreaker \(feat\. JAY\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 | 2023-07-28 |  |
 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 | 2023-07-28 | 2023-10-11 |
@@ -46,6 +46,7 @@
 | [I Stay In Love](https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:32 | 2023-07-28 |  |
 | [I Still Believe](https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [I Still Believe EP](https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt) | 3:56 | 2023-07-28 |  |
 | [I Want To Know What Love Is](https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:27 | 2023-07-28 |  |
+| [I Won’t Allow It](https://open.spotify.com/track/09M1ZP4nidJk9Ev12j7Mh6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:26 | 2025-09-29 |  |
 | [I'll Be Lovin' U Long Time](https://open.spotify.com/track/1PzVLh1uoq5pAUnqNQElQq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:01 | 2023-07-28 | 2025-09-28 |
 | [I'll Be There \(feat\. Trey Lorenz\) \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5t1OvYkhjQzWrxlE3UcDb6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [\#1's](https://open.spotify.com/album/4brWwgz4lEG49fVDXajWvL) | 4:23 | 2023-07-28 |  |
 | [In Your Feelings](https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:22 | 2025-09-28 |  |
@@ -61,7 +62,8 @@
 | [Mi](https://open.spotify.com/track/5JB0ErYyuREMMEGLyUjXih) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 2:49 | 2025-09-28 |  |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 | 2023-12-21 | 2023-12-30 |
 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 | 2023-07-28 |  |
-| [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 | 2023-07-28 |  |
+| [My Love](https://open.spotify.com/track/5gLGRHJl7ObnO6PC2tg78M) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:50 | 2025-09-29 |  |
+| [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 | 2023-07-28 | 2025-09-29 |
 | [My Prayer](https://open.spotify.com/track/12Xk0yMK6GJEmz1DufsV9H) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 2:50 | 2023-09-15 | 2023-11-11 |
 | [Never Too Far](https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:21 | 2023-12-13 | 2025-06-08 |
 | [Nothing Is Impossible](https://open.spotify.com/track/39Lqs5mzGnxBn2GwGGzjap) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:22 | 2025-09-28 |  |

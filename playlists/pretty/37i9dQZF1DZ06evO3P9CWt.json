@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280490,
+  "num_followers": 280473,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADNsWALlIoUrORQJaS793sm",
+  "snapshot_id": "aNcpAAAAAACFRATN4QAxmfC/YX898G8s",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quem Manda em Mim",
+        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+      },
+      "artists": [
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quem Manda em Mim",
+      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 206736,
+      "name": "Pra Te Esquecer",
+      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -499,42 +535,6 @@
       "duration_ms": 247037,
       "name": "Descontrolada - Cyberkills Remix",
       "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 206736,
-      "name": "Pra Te Esquecer",
-      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem Manda em Mim",
-        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
-      },
-      "artists": [
-        {
-          "name": "Zaynara",
-          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Quem Manda em Mim",
-      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Filipe Guerra",
+          "url": "https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K"
+        }
+      ],
+      "duration_ms": 268797,
+      "name": "After - Filipe Guerra Remix",
+      "url": "https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 231573,
       "name": "I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Filipe Guerra",
-          "url": "https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K"
-        }
-      ],
-      "duration_ms": 268797,
-      "name": "After - Filipe Guerra Remix",
-      "url": "https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE"
     },
     {
       "added_at": null,

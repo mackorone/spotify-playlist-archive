@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 598134,
+  "num_followers": 598138,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-09-12 16:00:13",
       "album": {
-        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
-        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 194672,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
-    },
-    {
-      "added_at": "2025-09-12 16:00:13",
-      "album": {
         "name": "Sinking Feeling",
         "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 227529,
       "name": "Sinking Feeling",
       "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
+    },
+    {
+      "added_at": "2025-09-12 16:00:13",
+      "album": {
+        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 194672,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
     },
     {
       "added_at": "2025-09-12 16:00:13",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-09-12 16:00:13",
       "album": {
+        "name": "these things happen",
+        "url": "https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P"
+      },
+      "artists": [
+        {
+          "name": "saturdays at your place",
+          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
+        }
+      ],
+      "duration_ms": 90860,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
+    },
+    {
+      "added_at": "2025-09-12 16:00:13",
+      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 176008,
       "name": "X\u2019s For Eyes",
       "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
-    },
-    {
-      "added_at": "2025-09-12 16:00:13",
-      "album": {
-        "name": "these things happen",
-        "url": "https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P"
-      },
-      "artists": [
-        {
-          "name": "saturdays at your place",
-          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
-        }
-      ],
-      "duration_ms": 90860,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
     },
     {
       "added_at": "2025-09-12 16:00:13",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-09-12 16:00:13",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
-    },
-    {
-      "added_at": "2025-09-12 16:00:13",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 195012,
       "name": "Under the Influence(r)",
       "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2025-09-12 16:00:13",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
     },
     {
       "added_at": "2025-09-12 16:00:13",

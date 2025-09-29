@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 302609,
       "name": "Dil Kaa Jo Haal Hai",
       "url": "https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm"
@@ -8624,7 +8624,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 140250,
       "name": "High On You",
       "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
@@ -10974,7 +10974,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 306173,
       "name": "Jo Tere Sang",
       "url": "https://open.spotify.com/track/0kYBzFJ5a2Jozi6cI4y9Bp"
@@ -14742,6 +14742,24 @@
     {
       "album": {
         "name": "Table No. 21 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0qg01omGy5c6MhdiwMhqcW"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200120,
+      "name": "Mann Mera",
+      "url": "https://open.spotify.com/track/0mwAlZqPUWpZJIut93y40W"
+    },
+    {
+      "album": {
+        "name": "Table No. 21 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ"
       },
       "artists": [
@@ -14752,7 +14770,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 200120,
       "name": "Mann Mera",
       "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
@@ -14932,7 +14950,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
@@ -20582,7 +20600,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
@@ -21066,7 +21084,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
@@ -21454,7 +21472,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 175138,
       "name": "Shaky",
       "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
@@ -23240,7 +23258,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -23270,7 +23288,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -27054,7 +27072,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"

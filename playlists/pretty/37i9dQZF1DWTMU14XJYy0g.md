@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Barbi Recanati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,154 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,138 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Colmena](https://open.spotify.com/track/3didqbZlbcOd3tEaLreWtp) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Colmena](https://open.spotify.com/album/4rSdMBUFUJDmj6lYa0Jik6) | 4:18 |
 | 100 | [Misterios](https://open.spotify.com/track/6rALkbf24SPVsgzAJnK0jo) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Misterios](https://open.spotify.com/album/3Pn9aDwP53TlepfgSZaWRt) | 2:54 |
 
-Snapshot ID: `AAAAABYTeXTpNSNIdV/RyoChc3Ml7NaR`
+Snapshot ID: `AAAAANBJHtxsYwPjkFN1sTSh6ltd29D7`

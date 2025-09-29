@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-406 songs - 1 day 2 hr 31 min
+407 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [For A Fool](https://open.spotify.com/track/2QqV8LqVK6lpw0ZXdIe3vL) | [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [For A Fool](https://open.spotify.com/album/70vLcV2gvMiSUIrfNMI45J) | 3:00 | 2021-07-24 | 2023-05-28 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-07-28 |  |
 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 | 2023-08-11 | 2023-09-28 |
+| [Free](https://open.spotify.com/track/0kXBDqX5PVRqqWziPgkNrw) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/4C5bvXHBF9VZlQFE0z2NLt) | 3:56 | 2025-09-26 |  |
 | [Free \(Do What U Want\)](https://open.spotify.com/track/6lVdhbN1xING12E926vWwI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Free \(Do What U Want\) \(feat\. Jules Buckley\)](https://open.spotify.com/album/06ZWcaFN02Mq0IR3tjq5vt) | 3:44 | 2023-05-19 |  |
 | [Freeway \(with Estelle\)](https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Freeway \(with Estelle\)](https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ) | 3:22 | 2023-05-19 | 2025-07-29 |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-05-19 |  |
@@ -231,7 +232,7 @@
 | [Magic](https://open.spotify.com/track/4oJF0tKuwU26s6MZkQ2ahU) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I) | [Magic](https://open.spotify.com/album/6qc6UpI52MHNnisCAZkArm) | 3:22 | 2023-05-26 | 2023-06-11 |
 | [Magnifique](https://open.spotify.com/track/1OP6p9TKmaodXmWzmAUutq) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Magnifique](https://open.spotify.com/album/3GYGoKojtPlcQYtxGPXWR5) | 3:48 | 2025-01-31 | 2025-03-20 |
 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq) | 3:13 | 2023-05-19 | 2024-03-09 |
-| [make luv in the sun](https://open.spotify.com/track/2nf1p6d0kqouWJ6Xz1A7H1) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [make luv in the sun](https://open.spotify.com/album/63fnJ08mH8Jf4hRExAb3Wf) | 2:29 | 2025-09-26 |  |
+| [make luv in the sun](https://open.spotify.com/track/2nf1p6d0kqouWJ6Xz1A7H1) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [make luv in the sun](https://open.spotify.com/album/63fnJ08mH8Jf4hRExAb3Wf) | 2:29 | 2025-09-26 | 2025-09-29 |
 | [Mama Wanna Dance](https://open.spotify.com/track/6oZJ7DOtCP5mJUvkOgdfse) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Mama Wanna Dance](https://open.spotify.com/album/2lCAdFaQvCbBSTzhXEN6K8) | 5:56 | 2024-09-06 | 2024-09-24 |
 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |
 | [Maybe In Another Life \- Bosq Sunset Boogie Mix](https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Maybe In Another Life](https://open.spotify.com/album/5FkZt02jeeDcZXjHukmpIG) | 3:39 | 2025-01-31 | 2025-03-30 |

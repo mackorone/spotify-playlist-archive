@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,766 likes - 46 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,771 likes - 46 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Porsche](https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Porsche](https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5) | 2:52 |
 | 2 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 |
 | 3 | [Introduction](https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:25 |
-| 4 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
-| 5 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
+| 4 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
+| 5 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
 | 6 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 7 | [Kilo](https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:12 |
 | 8 | [My Brother](https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:57 |
 | 9 | [Wire](https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 | 10 | [Mario](https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:14 |
-| 11 | [Try](https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 2:13 |
+| 11 | [Gbedu](https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:47 |
 | 12 | [Controlla](https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:53 |
 | 13 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 |
 | 14 | [Eko](https://open.spotify.com/track/34THJ2Fhw8dgLBCb1fMyvG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:31 |
-| 15 | [Gbedu](https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:47 |
+| 15 | [Try](https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 2:13 |
 | 16 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 |
 | 17 | [Good Life](https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y) | [Marleykiddo](https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Good Life](https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK) | 2:52 |
 | 18 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 23 | [Pay Me](https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI) | [Panaache](https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Pay Me](https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll) | 2:07 |
 | 24 | [Lock Up](https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:14 |
 | 25 | [Jericho](https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:32 |
-| 26 | [Escober](https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP) | [HypemanDJ Pablo](https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Escober](https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK) | 3:03 |
-| 27 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
+| 26 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
+| 27 | [Escober](https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP) | [HypemanDJ Pablo](https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Escober](https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK) | 3:03 |
 | 28 | [Good Life](https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:40 |
 | 29 | [Motivate](https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:41 |
 | 30 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 45 | [TOMIWA](https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [TOMIWA](https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx) | 3:04 |
 | 46 | [Basic](https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 4:38 |
 
-Snapshot ID: `aNXXgAAAAABHFEiSf+yTotdbFQVQHjh1`
+Snapshot ID: `aNcpAAAAAABCbbB1BPogXVRtzGVb1nfN`

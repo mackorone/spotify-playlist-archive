@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,684 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,699 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [第57次取消发送](https://open.spotify.com/track/2xYrGeWUjwGvB0KMAfUFSd) | [菲菲公主](https://open.spotify.com/artist/64kT1WWPbIyJcOfNrR2RPD) | [第57次取消发送](https://open.spotify.com/album/56rVxwVN8ymIembS2chjI9) | 3:00 |
 | 50 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
 
-Snapshot ID: `MGtVeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGykoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 239695,
+  "num_followers": 239738,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "MALEDUCADO",
-        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 159548,
-      "name": "MALEDUCADO",
-      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "Volver Al Futuro",
         "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 204102,
       "name": "Volver Al Futuro",
       "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "MALEDUCADO",
+        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 159548,
+      "name": "MALEDUCADO",
+      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
+        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
+        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Labios de Cereza 2",
+      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
         "name": "ALFA & OMEGA",
         "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
-        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
-        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Labios de Cereza 2",
-      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "Los Collares",
         "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "Lejos Estamos Mejor",
-        "url": "https://open.spotify.com/album/6iDt1S8DkyOAa7sOZ4oWM0"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "Lejos Estamos Mejor",
-      "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "Lejos Estamos Mejor",
+        "url": "https://open.spotify.com/album/6iDt1S8DkyOAa7sOZ4oWM0"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "Lejos Estamos Mejor",
+      "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "Seg\u00fan Qui\u00e9n",
         "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 194518,
       "name": "El Tsurito",
       "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Sin Evidencia",
+      "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 173586,
       "name": "Eres Ese Algo",
       "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
-        "name": "En Preparaci\u00f3n",
-        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Sin Evidencia",
-      "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -2087,6 +2087,26 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 195300,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -2119,26 +2139,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 195300,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "En Paris",
         "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
       },
@@ -2155,34 +2155,6 @@
       "duration_ms": 162795,
       "name": "En Paris",
       "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
-        "name": "Infiltrados",
-        "url": "https://open.spotify.com/album/4WGY1APmL23wMRMXQlK9Wq"
-      },
-      "artists": [
-        {
-          "name": "Efecto SR",
-          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Infiltrados",
-      "url": "https://open.spotify.com/track/3XOETycmR1qWPgChIki7zx"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -2219,6 +2191,34 @@
       "duration_ms": 163341,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "Infiltrados",
+        "url": "https://open.spotify.com/album/4WGY1APmL23wMRMXQlK9Wq"
+      },
+      "artists": [
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Infiltrados",
+      "url": "https://open.spotify.com/track/3XOETycmR1qWPgChIki7zx"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
       "added_at": "2025-09-24 08:47:10",
@@ -2463,6 +2463,26 @@
     {
       "added_at": "2025-09-24 08:47:10",
       "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2025-09-24 08:47:10",
+      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -2499,26 +2519,6 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
-    },
-    {
-      "added_at": "2025-09-24 08:47:10",
-      "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "added_at": "2025-09-24 08:47:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,109 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,120 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 |
 | 50 | [You Lay A Whole Lot Of Love On Me](https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:48 |
 
-Snapshot ID: `aNXXgAAAAADzhAV+0WavwrdJs+9nLITX`
+Snapshot ID: `aNcpAAAAAAC3ZVCZajipVXxJBo3yCHRB`

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-814 songs - 1 day 15 hr 28 min
+816 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Gentle Climb](https://open.spotify.com/track/4RjeUqphmFXSr7gG3IWwaG) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Climb](https://open.spotify.com/album/0GVvceBCnVEvxM8EZl7DbR) | 2:33 | 2024-01-17 | 2024-07-12 |
 | [Gentle Eclipse](https://open.spotify.com/track/49W8j7bgx9fOSBZEdnYFHP) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Gentle Eclipse](https://open.spotify.com/album/7GngdrkCPVNlmgrXdVhweO) | 2:24 | 2025-02-14 |  |
 | [Gentle Stillness](https://open.spotify.com/track/4FOSbfL1sThoUEkHKCPuud) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Gentle Stillness](https://open.spotify.com/album/3xQHvUvxrvCAzLzJieWclN) | 2:36 | 2025-07-17 |  |
+| [Gentle Twilight](https://open.spotify.com/track/7slg7kR2o4AjQiD5tPZFTn) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Gentle Twilight](https://open.spotify.com/album/0JYLeD8c83WY4XImvRjEFj) | 2:31 | 2025-09-23 |  |
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2023-03-23 | 2024-02-09 |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2023-03-23 | 2023-05-06 |
 | [Glass Moon](https://open.spotify.com/track/49IE3TQJRi47b0lXpznyEz) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Glass Moon](https://open.spotify.com/album/70Nlj9Y0KOnYEEhjLEbk5a) | 2:39 | 2025-09-23 |  |
@@ -427,7 +428,7 @@
 | [Loch](https://open.spotify.com/track/07R5BJJ4EHz3jg2e06NCzz) | [Emmaunel Chambers](https://open.spotify.com/artist/0owKTGhOlB0d46z80eTfL4) | [Artic Ocean](https://open.spotify.com/album/2zOxDjCGx8WmggdiMlXDkO) | 2:27 | 2023-03-23 | 2024-01-18 |
 | [Lonely House](https://open.spotify.com/track/37ae1nlyrk8DUXemDLt9GL) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Lonely House](https://open.spotify.com/album/5xHsEN9npP7I8wrVlDOC2E) | 2:46 | 2025-02-04 |  |
 | [Longing](https://open.spotify.com/track/1ONolOLYjM977hgtqKzXmJ) | [Joaquin Mans](https://open.spotify.com/artist/5JBXyHBJYZCIHMQXee1sMm) | [Longing](https://open.spotify.com/album/2rK7rji9Qxafhao5PFXtu5) | 2:12 | 2023-03-23 | 2024-01-18 |
-| [Look To The East](https://open.spotify.com/track/5ypeecxfih2hBteQ4DWPY6) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Look To The East](https://open.spotify.com/album/2i7yS9xCM8vcnJbGoVNI6T) | 2:28 | 2024-07-15 |  |
+| [Look To The East](https://open.spotify.com/track/5ypeecxfih2hBteQ4DWPY6) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Look To The East](https://open.spotify.com/album/2i7yS9xCM8vcnJbGoVNI6T) | 2:28 | 2024-07-15 | 2025-09-29 |
 | [Lost Contact With Life](https://open.spotify.com/track/6GDNugcIhv8fEOlZuAkYjt) | [Zenith Symphony](https://open.spotify.com/artist/5J3D7hOfD1KRtOHyYUIdDP) | [Lost Contact With Life](https://open.spotify.com/album/19TE0mv7vfrIpnpcC0Eqih) | 3:24 | 2024-04-05 | 2024-07-12 |
 | [Lost in Midnight Blue](https://open.spotify.com/track/5nirCNBBC16XYO7TRlDupj) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Lost in Midnight Blue](https://open.spotify.com/album/5BY9mwH09wXka7PU1RZV1p) | 2:48 | 2025-05-07 | 2025-08-08 |
 | [Lost In Time](https://open.spotify.com/track/00zSGhhSEVgy6IzuS7gl65) | [Miyagin](https://open.spotify.com/artist/6kJRGOaK58B33dKNOPPw4d) | [Lost In Time](https://open.spotify.com/album/2MzV9uwSht1BGWKAWZWUQb) | 3:05 | 2024-05-04 | 2024-12-06 |
@@ -654,7 +655,7 @@
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2023-03-23 | 2024-02-09 |
 | [Singularity](https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Singularity](https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK) | 2:50 | 2024-05-04 | 2025-03-05 |
 | [Sky & Sea](https://open.spotify.com/track/4bRFHEiobRkNS6C1bmPxuB) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Sky & Sea](https://open.spotify.com/album/6FA9uYzacOsCQPPTERRzP4) | 2:53 | 2024-02-08 | 2024-07-13 |
-| [Skyfold](https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Skyfold](https://open.spotify.com/album/2fPUmnWD9iXgRHsYBLOaAQ) | 2:45 | 2025-06-12 |  |
+| [Skyfold](https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Skyfold](https://open.spotify.com/album/2fPUmnWD9iXgRHsYBLOaAQ) | 2:45 | 2025-06-12 | 2025-09-29 |
 | [Sleep Infusion](https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Sleep Infusion](https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW) | 3:06 | 2024-12-17 | 2025-09-21 |
 | [Sleep Meridian](https://open.spotify.com/track/6p0QQYKH786hoZYn1Rm9S5) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Sleep Meridian](https://open.spotify.com/album/6RH1z7gdCq0PUyOmtvBWuE) | 3:21 | 2025-03-27 | 2025-06-26 |
 | [Sleeping Asteroid](https://open.spotify.com/track/4ku5ZI6yCAvTBgEUvoVc5R) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Sleeping Asteroid](https://open.spotify.com/album/4TTHB2J83pa337ICnoYQlu) | 2:57 | 2023-03-23 | 2024-01-18 |
@@ -759,6 +760,7 @@
 | [Timeframe](https://open.spotify.com/track/4SuMhk4CgYIz3pPKRIXHFp) | [Sailors Of The 7 Seas](https://open.spotify.com/artist/64u292UVi3Zlu0Dl9svsMb) | [Timeframe](https://open.spotify.com/album/7BIGjdAsTOcMIQn12For8s) | 3:04 | 2023-03-23 | 2024-02-09 |
 | [Timeless Glow](https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Timeless Glow](https://open.spotify.com/album/5XA7ddkuhLXLq0mxjh8cx4) | 3:32 | 2025-02-14 | 2025-05-26 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |
+| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |
 | [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 | 2025-02-07 |

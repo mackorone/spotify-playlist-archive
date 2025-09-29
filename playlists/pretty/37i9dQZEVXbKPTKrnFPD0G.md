@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,547 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,577 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 |
 | 50 | [Entra En Mi vida / La De La Mala Suerte \- En Vivo](https://open.spotify.com/track/0mYdCMOJH2nvHXx9VLzVBl) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Entra En Mi Vida / La De La Mala Suerte \(En Vivo\)](https://open.spotify.com/album/3ULJmOsz4m4VafxGGXsDWB) | 3:15 |
 
-Snapshot ID: `MGtVeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGykoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

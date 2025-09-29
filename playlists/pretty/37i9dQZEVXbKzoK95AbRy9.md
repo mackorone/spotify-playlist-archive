@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,177 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,252 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Um Maluco Cowboy \- Ao Vivo](https://open.spotify.com/track/4PCK1yo22yS5BzE5Uy4ua1) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Isso É CountryBeat, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/46cha1cSOHOqrTUJ89dIF0) | 1:57 |
 | 50 | [Veneno \- Ao Vivo](https://open.spotify.com/track/2QUl20UtEsH85livMYnbQr) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Acústico, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/4PCWrE06AezR84OPLuHyPI) | 2:58 |
 
-Snapshot ID: `MGtVeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGykoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

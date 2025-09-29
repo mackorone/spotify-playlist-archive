@@ -4,12 +4,13 @@
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 28 min
+59 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cada Rato](https://open.spotify.com/track/5CI1WxI7KbzNsVjeO80Asi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:11 | 2022-06-01 |  |
+| [A Cada Rato](https://open.spotify.com/track/5CI1WxI7KbzNsVjeO80Asi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:11 | 2022-06-01 | 2025-09-29 |
 | [A Cada Rato](https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:40 | 2022-06-01 |  |
+| [Amarga Derrota](https://open.spotify.com/track/1RiGZT9qAIV8JsftE15KaU) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:32 | 2025-09-29 |  |
 | [Arrodillate](https://open.spotify.com/track/34waBSd6B1MQoGbjbuZ507) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:20 | 2022-06-01 | 2022-09-25 |
 | [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 | 2022-06-01 |  |
 | [Cuatro Milpas \- En Vivo](https://open.spotify.com/track/3A9KTrHoiKbiDjllgHWgbg) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk) | 3:34 | 2024-09-28 |  |

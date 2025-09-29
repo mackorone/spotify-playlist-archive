@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,583 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,604 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 24 | [Sabor Sabor \- Live](https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 5:20 |
 | 25 | [Tengo Ganas \- Live at MSG Version](https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Live At Madison Square Garden](https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ) | 4:35 |
 | 26 | [Detalles \- Live](https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:41 |
-| 27 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
-| 28 | [Tu Cariñito \- Live](https://open.spotify.com/track/2WxPRJ2zsx5kvmkMFmvgiQ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 8:09 |
+| 27 | [Tu Cariñito \- Live](https://open.spotify.com/track/2WxPRJ2zsx5kvmkMFmvgiQ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 8:09 |
+| 28 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
 | 29 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
 | 30 | [Idilio \- Live](https://open.spotify.com/track/4ykdGFQlWaLMYfvx40DgbY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideno Live! Puerto Rico 1993](https://open.spotify.com/album/6f7TM6QbJtF94E4vnchGle) | 7:03 |
 | 31 | [Lobo Domesticado "En Vivo"](https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [40 Anniversary \(Live Hits\)](https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL) | 4:46 |

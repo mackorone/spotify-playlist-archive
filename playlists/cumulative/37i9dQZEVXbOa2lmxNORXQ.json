@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
@@ -11217,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "GUAIA",
+        "url": "https://open.spotify.com/album/2Sl4uHdm7F5vX6mZPhEO6c"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "GUAIA",
+      "url": "https://open.spotify.com/track/4RLpkB6wWcFQyT0KDcxVNW"
+    },
+    {
+      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK"
       },
@@ -14382,7 +14400,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 244000,
       "name": "Las Piponas (Remix)",
       "url": "https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6"
@@ -19252,7 +19270,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 156470,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/3YSkiK0JAaWvZVh0rFa3ja"
@@ -20124,7 +20142,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 167180,
       "name": "Papasito",
       "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
@@ -25142,7 +25160,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/0JY2QXSvlpA8DZwgaAYWlY"

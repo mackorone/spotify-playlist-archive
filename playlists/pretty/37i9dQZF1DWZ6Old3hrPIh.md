@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Zeb Bangash, Noorima Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,314 likes - 61 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,324 likes - 61 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

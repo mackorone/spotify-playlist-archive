@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78105,
+  "num_followers": 78112,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
-        "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
-        "url": "https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
-      "url": "https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4"
-    },
-    {
-      "added_at": "2025-08-26 15:00:26",
-      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8 (Cover)",
         "url": "https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 235800,
       "name": "\u30aa\u30ec\u30f3\u30b8 (Cover)",
       "url": "https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7"
+    },
+    {
+      "added_at": "2025-08-26 15:00:26",
+      "album": {
+        "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
+        "url": "https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
+      "url": "https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u8a93\u3044\u306eWingbeat",
-      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+      "duration_ms": 240668,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/4gu8heblIOktVnXvVyg5zu"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
-        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 322546,
-      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
-    },
-    {
-      "added_at": "2025-08-26 15:00:26",
-      "album": {
         "name": "Don't be afraid!",
         "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 266066,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
+    },
+    {
+      "added_at": "2025-08-26 15:00:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
+        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 322546,
+      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 285665,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
+      "duration_ms": 239092,
+      "name": "Symbol IV : Earth",
+      "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 239092,
-      "name": "Symbol IV : Earth",
-      "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"
+      "duration_ms": 285665,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
     },
     {
       "added_at": "2025-08-26 15:00:26",

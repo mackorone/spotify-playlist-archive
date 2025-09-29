@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,043 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,053 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 49 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 |
 | 50 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 |
 | 51 | [Verano En NY](https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Verano En NY](https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu) | 4:05 |
-| 52 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
-| 53 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
+| 52 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
+| 53 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 54 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 55 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 | 56 | [Can't Do Without You](https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl) | 3:56 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3957142,
+  "num_followers": 3956093,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 272200,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -427,34 +427,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+      "duration_ms": 248000,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -475,18 +459,34 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Tanto (Edici\u00f3n Premium)",
         "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 306986,
+      "name": "Coleccionista de Canciones",
+      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 306986,
-      "name": "Coleccionista de Canciones",
-      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2025-07-18 04:00:09",

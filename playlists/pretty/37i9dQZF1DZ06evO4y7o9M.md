@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,071 likes - 47 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,301 likes - 47 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 46 | [Yo Voy A Amarte](https://open.spotify.com/track/2DQWbH7mMQYRuftnYPlfqQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:46 |
 | 47 | [Jueves 10](https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 4:47 |
 
-Snapshot ID: `aNXXgAAAAAC270ALmA1C2oo+Xh5zL4qu`
+Snapshot ID: `aNcpAAAAAABGBTnyhkqn5AfgTkl6cPCs`

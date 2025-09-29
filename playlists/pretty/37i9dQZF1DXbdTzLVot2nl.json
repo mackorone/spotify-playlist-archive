@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 116345,
+  "num_followers": 116354,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "So Excited! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205466,
       "name": "Super Freak",
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "So Excited! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
     },
     {
       "added_at": "2022-06-08 06:25:05",

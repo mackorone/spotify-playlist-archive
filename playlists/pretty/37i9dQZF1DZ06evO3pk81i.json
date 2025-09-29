@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8589,
+  "num_followers": 8595,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACHk3w2zvBmq5Qz0VSwa8Lf",
+  "snapshot_id": "aNcpAAAAAABENq894TP/F2bUIz86RrdY",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poes\u00edas",
         "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
@@ -72,9 +56,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 173426,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/2UmIxJCmMOWSqua4YXG1o7"
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/5U6rulJvT2kOzG2WY98G4Y"
     },
     {
       "added_at": null,
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 212013,
-      "name": "Quiero Ser (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
+      "duration_ms": 173426,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/2UmIxJCmMOWSqua4YXG1o7"
     },
     {
       "added_at": null,
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 144981,
-      "name": "No Hay Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
+      "duration_ms": 212013,
+      "name": "Quiero Ser (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
       "duration_ms": 243666,
       "name": "AMOR DE SUBIDA",
       "url": "https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 144981,
+      "name": "No Hay Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 140755,
-      "name": "Una Noche Nomas",
-      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 189842,
-      "name": "NO TE ENAMORES DE NADIE",
-      "url": "https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 170150,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 189842,
+      "name": "NO TE ENAMORES DE NADIE",
+      "url": "https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM"
     },
     {
       "added_at": null,
@@ -651,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bailando (Live)",
+        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "Bailando - Live",
+      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMOR DE SUBIDA",
         "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
@@ -683,26 +687,6 @@
       "duration_ms": 201706,
       "name": "Te Quiero a Ti (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailando (Live)",
-        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bailando - Live",
-      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
     },
     {
       "added_at": null,

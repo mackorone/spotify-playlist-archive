@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,273 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,265 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 74 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 75 | [party! \(dance alone\)](https://open.spotify.com/track/5Gyk61VF5P3eIJ1dZwI7nh) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:40 |
 | 76 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
-| 77 | [LOSE YOURSELF](https://open.spotify.com/track/5vFQLe2rxYj0N3fOXIxErQ) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [LOSE YOURSELF](https://open.spotify.com/album/16F8h09SzhLCFLC1rBWOJt) | 2:32 |
-| 78 | [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 |
+| 77 | [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 |
+| 78 | [LOSE YOURSELF](https://open.spotify.com/track/5vFQLe2rxYj0N3fOXIxErQ) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [LOSE YOURSELF](https://open.spotify.com/album/16F8h09SzhLCFLC1rBWOJt) | 2:32 |
 | 79 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
 | 80 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 81 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 |
 | 98 | [tell you straight \(Louis The Child’s version\)](https://open.spotify.com/track/3dgAEgBOp9GbvQPLnvXi77) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [tell you straight \(Louis The Child’s version\)](https://open.spotify.com/album/1zGrBJhYNgJwHGh8ApwDi5) | 2:49 |
 | 99 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
-| 100 | [STARLIGHT](https://open.spotify.com/track/1pq0fjYwWtYhWrTNjkVCs7) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [STARLIGHT](https://open.spotify.com/album/5U6PxNsoaS3WTKYcUl0XJq) | 3:12 |
+| 100 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 
 Snapshot ID: `AAAAAMrWLm8WrsqPRXeX+ngKbDnb9J6+`

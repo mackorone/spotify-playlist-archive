@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,506 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,539 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 34 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 35 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
 | 36 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 |
-| 37 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
-| 38 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
+| 37 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
+| 38 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 39 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 |
 | 40 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 |
 | 41 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
-| 42 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
-| 43 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
+| 42 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
+| 43 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
 | 44 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 45 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |
 | 46 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 84 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 |
 | 85 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
 | 86 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 |
-| 87 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
-| 88 | [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 |
+| 87 | [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 |
+| 88 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
 | 89 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 |
 | 90 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
 | 91 | [Steal The Show](https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Steal The Show](https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji) | 3:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 96 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 |
 | 97 | [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 |
 | 98 | [dream\. \(좋은 분위기\)](https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [dream\. \(좋은 분위기\)](https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis) | 3:06 |
-| 99 | [Just Say The Words](https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Just Say The Words](https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV) | 3:10 |
-| 100 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
+| 99 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
+| 100 | [Just Say The Words](https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Just Say The Words](https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV) | 3:10 |
 
 Snapshot ID: `AAAAAPtLYJucm5JacH8SP+lMApqyYf4F`

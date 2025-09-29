@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. for all you rock'n'roll stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,160 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,169 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 31 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 |
 | 32 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
 | 33 | [Reservoir](https://open.spotify.com/track/762XA3FNEU90kTdj2ABSrz) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [PUP](https://open.spotify.com/album/2i0sTsyZZGEGcakLqHFcyw) | 3:16 |
-| 34 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
-| 35 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
+| 34 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
+| 35 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
 | 36 | [Got You](https://open.spotify.com/track/48vErDbNdjwhwGkNUQBoLt) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/78lob7vtivvo4vm41e362A) | 2:18 |
 | 37 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
 | 38 | [Marks To Prove It](https://open.spotify.com/track/5VR7bYgk4TaJ1ZyNScT1sm) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Marks To Prove It](https://open.spotify.com/album/7oHYVWE7EH2WFdZ36N2rEU) | 4:14 |

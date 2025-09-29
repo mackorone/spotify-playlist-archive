@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-962 songs - 2 day 4 hr 34 min
+964 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-31 | 2023-05-17 |
 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 | 2024-12-05 | 2025-01-10 |
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-01-30 | 2025-07-11 |
-| [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 | 2025-09-18 |  |
+| [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 | 2025-09-18 | 2025-09-29 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-16 | 2024-06-07 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-11-03 |
 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 | 2025-07-03 |  |
@@ -424,7 +424,7 @@
 | [Love Insurrection \- Edit](https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 3:32 | 2024-07-18 | 2024-07-27 |
 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 | 2025-08-21 |  |
 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-09-11 | 2025-09-14 |
-| [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 | 2025-03-20 |  |
+| [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 | 2025-03-20 | 2025-09-29 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-27 | 2024-06-05 |
 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 | 2024-06-07 | 2024-08-03 |
 | [Lovely Day, Lovely Place.](https://open.spotify.com/track/53PNdyacMlicwrlb3JCcJd) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [SURF & TURF](https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ) | 3:53 | 2023-06-27 | 2023-07-07 |
@@ -496,6 +496,7 @@
 | [Nonsense](https://open.spotify.com/track/0PfUhlKBLCvQwT2zkN8oK3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Nonsense](https://open.spotify.com/album/5WBDS4AihMRhhKVsqhHBef) | 2:32 | 2025-01-23 | 2025-02-14 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-30 | 2024-03-27 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-01-11 | 2024-01-15 |
+| [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-09-25 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2023-01-31 | 2024-08-21 |
 | [ODYSSEY](https://open.spotify.com/track/6BYUfQgurDttfJg5EddPYl) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ODYSSEY](https://open.spotify.com/album/5EIlrktUwngp4QAnoyduiJ) | 4:17 | 2023-10-17 | 2023-11-10 |
 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2023-01-31 | 2023-02-24 |
@@ -705,6 +706,7 @@
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-05 | 2025-07-11 |
 | [Timetrip in Ginza](https://open.spotify.com/track/1Yep3nQQgmuxWe81vBUoqt) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Timetrip in Ginza](https://open.spotify.com/album/0GcB3G8bifIuqsuPHjDSgl) | 3:43 | 2023-01-31 | 2023-02-03 |
 | [Timing\~タイミング\~](https://open.spotify.com/track/7EoJiTUWO1G7QOqHOHVLfL) | [ブラック・ビスケッツ](https://open.spotify.com/artist/0BwamWEHmgdWwM3AoGxyay) | [LIFE](https://open.spotify.com/album/0a7b5Gka90kgkpxN0HAd2Y) | 4:04 | 2023-01-31 | 2023-02-03 |
+| [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-09-25 |  |
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-10 | 2025-09-19 |
 | [Tokimeki](https://open.spotify.com/track/04t700q0Hehfp88fPpZGAg) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Tokimeki](https://open.spotify.com/album/6GhZqqV9Y1gqGJzDnzmUvb) | 3:32 | 2023-10-03 | 2023-11-18 |
 | [Tokimeki](https://open.spotify.com/track/6XcnEbx3S3eKViLgtpU5Zw) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Tokimeki](https://open.spotify.com/album/6VNHvI9SIGZmoymIlIWkkb) | 3:32 | 2023-09-06 | 2023-10-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,850 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,862 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 23 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
 | 24 | [Took the Children Away](https://open.spotify.com/track/2PolnevtHIyrxe6CjWYpXx) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 5:24 |
 | 25 | [Let The Canefields Burn](https://open.spotify.com/track/7jEIw0bDHTL17fQjaBOLwI) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 5:06 |
-| 26 | [Raining on the Plains](https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW) | [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL), [John Williamson](https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt) | [Beautiful Circle](https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM) | 3:08 |
-| 27 | [Poor Ned](https://open.spotify.com/track/4aSk8MQdAmmKxIUB2V5fMP) | [Redgum](https://open.spotify.com/artist/2FBQIV8BJF5SrvXpziFE2M) | [If You Don't Fight You Lose](https://open.spotify.com/album/1Yrh3gRy435sieNCUzsADr) | 2:46 |
+| 26 | [Poor Ned](https://open.spotify.com/track/4aSk8MQdAmmKxIUB2V5fMP) | [Redgum](https://open.spotify.com/artist/2FBQIV8BJF5SrvXpziFE2M) | [If You Don't Fight You Lose](https://open.spotify.com/album/1Yrh3gRy435sieNCUzsADr) | 2:46 |
+| 27 | [Raining on the Plains](https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW) | [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL), [John Williamson](https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt) | [Beautiful Circle](https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM) | 3:08 |
 | 28 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 29 | [Swingin' Door](https://open.spotify.com/track/1hOmOZUQ9d7GmlXr0p3QQK) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Too Far Gone](https://open.spotify.com/album/5C7S5okhC9fxrsnMaMfBpd) | 3:45 |
 | 30 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 56 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
 | 57 | [A Little More](https://open.spotify.com/track/1MTsJP1zoc3sFiXgrt7uLv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 3:19 |
 | 58 | [What If I Was Willing](https://open.spotify.com/track/0OKjR5SHiBZbYDv0M4pAz4) | [Deep Creek Road](https://open.spotify.com/artist/3k46FD3ZStLNs73TwTgFxV) | [What If I Was Willing](https://open.spotify.com/album/7cPZTDXG4C8cHEEqab4iHw) | 3:30 |
-| 59 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
-| 60 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
+| 59 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
+| 60 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
 | 61 | [Royal Telephone](https://open.spotify.com/track/3ANy5aNWEJScu480jnj11I) | [Jimmy Little](https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97) | [The Definitive Collection](https://open.spotify.com/album/6FaVnrx77ieMJQ05srhqmz) | 2:13 |
 | 62 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 |
 | 63 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |

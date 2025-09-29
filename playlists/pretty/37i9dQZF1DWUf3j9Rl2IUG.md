@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Olamide & Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,681 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,822 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 30 | [Dance No Dance](https://open.spotify.com/track/0D43RMtlkknwMXvu7jE9qn) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [Dance No Dance](https://open.spotify.com/album/3ilHVHlXt4A6qzmU4ack4F) | 2:16 |
 | 31 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
 | 32 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 |
-| 33 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
+| 33 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 34 | [Shake](https://open.spotify.com/track/2Tnj5scf4WyR54SNu3pb9T) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:21 |
 | 35 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
-| 36 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
+| 36 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 37 | [Titi](https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 3:01 |
 | 38 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |
 | 39 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 63 | [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 |
 | 64 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
 | 65 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
-| 66 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 |
-| 67 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
+| 66 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
+| 67 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 |
 | 68 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |
 | 69 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
 | 70 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 |

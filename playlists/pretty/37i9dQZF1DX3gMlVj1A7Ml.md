@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România într\-un playlist realizat alături de Alina Eremia
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,377 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,376 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

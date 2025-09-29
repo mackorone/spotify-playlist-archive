@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,182 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,244 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 19 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 20 | [I Won't Hurt You](https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 2:24 |
 | 21 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
-| 22 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
-| 23 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
+| 22 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
+| 23 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
 | 24 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 25 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 26 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 31 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 32 | [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Wisdom Through Music](https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme) | 5:18 |
 | 33 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
-| 34 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
-| 35 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
+| 34 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
+| 35 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
 | 36 | [Summon The Fire](https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 3:55 |
 | 37 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
 | 38 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 71 | [Fair Chance \- Floating Points Remix](https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Fair Chance \(Floating Points Remix\)](https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB) | 5:08 |
 | 72 | [19\-6 Paris](https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [19\-6 Paris](https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK) | 4:32 |
 | 73 | [Girl](https://open.spotify.com/track/7o1s0OJBJj2PvBTVNBMM3P) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 4:01 |
-| 74 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 |
-| 75 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 |
+| 74 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 |
+| 75 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 |
 
 Snapshot ID: `AAAAAF+Lu4yFvYLmC22IoSA8WqQbPZNn`

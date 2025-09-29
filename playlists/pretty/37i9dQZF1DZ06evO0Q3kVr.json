@@ -1,29 +1,13 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6329,
+  "num_followers": 6328,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAbHG/93wyNz2kUzswHLrvk",
+  "snapshot_id": "aNcpAAAAAAA3mZOyjT8YkGxGu9wCgeNR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 286859,
-      "name": "Tlatelolco",
-      "url": "https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 254466,
       "name": "Viajero",
       "url": "https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 286859,
+      "name": "Tlatelolco",
+      "url": "https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 250868,
-      "name": "Dios Salve a las Bandas",
-      "url": "https://open.spotify.com/track/37lw5GqQU8cOZ86HS0jI9U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 325543,
       "name": "Asi Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/53eMfrcWvyJZwPei8r5kSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 250868,
+      "name": "Dios Salve a las Bandas",
+      "url": "https://open.spotify.com/track/37lw5GqQU8cOZ86HS0jI9U"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 254537,
-      "name": "Dolor de Madre",
-      "url": "https://open.spotify.com/track/7nihNFLsnhZTbRnAKHVFH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 276642,
       "name": "La Calle y Yo",
       "url": "https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 254537,
+      "name": "Dolor de Madre",
+      "url": "https://open.spotify.com/track/7nihNFLsnhZTbRnAKHVFH8"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 311890,
-      "name": "Abran Esa Puerta",
-      "url": "https://open.spotify.com/track/1pRirlWDnqahmM4ankMzLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ataca de Nuevo: En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 407840,
       "name": "A Mi Padre",
       "url": "https://open.spotify.com/track/1udEfRVDwNqLir9Do9trm9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 311890,
+      "name": "Abran Esa Puerta",
+      "url": "https://open.spotify.com/track/1pRirlWDnqahmM4ankMzLn"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 346859,
-      "name": "Exceso de Droga",
-      "url": "https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Camino",
         "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 146893,
       "name": "Trata de Cambiar",
       "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 346859,
+      "name": "Exceso de Droga",
+      "url": "https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 308082,
-      "name": "Reclusorio Barrientos",
-      "url": "https://open.spotify.com/track/1hZXjj7WMINIutzRkvh7wd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 199146,
       "name": "Llamarada de Petate",
       "url": "https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 308082,
+      "name": "Reclusorio Barrientos",
+      "url": "https://open.spotify.com/track/1hZXjj7WMINIutzRkvh7wd"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Guerrillero",
-      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trascendencia",
         "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Guerrillero",
+      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 201680,
       "name": "Redada",
       "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 141893,
-      "name": "Perra Callejera",
-      "url": "https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "Perra Callejera",
+      "url": "https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 236193,
       "name": "Pandillero, Pt. 1",
       "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Mi Amigo Manuel",
-      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Mi Amigo Manuel",
+      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
         "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 318893,
       "name": "Tlaltelolco 68",
       "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Genoma Humano",
-      "url": "https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Genoma Humano",
+      "url": "https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
         "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "El o Ella",
-      "url": "https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 129393,
       "name": "Presentaci\u00f3n",
       "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "El o Ella",
+      "url": "https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8"
     }
   ],
   "unique_name": "This Is Banda Bostik",

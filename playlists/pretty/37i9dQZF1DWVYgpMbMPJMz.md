@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Melissa Hesler of Cageless Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,776 likes - 90 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,663 likes - 90 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,329 songs - 2 day 18 hr 56 min
+1,330 songs - 2 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,7 +599,7 @@
 | [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 | 2025-09-13 | 2025-09-22 |
 | [Her Nerdeysen](https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:29 | 2024-10-12 |  |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-21 | 2024-09-24 |
-| [Her şey Sensin](https://open.spotify.com/track/406NzjjqZlOiFyIvhTGcAQ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Her şey Sensin](https://open.spotify.com/album/448sA39a2V3mKafgqVszK2) | 4:36 | 2025-07-17 |  |
+| [Her şey Sensin](https://open.spotify.com/track/406NzjjqZlOiFyIvhTGcAQ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Her şey Sensin](https://open.spotify.com/album/448sA39a2V3mKafgqVszK2) | 4:36 | 2025-07-17 | 2025-09-29 |
 | [Her Şeyi Yak](https://open.spotify.com/track/4uqlFpMPTKO6uAsX6qvK0l) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Belki Alışman Lazım](https://open.spotify.com/album/5TQ4ZTyFM7FTDpnfSjE54l) | 4:30 | 2021-07-17 | 2021-11-10 |
 | [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 | 2023-06-16 |
 | [Herkesin Bir Derdi Var \(Cerrahpaşa\)](https://open.spotify.com/track/64VsL24YXDx46V9gMCK2CY) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Maranda](https://open.spotify.com/album/3fQb7X41OaZWNmB31gBRsn) | 4:16 | 2025-04-01 | 2025-04-06 |
@@ -1263,6 +1263,7 @@
 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 | 2025-06-28 |  |
 | [Yerle Yeksan](https://open.spotify.com/track/53hT91rbPCM2V5YVHQSc6r) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Yerle Yeksan](https://open.spotify.com/album/0f2SlmXKmMzyQ9hp39b5kN) | 2:54 | 2021-07-18 | 2021-09-07 |
 | [Yetmedi](https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [Yetmedi](https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt) | 1:55 | 2024-08-03 | 2024-11-05 |
+| [Yine Sevebilirim](https://open.spotify.com/track/50Ygo82IfoBCWlo8zBs5Fa) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv), [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Tuna Kiremitçi ve Arkadaşları](https://open.spotify.com/album/7L4riKGVWO2FTzpv5Pt4Bc) | 3:41 | 2025-09-28 |  |
 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-06-15 | 2024-06-20 |
 | [YOK \(Ee daha daha nasılsınız?\)](https://open.spotify.com/track/1CHaheVKXgbu4kkAJov2m8) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS) | [YOK \(Ee daha daha nasılsınız?\)](https://open.spotify.com/album/6Nq2X3vAOrYrGGH8bcZO1c) | 2:32 | 2021-09-08 | 2021-11-17 |
 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-04 | 2023-03-30 |

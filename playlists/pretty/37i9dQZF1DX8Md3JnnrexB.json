@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 213732,
+  "num_followers": 213720,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "I Can't See Myself Leaving You",
+      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
         "name": "Gravy",
         "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 256600,
       "name": "Never Change (feat. Philip Bailey)",
       "url": "https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "I Can't See Myself Leaving You",
-      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2025-06-06 13:10:13",

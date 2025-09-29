@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1014258,
+  "num_followers": 1014216,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184462,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "FDSR",
-        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "FDSR",
-      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 225013,
       "name": "Imaginate",
       "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1447,26 +1447,22 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "MAL DE AMORES",
-        "url": "https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO"
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 210000,
-      "name": "MAL DE AMORES",
-      "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1491,6 +1487,30 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
+        "name": "MAL DE AMORES",
+        "url": "https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "MAL DE AMORES",
+      "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
-        "name": "Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 182075,
-      "name": "Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 215891,
       "name": "911",
       "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
+        "name": "The Sensation",
+        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Qu\u00e9 M\u00e1s Pues",
+      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
         "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
         "url": "https://open.spotify.com/album/6qvGkkeW9g7I2k04lEwGU0"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 207248,
       "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
       "url": "https://open.spotify.com/track/4MWb6mltydQn84NrTm7Gpl"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
-        "name": "The Sensation",
-        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Qu\u00e9 M\u00e1s Pues",
-      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1983,22 +1983,22 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 271548,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
+      "duration_ms": 204906,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
     }
   ],
   "unique_name": "perrear y llorar \ud83e\udd72",

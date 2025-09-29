@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,067 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,100 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 2 | [Ganja Smuggling](https://open.spotify.com/track/5iynCtpEY7mx4ou54tHBPH) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Wa\-Do\-Dem](https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT) | 3:48 |
 | 3 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
 | 4 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
-| 5 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
-| 6 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
+| 5 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
+| 6 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
 | 7 | [Come Over \[Missing You\]](https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Music Again](https://open.spotify.com/album/7JRTrGi5KSTpPQIg7f5DhM) | 3:28 |
 | 8 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
 | 9 | [Revolution](https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Love & Hate](https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls) | 4:22 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 35 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
 | 36 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 | 37 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 6:09 |
-| 38 | [Temperature](https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2012](https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS) | 3:36 |
-| 39 | [Greetings](https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE) | [Half Pint](https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS) | [Half Pint](https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s) | 3:39 |
+| 38 | [Greetings](https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE) | [Half Pint](https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS) | [Half Pint](https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s) | 3:39 |
+| 39 | [Temperature](https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2012](https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS) | 3:36 |
 | 40 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
 | 41 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
 | 42 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 45 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
 | 46 | [Babylon Too Rough](https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz) | [Gregory Isaacs](https://open.spotify.com/artist/4MRDjHgHTne2Ft2oA8JO2x) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 2:55 |
 | 47 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
-| 48 | [No Letting Go](https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:21 |
-| 49 | [She's Royal](https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 4:10 |
+| 48 | [She's Royal](https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 4:10 |
+| 49 | [No Letting Go](https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:21 |
 | 50 | [Dust A Sound Boy](https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza) | [Super Beagle](https://open.spotify.com/artist/0vD2WzuswHKLaJQIAiPrfc) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:37 |
 
 Snapshot ID: `AAAAAP6y37R9eXSXfiH/WpUzLc8u6XZM`

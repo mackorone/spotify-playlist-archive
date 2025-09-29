@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Jamaica Moana",
-  "num_followers": 200541,
+  "num_followers": 200656,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-09-09 14:00:36",
       "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2025-09-09 14:00:36",
-      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2025-09-09 14:00:36",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "added_at": "2025-09-09 14:00:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-09-09 14:00:36",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2025-09-09 14:00:36",
-      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 227520,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+    },
+    {
+      "added_at": "2025-09-09 14:00:36",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2025-09-09 14:00:36",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2025-09-09 14:00:36",
       "album": {
-        "name": "OMG! (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 152989,
-      "name": "OMG! (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
-    },
-    {
-      "added_at": "2025-09-09 14:00:36",
-      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "added_at": "2025-09-09 14:00:36",
+      "album": {
+        "name": "OMG! (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 152989,
+      "name": "OMG! (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
     },
     {
       "added_at": "2025-09-09 14:00:36",

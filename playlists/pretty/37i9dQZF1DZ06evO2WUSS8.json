@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14861,
+  "num_followers": 14867,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAByVygIMkMhH1NALdPLvG7R",
+  "snapshot_id": "aNcpAAAAAAA8YDxQD8RsypDmw66ojWr5",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-        "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
-      },
-      "artists": [
-        {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 161866,
       "name": "C'est dr\u00f4le la vie",
       "url": "https://open.spotify.com/track/2uMfVlGi30aHKy4ntQUzso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+        "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
     },
     {
       "added_at": null,
@@ -767,26 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
       },
       "artists": [
         {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         }
       ],
-      "duration_ms": 285619,
-      "name": "Itarafo",
-      "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
     },
     {
       "added_at": null,
@@ -803,22 +795,6 @@
       "duration_ms": 259200,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
     },
     {
       "added_at": null,
@@ -843,18 +819,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Rising (Live)",
-        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
       "artists": [
         {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
+      "duration_ms": 285619,
+      "name": "Itarafo",
+      "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 329189,
       "name": "JERUSALEMA",
       "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
       "duration_ms": 365217,
       "name": "Biko",
       "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quanto Mais Curtido Melhor",
+        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
     },
     {
       "added_at": null,
@@ -943,22 +963,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quanto Mais Curtido Melhor",
-        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
       },
       "artists": [
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
       "added_at": null,
@@ -1015,8 +1051,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
       "artists": [
         {
@@ -1024,29 +1060,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
+      "duration_ms": 179226,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
     },
     {
       "added_at": null,
@@ -1067,22 +1083,6 @@
       "duration_ms": 217613,
       "name": "Samba Pa Ti",
       "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
     },
     {
       "added_at": null,

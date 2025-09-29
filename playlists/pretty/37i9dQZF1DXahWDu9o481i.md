@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,926 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,947 likes - 55 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 32 | [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 |
 | 33 | [PIKI](https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [PIKI](https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ) | 4:19 |
 | 34 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
-| 35 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
-| 36 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 |
+| 35 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 |
+| 36 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
 | 37 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 |
 | 38 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
 | 39 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 |

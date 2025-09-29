@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,017 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,015 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 21 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
 | 22 | [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 |
 | 23 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
-| 24 | [tell me](https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [tell me \(K edit\)](https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr) | 2:43 |
-| 25 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 |
+| 24 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 |
+| 25 | [tell me](https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [tell me \(K edit\)](https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr) | 2:43 |
 | 26 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 27 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
 | 28 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |

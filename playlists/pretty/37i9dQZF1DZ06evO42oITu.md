@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,569 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,581 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 33 | [Alberta \- Acoustic Live](https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:38 |
 | 34 | [It's in the Way That You Use It](https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [August](https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA) | 4:11 |
 | 35 | [They Call Me The Breeze](https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 |
-| 36 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
+| 36 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
 | 37 | [Running on Faith \- Acoustic Live](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 |
-| 38 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
+| 38 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
 | 39 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
 | 40 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 |
 | 41 | [Let It Grow](https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 45 | [It's Easy](https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:16 |
 | 46 | [After Midnight](https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 2:51 |
 | 47 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
-| 48 | [Help the Poor](https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 5:06 |
-| 49 | [Cajun Moon](https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:27 |
+| 48 | [Cajun Moon](https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:27 |
+| 49 | [Help the Poor](https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 5:06 |
 | 50 | [Hey Hey \- Acoustic Live](https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:46 |
 
-Snapshot ID: `aNXXgAAAAAALLmcTmHCUgcrAiMLlxsBi`
+Snapshot ID: `aNcpAAAAAAAgaGvUvgzBVJAvQOpX6EIN`

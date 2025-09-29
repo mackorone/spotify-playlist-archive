@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,067 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,088 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 22 | [Turnaround](https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 6:24 |
 | 23 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
 | 24 | [Senor Blues](https://open.spotify.com/track/7MpR13JCgWsEJe3iJzax5B) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The History of Blue Note, 70th Anniversary](https://open.spotify.com/album/1vklN7S5RaL03pw3foEt4F) | 7:02 |
-| 25 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
+| 25 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
 | 26 | [Blue Monk](https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [The Complete Prestige 10\-Inch LP Collection](https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC) | 7:39 |
 | 27 | [Billie's Bounce \- Original](https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 2](https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV) | 3:12 |
 | 28 | [Bag's Groove](https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:40 |

@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-259 songs - 12 hr 9 min
+260 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2025-05-16 |  |
 | [Cucurbita](https://open.spotify.com/track/3N1HAd8IP2Iv6fJMeuL4q8) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Cucurbita](https://open.spotify.com/album/2obGcH5exzGCZdlO3oDnFL) | 1:25 | 2023-07-06 | 2023-07-22 |
 | [Da Lat](https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [Da Lat](https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS) | 2:02 | 2024-01-25 |  |
-| [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-06 |  |
+| [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-06 | 2025-09-29 |
 | [Dawn Mist](https://open.spotify.com/track/16hZ0iRfs63i4Sp9eRSSXP) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Dawn Mist](https://open.spotify.com/album/3YNOufq8ydBc4PI6QgDTfW) | 3:47 | 2025-06-11 | 2025-07-05 |
 | [Deep Inside](https://open.spotify.com/track/2YdorGN6X3q5qgyChofNei) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Deep Inside](https://open.spotify.com/album/1be2vsAhXG0Ry0GJFRSTOf) | 2:43 | 2025-06-11 |  |
 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 | 2023-10-26 | 2025-08-03 |
@@ -155,6 +155,7 @@
 | [Morning Sun](https://open.spotify.com/track/6tZqBZ52QjlSwA6T25QoLu) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Morning Sun](https://open.spotify.com/album/7eyodgyWN4cgXKGyIYYyq8) | 2:39 | 2024-02-06 | 2024-08-24 |
 | [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2023-10-26 |  |
 | [Nature Bliss](https://open.spotify.com/track/3Nzp9VkySXdVllcziVz7l4) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Nature Bliss](https://open.spotify.com/album/0eJzRC2Xb0h99ZZa9D2Of6) | 3:05 | 2025-05-16 |  |
+| [Nature's Balance](https://open.spotify.com/track/4VVK46fpmG16sD5eM5jSoK) | [Vox Lumi](https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3) | [Nature's Balance](https://open.spotify.com/album/4Ycr0QB6Kl1KtSdL95Xv4V) | 2:44 | 2025-09-24 |  |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-03-03 | 2024-09-05 |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 | 2023-03-03 |  |

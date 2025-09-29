@@ -10683,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "Grit, Groove & Guitar",
+        "url": "https://open.spotify.com/album/1cbi8zTZbOLpeN521p1znx"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148924,
+      "name": "When I Found You",
+      "url": "https://open.spotify.com/track/4aGDe0Gdr8yl110J4UbNjn"
+    },
+    {
+      "album": {
         "name": "All Time Greatest Hits",
         "url": "https://open.spotify.com/album/68P0fMo1NnXQ0ur2iNXRI1"
       },
@@ -10712,7 +10730,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 149720,
       "name": "When I Found You",
       "url": "https://open.spotify.com/track/5qnq72N43NXsWnQjsgtu8n"

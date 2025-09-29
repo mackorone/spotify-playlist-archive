@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,037 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,261 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 30 | [I Feel Everything](https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [I Feel Everything](https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B) | 2:55 |
 | 31 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 |
 | 32 | [liMOusIne \(feat\. AURORA\)](https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:11 |
-| 33 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 34 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
+| 33 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
+| 34 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 35 | [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 |
 | 36 | [Overflow](https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:31 |
 | 37 | [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 |
-| 38 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
-| 39 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
+| 38 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
+| 39 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
 | 40 | [how it starts](https://open.spotify.com/track/510YEKitz3E6ejFbw8rmIB) | [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy) | [how it starts](https://open.spotify.com/album/1GXkS6OirBCJ37LYCSWfFI) | 3:33 |
 | 41 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
 | 42 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 51 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 52 | [Rolling Out the Red Carpet](https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 2:05 |
 | 53 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
-| 54 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 |
+| 54 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
 | 55 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 |
-| 56 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
+| 56 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 |
 | 57 | [Outside](https://open.spotify.com/track/6D46UmiP97e9nxssD4r7tN) | [breakk.away](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/11Hbhd3ShzY3uhNjOaxMUP) | 3:25 |
 | 58 | [I'd stay forever](https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa) | 4:31 |
 | 59 | [For Now](https://open.spotify.com/track/0Gg9krMVwwsTC3URfYb7Hc) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 4:05 |

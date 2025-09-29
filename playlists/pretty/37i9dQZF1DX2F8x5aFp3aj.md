@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. The Cure en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,034 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,161 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 59 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:39 |
 | 60 | [Sailing On The Seven Seas](https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Sugar Tax](https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg) | 3:45 |
 | 61 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 |
-| 62 | [I Go to Extremes](https://open.spotify.com/track/16LYB0chkPiblx33djiNTt) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:23 |
-| 63 | [Sugar Hiccup](https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Head Over Heels](https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9) | 3:41 |
+| 62 | [Sugar Hiccup](https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Head Over Heels](https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9) | 3:41 |
+| 63 | [I Go to Extremes](https://open.spotify.com/track/16LYB0chkPiblx33djiNTt) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:23 |
 | 64 | [Brass in Pocket](https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Original Album Series](https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81) | 3:04 |
 | 65 | [Leave It](https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:13 |
 | 66 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
-| 67 | [No Time to Cry](https://open.spotify.com/track/6t4CUeOPf6Ys5Adxnq1LaR) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always](https://open.spotify.com/album/2wOuYERNvxVipFb2JlwvwA) | 3:59 |
-| 68 | [Pearly\-Dewdrops' Drops \- 7" Version](https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [The Pink Opaque](https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3) | 4:10 |
-| 69 | [Planet Claire](https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 4:37 |
+| 67 | [Pearly\-Dewdrops' Drops \- 7" Version](https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [The Pink Opaque](https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3) | 4:10 |
+| 68 | [Planet Claire](https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 4:37 |
+| 69 | [No Time to Cry](https://open.spotify.com/track/6t4CUeOPf6Ys5Adxnq1LaR) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always](https://open.spotify.com/album/2wOuYERNvxVipFb2JlwvwA) | 3:59 |
 | 70 | [I Still Haven't Found What I'm Looking For \- Remastered 2007](https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:37 |
 | 71 | [Englishman In New York](https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:26 |
 | 72 | [This Charming Man \- Single Version; 2008 Remaster](https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(Deluxe; 2008 Remaster\)](https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55) | 2:43 |

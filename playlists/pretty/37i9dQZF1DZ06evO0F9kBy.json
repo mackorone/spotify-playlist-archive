@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27337,
+  "num_followers": 27339,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABtk60r3AzqT1NSukkCwmKQ",
+  "snapshot_id": "aNcpAAAAAADBT2vgXvDnfRMyMcoMqgPn",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+        "name": "Hallelujah Anyway",
+        "url": "https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy"
       },
       "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 180320,
-      "name": "All the People Said Amen",
-      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
+      "duration_ms": 225755,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9"
     },
     {
       "added_at": null,
@@ -267,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Anyway",
-        "url": "https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy"
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
       },
       "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 225755,
-      "name": "Hallelujah Anyway",
-      "url": "https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9"
+      "duration_ms": 180320,
+      "name": "All the People Said Amen",
+      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "Alive Again",
-      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Found It In Jesus",
         "url": "https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 260987,
       "name": "Found It In Jesus",
       "url": "https://open.spotify.com/track/7kOw09xTJZQCinlD8xM5ST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait / Praise The Giver",
-        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 241814,
-      "name": "Praise The Giver",
-      "url": "https://open.spotify.com/track/7qU5CtWCaDBFvHQ20MeZTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1or, Te Necesito",
         "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 204167,
       "name": "Se\u00f1or, Te Necesito",
       "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait / Praise The Giver",
+        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 241814,
+      "name": "Praise The Giver",
+      "url": "https://open.spotify.com/track/7qU5CtWCaDBFvHQ20MeZTL"
     },
     {
       "added_at": null,

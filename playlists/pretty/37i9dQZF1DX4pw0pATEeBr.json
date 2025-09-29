@@ -1,6 +1,6 @@
 {
   "description": "Versos y barras de alto poder",
-  "num_followers": 154628,
+  "num_followers": 154688,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-09-05 06:00:13",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2025-09-05 06:00:13",
+      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
-    },
-    {
-      "added_at": "2025-09-05 06:00:13",
-      "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
       "added_at": "2025-09-05 06:00:13",

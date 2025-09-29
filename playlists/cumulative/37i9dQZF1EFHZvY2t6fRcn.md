@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 10 hr 20 min
+190 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 | 2025-09-21 |  |
 | [The Long Way Out](https://open.spotify.com/track/4QPI8lcujq9ZguPjx1fONP) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [The Long Way Out](https://open.spotify.com/album/6YoDuQvQ0rWfhi5pI2IbEk) | 3:34 | 2021-12-27 | 2022-09-26 |
 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 | 2022-09-25 |  |
+| [THE UNIVERSE](https://open.spotify.com/track/1MsC4r2rLGULtETHuKC0YY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:06 | 2025-09-28 |  |
 | [Therapy](https://open.spotify.com/track/0Nw0Z2VXKuiFSikzWvgqR6) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Therapy](https://open.spotify.com/album/472JU7mEYpwNTNTdqyYVFU) | 3:27 | 2021-12-27 |  |
 | [Things](https://open.spotify.com/track/4wMfUdAxgiJno6flL6VW5r) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Things](https://open.spotify.com/album/5FRzeJ7HhrMjD8TPDFE38j) | 3:06 | 2021-12-27 |  |
 | [Today](https://open.spotify.com/track/0MBbefxuupc3aYlM4hnKuX) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Today](https://open.spotify.com/album/50yapK30VJH1T9VOI8kORc) | 3:34 | 2024-07-04 |  |

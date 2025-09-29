@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 433483,
+  "num_followers": 433501,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -655,18 +655,34 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -687,22 +703,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -753,38 +753,6 @@
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "What Dreams Are Made Of",
@@ -803,6 +771,38 @@
       "duration_ms": 227480,
       "name": "Locked Away (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Sweeter",
-        "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Not Over You",
-      "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Mirrors (Radio Edit)",
         "url": "https://open.spotify.com/album/28GWVLkctSuSWQ1EUIxZ8m"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 277306,
       "name": "Mirrors - Radio Edit",
       "url": "https://open.spotify.com/track/6ToFxXRBtl5TJFEyIoYK3f"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Not Over You",
+      "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "New Light",
-        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 216014,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Settle",
         "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
       },
@@ -3127,6 +3111,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 216014,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Wanted on Voyage",
         "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
       },
@@ -3139,26 +3139,6 @@
       "duration_ms": 195546,
       "name": "Blame It on Me",
       "url": "https://open.spotify.com/track/2Zgnaip1c876zmBhz9HifI"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Sheesh!",
-        "url": "https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 148846,
-      "name": "Sheesh!",
-      "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3183,6 +3163,26 @@
       "duration_ms": 203122,
       "name": "Skate",
       "url": "https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Sheesh!",
+        "url": "https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 148846,
+      "name": "Sheesh!",
+      "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
     },
     {
       "added_at": "2021-08-25 20:28:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,313 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,355 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 39 | [Tus Videos Virales](https://open.spotify.com/track/1DvapZBB0AjOOMUbFkoj0Z) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 3:18 |
 | 40 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
 | 41 | [De la Estancia a Cosala](https://open.spotify.com/track/510JTUuO196PonOM82hyLo) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De la Estancia a Cosala](https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2) | 2:19 |
-| 42 | [Porque Te Portaste Mal \(En Vivo\)](https://open.spotify.com/track/2W5W8VkZ6VtGMpQGfn4nFT) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:44 |
+| 42 | [Hombre Del Rancho \(En Vivo\)](https://open.spotify.com/track/2L3ZSAmVVPrNYThZK0nHxc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 3:07 |
 | 43 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
 | 44 | [El Hijo De Pancho](https://open.spotify.com/track/6fUq6pdFM6h5vQAQCowPQE) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:50 |
 | 45 | [Como No Quererte](https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:34 |
-| 46 | [Hombre Del Rancho \(En Vivo\)](https://open.spotify.com/track/2L3ZSAmVVPrNYThZK0nHxc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 3:07 |
+| 46 | [Porque Te Portaste Mal \(En Vivo\)](https://open.spotify.com/track/2W5W8VkZ6VtGMpQGfn4nFT) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:44 |
 | 47 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
-| 48 | [Los Demonios \(En Vivo\)](https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Demonios \(En Vivo\)](https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId) | 4:02 |
+| 48 | [Por El Bien De Los Dos](https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Por El Bien De Los Dos](https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF) | 3:15 |
 | 49 | [Agasajaba La Noche](https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:19 |
-| 50 | [Por El Bien De Los Dos](https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Por El Bien De Los Dos](https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF) | 3:15 |
+| 50 | [Los Demonios \(En Vivo\)](https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Demonios \(En Vivo\)](https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId) | 4:02 |
 
-Snapshot ID: `aNXXgAAAAACYONKJEIPXqVgNX12RfUJ0`
+Snapshot ID: `aNcpAAAAAAAN/RwfeIGVXX5Pkeow85fr`

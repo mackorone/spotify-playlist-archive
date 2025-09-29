@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 40759,
+  "num_followers": 40789,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Coop! The Music Of Bob Cooper",
-        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
       "artists": [
         {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
         }
       ],
-      "duration_ms": 261066,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers & His Big Band",
+          "url": "https://open.spotify.com/artist/7hK396PrftEwAlzt41Bsse"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Moon over Cuba",
+      "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
+        "name": "Coop! The Music Of Bob Cooper",
+        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
       },
       "artists": [
         {
-          "name": "Shorty Rogers & His Big Band",
-          "url": "https://open.spotify.com/artist/7hK396PrftEwAlzt41Bsse"
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
         }
       ],
-      "duration_ms": 254626,
-      "name": "Moon over Cuba",
-      "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
+      "duration_ms": 261066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
     },
     {
       "added_at": "2024-09-03 09:42:20",

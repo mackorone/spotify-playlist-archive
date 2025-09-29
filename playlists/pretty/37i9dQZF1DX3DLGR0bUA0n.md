@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy y Triny y La Leyenda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,636 likes - 125 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,677 likes - 125 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 66 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
 | 67 | [Dile](https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 3:25 |
 | 68 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw) | [La Fuerza de Tierra Caliente](https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N) | [A Donde Vas Chiquilla](https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y) | 3:36 |
-| 69 | [Cuanto Te Quiero](https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 2:43 |
+| 69 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
 | 70 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
-| 71 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
+| 71 | [Cuanto Te Quiero](https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 2:43 |
 | 72 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
 | 73 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
 | 74 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,790 likes - 34 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,787 likes - 34 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 11 | [Keep It Undercover \- Theme Song From "K.C\. Undercover"](https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Keep It Undercover \(Theme Song From "K.C\. Undercover"\)](https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W) | 2:36 |
 | 12 | [Butterflies](https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:47 |
 | 13 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
-| 14 | [Something To Dance For \- From "Shake It Up"](https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Something to Dance For \(From "Shake It Up: Live 2 Dance"\)](https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le) | 2:43 |
-| 15 | [Wonderful Questions](https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a) | [Channing Tatum](https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Smallfoot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9) | 2:12 |
+| 14 | [Wonderful Questions](https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a) | [Channing Tatum](https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Smallfoot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9) | 2:12 |
+| 15 | [Something To Dance For \- From "Shake It Up"](https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Something to Dance For \(From "Shake It Up: Live 2 Dance"\)](https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le) | 2:43 |
 | 16 | [Watch Me](https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Cast of Shake It Up: Break It Down](https://open.spotify.com/artist/116v5BJngSpJcXNml0OPeu) | [Shake It Up: Break It Down](https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF) | 2:55 |
 | 17 | [X \(feat\. Zendaya\)](https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:52 |
 | 18 | [My Baby](https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:07 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 33 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
 | 34 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 
-Snapshot ID: `aNXXgAAAAAA6gxSxnRay7tKYftTqdmfU`
+Snapshot ID: `aNcpAAAAAADwpwyuZurbXllF55uQonLz`

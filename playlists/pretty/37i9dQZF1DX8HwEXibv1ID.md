@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,600 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,623 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 27 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
 | 28 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
 | 29 | [My Heart Belongs To Daddy](https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 2:54 |
-| 30 | [Paris Loves Lovers](https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9) | [Fred Astaire \(performer\), Carol Richards \(performer\)](https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:43 |
-| 31 | [The Ritz Roll and Rock](https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty) | [Fred Astaire \(performer\), The MGM Studio Chorus](https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 3:35 |
+| 30 | [The Ritz Roll and Rock](https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty) | [Fred Astaire \(performer\), The MGM Studio Chorus](https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 3:35 |
+| 31 | [Paris Loves Lovers](https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9) | [Fred Astaire \(performer\), Carol Richards \(performer\)](https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:43 |
 | 32 | [I've Got My Eyes On You](https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:57 |
 | 33 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY) | [The Al Cohn \- Zoot Sims Quintet](https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM) | [You 'N Me](https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G) | 4:51 |
 | 34 | [Mind If I Make Love To You](https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Great Songs From Stage And Screen](https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Zara Larsson, Shiro, Olivia Dean med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,994 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,987 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

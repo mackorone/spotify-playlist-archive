@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,007 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,028 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 30 | [Por Amor Y Fe](https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:33 |
 | 31 | [Adiós, Adiós \- Remastered 2025](https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:13 |
 | 32 | [Una Tarde Como Cualquiera](https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:10 |
-| 33 | [Las Llaves De Mi Alma](https://open.spotify.com/track/5svu7VLrzUslx5wnhpxYAw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 2:52 |
+| 33 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 |
 | 34 | [El Vagabundo Que Te Ama](https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 2:25 |
-| 35 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 |
+| 35 | [Las Llaves De Mi Alma](https://open.spotify.com/track/5svu7VLrzUslx5wnhpxYAw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 2:52 |
 | 36 | [Andamos Borrachos Todos \(En Vivo\)](https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Desde La Playa Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9) | 3:14 |
 | 37 | [Nunca Cambies](https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL) | 2:37 |
 | 38 | [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC) | 2:36 |
 | 50 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Amo Y Te Amaré](https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS) | 3:46 |
 
-Snapshot ID: `aNXXgAAAAADYhkfbmjmivy3302bARxGW`
+Snapshot ID: `aNcpAAAAAAA5QLcn22jYEX4boZF98hYQ`

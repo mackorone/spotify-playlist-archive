@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10350,
+  "num_followers": 10352,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACX/+LIwX9I5Ck3tzpH86Cs",
+  "snapshot_id": "aNcpAAAAAABmZQP62ix0sdvuP1zYb+LQ",
   "tracks": [
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forbidden",
-        "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together (Soundtrack from Year in Search)",
         "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forbidden",
+        "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
     },
     {
       "added_at": null,
@@ -779,6 +779,30 @@
       "duration_ms": 259900,
       "name": "I Don't Know How to Love Him",
       "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
+      },
+      "artists": [
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        }
+      ],
+      "duration_ms": 265596,
+      "name": "What's The Buzz? / Strange Things Mystifying",
+      "url": "https://open.spotify.com/track/606epVj3NNHfx0DI7Rsu3u"
     },
     {
       "added_at": null,

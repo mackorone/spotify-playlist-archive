@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 61 | [Tempo](https://open.spotify.com/track/68Dp3Ha2XlXoX3jM3mc00M) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Tempo](https://open.spotify.com/album/3cHeKy1rYx7jySSS09uQ22) | 1:56 |
 | 62 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 63 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
-| 64 | [Loose](https://open.spotify.com/track/7s3ok6ckqSEEKd5kOECjVP) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose](https://open.spotify.com/album/5fF8Nmht8UuO7xoZAn6gVn) | 2:58 |
+| 64 | [Loose](https://open.spotify.com/track/3PvL3oyt1EWMPlK7GoxzcH) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [These Things Take Time](https://open.spotify.com/album/6UGGX9D1WyEgpyhVctghWP) | 2:58 |
 
-Snapshot ID: `Ab9YHgAAAACeZu03D8y+kK4ZYXTCmude`
+Snapshot ID: `Ab9d0gAAAABTgF/PSNwPRfwu8Gg5wXU2`

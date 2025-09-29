@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuran şarkılar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,991 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,974 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 16 | [SALINA SALINA](https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [SALINA SALINA](https://open.spotify.com/album/2eOg7JmgrIgAEpX4SBr6L8) | 2:08 |
 | 17 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 |
 | 18 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 |
-| 19 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
-| 20 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
+| 19 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
+| 20 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
 | 21 | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 |
 | 22 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 |
 | 23 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 43 | [Kabul](https://open.spotify.com/track/2nyigm34dUR20LTLTt2g11) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kabul](https://open.spotify.com/album/0K7EIVgGtYvc71CpGQBtt3) | 3:52 |
 | 44 | [Aşkına Destan](https://open.spotify.com/track/215Fb7rnOHnXlgdF6kzMBc) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşkına Destan](https://open.spotify.com/album/2taY4vXAx90UqNiXyWNOKj) | 2:54 |
 | 45 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 |
-| 46 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
-| 47 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 |
+| 46 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 |
+| 47 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
 | 48 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 |
 | 49 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 |
 | 50 | [Yara Bandı](https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Yara Bandı](https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p) | 3:06 |

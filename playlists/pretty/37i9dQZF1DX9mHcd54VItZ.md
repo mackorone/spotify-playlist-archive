@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: The Dirty Skirts
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,889 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,911 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 30 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 31 | [Doen Cool Shit](https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Doen Cool Shit](https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO) | 3:13 |
 | 32 | [Die Ritme Boer](https://open.spotify.com/track/4SyfOZUJYVCp8zTF9935YW) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Die Ritme Boer](https://open.spotify.com/album/5xdoman8l0daDSvMiceNoh) | 3:18 |
-| 33 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
-| 34 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 33 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 34 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 | 35 | [Francois Se Skuld](https://open.spotify.com/track/62ol9vgJ4RsPfJAbQcTBfe) | [Toonhoog](https://open.spotify.com/artist/3JpBKbiTBVSvvFkEhmQQF4) | [Francois Se Skuld](https://open.spotify.com/album/1OhAR8TpBOHP9PPrVhRwQs) | 3:18 |
 | 36 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
-| 37 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
-| 38 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 37 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
+| 38 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
 | 39 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 40 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
 | 41 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |

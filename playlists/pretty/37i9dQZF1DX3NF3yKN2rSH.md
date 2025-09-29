@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,167 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,164 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 53 | [Take Me Back \(feat\. Kirk Franklin & Kelontae Gavin\)](https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7) | [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [My Tribute](https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB) | 5:00 |
 | 54 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
 | 55 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
-| 56 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
-| 57 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
+| 56 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
+| 57 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
 | 58 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
 | 59 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
 | 60 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |

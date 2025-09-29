@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Olivia Dean, 5 Seconds of Summer, Tame Impala, Doja Cat, The 046  + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,130 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,139 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

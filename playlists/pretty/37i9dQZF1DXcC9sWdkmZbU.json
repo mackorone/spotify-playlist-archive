@@ -1,12 +1,12 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 145166,
+  "num_followers": 145181,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2rws4A+5pPr68rf22spBTWiTNV",
+  "snapshot_id": "AAAAAO2StCo0l76tYYmXIg4Vf2fu3kFP",
   "tracks": [
     {
       "added_at": "2025-09-14 09:05:07",
@@ -91,26 +91,6 @@
     {
       "added_at": "2025-09-14 09:05:07",
       "album": {
-        "name": "SPARKLE. POP. RAMPAGE.",
-        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
-      },
-      "artists": [
-        {
-          "name": "Rend Co. Kids",
-          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
-        },
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "My Lighthouse",
-      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
-    },
-    {
-      "added_at": "2025-09-14 09:05:07",
-      "album": {
         "name": "Taste and See",
         "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 174613,
       "name": "My God Is Number One",
       "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
+    },
+    {
+      "added_at": "2025-09-14 09:05:07",
+      "album": {
+        "name": "SPARKLE. POP. RAMPAGE.",
+        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
+      },
+      "artists": [
+        {
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
     },
     {
       "added_at": "2025-09-14 09:05:07",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-09-14 09:05:07",
       "album": {
-        "name": "I'm So Blessed (Kids Version)",
-        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "I'm So Blessed (Kids Version)",
-      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
-    },
-    {
-      "added_at": "2025-09-14 09:05:07",
-      "album": {
         "name": "God Be With You Til We Meet Again",
         "url": "https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 192880,
       "name": "God Be With You Til We Meet Again",
       "url": "https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0"
+    },
+    {
+      "added_at": "2025-09-14 09:05:07",
+      "album": {
+        "name": "I'm So Blessed (Kids Version)",
+        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "I'm So Blessed (Kids Version)",
+      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
     },
     {
       "added_at": "2025-09-14 09:05:07",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-09-14 09:05:07",
       "album": {
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+      },
+      "artists": [
+        {
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "I Could Sing Of Your Love Forever",
+      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
+    },
+    {
+      "added_at": "2025-09-14 09:05:07",
+      "album": {
         "name": "This Is My Father's World (From Pippa And The Singing Tree)",
         "url": "https://open.spotify.com/album/7qaxZz4ttunI9fG24X1lN3"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 180745,
       "name": "This Is My Father's World - From Pippa And The Singing Tree",
       "url": "https://open.spotify.com/track/2B59Pvir5WHVZYicWhjiAB"
-    },
-    {
-      "added_at": "2025-09-14 09:05:07",
-      "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
-      },
-      "artists": [
-        {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
     },
     {
       "added_at": "2025-09-14 09:05:07",
@@ -899,8 +899,8 @@
     {
       "added_at": "2025-09-14 09:05:07",
       "album": {
-        "name": "100 Songs from the Bible",
-        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
+        "name": "Toddler 1 Minute Bible Songs",
+        "url": "https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
         }
       ],
-      "duration_ms": 141746,
-      "name": "I Am the Way (John 14:6)",
-      "url": "https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd"
+      "duration_ms": 64476,
+      "name": "If You're Saved and You Know It",
+      "url": "https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE"
     },
     {
       "added_at": "2025-09-14 09:05:07",
@@ -979,8 +979,8 @@
     {
       "added_at": "2025-09-14 09:05:07",
       "album": {
-        "name": "Toddler 1 Minute Bible Songs",
-        "url": "https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5"
+        "name": "100 Songs from the Bible",
+        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
         }
       ],
-      "duration_ms": 64476,
-      "name": "If You're Saved and You Know It",
-      "url": "https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE"
+      "duration_ms": 141746,
+      "name": "I Am the Way (John 14:6)",
+      "url": "https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd"
     },
     {
       "added_at": "2025-09-14 09:05:07",

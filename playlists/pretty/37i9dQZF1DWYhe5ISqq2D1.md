@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Cover: Luvis
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,949 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,945 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 66 | [最&強](https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [最&強](https://open.spotify.com/album/77f7VBVt5VRwWyP4nUdswe) | 3:46 |
 | 67 | [KAGEROU](https://open.spotify.com/track/55BserbXWxRpQNONiaBhjp) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Pulsatilla cernua](https://open.spotify.com/album/3o7lBZIpr8OQZx8DMJgnOk) | 5:04 |
 | 68 | [KIRA KIRA](https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [OWARI DIARY](https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm) | 2:56 |
-| 69 | [BEAT](https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BEAT](https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww) | 3:37 |
-| 70 | [盾愛](https://open.spotify.com/track/54nAzF3n7Aq6iezzKktdxS) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [盾愛](https://open.spotify.com/album/2HdI25wr3Cb4SIu2CXnzcp) | 4:39 |
-| 71 | [ミスター・ムーンライト](https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミスター・ムーンライト](https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X) | 3:22 |
+| 69 | [ミスター・ムーンライト](https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミスター・ムーンライト](https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X) | 3:22 |
+| 70 | [BEAT](https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BEAT](https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww) | 3:37 |
+| 71 | [盾愛](https://open.spotify.com/track/54nAzF3n7Aq6iezzKktdxS) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [盾愛](https://open.spotify.com/album/2HdI25wr3Cb4SIu2CXnzcp) | 4:39 |
 | 72 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |
 | 73 | [ラストルック](https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラストルック](https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS) | 3:07 |
 | 74 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 |

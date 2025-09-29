@@ -699,6 +699,42 @@
     },
     {
       "album": {
+        "name": "Corro a Ti",
+        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Corro a Ti",
+      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
+    },
+    {
+      "album": {
+        "name": "Cuando est\u00e1 la Presencia del Rey",
+        "url": "https://open.spotify.com/album/5w6KLLGX8tLm7r4SL04PDZ"
+      },
+      "artists": [
+        {
+          "name": "Margarita de la Cruz",
+          "url": "https://open.spotify.com/artist/6TgLtqzmFhIQD4OMxW1AF7"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Cuando est\u00e1 la Presencia del Rey",
+      "url": "https://open.spotify.com/track/2l2IGV4CEBnT310cWK5PH4"
+    },
+    {
+      "album": {
         "name": "A Solas",
         "url": "https://open.spotify.com/album/7j9iOuNGdCEpBw4qVUPNwl"
       },
@@ -754,7 +790,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 198306,
       "name": "De Fiesta (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4"
@@ -1678,7 +1714,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 173868,
       "name": "LOVEO",
       "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"

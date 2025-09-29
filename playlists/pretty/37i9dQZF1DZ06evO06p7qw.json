@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 184900,
+  "num_followers": 184953,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAkIkBEKp9dxHorivNLEI2i",
+  "snapshot_id": "aNcpAAAAAADQoNz0e5i/Tho/2yFIkZsI",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 222400,
       "name": "Mucho M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
     },
     {
       "added_at": null,
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 142253,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
+      "duration_ms": 197186,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
     },
     {
       "added_at": null,
@@ -464,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ"
+      "duration_ms": 142253,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
     },
     {
       "added_at": null,
@@ -503,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Que Te Vi",
-        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Desde Que Te Vi",
-      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197680,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -559,6 +507,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
       },
@@ -571,6 +555,38 @@
       "duration_ms": 281390,
       "name": "Una y Otra Vez - En Vivo Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Mojado",
+      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Mojado",
-      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 158980,
       "name": "Aun Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 303990,
       "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Junto A M\u00ed",
+      "url": "https://open.spotify.com/track/1OWnJnbFFrGw4wnoOgavNo"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Junto A M\u00ed",
-      "url": "https://open.spotify.com/track/1OWnJnbFFrGw4wnoOgavNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lastim\u00e9",
         "url": "https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 221211,
       "name": "Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 204493,
       "name": "Aut\u00e9ntica",
       "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
     },
     {
       "added_at": null,

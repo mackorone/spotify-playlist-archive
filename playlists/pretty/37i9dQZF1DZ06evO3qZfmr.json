@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 40877,
+  "num_followers": 40927,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABlMUTCh40dUjHL/4u5zGbG",
+  "snapshot_id": "aNcpAAAAAAAYLEvFTexCLkG5d+QbDfde",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
       },
       "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        },
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Can't Break Up Now",
-      "url": "https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5"
+      "duration_ms": 220695,
+      "name": "I'll Be Fine",
+      "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Okay? (I'll Be Fine)",
-        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
       },
       "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        },
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 220695,
-      "name": "I'll Be Fine",
-      "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
+      "duration_ms": 200133,
+      "name": "Can't Break Up Now",
+      "url": "https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5"
     },
     {
       "added_at": null,

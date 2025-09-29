@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,754 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,843 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 10 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
 | 11 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 12 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
-| 13 | [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 |
+| 13 | [MUÑEQUITA](https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [MUÑEQUITA](https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm) | 2:46 |
 | 14 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
-| 15 | [MUÑEQUITA](https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [MUÑEQUITA](https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm) | 2:46 |
+| 15 | [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 |
 | 16 | [Déjenme Hacer Dinero](https://open.spotify.com/track/364qZBjyGTwjNbUxnq1djj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/0Pb2T0G7x9IGOWer7fEmuh) | 3:13 |
 | 17 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
 | 18 | [El Comerciante](https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Chingón sin chingar](https://open.spotify.com/track/1Ea2n0ppekKL216GUPdQ7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/3RIMaNcCUCGWmJNXbAR4ol) | 3:07 |
 | 50 | [Me Haces Tan Bien](https://open.spotify.com/track/5NkAVF1k2tAmNdsFw4qVnM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 2:48 |
 
-Snapshot ID: `aNXXgAAAAAA/bhAcrQrqnZrrFgpkInVZ`
+Snapshot ID: `aNcpAAAAAABGijwdFiAu3yYUBEW5ySo4`

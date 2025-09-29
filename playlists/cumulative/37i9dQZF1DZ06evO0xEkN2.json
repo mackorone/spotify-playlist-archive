@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 205932,
       "name": "Bier & Ska",
       "url": "https://open.spotify.com/track/1MNOcEnloUtYc3kdWTK9P1"
@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167674,
+      "name": "Desastre",
+      "url": "https://open.spotify.com/track/35a2xvnA1A0F9T84uM0Z9p"
+    },
+    {
+      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -510,6 +528,24 @@
       "duration_ms": 284826,
       "name": "Es Tan Poco el Tiempo",
       "url": "https://open.spotify.com/track/0vVub8zvVEpxRn3q1D7qaM"
+    },
+    {
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204591,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/0QXAcwJwC5PEwMJryzfQez"
     },
     {
       "album": {
@@ -1274,10 +1310,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 237133,
       "name": "Sobrevivir\u00e9",
       "url": "https://open.spotify.com/track/6gVV28leSTAI70fV8fVP7L"
+    },
+    {
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150772,
+      "name": "Sonoro",
+      "url": "https://open.spotify.com/track/31ir9XAhqt7SOAVHMMCE4R"
     },
     {
       "album": {
@@ -1350,7 +1404,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: omeme tenten
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,805 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,804 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,18 +78,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 68 | [南新町](https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [南新町](https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N) | 4:07 |
 | 69 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:45 |
 | 70 | [Genius](https://open.spotify.com/track/5yx90eFseRyQdofa36yExj) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Genius](https://open.spotify.com/album/28baC7V4FwgVexR5fUo69Y) | 3:48 |
-| 71 | [灯火のほとり](https://open.spotify.com/track/3PYonTxH8oqw4JwuBC4ZHZ) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [灯火のほとり](https://open.spotify.com/album/5QZTSfYxStyS67dYkMUp3c) | 2:39 |
-| 72 | [忘愛](https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [忘愛](https://open.spotify.com/album/1zyInbeCTglw09GThsJMps) | 3:24 |
-| 73 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
-| 74 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 |
+| 71 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 |
+| 72 | [灯火のほとり](https://open.spotify.com/track/3PYonTxH8oqw4JwuBC4ZHZ) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [灯火のほとり](https://open.spotify.com/album/5QZTSfYxStyS67dYkMUp3c) | 2:39 |
+| 73 | [忘愛](https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [忘愛](https://open.spotify.com/album/1zyInbeCTglw09GThsJMps) | 3:24 |
+| 74 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
 | 75 | [パメラ](https://open.spotify.com/track/6HEGbxwJYMtWItvjzeFAxt) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Fall Apart](https://open.spotify.com/album/3lIOBUtWhcp2urQAyErTpg) | 3:18 |
 | 76 | [疲れちゃった](https://open.spotify.com/track/3QrgJ2UZtCr7hj9oKaaW1p) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [白昼夢、結んだ言葉は花束に](https://open.spotify.com/album/1FtRY10kTG51GIhEZ0rn7T) | 3:02 |
 | 77 | [センカ](https://open.spotify.com/track/3TIy0kAq4wJpPJkLsZsb6m) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [センカ](https://open.spotify.com/album/3GA6972NEE4NRGtCFye6eg) | 3:59 |
 | 78 | [24hours](https://open.spotify.com/track/5IiHRFBQUDgcMEYdZbKPay) | [ACE COLLECTION](https://open.spotify.com/artist/6p3G10bi9yrw3me7CDrCta) | [24hours](https://open.spotify.com/album/2X8D4hLh8sGTFWpfN5BFTY) | 3:08 |
-| 79 | [群青逃避行](https://open.spotify.com/track/06LFvBt7HHGlJUTSmaEFZM) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [群青逃避行](https://open.spotify.com/album/3KT6LjzhUU2Fu6FR21MjbK) | 3:21 |
-| 80 | [インベイダー](https://open.spotify.com/track/2WXOJAqPT1z0aWBErwBVXa) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [NEBULA](https://open.spotify.com/album/35Q7g8tt4SpLNieBRmsziE) | 2:55 |
-| 81 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 |
-| 82 | [脳内告白](https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [脳内告白](https://open.spotify.com/album/0OlNMPJ26VakgAwc4J7TwG) | 2:57 |
+| 79 | [インベイダー](https://open.spotify.com/track/2WXOJAqPT1z0aWBErwBVXa) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [NEBULA](https://open.spotify.com/album/35Q7g8tt4SpLNieBRmsziE) | 2:55 |
+| 80 | [群青逃避行](https://open.spotify.com/track/06LFvBt7HHGlJUTSmaEFZM) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [群青逃避行](https://open.spotify.com/album/3KT6LjzhUU2Fu6FR21MjbK) | 3:21 |
+| 81 | [脳内告白](https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [脳内告白](https://open.spotify.com/album/0OlNMPJ26VakgAwc4J7TwG) | 2:57 |
+| 82 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 |
 | 83 | [Hey!Calling](https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Hey!Calling](https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC) | 3:57 |
 | 84 | [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 |
 | 85 | [Supersonic](https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [WORLD END LOVESONG](https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV) | 3:52 |

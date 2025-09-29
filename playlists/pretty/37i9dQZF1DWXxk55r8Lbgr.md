@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,863 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,870 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 9 | [你笑起来真好看](https://open.spotify.com/track/3eE9BpgseO9tY0xo83dRwe) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37), [李凯稠](https://open.spotify.com/artist/15UvRTEsLPHCEmCRSlq7Oq), [樊桐舟](https://open.spotify.com/artist/7KCErQQQTj4j56qB3CvCg3) | [你笑起来真好看](https://open.spotify.com/album/5UGSyOav3KKoOQg8kW1xdN) | 2:52 |
 | 10 | [手指運動](https://open.spotify.com/track/5K9MEQtk59L8bV0EXEcn8q) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [幸福的孩子愛唱歌](https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC) | 2:40 |
 | 11 | [麻糬打滾](https://open.spotify.com/track/0hSS3coomlHAtaA8MXDU7B) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [麻糬﻿打滾](https://open.spotify.com/album/3fdMF56vM4l51GsBViI8Xe) | 2:07 |
-| 12 | [拔蘿蔔](https://open.spotify.com/track/3m7EPssneg9ljEACoLXjhM) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [貝樂虎兒歌精選系列16](https://open.spotify.com/album/24zVy44ErjYKKKJMT7EAgV) | 1:44 |
+| 12 | [无敌小可爱](https://open.spotify.com/track/1CVVHuUlfUB0Gqork0fw5D) | [叶雨岑](https://open.spotify.com/artist/1bSeESASfHJ7xtV9moYFrq) | [宝宝不开心](https://open.spotify.com/album/1yD4PqCgxBDPLmJuAdH3eX) | 3:23 |
 | 13 | [王老先生有塊地](https://open.spotify.com/track/0C6UmNhZdzXQRIhVG8JPZg) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:51 |
-| 14 | [无敌小可爱](https://open.spotify.com/track/1CVVHuUlfUB0Gqork0fw5D) | [叶雨岑](https://open.spotify.com/artist/1bSeESASfHJ7xtV9moYFrq) | [宝宝不开心](https://open.spotify.com/album/1yD4PqCgxBDPLmJuAdH3eX) | 3:23 |
+| 14 | [拔蘿蔔](https://open.spotify.com/track/3m7EPssneg9ljEACoLXjhM) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [貝樂虎兒歌精選系列16](https://open.spotify.com/album/24zVy44ErjYKKKJMT7EAgV) | 1:44 |
 | 15 | [數星星](https://open.spotify.com/track/7bKGg3Ahf6R0T32jAbjJhu) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [幸福的孩子愛唱歌](https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC) | 4:13 |
 | 16 | [我要去買水彩](https://open.spotify.com/track/0ui2oSnuKyVTgDD3kXS4Ci) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [我要去買水彩](https://open.spotify.com/album/2QLkyrnuyx471ejUGzqRit) | 2:34 |
 | 17 | [釣魚記](https://open.spotify.com/track/14xnm6jRmnB5PP29Pxb8MO) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名3](https://open.spotify.com/album/4qB7rdUxJHybVxT9CNJEPT) | 2:41 |

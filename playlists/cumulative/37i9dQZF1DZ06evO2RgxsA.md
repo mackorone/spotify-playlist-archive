@@ -4,11 +4,12 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-121 songs - 4 hr 46 min
+122 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Stitches](https://open.spotify.com/track/0Nc3hRP3VVWniBqHQtTjVY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 1:55 | 2022-09-16 | 2022-12-04 |
+| [13 Stitches](https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 1:55 | 2025-09-29 |  |
 | [60%](https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:25 | 2025-08-22 |  |
 | [60%](https://open.spotify.com/track/6Rnht7CdElV3gwvTGv6It0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:25 | 2022-09-16 | 2025-08-22 |
 | [72 Hookers](https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM) | 3:36 | 2025-08-23 |  |

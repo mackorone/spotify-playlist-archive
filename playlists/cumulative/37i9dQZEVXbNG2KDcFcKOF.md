@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Global.
 
-585 songs - 1 day 8 hr 14 min
+586 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2024-11-29 | 2024-12-07 |
 | [Heavy Is the Crown](https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:47 | 2024-11-22 | 2024-11-30 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-10-04 | 2024-10-19 |
-| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2025-09-26 |  |
+| [Here With Me](https://open.spotify.com/track/0NLm9bQG7ikL5k9x9TtYT7) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/5ZeC565lvqy4AOVE0QgyFl) | 4:02 | 2025-09-26 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2025-09-26 | 2025-09-29 |
 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 | 2024-11-01 | 2024-11-09 |
 | [hey now \(feat\. dody6\)](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 | 2024-11-29 | 2024-12-07 |
 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-02-02 | 2024-02-10 |

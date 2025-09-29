@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 926421,
+  "num_followers": 926105,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Movin",
         "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 131000,
       "name": "Movin",
       "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
         "name": "We Don\u2019t Need",
         "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188644,
       "name": "We Don\u2019t Need",
       "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Senses (Now We Go)",
         "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 153750,
       "name": "Senses (Now We Go)",
       "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
       "artists": [
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Kris Kiss",
-          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
         }
       ],
-      "duration_ms": 150875,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1407,22 +1407,22 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
         },
         {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
         }
       ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+      "duration_ms": 150875,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "You Ate That",
         "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 196875,
       "name": "You Ate That",
       "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        }
-      ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 205846,
       "name": "No Ecstasy Love",
       "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     }
   ],
   "unique_name": "Shuffle Syndrome",

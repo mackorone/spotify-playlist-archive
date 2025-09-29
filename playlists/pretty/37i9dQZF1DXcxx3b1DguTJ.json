@@ -1,6 +1,6 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 157500,
+  "num_followers": 157539,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
+        "name": "Guajiro Natural",
+        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 327240,
       "name": "Otro D\u00eda M\u00e1s Sin Verte",
       "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
-        "name": "Guajiro Natural",
-        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
     },
     {
       "added_at": "2024-08-23 02:54:08",
@@ -807,18 +807,22 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Pop Latino (Vol. 2)",
-        "url": "https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ"
+        "name": "Coleccion definitiva (Deluxe)",
+        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
       "artists": [
         {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 224373,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
+      "duration_ms": 273373,
+      "name": "Te lo agradezco, pero no (feat. Shakira)",
+      "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
     }
   ],
   "unique_name": "Pa Planchar",

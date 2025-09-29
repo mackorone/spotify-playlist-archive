@@ -1,13 +1,29 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10892,
+  "num_followers": 10891,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAALf2GsaPmTjdtb3kxJg+MXE/hBM6HS",
+  "snapshot_id": "AAALgTrsGPjoIgKlawquqAv+P3JempEe",
   "tracks": [
+    {
+      "added_at": "2025-09-28 17:13:56",
+      "album": {
+        "name": "Hi!",
+        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "Hi!",
+      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
+    },
     {
       "added_at": "2025-09-26 13:31:58",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？cover: 藤井 風
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,153 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,154 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 54 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 |
 | 55 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
 | 56 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
-| 57 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
-| 58 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 57 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
+| 58 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
 | 59 | [RAIN](https://open.spotify.com/track/0aFUi8kAIUcLEaM6LylNui) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [RAIN](https://open.spotify.com/album/6opQlVBxjiPp5WS0QCuOe3) | 5:06 |
 | 60 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
 | 61 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 92 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
 | 93 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
 | 94 | [Life goes on](https://open.spotify.com/track/5MuDopbi2aVxg8HjwJd3T6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life goes on](https://open.spotify.com/album/5IKkUL547sLdaFV9v30OwI) | 3:51 |
-| 95 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 |
-| 96 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
-| 97 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 |
+| 95 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
+| 96 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 |
+| 97 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 |
 | 98 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
 | 99 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
 | 100 | [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 |

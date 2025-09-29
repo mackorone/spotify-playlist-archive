@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,415 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,418 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
 | 41 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
 | 42 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
-| 43 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
-| 44 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
+| 43 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
+| 44 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
 | 45 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
 | 46 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
 | 47 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |

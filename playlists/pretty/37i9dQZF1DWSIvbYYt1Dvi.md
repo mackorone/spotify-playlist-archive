@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > regras pras negras bonitas de 20 e poucos anos; e AULAS pra canalha mentiroso \- que inclusive, já estão sendo vencidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,043 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,865 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46055,
+  "num_followers": 46054,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABJDVYqY9tzyTs+lp8I/+Ge",
+  "snapshot_id": "aNcpAAAAAADTnfFYUjaRi9VvQbm4o9/f",
   "tracks": [
     {
       "added_at": null,
@@ -179,50 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 219294,
-      "name": "Levante",
-      "url": "https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 227713,
-      "name": "Coisas Dessa Vida",
-      "url": "https://open.spotify.com/track/74lRYKTgAjPfMrR7yOdfqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -247,6 +203,50 @@
       "duration_ms": 246533,
       "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
       "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 227713,
+      "name": "Coisas Dessa Vida",
+      "url": "https://open.spotify.com/track/74lRYKTgAjPfMrR7yOdfqq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 219294,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Daniel Cohen",
-          "url": "https://open.spotify.com/artist/3iJIROwAPLVwQIjZN8minH"
-        }
-      ],
-      "duration_ms": 261642,
-      "name": "Virando a Mesa",
-      "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 O Amanhecer",
         "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 179818,
       "name": "At\u00e9 O Amanhecer",
       "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Daniel Cohen",
+          "url": "https://open.spotify.com/artist/3iJIROwAPLVwQIjZN8minH"
+        }
+      ],
+      "duration_ms": 261642,
+      "name": "Virando a Mesa",
+      "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Coragem da Luz",
         "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Assim Seja",
         "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
@@ -899,6 +899,26 @@
       "duration_ms": 265896,
       "name": "Tudo Ou Nada",
       "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
+      "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 206643,
       "name": "Meu Sol",
       "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
-      "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 177679,
+      "name": "Vagabundo Qualquer",
+      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Vai Ser?",
         "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
       },
@@ -1035,22 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seis Sons",
         "url": "https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 243070,
       "name": "Ainda Tem",
       "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 177679,
-      "name": "Vagabundo Qualquer",
-      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
     },
     {
       "added_at": null,

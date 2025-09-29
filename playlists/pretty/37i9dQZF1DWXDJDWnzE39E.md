@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,848 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,867 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 47 | [Love Bites \(So Do I\)](https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 48 | [Cry for the Moon \(The Embrace That Smothers , Pt\. 4\)](https://open.spotify.com/track/66iX4HzM7YnmxmUZOSCG2F) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 6:46 |
 | 49 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
-| 50 | [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 |
-| 51 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 |
+| 50 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 |
+| 51 | [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 |
 | 52 | [Lovesong](https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy) | [Snake River Conspiracy](https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A) | [Sonic Jihad](https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq) | 3:55 |
 | 53 | [Karate](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 |
 | 54 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 55 | [The Path To Decay](https://open.spotify.com/track/4uaQ7adjRXgBWuSzlAH9vS) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi) | [The 13th Floor](https://open.spotify.com/album/4n9Gd9GTci9XdXsadWTlTp) | 4:17 |
 | 56 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
-| 57 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
-| 58 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 57 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 58 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
 | 59 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
 | 60 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
 | 61 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 96 | [T.I.M.E.](https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [T.I.M.E.](https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY) | 3:58 |
 | 97 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
 | 98 | [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 |
-| 99 | [Make Me Suffer](https://open.spotify.com/track/3xxXGqhgN3vqJ1qmFNjecV) | [Spike 1000](https://open.spotify.com/artist/7Hyu4pnw8uzvTQZeLO0APB) | [Waste Of Skin](https://open.spotify.com/album/5vlJuHJKL0fkvGBoZbaDnK) | 2:59 |
-| 100 | [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 |
+| 99 | [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 |
+| 100 | [Make Me Suffer](https://open.spotify.com/track/3xxXGqhgN3vqJ1qmFNjecV) | [Spike 1000](https://open.spotify.com/artist/7Hyu4pnw8uzvTQZeLO0APB) | [Waste Of Skin](https://open.spotify.com/album/5vlJuHJKL0fkvGBoZbaDnK) | 2:59 |
 
 Snapshot ID: `AAAAAO3UCujJYnVYGJK8ETzyLijxFLgP`

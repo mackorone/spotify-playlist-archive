@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,807 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,828 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 33 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 |
 | 34 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 |
 | 35 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
-| 36 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 |
-| 37 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
+| 36 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
+| 37 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 |
 | 38 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
 | 39 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
 | 40 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 63 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
 | 64 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
 | 65 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
-| 66 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
-| 67 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
+| 66 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
+| 67 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
 | 68 | [I Won't Let You Down](https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0) | [Ph.D.](https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO) | [I Won't Let You Down](https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95) | 4:02 |
 | 69 | [Africa](https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hold The Line: The Ultimate Toto Collection](https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN) | 4:56 |
 | 70 | [In The Army Now](https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now \- The Collection](https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg) | 4:41 |

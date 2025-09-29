@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20766,
+  "num_followers": 20771,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACITdvnsE8fv7dwCtvHJ7dC",
+  "snapshot_id": "aNcpAAAAAADqLho3DZZwErUCf5v8tCUq",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 244000,
       "name": "Life Is Eazi",
       "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Nkrumah Krom Vol II: Home Run",
-        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
     },
     {
       "added_at": null,
@@ -711,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
       "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
     },
     {
       "added_at": null,
@@ -771,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
       },
       "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     },
     {
       "added_at": null,

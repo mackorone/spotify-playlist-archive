@@ -4,7 +4,7 @@
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-2,860 songs - 6 day 7 hr 27 min
+2,861 songs - 6 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1101,6 +1101,7 @@
 | [Heroes & Heroines](https://open.spotify.com/track/30ckrEXEgKF7PhDRPBPdCx) | [The Brides of the Black Room](https://open.spotify.com/artist/35fafKhcshJbUYbBnM6PW1) | [Heroes & Heroines](https://open.spotify.com/album/2PSbAXuBtDcWcEWI8b0t6E) | 3:39 | 2024-11-22 | 2024-11-30 |
 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 | 2025-07-04 | 2025-07-12 |
 | [Hey Joe \(Relax\)](https://open.spotify.com/track/0Dz1uM6PvaTyhcyFfr8mOo) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Hey Joe \(Relax\)](https://open.spotify.com/album/33LCWNQAlYHoT2JgYIiZwe) | 3:31 | 2022-03-04 | 2022-03-12 |
+| [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 | 2025-09-28 |  |
 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-06-03 | 2022-06-11 |
 | [Hide Away](https://open.spotify.com/track/0wCMJ0s4wTZhLREbqz8i5N) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Hide Away](https://open.spotify.com/album/0SRANkHALQf6UsEnhetYnQ) | 3:24 | 2022-05-20 | 2022-05-28 |
 | [Hideaway](https://open.spotify.com/track/6H5v5p2zvsDHrGjtBbD64f) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hideaway](https://open.spotify.com/album/6lODStNXihoedfKBtXD2u1) | 2:17 | 2022-05-13 | 2022-05-21 |

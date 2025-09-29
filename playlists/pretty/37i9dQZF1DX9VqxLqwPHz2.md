@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today? Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,393 likes - 56 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,441 likes - 56 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 33 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
 | 34 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
 | 35 | [Try Everything](https://open.spotify.com/track/67Yfu97e4fbf2jKmRzaB6I) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 3:16 |
-| 36 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
-| 37 | [IS IT](https://open.spotify.com/track/0gJIHsVqanY9BxmqZSKUyS) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/6JUTge9m47mUhFsY29WjPt) | 2:44 |
+| 36 | [IS IT](https://open.spotify.com/track/0gJIHsVqanY9BxmqZSKUyS) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/6JUTge9m47mUhFsY29WjPt) | 2:44 |
+| 37 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
 | 38 | [La Sandunguera](https://open.spotify.com/track/3xQ254OSkFQBk1F69d3Gwc) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Sandunguera](https://open.spotify.com/album/0wJRHjnCyxwKkeY2zFRMUQ) | 3:25 |
 | 39 | [Unfinished Business](https://open.spotify.com/track/79fu6pXCo48UYgKtvavzDI) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 3:16 |
 | 40 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
-| 41 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
-| 42 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
+| 41 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
+| 42 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
 | 43 | [Finest](https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Finest](https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd) | 1:50 |
 | 44 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
 | 45 | [Woman \(Green\)](https://open.spotify.com/track/3ZWvKLyIWv4IvdZOusuuQm) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Die cozy season geht los 🍂
 
-272 songs - 15 hr 22 min
+273 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Home \(From Barbie The Album\)](https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Home \(From Barbie The Album\)](https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF) | 3:46 | 2023-07-26 | 2023-09-16 |
 | [hostage](https://open.spotify.com/track/1WsEgieHsWWndAzLkmV105) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:49 | 2023-07-26 | 2024-02-10 |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-07-26 | 2024-11-10 |
+| [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 | 2025-09-25 |  |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-19 | 2025-03-25 |
 | [Howling](https://open.spotify.com/track/1fDhy9I5YTf2NAKThCscVq) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 5:23 | 2024-02-09 | 2024-03-19 |
 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 | 2023-07-26 |  |
@@ -124,7 +125,7 @@
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-07-26 |  |
 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 | 2024-02-09 | 2024-10-19 |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 | 2023-07-26 | 2024-04-19 |
-| [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-06-17 |  |
+| [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-06-17 | 2025-09-29 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-03-01 | 2024-07-02 |
 | [letmego](https://open.spotify.com/track/5GPDuSp1iJUhzHKaLiW0Cp) | [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [letmego](https://open.spotify.com/album/3GrBUgaBa8NkC5mqdXBY1A) | 3:20 | 2025-01-10 | 2025-05-23 |
 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 | 2024-11-14 |  |

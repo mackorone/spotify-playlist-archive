@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 303 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,787 likes - 303 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 137 | [Beam \(feat\. Playboi Carti\)](https://open.spotify.com/track/7lKdtdhO5v1X4n1yZF4k4N) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Head In The Clouds](https://open.spotify.com/album/0mSQUlyUIJixplxMPE1HX0) | 2:31 |
 | 138 | [Supersoaka](https://open.spotify.com/track/448jAEFZ22wbfkZj2F4Gnq) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [7 Series](https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg) | 3:15 |
 | 139 | [Shopping Spree \(feat\. Lil Pump & Sheck Wes\)](https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Shopping Spree \(feat\. Lil Pump & Sheck Wes\)](https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ) | 2:50 |
-| 140 | [Pockets](https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 3:13 |
-| 141 | [OT](https://open.spotify.com/track/2gZPA22EFF9rzq6hahAU8F) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:14 |
+| 140 | [OT](https://open.spotify.com/track/2gZPA22EFF9rzq6hahAU8F) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:14 |
+| 141 | [Pockets](https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 3:13 |
 | 142 | [What It Do](https://open.spotify.com/track/0GvoFT7tQXuWpHKELqBjls) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:26 |
 | 143 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/2BkLXVUY6jMWcNg5snKSE9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 3:39 |
 | 144 | [Runtz](https://open.spotify.com/track/5JOgWCF1NOHHZMQLKH4o72) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:14 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 302 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 303 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ab9YKAAAAAAThgnGPM08PNDCIpRsQX3O`
+Snapshot ID: `Ab9d5gAAAAAmqcLjrEjSkSAoQRV0yH0C`

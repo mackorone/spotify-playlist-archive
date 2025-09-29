@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,976 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,972 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 34 | [Palace](https://open.spotify.com/track/1phRuf0KNLOFGzDVE2UYIv) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Palace](https://open.spotify.com/album/4vPTv6XOfiU5nyBisBJEdu) | 3:08 |
 | 35 | [Colorado](https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:57 |
 | 36 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
-| 37 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
-| 38 | [Northsiders](https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:43 |
+| 37 | [Northsiders](https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:43 |
+| 38 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
 | 39 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
 | 40 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 |
 | 41 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 64 | [Heart To Ride](https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk) | 4:09 |
 | 65 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 |
 | 66 | [Paradise Bay](https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Look Up & Fly Away](https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF) | 2:29 |
-| 67 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 |
-| 68 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
+| 67 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
+| 68 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 |
 | 69 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
-| 70 | [Family Tapes](https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Family Tapes](https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp) | 4:23 |
-| 71 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
+| 70 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
+| 71 | [Family Tapes](https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Family Tapes](https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp) | 4:23 |
 | 72 | [White Bird](https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [White Bird](https://open.spotify.com/album/4zHrB2f7c1S9CuEJnz8woA) | 3:24 |
 | 73 | [Enjoy the Silence \- Live from the Front Porch](https://open.spotify.com/track/5sjbWOn7ZhqhF7Z0CCXPwh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Enjoy the Silence \(Live from the Front Porch\)](https://open.spotify.com/album/5neuo4usIz6sjvtV8anBsN) | 3:21 |
 | 74 | [Candle](https://open.spotify.com/track/6FZVM2aVccCZS9Jd3Cd9SJ) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:14 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 80 | [Shouldn't Tell U](https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:02 |
 | 81 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
 | 82 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
-| 83 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
-| 84 | [Friday Night Lights](https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Friday Night Lights](https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY) | 3:20 |
+| 83 | [Friday Night Lights](https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Friday Night Lights](https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY) | 3:20 |
+| 84 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
 | 85 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
 | 86 | [The Right Track](https://open.spotify.com/track/2M7UF2fo4AC93VpZXBK6nk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Right Track](https://open.spotify.com/album/0Yc69e9d5M0txUciOA6w2J) | 3:26 |
 | 87 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |

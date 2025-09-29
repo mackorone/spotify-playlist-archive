@@ -3429,6 +3429,28 @@
     },
     {
       "album": {
+        "name": "DREAMING ON",
+        "url": "https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        },
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230018,
+      "name": "DREAMING ON",
+      "url": "https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg"
+    },
+    {
+      "album": {
         "name": "Drifter",
         "url": "https://open.spotify.com/album/79p9DOvfUpXIVUUzkqdeb2"
       },
@@ -6990,7 +7012,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"

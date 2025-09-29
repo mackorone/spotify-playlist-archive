@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 8 hr 18 min
+163 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 | 2025-04-14 |  |
 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 | 2022-05-29 |  |
 | [Baby Blue](https://open.spotify.com/track/2dVY0aLXcsN3eKCvcgs3MQ) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/5GIRmKFCucH40zEWxHkwDQ) | 2:59 | 2022-05-29 |  |
+| [Bad Bad](https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Flight Risk](https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt) | 3:01 | 2025-09-28 |  |
 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 | 2022-05-29 |  |
 | [Better](https://open.spotify.com/track/10OTwttB9ioc2P7UlClFNg) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/0qmGuUwu9ql6avlCA1ShFV) | 3:24 | 2025-07-24 | 2025-07-31 |
 | [Blond](https://open.spotify.com/track/7sif8MyTwCcd4iiYeBdG1v) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Blond](https://open.spotify.com/album/4UC9EKAqCblrz1YhAuJ5HN) | 2:07 | 2025-08-25 | 2025-08-28 |
@@ -59,7 +60,8 @@
 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 | 2022-05-29 |  |
 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 | 2022-05-29 |  |
 | [Head in the Clouds](https://open.spotify.com/track/0NSb1a5SxMTzYbKhwIgvdY) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Head in the Clouds](https://open.spotify.com/album/7K9ok645oF4PJJSLzhLNPs) | 2:27 | 2022-10-22 |  |
-| [Hennessy in Tennessee](https://open.spotify.com/track/48gdO56xOzbd1ROAgbptvR) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Hennessy in Tennessee](https://open.spotify.com/album/4flI18cs8lCMDl9utQZdV2) | 2:45 | 2025-08-03 |  |
+| [Hennessy in Tennessee](https://open.spotify.com/track/2l5g2LCFSMpj2jUz0RZrdF) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a) | 2:45 | 2025-09-28 |  |
+| [Hennessy in Tennessee](https://open.spotify.com/track/48gdO56xOzbd1ROAgbptvR) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Hennessy in Tennessee](https://open.spotify.com/album/4flI18cs8lCMDl9utQZdV2) | 2:45 | 2025-08-03 | 2025-09-29 |
 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 | 2022-05-29 |  |
 | [Home We Choose](https://open.spotify.com/track/0XxwxPxS2oK6Iv0Ge6DwkB) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Hello California](https://open.spotify.com/album/2PnbNBgtDA7VPdIJaHOYV3) | 4:10 | 2025-03-09 |  |
 | [Home We Choose](https://open.spotify.com/track/0zGMBpjVICRyirb4R37Z2d) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Home We Choose](https://open.spotify.com/album/3JCvxtcHrxJ97MlqVUUnEA) | 4:10 | 2024-12-11 | 2025-03-10 |
@@ -138,7 +140,8 @@
 | [Somebody Else's Somebody](https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Somebody Else's Somebody](https://open.spotify.com/album/0EEFDFAx0cFS7zV5WGhTdk) | 3:05 | 2022-05-29 |  |
 | [Someone Else's Heartbreak](https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:35 | 2024-01-14 |  |
 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 | 2023-02-13 | 2024-01-15 |
-| [Still Feels The Same](https://open.spotify.com/track/3S1OoEefEIr19VaP9glJS9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Still Feels The Same](https://open.spotify.com/album/3osSwN8ncik0vVB5TJ7rOB) | 3:01 | 2025-09-16 |  |
+| [Still Feels The Same](https://open.spotify.com/track/2fOjTmGULGRwVBKoj7unUj) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a) | 3:01 | 2025-09-28 |  |
+| [Still Feels The Same](https://open.spotify.com/track/3S1OoEefEIr19VaP9glJS9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Still Feels The Same](https://open.spotify.com/album/3osSwN8ncik0vVB5TJ7rOB) | 3:01 | 2025-09-16 | 2025-09-29 |
 | [summer](https://open.spotify.com/track/2lGcI6Ree0yaSZcZchs0tK) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 2:55 | 2022-05-29 | 2023-12-14 |
 | [summer](https://open.spotify.com/track/3ChV5kL1hc9yfPgCHLSXEb) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/7kM5N8LhfPhz8BWronkeub) | 2:55 | 2023-12-13 |  |
 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 | 2022-07-16 |  |

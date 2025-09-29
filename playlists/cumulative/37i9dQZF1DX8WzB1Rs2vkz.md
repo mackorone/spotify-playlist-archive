@@ -4,7 +4,7 @@
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-126 songs - 8 hr 2 min
+127 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 | 2022-01-21 |  |
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 | 2022-01-21 |  |
 | [Que No Acabe Nunca](https://open.spotify.com/track/1ct966dGAiUcrtDNBfcXOD) | [ZELAYA](https://open.spotify.com/artist/7cxTiqxgNSaWxH0B7Embav) | [Que No Acabe Nunca](https://open.spotify.com/album/6K1LDN9aaElEYzWHK5iZgv) | 2:31 | 2024-02-16 | 2024-06-01 |
+| [Que Pase](https://open.spotify.com/track/1sl3BFidCGYy9FdchsRPJ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:46 | 2025-09-28 |  |
 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 | 2022-01-21 |  |
 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-25 |  |
 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 | 2022-01-21 |  |
@@ -132,7 +133,7 @@
 | [Vivir Lo Nuestro](https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 6:07 | 2022-01-21 |  |
 | [Volví a Nacer](https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:42 | 2022-01-21 |  |
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2022-01-21 | 2025-03-01 |
-| [Yo Quiero El Amor](https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Yo Quiero El Amor](https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6) | 2:25 | 2023-10-20 |  |
+| [Yo Quiero El Amor](https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Yo Quiero El Amor](https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6) | 2:25 | 2023-10-20 | 2025-09-29 |
 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 | 2023-10-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

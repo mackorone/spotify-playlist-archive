@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,165 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,184 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 19 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
 | 20 | [Wereld Zonder Jou](https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [De Waarheid](https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT) | 3:55 |
 | 21 | [Blauw](https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 4:36 |
-| 22 | [Is Dit Nou Later](https://open.spotify.com/track/1IzELBSXRDrHDnku1wHJwh) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:35 |
-| 23 | [Passie](https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Oker](https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf) | 5:02 |
+| 22 | [Passie](https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Oker](https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf) | 5:02 |
+| 23 | [Is Dit Nou Later](https://open.spotify.com/track/1IzELBSXRDrHDnku1wHJwh) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:35 |
 | 24 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 |
 | 25 | [Margherita](https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Als Geen Ander](https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7) | 4:10 |
 | 26 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 33 | [Niemand In De Stad](https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 4:51 |
 | 34 | [Never Nooit Meer \(met Re\-Play\)](https://open.spotify.com/track/10H17JhicnxEQgCTRaYFCQ) | [Gordon](https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Met Hart En Ziel](https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE) | 4:28 |
 | 35 | [Ik Zing Dit Lied Voor Jou Alleen](https://open.spotify.com/track/5B8eDgLd2vpOA8hBbtCq3u) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [15 Jaar Hits](https://open.spotify.com/album/0aHzVXees4v4iEK5LIbX5H) | 3:39 |
-| 36 | [Iedereen Is Van De Wereld](https://open.spotify.com/track/7DiNSKlP2d7OiiMNlSeBtb) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 3:46 |
-| 37 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 |
+| 36 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 |
+| 37 | [Iedereen Is Van De Wereld](https://open.spotify.com/track/7DiNSKlP2d7OiiMNlSeBtb) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 3:46 |
 | 38 | [Woorden Zonder Woorden](https://open.spotify.com/track/63Ulbl3LNcl2ba5C7eTCzJ) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Noorderzon](https://open.spotify.com/album/3hgDxj0bkrbBH099Mq7Zzv) | 3:30 |
 | 39 | [Hemel & Aarde](https://open.spotify.com/track/16kFUvzMPTUEcE4rQjT2n5) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg) | [Meer Dan Ooit](https://open.spotify.com/album/1CdfRQ9JgqHO19ERy3HkSr) | 3:01 |
 | 40 | [Mag Ik Naar Je Kijken?](https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet) | [Marcel De Groot](https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk) | [Manen Kweken](https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK) | 4:21 |

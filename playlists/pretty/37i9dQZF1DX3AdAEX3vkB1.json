@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 312997,
+  "num_followers": 313168,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The House of the Rising Sun: Best of The Animals",
-        "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 269906,
-      "name": "The House of the Rising Sun",
-      "url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The House of the Rising Sun: Best of The Animals",
+        "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "The House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Chubby Checker 1959-1963",
-        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 156160,
       "name": "Tell Him - Single Version",
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Chubby Checker 1959-1963",
+        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 114986,
-      "name": "How Do You Do It? - Mono",
-      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Circulate (Expanded Edition)",
         "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 157026,
       "name": "Happy Birthday, Sweet Sixteen",
       "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 114986,
+      "name": "How Do You Do It? - Mono",
+      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tina!",
-        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 136266,
       "name": "Breaking Up Is Hard to Do",
       "url": "https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Oldies 60's",
-        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/13jJu9zoXOQnqiLaJsg41K"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 164840,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Oldies 60's",
+        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/13jJu9zoXOQnqiLaJsg41K"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Groovin' with Manfred Mann",
-        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Do Wah Diddy Diddy",
-      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
@@ -1903,22 +1887,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Rhino Hi-Five: Arthur Conley",
-        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1931,6 +1899,38 @@
       "duration_ms": 174640,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Groovin' with Manfred Mann",
+        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Rhino Hi-Five: Arthur Conley",
+        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
     },
     {
       "added_at": "2022-06-16 22:02:00",

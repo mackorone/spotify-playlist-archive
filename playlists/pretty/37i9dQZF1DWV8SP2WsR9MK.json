@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 116512,
+  "num_followers": 116567,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQNydzLDsxcBadJDoAedNDgwi4f",
+  "snapshot_id": "AAAAAHZGX7eoh6EdY4fJ3Yx8i3M4zpJp",
   "tracks": [
     {
       "added_at": "2025-09-10 12:20:14",
@@ -103,38 +103,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "A Go Go",
-        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 395933,
-      "name": "A Go Go",
-      "url": "https://open.spotify.com/track/4bcyZfaAWCN5SwJgYToxkN"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "So Much Guitar!",
-        "url": "https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -155,6 +123,38 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "So Much Guitar!",
+        "url": "https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "A Go Go",
+        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 395933,
+      "name": "A Go Go",
+      "url": "https://open.spotify.com/track/4bcyZfaAWCN5SwJgYToxkN"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+        "name": "Green Street (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+      "duration_ms": 432213,
+      "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Green Street (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 432213,
-      "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
     },
     {
       "added_at": "2025-09-10 12:20:14",

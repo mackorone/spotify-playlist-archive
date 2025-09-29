@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37653,
+  "num_followers": 37667,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADWBkhimYWZbQr+sWoQx5OR",
+  "snapshot_id": "aNcpAAAAAAA0OVyx1s7BX3JfVep7rx/+",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "For The Cool In You",
-      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painted (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217433,
       "name": "Shoulda (feat. Babyface)",
       "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "And Our Feelings",
-      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 278293,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "And Our Feelings",
+      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "The Loneliness",
+      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "The Loneliness",
-      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 285760,
       "name": "Standing Ovation",
       "url": "https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 144581,
       "name": "As a matter of fact",
       "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
     },
     {
       "added_at": null,

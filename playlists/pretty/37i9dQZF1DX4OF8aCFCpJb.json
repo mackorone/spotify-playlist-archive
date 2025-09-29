@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70931,
+  "num_followers": 70930,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "\u00d6PPNA D\u00d6RREN NU",
-        "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u00d6PPNA D\u00d6RREN NU",
-      "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Sanna Mina Ord",
         "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 249423,
       "name": "Sanna Mina Ord",
       "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "\u00d6PPNA D\u00d6RREN NU",
+        "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u00d6PPNA D\u00d6RREN NU",
+      "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
     },
     {
       "added_at": "2024-06-24 11:19:01",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-365 songs - 22 hr 24 min
+366 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 | 2024-04-19 |  |
 | [It Gets Better](https://open.spotify.com/track/0OdgyUig3oQTf96PcKJDZG) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 3:36 | 2025-01-09 | 2025-04-12 |
 | [ivy](https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:20 | 2024-04-19 |  |
-| [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-09-03 |  |
+| [Jealous Type](https://open.spotify.com/track/03JZr55j9bIj1d2RQJ7Yq9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 2:43 | 2025-09-28 |  |
+| [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-09-03 | 2025-09-29 |
 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-04-19 |  |
 | [Joanie](https://open.spotify.com/track/1bCFgapvqHqqcuQXgnP94L) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:45 | 2024-04-19 |  |
 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 | 2024-04-19 |  |
@@ -235,7 +236,7 @@
 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 | 2025-09-16 |  |
 | [Never Fall In Love](https://open.spotify.com/track/1f6zTjO9xqaRRbs1p9H4r6) | [Jack Antonoff](https://open.spotify.com/artist/414TS3VqZf1XPCBixdmX9n), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Love, Simon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JHZTusMlrbbTBC3xHt2Gw) | 3:36 | 2024-04-19 |  |
 | [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 | 2024-04-19 |  |
-| [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 | 2024-04-19 | 2025-09-28 |
+| [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 | 2024-04-19 |  |
 | [New York \[Feat\. Yoshiki\]](https://open.spotify.com/track/5dvJCDqqOo1k2SoQuikuVq) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm) | [New York \[Feat\. Yoshiki\]](https://open.spotify.com/album/5ikEiYpIpFiLkEeAswZkHU) | 2:53 | 2024-04-19 |  |
 | [Night Falls](https://open.spotify.com/track/6hnLfSOsjfa5xicvGmRoWe) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [For You My Dear](https://open.spotify.com/album/3toQujbbgQFTqT6CsdQ2re) | 2:51 | 2024-04-19 |  |
 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 | 2024-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: Barry B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,824 likes - 46 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,825 likes - 46 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [UNA MINA](https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [DE LA MAÑANA A LA NOCHE](https://open.spotify.com/album/3DbWFNtuLrPUhVszto2fCz) | 2:29 |
 | 19 | [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 |
 | 20 | [ENSÉÑAME EL AMOR](https://open.spotify.com/track/3PQ897UeSWPuKeSzVn148Z) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:33 |
-| 21 | [Chocolate Axe](https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Chocolate Axe](https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim) | 2:47 |
+| 21 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 |
 | 22 | [Cuando Tú Estás Aquí](https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Cuando Tú Estás Aquí](https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7) | 3:07 |
 | 23 | [LA INNOMBRABLE](https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [LA INNOMBRABLE](https://open.spotify.com/album/1kT6w4Zv616edhEXtGFq6F) | 2:33 |
 | 24 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 |
 | 25 | [A la Orilla](https://open.spotify.com/track/3DC9tSYslFMhq15lmEpP9J) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:34 |
-| 26 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 |
+| 26 | [Chocolate Axe](https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Chocolate Axe](https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim) | 2:47 |
 | 27 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
 | 28 | [PACMAN \(Remix\)](https://open.spotify.com/track/2CtTx2D1msEd7quDtRX4dk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN \(Remix\)](https://open.spotify.com/album/2tvoulqzMBRQeuwiW8EjHF) | 3:16 |
 | 29 | [Cari](https://open.spotify.com/track/51YXhOh8taqRam8XVga4uc) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cari](https://open.spotify.com/album/2ALeu54Vl6DOORM3v0lbZx) | 2:10 |

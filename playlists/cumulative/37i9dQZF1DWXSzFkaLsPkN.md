@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Anumita Nadesan
 
-291 songs - 15 hr 58 min
+292 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-09 | 2023-09-12 |
 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 | 2023-05-26 | 2023-06-02 |
 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 | 2023-05-02 | 2025-09-17 |
-| [Dooriyan](https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/4BOujWmDMwZosg7mvW0Y9x) | 3:59 | 2024-03-26 |  |
+| [Dooriyan](https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/4BOujWmDMwZosg7mvW0Y9x) | 3:59 | 2024-03-26 | 2025-09-29 |
 | [Enna Sona](https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Enna Sona](https://open.spotify.com/album/3EScBmh7oNVeBFJwgc3QBp) | 2:36 | 2023-05-02 | 2025-09-17 |
 | [ESWY](https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [ESWY](https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI) | 2:59 | 2025-06-20 | 2025-09-26 |
 | [Faasle](https://open.spotify.com/track/2sUCQRozz4pBXmjhbFLzCj) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Rishi Pathak](https://open.spotify.com/artist/70ay8w6FiSddbDt3g8yFxM) | [Faasle](https://open.spotify.com/album/4ewFSPW3fnWlkkdLqTskXZ) | 3:32 | 2025-04-18 | 2025-06-26 |
@@ -288,6 +288,7 @@
 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-09-30 |  |
 | [Uljhe Hue \- From "Uljhe Hue"](https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Melissa Srivastava](https://open.spotify.com/artist/6TRkbVu5prWSsBreC4tw4K) | [Uljhe Hue \(From "Uljhe Hue"\)](https://open.spotify.com/album/6VDcItSobKtTHwCIrmYdvx) | 1:52 | 2023-05-02 | 2024-08-21 |
 | [Waadiyan](https://open.spotify.com/track/0tncVBZdQYMzn2QB6SIIJ9) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9) | [Waadiyan](https://open.spotify.com/album/4vHkr8nlTomIr17DcY3pdL) | 3:00 | 2024-05-06 | 2024-06-19 |
+| [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 | 2025-09-19 |  |
 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 | 2023-05-02 | 2024-04-19 |
 | [Woh Saat Din](https://open.spotify.com/track/4fzWJzRguQ0M5oWimQTc74) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Woh Saat Din](https://open.spotify.com/album/58oqmHGR8kmIilEkiKzuAj) | 3:42 | 2024-01-09 | 2024-04-19 |
 | [Woh Saat Din](https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Maara](https://open.spotify.com/artist/2Ew8QqQQX8IPgivoKQP5CG) | [Woh Saat Din](https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa) | 3:42 | 2023-05-02 | 2023-11-16 |

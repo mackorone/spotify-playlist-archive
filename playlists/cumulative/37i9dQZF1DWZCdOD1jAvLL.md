@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: LOSTBOYJAY
 
-892 songs - 2 day 0 hr 17 min
+893 songs - 2 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-06-24 | 2022-09-03 |
 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-11 | 2025-08-09 |
 | [Like That](https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Chris Arna](https://open.spotify.com/artist/5bAJpTB3P1q1HrW9x66wVK), [Voodoochild](https://open.spotify.com/artist/5xQx4ztvXaqI0HmeArL7IA) | [Like That](https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw) | 2:55 | 2024-11-15 | 2025-03-08 |
-| [Like That](https://open.spotify.com/track/1Z7Hi0l3MKc7hFajM2Ocde) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Like That](https://open.spotify.com/album/7oRtW8f3lbjdtc1ZpDm22b) | 2:18 | 2025-08-29 |  |
+| [Like That](https://open.spotify.com/track/1Z7Hi0l3MKc7hFajM2Ocde) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Like That](https://open.spotify.com/album/7oRtW8f3lbjdtc1ZpDm22b) | 2:18 | 2025-08-29 | 2025-09-29 |
 | [LIMIT](https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [LIMIT](https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU) | 3:37 | 2023-06-30 | 2023-12-04 |
 | [Loca](https://open.spotify.com/track/3ww0kfsqNhowRhFX6X0OIl) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Loca](https://open.spotify.com/album/0X2TnyAXQalh7Vh0TZSVZF) | 2:55 | 2023-09-08 | 2023-11-18 |
 | [Loca People](https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Loca People](https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs) | 2:38 | 2023-02-24 | 2023-12-08 |
@@ -786,6 +786,7 @@
 | [TALKIN](https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [TALKIN](https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V) | 3:50 | 2022-01-14 | 2022-03-18 |
 | [Talking To Myself](https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl) | [Talking To Myself](https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b) | 3:04 | 2022-10-07 | 2022-12-17 |
 | [TECHNO N' BASS](https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [TECHNO N' BASS](https://open.spotify.com/album/7yiVNFSI7HBuHpgt6FUUqk) | 2:33 | 2024-12-06 | 2025-01-18 |
+| [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 | 2025-09-26 |  |
 | [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-09 | 2025-09-13 |
 | [Tell It To My Heart \(feat\. Hozier\) \- Tiësto Remix](https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tell It To My Heart \(Tiësto Remix\)](https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30) | 2:55 | 2022-01-21 | 2022-04-29 |
 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 | 2023-10-27 | 2024-04-28 |

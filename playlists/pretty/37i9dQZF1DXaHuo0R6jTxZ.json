@@ -1,6 +1,6 @@
 {
   "description": "The biggest Arabic song in the 1990's. Cover : Amr Diab",
-  "num_followers": 125254,
+  "num_followers": 125279,
   "original_name": "All Out Arabic 90's",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,26 @@
     {
       "added_at": "2024-05-28 21:21:46",
       "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
+        "name": "1, 2, 3 Soleils",
+        "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
       },
       "artists": [
         {
           "name": "Khaled",
           "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Faudel",
+          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
         }
       ],
-      "duration_ms": 259666,
-      "name": "A\u00efcha - Version Mixte",
-      "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
+      "duration_ms": 368933,
+      "name": "Didi",
+      "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
     },
     {
       "added_at": "2024-05-28 21:21:46",
@@ -367,26 +375,18 @@
     {
       "added_at": "2024-05-28 21:21:46",
       "album": {
-        "name": "1, 2, 3 Soleils",
-        "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
       },
       "artists": [
         {
           "name": "Khaled",
           "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
-        },
-        {
-          "name": "Rachid Taha",
-          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
-        },
-        {
-          "name": "Faudel",
-          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
         }
       ],
-      "duration_ms": 368933,
-      "name": "Didi",
-      "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+      "duration_ms": 259666,
+      "name": "A\u00efcha - Version Mixte",
+      "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
     },
     {
       "added_at": "2024-05-28 21:21:46",

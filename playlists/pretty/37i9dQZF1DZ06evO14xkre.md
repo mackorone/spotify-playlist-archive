@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,815 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,892 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 49 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
 | 50 | [FUCKING YOUNG / PERFECT \(feat\. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Chaz Bundick](https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 6:41 |
 
-Snapshot ID: `aNXXgAAAAABOes4k/9SvMBmfwa43JSJs`
+Snapshot ID: `aNcpAAAAAABiKxTwvwPq9zzEe9v/BR9/`

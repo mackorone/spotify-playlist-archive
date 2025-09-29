@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,741 songs - 3 day 21 hr 33 min
+1,743 songs - 3 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Everyone Can See](https://open.spotify.com/track/7tKkR4FtdgbZeB7XHnFboe) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:20 | 2022-11-28 | 2022-12-12 |
 | [Everything BoZ](https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [!](https://open.spotify.com/album/11vLnrFGWQRbonR6wFuCf8) | 3:25 | 2023-06-22 | 2023-08-17 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-08-12 | 2022-11-02 |
+| [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 | 2025-09-28 |  |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-20 | 2024-01-21 |
 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2023-11-20 | 2024-03-09 |
 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 | 2022-08-10 | 2022-08-30 |
@@ -493,7 +494,7 @@
 | [Favorite Song \- Sped Up](https://open.spotify.com/track/0IQyjnzXpI67yaW53rRbKx) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song \(Versions\)](https://open.spotify.com/album/3ZFvHAxaEzIiy7QAauFIet) | 2:40 | 2023-03-06 | 2023-03-28 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-02 | 2023-11-08 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-08-07 | 2023-09-22 |
-| [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 | 2025-07-17 |  |
+| [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 | 2025-07-17 | 2025-09-29 |
 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2024-08-14 | 2024-10-02 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-03-21 | 2025-08-11 |
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2022-06-28 | 2022-07-18 |
@@ -932,6 +933,7 @@
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-31 | 2024-04-04 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-24 | 2022-12-16 |
 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 | 2022-09-16 | 2022-11-02 |
+| [Magalenha](https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb) | 3:36 | 2025-09-28 |  |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-03 | 2024-06-20 |
 | [Major Bag Alert \(feat\. Migos\)](https://open.spotify.com/track/6LECek0tkw95AXDGHM4qXj) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 4:57 | 2022-02-08 | 2022-03-18 |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-08-18 |  |
@@ -1330,7 +1332,7 @@
 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 | 2023-02-03 | 2023-08-04 |
 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:55 | 2025-06-19 | 2025-07-18 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-07 | 2022-12-16 |
-| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-11 |  |
+| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-11 | 2025-09-29 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2023-03-07 |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-08 | 2023-04-27 |
 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-03-09 | 2023-03-28 |

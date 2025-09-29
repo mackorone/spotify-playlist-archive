@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Unknown Mortal Orchestra on cover.",
-  "num_followers": 569250,
+  "num_followers": 569336,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Are You Tired? (Keep on Singing)",
-        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
       "artists": [
         {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 404562,
-      "name": "Are You Tired? (Keep on Singing)",
-      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -403,34 +403,18 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
       },
       "artists": [
         {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "Barrio Hustle",
-        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Barrio Hustle",
-      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -447,6 +431,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "Barrio Hustle",
+        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Barrio Hustle",
+      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "Weird World Awoke",
         "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 200935,
       "name": "Weird World Awoke",
       "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "WILLING",
         "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 183829,
       "name": "WILLING",
       "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "A Round of Applause",
         "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 265374,
       "name": "See",
       "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 328404,
       "name": "Disciplina",
       "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Cardboard Pile",
-        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Cardboard Pile",
-      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "Breathe in, Breathe Out",
         "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 170333,
       "name": "Breathe in, Breathe Out",
       "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "Cardboard Pile",
+        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Cardboard Pile",
+      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "Fire In The Blood (Live Masterlink Session)",
+        "url": "https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2"
+      },
+      "artists": [
+        {
+          "name": "Jade Like The Stone",
+          "url": "https://open.spotify.com/artist/0Kh6HlsJJeA2N3Zaol5plH"
+        },
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 257429,
+      "name": "Fire In The Blood - Live Masterlink Session",
+      "url": "https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "Keep The Outside Open",
         "url": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj"
       },
@@ -1603,22 +1623,6 @@
       "duration_ms": 290500,
       "name": "Iris Is Neil",
       "url": "https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1639,22 +1643,18 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Fire In The Blood (Live Masterlink Session)",
-        "url": "https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5MIa2rtg1bmxpWHo3rOOmG"
       },
       "artists": [
         {
-          "name": "Jade Like The Stone",
-          "url": "https://open.spotify.com/artist/0Kh6HlsJJeA2N3Zaol5plH"
-        },
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+          "name": "The Americojones Experience",
+          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
         }
       ],
-      "duration_ms": 257429,
-      "name": "Fire In The Blood - Live Masterlink Session",
-      "url": "https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA"
+      "duration_ms": 506000,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

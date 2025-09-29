@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,509 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,514 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 37 | [Can't Cure This](https://open.spotify.com/track/30yKtsU0Mdxa1RT9Oetlnz) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:41 |
 | 38 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 |
 | 39 | [Majesty \(with Labrinth & feat\. Eminem\)](https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:55 |
-| 40 | [I Pray For You \(feat\. Labrinth & MALICE\)](https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 4:21 |
+| 40 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
 | 41 | [The Pick Me Up](https://open.spotify.com/track/6rpOepkc2lqv21csqXQ7GN) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:47 |
-| 42 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
-| 43 | [Yeh I Fuckin' Did It \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO) | 2:11 |
-| 44 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
+| 42 | [I Pray For You \(feat\. Labrinth & MALICE\)](https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 4:21 |
+| 43 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
+| 44 | [Yeh I Fuckin' Did It \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO) | 2:11 |
 | 45 | [House on the Hill](https://open.spotify.com/track/2zxY34No2G3VZ5rqKhFk2F) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 4:05 |
 | 46 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
 | 47 | [Covering](https://open.spotify.com/track/79RRMy751roUzddljSSgbt) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Sophisticated People](https://open.spotify.com/track/0D5wgYnKiroy17K8SxwAOS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 0:49 |
 | 50 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 |
 
-Snapshot ID: `aNXXgAAAAADBmv38UZq4d6w4NUVOaUXd`
+Snapshot ID: `aNcpAAAAAADQnrl3BC/XWmrPj6j8KKPM`

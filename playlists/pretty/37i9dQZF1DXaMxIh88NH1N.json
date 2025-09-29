@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 200369,
+  "num_followers": 200488,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Yo Ya Sabia Pa Donde Iba",
-        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Yo Ya Sabia Pa Donde Iba",
-      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Joven De La Sierra",
         "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 196603,
       "name": "Joven De La Sierra",
       "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "El Amigo",
+        "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "El Amigo",
+      "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "El Amigo",
-        "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "El Amigo",
-      "url": "https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1667,8 +1667,8 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
       },
       "artists": [
         {
@@ -1676,13 +1676,13 @@
           "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 236426,
-      "name": "El Hombre del Equipo",
-      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Gallos Y Caballos",
-        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
       "artists": [
         {
@@ -1768,13 +1768,13 @@
           "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 158543,
-      "name": "Gallos Y Caballos",
-      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+      "duration_ms": 236426,
+      "name": "El Hombre del Equipo",
+      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
     },
     {
       "added_at": "2025-05-27 18:54:46",

@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Flight Risk",
+        "url": "https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181193,
+      "name": "Bad Bad",
+      "url": "https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd"
+    },
+    {
+      "album": {
         "name": "Bad for Me",
         "url": "https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB"
       },
@@ -999,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Open Bars",
+        "url": "https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "Hennessy in Tennessee",
+      "url": "https://open.spotify.com/track/2l5g2LCFSMpj2jUz0RZrdF"
+    },
+    {
+      "album": {
         "name": "Hennessy in Tennessee",
         "url": "https://open.spotify.com/album/4flI18cs8lCMDl9utQZdV2"
       },
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 165335,
       "name": "Hennessy in Tennessee",
       "url": "https://open.spotify.com/track/48gdO56xOzbd1ROAgbptvR"
@@ -2465,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Open Bars",
+        "url": "https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        },
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181376,
+      "name": "Still Feels The Same",
+      "url": "https://open.spotify.com/track/2fOjTmGULGRwVBKoj7unUj"
+    },
+    {
+      "album": {
         "name": "Still Feels The Same",
         "url": "https://open.spotify.com/album/3osSwN8ncik0vVB5TJ7rOB"
       },
@@ -2480,7 +2538,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 181376,
       "name": "Still Feels The Same",
       "url": "https://open.spotify.com/track/3S1OoEefEIr19VaP9glJS9"

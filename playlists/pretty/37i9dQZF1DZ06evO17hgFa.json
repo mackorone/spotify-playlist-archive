@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 146476,
+  "num_followers": 146488,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACQgnAHll2IIVf6mJEqXEg3",
+  "snapshot_id": "aNcpAAAAAACk8Fih/O7YT5wGBfgr5Ru6",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 226906,
       "name": "You've Changed - Studio Rio Version",
       "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billie Holiday",
         "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 179493,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 199186,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 190733,
-      "name": "God Bless The Child",
-      "url": "https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f"
+      "duration_ms": 188160,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
+      "duration_ms": 190733,
+      "name": "God Bless The Child",
+      "url": "https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 179640,
       "name": "Foolin' Myself (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": null,

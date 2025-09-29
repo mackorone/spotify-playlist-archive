@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,745 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,726 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 29 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 30 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 |
 | 31 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
-| 32 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
-| 33 | [TORPE](https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [TORPE](https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti) | 2:53 |
+| 32 | [TORPE](https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [TORPE](https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti) | 2:53 |
+| 33 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
 | 34 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 35 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 | 36 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
 | 50 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |
 
-Snapshot ID: `AAAAAEdkvnuxR17iKn5Ix98lp3TEPgB/`
+Snapshot ID: `AAAAAI9Ml2MTxK6SbfqvQoD1riYupnn5`

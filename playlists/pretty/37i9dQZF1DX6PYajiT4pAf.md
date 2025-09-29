@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Judeline x Amaia, Rauw Alejandro, Feid, Xiyo x Fernandezz x Yung Beef x Quevedo y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,191 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,202 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

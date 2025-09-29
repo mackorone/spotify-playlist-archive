@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 239750,
       "name": "Dooriyan",
       "url": "https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd"
@@ -5722,6 +5722,28 @@
       "duration_ms": 180000,
       "name": "Waadiyan",
       "url": "https://open.spotify.com/track/0tncVBZdQYMzn2QB6SIIJ9"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N"
     },
     {
       "album": {

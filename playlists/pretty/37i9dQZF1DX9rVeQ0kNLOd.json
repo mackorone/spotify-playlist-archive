@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
-  "num_followers": 28285,
+  "num_followers": 28289,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-09-23 15:00:18",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+        "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
+      "duration_ms": 235682,
+      "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ"
     },
     {
       "added_at": "2025-09-23 15:00:18",
@@ -427,18 +427,18 @@
     {
       "added_at": "2025-09-23 15:00:18",
       "album": {
-        "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX"
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 235682,
-      "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
-      "url": "https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ"
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2025-09-23 15:00:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-23 15:00:18",
       "album": {
-        "name": "Whole of Flower",
-        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
-      },
-      "artists": [
-        {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Whole of Flower",
-      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
-    },
-    {
-      "added_at": "2025-09-23 15:00:18",
-      "album": {
         "name": "098RADIO vol.2 Hosted by Awich",
         "url": "https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229574,
       "name": "\u597d\u304d\u306a\u3053\u3068 - Remix",
       "url": "https://open.spotify.com/track/7qU0zH4eG1f6JZolLL6kjw"
+    },
+    {
+      "added_at": "2025-09-23 15:00:18",
+      "album": {
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
     },
     {
       "added_at": "2025-09-23 15:00:18",

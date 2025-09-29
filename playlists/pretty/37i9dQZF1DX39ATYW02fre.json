@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 260958,
+  "num_followers": 261032,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 233009,
+      "name": "Dreaming (feat. Bruno Major)",
+      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -791,8 +811,8 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "Care 4 U",
-        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
       },
       "artists": [
         {
@@ -800,29 +820,9 @@
           "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 230945,
-      "name": "Care 4 U",
-      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 233009,
-      "name": "Dreaming (feat. Bruno Major)",
-      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
+      "duration_ms": 254117,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
+        "name": "Care 4 U",
+        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Care 4 U",
+      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
     }
   ],
   "unique_name": "Melantronic",

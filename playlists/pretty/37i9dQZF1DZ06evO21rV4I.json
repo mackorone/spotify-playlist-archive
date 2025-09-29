@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 160121,
+  "num_followers": 160174,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADQXEEfMtOoSRNwYBkoRw4L",
+  "snapshot_id": "aNcpAAAAAADAhjWwbzxCw2U3ZWSmh5Gi",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 148550,
+      "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
+      "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -283,34 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protect Sarz At All Costs",
-        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 148550,
-      "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
-      "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
@@ -323,6 +323,26 @@
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": null,
@@ -367,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 233012,
       "name": "Low",
       "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
         "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 259359,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/7Ijsqi4y74qZB04PaxnYBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Sweet One",
-      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
     },
     {
       "added_at": null,

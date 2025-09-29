@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
+    },
+    {
+      "album": {
         "name": "How?",
         "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
       },
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 189770,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"

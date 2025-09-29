@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,286 likes - 42 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,296 likes - 42 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 17 | [Then I Will \- From The Motion Picture Bonhoeffer](https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Then I Will \(From The Motion Picture Bonhoeffer\)](https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c) | 4:11 |
 | 18 | [Still Rolling Stones](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:08 |
 | 19 | [O' Lord \- Radio Version](https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:29 |
-| 20 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
+| 20 | [Ego](https://open.spotify.com/track/2udUyMvX1xp5kjb3HApR9I) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 |
 | 21 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
 | 22 | [Everything](https://open.spotify.com/track/2YR7SB90SZhMf9J3HYogKa) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:18 |
 | 23 | [Here's My Heart](https://open.spotify.com/track/1m4hUSuv0IlccTAOOBRumJ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 6:15 |
-| 24 | [Ego](https://open.spotify.com/track/2udUyMvX1xp5kjb3HApR9I) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 |
+| 24 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
 | 25 | [Time](https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Beyond Us](https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn) | 3:49 |
 | 26 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 |
 | 27 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 41 | [A Place Called Earth](https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:03 |
 | 42 | [Close \- Live](https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 5:08 |
 
-Snapshot ID: `aNXXgAAAAAARxZVT/oSJY1W1BleHl/WS`
+Snapshot ID: `aNcpAAAAAAB85w26aZekKsyx2N/TUWDN`

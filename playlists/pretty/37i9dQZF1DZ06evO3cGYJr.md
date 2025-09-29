@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cGYJr.md) - [plain]
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 38 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,26 +25,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cGYJr.md) - [plain]
 | 15 | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/4m5A3XxebTTWhoWG7jTsTX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:42 |
 | 16 | [Temporary Forever](https://open.spotify.com/track/6b30rJ7Nhx3EdIzVToFBjg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:56 |
 | 17 | [Out of stock \(Do what you gotta!\)](https://open.spotify.com/track/5uEPsTNTphBctaYyTPGeQm) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP), [Leon Walker](https://open.spotify.com/artist/0ljquJdetWvOosXTCIFgXY) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:44 |
-| 18 | [secrets](https://open.spotify.com/track/3m4aTcX05179QxhphJVL2T) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq) | 3:49 |
+| 18 | [Filter](https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 2:53 |
 | 19 | [better than i was](https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:24 |
 | 20 | [nine forty\-five](https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 |
 | 21 | [Stay true](https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 4:08 |
-| 22 | [Filter](https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 2:53 |
+| 22 | [secrets](https://open.spotify.com/track/3m4aTcX05179QxhphJVL2T) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq) | 3:49 |
 | 23 | [Erase Me](https://open.spotify.com/track/2neTVq5rxtXSFPRc1OvLMF) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:31 |
-| 24 | [Memory of a Different World \- 2021 Version](https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:10 |
+| 24 | [Futile](https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:20 |
 | 25 | [Fragments of your presence](https://open.spotify.com/track/1dU3LM9sT5brDXG8C7aXZA) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:50 |
-| 26 | [Futile](https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:20 |
+| 26 | [Memory of a Different World \- 2021 Version](https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:10 |
 | 27 | [This Far](https://open.spotify.com/track/2Zvw9bruAlieTVI1KMr4vu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:00 |
-| 28 | [Feel Alive](https://open.spotify.com/track/12eTcYkNENioNzywUrPE5u) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 2:51 |
-| 29 | [Darkness \(Xaiyne's Interlude\) \- 2021 Version](https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 1:17 |
-| 30 | [BREATHE](https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:56 |
+| 28 | [BREATHE](https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:56 |
+| 29 | [EUPHORIA](https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:25 |
+| 30 | [Darkness \(Xaiyne's Interlude\) \- 2021 Version](https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 1:17 |
 | 31 | [1DK](https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:00 |
-| 32 | [EUPHORIA](https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:25 |
-| 33 | [So long \(waiting 4 this\)](https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [So long \(waiting 4 this\)](https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog) | 2:36 |
-| 34 | [Re:Start \- 2021 Version](https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:26 |
+| 32 | [So long \(waiting 4 this\)](https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [So long \(waiting 4 this\)](https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog) | 2:36 |
+| 33 | [Feel Alive](https://open.spotify.com/track/12eTcYkNENioNzywUrPE5u) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 2:51 |
+| 34 | [Square \- 2021 Version](https://open.spotify.com/track/6RLolhTFuwRYW1erhineq5) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:31 |
 | 35 | [can't](https://open.spotify.com/track/043q2mHs10VHctg7zt6tzR) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 1:54 |
-| 36 | [City Lines \- 2021 Version](https://open.spotify.com/track/3p4vObjU7Er7Hh27vPGMgN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:41 |
-| 37 | [Outlaw \- 2021 Version](https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:40 |
-| 38 | [Fool \- 2021 Version](https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [w.hateverm](https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:01 |
+| 36 | [Re:Start \- 2021 Version](https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:26 |
+| 37 | [City Lines \- 2021 Version](https://open.spotify.com/track/3p4vObjU7Er7Hh27vPGMgN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:41 |
+| 38 | [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 |
 
-Snapshot ID: `aNXXgAAAAABGiw/Jzgmft9QcuzDAXMka`
+Snapshot ID: `aNcpAAAAAAA1muc/oJlVx3D1+C09TfLZ`

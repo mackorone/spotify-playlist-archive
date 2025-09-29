@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Harvey Sutherland
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,088 likes - 99 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,081 likes - 99 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 26 | [You Like It, It's Yours \- Edit](https://open.spotify.com/track/7nnu8bpOSLiBumzkUUMpD7) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3), [O'ner](https://open.spotify.com/artist/4fii2KrYFHN72FYWfElOyJ) | [You Like It, It's Yours \(Edit\)](https://open.spotify.com/album/5CESgH9z5XnMW5xCtjYsmJ) | 3:17 |
 | 27 | [Mont Blanc](https://open.spotify.com/track/1jG2w4SGRqzC4wQKlN3D7q) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [Mont Blanc](https://open.spotify.com/album/5vxKpurDpHTvadVYHBS6J8) | 4:35 |
 | 28 | [Euro Flow](https://open.spotify.com/track/0QgE29v3AaacwaB1OHRUYK) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Euro Flow](https://open.spotify.com/album/0696fKl0CDhd2LXLPtNMB8) | 3:05 |
-| 29 | [Reach Out And Touch](https://open.spotify.com/track/6SshnXwR1YfYgaVbyoC3D1) | [Luca Lozano](https://open.spotify.com/artist/57YTLw15CKLrwSJKUFN5ep), [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [WRECKONS EP](https://open.spotify.com/album/4PGj7B5lVrGRX6CniZcf0B) | 6:50 |
+| 29 | [Reach Out And Touch](https://open.spotify.com/track/6SshnXwR1YfYgaVbyoC3D1) | [Luca Lozano](https://open.spotify.com/artist/57YTLw15CKLrwSJKUFN5ep), [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [WREKONS EP](https://open.spotify.com/album/4PGj7B5lVrGRX6CniZcf0B) | 6:50 |
 | 30 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 31 | [I'll Take You There](https://open.spotify.com/track/7KnDtBsGaHKfKzZEUdYH8v) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [I'll Take You There](https://open.spotify.com/album/2lBnppyO3HykQvMHrgmNV5) | 2:51 |
 | 32 | [Haunted Nights](https://open.spotify.com/track/2aWT2xExUohnos6YChlPZT) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Haunted Nights EP](https://open.spotify.com/album/4TwzNEPDxK2UhdYGUBqCbc) | 3:52 |

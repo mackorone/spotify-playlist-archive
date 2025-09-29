@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,548 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,547 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 33 | [Since I Lost My Baby](https://open.spotify.com/track/60sfBPovUoGakpff86kf9F) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 5:22 |
 | 34 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 |
 | 35 | [Gonna Have to Be You](https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Full Circle](https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB) | 3:58 |
-| 36 | [Love TKO](https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Duets \- Love & Soul](https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC) | 4:49 |
-| 37 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 |
-| 38 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 |
-| 39 | [Do What U Gotta Do](https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Do What U Gotta Do](https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H) | 3:24 |
-| 40 | [You Don't Love Me](https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:34 |
+| 36 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 |
+| 37 | [Love TKO](https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Duets \- Love & Soul](https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC) | 4:49 |
+| 38 | [You Don't Love Me](https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:34 |
+| 39 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 |
+| 40 | [Do What U Gotta Do](https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Do What U Gotta Do](https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H) | 3:24 |
 | 41 | [Red, Red Wine](https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 2:56 |
-| 42 | [Take Everything In](https://open.spotify.com/track/0S9J927viE05YinAFLoUUi) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:50 |
-| 43 | [The Gym](https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:19 |
+| 42 | [The Gym](https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:19 |
+| 43 | [Take Everything In](https://open.spotify.com/track/0S9J927viE05YinAFLoUUi) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:50 |
 | 44 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 |
 | 45 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 |
-| 46 | [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 |
-| 47 | [Black Magic](https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 4:28 |
+| 46 | [Black Magic](https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 4:28 |
+| 47 | [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 |
 | 48 | [Dream](https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:29 |
 | 49 | [My Nutmeg Phantasy \(featuring Angie Stone & Mos Def\) \(feat\. Angie Stone & Mos Def\)](https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [the id](https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp) | 4:55 |
-| 50 | [Go Back To Your Life](https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 1:22 |
+| 50 | [U\-Haul](https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:55 |
 
-Snapshot ID: `aNXXgAAAAADCvmaBpYFMI9joav/d1uA/`
+Snapshot ID: `aNcpAAAAAACZMDGRH1IYhug6VgicXqhh`

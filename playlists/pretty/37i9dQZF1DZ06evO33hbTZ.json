@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5705,
+  "num_followers": 5706,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABepDaa4NfakuAk823M5W4Q",
+  "snapshot_id": "aNcpAAAAAADHJWT8D6gXgjlmJFkHJ9Qf",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 304130,
+      "name": "I Will Worship",
+      "url": "https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 182488,
       "name": "JOY",
       "url": "https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 304130,
-      "name": "I Will Worship",
-      "url": "https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20Minutes Spontaneous Deep Worship",
-        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1270909,
-      "name": "20Minutes Spontaneous Deep Worship",
-      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 256872,
       "name": "2Cor 5:7",
       "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20Minutes Spontaneous Deep Worship",
+        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1270909,
+      "name": "20Minutes Spontaneous Deep Worship",
+      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 287316,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 318727,
-      "name": "Dependable God",
-      "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -575,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
       },
       "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
+      "duration_ms": 318727,
+      "name": "Dependable God",
+      "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
     },
     {
       "added_at": null,
@@ -607,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTORI(The Name of Jesus)",
-        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
       "artists": [
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 204600,
-      "name": "TOTORI(The Name of Jesus)",
-      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
       "duration_ms": 192000,
       "name": "Uwese",
       "url": "https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOTORI(The Name of Jesus)",
+        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "TOTORI(The Name of Jesus)",
+      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You are Lifted (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2461616,
-      "name": "You are Lifted (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169687,
       "name": "Halle",
       "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You are Lifted (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2461616,
+      "name": "You are Lifted (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,

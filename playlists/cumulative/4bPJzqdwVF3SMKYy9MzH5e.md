@@ -4,7 +4,7 @@
 
 > 
 
-2,271 songs - 5 day 1 hr 56 min
+2,272 songs - 5 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1337,6 +1337,7 @@
 | [my boy](https://open.spotify.com/track/1RGasjWLZ4qMN7wbtkLa3u) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:50 | 2021-08-05 |  |
 | [My Boy \- Twin Fantasy](https://open.spotify.com/track/2fvXVJJCTc0Q9KkRM0eOpP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 2:49 | 2021-11-14 | 2024-05-26 |
 | [My Desperate House](https://open.spotify.com/track/1QlvnF442xOesxP8LZEyvj) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:59 | 2021-08-05 |  |
+| [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 | 2025-09-28 |  |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2021-08-05 |  |
 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 | 2022-06-09 |  |
 | [My Heart Went Oops](https://open.spotify.com/track/2KsqycGYiANywGDOPkVmvK) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [They Call Me Tiago](https://open.spotify.com/album/3V2S3w4ktPnjci3oAxrKRS) | 2:08 | 2021-08-05 |  |

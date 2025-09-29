@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,959 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,997 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 28 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 |
 | 29 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 |
 | 30 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
-| 31 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
-| 32 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
+| 31 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
+| 32 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
 | 33 | [Sure, Ok](https://open.spotify.com/track/4QAvVugE3bnfY52wEOSs3I) | [First Day Back](https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx) | [Forward](https://open.spotify.com/album/0YMs1zWAno5lULSw5rlXUp) | 2:21 |
 | 34 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
 | 35 | [i used to check my driveway hoping one day i might see you there](https://open.spotify.com/track/74qNCVxEXgqHlb8sZW5Kik) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [silly songs for a silly girl](https://open.spotify.com/album/4LBL1hPWZd9nddHGVMwdqE) | 2:42 |
 | 36 | [777](https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps) | [Keep Your Cool](https://open.spotify.com/album/2N2nVXYiltFdU8NL0ACh7T) | 3:00 |
 | 37 | [Hawk](https://open.spotify.com/track/40zSMkWtGouAxkjMQnB9JT) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Hawk](https://open.spotify.com/album/3nPnmLlFhfpios14irjgSP) | 3:42 |
 | 38 | [Eternal](https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 2:18 |
-| 39 | [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 |
+| 39 | [Fireplace](https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:12 |
 | 40 | [Weekend Fever](https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA) | [Nihilistic Easyrider](https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq) | [DELUXE EDITION](https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw) | 3:26 |
-| 41 | [Fireplace](https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:12 |
+| 41 | [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 |
 | 42 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
 | 43 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
 | 44 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 60 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 61 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
 | 62 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
-| 63 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
-| 64 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
-| 65 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 63 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 64 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
+| 65 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
 | 66 | [Dunce Hat](https://open.spotify.com/track/0iQYIcRhqOqyNxA1dV5CLG) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [Dunce Hat](https://open.spotify.com/album/59Qgi3ocRFrE9wykOvPTAS) | 2:21 |
 | 67 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 68 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 70 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 71 | [Fallen Leaves](https://open.spotify.com/track/149COG6Y0vz8dAMYUaV6hK) | [gas station.](https://open.spotify.com/artist/3NYPmsKD44GlUOZYLuvhPZ) | [A Collection Of Songs For Saying Goodbye](https://open.spotify.com/album/3xWqNODAigQ4qVSrofxGci) | 2:54 |
 | 72 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
-| 73 | [Never Meant To](https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Never Meant To](https://open.spotify.com/album/6G43jE12MNPUbmdzbSlBOo) | 3:04 |
-| 74 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
+| 73 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
+| 74 | [Never Meant To](https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Never Meant To](https://open.spotify.com/album/6G43jE12MNPUbmdzbSlBOo) | 3:04 |
 | 75 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
 
 Snapshot ID: `AAAAAEfY92Sb6L5MdronXm+BUwlSqj/A`

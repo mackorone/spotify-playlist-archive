@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 42128,
+  "num_followers": 42141,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1014,15 +1014,11 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 286531,
-      "name": "La Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1102,11 +1098,15 @@
         {
           "name": "Los Ocho De Colombia",
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 286531,
+      "name": "La Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1451,42 +1451,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sonido Digital Bailables",
-        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Grandes de la Cumbia Tropical",
-        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 212952,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1503,6 +1467,42 @@
       "duration_ms": 301720,
       "name": "Los Charcos",
       "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 148536,
+      "name": "La Ca\u00f1a de Azucar",
+      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Sonido Digital Bailables",
+        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+        "name": "Grandes de la Cumbia Tropical",
+        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 148536,
-      "name": "La Ca\u00f1a de Azucar",
-      "url": "https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo"
+      "duration_ms": 212952,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
     },
     {
       "added_at": "2024-07-12 23:11:55",

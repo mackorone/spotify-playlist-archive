@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Mavo",
-  "num_followers": 113237,
+  "num_followers": 113321,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 137684,
       "name": "OZEBA",
       "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Holy Jah",
-        "url": "https://open.spotify.com/album/5YpC7H8IgoN64m1hhljX0w"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Holy Jah",
-      "url": "https://open.spotify.com/track/0rivusQhfl9wyHHP1iFdKn"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Holy Jah",
+        "url": "https://open.spotify.com/album/5YpC7H8IgoN64m1hhljX0w"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Holy Jah",
+      "url": "https://open.spotify.com/track/0rivusQhfl9wyHHP1iFdKn"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Intergalactic Dreams",
-        "url": "https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S"
-      },
-      "artists": [
-        {
-          "name": "Niphkeys",
-          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 176326,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Intergalactic Dreams",
+        "url": "https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S"
+      },
+      "artists": [
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "Porsche",
         "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 172035,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -959,6 +943,22 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 152544,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "BENIN BOYS",
         "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 152544,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "Danger Zee",
         "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 153756,
       "name": "Popo",
       "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2025-09-26 00:01:37",

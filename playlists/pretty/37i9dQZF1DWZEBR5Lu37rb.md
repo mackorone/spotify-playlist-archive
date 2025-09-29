@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,170 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,266 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 44 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 |
 | 45 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
 | 46 | [Ubuhle Bakho](https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Imali](https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy) | 3:18 |
-| 47 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
-| 48 | [Sponky Ponky](https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH) | [Jabu Khanyile](https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB), [Bayete](https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4) | [Hiyo Lento](https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql) | 5:35 |
+| 47 | [Sponky Ponky](https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH) | [Jabu Khanyile](https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB), [Bayete](https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4) | [Hiyo Lento](https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql) | 5:35 |
+| 48 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
 | 49 | [Kwalula](https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [To the World & Beyond](https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc) | 4:29 |
-| 50 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
-| 51 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
-| 52 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
-| 53 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
+| 50 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
+| 51 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
+| 52 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
+| 53 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
 | 54 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 |
 | 55 | [Sunday Blues](https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Sunday Blues](https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq) | 3:45 |
 | 56 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 91 | [Sobabili](https://open.spotify.com/track/2dyYRTVdDFjnSQ6elduMG1) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Thabisile](https://open.spotify.com/artist/249mio3FcuZXmITjyS69Uz) | [Best of DJ Bongz, Vol\. 1](https://open.spotify.com/album/0mcfKi5RkrrFXslOlS5N6R) | 6:26 |
 | 92 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
 | 93 | [Ndilinde](https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 5:52 |
-| 94 | [Perfect Design](https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Perfect Design](https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob) | 3:28 |
-| 95 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
-| 96 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
-| 97 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
+| 94 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
+| 95 | [Perfect Design](https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Perfect Design](https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob) | 3:28 |
+| 96 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
+| 97 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
 | 98 | [Ndicel'ikiss](https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 3:42 |
 | 99 | [ndi a mufuna](https://open.spotify.com/track/77tYFh2yrMXaaycbWyw2o2) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [ndi a mufuna](https://open.spotify.com/album/6eNg5XolUtAnDvjErz443m) | 3:50 |
 | 100 | [Chargie](https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI) | 2:53 |

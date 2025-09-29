@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,169 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,205 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 68 | [Sabor a Mí \- Amuzgo](https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Mariano García](https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:17 |
 | 69 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 |
 | 70 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
-| 71 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
-| 72 | [Noche Fría](https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Noche Fría](https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx) | 3:09 |
+| 71 | [Noche Fría](https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Noche Fría](https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx) | 3:09 |
+| 72 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
 | 73 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |
 | 74 | [Habrá](https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Habrá](https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf) | 3:07 |
 | 75 | [La Copa Rota](https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:08 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 77 | [Vuelas Tan Lindo](https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Vuelas Tan Lindo](https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66) | 2:38 |
 | 78 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 |
 | 79 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 |
-| 80 | [Voy Despacito](https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Voy Despacito](https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS) | 4:19 |
-| 81 | [La negra noche](https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3) | [Estaré \- La negra noche](https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE) | 3:01 |
+| 80 | [La negra noche](https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3) | [Estaré \- La negra noche](https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE) | 3:01 |
+| 81 | [Voy Despacito](https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Voy Despacito](https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS) | 4:19 |
 | 82 | [Después de ti](https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw) | [Flor de Jade](https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO) | [Volar](https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB) | 4:01 |
 | 83 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 84 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |

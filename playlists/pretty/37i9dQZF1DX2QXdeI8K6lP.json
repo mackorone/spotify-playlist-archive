@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 356887,
+  "num_followers": 356956,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "\u00bfC\u00f3mo Fue?",
-      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 176533,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "\u00bfC\u00f3mo Fue?",
+      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Serenatas",
-        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
-      },
-      "artists": [
-        {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Leyendas Solamente Los Mejores",
         "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "\u00bfY Linda?",
-        "url": "https://open.spotify.com/album/0tVbH1ZeEGt08QxHfXM5W7"
+        "name": "Serenatas",
+        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/6TEqOQsrSZU2mIZzvDGsUB"
+      "duration_ms": 160853,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -471,6 +455,22 @@
       "duration_ms": 149506,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "\u00bfY Linda?",
+        "url": "https://open.spotify.com/album/0tVbH1ZeEGt08QxHfXM5W7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6TEqOQsrSZU2mIZzvDGsUB"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -555,8 +555,8 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+        "name": "Epoca De Oro",
+        "url": "https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 170666,
-      "name": "No Me Platiques Ya",
-      "url": "https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH"
+      "duration_ms": 176160,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/7410XFJdR47lachsg3fkth"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -639,8 +639,8 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Epoca De Oro",
-        "url": "https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my"
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 176160,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/7410XFJdR47lachsg3fkth"
+      "duration_ms": 170666,
+      "name": "No Me Platiques Ya",
+      "url": "https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Somos Novios",
-        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
-      },
-      "artists": [
-        {
-          "name": "Las Verdes",
-          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Frente A Frente",
         "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 196533,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Somos Novios",
+        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
+      },
+      "artists": [
+        {
+          "name": "Las Verdes",
+          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Cuando Me Vaya",
+      "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Cuando Me Vaya",
-      "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Suspenso Infernal",
+      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 153946,
       "name": "Estoy Enamorado",
       "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Suspenso Infernal",
-      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1323,6 +1323,38 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Culebra Venenosa",
+        "url": "https://open.spotify.com/album/4vIQ9x5umdJL8cySAdrQdq"
+      },
+      "artists": [
+        {
+          "name": "Segundo Rosero",
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Culebra Venenosa",
+      "url": "https://open.spotify.com/track/1HYixaofJGQcDo837EZg1U"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 153053,
+      "name": "Canci\u00f3n del alma",
+      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1347,22 +1379,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Canci\u00f3n del alma",
-      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Lo Mejor de los Mejores - Tr\u00edos del Mundo",
         "url": "https://open.spotify.com/album/3kFUfESqhs3NcDF48dBTga"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 177026,
       "name": "La Gloria Eres T\u00fa",
       "url": "https://open.spotify.com/track/0cNgAXsROEzCnVm5nBCsHg"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Culebra Venenosa",
-        "url": "https://open.spotify.com/album/4vIQ9x5umdJL8cySAdrQdq"
-      },
-      "artists": [
-        {
-          "name": "Segundo Rosero",
-          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Culebra Venenosa",
-      "url": "https://open.spotify.com/track/1HYixaofJGQcDo837EZg1U"
     },
     {
       "added_at": "2024-07-11 15:48:05",

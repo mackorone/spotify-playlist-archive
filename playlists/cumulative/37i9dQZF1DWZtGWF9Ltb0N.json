@@ -5749,6 +5749,28 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1odNlkdv4scCJk8DW5rZkO"
+      },
+      "artists": [
+        {
+          "name": "Ashez",
+          "url": "https://open.spotify.com/artist/4EmkjZuqatnvAygxt3a3tC"
+        },
+        {
+          "name": "Heirz",
+          "url": "https://open.spotify.com/artist/2CWuVGqUPw2faiFp5CZ5Xi"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6Xx6KRpa03FgxyLy1H11XY"
+    },
+    {
+      "album": {
         "name": "Gom Jabbar",
         "url": "https://open.spotify.com/album/6djHuRoajtBmvj8hNCzQUi"
       },
@@ -13298,7 +13320,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 207428,
       "name": "Spine",
       "url": "https://open.spotify.com/track/1Hms7YOiUhcfICk4IjeS0o"

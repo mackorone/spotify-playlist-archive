@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107344,
+  "num_followers": 107342,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAoFD9qIY8nfj/7pTmPu9S4",
+  "snapshot_id": "aNcpAAAAAACaXl5qvK159mv7BjYToYSh",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194025,
-      "name": "Ik Heb 'T Altijd Al Geweten",
-      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
+      "duration_ms": 244106,
+      "name": "Al Jouw Woorden Zijn Teveel",
+      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
     },
     {
       "added_at": null,
@@ -596,15 +596,15 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 210400,
-      "name": "Wees Zuinig Op M'n Meissie",
-      "url": "https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M"
+      "duration_ms": 264146,
+      "name": "Zo Heb Ik Het Nooit Bedoeld",
+      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 244106,
-      "name": "Al Jouw Woorden Zijn Teveel",
-      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
+      "duration_ms": 194025,
+      "name": "Ik Heb 'T Altijd Al Geweten",
+      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 264146,
-      "name": "Zo Heb Ik Het Nooit Bedoeld",
-      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
+      "duration_ms": 210400,
+      "name": "Wees Zuinig Op M'n Meissie",
+      "url": "https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Op De Schoorsteen Staat Een Foto",
-        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Op De Schoorsteen Staat Een Foto",
-      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zonder Zorgen",
         "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 194426,
       "name": "De Wereld Is Van Ons Allemaal",
       "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Op De Schoorsteen Staat Een Foto",
+        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Op De Schoorsteen Staat Een Foto",
+      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
     },
     {
       "added_at": null,

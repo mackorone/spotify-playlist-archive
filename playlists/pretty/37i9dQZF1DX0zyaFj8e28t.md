@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,878 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,885 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

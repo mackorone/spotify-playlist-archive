@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92010,
+  "num_followers": 92017,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABFsnr1bPjmTVxFGJm7hQrg",
+  "snapshot_id": "aNcpAAAAAABtuxP9/Go7YbcPXYw2K/cE",
   "tracks": [
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Blijft Anders",
-        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
+        "name": "Omarm Me",
+        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
       "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 365026,
-      "name": "Was Je Maar Hier",
-      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+      "duration_ms": 232425,
+      "name": "Omarm Me",
+      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
     },
     {
       "added_at": null,
@@ -599,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm Me",
-        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
+        "name": "Alles Blijft Anders",
+        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
       "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 232425,
-      "name": "Omarm Me",
-      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+      "duration_ms": 365026,
+      "name": "Was Je Maar Hier",
+      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Een Manier Om Thuis Te Komen",
-      "url": "https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 392389,
       "name": "There is A Light That Never Goes Out / Er Is Een Licht Dat Nooit Uit Zal Gaan (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/3cadYJplGpDjraN9cztMwn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Een Manier Om Thuis Te Komen",
+      "url": "https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG"
     },
     {
       "added_at": null,

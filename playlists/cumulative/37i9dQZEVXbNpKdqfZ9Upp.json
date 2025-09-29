@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -12356,10 +12356,32 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 131253,
       "name": "Confess Your Love",
       "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
+    },
+    {
+      "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/61nq049Q0X3nkF05dOqNOa"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131308,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/0WHDl4ekiXAgW3ZjmXFvmV"
     },
     {
       "album": {
@@ -15407,6 +15429,24 @@
     },
     {
       "album": {
+        "name": "Detener el Tiempo",
+        "url": "https://open.spotify.com/album/5vRmKL2fWCqCqIKVhSgYZX"
+      },
+      "artists": [
+        {
+          "name": "Padrino El Crack",
+          "url": "https://open.spotify.com/artist/1ipIvvHW2CcAKgXoYyyRo9"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Detener el Tiempo",
+      "url": "https://open.spotify.com/track/3r2DJb58qzYmsq4zXwpi62"
+    },
+    {
+      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -18178,7 +18218,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 130093,
       "name": "El Party Est\u00e1 Full",
       "url": "https://open.spotify.com/track/6X1qC5WeHcf6fRVfITu5mS"
@@ -22832,7 +22872,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -26320,7 +26360,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 239872,
       "name": "Hunting Soul",
       "url": "https://open.spotify.com/track/3xavvpT54qq3TZJLNjBn7Z"
@@ -34352,7 +34392,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -57400,7 +57440,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"

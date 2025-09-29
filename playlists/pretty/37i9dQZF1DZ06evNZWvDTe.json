@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13222,
+  "num_followers": 13224,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAACkIVjdfcgiP0kQpmoW0yja",
+  "snapshot_id": "aNcpAAAAAADs82H7Ed2bUIRcmSBwi9k0",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEXT DOOR (with Sarkodie)",
         "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/3KybqFROlrZOhTwyrByBPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 197045,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jailer",
-        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Jailer",
-      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 201750,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jailer",
+        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Jailer",
+      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 248713,
       "name": "Saa Okodie No (feat. Obrafour)",
       "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 211320,
       "name": "M3gye Wo Girl (feat. Shatta Wale)",
       "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 247462,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Epistles of Mama",
         "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 247462,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
     },
     {
       "added_at": null,
@@ -999,30 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
       "artists": [
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 275440,
-      "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
-      "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     }
   ],
   "unique_name": "This Is Sarkodie",

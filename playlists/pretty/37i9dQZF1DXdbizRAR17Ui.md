@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,087 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,092 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 36 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
 | 37 | [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 |
 | 38 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
-| 39 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
-| 40 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 39 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 40 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
 | 41 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 |
 | 42 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 43 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |

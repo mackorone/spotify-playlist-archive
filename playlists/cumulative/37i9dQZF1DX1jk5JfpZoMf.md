@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-317 songs - 15 hr 36 min
+318 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2023-06-16 |  |
 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 | 2023-06-16 |  |
 | [April Rain Meditation](https://open.spotify.com/track/5XBmqFwqD1vd7mDqQLLneb) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:54 | 2023-06-16 |  |
+| [Aqueous](https://open.spotify.com/track/5He6fcd7BpeANU16U6W7Wm) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Aqueous](https://open.spotify.com/album/4obxm4dQ6PzC3Ng8DLjgMm) | 2:46 | 2025-09-23 |  |
 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 | 2023-06-16 |  |
 | [Barulho de Chuva Super Relaxante, Pt\. 01](https://open.spotify.com/track/2aetCfa3ybmDgecE1Rsf7J) | [Chuva Para Dormir](https://open.spotify.com/artist/2qE27oPLBZS3en1r1DIzhe), [Som De Chuva e Trovoadas](https://open.spotify.com/artist/0u6hC9vldLdqrv74BWRxkP), [Barulho De Chuva](https://open.spotify.com/artist/0lhLr0ciehx5g6hxih2aqk) | [Barulho de Chuva Super Relaxante](https://open.spotify.com/album/7LP9OGf8UNeQthhVowwEIR) | 1:40 | 2024-06-11 |  |
 | [Barulho de Chuva Super Relaxante, Pt\. 02](https://open.spotify.com/track/1dbxIyXBqQn0lneobMUgKn) | [Chuva Para Dormir](https://open.spotify.com/artist/2qE27oPLBZS3en1r1DIzhe), [Som De Chuva e Trovoadas](https://open.spotify.com/artist/0u6hC9vldLdqrv74BWRxkP), [Barulho De Chuva](https://open.spotify.com/artist/0lhLr0ciehx5g6hxih2aqk) | [Barulho de Chuva Super Relaxante](https://open.spotify.com/album/7LP9OGf8UNeQthhVowwEIR) | 1:23 | 2024-06-11 |  |
@@ -43,7 +44,7 @@
 | [Chasing Rain](https://open.spotify.com/track/5fd6LDKbz2mIDEeBJRW9KD) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Chasing Rain](https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2) | 3:28 | 2023-06-16 |  |
 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 | 2023-06-16 |  |
 | [City Drencher](https://open.spotify.com/track/0PmFJejR2xSdSDR2jMw7cF) | [The Weather Company](https://open.spotify.com/artist/2ZrgWpi8ujislf7Zg2OeD2) | [City Drencher](https://open.spotify.com/album/0NLK0JdePfhT6R0Lu9T13B) | 2:46 | 2023-06-16 |  |
-| [Cold English Rain](https://open.spotify.com/track/6c2Wf3iPgGTiiroHBW208K) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Rain & Thunderstorms: Best Of, Vol\. 3](https://open.spotify.com/album/6FTYA2kT7Xs2A4W2mJAYvj) | 9:51 | 2024-06-11 |  |
+| [Cold English Rain](https://open.spotify.com/track/6c2Wf3iPgGTiiroHBW208K) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Rain & Thunderstorms: Best Of, Vol\. 3](https://open.spotify.com/album/6FTYA2kT7Xs2A4W2mJAYvj) | 9:51 | 2024-06-11 | 2025-09-29 |
 | [Consistent Rain](https://open.spotify.com/track/7hleOo6zmfPQVT4GHtLLco) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Tranquil Rain Sounds](https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS) | 2:06 | 2023-06-16 |  |
 | [Consistent Rain](https://open.spotify.com/track/1RqxfnREk3NfdYmHpALdrc) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Consistent Rain](https://open.spotify.com/album/11wLvp7lKyBLSo6csOmJCo) | 2:22 | 2023-06-16 |  |
 | [Continuous Rain](https://open.spotify.com/track/4SCFLXNIkUw33S38huavYv) | [Memory of Water](https://open.spotify.com/artist/1FW2BedCLxA60sKXqqecLu) | [Rain Maps](https://open.spotify.com/album/38Zg5FBRwYaKFGtS4hXBe4) | 3:12 | 2023-06-16 | 2025-07-29 |

@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-495 songs - 1 day 6 hr 18 min
+496 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2022-01-28 | 2025-09-23 |
 | [Flashing Lights](https://open.spotify.com/track/31I3Rt1bPa2LrE74DdNizO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 3:57 | 2021-12-29 | 2022-06-15 |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-08-09 | 2024-11-28 |
+| [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-19 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2022-12-16 | 2023-05-24 |
 | [Forever & Ever & Ever & Even After That](https://open.spotify.com/track/3BlXpC1PXYYbTxIulMLbP5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Forever & Ever & Ever & Even After That](https://open.spotify.com/album/2VZ32TB1aCoNseOeImafsb) | 3:35 | 2024-03-08 | 2024-03-16 |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-01-11 | 2023-02-01 |
@@ -348,7 +349,7 @@
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2023-05-19 | 2024-04-19 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2021-12-16 | 2022-09-24 |
 | [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 | 2024-05-03 | 2024-05-24 |
-| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2021-12-16 |  |
+| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2021-12-16 | 2025-09-29 |
 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 | 2023-02-10 | 2023-02-14 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-07-28 | 2024-04-19 |
 | [Ring of Fire \(from the Netflix Film "Damsel"\)](https://open.spotify.com/track/1bAwVRqd28dUD5ha8M0l67) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Ring of Fire \(from the Netflix Film "Damsel"\)](https://open.spotify.com/album/1dYYvoY4Wx7WvxFF5ntYm7) | 3:13 | 2024-03-08 | 2024-03-16 |

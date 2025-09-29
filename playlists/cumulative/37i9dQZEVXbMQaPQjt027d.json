@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Octopus (100.000 H\u00e4nde)",
+        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
+      },
+      "artists": [
+        {
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225787,
+      "name": "Octopus (100.000 H\u00e4nde)",
+      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
+    },
+    {
+      "album": {
         "name": "Oneerlijk",
         "url": "https://open.spotify.com/album/0sXP7PkOscvIW3sXGcNi8b"
       },
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -5220,7 +5238,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 199074,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
@@ -6056,6 +6074,28 @@
       "duration_ms": 57746,
       "name": "Your New Morning Alarm",
       "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
+    },
+    {
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248813,
+      "name": "Yuck (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
     },
     {
       "album": {

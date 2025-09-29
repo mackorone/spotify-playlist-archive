@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,176 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,200 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 14 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Train De Mes Souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
 | 15 | [La terre est ronde](https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le Chant des sirènes](https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY) | 3:39 |
 | 16 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
-| 17 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
-| 18 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
+| 17 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
+| 18 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
 | 19 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
 | 20 | [Le chanteur](https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Le chanteur \(Remastered\)](https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI) | 3:54 |
 | 21 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 26 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
 | 27 | [Respire encore](https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:47 |
 | 28 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
-| 29 | [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 |
-| 30 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
+| 29 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
+| 30 | [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 |
 | 31 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
-| 32 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
+| 32 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
 | 33 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
 | 34 | [Tu m'oublieras](https://open.spotify.com/track/616O2jmafiModH0RgonGqf) | [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Simplement](https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW) | 3:39 |
 | 35 | [J'ai cherché](https://open.spotify.com/track/1lzRxwbdl86iJlYMz48KoD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi](https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF) | 3:32 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 52 | [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 |
 | 53 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
 | 54 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
-| 55 | [Au soleil](https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 3:39 |
-| 56 | [Cette année\-là](https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le Vagabond](https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT) | 3:12 |
-| 57 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
-| 58 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
-| 59 | [L'autre finistère](https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj) | [Les Innocents](https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP) | [Meilleurs souvenirs \- Best Of](https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg) | 4:09 |
+| 55 | [Cette année\-là](https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le Vagabond](https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT) | 3:12 |
+| 56 | [Au soleil](https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 3:39 |
+| 57 | [L'autre finistère](https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj) | [Les Innocents](https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP) | [Meilleurs souvenirs \- Best Of](https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg) | 4:09 |
+| 58 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 59 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 60 | [Le Dernier Jour du Disco](https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Le Dernier Jour du Disco](https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA) | 3:26 |
 
 Snapshot ID: `AAAAAK/aAXOoZ+Vk6sLQDtEr9qbFrv31`

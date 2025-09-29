@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 137 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 749 likes - 137 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 8 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
 | 9 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 | 10 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/6pW5qN3CaUUzS4gzBuhwgp) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:20 |
-| 11 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 |
-| 12 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
+| 11 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
+| 12 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 |
 | 13 | [To Me](https://open.spotify.com/track/3gDbwvZ49B1j9yagKv8laa) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 4:17 |
 | 14 | [If You Let Me](https://open.spotify.com/track/2BfxLAYgetcxiyXJA7ItoF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:15 |
 | 15 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 62 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
 | 63 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 |
 | 64 | [Maze](https://open.spotify.com/track/7AwVn68ejkolhndL6F4d8q) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 4:29 |
-| 65 | [Superpower](https://open.spotify.com/track/3QedekdJeA6uSnW7jw01hT) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Superpower](https://open.spotify.com/album/4LeYVAbELnVgLj43dDNIhn) | 3:08 |
-| 66 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
+| 65 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
+| 66 | [Superpower](https://open.spotify.com/track/3QedekdJeA6uSnW7jw01hT) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Superpower](https://open.spotify.com/album/4LeYVAbELnVgLj43dDNIhn) | 3:08 |
 | 67 | [Clean Air](https://open.spotify.com/track/5uKnUmI97PCAT5GvX7vkWZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
 | 68 | [Josslyn \- Demo](https://open.spotify.com/track/02CR9rag6hSFz795H2BJIo) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 2:49 |
 | 69 | [better the first time](https://open.spotify.com/track/7bGrUqtsMPi9FF59gYaSXS) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 3:09 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 78 | [Say You Know](https://open.spotify.com/track/6cpzF2jybgwBGH1lQqDopD) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:51 |
 | 79 | [doyouseeit](https://open.spotify.com/track/2IJgmcPWwfUxQVLBnquwPU) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:29 |
 | 80 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:48 |
-| 81 | [masturbation song](https://open.spotify.com/track/0OHLcL7NuXEMD7UvWjXoz0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:14 |
-| 82 | [Days](https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 4:03 |
+| 81 | [Days](https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 4:03 |
+| 82 | [masturbation song](https://open.spotify.com/track/0OHLcL7NuXEMD7UvWjXoz0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:14 |
 | 83 | [Memo Blue](https://open.spotify.com/track/5RS7GUxBaEAVjd1zEsriZI) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:06 |
 | 84 | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB) | 2:47 |
 | 85 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 136 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
 | 137 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 
-Snapshot ID: `Ab9YHgAAAAA+XFIfDMIcqMidG9RYDk6X`
+Snapshot ID: `Ab9dyAAAAADAWZ0pVOvJfEsDVTuUf8u+`

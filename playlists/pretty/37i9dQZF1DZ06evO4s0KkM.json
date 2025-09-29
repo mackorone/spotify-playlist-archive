@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124020,
+  "num_followers": 124033,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADKWk1HkyTntOCaFYMMDNxq",
+  "snapshot_id": "aNcpAAAAAABRU4vv1LQWm1V4B/rUtsc6",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Worker's Song",
-      "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest of Times Limited Edition",
         "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 235260,
       "name": "The State Of Massachusetts",
       "url": "https://open.spotify.com/track/4g9aB6nGJxQA1ZHtzAXirL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Worker's Song",
+      "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "The Boys Are Back",
-      "url": "https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest of Times Limited Edition",
         "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 234653,
       "name": "Johnny, I Hardly Knew Ya",
       "url": "https://open.spotify.com/track/7qjKgC94B30FRoOcHnMrfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "The Boys Are Back",
+      "url": "https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Going Out In Style",
-      "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
+      "duration_ms": 285640,
+      "name": "The Green Fields Of France (No Man's Land)",
+      "url": "https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 285640,
-      "name": "The Green Fields Of France (No Man's Land)",
-      "url": "https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki"
+      "duration_ms": 248586,
+      "name": "Going Out In Style",
+      "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
     },
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "The Auld Triangle",
-      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
+      "duration_ms": 153600,
+      "name": "Boys on the Docks",
+      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 231655,
       "name": "Queen Of Suffolk County",
       "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "The Auld Triangle",
+      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
     },
     {
       "added_at": null,
@@ -540,9 +540,25 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Boys on the Docks",
-      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest of Times Limited Edition",
+        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
       },
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times Limited Edition",
-        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 219280,
-      "name": "(F)lannigan's Ball",
-      "url": "https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj"
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gang's All Here",
         "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 158600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
     },
     {
       "added_at": null,

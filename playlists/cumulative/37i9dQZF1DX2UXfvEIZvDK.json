@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Twilight Override",
+        "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Caught Up In the Past",
+      "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
+    },
+    {
+      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 218000,
       "name": "Golden Songs",
       "url": "https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw"

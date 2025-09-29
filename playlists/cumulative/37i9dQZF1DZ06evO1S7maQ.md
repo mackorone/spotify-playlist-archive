@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-143 songs - 10 hr 13 min
+144 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2022-01-11 |  |
 | [Growin' Up](https://open.spotify.com/track/4Gpao0RtOcrBuedyutJWaP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greetings from Asbury Park, N.J.](https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C) | 3:04 | 2023-01-10 | 2023-02-19 |
 | [Hello Sunshine](https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:54 | 2022-01-11 | 2025-09-05 |
+| [Highway Patrolman](https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 5:36 | 2025-09-29 |  |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books](https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ) | 3:53 | 2023-11-10 | 2024-07-02 |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX) | 3:53 | 2023-07-23 | 2023-11-11 |
 | [Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/track/4C4DYyYoCob3UwqCJAgg8f) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Red, White and Jersey / Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0) | 4:53 | 2025-09-09 |  |
@@ -115,7 +116,7 @@
 | [Secret Garden](https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:26 | 2022-01-11 |  |
 | [Seven Tears](https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 1:51 | 2025-07-01 | 2025-09-11 |
 | [She Don't Love Me Now](https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Don't Love Me Now](https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn) | 3:27 | 2024-08-30 | 2024-11-22 |
-| [She's the One](https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:30 | 2023-05-29 |  |
+| [She's the One](https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:30 | 2023-05-29 | 2025-09-29 |
 | [Sherry Darling](https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:03 | 2022-01-11 | 2024-10-05 |
 | [Soul Days \(feat\. Sam Moore\)](https://open.spotify.com/track/3a1AyWAQKRSClHI29mqemI) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Sam Moore](https://open.spotify.com/artist/6B0FKbw7fqaxboRuNHi9r3) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:58 | 2022-11-13 | 2023-07-16 |
 | [Spirit in the Night](https://open.spotify.com/track/2D9YnxyNwj7qqA1JLyKYPR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greetings from Asbury Park, N.J.](https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C) | 4:58 | 2024-07-11 | 2024-09-27 |

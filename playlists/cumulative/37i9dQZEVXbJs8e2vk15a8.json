@@ -13527,6 +13527,28 @@
     },
     {
       "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/61nq049Q0X3nkF05dOqNOa"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131308,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/0WHDl4ekiXAgW3ZjmXFvmV"
+    },
+    {
+      "album": {
         "name": "Confortas Pero Da\u00f1as",
         "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
       },
@@ -13760,7 +13782,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 245722,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2UXMLGd6fHLu2oNhK73qT9"
@@ -36592,7 +36614,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -41860,7 +41882,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 154536,
       "name": "M\u00edrame Ahora - Salud mi Reina",
       "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
@@ -43922,7 +43944,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 182576,
       "name": "Nobody\u2019s Son",
       "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
@@ -54920,7 +54942,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"

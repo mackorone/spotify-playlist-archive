@@ -1,6 +1,6 @@
 {
   "description": "puro rol\u00f3n para amanecer y seguirla ",
-  "num_followers": 96989,
+  "num_followers": 97046,
   "original_name": "La Peda ",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
         "name": "Te Quer\u00eda Ver",
         "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 183846,
-      "name": "PERO NO TE ENAMORES",
-      "url": "https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 183846,
+      "name": "PERO NO TE ENAMORES",
+      "url": "https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -675,22 +691,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -739,22 +755,6 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Fantas\u00eda Pop",
-        "url": "https://open.spotify.com/album/07Lk9Pcu8vXodLrPiRTsKQ"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Cada Que...",
-      "url": "https://open.spotify.com/track/1IDfAcL63xIRjG4Q98yTfn"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "Fantas\u00eda Pop",
+        "url": "https://open.spotify.com/album/07Lk9Pcu8vXodLrPiRTsKQ"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Cada Que...",
+      "url": "https://open.spotify.com/track/1IDfAcL63xIRjG4Q98yTfn"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154817,
-      "name": "Cuando Me Muera Te Olvido",
-      "url": "https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -1299,6 +1283,38 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154817,
+      "name": "Cuando Me Muera Te Olvido",
+      "url": "https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -1735,6 +1735,26 @@
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -1827,6 +1827,26 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1867,26 +1887,6 @@
       "duration_ms": 194680,
       "name": "GUAYA",
       "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     }
   ],
   "unique_name": "La Peda ",

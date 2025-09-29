@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40374,
+  "num_followers": 40382,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABeT21fWOJ7jIpmmw08L6yk",
+  "snapshot_id": "aNcpAAAAAAAIWHShQ3Ak0vhrJUyVAe5y",
   "tracks": [
     {
       "added_at": null,
@@ -127,30 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/08ZkA9tW2y30l2WVJjxHpu"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 178948,
-      "name": "TOCA NO MORRO E NA PISTA",
-      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
+      "duration_ms": 170627,
+      "name": "Chuck Berry",
+      "url": "https://open.spotify.com/track/23fd5EB9vHXNxDQQxikpEF"
     },
     {
       "added_at": null,
@@ -187,18 +175,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry",
-        "url": "https://open.spotify.com/album/08ZkA9tW2y30l2WVJjxHpu"
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
       "artists": [
         {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 170627,
-      "name": "Chuck Berry",
-      "url": "https://open.spotify.com/track/23fd5EB9vHXNxDQQxikpEF"
+      "duration_ms": 178948,
+      "name": "TOCA NO MORRO E NA PISTA",
+      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
     },
     {
       "added_at": null,

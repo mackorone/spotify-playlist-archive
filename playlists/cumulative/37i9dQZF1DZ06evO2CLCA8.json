@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Fooled Again (I Don't Like It)",
+      "url": "https://open.spotify.com/track/6nMitriqDU3d1zLi6W1YvN"
+    },
+    {
+      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 341680,
       "name": "Friend of the Devil - Live",
       "url": "https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA"

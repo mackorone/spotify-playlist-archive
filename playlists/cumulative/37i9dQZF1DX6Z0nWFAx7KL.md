@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-330 songs - 16 hr 18 min
+331 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 | 2025-04-24 | 2025-09-21 |
 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 | 2025-03-28 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-09-15 | 2024-10-25 |
+| [Magic](https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Magic](https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn) | 3:00 | 2025-09-25 |  |
 | [Magnetic](https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Magnetic](https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl) | 3:02 | 2025-06-05 |  |
 | [MAGNETS](https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Oscar Duke](https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh) | [MAGNETS](https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP) | 2:26 | 2024-02-07 | 2024-11-15 |
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |
@@ -208,7 +209,7 @@
 | [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 | 2022-09-15 | 2023-05-12 |
 | [Moundé](https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Moundé](https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q) | 3:14 | 2022-09-29 | 2024-08-31 |
 | [My Darling](https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [My Darling](https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq) | 2:54 | 2022-09-15 | 2024-08-31 |
-| [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 | 2023-07-06 |  |
+| [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 | 2023-07-06 | 2025-09-29 |
 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 | 2024-11-14 |  |
 | [Never Give Up On You](https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Never Give Up On You](https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa) | 3:36 | 2022-09-15 | 2024-03-21 |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2022-09-15 | 2022-09-30 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,499 likes - 42 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,506 likes - 42 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 |
 | 2 | [Brackish](https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:09 |
-| 3 | [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 |
-| 4 | [Brackish XXV](https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:57 |
+| 3 | [Brackish XXV](https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:57 |
+| 4 | [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 |
 | 5 | [What I Always Wanted](https://open.spotify.com/track/1MnJfqbZ4eVxswbtzFCh0O) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 3:43 |
 | 6 | [Spit](https://open.spotify.com/track/6zd772F94reUnGHulNeEFm) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:22 |
 | 7 | [Fire](https://open.spotify.com/track/0E66SVq7uPT9YOXzzaIAsZ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:28 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 41 | [Already Dead](https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 |
 | 42 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
 
-Snapshot ID: `aNXXgAAAAAAolBpKlgtE/GRQxs1M6PB2`
+Snapshot ID: `aNcpAAAAAAAPlC+ByResvDacybuDcOs2`

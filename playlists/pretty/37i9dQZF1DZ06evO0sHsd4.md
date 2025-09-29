@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,475 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,488 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 38 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
 | 39 | [Una Última Ocasión](https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Una Última Ocasión](https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv) | 3:36 |
 | 40 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
-| 41 | [Modo On](https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
-| 42 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
+| 41 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
+| 42 | [Modo On](https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 43 | [Mala Mia](https://open.spotify.com/track/5rfaKvcf8Dcj2bvRBCRdUn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:32 |
 | 44 | [Yo Si Vengo De Las Calles](https://open.spotify.com/track/2cyhNfHLJtCcrpQIXFcV52) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 3:18 |
 
-Snapshot ID: `aNXXgAAAAAAb9N17FQei27Rpt8kzr7aV`
+Snapshot ID: `aNcpAAAAAACV5Jlcj4QiH/0fK3fapNp+`

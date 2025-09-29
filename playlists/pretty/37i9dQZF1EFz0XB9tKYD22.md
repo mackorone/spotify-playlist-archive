@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 340 songs - 20 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 341 songs - 20 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,8 +302,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 292 | [Over Here](https://open.spotify.com/track/4wuhlskcKp05Bvyo4ZBXjJ) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/0uIwUWUsDPDJoNDBnfzs3o) | 3:34 |
 | 293 | [Kryptonite \(In the Style of 3 Doors Down\) \[Karaoke Version\]](https://open.spotify.com/track/4iwzGRD8xVbkl4O97gmQf9) | [The Karaoke Channel](https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ) | [The Karaoke Channel \- Modern Rock, Vol\. 1](https://open.spotify.com/album/3oHDClX8I1rdkzIKA5goFj) | 3:55 |
 | 294 | [Tie a Knot](https://open.spotify.com/track/3TxrgvVqp7c3ysc3aP04Kl) | [Chris Kroeze](https://open.spotify.com/artist/1GlT9mh68e99db68QqSKnf) | [Tie a Knot](https://open.spotify.com/album/7zYCoEhsyBJdgqQrGTPYYA) | 3:07 |
-| 295 | [Lemonade](https://open.spotify.com/track/6U2KmhDPlTqBAb2175X6qc) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [What If?](https://open.spotify.com/album/0FP9mhZ6IrDakt1eguqauS) | 4:22 |
-| 296 | [Nights This Long](https://open.spotify.com/track/4QRKmjcvlRf07GJlfUZVrW) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/6vwssZwOmmxOK86Bb0XRYo) | 3:04 |
+| 295 | [Nights This Long](https://open.spotify.com/track/4QRKmjcvlRf07GJlfUZVrW) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/6vwssZwOmmxOK86Bb0XRYo) | 3:04 |
+| 296 | [Lemonade](https://open.spotify.com/track/6U2KmhDPlTqBAb2175X6qc) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [What If?](https://open.spotify.com/album/0FP9mhZ6IrDakt1eguqauS) | 4:22 |
 | 297 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 |
 | 298 | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/track/09fRiBGIEVAeX7eNBipm2G) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/album/2dfDT5XbCDlNABvafIfLmz) | 3:41 |
 | 299 | [I Should Be Dancing](https://open.spotify.com/track/7Drfpq8DConRof9Otf0Yhf) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Little Galaxy Girl](https://open.spotify.com/album/2AszC7OP4Fka4YRF7uE9Zp) | 2:54 |
@@ -329,8 +329,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 319 | [Way Too Pretty For Prison](https://open.spotify.com/track/4GxjV1ARdF4ciOPHJ4CoUa) | [Jamie Hunt](https://open.spotify.com/artist/2PoY7kR1rpf3oZowoBMBR6) | [Mix It Lit](https://open.spotify.com/album/0Y6a5jZ10bDnIq837S4B68) | 3:14 |
 | 320 | [Hot Concrete](https://open.spotify.com/track/7IouEbgLhlP7tWw3eED4UT) | [Drunken Immortals](https://open.spotify.com/artist/2sQNxKrfy0k3fjHLJLJLbH) | [Hot Concrete](https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD) | 4:14 |
 | 321 | [Warm Beer](https://open.spotify.com/track/0WWGVgziMt8xHUIsqbtyoy) | [Big City Lights](https://open.spotify.com/artist/2omfQ7RvqrjJPdhqNhavaf) | [Warm Beer](https://open.spotify.com/album/7cpESNXQ4fsBvBnbZjKwr1) | 3:22 |
-| 322 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 |
-| 323 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
+| 322 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
+| 323 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 |
 | 324 | [Lonesome And Cold \(From 'Single HIts'1959\)](https://open.spotify.com/track/1X4jhrYE7p4lCXdd7FZ1C5) | [Al Hibbler](https://open.spotify.com/artist/6iWkhfvI0raTI7Akxo7ODQ) | [AL HIBBLER \- FOREVER JAZZ HITS VOL.2](https://open.spotify.com/album/3ID20kfMxhIG0Hku9iKxbC) | 2:36 |
 | 325 | [Love You Right](https://open.spotify.com/track/2JkTdxltC22nEQPXR9wrqh) | [Lindsey Walker](https://open.spotify.com/artist/6HjkMXAIbRvdtppck8j2Cp) | [Our Glory](https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS) | 5:09 |
 | 326 | [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 |
@@ -343,10 +343,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 333 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
 | 334 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
 | 335 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 336 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
-| 337 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
-| 338 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
-| 339 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
-| 340 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
+| 336 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
+| 337 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
+| 338 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 339 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
+| 340 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
+| 341 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `Ab9YHgAAAADrizNNF+laXpONRtYriBqW`
+Snapshot ID: `Ab9d0gAAAAAHTkS4W6jyb3bT+981q7HM`

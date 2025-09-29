@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30033,
+  "num_followers": 30035,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAClACnRb9+259nnSVu+GHyd",
+  "snapshot_id": "aNcpAAAAAAAy6oAp05RuG5wSEpnzuMyJ",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Sucker Puncher",
-      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Sucker Puncher",
+      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
+      },
+      "artists": [
+        {
+          "name": "Blair Dunlop",
+          "url": "https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 111906,
+      "name": "Strangler Fig",
+      "url": "https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 131052,
       "name": "Come on in My Kitchen",
       "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin'",
-      "url": "https://open.spotify.com/track/2BGkIqllOR4ZfnzhdhUa5l"
     },
     {
       "added_at": null,
@@ -791,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
-        {
-          "name": "Blair Dunlop",
-          "url": "https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 111906,
-      "name": "Strangler Fig",
-      "url": "https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C"
+      "duration_ms": 193389,
+      "name": "Keep Diggin'",
+      "url": "https://open.spotify.com/track/2BGkIqllOR4ZfnzhdhUa5l"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 220796,
-      "name": "Every Bird That Flies",
-      "url": "https://open.spotify.com/track/5wdwFApcuvdek4GNxFo9js"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reskinned",
         "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 209720,
       "name": "When God Closes a Door",
       "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 220796,
+      "name": "Every Bird That Flies",
+      "url": "https://open.spotify.com/track/5wdwFApcuvdek4GNxFo9js"
     },
     {
       "added_at": null,

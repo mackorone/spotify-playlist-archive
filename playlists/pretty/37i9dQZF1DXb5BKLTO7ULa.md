@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Olivia Dean, Roxy Dekker, Doja Cat, Tame Impala en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,463 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,418 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,803 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,802 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 30 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |
 | 31 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
 | 32 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
-| 33 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
-| 34 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
+| 33 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
+| 34 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
 | 35 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 |
 | 36 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 |
 | 37 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 61 | [Boys Don't Cry](https://open.spotify.com/track/2orxzsGKBr5wI7W1bY6g1A) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Nineteeneighties](https://open.spotify.com/album/4TnqhYlH5FEJzjBdU96III) | 3:46 |
 | 62 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6bK1Dzmy41YKrGVitOejNu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sonreír \(Versión Acústica\)](https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80) | 3:28 |
 | 63 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
-| 64 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 |
-| 65 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
+| 64 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
+| 65 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 |
 | 66 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 |
 | 67 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 68 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 |

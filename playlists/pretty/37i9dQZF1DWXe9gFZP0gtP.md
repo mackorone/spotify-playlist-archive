@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712,054 likes - 204 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,712,577 likes - 204 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 203 | [Light lives on](https://open.spotify.com/track/1AsWBnSavEiTgomJPdAm0I) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Light lives on](https://open.spotify.com/album/3SwFqTj6D5YfuyBKUDLDnC) | 2:38 |
 | 204 | [Cradle of Silence](https://open.spotify.com/track/6O6DIp2Lhcw57u6IkF0IJu) | [Reso Nata](https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz) | [Cradle of Silence](https://open.spotify.com/album/5W8UjXslZMr17hJQDaPv6b) | 2:41 |
 
-Snapshot ID: `AAAAAEadxk8JAhIewGErU7v/waQAIRMn`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

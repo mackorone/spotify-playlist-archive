@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 112606,
+  "num_followers": 112628,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAD2TljMS1FH70hDefta++BH",
+  "snapshot_id": "aNcpAAAAAAABLcUeqeqcSXCDwWvShGHI",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shatter Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Shatter Me",
+      "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
@@ -683,22 +703,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shatter Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
       "artists": [
         {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
         },
         {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 278800,
-      "name": "Shatter Me",
-      "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
+      "duration_ms": 254887,
+      "name": "Out In the Rain",
+      "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
     },
     {
       "added_at": null,
@@ -811,22 +835,6 @@
       "duration_ms": 250760,
       "name": "Gold Dust Woman",
       "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "White Dress",
-      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
     }
   ],
   "unique_name": "This Is Halestorm",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,576 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,594 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 49 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 2:06 |
 | 50 | [Bussdown](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 
-Snapshot ID: `aNXXgAAAAABDQDOjXeIcVjpAOHh76mAS`
+Snapshot ID: `aNcpAAAAAABF+D+wy1H70pyPj5LqMK+x`

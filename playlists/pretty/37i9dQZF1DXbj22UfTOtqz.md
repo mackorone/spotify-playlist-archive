@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 
 > Clásicos del Hip Hop para toda la familia a disfrutar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,020 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,027 likes - 43 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 4 | [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 |
 | 5 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
 | 6 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 7 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
-| 8 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
+| 7 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
+| 8 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 9 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |
 | 10 | [Loungin'](https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:39 |
 | 11 | [The Fresh Prince of Bel\-Air](https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 2:57 |

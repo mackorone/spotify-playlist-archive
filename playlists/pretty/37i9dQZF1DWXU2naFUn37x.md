@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > IvanBi in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,120 likes - 52 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,090 likes - 52 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

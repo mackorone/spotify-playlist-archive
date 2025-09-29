@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 90326,
+  "num_followers": 90357,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 143663,
       "name": "ringtone",
       "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "1:15",
-        "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 130206,
-      "name": "1:15",
-      "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "detest me",
         "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "1:15",
+        "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
+      },
+      "artists": [
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 130206,
+      "name": "1:15",
+      "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+      },
+      "artists": [
+        {
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+        }
+      ],
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "doing it wrong",
         "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 147965,
       "name": "doing it wrong",
       "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
-      },
-      "artists": [
-        {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
-        }
-      ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "drive-by lullabies",
-        "url": "https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05"
+        "name": "bad idea",
+        "url": "https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J"
       },
       "artists": [
         {
           "name": "osquinn",
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
         }
       ],
-      "duration_ms": 182389,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux"
+      "duration_ms": 69015,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv"
     },
     {
       "added_at": "2024-10-09 21:55:22",

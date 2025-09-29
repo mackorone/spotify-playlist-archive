@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 153096,
+  "num_followers": 153124,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAABTm5wJMXuf9jSfZWaU+H3J",
+  "snapshot_id": "aNcpAAAAAAC/5c1nGqI7zkKu2a3rQfxu",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 197093,
       "name": "Put It All on Me (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/5T03itPFOPGGkvVPvPiyla"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Sex Memories (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/4L1ssURf09bPAfPhhOgy56"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 225286,
       "name": "Jealous (with Ella Mai)",
       "url": "https://open.spotify.com/track/4xPqjF1t6wGa2j6QEMPF95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Sex Memories (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/4L1ssURf09bPAfPhhOgy56"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 235672,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DiCaprio 2",
         "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 244801,
       "name": "Tiiied (feat. 6LACK & Ella Mai)",
       "url": "https://open.spotify.com/track/4kswfYbJFf6FPzMElZmtve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 237758,
-      "name": "Breakfast In Bed",
-      "url": "https://open.spotify.com/track/2j0FtLNpLPaSX9rKuIdBFH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230757,
       "name": "2 O'Clock",
       "url": "https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 237758,
+      "name": "Breakfast In Bed",
+      "url": "https://open.spotify.com/track/2j0FtLNpLPaSX9rKuIdBFH"
     },
     {
       "added_at": null,

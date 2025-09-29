@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Daniel Caesar",
-  "num_followers": 1341619,
+  "num_followers": 1341288,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1113,38 +1113,6 @@
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
-      "added_at": "2025-06-27 04:16:56",
-      "album": {
-        "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
-        "url": "https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        },
-        {
-          "name": "Tariq Al-Sabir",
-          "url": "https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 199256,
-      "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
-      "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "AFTER HOURS",
@@ -1175,6 +1143,38 @@
       "duration_ms": 189680,
       "name": "Inwood Hill Park",
       "url": "https://open.spotify.com/track/4qZLrKsaGkYmVRGUviVPtk"
+    },
+    {
+      "added_at": "2025-06-27 04:16:56",
+      "album": {
+        "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+        "url": "https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Tariq Al-Sabir",
+          "url": "https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 199256,
+      "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+      "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
     },
     {
-      "added_at": "2024-08-23 05:28:40",
-      "album": {
-        "name": "Lonely Fight",
-        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 229169,
-      "name": "Lonely Fight",
-      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Medea",
@@ -1239,6 +1223,22 @@
       "duration_ms": 156000,
       "name": "Love",
       "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
+    },
+    {
+      "added_at": "2024-08-23 05:28:40",
+      "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/3xxUGSaRrNHmVXKsa3gqKs"
     },
     {
-      "added_at": "2024-02-09 06:30:29",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 118269,
-      "name": "DNM",
-      "url": "https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s"
-    },
-    {
       "added_at": "2025-06-13 04:00:56",
       "album": {
         "name": "Heaven",
@@ -1323,6 +1307,22 @@
       "duration_ms": 182906,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
+    },
+    {
+      "added_at": "2024-02-09 06:30:29",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 118269,
+      "name": "DNM",
+      "url": "https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s"
     },
     {
       "added_at": "2025-08-22 10:33:51",
@@ -1709,20 +1709,20 @@
       "url": "https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F"
     },
     {
-      "added_at": "2025-03-28 04:00:52",
+      "added_at": "2024-09-27 23:55:30",
       "album": {
-        "name": "10 songs",
-        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+        "name": "Songs About You Specifically",
+        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 178902,
-      "name": "be with ya",
-      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
+      "duration_ms": 163931,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
       "added_at": "2024-08-16 04:08:50",
@@ -1757,20 +1757,20 @@
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
-      "added_at": "2024-09-27 23:55:30",
+      "added_at": "2025-03-28 04:00:52",
       "album": {
-        "name": "Songs About You Specifically",
-        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 163931,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
       "added_at": "2023-09-01 04:16:58",
@@ -1821,22 +1821,6 @@
       "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
-      "added_at": "2024-07-26 09:18:29",
-      "album": {
-        "name": "Tempt Me",
-        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Tempt Me",
-      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Spite",
@@ -1851,6 +1835,22 @@
       "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+    },
+    {
+      "added_at": "2024-07-26 09:18:29",
+      "album": {
+        "name": "Tempt Me",
+        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Tempt Me",
+      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1921,22 +1921,6 @@
       "url": "https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Nights Like This",
-      "url": "https://open.spotify.com/track/3V20OKj17cqyZTtQAExeUR"
-    },
-    {
       "added_at": "2024-06-21 07:44:39",
       "album": {
         "name": "Petra",
@@ -1951,6 +1935,22 @@
       "duration_ms": 212000,
       "name": "Petra",
       "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/3V20OKj17cqyZTtQAExeUR"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -1973,22 +1973,6 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2024-03-01 07:06:56",
-      "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
-    },
-    {
       "added_at": "2024-08-16 04:08:50",
       "album": {
         "name": "I Could Be Forever",
@@ -2005,6 +1989,22 @@
       "url": "https://open.spotify.com/track/1f2MtVFQobJYlbHLQycFPm"
     },
     {
+      "added_at": "2024-03-01 07:06:56",
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "pilot.",
@@ -2019,22 +2019,6 @@
       "duration_ms": 146669,
       "name": "pilot.",
       "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
-    },
-    {
-      "added_at": "2024-05-03 04:03:47",
-      "album": {
-        "name": "empathogen",
-        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "false self",
-      "url": "https://open.spotify.com/track/067ktXQzCYLd2YD0FDw5ON"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2055,6 +2039,22 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
+    },
+    {
+      "added_at": "2024-05-03 04:03:47",
+      "album": {
+        "name": "empathogen",
+        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "false self",
+      "url": "https://open.spotify.com/track/067ktXQzCYLd2YD0FDw5ON"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2253,6 +2253,22 @@
       "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
     },
     {
+      "added_at": "2023-06-16 04:53:14",
+      "album": {
+        "name": "open",
+        "url": "https://open.spotify.com/album/7nkV7ATNyYOJsYPZ63aPP4"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        }
+      ],
+      "duration_ms": 142362,
+      "name": "open",
+      "url": "https://open.spotify.com/track/7y4voxIo9QJT9ZODjKEBLS"
+    },
+    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -2271,22 +2287,6 @@
       "duration_ms": 87301,
       "name": "Wasted Words (feat. Thundercat)",
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
-    },
-    {
-      "added_at": "2023-06-16 04:53:14",
-      "album": {
-        "name": "open",
-        "url": "https://open.spotify.com/album/7nkV7ATNyYOJsYPZ63aPP4"
-      },
-      "artists": [
-        {
-          "name": "Merges",
-          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
-        }
-      ],
-      "duration_ms": 142362,
-      "name": "open",
-      "url": "https://open.spotify.com/track/7y4voxIo9QJT9ZODjKEBLS"
     },
     {
       "added_at": "2024-08-23 05:28:40",
@@ -2377,22 +2377,6 @@
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
-      "added_at": "2024-05-31 07:53:07",
-      "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
-    },
-    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "Satellite Business 2.0",
@@ -2411,6 +2395,22 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2024-05-31 07:53:07",
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2459,30 +2459,6 @@
       "duration_ms": 263513,
       "name": "2:35 AM",
       "url": "https://open.spotify.com/track/3b3MgbQskkpBb6rSkoIAoh"
-    },
-    {
-      "added_at": "2025-02-14 07:50:47",
-      "album": {
-        "name": "Stream of Consciousness",
-        "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 162401,
-      "name": "Stream of Consciousness",
-      "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2535,6 +2511,30 @@
       "duration_ms": 228261,
       "name": "Your Ecstasy",
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
+    },
+    {
+      "added_at": "2025-02-14 07:50:47",
+      "album": {
+        "name": "Stream of Consciousness",
+        "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 162401,
+      "name": "Stream of Consciousness",
+      "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
     },
     {
       "added_at": "2023-11-03 06:04:27",

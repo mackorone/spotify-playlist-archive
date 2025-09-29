@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,386 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,459 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 50 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
 | 51 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
 | 52 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:57 |
-| 53 | [In This Diary](https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 3:50 |
-| 54 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 |
+| 53 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 |
+| 54 | [In This Diary](https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 3:50 |
 | 55 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
 | 56 | [I Don't Care As Long As You Sing](https://open.spotify.com/track/15XkE7wBo9JYmpEc757A4E) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 3:20 |
 | 57 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
 | 58 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 |
 | 59 | [Revolution](https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Andiamo \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK) | 2:24 |
-| 60 | [The Perfect Crime](https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Perfect Crime](https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf) | 3:26 |
-| 61 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 |
+| 60 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 |
+| 61 | [The Perfect Crime](https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Perfect Crime](https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf) | 3:26 |
 | 62 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 63 | [What I Got](https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:51 |
 | 64 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |

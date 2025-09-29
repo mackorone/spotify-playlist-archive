@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,245 songs - 5 day 0 hr 17 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,246 songs - 5 day 0 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2253,5 +2253,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2243 | [pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [pack up ya bags](https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC) | 2:12 |
 | 2244 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 2245 | [Inside](https://open.spotify.com/track/5AACEBhCH579PdVh90ShvC) | [Slim Sinna](https://open.spotify.com/artist/16PQzIArEPbyu29a63l1pZ) | [Come Alive](https://open.spotify.com/album/0rKDAbuTkGHNX5qSrsOa2e) | 4:50 |
+| 2246 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
 
-Snapshot ID: `AAAEuS6wj/63x1tJJ7YUyhys4PqSsWIa`
+Snapshot ID: `AAAEugfM413tuElbQviqcCN7Uy7dOPgb`

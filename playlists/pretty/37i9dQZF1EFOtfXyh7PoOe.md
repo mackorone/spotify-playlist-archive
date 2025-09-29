@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 74 | [essential](https://open.spotify.com/track/7hXBQubLTgHqjyJWRovnQa) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [so here you are, drowning](https://open.spotify.com/album/6ao5NAirCG56jFXuwO0fo3) | 2:42 |
 | 75 | [Nobody \- Radio Edit](https://open.spotify.com/track/4HD4FRMS1WVcUicTXPLjMp) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Nobody](https://open.spotify.com/album/0K0Xjl0oZeqTrvSZtg89w5) | 3:25 |
 | 76 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
-| 77 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
-| 78 | [Before You Break My Heart](https://open.spotify.com/track/0atnyfHKI3hGD75pts9FCY) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:16 |
+| 77 | [Before You Break My Heart](https://open.spotify.com/track/0atnyfHKI3hGD75pts9FCY) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:16 |
+| 78 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
 | 79 | [Anyway](https://open.spotify.com/track/6wRJbAQrvKdIDZH2THGStG) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Garden](https://open.spotify.com/album/4c2hxhsZlNzGhZZozQObEj) | 2:29 |
 | 80 | [Man Still Cries](https://open.spotify.com/track/37Sq87EEERNJbGulpfmTYA) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Things I Can't Say Out Loud](https://open.spotify.com/album/1KRP8aalo8bVkOuYhMFO10) | 2:55 |
 | 81 | [autopilot](https://open.spotify.com/track/7o7A2Ne5pe7JHBzdpSgBua) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [about the party](https://open.spotify.com/album/3tfHqNvu8jksogQMBd7VX8) | 2:34 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 102 | [fine print](https://open.spotify.com/track/2jffev12ZeINFfKAbBHzbP) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:21 |
 | 103 | [Leap Of Faith](https://open.spotify.com/track/60RaJR9WDuED6orXYyXOAR) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Leap Of Faith](https://open.spotify.com/album/6dESR87X8I2nUW6rOlaDH8) | 3:22 |
 | 104 | [C'est La Vie](https://open.spotify.com/track/2rDZiVgp3t072QzQba281V) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [C'est La Vie](https://open.spotify.com/album/3k2L48HTq4EdOAIBF49W0G) | 2:32 |
-| 105 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 |
-| 106 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
+| 105 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
+| 106 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 |
 | 107 | [Stay](https://open.spotify.com/track/0BouPBCd9OuwPtnDhA3ZNK) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 3:00 |
 | 108 | [Bloom](https://open.spotify.com/track/4o2l1LkywlBL1mnhT8aAhV) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/4QyS5vbTlQXnVJQlAfbdfS) | 2:49 |
 | 109 | [Ur so Cute](https://open.spotify.com/track/1Ek0cobqdxtZeFyszepTly) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Ur so Cute](https://open.spotify.com/album/34YQYSGf7GOqUi5ROHSQa8) | 2:10 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 128 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 129 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Ab9YHgAAAAAYTOH3Z7AV8rmPuu0G+pbF`
+Snapshot ID: `Ab9dyAAAAACNSeIV5Rz9Z3fTwIoJXuoM`

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: The Phoenix Mercury
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes
 
 847 songs - 1 day 19 hr 24 min
 

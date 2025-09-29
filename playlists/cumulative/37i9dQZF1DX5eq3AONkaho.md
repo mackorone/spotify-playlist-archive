@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,094 songs - 2 day 12 hr 19 min
+1,095 songs - 2 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [Hands Up](https://open.spotify.com/track/5RENkTP0he793Basw1Stto) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx) | 3:18 | 2023-03-31 | 2023-11-05 |
 | [Hands Up](https://open.spotify.com/track/6KxACudfT4vVXnDUkjU6lN) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Hands Up](https://open.spotify.com/album/5HyrUteikoFGu38bAf7zYc) | 3:32 | 2021-11-17 | 2022-06-10 |
 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-05-08 |  |
-| [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2021-11-17 |  |
+| [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2021-11-17 | 2025-09-29 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2022-02-03 | 2023-03-29 |
 | [Hard Carry](https://open.spotify.com/track/0QJk64Xo6tdXNjXg4RnqpI) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H) | 3:13 | 2023-09-15 | 2023-11-05 |
 | [Hard Carry](https://open.spotify.com/track/2SiHRAQoTuu0hFwPwhYHRs) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Flight Log : Turbulence](https://open.spotify.com/album/4uEGNFWUjuZqxuEB3lYiW2) | 3:13 | 2022-03-24 | 2022-04-19 |
@@ -1033,6 +1033,7 @@
 | [WHISTLE \- KR Ver.](https://open.spotify.com/track/67BbMuItfrHmaNqDxBPF7c) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/71QEBJY33oG0l5rqs2kR1c) | 3:32 | 2022-01-03 | 2022-07-16 |
 | [Who Am I](https://open.spotify.com/track/05FIKEv2c1TiKGzx6uK37S) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [MOMENT](https://open.spotify.com/album/5Lfy8FTaRJzo7vMgnwyuOD) | 3:26 | 2021-11-17 | 2022-07-29 |
 | [Who Am I](https://open.spotify.com/track/1ZIHII0gyHHyAqeyltgmwj) | [ROZY](https://open.spotify.com/artist/1uuPnVwyPg5YUqV5JNy0Xl) | [Who Am I](https://open.spotify.com/album/6qpO20n7B2yFAZeqcjy2yn) | 3:07 | 2022-03-09 | 2022-07-29 |
+| [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-26 |  |
 | [Who U Are](https://open.spotify.com/track/6C9dV3oVFBYZ3CShCU300P) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [MAGENTA](https://open.spotify.com/album/7L2jDMk6IZChhMxPdJMJ6i) | 3:22 | 2021-11-17 | 2022-07-20 |
 | [Why So Lonely](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Why So Lonely](https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U) | 3:26 | 2023-08-24 | 2023-11-05 |
 | [Why So Lonely](https://open.spotify.com/track/2ni9U5vu15LUg93jpQ2hNM) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Why So Lonely](https://open.spotify.com/album/3UfwqJq9ObtnRMImAjsbr6) | 3:26 | 2021-11-17 | 2022-07-26 |

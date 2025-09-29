@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-243 songs - 13 hr 59 min
+244 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Interruption](https://open.spotify.com/track/6yiDJYoQBlb7lTA10rXUZy) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak), [Cherry Lena](https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo) | [Interruption](https://open.spotify.com/album/5EO08uN9A5WjrYDc9vglKD) | 2:50 | 2025-03-21 |  |
 | [Introspection](https://open.spotify.com/track/54i7ow5JI0alL46ZmApyTF) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [À La Ô Terre](https://open.spotify.com/album/58KvfyZ8bJqsWroUSb1KTR) | 4:40 | 2025-01-17 | 2025-02-04 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 | 2025-03-08 |
+| [J'ai besoin de vivre](https://open.spotify.com/track/7AiIpmotHzRvcwRQwfivRG) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS), [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'allée des melons](https://open.spotify.com/album/4XO9f1PjgzgFVUZg1TkldK) | 3:37 | 2025-09-25 |  |
 | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY) | 2:31 | 2023-04-21 | 2023-06-28 |
 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 | 2023-04-14 |  |
 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 | 2023-02-10 | 2023-03-25 |
@@ -229,7 +230,7 @@
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2023-02-10 |  |
 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 | 2025-09-25 |  |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 |  |
-| [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-15 |  |
+| [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-15 | 2025-09-29 |
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 | 2025-09-13 |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2024-04-30 |
 | [Vitesse](https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Vitesse](https://open.spotify.com/album/4Xx7ZyYbDFcHycDtffNjzf) | 3:15 | 2023-09-08 | 2023-10-28 |

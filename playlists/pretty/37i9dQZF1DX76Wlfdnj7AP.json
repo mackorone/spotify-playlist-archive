@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 10952128,
+  "num_followers": 10952255,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAHVNwdpL8sNI5jxMUlj4OpMR1wzG",
   "tracks": [
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -435,26 +435,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Sports car",
-        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Sports car",
-      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "ALAMBRE P\u00faA",
-        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 146017,
-      "name": "ALAMBRE P\u00faA",
-      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "ALAMBRE P\u00faA",
+        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 146017,
+      "name": "ALAMBRE P\u00faA",
+      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -787,22 +803,6 @@
       "duration_ms": 182401,
       "name": "Big Poe (feat. Sk8brd)",
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -1643,22 +1663,18 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+      "duration_ms": 209213,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/07FkzikE6FuHIa8Ma7zJGc"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1695,22 +1711,6 @@
       "duration_ms": 79452,
       "name": "X-SLIDE",
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/07FkzikE6FuHIa8Ma7zJGc"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1795,18 +1795,26 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1831,26 +1839,18 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Tacata (Remix)",
-        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
       },
       "artists": [
         {
-          "name": "Tiagz",
-          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 156716,
-      "name": "Tacata (Remix)",
-      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
       },
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 193183,
-      "name": "SHYNE",
-      "url": "https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny"
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2115,22 +2095,38 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+      "duration_ms": 193183,
+      "name": "SHYNE",
+      "url": "https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2151,18 +2147,22 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Even If It Kills Me",
-        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 212239,
-      "name": "Even If It Kills Me",
-      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Even If It Kills Me",
+        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 212239,
+      "name": "Even If It Kills Me",
+      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2655,26 +2655,6 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
-        }
-      ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
         "name": "Fancy $hit",
         "url": "https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh"
       },
@@ -2695,6 +2675,26 @@
     {
       "added_at": "2025-09-26 04:00:38",
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
@@ -2711,26 +2711,6 @@
       "duration_ms": 196899,
       "name": "California Dreamin' (feat. High Jinx)",
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
-    },
-    {
-      "added_at": "2025-09-26 04:00:38",
-      "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Ren\u00e9 Miller",
-          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2025-09-26 04:00:38",
@@ -2759,6 +2739,26 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2025-09-26 04:00:38",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2025-09-26 04:00:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Brokezart, Hefner, Nerra en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,353 likes - 67 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,341 likes - 67 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

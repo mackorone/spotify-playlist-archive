@@ -4,7 +4,7 @@
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 23 min
+91 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Audience Of One](https://open.spotify.com/track/1YkozbENeETx2a45JWrr8E) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:05 | 2022-09-16 |  |
 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [Tim Mcllrath](https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:06 | 2022-10-12 | 2025-01-28 |
 | [Behind Closed Doors](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:15 | 2022-09-16 |  |
-| [Black Crown](https://open.spotify.com/track/4ohfZza9elH8aGdqRPbFoy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:20 | 2025-08-17 |  |
+| [Black Crown](https://open.spotify.com/track/4ohfZza9elH8aGdqRPbFoy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:20 | 2025-08-17 | 2025-09-29 |
 | [Black Masks & Gasoline](https://open.spotify.com/track/5LYYi2xeLbrnvD9UQ1AE3U) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 2:59 | 2022-09-16 | 2025-08-17 |
 | [Black Masks & Gasoline](https://open.spotify.com/track/5SKpp65RnvRqulDKHlpRxA) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/7jZsALpP2VGqgwUadT8mIj) | 2:59 | 2025-09-09 |  |
 | [Blind](https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 2:34 | 2022-09-16 |  |
@@ -34,6 +34,7 @@
 | [Forty Days](https://open.spotify.com/track/1AEYdmsmgrCUvgr0tngnXW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:23 | 2025-08-17 | 2025-09-03 |
 | [From Heads Unworthy](https://open.spotify.com/track/1GWqIqTchxGaectAU24poN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 | 2022-09-16 |  |
 | [Give It All](https://open.spotify.com/track/5O6SumCYk8Ug81UbfXAPJC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz) | 2:50 | 2022-09-16 |  |
+| [Gold Long Gone](https://open.spotify.com/track/0BHyc5cgSYKHGIce4gTkMn) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:19 | 2025-09-29 |  |
 | [Heaven Knows](https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 3:23 | 2022-09-16 | 2025-08-14 |
 | [Help Is On The Way](https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:57 | 2022-09-16 |  |
 | [Hero Of War](https://open.spotify.com/track/00hVU6kDP67JHurfwG2dtq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:13 | 2022-09-16 |  |

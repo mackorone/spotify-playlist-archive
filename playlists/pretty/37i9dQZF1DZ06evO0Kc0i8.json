@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 856457,
+  "num_followers": 856583,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAAAGJjfTTheorG9Ph7PtEKhV",
+  "snapshot_id": "aNcpAAAAAAArwR0Tgw8Sw/vA22mOZQh8",
   "tracks": [
     {
       "added_at": null,
@@ -36,13 +36,29 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Kh\u00e9?",
-      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "SILENCIO",
+      "url": "https://open.spotify.com/track/4q8bfTmtDfgLGmDc5IuoIQ"
     },
     {
       "added_at": null,
@@ -91,6 +107,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Kh\u00e9?",
+      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "Besito en la Frente",
+      "url": "https://open.spotify.com/track/2b7Si9I7PtpgGOnUE8Qogd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -107,42 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Qu\u00e9 Pasar\u00eda...",
-      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "SILENCIO",
-      "url": "https://open.spotify.com/track/4q8bfTmtDfgLGmDc5IuoIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buenos T\u00e9rminos",
         "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
       },
@@ -155,26 +171,6 @@
       "duration_ms": 150823,
       "name": "Buenos T\u00e9rminos",
       "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": null,
@@ -199,22 +195,6 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 161622,
-      "name": "Besito en la Frente",
-      "url": "https://open.spotify.com/track/2b7Si9I7PtpgGOnUE8Qogd"
     },
     {
       "added_at": null,
@@ -246,11 +226,15 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": null,
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 214857,
-      "name": "La Old Skul",
-      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
     },
     {
       "added_at": null,
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+      "duration_ms": 214857,
+      "name": "La Old Skul",
+      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -515,30 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 216107,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 183556,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/1dt2lHi5RCMPuxz4VxKYgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216107,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 203463,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216413,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 203463,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
     },
     {
       "added_at": null,
@@ -911,6 +911,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "CONTRABANDO",
+      "url": "https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -983,46 +1007,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forni",
-        "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
-      },
-      "artists": [
-        {
-          "name": "Los Ballers",
-          "url": "https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY"
-        },
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Forni",
-      "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
+      "duration_ms": 211833,
+      "name": "N\u00c1UFRAGOS",
+      "url": "https://open.spotify.com/track/2pM3EaNKFnpa646xtCiREJ"
     }
   ],
   "unique_name": "This Is Rauw Alejandro",

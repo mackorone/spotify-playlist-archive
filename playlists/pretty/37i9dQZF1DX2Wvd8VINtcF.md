@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Daniel Caesar✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,527 likes - 204 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,519 likes - 204 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-99 songs - 7 hr 31 min
+100 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [In God's Perfect Hands](https://open.spotify.com/track/2cOJMOSZyWUFeueXdEvqCS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:05 | 2025-07-01 | 2025-08-11 |
 | [It's Alright, It's Ok](https://open.spotify.com/track/0e1ZeCyP0BPBO42qu8MFfY) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 3:45 | 2023-05-12 | 2024-01-10 |
 | [It's Alright, It's Ok](https://open.spotify.com/track/0wQIse75vfTmdFvYD48rHS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 3:45 | 2024-01-09 |  |
+| [It's Under the Blood](https://open.spotify.com/track/6D9wJt6lfTdR4ZZjshFS9X) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 5:55 | 2025-09-29 |  |
 | [Jesus](https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:43 | 2023-05-12 |  |
 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 | 2024-01-07 |  |
 | [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 | 2023-05-12 | 2025-03-22 |
@@ -76,7 +77,7 @@
 | [Prayer Changes Things](https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:59 | 2024-01-11 |  |
 | [Prayer Changes Things](https://open.spotify.com/track/67wseMeCcgKzn4mhQOPBUC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 4:59 | 2023-05-12 | 2024-01-12 |
 | [Reign Jesus Reign](https://open.spotify.com/track/4b7L4jXCp8lUEEsqvzNFv0) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 3:27 | 2024-11-15 | 2024-11-29 |
-| [Rejoice](https://open.spotify.com/track/0EwrqWRthgHdUwD6nbtNRa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 4:47 | 2024-09-07 |  |
+| [Rejoice](https://open.spotify.com/track/0EwrqWRthgHdUwD6nbtNRa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 4:47 | 2024-09-07 | 2025-09-29 |
 | [Sailin' On the Sea of Your Love](https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Sailin'](https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq) | 4:09 | 2023-05-12 |  |
 | [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/0wgHoxZ4UnCQwEszz2vTZk) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He Touched Me](https://open.spotify.com/album/3A6EiBRp7ZwUMcMVflxl6a) | 3:39 | 2024-08-03 |  |
 | [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Greenleaf \(Gospel Companion Soundtrack, Vol\. 1\)](https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ) | 4:08 | 2023-05-12 | 2024-08-03 |

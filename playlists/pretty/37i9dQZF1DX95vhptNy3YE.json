@@ -1,6 +1,6 @@
 {
   "description": "Jotap\u00ea e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444604,
+  "num_followers": 444576,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-09-26 15:26:32",
       "album": {
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+    },
+    {
+      "added_at": "2025-09-26 15:26:32",
+      "album": {
         "name": "Desabafo 2",
         "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 150000,
       "name": "Desabafo 2",
       "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
-    },
-    {
-      "added_at": "2025-09-26 15:26:32",
-      "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
     },
     {
       "added_at": "2025-09-26 15:26:32",
@@ -731,6 +731,30 @@
     {
       "added_at": "2025-09-26 15:26:32",
       "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
+    },
+    {
+      "added_at": "2025-09-26 15:26:32",
+      "album": {
         "name": "Em Qualquer Cama (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
       },
@@ -747,38 +771,6 @@
       "duration_ms": 170562,
       "name": "Em Qualquer Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
-    },
-    {
-      "added_at": "2025-09-26 15:26:32",
-      "album": {
-        "name": "Chama Seu Pret\u00e3o",
-        "url": "https://open.spotify.com/album/0FufoQZjyeF4551ytSJVtz"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 197999,
-      "name": "Chama Seu Pret\u00e3o",
-      "url": "https://open.spotify.com/track/0SAWMyHX9JVgXQ53O8YYjD"
     },
     {
       "added_at": "2025-09-26 15:26:32",
@@ -815,26 +807,34 @@
     {
       "added_at": "2025-09-26 15:26:32",
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+        "name": "Chama Seu Pret\u00e3o",
+        "url": "https://open.spotify.com/album/0FufoQZjyeF4551ytSJVtz"
       },
       "artists": [
         {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
         },
         {
-          "name": "Dj KLJay",
-          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
         },
         {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Dharma",
-      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
+      "duration_ms": 197999,
+      "name": "Chama Seu Pret\u00e3o",
+      "url": "https://open.spotify.com/track/0SAWMyHX9JVgXQ53O8YYjD"
     },
     {
       "added_at": "2025-09-26 15:26:32",
@@ -879,22 +879,22 @@
     {
       "added_at": "2025-09-26 15:26:32",
       "album": {
-        "name": "Raiva Nas Outras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4zB4hs0HFEERIpJtpci1Jx"
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
       "artists": [
         {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 207630,
-      "name": "Raiva Nas Outras - Ao Vivo",
-      "url": "https://open.spotify.com/track/4oViBNwGJqPvBu9XT3u7DM"
+      "duration_ms": 156500,
+      "name": "O que a Julia vai ser?",
+      "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
     },
     {
       "added_at": "2025-09-26 15:26:32",
@@ -915,6 +915,26 @@
       "duration_ms": 240493,
       "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
+    },
+    {
+      "added_at": "2025-09-26 15:26:32",
+      "album": {
+        "name": "Raiva Nas Outras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zB4hs0HFEERIpJtpci1Jx"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "duration_ms": 207630,
+      "name": "Raiva Nas Outras - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oViBNwGJqPvBu9XT3u7DM"
     },
     {
       "added_at": "2025-09-26 15:26:32",
@@ -979,26 +999,6 @@
     {
       "added_at": "2025-09-26 15:26:32",
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "O que a Julia vai ser?",
-      "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
-    },
-    {
-      "added_at": "2025-09-26 15:26:32",
-      "album": {
         "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
       },
@@ -1031,6 +1031,34 @@
     {
       "added_at": "2025-09-26 15:26:32",
       "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 156374,
+      "name": "Sob a luz do seu olhar",
+      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
+    },
+    {
+      "added_at": "2025-09-26 15:26:32",
+      "album": {
         "name": "Os Caras da Rua, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu"
       },
@@ -1059,26 +1087,6 @@
       "duration_ms": 92389,
       "name": "Nosso Lance - Ao Vivo",
       "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
-    },
-    {
-      "added_at": "2025-09-26 15:26:32",
-      "album": {
-        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 171472,
-      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
     }
   ],
   "unique_name": "AMPLIFIKA",

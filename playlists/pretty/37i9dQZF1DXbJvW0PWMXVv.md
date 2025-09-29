@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,435 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,428 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 34 | [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Lucs Romero](https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 |
 | 35 | [Último da Fila \- Ao Vivo](https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 4:33 |
 | 36 | [Bogotá](https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:15 |
-| 37 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 2:34 |
-| 38 | [pesimista](https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:54 |
+| 37 | [pesimista](https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:54 |
+| 38 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 2:34 |
 | 39 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
 | 40 | [Ahí Estabas Tú](https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 1:52 |
 | 41 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 54 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
 | 55 | [NASCENTE DA PAZ](https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Manual Prático Do Novo Samba Tradicional, Vol\. 2: TIA DARCI](https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7) | 3:53 |
 | 56 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
-| 57 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
-| 58 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
+| 57 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
+| 58 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 59 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
 | 60 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
 | 61 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |

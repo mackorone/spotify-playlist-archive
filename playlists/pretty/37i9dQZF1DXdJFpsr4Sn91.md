@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa emma & matilda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,975 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,978 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 |
-| 2 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
-| 3 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 2 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 3 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
 | 4 | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/track/6Qt8lAqvwTsfTdVzxJxGBv) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/album/4JlM4Fe25dcpi2cZdeu629) | 3:26 |
 | 5 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 |
 | 6 | [Vapaus on suuri vankila \- Vain elämää kausi 16](https://open.spotify.com/track/55DSeUtrzQTXlBLCTdgWy3) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Vapaus on suuri vankila \(Vain elämää kausi 16\)](https://open.spotify.com/album/3a2NdIRAr6UDAwfCjitBhi) | 2:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 84 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 85 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
 
-Snapshot ID: `AAAAAJ0upgZAERMoF/Gb4rv4ziRVNnCy`
+Snapshot ID: `AAAAAGc02USCsi+28mmkvXnX8lVix3O5`

@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12978,
+  "num_followers": 12980,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
         "name": "L\u00e4benslauf",
         "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 242293,
       "name": "L\u00e4benslauf",
       "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
-        {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
     },
     {
       "added_at": "2025-07-24 13:47:10",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "Papillon",
-        "url": "https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J"
-      },
-      "artists": [
-        {
-          "name": "CBN",
-          "url": "https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Nackt",
-      "url": "https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "Freshman 2015",
         "url": "https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 200666,
       "name": "I dier",
       "url": "https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J"
+      },
+      "artists": [
+        {
+          "name": "CBN",
+          "url": "https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Nackt",
+      "url": "https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651"
     },
     {
       "added_at": "2025-07-24 13:47:10",

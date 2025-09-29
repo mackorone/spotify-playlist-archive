@@ -3333,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
         "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
       },
@@ -5307,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
+    {
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -6876,7 +6912,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
@@ -7782,7 +7818,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-29",
       "duration_ms": 212281,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs"

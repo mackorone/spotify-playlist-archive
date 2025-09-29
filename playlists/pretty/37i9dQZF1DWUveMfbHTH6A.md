@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,599 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,603 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 26 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 27 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
 | 28 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
-| 29 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
-| 30 | [Stacy's Chips](https://open.spotify.com/track/0QaPoZqWfIYDMu3I3NncY8) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:48 |
+| 29 | [Stacy's Chips](https://open.spotify.com/track/0QaPoZqWfIYDMu3I3NncY8) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:48 |
+| 30 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
 | 31 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
 | 32 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 33 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 59 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 60 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
 | 61 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
-| 62 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
+| 62 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
 | 63 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |
-| 64 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
+| 64 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 65 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
 | 66 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 67 | [Stillness in Motion](https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6) | [Plots](https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3) | [Stillness in Motion](https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu) | 3:41 |

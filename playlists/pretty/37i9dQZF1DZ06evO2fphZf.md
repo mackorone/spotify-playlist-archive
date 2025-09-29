@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,405 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,409 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 9 | [vapor rub](https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [vapor rub](https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF) | 2:56 |
 | 10 | [obsessed](https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:05 |
 | 11 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 |
-| 12 | [111](https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [111](https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM) | 2:54 |
-| 13 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
+| 12 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
+| 13 | [111](https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [111](https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM) | 2:54 |
 | 14 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 15 | [whatcha gotta say \(with Blxst\)](https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:51 |
 | 16 | [trippin'](https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 | 50 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
 
-Snapshot ID: `aNXXgAAAAACw7fURGfqPVJaxyKvpC43x`
+Snapshot ID: `aNcpAAAAAABZVW9ga3vqw31+TindQGNl`

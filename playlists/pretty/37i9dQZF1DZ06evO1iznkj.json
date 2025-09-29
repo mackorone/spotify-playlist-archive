@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 182612,
+  "num_followers": 182684,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNXXgAAAAADU/f263XjFQPW4c/1MJHIS",
+  "snapshot_id": "aNcpAAAAAAAih0WZuazsXKBp6mJbIURh",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "won't stop",
-        "url": "https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "won't stop",
-      "url": "https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 174743,
       "name": "Happiness (feat. Asake & Gunna)",
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "won't stop",
+        "url": "https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "won't stop",
+      "url": "https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 122693,
+      "name": "south to west",
+      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Gossip",
         "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 213287,
       "name": "Ready (feat. Gunna)",
       "url": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 122693,
-      "name": "south to west",
-      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,
