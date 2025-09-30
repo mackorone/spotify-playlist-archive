@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Brendan Peyper
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,328 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,374 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 15 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 |
 | 16 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 |
 | 17 | [Anders](https://open.spotify.com/track/7zRwT0qN0bcJ3YZ8i0BJBW) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Anders](https://open.spotify.com/album/0OQz7VerEPNrOkDDSxm2Uc) | 2:48 |
-| 18 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
-| 19 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 |
+| 18 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 |
+| 19 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
 | 20 | [Winter In Die Kaap](https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Bella](https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh) | [Winter In Die Kaap](https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn) | 3:26 |
 | 21 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 |
 | 22 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 57 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 |
 | 58 | [Net Dans](https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Net Dans](https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf) | 3:48 |
 | 59 | [AVBOB Se Stoep](https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [AVBOB Se Stoep](https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S) | 3:28 |
-| 60 | [Die Mooi In Jou](https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Die Mooi In Jou](https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt) | 3:19 |
-| 61 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
+| 60 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
+| 61 | [Die Mooi In Jou](https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Die Mooi In Jou](https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt) | 3:19 |
 | 62 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 |
 | 63 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 |
 | 64 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 71 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 |
 | 72 | [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 |
 | 73 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 |
-| 74 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 |
-| 75 | [By Die Dam](https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [By Die Dam](https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ) | 3:08 |
+| 74 | [By Die Dam](https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [By Die Dam](https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ) | 3:08 |
+| 75 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 |
 | 76 | [In Die Bos](https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [In Die Bos](https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba) | 2:58 |
 | 77 | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 |
 | 78 | [Nommer Hou](https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Nommer Hou](https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj) | 3:06 |
-| 79 | [Pitte](https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Pitte](https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq) | 3:00 |
-| 80 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
+| 79 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
+| 80 | [Pitte](https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Pitte](https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq) | 3:00 |
 
 Snapshot ID: `AAAAAO3xQDK+YGvibKtCbyiGRvHJIQS2`

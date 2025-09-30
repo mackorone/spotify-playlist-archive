@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 173034,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0Awux5kOOKf5HG9zgIaWmm"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 102592,
       "name": "Party Prendio",
       "url": "https://open.spotify.com/track/4ebWwTC1dGpc6ONcb2PrOb"
@@ -1514,6 +1514,28 @@
       "duration_ms": 94666,
       "name": "Party Prendio - Discoteca",
       "url": "https://open.spotify.com/track/5NLNoGJ2NLgvjdqPMbv8bY"
+    },
+    {
+      "album": {
+        "name": "Party Prendio (En Vivo)",
+        "url": "https://open.spotify.com/album/0XUSTMGjjpovYVLVzFFcDy"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Dj Nanow",
+          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90942,
+      "name": "Party Prendio - En Vivo",
+      "url": "https://open.spotify.com/track/7Mo1Vc4KFuoEf5wNLxtpXB"
     },
     {
       "album": {

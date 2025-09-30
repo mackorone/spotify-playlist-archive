@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 188592,
+  "num_followers": 188647,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAD7Qn5M93HQJKM5p28TRrhi",
+  "snapshot_id": "aNh6gAAAAACWfYw943Y8SzTYYizyg7+7",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Corridos Bien Perrones",
         "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 193666,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Que L\u00e1stima",
-      "url": "https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY"
     },
     {
       "added_at": null,
@@ -571,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
       },
       "artists": [
         {
@@ -580,9 +548,25 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 174920,
-      "name": "El Cari\u00f1o Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
+      "duration_ms": 172280,
+      "name": "Que L\u00e1stima",
+      "url": "https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 198533,
       "name": "Y Que Ganaste",
       "url": "https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "El Cari\u00f1o Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADtSxF36KaYgxE3SPkRhFzv",
+  "snapshot_id": "aNh6gAAAAADAy0QAhr5RW53HPYCvthq9",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 225346,
-      "name": "Perd\u00f3name - Cumbia",
-      "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
+      "duration_ms": 204026,
+      "name": "M\u00f3ntame",
+      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 204026,
-      "name": "M\u00f3ntame",
-      "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
+      "duration_ms": 225346,
+      "name": "Perd\u00f3name - Cumbia",
+      "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbia Vallenata (En Vivo)",
-        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 217402,
-      "name": "Cumbia Vallenata - En Vivo",
-      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 230722,
       "name": "Cosas Del Amor - En Vivo",
       "url": "https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbia Vallenata (En Vivo)",
+        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Cumbia Vallenata - En Vivo",
+      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Las Vegas",
-        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 400385,
-      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 238387,
       "name": "D\u00edgale - En Vivo",
       "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Las Vegas",
+        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 400385,
+      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 187066,
       "name": "Besos y Copas - En Vivo",
       "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 194874,
+      "name": "Separarnos - En Vivo",
+      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Soledad (feat. Monica Saldivar)",
         "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 235539,
       "name": "La Soledad (feat. Monica Saldivar)",
       "url": "https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "Separarnos - En Vivo",
-      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Dias de Ayer",
-      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Dias de Ayer",
+      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Pensando en Ti",
         "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 211706,
       "name": "Hey",
       "url": "https://open.spotify.com/track/7s71GmxpkyZwWm0g6vCE0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
     },
     {
       "added_at": null,
@@ -867,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Recuerdo (En Vivo)",
-        "url": "https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI"
+        "name": "Te Voy A Amar (En Vivo)",
+        "url": "https://open.spotify.com/album/1x2NskCBNshzTbfR5YmCG8"
       },
       "artists": [
         {
@@ -876,29 +892,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 274320,
-      "name": "Triste Recuerdo - En Vivo",
-      "url": "https://open.spotify.com/track/549yunuC38OgTpTfYzZpsW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
+      "duration_ms": 250133,
+      "name": "Te Voy A Amar - En Vivo",
+      "url": "https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Voy A Amar (En Vivo)",
-        "url": "https://open.spotify.com/album/1x2NskCBNshzTbfR5YmCG8"
+        "name": "Triste Recuerdo (En Vivo)",
+        "url": "https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI"
       },
       "artists": [
         {
@@ -928,13 +928,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 250133,
-      "name": "Te Voy A Amar - En Vivo",
-      "url": "https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0"
+      "duration_ms": 274320,
+      "name": "Triste Recuerdo - En Vivo",
+      "url": "https://open.spotify.com/track/549yunuC38OgTpTfYzZpsW"
     },
     {
       "added_at": null,

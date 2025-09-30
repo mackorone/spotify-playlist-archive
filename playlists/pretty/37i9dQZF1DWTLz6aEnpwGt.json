@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 66267,
+  "num_followers": 66287,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Unity (Affinity)",
-        "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Rosey Chan",
-          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
-        }
-      ],
-      "duration_ms": 123008,
-      "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
-      "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 278400,
       "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
       "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Unity (Affinity)",
+        "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
+      "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 389706,
-      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
-      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Capriccio (from Partita No. 2 in C Minor BWV 826)",
         "url": "https://open.spotify.com/album/5bRXhMPEusvoRbjjJKKmxz"
       },
@@ -540,15 +520,15 @@
           "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
         }
       ],
-      "duration_ms": 679453,
-      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
-      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+      "duration_ms": 389706,
+      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     },
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
       "artists": [
         {
@@ -556,13 +536,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
         }
       ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+      "duration_ms": 679453,
+      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -587,6 +567,26 @@
       "duration_ms": 430893,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
       "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 211320,
-      "name": "Concerto in D Minor, BWV 974: III. Presto",
-      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
+      "duration_ms": 105853,
+      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
+      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 105853,
-      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
-      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+      "duration_ms": 211320,
+      "name": "Concerto in D Minor, BWV 974: III. Presto",
+      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
     },
     {
       "added_at": "2025-01-24 04:00:20",

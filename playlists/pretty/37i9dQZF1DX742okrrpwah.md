@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > marguerite, Doja Cat et Kerchak x L2B au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,546 likes - 108 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,449 likes - 108 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 10 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
 | 11 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 |
 | 12 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
-| 13 | [Sale état](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Sale état](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
+| 13 | [SALE ÉTAT](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SALE ÉTAT](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
 | 14 | [Légendes](https://open.spotify.com/track/7LqBwxnUwyGv9zqTVL2bYG) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [CAPITALE DU CRIME RADIO, Vol\. 2](https://open.spotify.com/album/30WMOgbAvNBvG08xM02WVG) | 2:52 |
 | 15 | [cc like that](https://open.spotify.com/track/09ydXiKINm4pPtPaCaEOYy) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [cc like that](https://open.spotify.com/album/5G77D202zIyLOgW2eZBFOR) | 2:44 |
 | 16 | [Drama on the Dancefloor](https://open.spotify.com/track/71dV6e3jzZzLsiR8Y7z84h) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Drama on the Dancefloor](https://open.spotify.com/album/7mGKCDgXA8Am2WEbr43nKh) | 2:50 |

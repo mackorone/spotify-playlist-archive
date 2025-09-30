@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,914 likes - 153 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,915 likes - 153 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 36 | [F&MU](https://open.spotify.com/track/24QjawKdGJmsAIVe3EhzGH) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:14 |
 | 37 | [Like It \(with 6LACK\)](https://open.spotify.com/track/4CNzuSQoL5jgCxzYmuMvcz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:51 |
 | 38 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
-| 39 | [a&t](https://open.spotify.com/track/6ho88pvz4c8WCSFbdVXNia) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:31 |
-| 40 | [Can You Blame Me \(feat\. Lucky Daye\)](https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:03 |
+| 39 | [Can You Blame Me \(feat\. Lucky Daye\)](https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:03 |
+| 40 | [a&t](https://open.spotify.com/track/6ho88pvz4c8WCSFbdVXNia) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:31 |
 | 41 | [Back Home \(feat\. Summer Walker\)](https://open.spotify.com/track/6t51aLe7rjZhKgONwt6btQ) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:14 |
 | 42 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
 | 43 | [Make It Hot](https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Make It Hot](https://open.spotify.com/album/5lVFS3eenpf4H7u26eiyng) | 2:48 |
@@ -155,11 +155,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 145 | [Hiatus](https://open.spotify.com/track/0R39oVT0h8jmmLADI7dkdy) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:02 |
 | 146 | [Mind Fucked](https://open.spotify.com/track/6G9hOorRnt0rInSSiW2U1d) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:48 |
 | 147 | [Best Friend](https://open.spotify.com/track/5TS5vMVVmf1mX1LYHNZdit) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE](https://open.spotify.com/album/1CGxJ2HpqjEqmU56coDJyW) | 3:14 |
-| 148 | [Late Night](https://open.spotify.com/track/6XfhmcqDEapsyoK8mnTFnB) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:20 |
-| 149 | [i need some inspo](https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [HELLA PRESSURE](https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d) | 2:41 |
+| 148 | [i need some inspo](https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [HELLA PRESSURE](https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d) | 2:41 |
+| 149 | [Late Night](https://open.spotify.com/track/6XfhmcqDEapsyoK8mnTFnB) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:20 |
 | 150 | [Really Rare](https://open.spotify.com/track/3Vfj5HwBqHN1tBE7hMOmaj) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Estrella](https://open.spotify.com/album/1ffizbY37d01taYetGPW2i) | 2:36 |
 | 151 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 |
 | 152 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 153 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `Ab9dvgAAAAA/rS1gpf9z3scdn9S5UEce`
+Snapshot ID: `Ab9jVAAAAADqJE9mUmPkf+6RJV0Jfda/`

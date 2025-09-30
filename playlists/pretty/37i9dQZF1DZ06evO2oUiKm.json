@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABmZQP62ix0sdvuP1zYb+LQ",
+  "snapshot_id": "aNh6gAAAAADHnkeWzaNcn8ooXmGudG09",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 269897,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"
+      "duration_ms": 41066,
+      "name": "Why - Interlude",
+      "url": "https://open.spotify.com/track/6ZKb3UNC7IvVCtYzT3vS3q"
     },
     {
       "added_at": null,
@@ -571,6 +571,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
+      },
+      "artists": [
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        }
+      ],
+      "duration_ms": 265596,
+      "name": "What's The Buzz? / Strange Things Mystifying",
+      "url": "https://open.spotify.com/track/606epVj3NNHfx0DI7Rsu3u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -591,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Blooming",
         "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
       },
@@ -607,22 +647,6 @@
       "duration_ms": 254293,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -659,6 +683,74 @@
       "duration_ms": 244804,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2sgqTwYVgjQT3scjsefjDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
+      },
+      "artists": [
+        {
+          "name": "A Broader Way Choir",
+          "url": "https://open.spotify.com/artist/4e9d1Kb12uy2EsnDpRK8iA"
+        },
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Orfeh",
+          "url": "https://open.spotify.com/artist/5UCLo0DwCef9lexQS5bzhb"
+        },
+        {
+          "name": "Bridget Everett",
+          "url": "https://open.spotify.com/artist/3lGCeZUVfMtPi31TZ6JJkI"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Tamika Lawrence",
+          "url": "https://open.spotify.com/artist/4EluKx55HoQgTLTEeASX2r"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        },
+        {
+          "name": "Ellyn Marie Marsh",
+          "url": "https://open.spotify.com/artist/5NRsKBS8aOiSL4BcNHRgiD"
+        },
+        {
+          "name": "Ann Harada",
+          "url": "https://open.spotify.com/artist/743OB85I8BftMRfuNAO1RS"
+        },
+        {
+          "name": "Bryonha Marie Parham",
+          "url": "https://open.spotify.com/artist/1g9JVT9tpJAFmCac6ei8wq"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Debbie Gravitte",
+          "url": "https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD"
+        },
+        {
+          "name": "Eden Espinosa",
+          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
+        },
+        {
+          "name": "Marva Hicks",
+          "url": "https://open.spotify.com/artist/7nvSw8uZGQMB3ZXQ2mf3i6"
+        }
+      ],
+      "duration_ms": 306450,
+      "name": "The Temple",
+      "url": "https://open.spotify.com/track/2KOH8NABdzZMGcfL4S9Hzz"
     },
     {
       "added_at": null,
@@ -767,6 +859,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
+      },
+      "artists": [
+        {
+          "name": "A Broader Way Choir",
+          "url": "https://open.spotify.com/artist/4e9d1Kb12uy2EsnDpRK8iA"
+        },
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ellyn Marie Marsh",
+          "url": "https://open.spotify.com/artist/5NRsKBS8aOiSL4BcNHRgiD"
+        },
+        {
+          "name": "Bridget Everett",
+          "url": "https://open.spotify.com/artist/3lGCeZUVfMtPi31TZ6JJkI"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Ann Harada",
+          "url": "https://open.spotify.com/artist/743OB85I8BftMRfuNAO1RS"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        },
+        {
+          "name": "Debbie Gravitte",
+          "url": "https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD"
+        },
+        {
+          "name": "Tamika Lawrence",
+          "url": "https://open.spotify.com/artist/4EluKx55HoQgTLTEeASX2r"
+        },
+        {
+          "name": "Bryonha Marie Parham",
+          "url": "https://open.spotify.com/artist/1g9JVT9tpJAFmCac6ei8wq"
+        },
+        {
+          "name": "Orfeh",
+          "url": "https://open.spotify.com/artist/5UCLo0DwCef9lexQS5bzhb"
+        },
+        {
+          "name": "Eden Espinosa",
+          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
+        },
+        {
+          "name": "Marva Hicks",
+          "url": "https://open.spotify.com/artist/7nvSw8uZGQMB3ZXQ2mf3i6"
+        }
+      ],
+      "duration_ms": 189993,
+      "name": "The Arrest",
+      "url": "https://open.spotify.com/track/4vHwX5m3m0cZwi78Ugo6vV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "She is Risen: Volume One",
         "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
       },
@@ -779,30 +939,6 @@
       "duration_ms": 259900,
       "name": "I Don't Know How to Love Him",
       "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
-        "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
-      },
-      "artists": [
-        {
-          "name": "Morgan James",
-          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Shoshana Bean",
-          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
-        }
-      ],
-      "duration_ms": 265596,
-      "name": "What's The Buzz? / Strange Things Mystifying",
-      "url": "https://open.spotify.com/track/606epVj3NNHfx0DI7Rsu3u"
     },
     {
       "added_at": null,
@@ -904,17 +1040,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Oliver Tompsett",
-          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
-        },
-        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 463020,
-      "name": "Always / Goodnight",
-      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
     },
     {
       "added_at": null,
@@ -935,26 +1067,6 @@
       "duration_ms": 162468,
       "name": "Big Dog",
       "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

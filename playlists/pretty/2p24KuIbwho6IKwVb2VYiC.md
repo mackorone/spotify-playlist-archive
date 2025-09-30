@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Rezz
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,373 likes - 170 songs - 8 hr 48 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,368 likes - 170 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

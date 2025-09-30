@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Phantastic Ferniture",
-  "num_followers": 309314,
+  "num_followers": 309312,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOeYxmiUM7mFRF33Ecs40N0a8cTJ",
+  "snapshot_id": "AAAAANkFtEbKa7QnUj8y+Pqz8QtgsftU",
   "tracks": [
     {
       "added_at": "2025-09-19 04:00:33",
@@ -87,6 +87,22 @@
       "duration_ms": 235226,
       "name": "Everything You Wanted",
       "url": "https://open.spotify.com/track/3hVq9e2hA3J0NZmlXqTl0B"
+    },
+    {
+      "added_at": "2025-09-29 16:05:43",
+      "album": {
+        "name": "no scope",
+        "url": "https://open.spotify.com/album/1MoHchytw6sq4hhC28JZ7x"
+      },
+      "artists": [
+        {
+          "name": "crushed",
+          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
+        }
+      ],
+      "duration_ms": 247341,
+      "name": "exo",
+      "url": "https://open.spotify.com/track/5afPubAOdm8L79NQYaW40o"
     },
     {
       "added_at": "2025-09-19 04:00:33",

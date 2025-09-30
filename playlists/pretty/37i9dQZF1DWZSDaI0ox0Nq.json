@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21304,
+  "num_followers": 21307,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Morir de Amor",
-        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
-      },
-      "artists": [
-        {
-          "name": "Soledad Villamil",
-          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
-      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
         "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 132813,
       "name": "Morocha Triste",
       "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Morir de Amor",
+        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
+      },
+      "artists": [
+        {
+          "name": "Soledad Villamil",
+          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
+      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -319,38 +319,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Bl\u00e1zquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Minella",
-        "url": "https://open.spotify.com/album/0tIbCXDeIBoSdxXvLrpsR9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Minella",
-          "url": "https://open.spotify.com/artist/3wolSCsYEX81LmPrZvOVbp"
-        }
-      ],
-      "duration_ms": 196182,
-      "name": "Se Dice De Mi",
-      "url": "https://open.spotify.com/track/2GHD5K08DUu3xwereVQFHk"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -371,6 +339,38 @@
       "duration_ms": 154951,
       "name": "Ser\u00eda Facil Decir",
       "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Minella",
+        "url": "https://open.spotify.com/album/0tIbCXDeIBoSdxXvLrpsR9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Minella",
+          "url": "https://open.spotify.com/artist/3wolSCsYEX81LmPrZvOVbp"
+        }
+      ],
+      "duration_ms": 196182,
+      "name": "Se Dice De Mi",
+      "url": "https://open.spotify.com/track/2GHD5K08DUu3xwereVQFHk"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
+      },
+      "artists": [
+        {
+          "name": "Eladia Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2024-08-02 17:18:29",

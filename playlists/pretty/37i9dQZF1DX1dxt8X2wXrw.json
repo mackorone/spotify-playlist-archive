@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 77838,
+  "num_followers": 77837,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+      "duration_ms": 201573,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
         "name": "WANTCHU",
         "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 199896,
       "name": "WANTCHU",
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -503,38 +503,6 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -575,6 +543,38 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 185000,
       "name": "peach eyes",
       "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
+        "name": "HOT GIRL PROBLEMS",
+        "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "HOT GIRL PROBLEMS",
+      "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -651,22 +667,6 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
-        "name": "HOT GIRL PROBLEMS",
-        "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "HOT GIRL PROBLEMS",
-      "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
+        "name": "Gen Z Luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Gen Z Luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -795,38 +827,6 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
-        "name": "Gen Z Luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Gen Z Luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-09-20 09:26:33",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-09-20 09:26:33",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2025-09-20 09:26:33",
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 116363,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6"
-    },
-    {
-      "added_at": "2025-09-20 09:26:33",
-      "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
     }
   ],
   "unique_name": "crush",

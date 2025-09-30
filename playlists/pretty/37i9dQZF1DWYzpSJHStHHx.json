@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487390,
+  "num_followers": 487378,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
+        "name": "Fish on the Sand",
+        "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 218019,
+      "name": "Fish on the Sand",
+      "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
         "name": "Pennied Days",
         "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
       },
@@ -299,6 +315,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum"
       },
@@ -315,38 +347,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Cut Worms",
-        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Ballad of the Texas King",
-      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Fish on the Sand",
-        "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 218019,
-      "name": "Fish on the Sand",
-      "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Daydream Twins",
         "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 362601,
       "name": "Carpop",
       "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
-    },
-    {
-      "added_at": "2025-05-22 14:00:15",
-      "album": {
-        "name": "State Of Hawaii",
-        "url": "https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 255883,
-      "name": "State Of Hawaii",
-      "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -407,6 +391,22 @@
       "duration_ms": 212075,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
+    },
+    {
+      "added_at": "2025-05-22 14:00:15",
+      "album": {
+        "name": "State Of Hawaii",
+        "url": "https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 255883,
+      "name": "State Of Hawaii",
+      "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Bangkok",
         "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212173,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Recycle",
         "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
       },
@@ -729,20 +745,20 @@
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+        "name": "Rocketship",
+        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
       },
       "artists": [
         {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+      "duration_ms": 116202,
+      "name": "Rocketship",
+      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -775,22 +791,6 @@
       "duration_ms": 206260,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Rocketship",
-        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 116202,
-      "name": "Rocketship",
-      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
-      },
-      "artists": [
-        {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
-        }
-      ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
-    },
-    {
       "added_at": "2025-03-27 13:00:14",
       "album": {
         "name": "Stargazer",
@@ -1055,6 +1039,22 @@
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Malibu Sunset b/w Hang On",
+        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
+      },
+      "artists": [
+        {
+          "name": "The Travelers",
+          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
+        }
+      ],
+      "duration_ms": 128194,
+      "name": "Malibu Sunset",
+      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
-      },
-      "artists": [
-        {
-          "name": "Sunsick Daisy",
-          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Can-Can",
@@ -1167,6 +1151,22 @@
       "duration_ms": 172493,
       "name": "Azul",
       "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
+      },
+      "artists": [
+        {
+          "name": "Sunsick Daisy",
+          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
     },
     {
       "added_at": "2025-02-07 17:00:04",

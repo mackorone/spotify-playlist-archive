@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-293 songs - 19 hr 17 min
+294 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 | 2024-06-28 | 2024-11-12 |
 | [Se parece mas a ti](https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Raíces Muy Fuertes](https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq) | 4:16 | 2025-06-06 |  |
 | [Se va la luna](https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Se va la luna](https://open.spotify.com/album/7chklGslK4E9zT744tmEy8) | 3:01 | 2025-01-24 |  |
-| [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 | 2023-03-03 |  |
+| [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 | 2023-03-03 | 2025-09-30 |
 | [Sere Yo](https://open.spotify.com/track/1YfA9cHRYqZjmWNkhswpjD) | [Tempranos](https://open.spotify.com/artist/492Ggq79DwN14yeaPKnUhW) | [Tempranos](https://open.spotify.com/album/5TGGUs3yzjdN176ZFXTeXA) | 3:14 | 2022-05-06 | 2022-07-07 |
 | [Señorita](https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E) | [Lumumba Oficial](https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Pablo Molina](https://open.spotify.com/artist/0Sq5no7vYCY6WS1qUIO34z) | [Raices y Cultura](https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx) | 4:41 | 2022-07-01 | 2024-04-19 |
 | [Señorita \- Remastered](https://open.spotify.com/track/72YhqbNKWrfl5hZUWO6Ffe) | [Lumumba](https://open.spotify.com/artist/2Ki6IM84Dcq3LRFeJTtyyv) | [Raíces y Cultura \(Remastered\)](https://open.spotify.com/album/634OZiuFSYtcvqWih19BWf) | 4:40 | 2022-05-06 | 2022-07-29 |
@@ -272,6 +272,7 @@
 | [Turbulencia o Paz](https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Turbulencia o Paz](https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi) | 3:23 | 2025-08-01 | 2025-09-22 |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2022-05-06 |  |
 | [Tú Conoces Mis Miserias](https://open.spotify.com/track/2dpIWnijDsnTfrV2IzXrZF) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Tú Conoces Mis Miserias](https://open.spotify.com/album/6K6cHa8A5lQ26XiXy6IDOK) | 4:26 | 2022-05-06 | 2022-07-29 |
+| [Tú Y Yo](https://open.spotify.com/track/1gllXXCp9zDiMPUOMZyFGr) | [Extainol](https://open.spotify.com/artist/6Tvp9LIJdbk8opy5R7HFyK), [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Tú Y Yo](https://open.spotify.com/album/5ExCabKAJvBsbx0sWugv5f) | 2:34 | 2025-09-26 |  |
 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 | 2025-01-24 |  |
 | [Un Mundo Mejor](https://open.spotify.com/track/6eKYlDXNbMTKYyt7APb8kn) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Un Mundo Mejor](https://open.spotify.com/album/3jGMw1w5diSypEeFNYcVoo) | 3:03 | 2022-07-01 | 2022-07-06 |
 | [Uno atrás del otro](https://open.spotify.com/track/4yLPu2EzbQi7ABXJlFbKfF) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Uno atrás del otro](https://open.spotify.com/album/3rDzQe7r99cctE3LLB0qHQ) | 2:27 | 2025-01-24 | 2025-04-28 |

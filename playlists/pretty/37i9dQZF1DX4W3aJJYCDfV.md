@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Dean, Tate McRae, Doja Cat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,630 likes - 118 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,508 likes - 118 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 36 | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/track/0MS7sUW9VxvXjuDg9VZZIS) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/album/1gqpG7x5cMQuVCCo7iy7yL) | 2:12 |
 | 37 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
 | 38 | [Good 2 Me](https://open.spotify.com/track/6GoIPwcRtlCymyD5U6n9m9) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Code Orange](https://open.spotify.com/album/6ntERnJi8qWVp9EOZ1CWom) | 2:54 |
-| 39 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E.](https://open.spotify.com/artist/7bbRIvBizM0uBe5WPsjAWc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
+| 39 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
 | 40 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 |
 | 41 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 |
 | 42 | [2 Face](https://open.spotify.com/track/0bwmnbxlpTqjlEmTerc7F4) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [2 Face](https://open.spotify.com/album/7oNdJpB3xOq1Z7EL8Jti3Y) | 2:36 |

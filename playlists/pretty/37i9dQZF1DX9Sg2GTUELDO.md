@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Feanna Wong 黄淑蔓
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,211 likes - 132 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,212 likes - 132 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

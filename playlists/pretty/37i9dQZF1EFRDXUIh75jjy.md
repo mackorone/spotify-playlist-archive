@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652 likes - 237 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 653 likes - 237 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,10 +114,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 104 | [Feels Like](https://open.spotify.com/track/2xW3wiXtNHUsENQLrHf4X0) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:19 |
 | 105 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 |
 | 106 | [Competition \- Single Edit](https://open.spotify.com/track/5l5TamK1eGSUAzBhsutyyk) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Competition](https://open.spotify.com/album/0HNBUptk47vF5IiBBAnmyV) | 3:08 |
-| 107 | [Emotional](https://open.spotify.com/track/6GeivZDEHYIGULXr7lOtrx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:40 |
-| 108 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 |
-| 109 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 |
-| 110 | [Bad Luck Looks Good On Me](https://open.spotify.com/track/3Blrv2JhHEPT5JFzVAelll) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:47 |
+| 107 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 |
+| 108 | [Emotional](https://open.spotify.com/track/6GeivZDEHYIGULXr7lOtrx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:40 |
+| 109 | [Bad Luck Looks Good On Me](https://open.spotify.com/track/3Blrv2JhHEPT5JFzVAelll) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:47 |
+| 110 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 |
 | 111 | [k bye](https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 2:09 |
 | 112 | [omw](https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:51 |
 | 113 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 134 | [I Wanna](https://open.spotify.com/track/6MYq9RdjaL8w3kh6K4q44i) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/7b0YvwnCJ456w3KWpmxlpi) | 3:30 |
 | 135 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
 | 136 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 |
-| 137 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 |
-| 138 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
+| 137 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
+| 138 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 |
 | 139 | [If I Fall](https://open.spotify.com/track/6SLqAWFmEBEyjU4QIuEIsc) | [Cole Plante](https://open.spotify.com/artist/0BmgT51Y8JI74rlRK7YcAL), [Myon & Shane 54](https://open.spotify.com/artist/0uXRsluXdi5LtEs8DoFknc), [Ruby O'Dell](https://open.spotify.com/artist/0f2gU2tbpYHLSKtFBnxdg9) | [If I Fall](https://open.spotify.com/album/28HsMk0oE0r8voVBAuSkJJ) | 4:15 |
 | 140 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
 | 141 | [Ring](https://open.spotify.com/track/61YRwJhh806c08P61ZWKc5) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [How it Used to Feel](https://open.spotify.com/album/1LqOKFe0jiCnmbRfuatV2b) | 3:40 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 144 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 |
 | 145 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
 | 146 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
-| 147 | [All My Life](https://open.spotify.com/track/0Hb0Z2YDsu8WKZlj8jSfMw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:56 |
-| 148 | [WORSE](https://open.spotify.com/track/3kdGlc9nZofnYVJbp0fLQn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:13 |
+| 147 | [WORSE](https://open.spotify.com/track/3kdGlc9nZofnYVJbp0fLQn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:13 |
+| 148 | [All My Life](https://open.spotify.com/track/0Hb0Z2YDsu8WKZlj8jSfMw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:56 |
 | 149 | [Heaven](https://open.spotify.com/track/0MskASIXSqjZQ1vGk2cmvO) | [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Heaven](https://open.spotify.com/album/65a42yxBwwMqziOQg9YOkA) | 2:30 |
 | 150 | [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 |
 | 151 | [Ego](https://open.spotify.com/track/4buILkAUAqLxfl8ep4iVrI) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Ego](https://open.spotify.com/album/71p1O9atppY1mj3GtTBJYN) | 3:13 |
@@ -246,4 +246,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 236 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 237 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Ab9d5gAAAADbD/VqNz0u4YYQkwFMuJRu`
+Snapshot ID: `Ab9jcgAAAACnrTH5gm474ON12VbmMD3k`

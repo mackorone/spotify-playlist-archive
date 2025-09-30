@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,112 likes - 100 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,145 likes - 100 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 16 | [yogurt](https://open.spotify.com/track/6xmLkM6XdEyjqZCBKJEfwP) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [yogurt](https://open.spotify.com/album/0uDcYVSvVdvbdOFYdLYdMf) | 2:42 |
 | 17 | [Coves](https://open.spotify.com/track/0DshRAZTr3lV8F6T6uaZOa) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Coves](https://open.spotify.com/album/0XPluCGQWO9VPANYVQ2pwx) | 2:21 |
 | 18 | [In Reverse](https://open.spotify.com/track/6GhfsPX0o0hZqGCDLbgWTd) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [In Reverse](https://open.spotify.com/album/25Y7gaTUjKk7Bz9FEK0krq) | 1:38 |
-| 19 | [Malfada](https://open.spotify.com/track/1oaRRAibXkDMnfJndllApW) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Malfada](https://open.spotify.com/album/6vQU12fuEaBUZyfWluVeQc) | 2:22 |
+| 19 | [Mafalda](https://open.spotify.com/track/1oaRRAibXkDMnfJndllApW) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Mafalda](https://open.spotify.com/album/6vQU12fuEaBUZyfWluVeQc) | 2:22 |
 | 20 | [Echoes Of Then](https://open.spotify.com/track/1LAI8nSHIOx1DprJsAgRPW) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Echoes Of Then](https://open.spotify.com/album/4oohXv5sIIJI6dZcAYBYtn) | 1:48 |
 | 21 | [Keep Me](https://open.spotify.com/track/3ddgadwJAT0OncX9qJm6YU) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1) | [Keep Me](https://open.spotify.com/album/1hOHY4qF6vGPyrtWNM4Cve) | 2:00 |
 | 22 | [soft fall](https://open.spotify.com/track/5UL2w8HBNBT7TZQSIQNij0) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [solae](https://open.spotify.com/artist/0k8mD0prjdPcC9HRtTuRr4) | [soft fall](https://open.spotify.com/album/04ogoNHRLgqWkMRkVjVkXu) | 2:16 |

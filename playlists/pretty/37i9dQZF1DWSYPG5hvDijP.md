@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Young Aytee
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,209 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,223 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 37 | [JAHAAZ](https://open.spotify.com/track/2L0qmhXp5tfg8jM9JU7ocP) | [Urban Poet](https://open.spotify.com/artist/5NLpRU1nXHu9TnrqgXPPRM), [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [JAHAAZ](https://open.spotify.com/album/3FZRtG6JkuFbCWZc2UO9f3) | 2:18 |
 | 38 | [Scene Sort Freestyle](https://open.spotify.com/track/2kj68Kn6vp5yuVeTROknct) | [AT17 Music](https://open.spotify.com/artist/6Ll7zZgTqYkVHHJ8QHIPwR) | [Scene Sort Freestyle](https://open.spotify.com/album/7l0FFrjZYzA8K5D2sFEE8x) | 1:42 |
 | 39 | [Aflatoon](https://open.spotify.com/track/6vVrGlIi04oBbhuEj0Jfn6) | [A\. Roy](https://open.spotify.com/artist/5yuvvzCcU468rrQEWLEqUf), [Electrona](https://open.spotify.com/artist/32vmD5b2bHHIaqP0lue1Zm) | [Aflatoon](https://open.spotify.com/album/4KMxCVWz9lw1PbdX7U5QB8) | 2:21 |
-| 40 | [FCUK NAHI DENGE](https://open.spotify.com/track/1vp1aEcl4nSCXwKpKU2pLE) | [AMANI KL10](https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr), [mcrzl](https://open.spotify.com/artist/5jyNcBet23mG0F0ihgIgJS) | [FCUK NAHI DENGE](https://open.spotify.com/album/6R33b6qZheUeRm4ltjzmTy) | 2:44 |
+| 40 | [FCUK NAHI DENGE](https://open.spotify.com/track/1vp1aEcl4nSCXwKpKU2pLE) | [mcrzl](https://open.spotify.com/artist/5jyNcBet23mG0F0ihgIgJS), [AMANI KL10](https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr) | [FCUK NAHI DENGE](https://open.spotify.com/album/6R33b6qZheUeRm4ltjzmTy) | 2:44 |
 | 41 | [CHIKNI CHAMELI](https://open.spotify.com/track/6TXP19857ZxxrEi6ziREwz) | [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3), [Tushar Nagar](https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS) | [CHIKNI CHAMELI](https://open.spotify.com/album/13VAZyMdZkf0ntx6tTEuHd) | 2:46 |
 | 42 | [Ek Ladka](https://open.spotify.com/track/0HDRPmQRy0EOiavub17vmv) | [The Inferno](https://open.spotify.com/artist/60vEQXvWd7dYPk8Q5BWfDr) | [Ek Ladka](https://open.spotify.com/album/2Pb7sFRHrsBQQU0mV9WyaL) | 3:36 |
 | 43 | [Nimboo Nichod Ke](https://open.spotify.com/track/2nf0HQ0lwmxHXVG5okGUci) | [GhAatak](https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [AAI BO](https://open.spotify.com/album/1s1PpEtbO5HtZ5K2FyvSNM) | 3:26 |

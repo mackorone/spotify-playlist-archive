@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 545276,
+  "num_followers": 545063,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Forget About Me",
         "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Waiting for the Summer",
+        "url": "https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        }
+      ],
+      "duration_ms": 168491,
+      "name": "Waiting for the Summer",
+      "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "New Love (feat. Ellie Goulding)",
         "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
       },
@@ -1599,46 +1619,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Waiting for the Summer",
-        "url": "https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Graham Candy",
-          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
-        }
-      ],
-      "duration_ms": 168491,
-      "name": "Waiting for the Summer",
-      "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
-        }
-      ],
-      "duration_ms": 179279,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "duration_ms": 179279,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
     },
     {
       "added_at": "2025-02-07 03:01:15",

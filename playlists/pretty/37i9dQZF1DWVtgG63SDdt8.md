@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Strings And Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,891 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,902 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 29 | [Summer '25](https://open.spotify.com/track/5lcCrS1OKNsJcuZW4FTS9D) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Summer '25](https://open.spotify.com/album/6DUazsvss9wPAVSGHE7oiK) | 3:01 |
 | 30 | [Joyful Sound \- Live](https://open.spotify.com/track/6QemJ5wJIh7AtPqBqqBAU4) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Joyful Sound \(Live\)](https://open.spotify.com/album/4o4X4mZIZo9s8f282Pc8OL) | 3:47 |
 | 31 | [Sweet Communion](https://open.spotify.com/track/0qMS4puFoEWKjStw5IYyTM) | [Justin Unger](https://open.spotify.com/artist/4hVrXP5705m7QMnhzrEZuL) | [Sweet Communion](https://open.spotify.com/album/2wL5HY8l3u0W1YT992Sfxk) | 3:25 |
-| 32 | [Still \(Live\)](https://open.spotify.com/track/6h4nWdptzATChfTJBTQRZL) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Still](https://open.spotify.com/album/5uEVM3ORolhfwpOlKO43jU) | 5:24 |
+| 32 | [Still](https://open.spotify.com/track/6h4nWdptzATChfTJBTQRZL) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Still](https://open.spotify.com/album/5uEVM3ORolhfwpOlKO43jU) | 5:24 |
 | 33 | [Take Courage \- Studio Version](https://open.spotify.com/track/6jrWeSVpUxsqpTZEWNTOBy) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Take Courage](https://open.spotify.com/album/3zMOlL3thevEXHnUqpUJRc) | 3:59 |
 | 34 | [Believe for It](https://open.spotify.com/track/6G1j1E3rjm0RId5IUWRIdJ) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Believe for It](https://open.spotify.com/album/2K5TdlIJ3WJtXbvOBFxMMp) | 3:40 |
 | 35 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 |

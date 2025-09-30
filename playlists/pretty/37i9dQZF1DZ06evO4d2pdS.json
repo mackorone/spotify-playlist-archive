@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3624,
+  "num_followers": 3625,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAxXmZTkhCL7p8FGZshkn6r",
+  "snapshot_id": "aNh6gAAAAABnD+oCpsWkiQOqfPSMLYVf",
   "tracks": [
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "313-414 (feat. Tee Grizzley)",
-        "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 149938,
-      "name": "313-414 (feat. Tee Grizzley)",
-      "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
       },
@@ -607,18 +583,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FYT (Fuckin you tonight)",
-        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
+        "name": "313-414 (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
       "artists": [
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 254915,
-      "name": "FYT (Fuckin you tonight)",
-      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
+      "duration_ms": 149938,
+      "name": "313-414 (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 145233,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FYT (Fuckin you tonight)",
+        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 254915,
+      "name": "FYT (Fuckin you tonight)",
+      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 208875,
+  "num_followers": 208879,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "The Magic",
-        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 189862,
-      "name": "The Magic",
-      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 226053,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 189862,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "All Over The World",
-        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "All Over The World",
-      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/7bbkvh7hnBKO3eyXZnD7xb"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        },
-        {
-          "name": "DKG KIE",
-          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
-        }
-      ],
-      "duration_ms": 145306,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "If It Wasn't You",
         "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 160514,
       "name": "Cortado",
       "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/7bbkvh7hnBKO3eyXZnD7xb"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        },
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
         "name": "If I Were an R&B Singer",
         "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1127,22 +1143,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Without The Risk",
-        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 223518,
-      "name": "Without The Risk",
-      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Loving Me Like Jesus",
         "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 192000,
       "name": "Loving Me Like Jesus",
       "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Without The Risk",
+        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 223518,
+      "name": "Without The Risk",
+      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Good Love (feat. Kim Burrell)",
-        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
+        "name": "Capuchino de Amor",
+        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
       },
       "artists": [
         {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Good Love (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+      "duration_ms": 298092,
+      "name": "Capuchino de Amor",
+      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Capuchino de Amor",
-        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
+        "name": "Good Love (feat. Kim Burrell)",
+        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
       "artists": [
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
         }
       ],
-      "duration_ms": 298092,
-      "name": "Capuchino de Amor",
-      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+      "duration_ms": 248066,
+      "name": "Good Love (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 231501,
       "name": "SAFE",
       "url": "https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Love 'n Loyalty",
-        "url": "https://open.spotify.com/album/6Hp8lI3R57AJcsRONlOwcX"
-      },
-      "artists": [
-        {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "Love 'n Loyalty",
-      "url": "https://open.spotify.com/track/6zYaKidxO9k84yHAnqA7Ca"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Me + You = Pi",
         "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 169846,
       "name": "Me + You = Pi",
       "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Love 'n Loyalty",
+        "url": "https://open.spotify.com/album/6Hp8lI3R57AJcsRONlOwcX"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "Love 'n Loyalty",
+      "url": "https://open.spotify.com/track/6zYaKidxO9k84yHAnqA7Ca"
     },
     {
       "added_at": "2025-09-14 09:15:48",

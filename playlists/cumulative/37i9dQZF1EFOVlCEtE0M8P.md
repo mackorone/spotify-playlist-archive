@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-307 songs - 17 hr 50 min
+309 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 | 2025-06-20 | 2025-08-18 |
 | [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 | 2025-04-14 |  |
 | [I, Carrion \(Icarian\)](https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:16 | 2024-03-07 |  |
+| [Ignorance is Bliss](https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Ignorance is Bliss](https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ) | 3:34 | 2025-09-29 |  |
 | [Impossible Weight \- feat\. Sharon Van Etten](https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Impossible Weight](https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi) | 3:22 | 2024-03-07 |  |
 | [In and Out](https://open.spotify.com/track/21Ca8qgNqwQoMQ9pJHfDyo) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/38DxMxQTI6yNKjNNrPIi0E) | 3:41 | 2024-03-07 |  |
 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 | 2024-03-07 |  |
@@ -189,6 +190,7 @@
 | [Magic](https://open.spotify.com/track/0OinzPSjK2fSJwjRsAlJMn) | [Mark Owen](https://open.spotify.com/artist/1NCH3NhzIufLfHz32GLAzM) | [Land of Dreams](https://open.spotify.com/album/1M9ejv6LWxnhdioucmyaAn) | 3:40 | 2024-03-07 |  |
 | [Man On A Road](https://open.spotify.com/track/5RfxBQl0U4h6Hm2HqO367a) | [George Cosby](https://open.spotify.com/artist/7oyk8Ug4Su6UeST5j4g5aG) | [Man On A Road](https://open.spotify.com/album/1RXgxDpl07zH1TNQRak1LW) | 3:18 | 2024-03-07 |  |
 | [Mania](https://open.spotify.com/track/7qFRCZ93Hxk5CoMq094W7O) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/6UmUZ3yuHYfy2wdquwpNnq) | 2:57 | 2024-03-07 |  |
+| [Maps](https://open.spotify.com/track/0C0LsasNp4jpPtyBM9Hjd5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water \(Deluxe\)](https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw) | 3:06 | 2025-09-29 |  |
 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2024-03-07 |  |
 | [Merry Go Round](https://open.spotify.com/track/7k9rcsOLrZBzxIL4cyAipZ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 4:05 | 2024-03-07 |  |
 | [Messiah](https://open.spotify.com/track/1KmvFKwJO3oK7e2rIz2OdG) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:43 | 2024-03-07 |  |

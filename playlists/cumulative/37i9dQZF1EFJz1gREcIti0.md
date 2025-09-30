@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 7 hr 28 min
+144 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Maze](https://open.spotify.com/track/7AwVn68ejkolhndL6F4d8q) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 4:29 | 2025-08-02 |  |
 | [Memo Blue](https://open.spotify.com/track/5RS7GUxBaEAVjd1zEsriZI) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:06 | 2025-08-02 |  |
 | [Misty](https://open.spotify.com/track/5oEJyOsT68BDRwLoQQJl6W) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:29 | 2025-08-02 |  |
+| [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 | 2025-09-29 |  |
 | [Molly, I'm Coming Around](https://open.spotify.com/track/5ZZRdNpTpMIH1UYfADvPHF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 2:41 | 2025-08-02 |  |
 | [More Than Enough](https://open.spotify.com/track/0jNFq59zT9PfahNqPJYzsu) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:31 | 2025-08-02 |  |
 | [Morocco \(feat\. 6LACK\)](https://open.spotify.com/track/4ZTJdqEg6O4SnHzlaRQtfi) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:21 | 2025-08-02 |  |

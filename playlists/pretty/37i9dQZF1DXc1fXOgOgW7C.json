@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 50588,
+  "num_followers": 50595,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Soundamerica",
-        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
+        "name": "Nada Es Tarde",
+        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
         },
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
         }
       ],
-      "duration_ms": 315933,
-      "name": "An\u00f3nimos (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
+      "duration_ms": 295373,
+      "name": "Fue Tan Bueno",
+      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -407,22 +407,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Nada Es Tarde",
-        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
+        "name": "Soundamerica",
+        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
       "artists": [
         {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         },
         {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 295373,
-      "name": "Fue Tan Bueno",
-      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
+      "duration_ms": 315933,
+      "name": "An\u00f3nimos (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "El Club De Los Martes",
-        "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Se te nota",
-      "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Agua Ardiente",
         "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 237686,
       "name": "Jugo",
       "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "El Club De Los Martes",
+        "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Se te nota",
+      "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Gratitud",
+        "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 272187,
+      "name": "La Crecida",
+      "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "A Punto Caramelo",
         "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 222866,
       "name": "El Ritmo de la Vida",
       "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Gratitud",
-        "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 272187,
-      "name": "La Crecida",
-      "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
     },
     {
       "added_at": "2024-06-12 22:23:25",

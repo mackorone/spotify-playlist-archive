@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADqGOv4Wp5Fe1QG8ruXJGM7",
+  "snapshot_id": "aNh6gAAAAADYWICuptM/LGP+HW39+20h",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 176626,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
+      "duration_ms": 209896,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 209896,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
+      "duration_ms": 238446,
+      "name": "Out Of Our Depth",
+      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost World",
         "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
       },
       "artists": [
         {
@@ -492,9 +476,25 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+      "duration_ms": 176626,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 238446,
-      "name": "Out Of Our Depth",
-      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 111780,
-      "name": "Teenage Self",
-      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
+      "duration_ms": 195250,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS"
     },
     {
       "added_at": null,

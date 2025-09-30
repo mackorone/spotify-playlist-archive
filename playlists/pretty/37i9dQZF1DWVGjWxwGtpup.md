@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,057 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,078 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 11 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
 | 12 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 13 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
-| 14 | [Canción Para Regresar](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Canción Para Regresar](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 14 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 15 | [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 |
 | 16 | [Tus Besos \- French Version](https://open.spotify.com/track/4m589UyBjAZ9YNQmA9Y2TU) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Tus Besos \(French Version\)](https://open.spotify.com/album/0eiQhIdvIfNfUvZIQdHbUo) | 2:26 |
 | 17 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 |

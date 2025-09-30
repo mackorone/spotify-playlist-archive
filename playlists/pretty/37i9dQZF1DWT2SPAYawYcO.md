@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Olivia Dean, 5 Seconds of Summer, Tame Impala, Doja Cat, The 046  + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,139 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,102 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 24 | [Parallel Desire](https://open.spotify.com/track/6WMEkLBTvj1nFWO62YtW8B) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Parallel Desire](https://open.spotify.com/album/18s8juzVIHkxMQ48wgwHG0) | 2:40 |
 | 25 | [This Is Our Haus](https://open.spotify.com/track/0PYxjuza1vSdRbT1jHMwjC) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [This Is Our Haus](https://open.spotify.com/album/59Knt83dZ3IiJODE4c1e3Z) | 3:17 |
 | 26 | [On A River](https://open.spotify.com/track/55kJuUfBDApairwt8cij12) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa) | 3:33 |
-| 27 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E.](https://open.spotify.com/artist/7bbRIvBizM0uBe5WPsjAWc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
+| 27 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
 | 28 | [Sucker / Psycho](https://open.spotify.com/track/0YrU5rnOXUWyik38YDVwQw) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Sucker / Psycho](https://open.spotify.com/album/4lGR8tzDw0OeWGiKZksDFY) | 3:39 |
 | 29 | [Believe](https://open.spotify.com/track/23YFcJHbcnwx94TNEmpWyp) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Believe](https://open.spotify.com/album/4WTuyvzz9TfJzxzrsvTAqE) | 4:25 |
 | 30 | [Cherries](https://open.spotify.com/track/1hCSF4F5KMgVMHqe11nWhO) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Cherries](https://open.spotify.com/album/3cii5dT0ofdnS2lwzlZuRj) | 3:12 |

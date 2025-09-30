@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,016 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,067 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 74 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
 | 75 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
 | 76 | [Pete's Sake](https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8) | [All Good Funk Alliance](https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s) | [On The One](https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk) | 5:32 |
-| 77 | [Now Is Tomorrow \(Anticipation\)](https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction II](https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6) | 5:58 |
-| 78 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
+| 77 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
+| 78 | [Now Is Tomorrow \(Anticipation\)](https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction II](https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6) | 5:58 |
 | 79 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
 | 80 | [Woman Of The Ghetto \- Reimagined](https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Woman Of The Ghetto \(Reimagined\)](https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19) | 4:57 |
 | 81 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |

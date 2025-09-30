@@ -1392,6 +1392,28 @@
     {
       "album": {
         "name": "4AM IN IBIZA",
+        "url": "https://open.spotify.com/album/7w0vgK94rNjzPB80LgAdPz"
+      },
+      "artists": [
+        {
+          "name": "Mark Vank",
+          "url": "https://open.spotify.com/artist/43kbgy3mjbFkA5ndaFzekf"
+        },
+        {
+          "name": "Samu",
+          "url": "https://open.spotify.com/artist/18h6AOAQUSrWGxC6uB71Ji"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220004,
+      "name": "4AM IN IBIZA",
+      "url": "https://open.spotify.com/track/0RAiNFjiSU0EfJXooHq5nq"
+    },
+    {
+      "album": {
+        "name": "4AM IN IBIZA",
         "url": "https://open.spotify.com/album/5FxiBOrZbYDCik9EnQpNL5"
       },
       "artists": [
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -4380,7 +4402,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -14162,7 +14184,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
@@ -19388,7 +19410,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 154741,
       "name": "erstersommerohnedich",
       "url": "https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7"
@@ -33014,7 +33036,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 209076,
       "name": "Lamine",
       "url": "https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ"
@@ -37114,7 +37136,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -51280,7 +51302,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -56916,7 +56938,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -56934,7 +56956,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -58944,7 +58966,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -58962,7 +58984,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -63199,7 +63221,7 @@
     },
     {
       "album": {
-        "name": "Encore / Viano",
+        "name": "ENCORE / VIANO",
         "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
       },
       "artists": [
@@ -63216,7 +63238,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 111764,
-      "name": "Viano",
+      "name": "VIANO",
       "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
     },
     {
@@ -63408,7 +63430,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 112628,
+  "num_followers": 112640,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAABLcUeqeqcSXCDwWvShGHI",
+  "snapshot_id": "aNh6gAAAAACUKiQYV1Y7lOscqjH9hkJk",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shatter Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Shatter Me",
+      "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
@@ -555,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shatter Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
-        },
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Shatter Me",
-      "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 216760,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
+      "duration_ms": 234893,
+      "name": "Don't Know How to Stop",
+      "url": "https://open.spotify.com/track/28BfkJcbmfktoLkTbYhCbY"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Don't Know How to Stop",
-      "url": "https://open.spotify.com/track/28BfkJcbmfktoLkTbYhCbY"
+      "duration_ms": 216760,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
     },
     {
       "added_at": null,

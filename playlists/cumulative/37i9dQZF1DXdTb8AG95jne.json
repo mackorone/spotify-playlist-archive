@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YDBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OuiOui) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 255488,
       "name": "Everything's okay",
       "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
@@ -11957,6 +11957,24 @@
     },
     {
       "album": {
+        "name": "Le Alien Petit Prince : WE ARE THE NIGHT",
+        "url": "https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209773,
+      "name": "Night at Noon",
+      "url": "https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX"
+    },
+    {
+      "album": {
         "name": "night drive",
         "url": "https://open.spotify.com/album/7lGoiZo6fEBatrwlNNexTP"
       },
@@ -16883,6 +16901,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170680,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn"
+    },
+    {
+      "album": {
         "name": "Take Over by Silica Gel",
         "url": "https://open.spotify.com/album/0D0XOFx7HNO9W0Ag6bDNZY"
       },
@@ -18122,6 +18158,28 @@
       "duration_ms": 146823,
       "name": "ULT",
       "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
+    },
+    {
+      "album": {
+        "name": "UBUBU",
+        "url": "https://open.spotify.com/album/6pbrTmdUYrorSP876yMIFm"
+      },
+      "artists": [
+        {
+          "name": "Wah Wah Wah",
+          "url": "https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG"
+        },
+        {
+          "name": "Noridogam",
+          "url": "https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587285,
+      "name": "Uncertainty",
+      "url": "https://open.spotify.com/track/110fmD1UZunfVmFqrgMJ2o"
     },
     {
       "album": {

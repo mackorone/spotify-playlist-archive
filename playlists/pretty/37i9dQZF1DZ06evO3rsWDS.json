@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5757,
+  "num_followers": 5755,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADc9Q/q25MLQOlTs+Tcq79V",
+  "snapshot_id": "aNh6gAAAAACo0doKGYhIVDXiuE7C28IZ",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Ely Quintero",
+          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "Las Destrampadas",
+      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si No Te Hubieras Ido",
         "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 183026,
       "name": "A Lo Menso",
       "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Ely Quintero",
-          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "Las Destrampadas",
-      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DIAMANTES VVS1",
+        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Amor Propio",
+      "url": "https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje a la Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 203773,
       "name": "Ovarios (feat. Chiquis Rivera)",
       "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DIAMANTES VVS1",
-        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Amor Propio",
-      "url": "https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9"
     },
     {
       "added_at": null,

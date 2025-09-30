@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom 🌼 cover: Clover County
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,734 likes - 130 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,784 likes - 130 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

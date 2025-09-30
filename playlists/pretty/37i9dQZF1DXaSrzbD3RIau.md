@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSrzbD3RIau.md) - [plain]
 
 > Listen to the soundtracks of RAP:PUBLIC\. \(랩:퍼블릭의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769 likes - 22 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 554 likes - 22 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSrzbD3RIau.md) - [plain]
 | 21 | [Vivien Westwood](https://open.spotify.com/track/4nZ9a8T5mbh260T7sNJWnK) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 3:05 |
 | 22 | [Mask on](https://open.spotify.com/track/6taiSlVSCGtZp71I09QnFL) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 2:40 |
 
-Snapshot ID: `AAAAAK9riI6B/iZtL23UO73XNhgcBEpt`
+Snapshot ID: `AAAAABI1Vc6gxqXsxvG6/SaGQB4FWCP0`

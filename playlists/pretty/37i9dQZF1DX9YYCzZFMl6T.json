@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 6541,
+  "num_followers": 6573,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "I Heard The Bells On Christmas Day",
-      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "The Johnny Cash Family Christmas",
         "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Merry Christmas Mary Jane",
-        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 252388,
-      "name": "Merry Christmas Mary Jane",
-      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
+      "duration_ms": 154440,
+      "name": "I Heard The Bells On Christmas Day",
+      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -383,6 +367,22 @@
       "duration_ms": 213693,
       "name": "More Than Christmas",
       "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Merry Christmas Mary Jane",
+        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 252388,
+      "name": "Merry Christmas Mary Jane",
+      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Light of the Stable (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "The First Noel - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 262941,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Light of the Stable (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "The First Noel - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Under the Mistletoe!",
-        "url": "https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Ronnie Spector",
-          "url": "https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Under the Mistletoe!",
-      "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo"
       },
@@ -591,6 +571,26 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Under the Mistletoe!",
+        "url": "https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Ronnie Spector",
+          "url": "https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Under the Mistletoe!",
+      "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Christmas Tree in the Window",
         "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
       },
@@ -603,42 +603,6 @@
       "duration_ms": 264000,
       "name": "Christmas Tree in the Window",
       "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Gone for Christmas (feat. The McCrary Sisters)",
-        "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "The McCrary Sisters",
-          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
-        }
-      ],
-      "duration_ms": 232102,
-      "name": "Gone for Christmas (feat. The McCrary Sisters)",
-      "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -663,6 +627,42 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Gone for Christmas (feat. The McCrary Sisters)",
+        "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "The McCrary Sisters",
+          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
+        }
+      ],
+      "duration_ms": 232102,
+      "name": "Gone for Christmas (feat. The McCrary Sisters)",
+      "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Kid On Christmas",
         "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 245293,
       "name": "Kid On Christmas",
       "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Christmas Grass - The Collection",
         "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas is Right Here",
-        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 183966,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Merry Christmas Wherever You Are",
         "url": "https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 181133,
       "name": "Merry Christmas Wherever You Are",
       "url": "https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas is Right Here",
+        "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 183966,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -799,18 +799,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Fishing for Christmas",
-        "url": "https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c"
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/0hs1LUkCfcNvSMNmTEAgxw"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 256426,
-      "name": "Fishing for Christmas",
-      "url": "https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG"
+      "duration_ms": 231928,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3g0qK0NS7owXH1rKDbhRl4"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -831,22 +835,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/0hs1LUkCfcNvSMNmTEAgxw"
+        "name": "Fishing for Christmas",
+        "url": "https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         }
       ],
-      "duration_ms": 231928,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3g0qK0NS7owXH1rKDbhRl4"
+      "duration_ms": 256426,
+      "name": "Fishing for Christmas",
+      "url": "https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG"
     }
   ],
   "unique_name": "Americana Christmas",

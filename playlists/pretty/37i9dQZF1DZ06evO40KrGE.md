@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,265 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,269 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 42 | [Para Sempre](https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 3:42 |
 | 43 | [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 |
 | 44 | [Alvo Mais que a Neve](https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 5:45 |
-| 45 | [Ele Tem Poder](https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 3:57 |
-| 46 | [Não há Deus maior \- Ao Vivo](https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 4:41 |
+| 45 | [Não há Deus maior \- Ao Vivo](https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 4:41 |
+| 46 | [Ele Tem Poder](https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 3:57 |
 | 47 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 |
 | 48 | [Igreja Pequena](https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Força Imensa](https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ) | 5:02 |
-| 49 | [Não é Tarde Demais](https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 3:44 |
-| 50 | [Medley \- Para Sempre / Força Imensa / Onde Jesus Mora](https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:35 |
+| 49 | [Medley \- Para Sempre / Força Imensa / Onde Jesus Mora](https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:35 |
+| 50 | [Não é Tarde Demais](https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 3:44 |
 
-Snapshot ID: `aNcpAAAAAADDh3c0WfhPNcxwO/8eHunX`
+Snapshot ID: `aNh6gAAAAAA741wLZTsV+HnTqh8SEAZn`

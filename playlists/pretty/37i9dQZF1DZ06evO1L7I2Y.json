@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABV7YqeAqjFDjoBgcBJAuRg",
+  "snapshot_id": "aNh6gAAAAABGNnKYaCp+VwvUf2NzJ7Wj",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -259,30 +283,6 @@
       "duration_ms": 343399,
       "name": "Set Ajc",
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": null,
@@ -783,38 +783,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
-        "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
       "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "KIB7",
-          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
-        },
-        {
-          "name": "diniBoy",
-          "url": "https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU"
-        },
-        {
-          "name": "Brasil Grime Show",
-          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 352500,
-      "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
-      "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -847,34 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40\u02da.40",
         "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
       },
@@ -895,6 +859,42 @@
       "duration_ms": 159455,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
+        "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "KIB7",
+          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
+        },
+        {
+          "name": "diniBoy",
+          "url": "https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
+      "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
     },
     {
       "added_at": null,

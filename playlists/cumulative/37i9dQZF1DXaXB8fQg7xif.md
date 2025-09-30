@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,264 songs - 2 day 19 hr 36 min
+1,265 songs - 2 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 | 2023-05-26 | 2023-07-29 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-14 | 2022-04-21 |
+| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-08-18 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-04-06 | 2024-06-08 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-07-14 | 2022-07-30 |
@@ -1246,7 +1247,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-14 | 2024-02-07 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2024-02-02 | 2024-04-19 |
 | [Worst Enemy](https://open.spotify.com/track/3HNB7P3nnZlGzHKPPXXYix) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Worst Enemy](https://open.spotify.com/album/74zgCRedFSiylNUsxCB14L) | 2:51 | 2022-04-01 | 2022-04-21 |
-| [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 | 2025-09-19 |  |
+| [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 | 2025-09-19 | 2025-09-30 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-07-14 | 2022-07-30 |
 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-23 |  |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-05-22\* | 2021-12-21 |

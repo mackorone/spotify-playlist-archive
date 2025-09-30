@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Theo Crocker and music for your soul.
+> Theo Croker and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,531 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,539 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 100 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 |
 
-Snapshot ID: `AAAAAEH2sCCuhBxDUHPeAgsgiibMCn7M`
+Snapshot ID: `AAAAAJ5dlGx3iAjWQzi9Kpk++291D6Md`

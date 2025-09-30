@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 432548,
+  "num_followers": 432592,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
+        "name": "T'estimo tant",
+        "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        },
+        {
+          "name": "Alba Armengou",
+          "url": "https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul"
+        }
+      ],
+      "duration_ms": 183231,
+      "name": "T'estimo tant",
+      "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
-        "name": "T'estimo tant",
-        "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
-      },
-      "artists": [
-        {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        },
-        {
-          "name": "Alba Armengou",
-          "url": "https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul"
-        }
-      ],
-      "duration_ms": 183231,
-      "name": "T'estimo tant",
-      "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "tanto tiempo sola",
-        "url": "https://open.spotify.com/album/37ThV9Maroyqw7bPAWDhmo"
-      },
-      "artists": [
-        {
-          "name": "kindapatri",
-          "url": "https://open.spotify.com/artist/1EvQDWh3meaem5xYnP9WPo"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "tanto tiempo sola",
-      "url": "https://open.spotify.com/track/3LBaFtgSWmfncIwWKSKyxS"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "\u00c7a Va? BBY",
-        "url": "https://open.spotify.com/album/0JOqlJW7vIg6tEuRmoQujg"
+        "name": "tanto tiempo sola",
+        "url": "https://open.spotify.com/album/37ThV9Maroyqw7bPAWDhmo"
       },
       "artists": [
         {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "kindapatri",
+          "url": "https://open.spotify.com/artist/1EvQDWh3meaem5xYnP9WPo"
         }
       ],
-      "duration_ms": 155705,
-      "name": "\u00c7a Va? BBY",
-      "url": "https://open.spotify.com/track/3WudgNqzn2HxnyaATSaHha"
+      "duration_ms": 164293,
+      "name": "tanto tiempo sola",
+      "url": "https://open.spotify.com/track/3LBaFtgSWmfncIwWKSKyxS"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1143,6 +1127,22 @@
       "duration_ms": 212571,
       "name": "No tenemos tiempo",
       "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
+        "name": "\u00c7a Va? BBY",
+        "url": "https://open.spotify.com/album/0JOqlJW7vIg6tEuRmoQujg"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 155705,
+      "name": "\u00c7a Va? BBY",
+      "url": "https://open.spotify.com/track/3WudgNqzn2HxnyaATSaHha"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "Daniela Forever (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ksl4u33pffetVZyCUc6aZ"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        },
-        {
-          "name": "Beatrice Grann\u00f2",
-          "url": "https://open.spotify.com/artist/5VHuOdFhE2oK2v1IG7PZRI"
-        }
-      ],
-      "duration_ms": 327552,
-      "name": "Escolta la tempesta - Daniela Forever - End Titles",
-      "url": "https://open.spotify.com/track/1H4BsrydFVdqGZ3FDYGhk0"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
       },
@@ -1335,22 +1315,22 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "Adi\u00f3s, hola",
-        "url": "https://open.spotify.com/album/0W4Lcl5JzVXX1fDPaxaWaM"
+        "name": "Daniela Forever (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ksl4u33pffetVZyCUc6aZ"
       },
       "artists": [
         {
-          "name": "T\u00f3rtel",
-          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
         },
         {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+          "name": "Beatrice Grann\u00f2",
+          "url": "https://open.spotify.com/artist/5VHuOdFhE2oK2v1IG7PZRI"
         }
       ],
-      "duration_ms": 132303,
-      "name": "Adi\u00f3s, hola",
-      "url": "https://open.spotify.com/track/3wAeje1UyjEE9dHNlvULk2"
+      "duration_ms": 327552,
+      "name": "Escolta la tempesta - Daniela Forever - End Titles",
+      "url": "https://open.spotify.com/track/1H4BsrydFVdqGZ3FDYGhk0"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1371,6 +1351,26 @@
       "duration_ms": 271061,
       "name": "Aire",
       "url": "https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
+        "name": "Adi\u00f3s, hola",
+        "url": "https://open.spotify.com/album/0W4Lcl5JzVXX1fDPaxaWaM"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3rtel",
+          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+        },
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 132303,
+      "name": "Adi\u00f3s, hola",
+      "url": "https://open.spotify.com/track/3wAeje1UyjEE9dHNlvULk2"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5"
-      },
-      "artists": [
-        {
-          "name": "xicu",
-          "url": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
-        },
-        {
-          "name": "J\u00falia Serrasolsas",
-          "url": "https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm"
-        }
-      ],
-      "duration_ms": 197328,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 221837,
       "name": "4 de Febrero",
       "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5"
+      },
+      "artists": [
+        {
+          "name": "xicu",
+          "url": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
+        },
+        {
+          "name": "J\u00falia Serrasolsas",
+          "url": "https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm"
+        }
+      ],
+      "duration_ms": 197328,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "La desped\u00eda",
-        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
-      },
-      "artists": [
-        {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "La desped\u00eda",
-      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 226333,
       "name": "\u00c1rboles",
       "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1851,42 +1851,6 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/4dad4EzAlxM1ehmwTTEUVS"
-      },
-      "artists": [
-        {
-          "name": "John Squalo",
-          "url": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
-        },
-        {
-          "name": "BERNARDA",
-          "url": "https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW"
-        }
-      ],
-      "duration_ms": 135229,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/5af0LkK9IMmgEheywAYC2A"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
         "name": "Judy",
         "url": "https://open.spotify.com/album/4qtCTdSxpDbRGf66uUFzkE"
       },
@@ -1907,18 +1871,22 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/4dad4EzAlxM1ehmwTTEUVS"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "John Squalo",
+          "url": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
+        },
+        {
+          "name": "BERNARDA",
+          "url": "https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+      "duration_ms": 135229,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/5af0LkK9IMmgEheywAYC2A"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -1951,6 +1919,38 @@
       "duration_ms": 176434,
       "name": "Free As a Bird",
       "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
+        "name": "Algo F\u00edsico",
+        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Algo F\u00edsico",
+      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2025-09-18 22:00:14",
+      "album": {
         "name": "As\u00ed me va",
         "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
       },
@@ -2027,18 +2043,18 @@
     {
       "added_at": "2025-09-18 22:00:14",
       "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/5HIRSkuKx05olNsxyc6ykh"
       },
       "artists": [
         {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+          "name": "Single",
+          "url": "https://open.spotify.com/artist/3ytMiTBG7TnAOsA3Ql7eAs"
         }
       ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+      "duration_ms": 267345,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/6xh08da7pYRsZAp0gIywM1"
     },
     {
       "added_at": "2025-09-18 22:00:14",
@@ -2059,22 +2075,6 @@
       "duration_ms": 197408,
       "name": "Ahizpa / Germana",
       "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
-    },
-    {
-      "added_at": "2025-09-18 22:00:14",
-      "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/5HIRSkuKx05olNsxyc6ykh"
-      },
-      "artists": [
-        {
-          "name": "Single",
-          "url": "https://open.spotify.com/artist/3ytMiTBG7TnAOsA3Ql7eAs"
-        }
-      ],
-      "duration_ms": 267345,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/6xh08da7pYRsZAp0gIywM1"
     },
     {
       "added_at": "2025-09-18 22:00:14",

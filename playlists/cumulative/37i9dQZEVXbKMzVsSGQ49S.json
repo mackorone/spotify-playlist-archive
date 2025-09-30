@@ -6060,7 +6060,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 261626,
       "name": "Bl\u00e1gr\u00e6n",
       "url": "https://open.spotify.com/track/1fZa6xzVsAYLbo5nk40llK"
@@ -8956,7 +8956,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -12888,7 +12888,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 155785,
       "name": "Eg\u00f3",
       "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
@@ -16916,7 +16916,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -17146,7 +17146,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -19920,7 +19920,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 144165,
       "name": "G\u00f3\u00f0ur Dagur",
       "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
@@ -21382,7 +21382,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 207178,
       "name": "Hjarta",
       "url": "https://open.spotify.com/track/0YI4W46LkUhdpBZtFC74Mf"
@@ -24710,7 +24710,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -25500,7 +25500,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 180343,
       "name": "J\u00e1 \u00e9g veit",
       "url": "https://open.spotify.com/track/3IgapLLSeD5XoX9hTruPhR"
@@ -40310,7 +40310,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "R\u00d3A",
       "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
@@ -51471,6 +51471,24 @@
     },
     {
       "album": {
+        "name": "KBE kynnir: Hetjan \u00dar Hverfinu",
+        "url": "https://open.spotify.com/album/4AEoTqwmdbtQBNPGfDiAVi"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178194,
+      "name": "Vangaveltur",
+      "url": "https://open.spotify.com/track/7qPaNI2PcSvdTs8twdLQRw"
+    },
+    {
+      "album": {
         "name": "ANDI, L\u00cdF, HJARTA, S\u00c1L",
         "url": "https://open.spotify.com/album/7z3kzUHg0g0UuSsjAvog0m"
       },
@@ -53272,7 +53290,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 220377,
       "name": "What Am I Now?",
       "url": "https://open.spotify.com/track/34TxVVQXg9Ve1JnJotLquF"

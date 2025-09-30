@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline & Amaia.
 
-927 songs - 2 day 1 hr 55 min
+928 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-03 | 2022-08-25 |
 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-07-22 | 2023-02-17 |
 | [Callan](https://open.spotify.com/track/7d3birJKfYhkf3ryMhEVok) | [Mariposa](https://open.spotify.com/artist/73s1DKnwRgdsXm6a3tQEsV) | [Callan](https://open.spotify.com/album/1Hm6ifGyeI4npjiFZ0mjxt) | 3:09 | 2021-12-02 | 2022-01-25 |
+| [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 | 2025-09-26 |  |
 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-08-25 | 2024-01-28 |
 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 | 2023-02-17 | 2023-04-21 |
 | [Caramelo](https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Mezz](https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx), [RIAH](https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg) | [Caramelo](https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30) | 2:39 | 2023-08-25 | 2023-09-13 |
@@ -278,7 +279,7 @@
 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 | 2024-08-16 | 2025-09-27 |
 | [el sofá](https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [tenemos que quedar](https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4) | 3:11 | 2021-12-02 | 2022-10-28 |
 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2025-07-16 |  |
-| [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 | 2024-12-06 |  |
+| [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 | 2024-12-06 | 2025-09-30 |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-08-23 | 2025-09-27 |
 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 | 2022-10-27 | 2023-02-17 |
 | [Embruxo](https://open.spotify.com/track/7yWcEZPUf3aIZnfVnXZIXp) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Embruxo](https://open.spotify.com/album/6W1Z7t0GrYnMWZtdEH9K7y) | 3:09 | 2021-12-02 | 2022-01-25 |

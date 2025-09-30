@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 八三夭 \(831\)
 
-713 songs - 1 day 22 hr 32 min
+714 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [人魚](https://open.spotify.com/track/26FLc13ZEHmojKQdzhDKPn) | [烏流](https://open.spotify.com/artist/2jyPtGFcFyVwoWcNmZaBia) | [烏流](https://open.spotify.com/album/4WsX1xCBUhUHC4o2W67rIa) | 3:14 | 2025-05-01 | 2025-05-30 |
 | [亻厓 行个路](https://open.spotify.com/track/0xGvR7ayNnMeouh7y8uwcF) | [RIBINGU](https://open.spotify.com/artist/4Ea8yy2Fu3LpKeI865UWPI) | [亻厓 行个路](https://open.spotify.com/album/2o60evFPWahnnZo4I3PuyR) | 3:09 | 2025-08-22 | 2025-09-26 |
 | [今天不太想出門](https://open.spotify.com/track/2CENvC8h8mLmGu6F4A4XJA) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [今天不太想出門](https://open.spotify.com/album/2GCABgoBqwMeYCWaCQ3DEY) | 3:19 | 2024-08-29 | 2024-09-27 |
+| [他不愛我 \- 滾石撞樂隊2 \(原唱:莫文蔚\)](https://open.spotify.com/track/0oFAas3rJLL2evZiSGlSxm) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [滾石撞樂隊2 \- 他不愛我](https://open.spotify.com/album/4gxiKfR8AlCen1oiRsH6H1) | 3:27 | 2025-09-25 |  |
 | [他是你的你是我的一場惡夢](https://open.spotify.com/track/4s2zPHCjiDnzM0Dg4KYSVM) | [晚餐思路](https://open.spotify.com/artist/5yDEms9eAoq8TyNxMG5JuM) | [私心思](https://open.spotify.com/album/4FyloTXbXZewzcTincL1ZP) | 3:37 | 2024-07-11 | 2024-08-16 |
 | [以後的事以後再說](https://open.spotify.com/track/7Jp2n0o3KRy1eGaYEPA0ZW) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [以後的事以後再說](https://open.spotify.com/album/5aXdRM5cmaMMFBcogna11I) | 4:08 | 2025-08-28 | 2025-09-19 |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-01-02 |  |

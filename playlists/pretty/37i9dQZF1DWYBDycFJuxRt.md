@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 + 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/340946">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,202 likes - 90 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,218 likes - 90 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> PEDRO SAMPAIO e os maiores hits do país\. O que tá bombando tá aqui.
+> Matheus & Kauan com Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
 637 songs - 1 day 7 hr 43 min
 

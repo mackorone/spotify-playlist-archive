@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,266 likes - 39 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,268 likes - 39 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 12 | [I Would for You](https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:52 |
 | 13 | [Summertime Rolls](https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 6:16 |
 | 14 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
-| 15 | [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 |
+| 15 | [Ain't No Right](https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
 | 16 | [Sympathy for the Devil \- from Sons of Anarchy](https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Songs of Anarchy: Volume 2 \(Music from Sons of Anarchy\)](https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c) | 5:26 |
 | 17 | [Had a Dad](https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:45 |
 | 18 | [Strays](https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:32 |
-| 19 | [Ain't No Right](https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
+| 19 | [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 |
 | 20 | [Sympathy](https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 5:25 |
 | 21 | [Up the Beach](https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:01 |
 | 22 | [Price I Pay](https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:27 |
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 28 | [End To The Lies](https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:31 |
 | 29 | [My Time](https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:32 |
 | 30 | [My Cat's Name Is Maceo \- Demo](https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:23 |
-| 31 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 |
+| 31 | [True Love](https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [True Love](https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF) | 3:43 |
 | 32 | [Curiosity Kills](https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 |
 | 33 | [Whores](https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 4:04 |
 | 34 | [Slow Divers \- Live](https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:35 |
-| 35 | [True Love](https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [True Love](https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF) | 3:43 |
+| 35 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 |
 | 36 | [Splash A Little Water On It](https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 5:13 |
 | 37 | [Trip Away](https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:34 |
 | 38 | [So What!](https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:19 |
 | 39 | [Been Caught Stealing \- Studio Out\-Take](https://open.spotify.com/track/2ingbF0o8bNLy68jUCqahX) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:20 |
 
-Snapshot ID: `aNcpAAAAAADXZGRcKf0f14kr8miDY9oV`
+Snapshot ID: `aNh6gAAAAACfEW1h3gM4KGK46FfqP7KQ`

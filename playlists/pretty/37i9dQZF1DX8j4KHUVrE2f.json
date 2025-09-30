@@ -1,6 +1,6 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1100164,
+  "num_followers": 1100264,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Dead And Gone",
-      "url": "https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 299746,
+      "name": "Dead And Gone",
+      "url": "https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"
     },
     {
       "added_at": "2024-06-03 14:44:19",

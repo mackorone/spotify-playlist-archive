@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 319470,
+  "num_followers": 319480,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Cheers To Goodbye (feat. Spencer Charnas)",
         "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
       },
@@ -235,6 +255,34 @@
       "duration_ms": 226861,
       "name": "Cheers To Goodbye (feat. Spencer Charnas)",
       "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 189552,
+      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -275,26 +323,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -315,34 +343,6 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Daryl Palumbo",
-          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
-        },
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 189552,
-      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
-      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Laid to Rest (HEALTH Remix)",
         "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Learn To Forget",
-        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
       "artists": [
         {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 181466,
-      "name": "Learn To Forget",
-      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -567,18 +551,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Product Of My Love",
-        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+        "name": "Learn To Forget",
+        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
       },
       "artists": [
         {
-          "name": "Druidess",
-          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 228000,
-      "name": "The Sniffing Accountant",
-      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
+      "duration_ms": 181466,
+      "name": "Learn To Forget",
+      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -599,6 +583,22 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "The Product Of My Love",
+        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+      },
+      "artists": [
+        {
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Sniffing Accountant",
+      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Welcome To Hell (feat. Emmure)",
-        "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
-      },
-      "artists": [
-        {
-          "name": "Mike's Dead",
-          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
-        },
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Welcome To Hell (feat. Emmure)",
-      "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 142153,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Welcome To Hell (feat. Emmure)",
+        "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        },
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Welcome To Hell (feat. Emmure)",
+      "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Oportunista",
-        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Oportunista",
-      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1043,6 +1027,22 @@
       "duration_ms": 90491,
       "name": "FUCK WITH A WITCH 2",
       "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "DIVINE DISINTEGRATION",
+        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
+      },
+      "artists": [
+        {
+          "name": "ghostofblu",
+          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "DIVINE DISINTEGRATION",
+      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "DODGE A BULLET",
         "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     },
     {
       "added_at": "2024-07-19 10:51:43",

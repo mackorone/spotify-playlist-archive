@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,070 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,072 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 46 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 |
 | 47 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
 | 48 | [UNDER GOD'S PLAN](https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Mantra Vutura](https://open.spotify.com/artist/2aOcSZtVGcy3cs45euQqZ6) | [ISYANA](https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI) | 6:51 |
-| 49 | [Lara](https://open.spotify.com/track/1sGsoXJgOZ3wY3tveCUwWs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Lara](https://open.spotify.com/album/28qOVtZkeUoUdzU8JEExdG) | 5:26 |
-| 50 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
+| 49 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
+| 50 | [Lara](https://open.spotify.com/track/1sGsoXJgOZ3wY3tveCUwWs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Lara](https://open.spotify.com/album/28qOVtZkeUoUdzU8JEExdG) | 5:26 |
 
 Snapshot ID: `AAAAADMMDPpuGHVmmqYVf/apr6pkaNR3`

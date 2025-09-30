@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Karoline Mousing
 
-313 songs - 15 hr 53 min
+314 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 | 2024-10-30 |
 | [Jeg håber du er træt](https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR) | [Angående Mig](https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup) | [Jeg håber du er træt](https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG) | 2:51 | 2025-04-17 | 2025-04-25 |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |
-| [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 |  |
+| [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 | 2025-09-30 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [JEG VIL HØRE ALTING](https://open.spotify.com/track/38e4vqyumqZVXUB2jU1lkR) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM) | [JEG VIL HØRE ALTING / GLEMMER ALDRIG](https://open.spotify.com/album/0FOQGq5MzCH6HJpJO56kdA) | 4:18 | 2025-08-14 | 2025-08-22 |
 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 | 2025-05-22 | 2025-05-30 |
@@ -215,6 +215,7 @@
 | [Overkill](https://open.spotify.com/track/2cKqnOnyn4m5ZCmShQxxzJ) | [MILA](https://open.spotify.com/artist/1kxYcDvkOzwczcvFlEBVwl) | [Overkill](https://open.spotify.com/album/4BZt0a3MXOMR4gpnLhujUM) | 2:44 | 2025-05-22 | 2025-05-30 |
 | [paper plane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 | 2025-09-04 | 2025-09-12 |
 | [PAPI](https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [PAPI](https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7) | 2:15 | 2025-07-10 | 2025-08-07 |
+| [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3) | [Aland Z](https://open.spotify.com/artist/5ac27Tra29pdLsxOZRddjm), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC) | 3:00 | 2025-09-25 |  |
 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 | 2025-04-10 |  |
 | [plastikhjerte](https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [plastikhjerte](https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T) | 3:06 | 2025-01-23 | 2025-06-06 |
 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 | 2025-08-07 | 2025-09-28 |

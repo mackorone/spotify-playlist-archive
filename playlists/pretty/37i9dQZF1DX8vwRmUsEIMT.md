@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,204 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,125 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

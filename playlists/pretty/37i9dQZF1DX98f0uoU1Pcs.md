@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,478 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,484 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 38 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
 | 39 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
 | 40 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
-| 41 | [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 |
-| 42 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
+| 41 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
+| 42 | [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 |
 | 43 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 44 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 45 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 56 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 |
 | 57 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 58 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
-| 59 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
-| 60 | [Bedrock](https://open.spotify.com/track/5NQzU2NZYt8bJoieGVkZEZ) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Bedrock](https://open.spotify.com/album/3bk7FJxpty6jsKxjKizKCW) | 3:13 |
+| 59 | [Bedrock](https://open.spotify.com/track/5NQzU2NZYt8bJoieGVkZEZ) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Bedrock](https://open.spotify.com/album/3bk7FJxpty6jsKxjKizKCW) | 3:13 |
+| 60 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 61 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
 | 62 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 63 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 85 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
 | 86 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
 | 87 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
-| 88 | [Broadcast](https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Unreal](https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri) | 4:18 |
-| 89 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
-| 90 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
-| 91 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
-| 92 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
+| 88 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
+| 89 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
+| 90 | [Broadcast](https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Unreal](https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri) | 4:18 |
+| 91 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
+| 92 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
 | 93 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 | 94 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
 | 95 | [Blue Kite](https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 6:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 99 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 |
 | 100 | [I Love My Wife](https://open.spotify.com/track/2ZjGheF3bEDNwHktj7WQXu) | [Touchdown Jesus](https://open.spotify.com/artist/4m2cmezyP3GrxPbHdNSgjM) | [It's All Feast Or Famine](https://open.spotify.com/album/3DjQPilg3Hxgx88B6bWmfd) | 3:44 |
 
-Snapshot ID: `AAAAAJL1RVAPWtMR9F88mmxHOknu08Hd`
+Snapshot ID: `AAAAAE67A9AiAkaCei4zIXZ7BcrJM5+K`

@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 190434,
       "name": "Can't Afford",
       "url": "https://open.spotify.com/track/51V2cgFDgUZjcUtd68ygR4"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 139716,
       "name": "GO CRAZY",
       "url": "https://open.spotify.com/track/72gh4ZobtjRMcpYUxpPNTJ"
@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "IMY",
+        "url": "https://open.spotify.com/album/4pV0NErJZFSPIVQ7XTknPW"
+      },
+      "artists": [
+        {
+          "name": "Hoosh",
+          "url": "https://open.spotify.com/artist/451QYarjabz09nL2SSufeV"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3KvNIhdszIHOsCCWzXqhBH"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6"
       },
@@ -3418,6 +3436,24 @@
       "duration_ms": 176000,
       "name": "Jabal",
       "url": "https://open.spotify.com/track/5shcRvPPK4usihJQeLZZEX"
+    },
+    {
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/0ONGZLVJwJXgRGwkZzGBAk"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153644,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/4ydkHlS4tJYEjoANmUDEol"
     },
     {
       "album": {
@@ -3916,7 +3952,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 264000,
       "name": "marigold",
       "url": "https://open.spotify.com/track/6JrjfWgPI8d1uraNP0YEDx"
@@ -6842,7 +6878,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 138181,
       "name": "Who Pulled Up? (feat. Jeed)",
       "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"

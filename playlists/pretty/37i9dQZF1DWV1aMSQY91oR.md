@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,262 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,310 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 9 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 |
 | 10 | [N.T.A.B.](https://open.spotify.com/track/4PQFinCed6I46BsyIUz5UV) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Spank Nitti James](https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [N.T.A.B.](https://open.spotify.com/album/79ah3fmPUV9etOfTnGAky2) | 3:49 |
 | 11 | [SMILE BODY PRETTY FACE \(feat\. Kodak Black & YG\)](https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [SMILE BODY PRETTY FACE \(feat\. Kodak Black & YG\)](https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE) | 4:41 |
-| 12 | [Stimming](https://open.spotify.com/track/3VW5vrPumuIuaFQb1Hqc9G) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Stimming](https://open.spotify.com/album/46vU8FeukYVJ0rwFrfrTdE) | 3:22 |
+| 12 | [STIMMING](https://open.spotify.com/track/3VW5vrPumuIuaFQb1Hqc9G) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [STIMMING](https://open.spotify.com/album/46vU8FeukYVJ0rwFrfrTdE) | 3:22 |
 | 13 | [Dopamine](https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Dopamine](https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP) | 3:31 |
 | 14 | [PG AWARDS](https://open.spotify.com/track/6vB5UFqgxCz0oYVL9IQNGu) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [PG AWARDS](https://open.spotify.com/album/12IcbWKG4ff7lYAploX3du) | 3:36 |
 | 15 | [Shut Me Up](https://open.spotify.com/track/6nOgznOKaZXPxLqx3h0RrX) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [W!LD Deluxe: The Elephant & The Rider](https://open.spotify.com/album/26vSIrPtkA7En8zwJgI17c) | 3:55 |

@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 40160,
       "name": "Delia's Dream",
       "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
@@ -736,6 +736,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Dr. Who",
+      "url": "https://open.spotify.com/track/36hKkDEGiq7d91jFJeLB56"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -764,7 +782,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 91480,
       "name": "Dr. Who",
       "url": "https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 174333,
       "name": "Hannett and Delia synth exchanges track 16",
       "url": "https://open.spotify.com/track/5bv0tIM9J7jMxBhHznLt2y"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 47506,
       "name": "Hannett and Delia synth exchanges track 8",
       "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 63760,
       "name": "Restless Relays",
       "url": "https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi"
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/1WMP6CdxtyXxsx0raIefTH"

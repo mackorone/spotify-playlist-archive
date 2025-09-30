@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2431304,
+  "num_followers": 2431319,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Big Girls Don't Cry",
-        "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
-      },
-      "artists": [
-        {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 157611,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Boat",
         "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 192975,
       "name": "Boat",
       "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
-      },
-      "artists": [
-        {
-          "name": "Blended Colours",
-          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 169756,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
+      },
+      "artists": [
+        {
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Only Girl In The World",
-        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "Only Girl In The World",
-      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Sex is on fire",
         "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
       },
       "artists": [
         {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
         }
       ],
-      "duration_ms": 141286,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -535,6 +519,22 @@
       "duration_ms": 172454,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 141286,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 174857,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Never Gonna Give You Up - Acoustic",
-        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
       "artists": [
         {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 217848,
-      "name": "Never Gonna Give You Up - Acoustic",
-      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
+        "name": "Never Gonna Give You Up - Acoustic",
+        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 217848,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
         "name": "Chasing Cars (Acoustic)",
         "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 221762,
       "name": "Chasing Cars (Acoustic)",
       "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
         "name": "WHAT THE HELL ARE WE DYING FOR?",
         "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 202000,
       "name": "WHAT THE HELL ARE WE DYING FOR?",
       "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
-      },
-      "artists": [
-        {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
-        }
-      ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -907,34 +907,18 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
         }
       ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
-      },
-      "artists": [
-        {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -951,6 +935,22 @@
       "duration_ms": 179383,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "All of me - Acoustic",
-        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 268551,
-      "name": "All of me - Acoustic",
-      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 241184,
       "name": "Good",
       "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
     },
     {
       "added_at": "2025-07-24 08:37:36",

@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 211404,
+  "num_followers": 211435,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-09-18 15:00:44",
       "album": {
-        "name": "BIG MONEY",
-        "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 251502,
-      "name": "LEAN ON MY LOVE (feat. Andra Day)",
-      "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2025-09-18 15:00:44",
-      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
@@ -547,18 +527,22 @@
     {
       "added_at": "2025-09-18 15:00:44",
       "album": {
-        "name": "Orenjii",
-        "url": "https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW"
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 154200,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/4khP6dCz7SXygoxPqaIqLR"
+      "duration_ms": 251502,
+      "name": "LEAN ON MY LOVE (feat. Andra Day)",
+      "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
     },
     {
       "added_at": "2025-09-18 15:00:44",
@@ -575,6 +559,22 @@
       "duration_ms": 161805,
       "name": "Ain't I Good For You",
       "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
+    },
+    {
+      "added_at": "2025-09-18 15:00:44",
+      "album": {
+        "name": "Orenjii",
+        "url": "https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/4khP6dCz7SXygoxPqaIqLR"
     },
     {
       "added_at": "2025-09-18 15:00:44",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-09-18 15:00:44",
       "album": {
-        "name": "born to love you",
-        "url": "https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "born to love you",
-      "url": "https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p"
-    },
-    {
-      "added_at": "2025-09-18 15:00:44",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2025-09-18 15:00:44",
+      "album": {
+        "name": "born to love you",
+        "url": "https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "born to love you",
+      "url": "https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p"
     },
     {
       "added_at": "2025-09-18 15:00:44",
@@ -731,6 +731,38 @@
     {
       "added_at": "2025-09-18 15:00:44",
       "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2025-09-18 15:00:44",
+      "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 237517,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
+    },
+    {
+      "added_at": "2025-09-18 15:00:44",
+      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -767,38 +799,6 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
-    },
-    {
-      "added_at": "2025-09-18 15:00:44",
-      "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 237517,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
-    },
-    {
-      "added_at": "2025-09-18 15:00:44",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2025-09-18 15:00:44",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-09-18 15:00:44",
       "album": {
-        "name": "I Like It I Like It",
-        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "I Like It I Like It",
-      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
-    },
-    {
-      "added_at": "2025-09-18 15:00:44",
-      "album": {
         "name": "The Way It Was Before",
         "url": "https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY"
       },
@@ -1039,6 +1019,26 @@
     {
       "added_at": "2025-09-18 15:00:44",
       "album": {
+        "name": "I Like It I Like It",
+        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "I Like It I Like It",
+      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
+    },
+    {
+      "added_at": "2025-09-18 15:00:44",
+      "album": {
         "name": "For You (Many Selves Version)",
         "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 221525,
       "name": "For You - Many Selves Version",
       "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
-    },
-    {
-      "added_at": "2025-09-18 15:00:44",
-      "album": {
-        "name": "people stories",
-        "url": "https://open.spotify.com/album/0XfiOPqfpikqCUmvSs2kRS"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "RIGHT/WRONG",
-      "url": "https://open.spotify.com/track/1kdWhxp9RbFFkv5exPEfrB"
     },
     {
       "added_at": "2025-09-18 15:00:44",
@@ -1095,6 +1079,22 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2025-09-18 15:00:44",
+      "album": {
+        "name": "people stories",
+        "url": "https://open.spotify.com/album/0XfiOPqfpikqCUmvSs2kRS"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "RIGHT/WRONG",
+      "url": "https://open.spotify.com/track/1kdWhxp9RbFFkv5exPEfrB"
     },
     {
       "added_at": "2025-09-18 15:00:44",

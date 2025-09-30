@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36708,
+  "num_followers": 36709,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAA/WDom5U4AUWwS0tH6CdfM",
+  "snapshot_id": "aNh6gAAAAAAoe+/srk+AdEsZ7v9vTwxx",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "RATTLE!",
+      "url": "https://open.spotify.com/track/2FWy9Djj2s2tKwY2A4zhwk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/6ePNBkM6M9YXH7R34eJOZp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of Miracles",
-        "url": "https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "RATTLE!",
-      "url": "https://open.spotify.com/track/2FWy9Djj2s2tKwY2A4zhwk"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Happy - Live",
+      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Happy - Live",
-      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Maverick Way - EP",
         "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "I Needed God",
-      "url": "https://open.spotify.com/track/4bSBB0OyRIUqz6LcT8162M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "I Needed God",
+      "url": "https://open.spotify.com/track/4bSBB0OyRIUqz6LcT8162M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In The South",
         "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 242362,
       "name": "Big Heart (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 163899,
-      "name": "Won't Be Too Long",
-      "url": "https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 163899,
+      "name": "Won't Be Too Long",
+      "url": "https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Place Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 455480,
       "name": "You Still Love Me - Live",
       "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 292860,
-      "name": "God In The Valley",
-      "url": "https://open.spotify.com/track/2hb6mXABA5exLn0aX5OdEm"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 292860,
+      "name": "God In The Valley",
+      "url": "https://open.spotify.com/track/2hb6mXABA5exLn0aX5OdEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together (We'll Get Through This)",
         "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 369840,
+      "name": "Grace - Live",
+      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Over Everything (Live In Las Vegas)",
         "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 236247,
       "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 369840,
-      "name": "Grace - Live",
-      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
     }
   ],
   "unique_name": "This Is Tasha Cobbs Leonard",

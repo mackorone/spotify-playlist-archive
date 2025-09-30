@@ -487,6 +487,32 @@
     },
     {
       "album": {
+        "name": "24 Songs",
+        "url": "https://open.spotify.com/album/6q5vc3pGClvDvl1uksqZYQ"
+      },
+      "artists": [
+        {
+          "name": "void",
+          "url": "https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF"
+        },
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        },
+        {
+          "name": "fedo DJ",
+          "url": "https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "24 Songs",
+      "url": "https://open.spotify.com/track/4RVH1j0vcUDcbKCsJXMl64"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn"
       },
@@ -2804,7 +2830,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 146013,
       "name": "Bam",
       "url": "https://open.spotify.com/track/1NJU988wV6F2mGoiHHtXcJ"
@@ -6072,7 +6098,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -8588,7 +8614,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 126966,
       "name": "EBE LI TI SE OT PARFUMA MI?",
       "url": "https://open.spotify.com/track/3QYhm90UjZANSnAQjluXlt"
@@ -9869,6 +9895,24 @@
     },
     {
       "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -10588,7 +10632,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -16397,6 +16441,24 @@
     },
     {
       "album": {
+        "name": "The Heavy Entertainment Show (Deluxe)",
+        "url": "https://open.spotify.com/album/002H8sA77XFikjH4kbPaph"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208320,
+      "name": "Love My Life",
+      "url": "https://open.spotify.com/track/1YW369EbVyjpeLE3YbsjKQ"
+    },
+    {
+      "album": {
         "name": "Cum n Cocaine",
         "url": "https://open.spotify.com/album/7l7A0JXx3s5pEdOPv9X7mk"
       },
@@ -16856,7 +16918,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -17632,6 +17694,24 @@
       "duration_ms": 171528,
       "name": "MATUSHKA ULTRAFUNK - Slowed",
       "url": "https://open.spotify.com/track/1xQjh33eSumLEdNbK9yrYI"
+    },
+    {
+      "album": {
+        "name": "MAZALO",
+        "url": "https://open.spotify.com/album/3iqkIMh2qqflYvPnxgmS32"
+      },
+      "artists": [
+        {
+          "name": "Kotenceto",
+          "url": "https://open.spotify.com/artist/1yxLPqI8RMcczR0u8y9tBf"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148019,
+      "name": "MAZALO",
+      "url": "https://open.spotify.com/track/1LjtigoKd3fMtjh0Fp8cLV"
     },
     {
       "album": {
@@ -22416,7 +22496,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 215625,
       "name": "Polujivi",
       "url": "https://open.spotify.com/track/5USdMIrRxaU3vnKaPxqj1C"
@@ -23997,6 +24077,24 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Rottweiler",
+      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+    },
+    {
+      "album": {
         "name": "Round and Round",
         "url": "https://open.spotify.com/album/1hY7Y3CqSIE8QhYNpQ3jgX"
       },
@@ -24198,6 +24296,24 @@
       "duration_ms": 220909,
       "name": "S'AGAPAO",
       "url": "https://open.spotify.com/track/57uzkNgvgECZ1WIXPcDVnJ"
+    },
+    {
+      "album": {
+        "name": "Oyuncak Gibi",
+        "url": "https://open.spotify.com/album/62DKWCbb96cI03xiO2V3Rc"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcll\u00fc",
+          "url": "https://open.spotify.com/artist/533wb2q2kU814aFEWaIlG2"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293026,
+      "name": "Sabah Olmadan",
+      "url": "https://open.spotify.com/track/0n5RFIZqdGlWWLlLMpYSIx"
     },
     {
       "album": {
@@ -24582,7 +24698,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 193040,
       "name": "Scott and Zelda",
       "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
@@ -24766,7 +24882,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -27422,7 +27538,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -29294,10 +29410,28 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 210519,
       "name": "Through My Soul",
       "url": "https://open.spotify.com/track/7mSydMVoNUM2N3UzZvmeoC"
+    },
+    {
+      "album": {
+        "name": "Shadows & Soul",
+        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
+      },
+      "artists": [
+        {
+          "name": "Enlly Blue",
+          "url": "https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "Through My Soul",
+      "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
     },
     {
       "album": {
@@ -37368,7 +37502,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 184090,
       "name": "\u0421\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4MT6GrseYj0lRmXh6CS8jU"

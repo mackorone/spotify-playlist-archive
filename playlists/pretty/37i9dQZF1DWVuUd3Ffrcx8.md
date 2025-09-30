@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>5 Seconds of Summer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,173 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,938 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
 | 50 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 |
 
-Snapshot ID: `AAAAAEazUDyM2vqiCdbm/2Z1XIklgaYu`
+Snapshot ID: `AAAAAE7TO7xMq+DbTVsrZ97yt30wEDsc`

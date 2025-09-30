@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31119,
+  "num_followers": 31117,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABLjvrsCFB1YkdBtoMqDsL3",
+  "snapshot_id": "aNh6gAAAAABx86lgvbwgTqo0WwTZzfdP",
   "tracks": [
     {
       "added_at": null,
@@ -1335,6 +1335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Border Lord",
+        "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "Gettin' By, High and Strange",
+      "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural Act",
         "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
       },
@@ -1355,34 +1371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border Lord",
-        "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
+        "name": "Joyful Noise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
       },
       "artists": [
         {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "Gettin' By, High and Strange",
-      "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
+      "duration_ms": 264266,
+      "name": "From Here To The Moon and Back",
+      "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19249,
+  "num_followers": 19250,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABfFMRTF8AR41MT6xszN5w1",
+  "snapshot_id": "aNh6gAAAAABDl28y6hizsF77KQEKHFxM",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 278000,
-      "name": "El espacio",
-      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
+      "duration_ms": 244000,
+      "name": "Mar de nubes",
+      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Mar de nubes",
-      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
+      "duration_ms": 278000,
+      "name": "El espacio",
+      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
     },
     {
       "added_at": null,

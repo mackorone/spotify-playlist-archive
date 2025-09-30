@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 171962,
+  "num_followers": 172099,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADNP/fiNETnj8YbVeBLSdWO",
+  "snapshot_id": "aNh6gAAAAAASHM8iIASF9JeoHk/AnnMq",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 259531,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don (En Vivo)",
         "url": "https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 259531,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
     },
     {
       "added_at": null,

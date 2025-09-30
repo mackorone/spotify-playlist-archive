@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 299408,
+  "num_followers": 299419,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Datura",
-        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 237359,
-      "name": "Crocus",
-      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "S!CK",
         "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Datura",
+        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 237359,
+      "name": "Crocus",
+      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 180575,
       "name": "Ce n'est Rien",
       "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Cheap Grills",
         "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 233146,
       "name": "California King",
       "url": "https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": "2024-12-03 09:27:47",

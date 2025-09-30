@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  Rose Villain in cover
 
-837 songs - 1 day 15 hr 30 min
+838 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,6 +782,7 @@
 | [TO / GA](https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [TO / GA](https://open.spotify.com/album/3BuUOsbmolzkhA7ZkYoM7g) | 2:39 | 2025-01-23 | 2025-03-07 |
 | [Tonica](https://open.spotify.com/track/7qyFfd7nS0r6Zz3Sv2VcR1) | [Club Amor](https://open.spotify.com/artist/7LN7KqaWyrAvHO2Q3W2mzi) | [Club Amor](https://open.spotify.com/album/5dWqvP30TQpFMtzv3ehfXC) | 3:26 | 2024-06-27 | 2024-11-08 |
 | [TORNADO](https://open.spotify.com/track/5NutRZ0wwBfnzL23dvHEHu) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [EXIT](https://open.spotify.com/album/0SrOiBcjZZwTNj6hAe4CYr) | 2:30 | 2025-07-10 | 2025-09-26 |
+| [Tornare A Casa \(feat\. Bresh\)](https://open.spotify.com/track/5lkWS4J6w2mw3dNaEM0AYO) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/4c5khiHeRg8ZMaCGKfxIJh) | 3:34 | 2025-09-29 |  |
 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 | 2025-07-10 |  |
 | [tra le braccia](https://open.spotify.com/track/6uNfJzQST5zbyHxsnLiwEJ) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [tra le braccia](https://open.spotify.com/album/1ivYjNXgEc752jnfSaggmQ) | 3:20 | 2025-02-20 | 2025-04-11 |
 | [Tram 83](https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tram 83](https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd) | 2:23 | 2024-10-03 | 2024-11-22 |

@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71941,
+  "num_followers": 71948,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVPhDIStnNial7/9tV84hYvkTpn",
+  "snapshot_id": "AAAAALdZZIGGdLYEKrt5ZLyggHJks4IE",
   "tracks": [
     {
       "added_at": "2025-09-08 03:56:11",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Can't We Be Friends",
-        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
-      },
-      "artists": [
-        {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
-        }
-      ],
-      "duration_ms": 130873,
-      "name": "Can't We Be Friends",
-      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "I got it secondhand",
         "url": "https://open.spotify.com/album/5qjZGP5e9vKkbPYSGPQLXx"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
+        "name": "Can't We Be Friends",
+        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "duration_ms": 130873,
+      "name": "Can't We Be Friends",
+      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -267,18 +251,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Endymion",
-        "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
       "artists": [
         {
-          "name": "R\u00e9ka Ioescu",
-          "url": "https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H"
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
         }
       ],
-      "duration_ms": 152230,
-      "name": "Endymion",
-      "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -295,6 +279,22 @@
       "duration_ms": 124238,
       "name": "Before last month",
       "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Endymion",
+        "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9ka Ioescu",
+          "url": "https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H"
+        }
+      ],
+      "duration_ms": 152230,
+      "name": "Endymion",
+      "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "The last chance saloon",
-        "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 125450,
-      "name": "The last chance saloon",
-      "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 165750,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
-        "name": "Softly Spoken",
-        "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
-      },
-      "artists": [
-        {
-          "name": "Atticus Laines",
-          "url": "https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6"
-        }
-      ],
-      "duration_ms": 136691,
-      "name": "Softly Spoken",
-      "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -427,6 +395,22 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
+        "name": "Softly Spoken",
+        "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
+      },
+      "artists": [
+        {
+          "name": "Atticus Laines",
+          "url": "https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6"
+        }
+      ],
+      "duration_ms": 136691,
+      "name": "Softly Spoken",
+      "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
         "name": "Moonlight In Vermont",
         "url": "https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Young and Foolish",
-        "url": "https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0"
+        "name": "The last chance saloon",
+        "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
       },
       "artists": [
         {
-          "name": "Ron de Lauren",
-          "url": "https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod"
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
         }
       ],
-      "duration_ms": 174124,
-      "name": "Young and Foolish",
-      "url": "https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn"
+      "duration_ms": 125450,
+      "name": "The last chance saloon",
+      "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -507,6 +491,22 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
+      },
+      "artists": [
+        {
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
         "name": "Isla De Flores",
         "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
+        "name": "Young and Foolish",
+        "url": "https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0"
       },
       "artists": [
         {
-          "name": "Jules Pierre Gardot",
-          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
+          "name": "Ron de Lauren",
+          "url": "https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
+      "duration_ms": 174124,
+      "name": "Young and Foolish",
+      "url": "https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -635,38 +635,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "The Music Of The Night",
-        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
-      },
-      "artists": [
-        {
-          "name": "Niila Alto",
-          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "The Music Of The Night",
-      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
+        "name": "The Music Of The Night",
+        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
+      },
+      "artists": [
+        {
+          "name": "Niila Alto",
+          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "The Music Of The Night",
+      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
         "name": "Rest Well, My Good Friend",
         "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 161250,
       "name": "Rest Well, My Good Friend",
       "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+      },
+      "artists": [
+        {
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+        }
+      ],
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
         "name": "Box Of Photos",
         "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
       },
@@ -759,6 +775,38 @@
       "duration_ms": 149495,
       "name": "Box Of Photos",
       "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "You Are Peace",
+        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 204911,
+      "name": "You Are Peace",
+      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -779,22 +827,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
       },
@@ -807,22 +839,6 @@
       "duration_ms": 221093,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -859,18 +875,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "You Are Peace",
-        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
+        "name": "Piano Hits Chill",
+        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
       "artists": [
         {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
         }
       ],
-      "duration_ms": 204911,
-      "name": "You Are Peace",
-      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+      "duration_ms": 230000,
+      "name": "Say You Wont Let Go",
+      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -907,22 +923,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Piano Hits Chill",
-        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
-      },
-      "artists": [
-        {
-          "name": "Ronald Emery",
-          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Say You Wont Let Go",
-      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "First Sunrise",
         "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 212000,
       "name": "First Sunrise",
       "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N"
-      },
-      "artists": [
-        {
-          "name": "Jean Fines",
-          "url": "https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -987,18 +971,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N"
       },
       "artists": [
         {
-          "name": "Alex Laude",
-          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+          "name": "Jean Fines",
+          "url": "https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+      "duration_ms": 180266,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1031,6 +1015,22 @@
       "duration_ms": 132000,
       "name": "Dolce Far Niente",
       "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Too Young To Go Steady",
-        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
-      },
-      "artists": [
-        {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Nostalgia.",
         "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 157000,
       "name": "Reggimi",
       "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Too Young To Go Steady",
+        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Piano Songs",
         "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 225180,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
-      },
-      "artists": [
-        {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "S\u00fcda",
         "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 202750,
       "name": "S\u00fcda",
       "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+      },
+      "artists": [
+        {
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
-      },
-      "artists": [
-        {
-          "name": "Jakob Ahlbom",
-          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
-        }
-      ],
-      "duration_ms": 137290,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        }
+      ],
+      "duration_ms": 137290,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

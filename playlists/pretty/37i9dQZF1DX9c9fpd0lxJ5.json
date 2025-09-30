@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 446536,
+  "num_followers": 446411,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "PRONTO!",
-        "url": "https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 208614,
-      "name": "PRONTO!",
-      "url": "https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "Un D\u00eda A La Vez",
         "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 160106,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "PRONTO!",
+        "url": "https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 208614,
+      "name": "PRONTO!",
+      "url": "https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -863,70 +863,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Puente",
-        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Intr\u00e9pida",
-      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "Ya no nos hablamos",
         "url": "https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A"
       },
@@ -947,38 +883,66 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Primer encuentro",
-        "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
       "artists": [
         {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        },
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
         }
       ],
-      "duration_ms": 246598,
-      "name": "Primer encuentro",
-      "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+      "duration_ms": 180746,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Intr\u00e9pida",
+      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1003,18 +967,38 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 175470,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Primer encuentro",
+        "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 246598,
+      "name": "Primer encuentro",
+      "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1031,6 +1015,22 @@
       "duration_ms": 147067,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 175470,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
       "artists": [
         {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+      "duration_ms": 185007,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1243,22 +1259,6 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 185007,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
         "name": "La Piscina",
         "url": "https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/1kHyOA359CJrWx15p1EbME"
-      },
-      "artists": [
-        {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
-        }
-      ],
-      "duration_ms": 232921,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/0fWI5br58M7eiibUlq53bU"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "donjulio",
         "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 160695,
       "name": "donjulio",
       "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/1kHyOA359CJrWx15p1EbME"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        }
+      ],
+      "duration_ms": 232921,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/0fWI5br58M7eiibUlq53bU"
     },
     {
       "added_at": "2025-09-05 03:38:25",

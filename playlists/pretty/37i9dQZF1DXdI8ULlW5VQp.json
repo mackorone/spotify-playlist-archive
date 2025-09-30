@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Silvana Estrada en portada.",
-  "num_followers": 192184,
+  "num_followers": 192188,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Quiero M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG"
-      },
-      "artists": [
-        {
-          "name": "MIKI",
-          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
-        }
-      ],
-      "duration_ms": 171363,
-      "name": "Quiero M\u00e1s De Ti",
-      "url": "https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "Lo entend\u00ed",
         "url": "https://open.spotify.com/album/6fCjoc8ljBufvYMCNRAHnZ"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
+        "name": "Quiero M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        }
+      ],
+      "duration_ms": 171363,
+      "name": "Quiero M\u00e1s De Ti",
+      "url": "https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
         "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
         "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
       },
@@ -647,46 +647,6 @@
       "duration_ms": 212326,
       "name": "Fondo",
       "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "Sed de Acci\u00f3n Con Carolina Ross (Re-versi\u00f3n)",
-        "url": "https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213959,
-      "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
-      "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "Pastillas Pa Dormir",
-        "url": "https://open.spotify.com/album/5eSkjglgh218yOdKOyKU9r"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 185242,
-      "name": "Pastillas Pa Dormir",
-      "url": "https://open.spotify.com/track/4q0nJgk3gCtBZInE3UNWuE"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -723,6 +683,46 @@
       "duration_ms": 226336,
       "name": "Fantas\u00edas",
       "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "Pastillas Pa Dormir",
+        "url": "https://open.spotify.com/album/5eSkjglgh218yOdKOyKU9r"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 185242,
+      "name": "Pastillas Pa Dormir",
+      "url": "https://open.spotify.com/track/4q0nJgk3gCtBZInE3UNWuE"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "Sed de Acci\u00f3n Con Carolina Ross (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "par\u00eds",
-        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "par\u00eds",
-      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "K\u00e9 MaL (versi\u00f3n tierna)",
         "url": "https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 189583,
       "name": "desahogo",
       "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "par\u00eds",
+        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "par\u00eds",
+      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
-        "name": "Truco Viejo",
-        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Truco Viejo",
-      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
         "name": "Algo Mejor",
         "url": "https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-09-26 06:00:25",
       "album": {
+        "name": "Truco Viejo",
+        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Truco Viejo",
+      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
         "name": "Rinconcito en el Cielo",
         "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 222855,
       "name": "Rinconcito en el Cielo",
       "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
-    },
-    {
-      "added_at": "2025-09-26 06:00:25",
-      "album": {
-        "name": "L\u00edmite",
-        "url": "https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "L\u00edmite",
-      "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
     },
     {
       "added_at": "2025-09-26 06:00:25",
@@ -1303,6 +1287,22 @@
       "duration_ms": 150578,
       "name": "mi hogar",
       "url": "https://open.spotify.com/track/4ZoAZqjWWfEesw1iBXssdZ"
+    },
+    {
+      "added_at": "2025-09-26 06:00:25",
+      "album": {
+        "name": "L\u00edmite",
+        "url": "https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 192612,
+      "name": "L\u00edmite",
+      "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
     }
   ],
   "unique_name": "Pop Folk",

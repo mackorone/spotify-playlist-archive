@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 438958,
+  "num_followers": 438812,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,22 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Servando",
+          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
         }
       ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+      "duration_ms": 146332,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/16Vj2QA56ina0GqV1KTuff"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -127,22 +131,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Servando",
-          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 146332,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/16Vj2QA56ina0GqV1KTuff"
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 209466,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Vem Pra Mim",
-      "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 174706,
       "name": "Bailando Con Un Pie",
       "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Vem Pra Mim",
+      "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
         "name": "Si estuvieras aqu\u00ed",
         "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 224261,
-      "name": "Price of Life",
-      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+      "duration_ms": 224261,
+      "name": "Price of Life",
+      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Ag\u00fcita de Coco",
-        "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
+        "name": "Estrella Matutina",
+        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Butera Knowless",
-          "url": "https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK"
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
         }
       ],
-      "duration_ms": 153208,
-      "name": "Ag\u00fcita de Coco",
-      "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
+      "duration_ms": 200184,
+      "name": "Estrella Matutina",
+      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Estrella Matutina",
-        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
+        "name": "Ag\u00fcita de Coco",
+        "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
       "artists": [
         {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Butera Knowless",
+          "url": "https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK"
         }
       ],
-      "duration_ms": 200184,
-      "name": "Estrella Matutina",
-      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
+      "duration_ms": 153208,
+      "name": "Ag\u00fcita de Coco",
+      "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Me Das",
-        "url": "https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 182234,
-      "name": "Me Das",
-      "url": "https://open.spotify.com/track/6zBkexycHADArkud3zGT6x"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 223649,
       "name": "Together",
       "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Me Das",
+        "url": "https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 182234,
+      "name": "Me Das",
+      "url": "https://open.spotify.com/track/6zBkexycHADArkud3zGT6x"
     },
     {
       "added_at": "2025-08-25 21:42:09",

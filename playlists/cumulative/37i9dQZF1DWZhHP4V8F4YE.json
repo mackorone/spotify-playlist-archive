@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "You, Me & The 90's",
+        "url": "https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Aweh",
+      "url": "https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY"
+    },
+    {
+      "album": {
         "name": "The Gospel According To Artwork Sounds Chapter II",
         "url": "https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs"
       },
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 445896,
       "name": "Di Kgomo",
       "url": "https://open.spotify.com/track/723kBcWHaPWeAApqdYguSI"
@@ -7376,7 +7394,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 275986,
       "name": "Jugular Jugular",
       "url": "https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N"
@@ -8119,6 +8137,32 @@
     },
     {
       "album": {
+        "name": "Ke Wave",
+        "url": "https://open.spotify.com/album/4Zzcjew6lw258v6TJ8JbhW"
+      },
+      "artists": [
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289181,
+      "name": "Ke Wave",
+      "url": "https://open.spotify.com/track/6LZMirithOe1j0ICpsnlV0"
+    },
+    {
+      "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
       },
@@ -8148,7 +8192,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
@@ -15154,7 +15198,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -15638,7 +15682,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 188000,
       "name": "Tomorrow - Spiritual Version",
       "url": "https://open.spotify.com/track/1xxar3lqxQDrWzNDAyAKtk"
@@ -16498,7 +16542,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 380238,
       "name": "Vuma dlozi lami",
       "url": "https://open.spotify.com/track/5brPPINztdtbkZG2HrB14G"
@@ -16898,6 +16942,28 @@
       "duration_ms": 78946,
       "name": "Wetin",
       "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "wgft (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
     },
     {
       "album": {

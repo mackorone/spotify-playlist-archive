@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,771 likes - 46 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,780 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 35 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
 | 36 | [Alone \(feat\. Bella Shmurda\)](https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:24 |
 | 37 | [Adura](https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Adura](https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy) | 2:54 |
-| 38 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 |
+| 38 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 | 39 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 |
 | 40 | [Overload \(Kala\)](https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:29 |
 | 41 | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp) | [G.O.E](https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M) | 2:50 |
-| 42 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
+| 42 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 |
 | 43 | [Jogo \(feat\. Boss6man\) \- speed up](https://open.spotify.com/track/1wSlKkVlDVVmH55siiWl1q) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(feat\. Boss6man\) \[speed up\]](https://open.spotify.com/album/1GXjJ8RVyVabZpRPyQJkjy) | 2:19 |
 | 44 | [Missing You](https://open.spotify.com/track/1KxYfIiCW0YlquoWzKxiLR) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Brap Music](https://open.spotify.com/album/2lSAYhfgL4uzYGkna46tmy) | 2:21 |
 | 45 | [TOMIWA](https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [TOMIWA](https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx) | 3:04 |
-| 46 | [Basic](https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 4:38 |
 
-Snapshot ID: `aNcpAAAAAABCbbB1BPogXVRtzGVb1nfN`
+Snapshot ID: `aNh6gAAAAAACe44w26ItQVa0VTtm7wgR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,414 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,419 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 31 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 32 | [I Get Out \- Live](https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:17 |
 | 33 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
-| 34 | [Find Me](https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 4:17 |
+| 34 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
 | 35 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
 | 36 | [Smoking Gun](https://open.spotify.com/track/1AzJdVsBVczV2ou3Ds9pDr) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Last Kiss](https://open.spotify.com/album/5iTDN1BwQ6JdiHD9onpfg0) | 3:42 |
 | 37 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
 | 38 | [What You Gave Me](https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Easy](https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ) | 2:47 |
-| 39 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
+| 39 | [Find Me](https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 4:17 |
 | 40 | [Make Me Whole](https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Infinite Possibilities](https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL) | 4:30 |
 | 41 | [No Woman No Cry \(Instrumental Version\)](https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s) | [United Guitar Players](https://open.spotify.com/artist/0s7lr7BVm37JcjR9zNHRDx) | [Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend](https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN) | 8:02 |
 | 42 | [Selah](https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Divine Secrets Of The Ya\-Ya Sisterhood \- Music From The Motion Picture](https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ) | 5:54 |

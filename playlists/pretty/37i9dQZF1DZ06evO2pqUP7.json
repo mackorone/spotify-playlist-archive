@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69489,
+  "num_followers": 69491,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAHjJnup6MQPZUq09EyMr/f",
+  "snapshot_id": "aNh6gAAAAAAt+Gpu+25EVn0e9A41XQBT",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relaciones",
-        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Relaciones",
-      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie (feat. Sech & Sharo Towers) [Remix]",
         "url": "https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relaciones",
+        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Relaciones",
+      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -808,37 +808,13 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMIGA CON BENEFICIOS",
-        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
-      },
-      "artists": [
-        {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "AMIGA CON BENEFICIOS",
-      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+      "duration_ms": 229955,
+      "name": "Mi Favorita",
+      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
     },
     {
       "added_at": null,
@@ -883,6 +859,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMIGA CON BENEFICIOS",
+        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+      },
+      "artists": [
+        {
+          "name": "LOS DUROS SON ELLOS",
+          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "AMIGA CON BENEFICIOS",
+      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Toque Mi Naik",
         "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
       },
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 229955,
-      "name": "Mi Favorita",
-      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
     },
     {
       "added_at": null,

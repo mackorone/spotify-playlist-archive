@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! It’s Virji isn’t it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,478 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,410 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 73 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
 | 74 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 |
 | 75 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 |
-| 76 | [IYKYK](https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [IYKYK](https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9) | 3:56 |
-| 77 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
-| 78 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
+| 76 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
+| 77 | [IYKYK](https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [IYKYK](https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9) | 3:56 |
+| 78 | [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 |
 | 79 | [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Shine, Glow, Glisten](https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h) | 3:10 |
-| 80 | [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 |
+| 80 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
 | 81 | [Wastin' My Time](https://open.spotify.com/track/0JZFXrxFp0YNn6iPR2LF08) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9) | [Wastin' My Time](https://open.spotify.com/album/3I6WoVWiu9HWjJEkVMwT55) | 3:08 |
 | 82 | [dollaz n dollaz](https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [dollaz n dollaz](https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq) | 2:24 |
 | 83 | [Open Season](https://open.spotify.com/track/0ftvcxmgmafkBWUxvPpRDb) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Fade Black](https://open.spotify.com/artist/6lczpQaXIogAbhZfhVOiEe), [Bastion](https://open.spotify.com/artist/52tJU1YfTeD1uCQjq8yooZ) | [Open Season](https://open.spotify.com/album/6FmD0ohMKxaDUsnnQYnZKe) | 2:51 |

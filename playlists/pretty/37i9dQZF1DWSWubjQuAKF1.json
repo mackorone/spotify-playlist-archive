@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Mi\u0142osz Skierski",
-  "num_followers": 24125,
+  "num_followers": 24124,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2025-09-23 22:00:13",
       "album": {
+        "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
+        "url": "https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
+      "url": "https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo"
+    },
+    {
+      "added_at": "2025-09-23 22:00:13",
+      "album": {
         "name": "Baw Si\u0119 Dobrze",
         "url": "https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 143236,
       "name": "Baw Si\u0119 Dobrze",
       "url": "https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ"
-    },
-    {
-      "added_at": "2025-09-23 22:00:13",
-      "album": {
-        "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
-        "url": "https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
-      "url": "https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo"
     },
     {
       "added_at": "2025-09-23 22:00:13",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-09-23 22:00:13",
       "album": {
-        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 196705,
-      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
-    },
-    {
-      "added_at": "2025-09-23 22:00:13",
-      "album": {
         "name": "Dla Turyst\u00f3w",
         "url": "https://open.spotify.com/album/0aFnmKbMvJxPEtC9H2yUb0"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2025-09-23 22:00:13",
       "album": {
-        "name": "Wiem co z nami b\u0119dzie",
-        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
       },
       "artists": [
         {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
         }
       ],
-      "duration_ms": 200268,
-      "name": "Wiem co z nami b\u0119dzie",
-      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
+      "duration_ms": 196705,
+      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
     },
     {
       "added_at": "2025-09-23 22:00:13",
@@ -595,6 +579,22 @@
       "duration_ms": 232409,
       "name": "Ciarki",
       "url": "https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk"
+    },
+    {
+      "added_at": "2025-09-23 22:00:13",
+      "album": {
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
     },
     {
       "added_at": "2025-09-23 22:00:13",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-09-23 22:00:13",
       "album": {
-        "name": "Berek",
-        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
-      },
-      "artists": [
-        {
-          "name": "Odet",
-          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Berek",
-      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
-    },
-    {
-      "added_at": "2025-09-23 22:00:13",
-      "album": {
         "name": "mam dosy\u0107 striptiz club\u00f3w",
         "url": "https://open.spotify.com/album/29WqQEVn3lINejm16UYxUx"
       },
@@ -715,18 +695,22 @@
     {
       "added_at": "2025-09-23 22:00:13",
       "album": {
-        "name": "Bez siebie",
-        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+        "name": "Berek",
+        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
       },
       "artists": [
         {
-          "name": "Ola Olszewska",
-          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
         }
       ],
-      "duration_ms": 178741,
-      "name": "Bez siebie",
-      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
+      "duration_ms": 216773,
+      "name": "Berek",
+      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
     },
     {
       "added_at": "2025-09-23 22:00:13",
@@ -747,6 +731,22 @@
       "duration_ms": 179656,
       "name": "UV",
       "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
+    },
+    {
+      "added_at": "2025-09-23 22:00:13",
+      "album": {
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+      },
+      "artists": [
+        {
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "added_at": "2025-09-23 22:00:13",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-09-23 22:00:13",
       "album": {
+        "name": "3 miesi\u0105ce",
+        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "3 miesi\u0105ce",
+      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
+    },
+    {
+      "added_at": "2025-09-23 22:00:13",
+      "album": {
         "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
         "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 206300,
       "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
       "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
-    },
-    {
-      "added_at": "2025-09-23 22:00:13",
-      "album": {
-        "name": "3 miesi\u0105ce",
-        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "3 miesi\u0105ce",
-      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
     },
     {
       "added_at": "2025-09-23 22:00:13",

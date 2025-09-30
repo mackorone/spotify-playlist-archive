@@ -4,7 +4,7 @@
 
 > 
 
-7,748 songs - 20 day 0 hr 11 min
+7,750 songs - 20 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3670,8 +3670,10 @@
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2025-02-13 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-12-12 |  |
 | [LUV](https://open.spotify.com/track/16Ah4QqH4mgYVXqfC4mdSd) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:48 | 2025-01-15 |  |
+| [Luv \(sic\)](https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:46 | 2025-09-29 |  |
 | [Luv \(Sic\)](https://open.spotify.com/track/6TxDFfXqraQlaCS2DNfy5w) | [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [FIRST COLLECTION](https://open.spotify.com/album/6PcNWnUdQfzVeQiZjSkgUh) | 4:48 | 2025-01-15 |  |
 | [Luv \(sic\) pt2](https://open.spotify.com/track/6gSalwEvVQfSFiqgwfyITp) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:33 | 2025-08-04 |  |
+| [Luv \(sic\) pt4 \(feat\. Shing02\)](https://open.spotify.com/track/6norVbAE14clVMEyDuRw1m) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 5:10 | 2025-09-29 |  |
 | [LUV U \(feat\. Snoop Dogg & Alex Isley\)](https://open.spotify.com/track/2o39xu5iPPwLutKnKW3Nzp) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Dinner Party: Dessert](https://open.spotify.com/album/6qqa1vvE1Q3qj2k8Gc3iEY) | 3:18 | 2025-01-15 |  |
 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 | 2025-01-04 |  |
 | [LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:40 | 2024-12-05 |  |

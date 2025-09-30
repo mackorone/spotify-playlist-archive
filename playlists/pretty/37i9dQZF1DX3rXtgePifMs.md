@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,389 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,377 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 77 | [The World's Biggest Paving Slab](https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [The World’s Biggest Paving Slab](https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6) | 3:05 |
 | 78 | [i've got a bf \(best friend\)](https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [i've got a bf \(best friend\)](https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec) | 2:28 |
 | 79 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
-| 80 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 |
-| 81 | [Waiting To Go](https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Waiting To Go](https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP) | 2:30 |
+| 80 | [Waiting To Go](https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Waiting To Go](https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP) | 2:30 |
+| 81 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 |
 | 82 | [Relentless](https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Relentless](https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp) | 2:58 |
 | 83 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
 | 84 | [Better Than I?](https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG) | [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Better Than I?](https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5) | 2:25 |

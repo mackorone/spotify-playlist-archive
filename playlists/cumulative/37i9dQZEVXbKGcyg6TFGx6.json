@@ -880,6 +880,28 @@
     {
       "album": {
         "name": "4AM IN IBIZA",
+        "url": "https://open.spotify.com/album/7w0vgK94rNjzPB80LgAdPz"
+      },
+      "artists": [
+        {
+          "name": "Mark Vank",
+          "url": "https://open.spotify.com/artist/43kbgy3mjbFkA5ndaFzekf"
+        },
+        {
+          "name": "Samu",
+          "url": "https://open.spotify.com/artist/18h6AOAQUSrWGxC6uB71Ji"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220004,
+      "name": "4AM IN IBIZA",
+      "url": "https://open.spotify.com/track/0RAiNFjiSU0EfJXooHq5nq"
+    },
+    {
+      "album": {
+        "name": "4AM IN IBIZA",
         "url": "https://open.spotify.com/album/5FxiBOrZbYDCik9EnQpNL5"
       },
       "artists": [
@@ -894,7 +916,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
@@ -3528,7 +3550,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
@@ -3546,7 +3568,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -17462,7 +17484,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -19580,7 +19602,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -26542,7 +26564,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 158267,
       "name": "Jackpot Pt 2",
       "url": "https://open.spotify.com/track/1MVFcwrN42Mw1q0iMq2EZ3"
@@ -32836,7 +32858,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 156676,
       "name": "Melrose Place",
       "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
@@ -35488,7 +35510,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/2ipIPsgrgd0j2beDf4Ki70"
@@ -41548,7 +41570,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 160625,
       "name": "P\u00f4r do Sol",
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
@@ -43985,7 +44007,7 @@
     },
     {
       "album": {
-        "name": "Sale \u00e9tat",
+        "name": "SALE \u00c9TAT",
         "url": "https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV"
       },
       "artists": [
@@ -44000,9 +44022,9 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 202204,
-      "name": "Sale \u00e9tat",
+      "name": "SALE \u00c9TAT",
       "url": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
     },
     {
@@ -44388,7 +44410,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/7HXUFIILHAhS6esiRy5Ibz"
@@ -46162,6 +46184,24 @@
       "duration_ms": 237780,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/4Drzrgp2Dj0QjhjNMSx39h"
+    },
+    {
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/71UwZcPN4yiDLxilnvVnKI"
+      },
+      "artists": [
+        {
+          "name": "Souyeng\u00e9",
+          "url": "https://open.spotify.com/artist/2eYegxkPgRvv9jBA9HJS9K"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149347,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/2uClKgOhC5aD48ZwBZRjDO"
     },
     {
       "album": {
@@ -50032,7 +50072,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -51170,7 +51210,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
@@ -54994,7 +55034,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -55201,7 +55241,7 @@
     },
     {
       "album": {
-        "name": "Encore / Viano",
+        "name": "ENCORE / VIANO",
         "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
       },
       "artists": [
@@ -55218,7 +55258,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 111764,
-      "name": "Viano",
+      "name": "VIANO",
       "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
     },
     {

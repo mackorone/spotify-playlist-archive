@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who, Macanache
 
-195 songs - 9 hr 33 min
+196 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 | 2024-06-27 | 2025-02-05 |
 | [MERGE BANDA](https://open.spotify.com/track/3DD989ES4EMpJG0VqSHi2K) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BIPOLAR](https://open.spotify.com/album/7lbbq1I52g04xbldIDxpvn) | 2:42 | 2025-03-06 | 2025-04-11 |
 | [Merit mai mult](https://open.spotify.com/track/6er5fC7StXq4wJa8QwKYxB) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [ELARI](https://open.spotify.com/artist/5YxFxREvsZEDVxBen9pdHp) | [Merit mai mult](https://open.spotify.com/album/50tjRI9lDL4U5GDKO7hRkS) | 2:29 | 2024-06-27 | 2024-07-27 |
+| [Moldova și Bucovina](https://open.spotify.com/track/0VbHmj9I3Tweest7BWSOT2) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Moldova și Bucovina](https://open.spotify.com/album/0kaoHTY5ou0c1ik4d5l6bx) | 2:35 | 2025-09-25 |  |
 | [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 | 2025-04-10 |  |
 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 | 2025-07-31 |  |
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-10-31 | 2025-04-05 |
@@ -175,7 +176,7 @@
 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 | 2024-08-22 | 2024-12-06 |
 | [Televiziune](https://open.spotify.com/track/3rhi5byLosubYqOcDbPxBF) | [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Televiziune](https://open.spotify.com/album/0h25T0HlftyXE2VYDZM6C8) | 2:49 | 2024-12-05 | 2025-01-10 |
 | [Tiramissyou](https://open.spotify.com/track/0cZMXKpB9diA7STbOFZdpC) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Jeasmine](https://open.spotify.com/artist/4z24jecfJLaCrADePIHqOP) | [Tiramissyou](https://open.spotify.com/album/1xGPA4sKgJj2TTEofLUdeb) | 2:20 | 2025-04-24 | 2025-06-20 |
-| [TOATE STELELE](https://open.spotify.com/track/4SJMMS8ufyod5fn7nCpLuA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TOATE STELELE](https://open.spotify.com/album/4xKOxc0mP4HHPDPXQ2VXvE) | 2:31 | 2025-08-21 |  |
+| [TOATE STELELE](https://open.spotify.com/track/4SJMMS8ufyod5fn7nCpLuA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TOATE STELELE](https://open.spotify.com/album/4xKOxc0mP4HHPDPXQ2VXvE) | 2:31 | 2025-08-21 | 2025-09-30 |
 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 | 2024-06-27 | 2025-04-01 |
 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 | 2024-10-17 | 2024-12-06 |
 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 | 2025-03-14 |  |

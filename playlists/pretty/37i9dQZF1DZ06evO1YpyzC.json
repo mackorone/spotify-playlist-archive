@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 265617,
+  "num_followers": 265628,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADEwL+w+ssToE5oFq72TqfB",
+  "snapshot_id": "aNh6gAAAAACA37Cb38GagAAL7sb/P0Oh",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Like That (feat. Swae Lee & Khalid)",
         "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Start a Fire",
-      "url": "https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mixtape Vol. 1 - EP",
         "url": "https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205746,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Start a Fire",
+      "url": "https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu"
     },
     {
       "added_at": null,

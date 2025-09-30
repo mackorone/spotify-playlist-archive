@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 779173,
+  "num_followers": 779350,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Not Your Barbie Girl",
         "url": "https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF"
       },
@@ -1071,22 +1091,6 @@
       "duration_ms": 186520,
       "name": "Not Your Barbie Girl",
       "url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1151,6 +1155,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Slut Pop",
         "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 124285,
       "name": "XXX",
       "url": "https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Ice Cream (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1225,20 +1225,20 @@
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
     },
     {
-      "added_at": "2025-07-18 04:00:19",
+      "added_at": "2025-01-10 05:00:11",
       "album": {
-        "name": "THIS IS FOR (DELUXE)",
-        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
+        "name": "SUPERSCAR",
+        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 131097,
-      "name": "THIS IS FOR",
-      "url": "https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP"
+      "duration_ms": 194040,
+      "name": "SUPERSCAR",
+      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
     },
     {
       "added_at": "2025-04-04 04:00:30",
@@ -1257,20 +1257,20 @@
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
     },
     {
-      "added_at": "2024-08-03 15:31:45",
+      "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+        "name": "THIS IS FOR (DELUXE)",
+        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
       },
       "artists": [
         {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 242160,
-      "name": "What Dreams Are Made Of",
-      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1289,20 +1289,20 @@
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
     },
     {
-      "added_at": "2025-01-10 05:00:11",
+      "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "SUPERSCAR",
-        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
         }
       ],
-      "duration_ms": 194040,
-      "name": "SUPERSCAR",
-      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     }
   ],
   "unique_name": "Hot Pink",

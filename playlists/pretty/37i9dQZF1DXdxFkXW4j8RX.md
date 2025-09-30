@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Ceaese
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,383 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,382 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Lejos](https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Cool Maze](https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx) | [Bushido: Kenjutsu](https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd) | 3:48 |
 | 100 | [Cazuela \(Ft\. La Akademia\)](https://open.spotify.com/track/3gDDyOec0FSyhkUvakpxdq) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [A.R.B.](https://open.spotify.com/artist/4b8g9th4t6AC2F61rVRTr3), [Dous & Bicers](https://open.spotify.com/artist/0iBI92auwHPhNRwoLAmt8v) | [Cazuela \(Ft\. La Akademia\)](https://open.spotify.com/album/4aCqMTLLt299kjfLLb2S0b) | 4:30 |
 
-Snapshot ID: `AAAAAMBy7tmhOwukTZO/8+zjek+i1hdR`
+Snapshot ID: `AAAAAFTZPU2NsDvJDzeJ1Q/2EMHRtxGi`

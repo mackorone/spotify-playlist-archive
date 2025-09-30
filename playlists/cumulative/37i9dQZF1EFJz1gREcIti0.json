@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68"
+    },
+    {
+      "album": {
         "name": "Live From Mother Earth",
         "url": "https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g"
       },

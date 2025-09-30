@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "10 Shots",
+        "url": "https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233198,
+      "name": "10 Shots",
+      "url": "https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ"
+    },
+    {
+      "album": {
         "name": "16 CARRIAGES",
         "url": "https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN"
       },
@@ -2246,24 +2264,6 @@
       "duration_ms": 196637,
       "name": "Devil's Wine feat. Joe Newton",
       "url": "https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA"
-    },
-    {
-      "album": {
-        "name": "Diary Of An Alcoholic (10 Shots)",
-        "url": "https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "date_added": "2025-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233198,
-      "name": "Diary Of An Alcoholic (10 Shots)",
-      "url": "https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ"
     },
     {
       "album": {

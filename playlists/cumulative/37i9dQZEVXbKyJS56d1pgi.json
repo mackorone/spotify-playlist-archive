@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 158114,
       "name": "1 de Abril",
       "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -8558,7 +8558,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -10785,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
         "name": "Do Tamanho do Nosso Amor",
         "url": "https://open.spotify.com/album/6dLip1k4dsDn2xdoi1T077"
       },
@@ -10796,7 +10814,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 279293,
       "name": "Evid\u00eancias",
       "url": "https://open.spotify.com/track/1X95pCQG939KCbJL6yVQgw"
@@ -12322,7 +12340,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -14552,7 +14570,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -18556,7 +18574,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 211860,
       "name": "Luxemburgo",
       "url": "https://open.spotify.com/track/1yjYtmNf1DpfQMjBpVy5rg"
@@ -20674,7 +20692,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 188839,
       "name": "Montanha",
       "url": "https://open.spotify.com/track/71Aj0joTSW4wv8olaHNBvK"
@@ -21674,7 +21692,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "M\u00e3e Solteira",
       "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
@@ -26732,7 +26750,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 254039,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq"
@@ -31198,7 +31216,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 258222,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5kr0kja5gbZAaT7w3TGKts"
@@ -31234,7 +31252,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 258223,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
@@ -35188,7 +35206,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

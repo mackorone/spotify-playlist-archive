@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAC65oUSR0zwWn/tJAhfkW3L",
+  "snapshot_id": "aNh6gAAAAABjlVTHkRdhlfs2ftAFhHlt",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 149438,
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kinda Famous",
         "url": "https://open.spotify.com/album/0V2FmNlHJtmiCvZmsQltYF"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 142745,
       "name": "I Got Questions",
       "url": "https://open.spotify.com/track/4kqfFU1iQaJZxNxiN6Dz5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Just A Girl",
-        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
-      },
-      "artists": [
-        {
-          "name": "Lil Kayla",
-          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 168148,
-      "name": "This",
-      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Had",
         "url": "https://open.spotify.com/album/6Jgitf1VZ72NiolDFPlvX7"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 203960,
       "name": "Netreba",
       "url": "https://open.spotify.com/track/0xIobPrJrJ9GyoCGZqs0uC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Just A Girl",
+        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 168148,
+      "name": "This",
+      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "Let It Ring",
+      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -755,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 155761,
-      "name": "Let It Ring",
-      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 218205,
       "name": "UonU (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 106285,
       "name": "Big Body",
       "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ouuhh!!",
         "url": "https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 197066,
       "name": "Ouuhh!!",
       "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,

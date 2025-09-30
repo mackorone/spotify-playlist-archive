@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Darling Blue",
+        "url": "https://open.spotify.com/album/14gWu1NRr0J0M1evRdF83C"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212184,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/08cprYdLXKfZSbtgAJtUhP"
+    },
+    {
+      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
@@ -1526,7 +1548,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 239346,
       "name": "Dirt Cheap",
       "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"

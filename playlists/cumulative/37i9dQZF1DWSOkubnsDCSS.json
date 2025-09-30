@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "701",
+        "url": "https://open.spotify.com/album/54Wuy26Fauh5Gkyc0mKKLL"
+      },
+      "artists": [
+        {
+          "name": "BlazeYL",
+          "url": "https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "701",
+      "url": "https://open.spotify.com/track/4Y1r0EGM37EvJGJG7EwTol"
+    },
+    {
+      "album": {
         "name": "LOVE MONEY DRUGS",
         "url": "https://open.spotify.com/album/1r4OADVGaeqaCuj0adJrmo"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 173095,
       "name": "Big Shaq",
       "url": "https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb"
@@ -2802,6 +2820,60 @@
       "duration_ms": 174324,
       "name": "Grime Scene Saviours (feat. D Double E, Frisco, Flirta D, Skepta, Bruza, JME, Jendor, Novelist, Jamakabi & Flowdan)",
       "url": "https://open.spotify.com/track/3isrebcnXNgEXGyV2nXiuG"
+    },
+    {
+      "album": {
+        "name": "Grime Scene Saviours (Reloaded)",
+        "url": "https://open.spotify.com/album/49y80F2ftWEb6QJhi9HgkW"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Specs",
+          "url": "https://open.spotify.com/artist/4ATVuA6SNHgSsg3Yc7PsNK"
+        },
+        {
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Grime Scene Saviours (Reloaded)",
+      "url": "https://open.spotify.com/track/6ZuTAnHA1jU8wxK2y52fs6"
     },
     {
       "album": {
@@ -5008,7 +5080,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 186000,
       "name": "R.I.O.T.",
       "url": "https://open.spotify.com/track/12tPULrVovU3H4eO5wHAhz"
@@ -5829,6 +5901,24 @@
     },
     {
       "album": {
+        "name": "step on the train",
+        "url": "https://open.spotify.com/album/5s6qNhNVgVtwbPYMv2NAKw"
+      },
+      "artists": [
+        {
+          "name": "Pozzy",
+          "url": "https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "step on the train",
+      "url": "https://open.spotify.com/track/3KW3wD9FYgJtd1YPupES2l"
+    },
+    {
+      "album": {
         "name": "Being Poor is Expensive",
         "url": "https://open.spotify.com/album/0jENGMvmnPYqxQ4M6qE022"
       },
@@ -6418,7 +6508,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 168000,
       "name": "Tough Times",
       "url": "https://open.spotify.com/track/0NkEkI7f2ZeMbRbf56NGgm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,752 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,808 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 52 | [Something](https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things](https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h) | 3:40 |
 | 53 | [For An Angel \- Radio Edit](https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:51 |
 | 54 | [Komodo](https://open.spotify.com/track/0KeUidAZVdvTbM553K7809) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [90s Super Hits](https://open.spotify.com/album/1aT4pCssUqFdte15MlK1nX) | 3:24 |
-| 55 | [On The Move \- Radio Edit](https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On the Move](https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT) | 3:36 |
-| 56 | [Café Del Mar \- Three 'N One Remix](https://open.spotify.com/track/2806zlG6vxrILY5HCiIhRK) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [A State Of Trance 650 \(Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia\)](https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn) | 3:50 |
+| 55 | [Café Del Mar \- Three 'N One Remix](https://open.spotify.com/track/2806zlG6vxrILY5HCiIhRK) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [A State Of Trance 650 \(Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia\)](https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn) | 3:50 |
+| 56 | [On The Move \- Radio Edit](https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On the Move](https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT) | 3:36 |
 | 57 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 | 58 | [Better Off Alone](https://open.spotify.com/track/6eDEHsdHPNwmV3JpeftN5f) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/6dykJlw4E4k9XhIYB3HGPE) | 3:35 |
 | 59 | [Free](https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:10 |
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 68 | [Cream \- Radio Edit](https://open.spotify.com/track/5BkCd2617ac7yWP5WGCiO7) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Cream \(All Mixes\)](https://open.spotify.com/album/5MEGBwEwILYEroHl0tMMRK) | 3:18 |
 | 69 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
 | 70 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
-| 71 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
-| 72 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
-| 73 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
-| 74 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
-| 75 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-Trance Essentials, Pt\. 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 |
+| 71 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-Trance Essentials, Pt\. 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 |
+| 72 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
+| 73 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
+| 74 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
+| 75 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 76 | [Seven Days And One Week \(Radio Edit\)](https://open.spotify.com/track/1VgynfAg0hHDxmH2d9cUlt) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Games](https://open.spotify.com/album/4tx2jtvzEaqjpIPjdDVOLc) | 4:29 |
 | 77 | [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 |
 | 78 | [4 Elements](https://open.spotify.com/track/0mObS8dydpv9z6xcrizbHV) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:02 |

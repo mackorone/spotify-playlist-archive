@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,787 likes - 303 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 303 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 174 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/1KQ52QetE9tJ1ZABpt8hoo) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/6YkvB4DYktZrdQsawd0BXp) | 3:51 |
 | 175 | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/track/0fibRNI7ojk6j4lIC6a8Di) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/album/3VWLlbopoEU6pG4j8V4eZu) | 3:29 |
 | 176 | [Mayo](https://open.spotify.com/track/3WUYer0Wzy9MW33iilLcHb) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:47 |
-| 177 | [Wall To Wall](https://open.spotify.com/track/6IgFFnT7ikUWvFSjzxNf0S) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:42 |
-| 178 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 177 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 178 | [Wall To Wall](https://open.spotify.com/track/6IgFFnT7ikUWvFSjzxNf0S) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:42 |
 | 179 | [Poppin Out \(feat\. BIG30\)](https://open.spotify.com/track/7CI5KZUJwnGjv3cL5uygTr) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:42 |
 | 180 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
 | 181 | [On You](https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 1:59 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 195 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
 | 196 | [Let's Build \(feat\. Quavo\)](https://open.spotify.com/track/5lJHPJC0YUCpngW38H9T78) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:31 |
 | 197 | [Seattle](https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:33 |
-| 198 | [Ways](https://open.spotify.com/track/5hEbP4TGH21HeaN42fR8zH) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:54 |
-| 199 | [Novacane](https://open.spotify.com/track/3rditla7Kb4Sg9cibEdEdb) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/45gMPSPhEibGhKpN4FDNbM) | 2:54 |
+| 198 | [Novacane](https://open.spotify.com/track/3rditla7Kb4Sg9cibEdEdb) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/45gMPSPhEibGhKpN4FDNbM) | 2:54 |
+| 199 | [Ways](https://open.spotify.com/track/5hEbP4TGH21HeaN42fR8zH) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:54 |
 | 200 | [A Feeling](https://open.spotify.com/track/2HGSTRcTOUQns1oyyyfMwr) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:47 |
 | 201 | [One on One \(feat\. YFN Lucci & Meek Mill\)](https://open.spotify.com/track/4z4aIN7Pmo3rpumYH0krXf) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 3:50 |
 | 202 | [Solteiras Shake](https://open.spotify.com/track/7dRLn6Fgj25i2jCb0YGhaK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:07 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 302 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 303 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ab9d5gAAAAAmqcLjrEjSkSAoQRV0yH0C`
+Snapshot ID: `Ab9jcgAAAACUDI5+F62Y5ib0KNYu4/HX`

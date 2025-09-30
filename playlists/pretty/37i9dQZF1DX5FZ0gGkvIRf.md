@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editors' picks for best metal and hard rock songs of the year\.  Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,826 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,831 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 71 | [Rays of Light](https://open.spotify.com/track/2DXX1Lc4GZzpT24UtdKvdE) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Distortion](https://open.spotify.com/album/33UKM7bqokrSxxX14MO9Jp) | 3:38 |
 | 72 | [Are You Ready Now?](https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Heaven Can Wait](https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD) | 3:35 |
 | 73 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 |
-| 74 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 |
+| 74 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:05 |
 | 75 | [Blue Skies](https://open.spotify.com/track/7bsWeMsVacIVzNLeiJSDBV) | [Fixation](https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI) | [Speak in Tongues](https://open.spotify.com/album/7kBvEAyU78SCJvNMCFTh3B) | 4:23 |
 
 Snapshot ID: `AAAAAGp+L7WDdkY2t17Pdrh/wIPdi8Zu`

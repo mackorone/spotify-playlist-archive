@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,164 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,163 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 38 | [The Blood Will Never Lose Its Power](https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [My Very OWN Easter \- EP](https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB) | 7:47 |
 | 39 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 40 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
-| 41 | [At The Cross](https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:59 |
-| 42 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
+| 41 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
+| 42 | [At The Cross](https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:59 |
 | 43 | [Because He Lives](https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy) | [Rev\. Cleophus Robinson](https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62) | [I Shall Know Him](https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ) | 5:14 |
 | 44 | [Blood Medley \(Part 3\) \- I Know It Was The Blood](https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 5:41 |
 | 45 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 56 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
 | 57 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
 | 58 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
-| 59 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
-| 60 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
+| 59 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
+| 60 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
 | 61 | [You Did It All \(with Vision\)](https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Healing \- Live In Detroit \(with Vision\)](https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A) | 5:57 |
 | 62 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Risen Powerful Gospel Resurrection Songs](https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg) | 6:57 |
 | 63 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |

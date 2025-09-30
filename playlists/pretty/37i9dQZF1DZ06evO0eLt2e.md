@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,119 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,117 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 45 | [Jody and the Kid](https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:05 |
 | 46 | [To Beat The Devil](https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:42 |
 | 47 | [Closer to the Bone](https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:32 |
-| 48 | [Loving You Was Easier](https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Natural Act](https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc) | 4:09 |
-| 49 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
-| 50 | [Who's to Bless and Who's to Blame](https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 3:29 |
+| 48 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
+| 49 | [Loving You Was Easier](https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Natural Act](https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc) | 4:09 |
+| 50 | [From Here To The Moon and Back](https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jeremy Jordan](https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR) | [Joyful Noise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9) | 4:24 |
 
-Snapshot ID: `aNcpAAAAAABLjvrsCFB1YkdBtoMqDsL3`
+Snapshot ID: `aNh6gAAAAABx86lgvbwgTqo0WwTZzfdP`

@@ -1,6 +1,6 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 118205,
+  "num_followers": 118211,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
         "name": "READY TO EAT",
         "url": "https://open.spotify.com/album/75irRZ0tbSbDQS4IkCBKHy"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6tiyQ2Bdy5IO3YDidg2ajt"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2023-11-29 12:29:47",

@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Fire and Ice",
+        "url": "https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140094,
+      "name": "Fire and Ice",
+      "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
+    },
+    {
+      "album": {
         "name": "Bury Me At Makeout Creek",
         "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
@@ -6034,7 +6052,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 238913,
       "name": "No One",
       "url": "https://open.spotify.com/track/1N1Phz8aYhJFGTFlHOX3Db"

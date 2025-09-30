@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaive scores a golazo ⚽⚽⚽⚽⚽⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,914 likes - 200 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,017 likes - 200 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

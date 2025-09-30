@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 159384,
+  "num_followers": 159392,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Everything Now",
         "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 353240,
       "name": "Put Your Money on Me",
       "url": "https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
     },
     {
       "added_at": "2024-03-18 13:08:31",

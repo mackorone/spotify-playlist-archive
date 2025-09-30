@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Hazlett",
-  "num_followers": 131425,
+  "num_followers": 131429,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -199,6 +215,54 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "SHE DON'T NEED TO KNOW",
+        "url": "https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "SHE DON'T NEED TO KNOW",
+      "url": "https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "Small Change",
         "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
@@ -235,38 +299,6 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
         "name": "REMIND ME",
         "url": "https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu"
       },
@@ -279,22 +311,6 @@
       "duration_ms": 214761,
       "name": "REMIND ME",
       "url": "https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "SHE DON'T NEED TO KNOW",
-        "url": "https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "SHE DON'T NEED TO KNOW",
-      "url": "https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -315,70 +331,6 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "FACEDOWN",
-        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "FACEDOWN",
-      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
         "name": "Divine Feelings",
         "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
       },
@@ -395,18 +347,18 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "car",
-        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 197396,
-      "name": "car",
-      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -427,6 +379,22 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "car",
+        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 197396,
+      "name": "car",
+      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "Love Balloon",
         "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 240906,
       "name": "Love Balloon",
       "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -459,6 +443,38 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "Summerinlove",
         "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
       },
@@ -487,22 +519,6 @@
       "duration_ms": 189780,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -527,38 +543,6 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "moody",
-        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "moody",
-      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -607,38 +607,6 @@
       "duration_ms": 177777,
       "name": "HOT GIRL PROBLEMS",
       "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 200414,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -679,6 +647,38 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 200414,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 178303,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 290802,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -735,6 +719,38 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "ALL I WANT IS YOU",
+        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 135570,
+      "name": "ALL I WANT IS YOU",
+      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 290802,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
         "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
       },
@@ -759,6 +775,22 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "Safeandsound",
+        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 277617,
+      "name": "Safeandsound",
+      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -779,38 +811,6 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "ALL I WANT IS YOU",
-        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 135570,
-      "name": "ALL I WANT IS YOU",
-      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Safeandsound",
-        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 277617,
-      "name": "Safeandsound",
-      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
         "name": "CRUISING TO SELF SOOTHE",
         "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 251880,
-      "name": "Drenched",
-      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -891,6 +875,22 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
         "name": "The Epilogue (Deluxe)",
         "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "I Can Die Now",
-        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "I Can Die Now",
-      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
         "name": "Dream Ride",
         "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 213236,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -1035,18 +1035,34 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "mountain of a memory",
-        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
+        "name": "GEEKD",
+        "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
         }
       ],
-      "duration_ms": 145134,
-      "name": "mountain of a memory",
-      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
+      "duration_ms": 131186,
+      "name": "GEEKD",
+      "url": "https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "Disco Cowgirl",
+        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 205156,
+      "name": "Disco Cowgirl",
+      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -1067,18 +1083,34 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "GEEKD",
-        "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
+        "name": "mountain of a memory",
+        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
       },
       "artists": [
         {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 131186,
-      "name": "GEEKD",
-      "url": "https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA"
+      "duration_ms": 145134,
+      "name": "mountain of a memory",
+      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
+    },
+    {
+      "added_at": "2025-09-25 14:01:11",
+      "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -1115,18 +1147,18 @@
     {
       "added_at": "2025-09-25 14:01:11",
       "album": {
-        "name": "Disco Cowgirl",
-        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 205156,
-      "name": "Disco Cowgirl",
-      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
+      "duration_ms": 328655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -1147,22 +1179,6 @@
       "duration_ms": 254296,
       "name": "Easy Goodbye",
       "url": "https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 328655,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
     },
     {
       "added_at": "2025-09-25 14:01:11",
@@ -1251,22 +1267,6 @@
       "duration_ms": 188712,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU"
-    },
-    {
-      "added_at": "2025-09-25 14:01:11",
-      "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     }
   ],
   "unique_name": "Turn Up Aus",

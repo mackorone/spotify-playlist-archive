@@ -4,7 +4,7 @@
 
 > Powitaj jesień błogimi dźwiękami 🍂
 
-662 songs - 1 day 13 hr 4 min
+663 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 | 2024-09-13 |
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-04-25 | 2025-09-27 |
 | [Beze mnie](https://open.spotify.com/track/3Et7ioYSx63lA5mzLqeo4R) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Beze mnie](https://open.spotify.com/album/6iJVtJ2PuA4uvk3YT5vjp7) | 2:41 | 2024-07-11 | 2024-08-21 |
-| [Bezruch](https://open.spotify.com/track/1wi803YpJn9jTkpUxawGN5) | [Hey](https://open.spotify.com/artist/3z5O1IzrnIQfWHAMuQEeZB) | [Bezruch](https://open.spotify.com/album/1yKRuE5bMRJliSr9pj0E2B) | 3:09 | 2025-09-15 |  |
+| [Bezruch](https://open.spotify.com/track/1wi803YpJn9jTkpUxawGN5) | [Hey](https://open.spotify.com/artist/3z5O1IzrnIQfWHAMuQEeZB) | [Bezruch](https://open.spotify.com/album/1yKRuE5bMRJliSr9pj0E2B) | 3:09 | 2025-09-15 | 2025-09-30 |
 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 | 2024-06-28 | 2024-07-19 |
 | [Biegnij ze mną](https://open.spotify.com/track/4gBemV0vYcmFsWS78S5Ozp) | [Cheap Tobacco](https://open.spotify.com/artist/15kkqvIcypRQGUiE17Shej), [hugo](https://open.spotify.com/artist/6CqTCNzbNNnLKJVFROmqty) | [Biegnij ze mną](https://open.spotify.com/album/6ljAjOLidOlNIBRgsfAax8) | 4:14 | 2025-09-15 | 2025-09-27 |
 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 | 2024-09-12 | 2024-11-22 |
@@ -638,6 +638,7 @@
 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 | 2024-11-21 | 2025-02-22 |
 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 | 2024-11-21 | 2024-12-20 |
 | [Wszystko się ułoży](https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wszystko się ułoży](https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5) | 2:04 | 2025-02-28 | 2025-03-09 |
+| [Wybaczam](https://open.spotify.com/track/6bMSIz6pZvSgikFeIRwp7V) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Światłocienie](https://open.spotify.com/album/5dSS0GeF843KrF4YFiaVNC) | 2:58 | 2025-09-26 |  |
 | [Wyjmij mnie](https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Wyjmij mnie](https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj) | 3:18 | 2025-09-19 | 2025-09-27 |
 | [Wynalazek Filipa Golarza](https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Wynalazek Filipa Golarza](https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz) | 3:48 | 2024-11-08 | 2025-03-01 |
 | [własnym](https://open.spotify.com/track/34A2BlBu3xL4Se6sBSANZC) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:33 | 2024-11-21 | 2024-12-01 |

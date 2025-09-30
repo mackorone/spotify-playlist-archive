@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19959,
+  "num_followers": 19960,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACg+UWlIg/716EDrGVXxoNF",
+  "snapshot_id": "aNh6gAAAAACsRhVBqfy9ZJ7n5NUjpi5q",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IPHONE",
-        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "IPHONE",
-      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Ruinas",
         "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 201061,
       "name": "Blow Me",
       "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IPHONE",
+        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "IPHONE",
+      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 152120,
       "name": "Butt Naked (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
     },
     {
       "added_at": null,

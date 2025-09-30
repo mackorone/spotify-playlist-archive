@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
-184 songs - 19 hr 21 min
+185 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2022-09-02 | 2023-04-29 |
 | [Autor da Vida](https://open.spotify.com/track/2iCrDCZRIiqXkoRY6eDviQ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Autor da Vida](https://open.spotify.com/album/4gHZbXybaO7k9sQducvAeN) | 4:55 | 2022-09-02 | 2023-06-03 |
 | [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 | 2025-05-02 |  |
-| [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 | 2024-08-30 |  |
+| [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 | 2024-08-30 | 2025-09-30 |
 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-02 |  |
 | [Buscar\-Me\-Eis e Me Achareis \- Ao Vivo](https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [Buscar\-Me\-Eis e Me Achareis \(Ao Vivo\)](https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8) | 8:39 | 2025-04-14 |  |
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-24 | 2024-07-19 |
@@ -170,6 +170,7 @@
 | [Tudo É Perda \- Ao Vivo](https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Tudo É Perda \(Ao Vivo\)](https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd) | 8:38 | 2025-05-23 |  |
 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 | 2022-09-02 | 2025-02-22 |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-02 | 2025-02-22 |
+| [Um Novo Dia](https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Get Global](https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM) | [Um Novo Dia](https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE) | 6:00 | 2025-09-29 |  |
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-02 | 2024-04-20 |
 | [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-07-19 |  |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-02 | 2023-09-26 |

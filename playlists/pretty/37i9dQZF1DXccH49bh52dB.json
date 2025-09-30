@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 704699,
+  "num_followers": 704998,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
-        "name": "No Bad Vibes",
-        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes",
-      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
         "name": "Tuesday (feat. Danelle Sandoval)",
         "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 165961,
       "name": "Stay",
       "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 209208,
-      "name": "Headlights (feat. Ilsey)",
-      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
         "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
         "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 195210,
       "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
       "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 209208,
+      "name": "Headlights (feat. Ilsey)",
+      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
-        "name": "The Last Dance, Pt 2",
-        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
         "name": "Settle (Deluxe Version)",
         "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 244174,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368773,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
         "name": "The Cruelest Summer",
         "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 192900,
       "name": "Cruel Summer - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
+        "name": "Swimming In The Dark",
+        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Swimming In The Dark",
+      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 228125,
       "name": "To Love Again",
       "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
-        "name": "Swimming In The Dark",
-        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Swimming In The Dark",
-      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
     },
     {
       "added_at": "2025-09-12 16:00:08",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2025-09-12 16:00:08",
       "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
-    },
-    {
-      "added_at": "2025-09-12 16:00:08",
-      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "added_at": "2025-09-12 16:00:08",
+      "album": {
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
     },
     {
       "added_at": "2025-09-12 16:00:08",

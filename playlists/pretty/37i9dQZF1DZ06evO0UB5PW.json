@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACSLbsKeXfjGPV1ley1OaMQ",
+  "snapshot_id": "aNh6gAAAAABT6Kwauy8OcCy4DsWO7QcA",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 209932,
-      "name": "Pushing the Tides",
-      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
+      "duration_ms": 377695,
+      "name": "Sickle and Peace",
+      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 377695,
-      "name": "Sickle and Peace",
-      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
+      "duration_ms": 209932,
+      "name": "Pushing the Tides",
+      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Black Tongue",
-      "url": "https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb"
+      "duration_ms": 317720,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 317720,
-      "name": "The Hunter",
-      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
+      "duration_ms": 207320,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb"
     }
   ],
   "unique_name": "This Is Mastodon",

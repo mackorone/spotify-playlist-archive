@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,222 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,326 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 |
 | 2 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 |
 | 3 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 |
-| 4 | [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
+| 4 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 5 | [TU ME RENDS BÊTE](https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [TU ME RENDS BÊTE](https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2) | 2:45 |
 | 6 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
 | 7 | [Mélina](https://open.spotify.com/track/7sUG8JnY4698lRGgkK4Q4F) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Pichichi / Piccolo](https://open.spotify.com/album/50tvHSBNbLLZdsZLbcsU4j) | 2:37 |

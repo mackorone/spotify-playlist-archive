@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Los Ángeles Azules, Luck Ra & Yami Safdie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,406 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,417 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

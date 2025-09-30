@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 422,
+  "num_followers": 423,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAMExaLgLI4tUOFQrpzWe8d",
+  "snapshot_id": "aNh6gAAAAAApbj7ycKiUIM/EUOiAjQvW",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Just Wanna Be Famous",
-        "url": "https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt"
+        "name": "Girls Just Wanna Be Famous(er)",
+        "url": "https://open.spotify.com/album/24AH43eX8jUg0IkwH581wy"
       },
       "artists": [
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        },
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        },
+        {
+          "name": "Molly Grace",
+          "url": "https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH"
         }
       ],
       "duration_ms": 161060,
-      "name": "Girls Just Wanna Be Famous",
-      "url": "https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE"
+      "name": "Girls Just Wanna Be Famous(er)",
+      "url": "https://open.spotify.com/track/55fJMUj8cAonidO8dI8fVp"
     },
     {
       "added_at": null,
@@ -239,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -259,22 +283,6 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
     },
     {
       "added_at": null,

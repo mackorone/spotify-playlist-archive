@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 82585,
+  "num_followers": 82613,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACyb8auphdBxES6Sh45d2ca",
+  "snapshot_id": "aNh6gAAAAADug1SjHBPLeIn2jVR3SMc9",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 193248,
-      "name": "Favorite Country Song",
-      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
     },
     {
       "added_at": null,
@@ -135,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bottomland",
-        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 184942,
-      "name": "Bottomland",
-      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
     },
     {
       "added_at": null,
@@ -695,6 +695,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217270,
+      "name": "Take The Country And Run",
+      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roads That Go Nowhere",
+        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 218860,
+      "name": "Southern Rock",
+      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -723,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roads That Go Nowhere",
-        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
-      },
-      "artists": [
-        {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 218860,
-      "name": "Southern Rock",
-      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 184818,
       "name": "Car That Drove You Away",
       "url": "https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 204910,
+      "name": "Country In Me",
+      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
     },
     {
       "added_at": null,
@@ -820,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 217270,
-      "name": "Take The Country And Run",
-      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
+      "duration_ms": 172672,
+      "name": "Y\u2019all Need Jesus",
+      "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"
     },
     {
       "added_at": null,
@@ -886,55 +918,15 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 204910,
-      "name": "Country In Me",
-      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gin & Juice (HARDY\u2019s Version)",
-        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 240452,
-      "name": "Gin & Juice - HARDY\u2019s Version",
-      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 185813,
-      "name": "Boy From The South (HARDY feat. Cole Swindell, Dustin Lynch)",
-      "url": "https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl"
+      "duration_ms": 218471,
+      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
     }
   ],
   "unique_name": "This Is HARDY",

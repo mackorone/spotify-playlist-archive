@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 
 > Songs to make your Zumba workout extra fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,533 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,625 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

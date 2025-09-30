@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-816 songs - 1 day 15 hr 34 min
+817 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [Midst of Everything](https://open.spotify.com/track/2UScMXkAslXCfMcRx2Wlr7) | [Tora Summer](https://open.spotify.com/artist/59RVWpGZwBN5H2S4yHsxD9) | [Midst of Everything](https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM) | 2:46 | 2023-03-23 | 2024-05-05 |
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2023-03-23 | 2024-03-21 |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2023-03-23 | 2024-02-09 |
-| [Mindful Heights](https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV) | [Snooze Narrator](https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3) | [Mindful Heights](https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK) | 3:24 | 2024-05-20 |  |
+| [Mindful Heights](https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV) | [Snooze Narrator](https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3) | [Mindful Heights](https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK) | 3:24 | 2024-05-20 | 2025-09-30 |
 | [Mindvibe](https://open.spotify.com/track/3aROTIlJEYc90xE8hlm4Be) | [Sir Dejvid](https://open.spotify.com/artist/0pwSi22Ps7HUNFmaAQHTJF) | [Cipher](https://open.spotify.com/album/2jBr8FtJiUIW5KuklZAaxa) | 3:03 | 2023-07-14 | 2024-07-10 |
 | [Miracle Manifestations](https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Miracle Manifestations](https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G) | 2:08 | 2025-01-22 | 2025-06-26 |
 | [Mirage](https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Mirage](https://open.spotify.com/album/4i0PuQlDnKEbyYe3Qh5nIX) | 2:38 | 2025-02-26 |  |
@@ -784,6 +784,7 @@
 | [Universal Truth](https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Significance](https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg) | 3:15 | 2023-07-14 | 2024-02-09 |
 | [Unless](https://open.spotify.com/track/5IJclkvUYCQDye82Ua9sig) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Unless](https://open.spotify.com/album/4ECUMqjFun808OFQ15nQ1B) | 2:58 | 2024-01-17 | 2024-07-16 |
 | [Unseen Paths](https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Unseen Paths](https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY) | 2:44 | 2024-10-14 | 2025-08-10 |
+| [Until the Sky Opens](https://open.spotify.com/track/0ZWdRYLZFysW7TiXQ4i0WZ) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Until the Sky Opens](https://open.spotify.com/album/09QP4PFMQlHWwtI9dlJyGN) | 2:28 | 2025-09-23 |  |
 | [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 | 2023-03-23 | 2024-03-21 |
 | [Unwinding](https://open.spotify.com/track/6WKdeX144tnQNxDCDB1zlJ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Unwinding](https://open.spotify.com/album/4Fuoa1o6tL0cFRTlJF4GCN) | 3:17 | 2025-01-08 | 2025-05-14 |
 | [unwinding mind](https://open.spotify.com/track/3cKtbvlmZLIGQlvlXVGWcO) | [vindi meta](https://open.spotify.com/artist/1KpJe8aYmtCJpH7LP8mX9s) | [unwinding mind](https://open.spotify.com/album/5mYhxCiyQnJY8oBdgL6i1M) | 3:00 | 2024-05-20 | 2025-08-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest 10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,142 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,152 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

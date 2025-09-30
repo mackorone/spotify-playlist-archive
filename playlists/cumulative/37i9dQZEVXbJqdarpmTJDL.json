@@ -4552,7 +4552,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 187058,
       "name": "AUREVOIR",
       "url": "https://open.spotify.com/track/3aFxTuIQQdVzvIoN7dZjdf"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -13978,7 +13978,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 131065,
       "name": "Erhmia",
       "url": "https://open.spotify.com/track/2UePKNtKiYpgxpAhuDOxzS"
@@ -15586,7 +15586,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 131351,
       "name": "FINOS FILM",
       "url": "https://open.spotify.com/track/3Q78butABFYlJZFIIlJZXd"
@@ -21040,7 +21040,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 206500,
       "name": "ISOS",
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
@@ -22082,7 +22082,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -30726,7 +30726,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 204705,
       "name": "MVP Freestyle",
       "url": "https://open.spotify.com/track/3yLH2G7nT7up8ZT3FyA1Qv"
@@ -34075,6 +34075,24 @@
     },
     {
       "album": {
+        "name": "Alkoolikes I Nihtes",
+        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
+      },
+      "artists": [
+        {
+          "name": "Pantelis Pantelidis",
+          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194214,
+      "name": "Pame Stihima Tha Xanarthis",
+      "url": "https://open.spotify.com/track/10e5QpjQtt9156Ie76zGg1"
+    },
+    {
+      "album": {
         "name": "Bad Boy 2",
         "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
       },
@@ -34536,7 +34554,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 146400,
       "name": "PARANOMO",
       "url": "https://open.spotify.com/track/4M9LkBYxzH1U6YGcWCs6OM"
@@ -48814,7 +48832,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

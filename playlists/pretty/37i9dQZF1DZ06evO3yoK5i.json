@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 243804,
+  "num_followers": 243828,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAB5Ro6f5oeDU6JpZAv0piQN",
+  "snapshot_id": "aNh6gAAAAACCqt0ada0TPL4JKEvcXz5d",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Una Emocion para Siempre",
-      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 323866,
       "name": "Se bastasse una canzone",
       "url": "https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Una Emocion para Siempre",
+      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Casi Amor (Quasi amore) - Remastered 2021",
-      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Casi Amor (Quasi amore) - Remastered 2021",
+      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove C'\u00e8 Musica",
-        "url": "https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Dove c'\u00e8 musica",
-      "url": "https://open.spotify.com/track/3SFBv34cLvMPNXHyihGRkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Remastered 192 khz)",
         "url": "https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 220120,
       "name": "Cancion para Ella - Remastered 2021",
       "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dove C'\u00e8 Musica",
+        "url": "https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Dove c'\u00e8 musica",
+      "url": "https://open.spotify.com/track/3SFBv34cLvMPNXHyihGRkj"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calma Aparente (Spanish Version)",
-        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 250853,
-      "name": "Esta Pasando Noviembre",
-      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
+      "duration_ms": 191013,
+      "name": "Vita Ce N'\u00e8",
+      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,420 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,436 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [Funky Fresco](https://open.spotify.com/track/0qRbGq8cogiDalq9E8IGJh) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Funky Fresco](https://open.spotify.com/album/3AGTkAEOaQgFixOs4rLCix) | 2:23 |
 | 60 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 |
 
-Snapshot ID: `AAAAAMCOaztegvz1t4I+0AyK5wUFdevl`
+Snapshot ID: `AAAAANXYePamJZRl8HpeJPa/yoc2il8K`

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11530,
+  "num_followers": 11537,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-09-18 02:23:58",
       "album": {
-        "name": "STAYC Special Single [I WANT IT]",
-        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 181972,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
-    },
-    {
-      "added_at": "2025-09-18 02:23:58",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2025-09-18 02:23:58",
+      "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 181972,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
     },
     {
       "added_at": "2025-09-18 02:23:58",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-09-18 02:23:58",
       "album": {
-        "name": "Head over Heels, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/596ZPdCUk1fJGAN1MkjoZm"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/6QM7IHQ080iJtiHhpuOxOP"
-    },
-    {
-      "added_at": "2025-09-18 02:23:58",
-      "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2025-09-18 02:23:58",
+      "album": {
+        "name": "Head over Heels, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/596ZPdCUk1fJGAN1MkjoZm"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/6QM7IHQ080iJtiHhpuOxOP"
     },
     {
       "added_at": "2025-09-18 02:23:58",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-09-18 02:23:58",
       "album": {
-        "name": "What Do I Call You - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
         }
       ],
-      "duration_ms": 163026,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
     }
   ],
   "unique_name": "\uc378 !",

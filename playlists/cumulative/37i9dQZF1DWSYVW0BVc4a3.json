@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "ABC's",
+        "url": "https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "ABC's",
+      "url": "https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj"
+    },
+    {
+      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -8473,6 +8495,28 @@
     },
     {
       "album": {
+        "name": "F\u00f3n P\u00f3ca (feat. Travy)",
+        "url": "https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "F\u00f3n P\u00f3ca (feat. Travy)",
+      "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
+    },
+    {
+      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -12104,6 +12148,28 @@
       "duration_ms": 202756,
       "name": "Juice",
       "url": "https://open.spotify.com/track/5Z4fVgbRNz1aPy6bdf2jca"
+    },
+    {
+      "album": {
+        "name": "Jump Higher",
+        "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Jump Higher",
+      "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
     },
     {
       "album": {

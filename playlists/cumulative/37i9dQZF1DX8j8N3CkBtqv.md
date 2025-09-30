@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akshath, Anumita Nadesan and other exciting artists.
 
-1,172 songs - 2 day 15 hr 59 min
+1,173 songs - 2 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2023-12-02 |
 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Durgesh R Rajbhatt](https://open.spotify.com/artist/7sE4BlKQa4zVmZm0YTiL4R), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 | 2024-03-01 | 2024-04-19 |
 | [Nishaaniyan](https://open.spotify.com/track/1n80hIzru4Oc3834lzNJR1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Nishaaniyan](https://open.spotify.com/album/4SAvROpQw7A12jzkkWB0Iw) | 3:22 | 2023-06-23 | 2023-07-08 |
-| [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 | 2025-07-11 |  |
+| [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 | 2025-07-11 | 2025-09-30 |
 | [Nithalla](https://open.spotify.com/track/7eJe00xxvqa6BIGbkO7igF) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Nithalla](https://open.spotify.com/album/5INwWe8I1GRPCqFuwXsoug) | 2:22 | 2024-11-08 | 2024-11-30 |
 | [No Complaints](https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [No Complaints](https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx) | 3:07 | 2024-01-26 | 2024-03-02 |
 | [Noor](https://open.spotify.com/track/0og6yQkdya4bsYnhshXVvV) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Noor](https://open.spotify.com/album/2AjN4gjLFrNFmPMys0ZjDC) | 2:34 | 2023-11-10 | 2023-12-09 |
@@ -1176,6 +1176,7 @@
 | [Zia](https://open.spotify.com/track/2S7p4KavTGc40XMSr3QTRU) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Zia](https://open.spotify.com/album/499mgoSqPN4ZAdiY0GHbUA) | 3:06 | 2024-12-13 | 2025-02-08 |
 | [Zindagi](https://open.spotify.com/track/7x2PxTmn3mHPgll8j3Hgjx) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT), [Anjum Rehbar](https://open.spotify.com/artist/0zfGITLaaUpGsHqqHXZdEl), [Shubhraj](https://open.spotify.com/artist/2izx5VbbZ5oLFmTPOFCWAs) | [Zindagi](https://open.spotify.com/album/6mGyAJ1zOEQ0KljkrLAqsA) | 3:57 | 2023-07-28 | 2023-08-25 |
 | [Zindagi](https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Zindagi](https://open.spotify.com/album/0LSL5FUCYBK70Hic1zB1Cp) | 3:03 | 2023-08-18 | 2023-09-16 |
+| [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 | 2025-09-29 |  |
 | [zindagi apni film hai](https://open.spotify.com/track/1MqtCYorCqoLRuTu0gzha3) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [zindagi apni film hai](https://open.spotify.com/album/3vZq7BMsFWzP99x3uTi1Mv) | 3:01 | 2024-06-28 | 2024-07-19 |
 | [Zindagi Kharab](https://open.spotify.com/track/3NwMH4616tYCujH7O4f3tk) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Zindagi Kharab](https://open.spotify.com/album/57cpj4V2RgT6kAxGYf72zH) | 3:00 | 2024-11-22 | 2025-01-11 |
 | [Zindagi Kya Hai Tu](https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Zindagi Kya Hai Tu](https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq) | 4:55 | 2023-07-28 | 2023-08-25 |

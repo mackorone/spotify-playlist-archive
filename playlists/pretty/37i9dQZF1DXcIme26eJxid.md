@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > Afropop Classics to get you in the 90s mood ahead of My Father’s Shadow’s Nigerian debut\. Curated by the film’s writer, Grammy\-winning executive Wale Davies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,239 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,264 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 49 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
 | 50 | [Idea 5 \(Call My Name\) \[feat\. LULU.\]](https://open.spotify.com/track/0H9K4Ul9aFjf2RV14K5Xzf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 4:51 |
 
-Snapshot ID: `AAAAAAP4zJ1ya+q5UA2TVIaKwK6N1PoE`
+Snapshot ID: `AAAAANUJPc9LhO5lFkE03l5ZhdXljHvz`

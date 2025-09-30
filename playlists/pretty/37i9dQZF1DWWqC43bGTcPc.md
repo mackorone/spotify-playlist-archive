@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 盧廣仲 \(Crowd Lu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,461 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,519 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [一念之間－在水中](https://open.spotify.com/track/3qYQgBOu4B9NWlffzdP336) | [Chyi Yu](https://open.spotify.com/artist/5E94Yc9O9D4N3oTr4SzJLx), [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [一念之間](https://open.spotify.com/album/7oEUaQhq2tpBnSWB80cIyf) | 4:35 |
 | 50 | [擱淺](https://open.spotify.com/track/11A1awCbfjOc1tM4ngU6cb) | [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN) | [擱淺](https://open.spotify.com/album/36xMoHYCIpljalqsdEaIKq) | 3:34 |
 
-Snapshot ID: `AAAAAOYRdJuwFDB/sVE6MpmEEuCI+lby`
+Snapshot ID: `AAAAANUaOXQnyU/V3BRMLZ6fintnlpTb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,392 likes - 194 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,353 likes - 194 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 193 | [Long Way Home](https://open.spotify.com/track/4MPS8kSzTiVFhgv9MDJncU) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Long Way Home](https://open.spotify.com/album/7808T5V1eWDOc5vGKtqcB9) | 2:37 |
 | 194 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
 
-Snapshot ID: `AAAAAIbuNWM8Y4s0vXmyUnH/jH30UPA9`
+Snapshot ID: `AAAAAPUUDLkDcGUIinThsDkEwME2eoDx`

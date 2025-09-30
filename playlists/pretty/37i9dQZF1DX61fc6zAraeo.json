@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105064,
+  "num_followers": 105069,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 154139,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
         "name": "R 2 ME",
         "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 159246,
       "name": "Stay - Ely Oaks Version",
       "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 154139,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -467,46 +467,6 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
-        "name": "Savana",
-        "url": "https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 150113,
-      "name": "Savana",
-      "url": "https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
-        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
       },
@@ -519,6 +479,22 @@
       "duration_ms": 204285,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
+        "name": "Savana",
+        "url": "https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 150113,
+      "name": "Savana",
+      "url": "https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -543,6 +519,30 @@
       "duration_ms": 142795,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/6whv4cMPhgbBCVhhffQP4u"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
+        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -627,30 +627,6 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
-        "name": "Never Letting Go (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 122839,
-      "name": "Never Letting Go",
-      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
         "name": "Una Velita",
         "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
       },
@@ -719,6 +695,30 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
+        "name": "Never Letting Go (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 122839,
+      "name": "Never Letting Go",
+      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 159047,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
+        "name": "Still Fall",
+        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Still Fall",
+      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -751,22 +767,6 @@
       "duration_ms": 170875,
       "name": "Run",
       "url": "https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
-        "name": "Still Fall",
-        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 209102,
-      "name": "Still Fall",
-      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 165845,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
         "name": "Waste Your Love",
         "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 198620,
       "name": "California (feat. CLOVES)",
       "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 165845,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
-        "name": "Beat Of The Drum",
-        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Beat Of The Drum",
-      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
     },
     {
       "added_at": "2025-09-18 14:56:01",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-09-18 14:56:01",
       "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
+    },
+    {
+      "added_at": "2025-09-18 14:56:01",
+      "album": {
         "name": "Make Out",
         "url": "https://open.spotify.com/album/1wYyb3PD5sNXfG962OWgRI"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 157727,
       "name": "Make Out",
       "url": "https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ"
-    },
-    {
-      "added_at": "2025-09-18 14:56:01",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "added_at": "2025-09-18 14:56:01",

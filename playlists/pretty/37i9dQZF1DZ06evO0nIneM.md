@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,017 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,020 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 4 | [Aan De Kust](https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Naakt Onder De Hemel](https://open.spotify.com/album/01QYbTcPYUIw0kNkFRcWiq) | 3:43 |
 | 5 | [Holiday In Spain](https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [3Ø \- We Doen Wat We Kunnen](https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp) | 3:54 |
 | 6 | [Wat Zou Je Doen? \- Live From The Nighttrain, Netherlands / 1998](https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 4:50 |
-| 7 | [Zo Stil](https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Stil](https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss) | 4:00 |
-| 8 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |
+| 7 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |
+| 8 | [Zo Stil](https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Stil](https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss) | 4:00 |
 | 9 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
 | 10 | [Liefs Uit Londen](https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 3:58 |
 | 11 | [Later Als Ik Groter Ben](https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Later Als Ik Groter Ben](https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
 | 50 | [Zachtjes Zingen](https://open.spotify.com/track/1NXfPvlNg4kuJCgGWYH0Ct) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:23 |
 
-Snapshot ID: `aNcpAAAAAABtuxP9/Go7YbcPXYw2K/cE`
+Snapshot ID: `aNh6gAAAAADjDU+PudN8itjv3Iu1EovR`

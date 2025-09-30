@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Neton Vega, Rauw Alejandro, Milo j and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,445 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,442 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 6 | [RU MOR](https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC) | 2:26 |
 | 7 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 | 8 | [CRIPTONITA](https://open.spotify.com/track/3sWuSJYhVQTIMkTfgwPgVR) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [CRIPTONITA](https://open.spotify.com/album/5bh0lNWBwi2XlOyW39jZg1) | 3:28 |
-| 9 | [Canción Para Regresar](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Canción Para Regresar](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 9 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 10 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 |
 | 11 | [Que Me Quiera Má](https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Que Me Quiera Má](https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM) | 2:51 |
 | 12 | [Paris](https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Paris](https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2) | 3:09 |

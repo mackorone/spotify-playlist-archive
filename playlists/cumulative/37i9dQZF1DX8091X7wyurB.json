@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Baba Ibeji",
+        "url": "https://open.spotify.com/album/65jLZyoYDzF5ch4AgO8cU2"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254051,
+      "name": "Baba Ibeji",
+      "url": "https://open.spotify.com/track/11L9IIVIAKloKykPmMUeD6"
+    },
+    {
+      "album": {
         "name": "The Expression",
         "url": "https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 511197,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
@@ -5304,7 +5322,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 286108,
-      "name": "I Am Temple (Live)",
+      "name": "I Am Temple",
       "url": "https://open.spotify.com/track/42IkSQoEco0FPshWVWNHiQ"
     },
     {
@@ -11284,6 +11302,24 @@
       "duration_ms": 316290,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Holy Hill",
+        "url": "https://open.spotify.com/album/3sEbNb8AmmUuQZUwolWEgf"
+      },
+      "artists": [
+        {
+          "name": "Ruke Gure",
+          "url": "https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474000,
+      "name": "Thank You Baba",
+      "url": "https://open.spotify.com/track/6MMDIyZGmqncNuJZTM9N3k"
     },
     {
       "album": {

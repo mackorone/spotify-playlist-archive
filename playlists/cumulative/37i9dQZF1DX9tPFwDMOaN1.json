@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "CxM 1st Mini Album \u2018HYPE VIBES\u2019",
+        "url": "https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55"
+      },
+      "artists": [
+        {
+          "name": "CxM",
+          "url": "https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "5, 4, 3 (Pretty woman) (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq"
+    },
+    {
+      "album": {
         "name": "HxW 1st Single Album 'BEAM'",
         "url": "https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4"
       },
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 219000,
       "name": "Bye, Summer",
       "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"

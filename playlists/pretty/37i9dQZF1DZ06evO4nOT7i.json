@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 382125,
+  "num_followers": 382115,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADtU/c5nc5QOmIQdLuu5BCO",
+  "snapshot_id": "aNh6gAAAAABuGUHEJIRW3Z9lxkI0sr+b",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/1dxqk42KIlMyrSawZ5YjBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 240346,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/1dxqk42KIlMyrSawZ5YjBE"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 115400,
-      "name": "MAKING TIME",
-      "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 301773,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/4fg2EzaeNhR2PWNGXbX18n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 115400,
+      "name": "MAKING TIME",
+      "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 178932,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHO CARES?",
         "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 115000,
       "name": "Edition",
       "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
     },
     {
       "added_at": null,

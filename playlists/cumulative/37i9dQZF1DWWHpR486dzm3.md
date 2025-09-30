@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vilma Jää.
 
-981 songs - 2 day 11 hr 8 min
+982 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,7 +708,7 @@
 | [Rakkaudesta tai linnuista \- Studiolive](https://open.spotify.com/track/2HhN0ROkg3CSAa4mJPTkbO) | [V\. Härkönen](https://open.spotify.com/artist/4ZehtHHcgp2sF3REcUcA82) | [Kaikki samaa lauluu](https://open.spotify.com/album/7hzesUnfCxv3l9Nv6T50cP) | 3:36 | 2024-08-01 | 2024-09-13 |
 | [Rakkaus haudataan](https://open.spotify.com/track/5TUaTIWklmOuvmkLfVFpYJ) | [TT Wahlroos](https://open.spotify.com/artist/0UjwXhUQIZodoEZNBdAybW) | [Rakkaus haudataan](https://open.spotify.com/album/5agL8fRZ5TwWLTz9DfREaj) | 3:32 | 2025-09-18 | 2025-09-26 |
 | [Rakkaus voittaa](https://open.spotify.com/track/0bwy9EwcTyUbZ5SY8bzb7N) | [Eesa](https://open.spotify.com/artist/63qNmmaWz1eSkhL74S0ViE) | [Rakkaus voittaa](https://open.spotify.com/album/2q9JjTRH9NAIDd8exKMOTC) | 3:06 | 2025-01-23 | 2025-02-14 |
-| [Ramen Break](https://open.spotify.com/track/56G09weWhInE2EeOSMbsmJ) | [Tinyhawk & Bizzarro](https://open.spotify.com/artist/2ZJ203WZjSAIeeKJgcdElj) | [Ramen Break](https://open.spotify.com/album/3raxMjIbysIdOoqSMDfa67) | 5:48 | 2025-08-14 |  |
+| [Ramen Break](https://open.spotify.com/track/56G09weWhInE2EeOSMbsmJ) | [Tinyhawk & Bizzarro](https://open.spotify.com/artist/2ZJ203WZjSAIeeKJgcdElj) | [Ramen Break](https://open.spotify.com/album/3raxMjIbysIdOoqSMDfa67) | 5:48 | 2025-08-14 | 2025-09-30 |
 | [Rappukäytävä](https://open.spotify.com/track/72XkZeymn8DplwOi06WFWJ) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Rappukäytävä](https://open.spotify.com/album/54j3FzxDcl66ur6BpRjv6h) | 3:18 | 2025-09-25 |  |
 | [Ratgirl](https://open.spotify.com/track/6cAmHeHEEXHCz9bQ8ZfNYV) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Ratgirl](https://open.spotify.com/album/0vmwgW2QgVS4va9qyABz82) | 3:28 | 2025-06-12 | 2025-06-27 |
 | [Raudasta tehty](https://open.spotify.com/track/2I03l9iatZYdc9UK1sEGbj) | [Runo](https://open.spotify.com/artist/23MrcUEMEaLznNXpyc9EGz) | [Raudasta tehty](https://open.spotify.com/album/5BK9zU3AtVsRnreWj4JOj7) | 2:47 | 2025-03-27 | 2025-05-16 |
@@ -782,6 +782,7 @@
 | [Spacegirl](https://open.spotify.com/track/1LmkdDlubO0jc385MzF9YF) | [Nuoruus](https://open.spotify.com/artist/6EaEn4RT3u41SismpAzXWL) | [Too Slow Split](https://open.spotify.com/album/1scMFEfKHlkjue9aYlJrYl) | 3:00 | 2025-02-13 | 2025-02-28 |
 | [Special Ones \- Original Version](https://open.spotify.com/track/7N0Mi6PpNcgDpnOezcLDXT) | [Astrid Swan](https://open.spotify.com/artist/48sENAvlUyRRoh4yKKzIRN) | [Poverina \(20th Anniversary Edition\)](https://open.spotify.com/album/3olNgE00r8HJUWWkS0l9DP) | 3:51 | 2025-09-04 |  |
 | [Spectacular Time](https://open.spotify.com/track/55kbIMj2FxWtSBd7vPurG0) | [Job](https://open.spotify.com/artist/3liTUgV5jxrAdyz3BP3h6a) | [Spectacular Time](https://open.spotify.com/album/1US13agxVu3i0mkLAa3XBN) | 3:39 | 2024-07-11 | 2024-08-23 |
+| [Spin](https://open.spotify.com/track/23jLLjUGJ84YE5i2rZPEMX) | [Eidetic Dreams](https://open.spotify.com/artist/67I4GVTOFCKsOf6Bs6Y47I) | [Spin](https://open.spotify.com/album/1wxtAOP66sdW9MuqpcFIKo) | 3:31 | 2025-09-29 |  |
 | [Spirals](https://open.spotify.com/track/0avptVPz0m9BTop0E7SE1g) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Spirals](https://open.spotify.com/album/1OZbB6hiP6prMpJgL9oNj2) | 4:06 | 2025-02-20 | 2025-03-21 |
 | [Spiritismi](https://open.spotify.com/track/39RSeY6eirD9F0zcB8NKwU) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Spiritismi](https://open.spotify.com/album/44TX13M4nsC4puf2J3rRXM) | 8:40 | 2025-06-19 | 2025-07-18 |
 | [Split](https://open.spotify.com/track/03nfFZluTBlOZOtLNMol1y) | [Bobomobile](https://open.spotify.com/artist/1ksvodwIQsqlRDRmRZ69p5) | [Split](https://open.spotify.com/album/4pavMT7959oMZ9chEPr1nB) | 4:12 | 2025-04-24 | 2025-05-16 |

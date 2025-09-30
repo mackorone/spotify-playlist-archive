@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> PEDRO SAMPAIO e os maiores hits do país\. O que tá bombando tá aqui.
+> Matheus & Kauan com Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,659,707 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,660,179 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Valentino](https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5) | [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Valentino](https://open.spotify.com/album/68C4teLrfFcr8XfEZL1qa4) | 2:37 |
 | 50 | [Vou pela Madrugada](https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [A Nata de Tudo \- A Ovelha Negra](https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx) | 4:41 |
 
-Snapshot ID: `AAAAAKtdpkwsbxaezc3eTfBoyuwb9MGE`
+Snapshot ID: `AAAAANaM52yEptTpotz0TbqeAl7oXCdG`

@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18746,
+  "num_followers": 18748,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABH9ujsT+tvSbepbtZvrXoJ",
+  "snapshot_id": "aNh6gAAAAACdTFkqYvLjL3kI/oOlQ4sa",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesongs: A Celebration of the First 20 Years",
-        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
       "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 262031,
-      "name": "Scars In Heaven",
-      "url": "https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo"
+      "duration_ms": 196301,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
       "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 196301,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
+      "duration_ms": 262031,
+      "name": "Scars In Heaven",
+      "url": "https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
       "duration_ms": 202360,
       "name": "Lead Me On",
       "url": "https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 262880,
+      "name": "In A Little While",
+      "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
     },
     {
       "added_at": null,
@@ -399,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 262880,
-      "name": "In A Little While",
-      "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Love (Remastered)",
         "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 181853,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Of Ages...Hymns & Faith",
         "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Of Love (Remastered)",
         "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 276933,
       "name": "House Of Love",
       "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Power In The Blood",
+      "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Power In The Blood",
-      "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAITHFUL: Go and Speak",
         "url": "https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Arms Of Love",
-      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Arms Of Love",
+      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Father's Eyes",
         "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 246226,
       "name": "Father's Eyes",
       "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 335960,
       "name": "Stay For A While",
       "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Jesus, I Love Thee",
-      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,

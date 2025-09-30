@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Hazlett
 
-455 songs - 1 day 1 hr 18 min
+456 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 | 2025-01-23 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2024-05-31 | 2025-03-14 |
 | [Givin' It Up](https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Givin' It Up](https://open.spotify.com/album/7lyQed6f1BtFe5Q5K9eRvR) | 3:25 | 2024-08-30 | 2024-11-14 |
+| [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-09-25 |  |
 | [GO DUMB](https://open.spotify.com/track/1ghvfEhXbOQSLHEt08qX8g) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK) | [GO DUMB](https://open.spotify.com/album/79tyRWEbkDzOi4sotZUf0A) | 2:52 | 2025-04-24 | 2025-09-05 |
 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-03 | 2024-11-07 |
 | [Golden Wolf](https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Golden Wolf](https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu) | 3:39 | 2024-10-31 | 2025-05-30 |
@@ -393,7 +394,7 @@
 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 | 2025-04-24 |  |
 | [Telephone](https://open.spotify.com/track/1zrPP3d5HZQE2G9z1oIPQn) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Telephone](https://open.spotify.com/album/4k9RC4zvHzwV1f1HSuT8ra) | 3:41 | 2024-11-28 | 2024-12-06 |
 | [Telescope](https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Telescope](https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ) | 3:28 | 2025-01-30 | 2025-02-07 |
-| [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 |  |
+| [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 | 2025-09-30 |
 | [That's My](https://open.spotify.com/track/3yUD8TT3OD0Zi7Aj8gPRdQ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [That's My](https://open.spotify.com/album/5ukWDRZUm16Tc00WlvCmC0) | 4:01 | 2025-09-01 | 2025-09-05 |
 | [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 | 2025-05-29 | 2025-06-06 |
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-17 | 2025-07-25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 96735,
+  "num_followers": 96740,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACaaKdPJcUnWYCVJ5kuJyIp",
+  "snapshot_id": "aNh6gAAAAACNY+1gPc95ODdplrkMtMdI",
   "tracks": [
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 162809,
+      "name": "Relentless Again",
+      "url": "https://open.spotify.com/track/6uWaErhSQM176jluMQCuD7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to O'Block",
         "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 163760,
       "name": "Ain't See It Coming (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "43VA HEARTLESS",
-        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 162809,
-      "name": "Relentless Again",
-      "url": "https://open.spotify.com/track/6uWaErhSQM176jluMQCuD7"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

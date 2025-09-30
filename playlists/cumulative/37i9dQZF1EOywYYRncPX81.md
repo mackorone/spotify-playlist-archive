@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#89 \- Fall Out Boy \- Save Rock and Roll](https://open.spotify.com/episode/2pXm6F4WnIgurYjRs49pUZ) | [Why I Hate this Album](https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s) | [Why I Hate this Album](https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s) | 1:39:19 | 2020-12-03 |  |
+| [\#89 \- Fall Out Boy \- Save Rock and Roll](https://open.spotify.com/episode/2pXm6F4WnIgurYjRs49pUZ) | [Why I Hate this Album](https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s) | [Why I Hate this Album](https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s) | 1:39:19 | 2020-12-03 | 2025-09-30 |
 | [5 Seconds of Summer Talks "Easier", New Sound & Accents](https://open.spotify.com/episode/7BTSnAisyZZp7PqSq3evZu) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 43:34 | 2020-12-03 |  |
 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2020-12-03 |  |
 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 | 2020-12-03 |  |

@@ -11267,6 +11267,24 @@
     },
     {
       "album": {
+        "name": "Mafalda",
+        "url": "https://open.spotify.com/album/6vQU12fuEaBUZyfWluVeQc"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Mafalda",
+      "url": "https://open.spotify.com/track/1oaRRAibXkDMnfJndllApW"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/0QYFSLSJvsDZFKkBrdLUr6"
       },
@@ -11428,24 +11446,6 @@
       "duration_ms": 171363,
       "name": "Maiyya Mainu (Lofi)",
       "url": "https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH"
-    },
-    {
-      "album": {
-        "name": "Malfada",
-        "url": "https://open.spotify.com/album/6vQU12fuEaBUZyfWluVeQc"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Kluzek",
-          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
-        }
-      ],
-      "date_added": "2025-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142702,
-      "name": "Malfada",
-      "url": "https://open.spotify.com/track/1oaRRAibXkDMnfJndllApW"
     },
     {
       "album": {

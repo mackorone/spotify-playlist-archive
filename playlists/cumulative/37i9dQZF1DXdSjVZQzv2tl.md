@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff
+> O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário, Zé Felipe
 
 331 songs - 15 hr 31 min
 

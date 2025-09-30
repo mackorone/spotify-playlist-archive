@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,757 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,879 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 59 | [Spirit Breathe](https://open.spotify.com/track/3uPCdMhnn9Xs6Yh8T4xbnr) | [Echo Harbor Worship](https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Spirit Breathe](https://open.spotify.com/album/0ruqTmr1iVkkekhMSoWqtK) | 4:56 |
 | 60 | [Careless in Your Care](https://open.spotify.com/track/0LZHeIUJvMwRbHNTbSjQ6N) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Beløved](https://open.spotify.com/artist/0RfzVyrwQn3xCasX8yuPiN) | [Careless in Your Care](https://open.spotify.com/album/13HMgaLUrUeqtVDQki1Bq6) | 4:19 |
 
-Snapshot ID: `AAAAAC4lcGhg3P4o0DOz6rmeJpOhM7/R`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

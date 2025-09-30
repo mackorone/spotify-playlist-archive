@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,517 likes - 200 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,587 likes - 200 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 199 | [If I Were A Bell](https://open.spotify.com/track/1c1C9gGAQs6P7BuJpRjUDv) | [David Jenau](https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN) | [If I Were A Bell](https://open.spotify.com/album/1v582C03OT0ooYLzgt72UA) | 2:56 |
 | 200 | [Reserved Judgement](https://open.spotify.com/track/3PgyUOs2llfKGv2GCYqpKi) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Reserved Judgement](https://open.spotify.com/album/6NP0tJZoYLoHIgWdZ4FyrV) | 2:56 |
 
-Snapshot ID: `AAAAAICnzNUgsDmu+Bo0WGQfCBppCQ4H`
+Snapshot ID: `AAAAABn1oPIzQ2YMvnCunh8F9GTaEKeg`

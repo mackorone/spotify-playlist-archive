@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 262200,
       "name": "Celebration (feat. Bakithi Kumalo, Hector Moreno Guerrero & King Robinson Jr)",
       "url": "https://open.spotify.com/track/6xuuO9igYldF8HONeU1EOO"
@@ -1286,6 +1286,52 @@
       "duration_ms": 236000,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/36lMru2HEErt8tz9MBxDoi"
+    },
+    {
+      "album": {
+        "name": "THOL",
+        "url": "https://open.spotify.com/album/0WCsWJcjkUAOHwKhWous0e"
+      },
+      "artists": [
+        {
+          "name": "Urupaanar",
+          "url": "https://open.spotify.com/artist/4tQZesV9Vsw2EnpdskT6KV"
+        },
+        {
+          "name": "Tharun Sekar",
+          "url": "https://open.spotify.com/artist/1tk528wXxD61sM9CyMPZRg"
+        },
+        {
+          "name": "RS Vikram",
+          "url": "https://open.spotify.com/artist/5PJBbPDPdZeGyfLRdpFht5"
+        },
+        {
+          "name": "Si Su",
+          "url": "https://open.spotify.com/artist/5izMDlabcB1xhXgOGuuXZs"
+        },
+        {
+          "name": "K.R.Keerthirathan",
+          "url": "https://open.spotify.com/artist/7jXD4Yjub8J8dya0PusWjA"
+        },
+        {
+          "name": "Vishwa Bharath",
+          "url": "https://open.spotify.com/artist/2YEui2CS3jSKUyOaOJtPtt"
+        },
+        {
+          "name": "Pravekha",
+          "url": "https://open.spotify.com/artist/26s50DKJKi3Sg5zhw0jwv9"
+        },
+        {
+          "name": "Goutham Vasu Venkatesan",
+          "url": "https://open.spotify.com/artist/0t52Tk7X8p6hlVB56rQZ4x"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271058,
+      "name": "Iruthalil Kanaval - Instrumental",
+      "url": "https://open.spotify.com/track/1QIuPCCcMHDw1grOYOWLrM"
     },
     {
       "album": {

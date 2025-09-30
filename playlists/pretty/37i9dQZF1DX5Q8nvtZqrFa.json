@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22110,
+  "num_followers": 22111,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-16 15:00:07",
       "album": {
-        "name": "\u30b5\u30cb\u30fc\u30dc\u30c8\u30eb",
-        "url": "https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 258207,
-      "name": "\u512a\u3057\u3055\u306b\u6ea2\u308c\u305f\u4e16\u754c\u3067",
-      "url": "https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE"
-    },
-    {
-      "added_at": "2025-09-16 15:00:07",
-      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229173,
       "name": "\u30b4\u30df\u4eba\u9593\u3001\u4ffa",
       "url": "https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy"
+    },
+    {
+      "added_at": "2025-09-16 15:00:07",
+      "album": {
+        "name": "\u30b5\u30cb\u30fc\u30dc\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 258207,
+      "name": "\u512a\u3057\u3055\u306b\u6ea2\u308c\u305f\u4e16\u754c\u3067",
+      "url": "https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE"
     },
     {
       "added_at": "2025-09-16 15:00:07",

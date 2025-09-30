@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 118389,
+  "num_followers": 118377,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "EZ 4 Me",
-        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 180628,
-      "name": "EZ 4 Me",
-      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Waiting To Go",
         "url": "https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 150344,
       "name": "Waiting To Go",
       "url": "https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "EZ 4 Me",
+        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "duration_ms": 180628,
+      "name": "EZ 4 Me",
+      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-11-20 15:00:00",

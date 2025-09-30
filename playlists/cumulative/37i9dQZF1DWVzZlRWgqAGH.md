@@ -2,7 +2,7 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Theo Crocker and music for your soul.
+> Theo Croker and music for your soul.
 
 1,641 songs - 4 day 0 hr 14 min
 

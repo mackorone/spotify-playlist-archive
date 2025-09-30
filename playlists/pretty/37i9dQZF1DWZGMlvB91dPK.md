@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,335 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,336 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Insomnies](https://open.spotify.com/track/6avDRa1wX7du0Mv25zaC7i) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 3:01 |
-| 2 | [Côte d'Azur](https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Côte d'Azur](https://open.spotify.com/album/7dv3v0NT8znHNYy2BlZgbX) | 3:13 |
-| 3 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 |
+| 2 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 |
+| 3 | [Côte d'Azur](https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Côte d'Azur](https://open.spotify.com/album/7dv3v0NT8znHNYy2BlZgbX) | 3:13 |
 | 4 | [Rejoins moi](https://open.spotify.com/track/1ARdJJkOah64yR9mod4IGf) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Rejoins moi](https://open.spotify.com/album/2k37HZSmCNknYhYIlyotwm) | 3:47 |
 | 5 | [Differences Aside](https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:55 |
 | 6 | [Mille vies](https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 4:05 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 28 | [HYPNOSE](https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [HYPNOSE](https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB) | 2:57 |
 | 29 | [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 |
 | 30 | [BRAT](https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [BRAT](https://open.spotify.com/album/392u2T0ZoleRLFuzBg7FZo) | 3:14 |
-| 31 | [De bois et de fumée](https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [De bois et de fumée](https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj) | 2:31 |
-| 32 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
+| 31 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
+| 32 | [De bois et de fumée](https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [De bois et de fumée](https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj) | 2:31 |
 | 33 | [ENFANT SUICIDE](https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ENFANT SUICIDE](https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn) | 3:20 |
 | 34 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
 | 35 | [Haunted House](https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:24 |

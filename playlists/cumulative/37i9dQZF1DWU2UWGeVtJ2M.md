@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-374 songs - 20 hr 59 min
+376 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Downtown Vibes](https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Downtown Vibes](https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ) | 1:48 | 2025-07-27 |  |
 | [Dreams](https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Dreams](https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I) | 2:21 | 2025-07-14 |  |
 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 | 2022-10-24 | 2025-06-28 |
-| [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 |  |
+| [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 | 2025-09-30 |
 | [Drowning](https://open.spotify.com/track/5yOy3vK27xjkWaqTS46gHN) | [Three Oscillators](https://open.spotify.com/artist/7sWAzQH4ktfR6aO0L2gwB7), [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Drowning](https://open.spotify.com/album/4mdszm9ez7c8ohdLyG5n8v) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 | 2024-04-19 |
@@ -149,6 +149,7 @@
 | [goodnight, don’t wait](https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree](https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH) | 3:23 | 2024-06-09 | 2024-08-01 |
 | [Grateful](https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Grateful](https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs) | 3:05 | 2022-07-25 |  |
 | [He Don't Love Me](https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:30 | 2022-07-25 | 2024-01-17 |
+| [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 | 2025-09-29 |  |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-06-06 | 2025-08-01 |
 | [Heart of Mine](https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP) | [Kuizz](https://open.spotify.com/artist/6x8oQWq0xiL4aIJTXCUx7u) | [Heart of Mine](https://open.spotify.com/album/4Wxs9jEq4dwPFd5iLdwBHj) | 2:51 | 2022-06-13 | 2022-07-27 |
 | [Heat](https://open.spotify.com/track/1WMgD7XURLt8bb5p8uM2Pj) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [breathe.](https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs) | 3:10 | 2023-11-20 | 2024-04-19 |
@@ -254,7 +255,7 @@
 | [One Conversation](https://open.spotify.com/track/0SGZVoQsEuOeEeKaeQpoZt) | [Yung Bright](https://open.spotify.com/artist/0YnURC4kKD8ivGRxGKN5Hz) | [One Conversation](https://open.spotify.com/album/4zxn58VwU6cymtbP3zdGw7) | 2:56 | 2022-06-13 | 2022-07-26 |
 | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn) | 2:10 | 2022-08-15 | 2022-10-30 |
 | [Only You](https://open.spotify.com/track/7Fo4FSLIXIQ71RSzzrQEPq) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Only You](https://open.spotify.com/album/27bRSjzXQUyYBFNstOtWHv) | 3:41 | 2022-06-06 | 2022-07-26 |
-| [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 |  |
+| [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 | 2025-09-30 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-07-11 |  |
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-29 | 2025-07-25 |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2022-07-25 |  |
@@ -308,6 +309,7 @@
 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 |  |
 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 | 2024-09-30 |  |
 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 | 2022-07-25 |  |
+| [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 | 2025-09-29 |  |
 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-08-24 |  |
 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 | 2023-09-11 | 2025-03-09 |
 | [Sugar Water](https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb) | [Cibo Matto](https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6) | [Viva! La Woman](https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W) | 4:29 | 2024-05-27 |  |

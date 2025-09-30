@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 151456,
+  "num_followers": 151778,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAMpuKgwUQowf0WXqbc3/9o",
+  "snapshot_id": "aNh6gAAAAAAoAWTLaU8+lOXHzdtlpnlG",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOD'S GOT MY BACK",
-        "url": "https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM"
+        "name": "PRAISES (remix)",
+        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
       "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 158388,
-      "name": "GOD'S GOT MY BACK",
-      "url": "https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y"
+      "duration_ms": 170353,
+      "name": "PRAISES (remix)",
+      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
     },
     {
       "added_at": null,
@@ -195,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRAISES (remix)",
-        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
+        "name": "GOD'S GOT MY BACK",
+        "url": "https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM"
       },
       "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 170353,
-      "name": "PRAISES (remix)",
-      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+      "duration_ms": 158388,
+      "name": "GOD'S GOT MY BACK",
+      "url": "https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y"
     },
     {
       "added_at": null,

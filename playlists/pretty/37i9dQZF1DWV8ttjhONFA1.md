@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: 1915
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,602 likes - 111 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,600 likes - 111 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

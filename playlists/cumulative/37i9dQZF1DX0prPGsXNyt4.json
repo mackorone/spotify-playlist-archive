@@ -175,6 +175,32 @@
     },
     {
       "album": {
+        "name": "Baby eu n\u00e3o quero outro algu\u00e9m",
+        "url": "https://open.spotify.com/album/5uim76PcGEw7aJGY4iWxjf"
+      },
+      "artists": [
+        {
+          "name": "MC LV DA BS",
+          "url": "https://open.spotify.com/artist/0ARhCNTVWRHFfdqLY5DaUg"
+        },
+        {
+          "name": "DJ Game Beat",
+          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
+        },
+        {
+          "name": "Mister F\u00e1cil",
+          "url": "https://open.spotify.com/artist/7MzZeESOXo7z4gGYztJpfm"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "Baby eu n\u00e3o quero outro algu\u00e9m",
+      "url": "https://open.spotify.com/track/2iGsLdWGjSm77oTBJc4SqC"
+    },
+    {
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -1332,7 +1358,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 275000,
       "name": "Perdi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"

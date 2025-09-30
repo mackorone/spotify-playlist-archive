@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,834 likes - 96 songs - 4 hr 6 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,822 likes - 97 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 94 | [Ain't No Sunshine](https://open.spotify.com/track/667TakUrGfXAZCjnlvzVs4) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Ain't No Sunshine](https://open.spotify.com/album/0yKxr7LyQBSUh8XhTrdxL7) | 2:25 |
 | 95 | [The One](https://open.spotify.com/track/0dyChP0JnFXTjSIqdpRPbE) | [Avista Band](https://open.spotify.com/artist/4V0OLM23lX2E4Wt5HhXU6Q) | [The One](https://open.spotify.com/album/64dVOoGX2ItgKr8Js8f2Gv) | 2:46 |
 | 96 | [Back To Life](https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Le Bok](https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY) | [Back To Life](https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk) | 2:43 |
+| 97 | [I Want It That Way](https://open.spotify.com/track/1V13MmE2RHWM0fzFxc7cFX) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [I Want It That Way](https://open.spotify.com/album/3l0GLiC3jNaKW8Uz8H6UcU) | 2:32 |
 
-Snapshot ID: `AAAhgIKb4Vi+O7lyGXNXeBeZQJThhRjl`
+Snapshot ID: `AAAhgSSMmwtR0L4ACmypv2S1J2AfVdTo`

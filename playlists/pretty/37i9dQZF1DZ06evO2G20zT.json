@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 38651,
+  "num_followers": 38695,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADQnGa1xR/imso/akY6Qeh4",
+  "snapshot_id": "aNh6gAAAAACCy72Y8+38CEuVz/R06SDG",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rafat",
+        "url": "https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X"
+      },
+      "artists": [
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 120032,
+      "name": "Different Conversation Live 4",
+      "url": "https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 138947,
       "name": "Flakky",
       "url": "https://open.spotify.com/track/6SHKNvlSpKXQOwEse9OT6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rafat",
-        "url": "https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 120032,
-      "name": "Different Conversation Live 4",
-      "url": "https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ"
     },
     {
       "added_at": null,

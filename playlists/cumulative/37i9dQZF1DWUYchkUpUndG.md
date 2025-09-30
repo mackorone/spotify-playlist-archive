@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Victor Thompson
 
-6,315 songs - 19 day 6 hr 10 min
+6,316 songs - 19 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5264,6 +5264,7 @@
 | [thank You](https://open.spotify.com/track/1w5y1PQyRl8ZeolMInCc0b) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [thank You](https://open.spotify.com/album/7daqMvjx0auhKlkHAGy7AM) | 2:54 | 2023-10-13 | 2023-10-27 |
 | [Thank You](https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE) | [Tondi Rams](https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Thank You](https://open.spotify.com/album/1ZjYyqnWU5CV1buejFZFk1) | 3:15 | 2023-10-27 | 2023-11-10 |
 | [Thank You \- Live](https://open.spotify.com/track/3OZo0QMigWKH09yqrOVr2c) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Thank You \(Live\)](https://open.spotify.com/album/0ahNbBNatEAcb4NPT85G4Q) | 8:08 | 2023-11-17 | 2023-12-01 |
+| [Thank You Baba](https://open.spotify.com/track/6MMDIyZGmqncNuJZTM9N3k) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [Sounds From The Holy Hill](https://open.spotify.com/album/3sEbNb8AmmUuQZUwolWEgf) | 7:54 | 2025-09-29 |  |
 | [Thank You Enough](https://open.spotify.com/track/29ssaDLYZsvMxeX9RoMzEu) | [Daniel Richman](https://open.spotify.com/artist/6oPLxPqad8v615LWzeK5Vg) | [Thank You Enough](https://open.spotify.com/album/1yofeicOxJQr6j09cuBSNS) | 2:53 | 2023-09-01 | 2023-09-15 |
 | [THANK YOU FOR BEING GOD](https://open.spotify.com/track/5vkYr5LARcSmBeBe72XoQH) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [THANK YOU FOR BEING GOD](https://open.spotify.com/album/5DxuuH3I49aT4DoQsfLFqQ) | 3:15 | 2025-03-07 | 2025-03-14 |
 | [Thank You for Showing Me Mercy](https://open.spotify.com/track/27Q22uWiv9mpCczxbpYHiK) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb) | [Thank You for Showing Me Mercy](https://open.spotify.com/album/5gPDF9iXONEg5UQRIW8M31) | 8:42 | 2024-11-15 | 2024-11-29 |

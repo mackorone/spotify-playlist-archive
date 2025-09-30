@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABHIThQUc+B0T+3lNBoE8Q7",
+  "snapshot_id": "aNh6gAAAAABoGBaHGpaWqgqTSJJgxzOW",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 320626,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/4fvpSvvMoEd9ka3wfMGjKn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 320626,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/4fvpSvvMoEd9ka3wfMGjKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
@@ -307,6 +307,26 @@
       "duration_ms": 204093,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
       "added_at": null,
@@ -339,26 +359,6 @@
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Love Wins",
-      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+      "duration_ms": 228640,
+      "name": "Love Wins",
+      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Cry Pretty",
-      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -815,6 +799,38 @@
       "duration_ms": 240266,
       "name": "Don't Forget to Remember Me",
       "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Cry Pretty",
+      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 190573,
       "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
       "url": "https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enchanted",
-        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

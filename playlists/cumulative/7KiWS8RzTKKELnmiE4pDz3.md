@@ -4,7 +4,7 @@
 
 > 
 
-1,181 songs - 2 day 12 hr 19 min
+1,184 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Come Catch Me](https://open.spotify.com/track/6CVRKPKIQawSt3Uh1eOoBi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:03 | 2023-01-03 | 2023-12-14 |
 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 | 2025-06-30 |  |
 | [Comedy Central \(feat\. Fabolous\)](https://open.spotify.com/track/6QS5NvckK1XyzcJY6Jtkzg) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:33 | 2025-07-28 |  |
+| [Comfort Me](https://open.spotify.com/track/3dAk7Z16rv38qRM3MIhCIX) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Comfort Me](https://open.spotify.com/album/2TBDKykLi4elMrJAfU2qhT) | 2:51 | 2025-09-29 |  |
 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-08-02 |  |
 | [Confessions](https://open.spotify.com/track/6Tm2931jP5r0yN3EZ0xbfQ) | [Maitchhh](https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh) | [Confessions](https://open.spotify.com/album/5GDRXm5vahoRbkSiqXrGi3) | 3:25 | 2022-06-26 | 2023-12-14 |
 | [Confused](https://open.spotify.com/track/1cK5zOWpPCYdoGQczIltf6) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lean](https://open.spotify.com/album/1pxbLI1IX7RKkbMjaSrm9j) | 3:58 | 2024-08-18 | 2025-05-21 |
@@ -921,6 +922,7 @@
 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 | 2024-08-11 |  |
 | [Shane Battier](https://open.spotify.com/track/1tYFlf79p1H0eUBE3u300T) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Shane Battier](https://open.spotify.com/album/2hnS7N1TdftRB55sFR4mSz) | 1:11 | 2022-12-31 | 2023-05-09 |
 | [Shangri La](https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:02 | 2025-07-28 |  |
+| [She's Not Me](https://open.spotify.com/track/5lAXP9ChewjNQtf30LU9R6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 6:04 | 2025-09-30 |  |
 | [She’s The One](https://open.spotify.com/track/6bfJggd4HFdzHzvZLQ5EDX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:08 | 2022-08-23 |  |
 | [Shiest Talk \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/6FyYMbtmEgQDCgy9mYrOX8) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:03 | 2022-10-15 | 2023-12-14 |
 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 | 2022-10-31 | 2025-05-21 |
@@ -1018,6 +1020,7 @@
 | [Tape You](https://open.spotify.com/track/3REnVcPtMXDxR4g8sZ4QtM) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:51 | 2025-08-01 |  |
 | [TASTE](https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:50 | 2024-11-05 |  |
 | [Teach You To Be Lonely](https://open.spotify.com/track/1u3SbjzS20gjIePyLGZmYR) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Salty Sammy](https://open.spotify.com/album/0lmjWuU4ZrinYP5NW7ip61) | 4:39 | 2022-09-05 | 2023-04-24 |
+| [Tease \(feat\. Pharrell\)](https://open.spotify.com/track/2xyRZ1lxkW5cXDTRt4bT9o) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 2:55 | 2025-09-29 |  |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2022-03-07 | 2023-12-14 |
 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-08-07 | 2024-03-05 |
 | [Tell më](https://open.spotify.com/track/1ObrUCFugAMJoXcvpggbOd) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:03 | 2024-02-21 | 2024-04-24 |

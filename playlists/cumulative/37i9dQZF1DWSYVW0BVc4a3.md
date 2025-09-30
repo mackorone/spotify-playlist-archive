@@ -4,7 +4,7 @@
 
 > Mochakk always brings the vibe
 
-1,323 songs - 4 day 2 hr 5 min
+1,326 songs - 4 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-09 | 2025-08-16 |
 | [A Little Fun](https://open.spotify.com/track/5ED4Qj4sGvtkObXYXJ88L3) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [A Little Fun / Brain Drain](https://open.spotify.com/album/08DaiRJietHugD3s69qrhO) | 3:14 | 2024-04-11 | 2025-08-16 |
 | [A Prayer](https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [A Prayer](https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD) | 3:30 | 2023-10-19 | 2023-12-20 |
+| [ABC's](https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [ABC's](https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE) | 2:58 | 2025-09-29 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-08-18 | 2023-11-17 |
 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 | 2025-05-22 |  |
 | [Acid Rain](https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Acid Rain](https://open.spotify.com/album/0SWKBsotIgXTd3ekDpRUdC) | 3:00 | 2024-03-14 | 2025-08-16 |
@@ -410,6 +411,7 @@
 | [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 | 2024-02-22 | 2025-08-16 |
 | [Funkenflug](https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Funkenflug](https://open.spotify.com/album/65xp7xUkGiERTwc7Zc8ZhQ) | 7:43 | 2023-04-13 | 2023-05-14 |
 | [Fussy](https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fussy](https://open.spotify.com/album/6uK1DkQIXyvnQaataGOUAJ) | 2:54 | 2024-02-22 | 2025-08-16 |
+| [Fón Póca \(feat\. Travy\)](https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF) | 3:37 | 2025-09-29 |  |
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 | 2023-12-15 |
 | [Gator](https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Gator](https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe) | 8:23 | 2023-04-20 | 2023-05-06 |
 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 | 2025-06-19 |  |
@@ -587,6 +589,7 @@
 | [JOY \(Easy To Improve\)](https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Easy To Improve\)](https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH) | 3:26 | 2022-08-25 | 2022-10-16 |
 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 | 2022-12-22 | 2023-01-27 |
 | [Juice](https://open.spotify.com/track/5Z4fVgbRNz1aPy6bdf2jca) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Juice](https://open.spotify.com/album/2iY3g0sYtGjooe98tq46MB) | 3:22 | 2025-03-21 |  |
+| [Jump Higher](https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Jump Higher](https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw) | 2:56 | 2025-09-29 |  |
 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 | 2024-07-25 | 2025-08-16 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-08-18 | 2023-08-04 |
 | [Just Come \- Marco Lys Remix](https://open.spotify.com/track/1fy3nyBffRSXHqvip1Hyo2) | [Cool Jack](https://open.spotify.com/artist/14JwN8sxchomQZS40obpio), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Just Come \(Marco Lys Remix\)](https://open.spotify.com/album/0varLFZ9nR0fjtylPXkJXX) | 3:07 | 2024-03-22 | 2025-08-16 |

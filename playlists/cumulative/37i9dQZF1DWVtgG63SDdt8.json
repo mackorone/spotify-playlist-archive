@@ -165618,6 +165618,28 @@
     {
       "album": {
         "name": "Still",
+        "url": "https://open.spotify.com/album/5uEVM3ORolhfwpOlKO43jU"
+      },
+      "artists": [
+        {
+          "name": "CXMMXNS",
+          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
+        },
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324800,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6h4nWdptzATChfTJBTQRZL"
+    },
+    {
+      "album": {
+        "name": "Still",
         "url": "https://open.spotify.com/album/4m5jdd395rgTelDNuCJ8Qv"
       },
       "artists": [
@@ -165650,28 +165672,6 @@
       "duration_ms": 210599,
       "name": "Still",
       "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
-    },
-    {
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/5uEVM3ORolhfwpOlKO43jU"
-      },
-      "artists": [
-        {
-          "name": "CXMMXNS",
-          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
-        },
-        {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
-        }
-      ],
-      "date_added": "2025-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 324800,
-      "name": "Still (Live)",
-      "url": "https://open.spotify.com/track/6h4nWdptzATChfTJBTQRZL"
     },
     {
       "album": {
@@ -191979,7 +191979,7 @@
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 244166,
+      "duration_ms": 244194,
       "name": "WATCH",
       "url": "https://open.spotify.com/track/12Sci7Ep604nCCig02ttvx"
     },

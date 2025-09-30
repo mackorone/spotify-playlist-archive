@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 115038,
+  "num_followers": 115030,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHp36ahmluqVdcDmLkumh5Vli/cn",
+  "snapshot_id": "AAAAAMPP0UVh1w4Y5CTKU9u6oSr8ALuA",
   "tracks": [
     {
       "added_at": "2025-09-12 12:57:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 172839,
       "name": "Hartwell",
       "url": "https://open.spotify.com/track/4TLXwgCmciX8sYIVj1b7Xg"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "say something",
-        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 144544,
-      "name": "say something",
-      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "QUIT QUIETLY",
         "url": "https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 169600,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -683,6 +667,22 @@
       "duration_ms": 203007,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "I Lied, Amber",
         "url": "https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 211626,
       "name": "I Lied, Amber",
       "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Crying Over Nothing",
+        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 195394,
+      "name": "Crying Over Nothing",
+      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Cutthroat",
         "url": "https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP"
       },
@@ -1005,20 +1021,24 @@
       "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
     },
     {
-      "added_at": "2025-09-01 14:27:56",
+      "added_at": "2025-09-12 12:57:00",
       "album": {
-        "name": "Crying Over Nothing",
-        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/5JbGpDzw1QQpWEWfJIh8ux"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Soft Glas",
+          "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0"
         }
       ],
-      "duration_ms": 195394,
-      "name": "Crying Over Nothing",
-      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
+      "duration_ms": 230513,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1067,26 +1087,6 @@
       "duration_ms": 181946,
       "name": "Save me now",
       "url": "https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah"
-    },
-    {
-      "added_at": "2025-09-12 12:57:00",
-      "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/5JbGpDzw1QQpWEWfJIh8ux"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        },
-        {
-          "name": "Soft Glas",
-          "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0"
-        }
-      ],
-      "duration_ms": 230513,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "I Used To",
         "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW"
       },
       "artists": [
         {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
+      "duration_ms": 193993,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1407,22 +1423,6 @@
       "duration_ms": 222224,
       "name": "Salesman",
       "url": "https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW"
-      },
-      "artists": [
-        {
-          "name": "Been Stellar",
-          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
-        }
-      ],
-      "duration_ms": 193993,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Fold",
-        "url": "https://open.spotify.com/album/1ah2CY1w0eG8Zy8Ur1fVJ1"
-      },
-      "artists": [
-        {
-          "name": "Chartreuse",
-          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
-        }
-      ],
-      "duration_ms": 228604,
-      "name": "Fold",
-      "url": "https://open.spotify.com/track/0tbQ08FI6iX6IKS9EgSsC8"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Through My Teeth",
         "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/1ah2CY1w0eG8Zy8Ur1fVJ1"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "duration_ms": 228604,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/0tbQ08FI6iX6IKS9EgSsC8"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -1519,38 +1519,6 @@
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Claritin",
-        "url": "https://open.spotify.com/album/1Vd7kYCE0nXoZbRfBDl28H"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Claritin",
-      "url": "https://open.spotify.com/track/0deV9lMzallKEKFbJ6qiRs"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "starburn",
-        "url": "https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G"
-      },
-      "artists": [
-        {
-          "name": "crushed",
-          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
-        }
-      ],
-      "duration_ms": 251407,
-      "name": "starburn",
-      "url": "https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1583,6 +1551,38 @@
       "duration_ms": 258000,
       "name": "Portsmouth Raceway",
       "url": "https://open.spotify.com/track/06GLV6gWiFa4eYQ2pa5Pb7"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "starburn",
+        "url": "https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G"
+      },
+      "artists": [
+        {
+          "name": "crushed",
+          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
+        }
+      ],
+      "duration_ms": 251407,
+      "name": "starburn",
+      "url": "https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Claritin",
+        "url": "https://open.spotify.com/album/1Vd7kYCE0nXoZbRfBDl28H"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Claritin",
+      "url": "https://open.spotify.com/track/0deV9lMzallKEKFbJ6qiRs"
     },
     {
       "added_at": "2025-09-01 14:27:56",

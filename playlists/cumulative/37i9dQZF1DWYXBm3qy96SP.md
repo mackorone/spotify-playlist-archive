@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: PRESIDENT
 
-1,708 songs - 4 day 2 hr 46 min
+1,709 songs - 4 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,6 +876,7 @@
 | [Living Or Dying](https://open.spotify.com/track/33hscsDJtrZMeOi5eJhHLr) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Living Or Dying](https://open.spotify.com/album/1B43OF6rFqDRanhHHDUIQH) | 3:39 | 2023-11-02 | 2023-11-17 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-16 | 2024-07-19 |
 | [Living Proof](https://open.spotify.com/track/5EiE9ElrC8UNnyuEOIpPeV) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 3:22 | 2023-05-04 | 2023-05-12 |
+| [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 | 2025-09-25 |  |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-15 | 2025-01-26 |
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-02-01 | 2024-02-09 |
 | [Lonely Together](https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Lonely Together](https://open.spotify.com/album/1tVvVpUuYQtHVNzWueWKPr) | 3:34 | 2023-07-27 | 2023-08-04 |
@@ -1280,7 +1281,7 @@
 | [Settle Petal](https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy) | 3:06 | 2023-11-23 | 2023-12-01 |
 | [Seven Out](https://open.spotify.com/track/6Mt6czdOmbc2vheLs4HDI4) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Seven Out](https://open.spotify.com/album/4Qc5eqPw7BSQdoqyT3LSo5) | 2:56 | 2024-01-11 | 2024-01-19 |
 | [Shadow in the Sun](https://open.spotify.com/track/6xaMXvpkmVow1RAinlthUT) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Shadow in the Sun](https://open.spotify.com/album/5dVfRPlgjkkI1bBIvhzMEO) | 3:11 | 2024-02-29 | 2024-07-27 |
-| [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-08-01 |  |
+| [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-08-01 | 2025-09-30 |
 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 | 2023-11-23 | 2023-12-01 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2023-03-16 | 2023-04-28 |
 | [She Loves You \- 2023 Mix](https://open.spotify.com/track/01K1zFyjJhG2Qk7PIkSAEA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 – 1966 \(2023 Edition\)](https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba) | 2:22 | 2023-11-09 | 2023-11-24 |

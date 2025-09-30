@@ -2,9 +2,9 @@
 
 ### [Mid Tempo Magic](https://open.spotify.com/playlist/37i9dQZF1DWSCRpjXigf8o)
 
-> 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？cover: 藤井 風
+> 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-632 songs - 1 day 14 hr 18 min
+633 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Hotel Valet](https://open.spotify.com/track/3PG8Cjr1Bp8zUZ5xnhkLo5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 3:54 | 2023-02-09 | 2023-03-01 |
 | [How Could We Know \(feat\. Simon Climie & Daniel Santiago\)](https://open.spotify.com/track/3pG0Hh8ANhVjFmFOe0yd5x) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t), [Simon Climie](https://open.spotify.com/artist/3HISkAiDX0gaSSUDZej38A), [Daniel Santiago](https://open.spotify.com/artist/7xk2FyMhjJrRvT8MNuBrUi) | [Moon River / How Could We Know](https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT) | 4:19 | 2023-07-13 | 2023-08-25 |
 | [How I Fell](https://open.spotify.com/track/49Toen03Pj0AgQBflA6WG5) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [How I Fell](https://open.spotify.com/album/4VjQFFEGgBewa3O3nsrK09) | 4:26 | 2023-08-24 | 2023-10-13 |
-| [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 | 2023-06-13 |  |
+| [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 | 2023-06-13 | 2025-09-30 |
 | [How to Start A Garden](https://open.spotify.com/track/6pyWPwXCQqB4FcRrcefzmU) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [How To Start A Garden](https://open.spotify.com/album/5Cq8LjM4wG9tQdo8ynIC5g) | 5:02 | 2023-05-04 | 2023-07-07 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-04-21 |
 | [I Built A Friend \(2020\)](https://open.spotify.com/track/68XhCrBajUR64h6wv4eYYW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Built A Friend \(2020\)](https://open.spotify.com/album/31s5CRYvua6xU9c2n7H8PJ) | 2:56 | 2022-12-06 | 2023-02-10 |
@@ -576,6 +576,7 @@
 | [デザイナーズマンション](https://open.spotify.com/track/0f6tHt4AjDkpbLHS3lnu1a) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [SUKIMASWITCH 20th Anniversary Tribute Album『みんなのスキマスイッチ』](https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw) | 2:22 | 2024-05-30 | 2024-07-13 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-21 |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2024-01-10 |
+| [ネイルの島](https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9) | 3:41 | 2025-09-29 |  |
 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 | 2023-11-01 |
 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 | 2025-09-05 |  |
 | [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-20 | 2023-08-02 |

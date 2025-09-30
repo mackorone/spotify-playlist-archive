@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 800837,
+  "num_followers": 800938,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Soul, Vol. 1",
+        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Silver Collection",
         "url": "https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 140733,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Soul, Vol. 1",
-        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
     },
     {
       "added_at": "2024-07-02 22:47:47",

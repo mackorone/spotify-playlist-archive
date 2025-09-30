@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "0008",
+        "url": "https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT"
+      },
+      "artists": [
+        {
+          "name": "R Maan",
+          "url": "https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "0008",
+      "url": "https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV"
+    },
+    {
+      "album": {
         "name": "18 Lakh",
         "url": "https://open.spotify.com/album/3QXb9c5hnpj1nlUXSXQNiT"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 172720,
       "name": "Akhada - Title Song",
       "url": "https://open.spotify.com/track/2AxxnomQHFFkRYwZA4HimJ"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 135033,
       "name": "Badmasa Ka Garh",
       "url": "https://open.spotify.com/track/7HXSXBJJXfqFbywTBjdHNf"
@@ -1913,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Laash Dikh Jagi",
+        "url": "https://open.spotify.com/album/7rfQyabA0isF063nrnTEtq"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Swara Verma",
+          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Laash Dikh Jagi",
+      "url": "https://open.spotify.com/track/2M6ODDrTfCzG12dBwbQaOS"
+    },
+    {
+      "album": {
         "name": "Lala Lori",
         "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
       },
@@ -2032,7 +2072,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 149418,
       "name": "Manas Maar",
       "url": "https://open.spotify.com/track/6oV5XakaaQ2YMpk7hgEhxU"
@@ -3378,6 +3418,36 @@
       "duration_ms": 189000,
       "name": "Yadav Maar Maran (feat. Akki Kalyan)",
       "url": "https://open.spotify.com/track/3eqWEV3vl7YSITnYzzfW76"
+    },
+    {
+      "album": {
+        "name": "Yodha",
+        "url": "https://open.spotify.com/album/18yI9MCnn6F8J0XtCStdic"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        },
+        {
+          "name": "Deep Laath",
+          "url": "https://open.spotify.com/artist/77JeTIp585MsQPZhC0gxPd"
+        },
+        {
+          "name": "Prithviraj Pilania",
+          "url": "https://open.spotify.com/artist/2Sw4dNokvWTGmDnrKL019k"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168191,
+      "name": "Yodha",
+      "url": "https://open.spotify.com/track/0Omq5hiyR6Uv2A6JjxDx0a"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8JRCXB7TyAC"

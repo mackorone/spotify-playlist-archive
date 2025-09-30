@@ -636,6 +636,28 @@
     {
       "album": {
         "name": "4AM IN IBIZA",
+        "url": "https://open.spotify.com/album/7w0vgK94rNjzPB80LgAdPz"
+      },
+      "artists": [
+        {
+          "name": "Mark Vank",
+          "url": "https://open.spotify.com/artist/43kbgy3mjbFkA5ndaFzekf"
+        },
+        {
+          "name": "Samu",
+          "url": "https://open.spotify.com/artist/18h6AOAQUSrWGxC6uB71Ji"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220004,
+      "name": "4AM IN IBIZA",
+      "url": "https://open.spotify.com/track/0RAiNFjiSU0EfJXooHq5nq"
+    },
+    {
+      "album": {
+        "name": "4AM IN IBIZA",
         "url": "https://open.spotify.com/album/5FxiBOrZbYDCik9EnQpNL5"
       },
       "artists": [
@@ -650,7 +672,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
@@ -2106,7 +2128,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 172211,
       "name": "Alles Kan Kapot",
       "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
@@ -2412,6 +2434,28 @@
       "duration_ms": 137794,
       "name": "Altijd Samen",
       "url": "https://open.spotify.com/track/1Mx89XMlp7edvEoz6CNfji"
+    },
+    {
+      "album": {
+        "name": "Altijd Voor Je Zijn",
+        "url": "https://open.spotify.com/album/3QVBH8ITYFsObHYVHANTwf"
+      },
+      "artists": [
+        {
+          "name": "Milo ter Reegen",
+          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
+        },
+        {
+          "name": "Ren\u00e9 le Blanc",
+          "url": "https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163996,
+      "name": "Altijd Voor Je Zijn",
+      "url": "https://open.spotify.com/track/6uZ2FDCDThzvlInOswLVQW"
     },
     {
       "album": {
@@ -5334,7 +5378,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
@@ -17046,7 +17090,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -24088,7 +24132,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 182618,
       "name": "Met Of Zonder Jou",
       "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
@@ -32994,7 +33038,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"

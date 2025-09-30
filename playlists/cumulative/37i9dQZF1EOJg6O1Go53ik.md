@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#67 \- Pink \- Missundaztood](https://open.spotify.com/episode/2OquVf9jWJm9RxIyPJnUrf) | [Why I Hate this Album](https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s) | [Why I Hate this Album](https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s) | 1:31:16 | 2020-11-27 |  |
+| [\#67 \- Pink \- Missundaztood](https://open.spotify.com/episode/2OquVf9jWJm9RxIyPJnUrf) | [Why I Hate this Album](https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s) | [Why I Hate this Album](https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s) | 1:31:16 | 2020-11-27 | 2025-09-30 |
 | [019  Ella Fitzgerald \- Sings the Gershwin Song Book](https://open.spotify.com/episode/3ne1wQAfU2YLTqgyaV3dm6) | [1001 Album Club](https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb) | [1001 Album Club](https://open.spotify.com/album/7f5Rdm6RukUPsWFtxlEfOb) | 16:00 | 2020-11-27 |  |
 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2020-11-27 |  |
 | [Be OK](https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 | 2020-11-27 |  |

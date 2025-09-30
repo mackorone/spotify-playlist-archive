@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: BGYO
 
-552 songs - 1 day 10 hr 26 min
+554 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Kalul’wa](https://open.spotify.com/track/0h8VHbUeVsIaCKlPLIhYDE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Kalul’wa](https://open.spotify.com/album/7FGbcJcmn2tXjuaYaoW5BN) | 3:11 | 2025-03-28 | 2025-07-13 |
 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 | 2024-09-27 | 2024-12-17 |
 | [Kandarapa](https://open.spotify.com/track/6nHOthPB3o6MCXNZ0Fa6ta) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Method Adaptor](https://open.spotify.com/album/7hsFUqyMvYNWcjMLfi1oUp) | 4:15 | 2024-11-08 | 2025-02-01 |
+| [Kapangyarihan \- feat\. SB19](https://open.spotify.com/track/6FFtbC1K2aNeCS376paoHN) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pebble House, Vol\. 1: Kuwaderno](https://open.spotify.com/album/0UeeygFdIo8k7PgxpLEGWI) | 4:29 | 2025-09-29 |  |
 | [Kape](https://open.spotify.com/track/3GeVvV5HZGJh57wz9CS5ZF) | [Destiny Palisoc](https://open.spotify.com/artist/5pEHj8qSCc3G2S5mXZWoWj) | [Kape](https://open.spotify.com/album/6zxSfy6cYswUt1TpOcJ49e) | 3:19 | 2025-05-26 |  |
 | [Kape](https://open.spotify.com/track/4yaIMZ86wsyni0V9b8p52v) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Kape](https://open.spotify.com/album/3MpVBleiTg2fGZ9cvXRaRq) | 4:33 | 2025-05-05 |  |
 | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 | 2024-08-16 | 2024-11-21 |
@@ -472,6 +473,7 @@
 | [Sikretong Tayo Lang May Alam](https://open.spotify.com/track/3ifW37TIg8ZLHcVbwlapdP) | [SHANNi](https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp) | [Sikretong Tayo Lang May Alam](https://open.spotify.com/album/1DNAxfgMrm75PFo0k0gIUT) | 4:46 | 2025-07-12 |  |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-07-02 | 2024-08-03 |
 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-08-30 | 2024-11-23 |
+| [Silong](https://open.spotify.com/track/6F3I568l8PTX4DLya2mVdE) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Silong](https://open.spotify.com/album/0dYnyGODctgxgIPkUwBKTb) | 5:42 | 2025-09-29 |  |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-07-02 | 2024-08-31 |
 | [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-20 |  |
 | [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 | 2024-09-27 |

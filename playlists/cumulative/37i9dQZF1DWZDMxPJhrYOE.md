@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-750 songs - 1 day 14 hr 28 min
+751 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [Kælling](https://open.spotify.com/track/0BvXa80fZjHGPJWyTOy3wc) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [Kælling](https://open.spotify.com/album/1yfWyz4CBxDEziMhp5RoON) | 2:16 | 2025-04-10 | 2025-05-02 |
 | [Kærlighed](https://open.spotify.com/track/3MIwXofeyDvXoYn7GQACCS) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Kærlighed](https://open.spotify.com/album/2U17zdpU7xUfWYDhfKzD2e) | 3:28 | 2024-11-07 | 2025-02-09 |
 | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/album/2Dj8zC44xsrq1HtjSVGN4o) | 2:44 | 2024-07-31 | 2024-08-30 |
-| [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 |  |
+| [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 | 2025-09-30 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 |  |
 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 | 2025-02-13 | 2025-05-14 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-01-31 |
@@ -461,6 +461,7 @@
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-26 | 2024-10-11 |
 | [Mit Ord](https://open.spotify.com/track/2MTuvBUexLhmsiRpIozOL5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Mit Ord](https://open.spotify.com/album/2n1YkH9GplOZunXhT8ucqL) | 2:30 | 2025-01-24 | 2025-02-28 |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 | 2025-08-20 |
+| [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-25 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 | 2025-01-25 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 | 2025-08-03 |
 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 | 2024-07-31 | 2024-08-17 |

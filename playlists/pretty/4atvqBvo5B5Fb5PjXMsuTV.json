@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Sep 03:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Sep 18:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVEcybUzQjuYKz1z/hyxTo8iapXq7u",
+  "snapshot_id": "AAAVExIh7IG/tlaC5BJgy0nk7kAXMSSi",
   "tracks": [
     {
       "added_at": "2025-09-26 13:06:43",
@@ -449,6 +449,30 @@
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
     },
     {
+      "added_at": "2025-09-29 18:05:58",
+      "album": {
+        "name": "rollback freestyle",
+        "url": "https://open.spotify.com/album/5xu0iljRkz8vBAjaGsfuT9"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        },
+        {
+          "name": "RXKNephew",
+          "url": "https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT"
+        },
+        {
+          "name": "Grey Streak",
+          "url": "https://open.spotify.com/artist/2J3xUSbnigLbcN4cmzkcS9"
+        }
+      ],
+      "duration_ms": 106931,
+      "name": "rollback freestyle",
+      "url": "https://open.spotify.com/track/6mPuuM6qVrr0okmGFeLVHb"
+    },
+    {
       "added_at": "2025-09-26 08:06:07",
       "album": {
         "name": "Chinatown Pt 2",
@@ -803,22 +827,6 @@
       "duration_ms": 172255,
       "name": "IF LYRICS WERE CONFIDENTIAL",
       "url": "https://open.spotify.com/track/4u3Cw2vfURpijHBMVFOmGQ"
-    },
-    {
-      "added_at": "2025-09-19 13:05:39",
-      "album": {
-        "name": "Into The Cesspool",
-        "url": "https://open.spotify.com/album/0YmYysa7t4xstlKnVCVsM6"
-      },
-      "artists": [
-        {
-          "name": "Dying Fetus",
-          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
-        }
-      ],
-      "duration_ms": 223402,
-      "name": "Into The Cesspool",
-      "url": "https://open.spotify.com/track/2YZlG2b8Gz0t6ThDiRPinZ"
     }
   ],
   "unique_name": "New Singles Now",

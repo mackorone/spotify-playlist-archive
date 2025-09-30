@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,704 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,702 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 37 | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk) | 1:39 |
 | 38 | [Rede Social \- Speed](https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Rede Social \(Speed\)](https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ) | 2:34 |
 | 39 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
-| 40 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
-| 41 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |
+| 40 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |
+| 41 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
 | 42 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
 | 43 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 44 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 107266,
+  "num_followers": 107367,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,30 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/7pZKygr8wq4PJKODB0ILfL"
       },
@@ -183,30 +207,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
       },
@@ -219,6 +219,26 @@
       "duration_ms": 200347,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -243,22 +263,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -323,22 +339,6 @@
       "duration_ms": 220505,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Oscillations",
         "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 306040,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 225382,
       "name": "Sunday Blues",
       "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Live From Nkrumah Krom Vol II: Home Run",
-        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Perfect Design",
-        "url": "https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Perfect Design",
-      "url": "https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "More Of You",
         "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Hawataweza",
-        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+        "name": "Perfect Design",
+        "url": "https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob"
       },
       "artists": [
         {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Hawataweza",
-      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
+      "duration_ms": 208695,
+      "name": "Perfect Design",
+      "url": "https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1791,6 +1775,22 @@
       "duration_ms": 222000,
       "name": "Ndicel'ikiss",
       "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
       "added_at": "2025-07-11 08:09:25",

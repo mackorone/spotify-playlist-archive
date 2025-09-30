@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,493 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,501 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Trip](https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hannah](https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q) | [Trip](https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj) | 3:53 |
 | 50 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 |
 
-Snapshot ID: `AAAAACEkx2MOoEG9JjWeZ3K70QdyyH9/`
+Snapshot ID: `AAAAAMuLZ+ppG/urkQwiyNItSXJPHBAB`

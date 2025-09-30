@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13533,
+  "num_followers": 13536,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAA04zipSVG+3kJOLSCs/BYW",
+  "snapshot_id": "aNh6gAAAAAAOcA+8st/wkAXFhyWRmpjW",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+        "name": "Oil on My Head (Remix)",
+        "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
       },
       "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 255553,
-      "name": "From The Rising",
-      "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
+      "duration_ms": 217391,
+      "name": "Oil on My Head (Remix)",
+      "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
     },
     {
       "added_at": null,
@@ -291,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oil on My Head (Remix)",
-        "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
       "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 217391,
-      "name": "Oil on My Head (Remix)",
-      "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
+      "duration_ms": 255553,
+      "name": "From The Rising",
+      "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
     },
     {
       "added_at": null,
@@ -407,38 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 362109,
-      "name": "Akamdinelu",
-      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
@@ -459,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyeoma (Good God)",
-        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
@@ -468,9 +436,25 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 265538,
-      "name": "Onyeoma (Good God)",
-      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
+      "duration_ms": 362109,
+      "name": "Akamdinelu",
+      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 265168,
       "name": "Selense",
       "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onyeoma (Good God)",
+        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 265538,
+      "name": "Onyeoma (Good God)",
+      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
     },
     {
       "added_at": null,

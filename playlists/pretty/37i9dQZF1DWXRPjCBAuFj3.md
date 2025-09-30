@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈 Morad in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,603 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,690 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 78 | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/track/0zK49rNDZV9ptuuKs1buL8) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/album/3YS77kPw04Ts9PTDRV7vNJ) | 2:18 |
 | 79 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
 | 80 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 |
-| 81 | [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
+| 81 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 82 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 83 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 |
 | 84 | [OPPOSTO](https://open.spotify.com/track/0Yi9qh7UmSXCJNc2f8criL) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 3:06 |

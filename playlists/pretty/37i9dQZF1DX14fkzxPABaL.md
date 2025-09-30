@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Reik & Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,578 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,585 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
 | 100 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
 
-Snapshot ID: `AAAAAI5hAnx/+LIYqR8TptEQIQsae2I0`
+Snapshot ID: `AAAAAIXjldsgcMET7+4bf8y9KBxxMYO8`

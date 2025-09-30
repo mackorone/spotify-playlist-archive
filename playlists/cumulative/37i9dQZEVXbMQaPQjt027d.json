@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134220,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
+    },
+    {
+      "album": {
         "name": "High On Me",
         "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
       },
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -5128,10 +5146,28 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 210519,
       "name": "Through My Soul",
       "url": "https://open.spotify.com/track/7mSydMVoNUM2N3UzZvmeoC"
+    },
+    {
+      "album": {
+        "name": "Shadows & Soul",
+        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
+      },
+      "artists": [
+        {
+          "name": "Enlly Blue",
+          "url": "https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "Through My Soul",
+      "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
     },
     {
       "album": {
@@ -5587,7 +5623,7 @@
     },
     {
       "album": {
-        "name": "Encore / Viano",
+        "name": "ENCORE / VIANO",
         "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
       },
       "artists": [
@@ -5604,7 +5640,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 111764,
-      "name": "Viano",
+      "name": "VIANO",
       "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
     },
     {
@@ -5840,7 +5876,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "which one x 1er gaou",
       "url": "https://open.spotify.com/track/3BUkhj36FRJOoFTgtCWkKu"

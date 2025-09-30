@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,242 likes - 157 songs - 7 hr 49 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,242 likes - 158 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 155 | [Say Yeah](https://open.spotify.com/track/5ndgdr9wwdx6AGA9aykwnX) | [Tiger Stripes](https://open.spotify.com/artist/5L56gAwU2WofuHHOpLC0BU) | [Say Yeah](https://open.spotify.com/album/1Xn9FLx60GFcSHoaMaQFXk) | 3:17 |
 | 156 | [Lose Control](https://open.spotify.com/track/47tJ2hkHBQGfIaAmb3TOVi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Lose Control](https://open.spotify.com/album/2FLmeqwB9aWaW8PArqshV2) | 3:16 |
 | 157 | [SexyBack](https://open.spotify.com/track/0Zi3WlwXZAnTFju0NLAiFG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [SexyBack](https://open.spotify.com/album/2Itng7z3sjVM5iE0vxHj5P) | 2:50 |
+| 158 | [Paper Romance \- Purple Disco Machine Remix](https://open.spotify.com/track/4Q507WHVT2jAodOq49RqMf) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paper Romance \(Purple Disco Machine Remix \- Edit\)](https://open.spotify.com/album/422SWiQLySbuzPmJPYIDt8) | 6:50 |
 
-Snapshot ID: `AAAKdQ7Oh4fDbA9VBXGw34NrAWR5VNQA`
+Snapshot ID: `AAAKdk0ucAQCLV3slggYaDIA2n1HRb+u`

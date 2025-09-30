@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Gonna Make U",
+        "url": "https://open.spotify.com/album/5SLJ2wooauWvIfQnwiRBAY"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188467,
+      "name": "Gonna Make U",
+      "url": "https://open.spotify.com/track/7xTyPF9xZIcCT99udCyfnt"
+    },
+    {
+      "album": {
         "name": "Welcome to Diver City",
         "url": "https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ"
       },

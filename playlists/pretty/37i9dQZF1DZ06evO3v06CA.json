@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203202,
+  "num_followers": 203206,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAUFXK9TDYjcMgGr89YXExL",
+  "snapshot_id": "aNh6gAAAAADSUMdREB4GVg8PgAM9WDDt",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 50721,
-      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
-      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 167213,
       "name": "Big River",
       "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 50721,
+      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 220976,
-      "name": "Juanita",
-      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 220976,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
     },
     {
       "added_at": null,
@@ -1311,26 +1311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go Again: Celebrating The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/39xEJSZ5p2fJu7t9tA8Qt6"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
       "artists": [
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 232431,
-      "name": "Come Rain Or Come Shine - Live",
-      "url": "https://open.spotify.com/track/07h5NNEp2Wp0LCDNNoaxRI"
+      "duration_ms": 230933,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
     }
   ],
   "unique_name": "This Is Willie Nelson",

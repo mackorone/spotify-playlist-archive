@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 43308,
+  "num_followers": 43316,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADgc0XSM2MAXSR1FCgHxBg2",
+  "snapshot_id": "aNh6gAAAAADl1Vxa8WzSIC6v0qbZhOok",
   "tracks": [
     {
       "added_at": null,
@@ -87,8 +87,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+        "name": "Never Comin' Home",
+        "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
       },
       "artists": [
         {
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 195157,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
+      "duration_ms": 194270,
+      "name": "Never Comin' Home",
+      "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
     },
     {
       "added_at": null,
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Comin' Home",
-        "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 194270,
-      "name": "Never Comin' Home",
-      "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
       "added_at": null,
@@ -271,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New To Country",
-        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
+        "name": "Strong Enough",
+        "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
       "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 177123,
-      "name": "New To Country",
-      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+      "duration_ms": 149284,
+      "name": "Strong Enough (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strong Enough",
-        "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
+        "name": "New To Country",
+        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
       },
       "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 149284,
-      "name": "Strong Enough (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
+      "duration_ms": 177123,
+      "name": "New To Country",
+      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 468609,
+  "num_followers": 468646,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACVdDDOdcZgNDWDGmIwnq7Z",
+  "snapshot_id": "aNh6gAAAAAATeuulFggWg5BU9t2au2K2",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
-      },
-      "artists": [
-        {
-          "name": "Kevin Rudolf",
-          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me U & Hennessy (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 224971,
       "name": "Me U & Hennessy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
+      },
+      "artists": [
+        {
+          "name": "Kevin Rudolf",
+          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Let It Rock",
+      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Drop The World",
-      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -791,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
       },
       "artists": [
         {
@@ -800,13 +780,13 @@
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 324189,
-      "name": "Mona Lisa (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+      "duration_ms": 229226,
+      "name": "Drop The World",
+      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 235186,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 324189,
+      "name": "Mona Lisa (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Can't Be Broken",
+      "url": "https://open.spotify.com/track/5cGpjfgAvidLy6znwkCxkP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 237360,
       "name": "Gimme That Remix (feat. Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Can't Be Broken",
-      "url": "https://open.spotify.com/track/5cGpjfgAvidLy6znwkCxkP"
     },
     {
       "added_at": null,

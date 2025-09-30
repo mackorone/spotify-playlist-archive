@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 82063,
+  "num_followers": 82085,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Agape",
-      "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Agape",
+      "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Dark Child",
-        "url": "https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 237122,
-      "name": "Dark Child - Single Edit",
-      "url": "https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "A Crow Looked at Me",
         "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 147533,
       "name": "Real Death",
       "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Dark Child",
+        "url": "https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 237122,
+      "name": "Dark Child - Single Edit",
+      "url": "https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc"
     },
     {
       "added_at": "2024-08-28 14:05:36",

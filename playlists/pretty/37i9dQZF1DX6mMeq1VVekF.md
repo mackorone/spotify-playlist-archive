@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,447 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,446 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 30 | [Prada or Celine](https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Prada or Celine](https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd) | 2:20 |
 | 31 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
 | 32 | [All My Life](https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [All My Life](https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz) | 3:07 |
-| 33 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
-| 34 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 |
+| 33 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 |
+| 34 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 35 | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
 | 36 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 37 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 50 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
 | 51 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 52 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
-| 53 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
-| 54 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
+| 53 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
+| 54 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
 | 55 | [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 |
 | 56 | [Same Place](https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [BEAST LIVING](https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J) | 2:32 |
 | 57 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |

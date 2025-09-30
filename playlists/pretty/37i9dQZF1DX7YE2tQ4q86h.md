@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Mikayla Geier is our favorite new main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,555 likes - 110 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,605 likes - 110 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABOL2/MdPMveZ44Tv9fx0fu",
+  "snapshot_id": "aNh6gAAAAADxuFXiS8IBATeGVhzeMmIl",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINGOS DESERT",
-        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 198567,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 309145,
       "name": "Darkest (Dim)",
       "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINGOS DESERT",
+        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 198567,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
     },
     {
       "added_at": null,
@@ -487,46 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 170567,
-      "name": "Lucky U",
-      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 266643,
-      "name": "I Wish I Could (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -551,6 +511,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 280022,
       "name": "Up and Out",
       "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -603,26 +623,6 @@
       "duration_ms": 153297,
       "name": "Strange Froot",
       "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -823,26 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie Remixes",
-        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Polar Youth",
-          "url": "https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ"
-        },
-        {
-          "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
         }
       ],
-      "duration_ms": 187218,
-      "name": "Sci Fi - Polar Youth Remix",
-      "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,
@@ -863,24 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 230261,
-      "name": "Bright Shadows",
-      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO WAY",
-        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
+        "name": "Eternal Reverie Remixes",
+        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
       },
       "artists": [
         {
@@ -888,21 +864,17 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Polar Youth",
+          "url": "https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ"
         },
         {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
         }
       ],
-      "duration_ms": 204077,
-      "name": "NO WAY",
-      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+      "duration_ms": 187218,
+      "name": "Sci Fi - Polar Youth Remix",
+      "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
     },
     {
       "added_at": null,
@@ -943,6 +915,34 @@
       "duration_ms": 191233,
       "name": "Fried for the Night",
       "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 204077,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
     },
     {
       "added_at": null,

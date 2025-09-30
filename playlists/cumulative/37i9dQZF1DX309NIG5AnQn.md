@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 NOTA
 
-265 songs - 15 hr 1 min
+268 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 | 2024-04-19 |  |
 | [El francés](https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [El francés](https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA) | 2:17 | 2025-06-20 |  |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-21 |  |
+| [el jugador](https://open.spotify.com/track/3Ae0eRdU3Z2yhGXed5eQOl) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:38 | 2025-09-29 |  |
 | [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-03-25 | 2023-02-17 |
 | [El límite](https://open.spotify.com/track/7HHKiA3v9hTsq5kp0ZOZsk) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El límite](https://open.spotify.com/album/2J6vnU22P8t9jfMQYkaSoS) | 4:08 | 2022-03-25 | 2023-03-25 |
 | [el mundo no es solo para mi](https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [el mundo no es solo para mi](https://open.spotify.com/album/52rxJlFl1VLjLjo7EwAqdy) | 4:10 | 2025-05-16 |  |
@@ -108,6 +109,7 @@
 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 | 2024-03-22 |  |
 | [En Peligro Estás](https://open.spotify.com/track/3eLBqMeWFMs3mkJM1mP135) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Una Vez Iniciado el Fuego](https://open.spotify.com/album/6GxtZ9B3m1cYAC0fvxyZmU) | 2:46 | 2024-10-24 |  |
 | [Entre el Cielo y el Infierno](https://open.spotify.com/track/5gIwsOOF5mY18gyrGXr0Zb) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Entre el Cielo y el Infierno](https://open.spotify.com/album/3xew3ijgKqFp4YtkfuA55f) | 3:54 | 2023-10-27 |  |
+| [Envejecer](https://open.spotify.com/track/0okBFKTi6txpRPV4NenIVb) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Envejecer](https://open.spotify.com/album/2QA6ePvqlYD28L3qOj0afX) | 2:47 | 2025-09-29 |  |
 | [Era un Día Perfecto](https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC), [Chary Loquero](https://open.spotify.com/artist/2js5TqocdHmmCV22px3iDE) | [Era un Día Perfecto](https://open.spotify.com/album/2I4sJxvwWdkpeIJ6Y8UboE) | 2:58 | 2022-03-25 | 2023-03-25 |
 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 | 2023-03-23 | 2024-05-10 |
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-03-25 | 2023-03-25 |
@@ -156,6 +158,7 @@
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-03-25 | 2023-03-25 |
 | [Los Capitanes](https://open.spotify.com/track/1f0tv1b07Kq83uC3u4RdP5) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Los Capitanes](https://open.spotify.com/album/2W73rRbpaz3T5Nddun5MVr) | 2:51 | 2025-03-28 |  |
 | [Los Colores](https://open.spotify.com/track/7AMHUYpP3VOaNlhmjlqbZq) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Ahora / Después](https://open.spotify.com/album/611UzKp2VkiUPFK5xbobyT) | 4:25 | 2022-03-25 | 2023-03-25 |
+| [Mabel](https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [yo también les tengo miedo](https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN) | 2:48 | 2025-09-29 |  |
 | [Magic Town](https://open.spotify.com/track/6gzSzsdssXUUNEOcGDOxMX) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Jajaquejaja](https://open.spotify.com/album/2W7fauQ4SgZnhNO3lDLSZH) | 2:01 | 2023-03-23 | 2024-07-13 |
 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 | 2023-12-15 |  |
 | [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-03-25 | 2023-03-25 |

@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 253352,
       "name": "Desi Kalakaar",
       "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
@@ -1038,6 +1038,32 @@
       "duration_ms": 208381,
       "name": "Jutti Meri (Live)",
       "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y"
+    },
+    {
+      "album": {
+        "name": "Kashish",
+        "url": "https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL"
+      },
+      "artists": [
+        {
+          "name": "Ashish Bhatia",
+          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
+        },
+        {
+          "name": "Omkar Singh",
+          "url": "https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr"
+        },
+        {
+          "name": "Kashish Ratnani",
+          "url": "https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Kashish",
+      "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
     },
     {
       "album": {
@@ -2328,7 +2354,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"
@@ -2470,7 +2496,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 84363,
       "name": "Vaa Vaa Pakkam Vaa - Remix",
       "url": "https://open.spotify.com/track/2C5aF4dKohAcZwoDPWj87K"

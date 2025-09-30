@@ -6927,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "VLONE",
+        "url": "https://open.spotify.com/album/1DTDHhEOXDSTbeyOgSuZou"
+      },
+      "artists": [
+        {
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191921,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1IqRoFm0NHj23m8L1CMqw2"
+    },
+    {
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -9480,7 +9498,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 217322,
       "name": "If you know what I mean",
       "url": "https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC"
@@ -21816,7 +21834,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 197727,
       "name": "\u0410 \u0449\u043e?",
       "url": "https://open.spotify.com/track/7AOsOM6WnN0yEuomqdpifO"
@@ -25138,7 +25156,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -27404,7 +27422,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 203493,
       "name": "\u0417\u0446\u0430\u043f\u0430\u043b\u0430-\u0437\u043b\u0430\u043f\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q"
@@ -28238,7 +28256,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -28728,7 +28746,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -33270,7 +33288,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 195784,
       "name": "\u041f\u0456\u043d\u0430\u043a\u043e\u043b\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno"
@@ -33904,7 +33922,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 102258,
       "name": "\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0430\u044f \u0432\u043e\u0439\u043d\u0430",
       "url": "https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO"
@@ -34142,7 +34160,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 177346,
       "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT"
@@ -34918,7 +34936,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
@@ -38372,7 +38390,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5"

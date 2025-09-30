@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 94685,
+  "num_followers": 94703,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABKed6ZnnUGIItES6urMgNP",
+  "snapshot_id": "aNh6gAAAAAA+81OMgtxy2vq8rXvdNIbL",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
+        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 143530,
-      "name": "The Kiss Of Venus (Dominic Fike)",
-      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
+      "duration_ms": 150320,
+      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
     },
     {
       "added_at": null,
@@ -551,22 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+        "name": "McCartney III Imagined",
+        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         },
         {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+      "duration_ms": 143530,
+      "name": "The Kiss Of Venus (Dominic Fike)",
+      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Geezer",
-        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
       },
       "artists": [
         {
@@ -614,11 +614,15 @@
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
         }
       ],
       "duration_ms": 169776,
       "name": "Geezer",
-      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
     },
     {
       "added_at": null,
@@ -703,22 +707,6 @@
       "duration_ms": 121630,
       "name": "1.23.23",
       "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "THICKRICK",
-      "url": "https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe"
     }
   ],
   "unique_name": "This Is Dominic Fike",

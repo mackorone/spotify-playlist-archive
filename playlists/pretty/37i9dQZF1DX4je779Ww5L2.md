@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,104 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,094 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 13 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 |
 | 14 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 |
 | 15 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 |
-| 16 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
-| 17 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 |
+| 16 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 |
+| 17 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
 | 18 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
 | 19 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
 | 20 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 23 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
 | 24 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
 | 25 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 |
-| 26 | [Tree\-lined Lanes](https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 2:53 |
-| 27 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
+| 26 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
+| 27 | [Tree\-lined Lanes](https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 2:53 |
 | 28 | [Truce \- Acoustic](https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Truce \(Acoustic\)](https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY) | 3:42 |
-| 29 | [Whiskey](https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Whiskey](https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g) | 3:03 |
-| 30 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 |
+| 29 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 |
+| 30 | [Whiskey](https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Whiskey](https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g) | 3:03 |
 | 31 | [Richardson \- feat\. Cassandra Jenkins](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 |
 | 32 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
 | 33 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 61 | [Swimming](https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Swimming](https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD) | 3:29 |
 | 62 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 |
 | 63 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 |
-| 64 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
+| 64 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
 | 65 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 |
-| 66 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
+| 66 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
 | 67 | [Where's The Fun In That?](https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Where's The Fun In That?](https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg) | 2:28 |
 | 68 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
 | 69 | [Sunflower](https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Sunflower](https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU) | 4:26 |
 | 70 | [When Everything Was Right](https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [The Seasons: Winter](https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf) | 3:18 |
-| 71 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
-| 72 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 |
+| 71 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 |
+| 72 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 73 | [Gaza is Calling](https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl) | 4:30 |
 | 74 | [Growing Pains](https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Growing Pains](https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2) | 2:53 |
 | 75 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |

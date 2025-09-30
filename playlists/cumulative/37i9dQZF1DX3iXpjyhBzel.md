@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
 
-355 songs - 1 day 11 hr 28 min
+356 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 | 2023-03-17 | 2024-06-15 |
 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(Ao Vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 | 2024-04-19 | 2024-06-29 |
 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 | 2022-09-09 | 2022-10-29 |
-| [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-09 |  |
+| [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-09 | 2025-09-30 |
 | [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 | 2023-03-17 |  |
 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 | 2024-09-13 |  |
 | [Brilha Tua Luz](https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Brilha Tua Luz](https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7) | 4:55 | 2024-12-06 | 2025-04-15 |
@@ -328,6 +328,7 @@
 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 | 2023-03-24 | 2025-01-25 |
 | [Tudo em Todos \- Ao Vivo](https://open.spotify.com/track/3EVi3BihkgjCkFb3GZHl2P) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Tudo em Todos \(Ao Vivo\)](https://open.spotify.com/album/0tyCJ3I8hlSPtITMaLHy6o) | 8:44 | 2022-11-04 | 2022-11-26 |
 | [Tudo É Perda \- Ao Vivo](https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Tudo É Perda \(Ao Vivo\)](https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd) | 8:38 | 2025-05-21 |  |
+| [Um Novo Dia](https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Get Global](https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM) | [Um Novo Dia](https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE) | 6:00 | 2025-09-29 |  |
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-09 | 2022-10-22 |
 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 | 2023-03-04 |  |
 | [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-07-05 |  |

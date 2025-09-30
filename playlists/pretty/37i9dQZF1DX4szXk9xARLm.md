@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,694 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,702 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 8 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 9 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 10 | [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 |
-| 11 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 |
+| 11 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
 | 12 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
-| 13 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
+| 13 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 |
 | 14 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |
 | 15 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
 | 16 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 37 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |
 | 38 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 |
 | 39 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
-| 40 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
-| 41 | [معلش مكتوبلك](https://open.spotify.com/track/59BzI9IjNp5eiWATzksB45) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [معلش مكتوبلك](https://open.spotify.com/album/0fZm1zZXnYLz7j7LSkSqPD) | 1:04 |
+| 40 | [معلش مكتوبلك](https://open.spotify.com/track/59BzI9IjNp5eiWATzksB45) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [معلش مكتوبلك](https://open.spotify.com/album/0fZm1zZXnYLz7j7LSkSqPD) | 1:04 |
+| 41 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
 | 42 | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE) | [Mohamed Medhat](https://open.spotify.com/artist/32VKNJoqx0a4twZTxkGsqb) | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/album/32RhHdlioLX6LBOcuGPGNu) | 3:09 |
 | 43 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
 | 44 | [Ya Tera \(Layali Roxy\)](https://open.spotify.com/track/5ozjNHwkgoOIiG5A8DnSjr) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Ya Tera \(Layali Roxy\)](https://open.spotify.com/album/1bGIK1NPbWjuU8IRxJHMVP) | 3:10 |

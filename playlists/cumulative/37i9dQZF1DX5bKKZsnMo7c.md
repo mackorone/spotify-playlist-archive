@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-513 songs - 1 day 3 hr 49 min
+514 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [feral canadian scaredy cat](https://open.spotify.com/track/1ew1R0vY1hqwYQQTHXCiQX) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [feral canadian scaredy cat](https://open.spotify.com/album/5sMayuz5wi235vdum4wpj1) | 3:04 | 2023-01-20 | 2024-01-05 |
 | [Fictional Men](https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [Fictional Men](https://open.spotify.com/album/25JqctJNXlVTfu1ciNY0gK) | 2:16 | 2023-04-28 | 2024-02-20 |
 | [Fine](https://open.spotify.com/track/3CxpaC5Aw4jgRFlgeQH6BA) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Dinosaurchestra](https://open.spotify.com/album/2EwyuOi59sFClC87JBLe2r) | 4:39 | 2025-01-10 | 2025-09-16 |
+| [Fire and Ice](https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Fire and Ice](https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB) | 2:20 | 2025-09-28 |  |
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-05-17 | 2022-06-02 |
 | [Flower](https://open.spotify.com/track/665GayQvSikGzkwQl32TVy) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Flower](https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2) | 3:10 | 2023-08-22 | 2024-01-27 |
@@ -331,7 +332,7 @@
 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 | 2022-06-07 | 2022-12-10 |
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-05-17 | 2022-07-29 |
 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 | 2022-05-17 | 2022-06-07 |
-| [No One](https://open.spotify.com/track/1N1Phz8aYhJFGTFlHOX3Db) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [No One](https://open.spotify.com/album/2lqelyZsVx9zEPCad5dFln) | 3:58 | 2025-07-25 |  |
+| [No One](https://open.spotify.com/track/1N1Phz8aYhJFGTFlHOX3Db) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [No One](https://open.spotify.com/album/2lqelyZsVx9zEPCad5dFln) | 3:58 | 2025-07-25 | 2025-09-30 |
 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 | 2022-05-17 | 2022-06-09 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-12-08 | 2025-05-23 |
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 | 2023-10-21 |

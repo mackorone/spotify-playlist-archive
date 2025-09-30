@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 875752,
+  "num_followers": 875863,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADBZ2ZsNNJ9ceSyPndwRQs+",
+  "snapshot_id": "aNh6gAAAAABB0239lmRTiv8bXX5oJvz0",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoro",
-        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 144945,
-      "name": "Tesoro",
-      "url": "https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 176280,
       "name": "La Hice Sufrir",
       "url": "https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 144945,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busc\u00e1ndole A La Suerte",
-        "url": "https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Busc\u00e1ndole A La Suerte",
-      "url": "https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 234386,
       "name": "Lecci\u00f3n Aprendida",
       "url": "https://open.spotify.com/track/3TKcpYPqR5Z2H4c5PhXcce"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busc\u00e1ndole A La Suerte",
+        "url": "https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "Busc\u00e1ndole A La Suerte",
+      "url": "https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 134613,
-      "name": "Eso Si Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Amigo Nada M\u00e1s",
         "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 166360,
       "name": "T\u00fa No Tienes La Culpa",
       "url": "https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 134613,
+      "name": "Eso Si Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 138618,
-      "name": "Atento Aviso",
-      "url": "https://open.spotify.com/track/12fQbOeNdkaLTsqnYLTneH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoro",
-        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 151787,
-      "name": "Due\u00f1a De Mis Besos",
-      "url": "https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM"
+      "duration_ms": 138618,
+      "name": "Atento Aviso",
+      "url": "https://open.spotify.com/track/12fQbOeNdkaLTsqnYLTneH"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 210853,
       "name": "Eres Todo Todo - Bolero",
       "url": "https://open.spotify.com/track/5dY20YYRIPCUd3YUDNGQz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151787,
+      "name": "Due\u00f1a De Mis Besos",
+      "url": "https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM"
     },
     {
       "added_at": null,

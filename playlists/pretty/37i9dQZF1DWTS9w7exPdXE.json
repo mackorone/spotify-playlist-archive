@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 152397,
+  "num_followers": 152428,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Het Regent Zonnestralen",
+      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Het Regent Zonnestralen",
-      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Het Leven Gaat Door",
-        "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
-      },
-      "artists": [
-        {
-          "name": "Koos Alberts",
-          "url": "https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Zijn Het Je Ogen",
-      "url": "https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "Een bom",
         "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 204933,
       "name": "Een bom",
       "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Het Leven Gaat Door",
+        "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
+      },
+      "artists": [
+        {
+          "name": "Koos Alberts",
+          "url": "https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Zijn Het Je Ogen",
+      "url": "https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Je Raakt Me Zo",
-        "url": "https://open.spotify.com/album/3RMEpViH3YM1O2UnuRzyOt"
-      },
-      "artists": [
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        }
-      ],
-      "duration_ms": 185034,
-      "name": "Je Raakt Me Zo",
-      "url": "https://open.spotify.com/track/0RTUDjc3FeUaMQ6LOSA2c9"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "Een Blik In Jouw Ogen",
         "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 184671,
       "name": "Een Blik In Jouw Ogen",
       "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Je Raakt Me Zo",
+        "url": "https://open.spotify.com/album/3RMEpViH3YM1O2UnuRzyOt"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        }
+      ],
+      "duration_ms": 185034,
+      "name": "Je Raakt Me Zo",
+      "url": "https://open.spotify.com/track/0RTUDjc3FeUaMQ6LOSA2c9"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "Mijn Loterij",
+        "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 189352,
+      "name": "Mijn Loterij",
+      "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 196632,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Mijn Loterij",
-        "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
-      },
-      "artists": [
-        {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
-        }
-      ],
-      "duration_ms": 189352,
-      "name": "Mijn Loterij",
-      "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
     },
     {
       "added_at": "2025-09-04 22:00:28",

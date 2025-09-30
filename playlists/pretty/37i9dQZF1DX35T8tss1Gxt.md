@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: SSTEDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,351 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,388 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 74 | [I Smile \- Neo\-Soul Version](https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [I Smile \(Neo\-Soul Version\)](https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe) | 2:17 |
 | 75 | [Follow You](https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Follow You](https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM) | 3:32 |
 
-Snapshot ID: `AAAAAEnGyNyVLj+CKmYmtVYFmdYeEkkg`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

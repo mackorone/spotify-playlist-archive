@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,160 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,166 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 41 | [BI](https://open.spotify.com/track/4sd1CaJPlMi8WGDhyVaOro) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:29 |
 | 42 | [Conmigo \(Rest of Your Life\)](https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:18 |
 | 43 | [Pa' La Cultura](https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [HUMAN\(X\)](https://open.spotify.com/artist/365Q4cNnnlsQErzPsUzyXY), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Pa' La Cultura](https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu) | 3:55 |
-| 44 | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Carlos "Maffio" Peralta](https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS) | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH) | 3:28 |
-| 45 | [Palo Santo](https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:39 |
+| 44 | [Palo Santo](https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:39 |
+| 45 | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Carlos "Maffio" Peralta](https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS) | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH) | 3:28 |
 | 46 | [Highway](https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Highway](https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ) | 3:41 |
 | 47 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
 | 48 | [Gaia](https://open.spotify.com/track/43pdManuxxQh80XyU51ybY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Dēlian](https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:44 |
 | 49 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
 | 50 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
 
-Snapshot ID: `aNcpAAAAAABlsomPJwYL5IKW/vDPh2cI`
+Snapshot ID: `aNh6gAAAAABNLnIUl+AKW1fVD9KwXj/a`

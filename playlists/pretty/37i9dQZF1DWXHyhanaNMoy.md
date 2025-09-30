@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Langa ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,117 likes - 69 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,121 likes - 69 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 2 | [BIGBOY](https://open.spotify.com/track/6RmGwJmODYvIfsE8HZMJd7) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [BIGBOY](https://open.spotify.com/album/1dBa7LZYiNnu5PiyCHMio5) | 2:00 |
 | 3 | [Kom Maar](https://open.spotify.com/track/6YJ5GZQCGmNPbuSPqbKhOv) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Kom Maar](https://open.spotify.com/album/1aXrFMas052VPlol6nsLRo) | 2:53 |
 | 4 | [AAN](https://open.spotify.com/track/1WqvdURRJfXtJLqKvaiShz) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [BILLO](https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL) | 2:36 |
-| 5 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E.](https://open.spotify.com/artist/7bbRIvBizM0uBe5WPsjAWc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
-| 6 | [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
+| 5 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
+| 6 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 7 | [Ballie](https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Ballie](https://open.spotify.com/album/55umMdwSFkqtjvJfktDi8K) | 2:53 |
 | 8 | [CASAMIGOS](https://open.spotify.com/track/0LUNLyK43d1NEqWtuvYfHl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [CASAMIGOS](https://open.spotify.com/album/5SNVtJO3PA2TsZWdbzge7X) | 2:37 |
 | 9 | [Put It On Me](https://open.spotify.com/track/26LSCf5O6gl8POUcBIwWVm) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Put It On Me](https://open.spotify.com/album/2K1oN7iHFPAVQo182EuxZ2) | 1:58 |

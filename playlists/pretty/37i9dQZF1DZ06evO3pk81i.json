@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8595,
+  "num_followers": 8601,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABENq894TP/F2bUIz86RrdY",
+  "snapshot_id": "aNh6gAAAAAB2iAQcdzEt7SgnzSLj//cG",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Vas a Hacer (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz"
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
       "artists": [
         {
@@ -176,13 +176,13 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 174210,
-      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc"
+      "duration_ms": 148088,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
+        "name": "Que Vas a Hacer (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz"
       },
       "artists": [
         {
@@ -212,13 +212,13 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 148088,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
+      "duration_ms": 174210,
+      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc"
     },
     {
       "added_at": null,
@@ -635,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando (Live)",
-        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
       "artists": [
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 189867,
-      "name": "Bailando - Live",
-      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+      "duration_ms": 201706,
+      "name": "Te Quiero a Ti (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
     },
     {
       "added_at": null,
@@ -671,22 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "Bailando (Live)",
+        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
         },
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 201706,
-      "name": "Te Quiero a Ti (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
+      "duration_ms": 189867,
+      "name": "Bailando - Live",
+      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
     },
     {
       "added_at": null,

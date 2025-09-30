@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342565,
+  "num_followers": 342566,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 160873,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
-      },
-      "artists": [
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "RED5",
-          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "RED5",
+          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
     },
     {
       "added_at": "2025-02-14 16:04:15",

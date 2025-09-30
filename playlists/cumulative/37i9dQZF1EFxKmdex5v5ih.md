@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-532 songs - 1 day 5 hr 17 min
+533 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Fida Known](https://open.spotify.com/track/6YArufs2SI9FnHJjoZiIIf) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Fida Known](https://open.spotify.com/album/5qkINobRruMEoL2NrNJe8P) | 3:17 | 2025-02-09 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-27 | 2023-03-13 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-12 | 2023-12-14 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 |  |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 | 2025-09-30 |
 | [Flowers](https://open.spotify.com/track/792wj4fbYgH66u8khzAUSj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Official Video\)](https://open.spotify.com/album/7ljVAiH4UToMeJFUmDHJ9K) | 3:21 | 2023-12-13 | 2024-02-02 |
 | [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 | 2024-05-24 |  |
 | [Folding My Patience](https://open.spotify.com/track/6PuZ4DVTekcM0wKILrWipL) | [Slaus Brown\-Paul](https://open.spotify.com/artist/1IUVqwmQS72YFtn2q93Nx5), [Shon Howard](https://open.spotify.com/artist/1JQK2oRQY4YYXM0qhz5ECD), [Tony Medina](https://open.spotify.com/artist/0VaH8VDmJlpa0XOHfiuiuB) | [The Burning Point Sessions](https://open.spotify.com/album/4YbQJFkGAeZpUsDW7dR4A3) | 5:17 | 2023-01-16 | 2023-12-14 |
@@ -462,8 +462,9 @@
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-19 | 2025-03-24 |
 | [Superhero](https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi) | 2:59 | 2021-12-27 | 2022-11-03 |
 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 | 2022-11-02 |  |
+| [Sway](https://open.spotify.com/track/50fkbi4bdAMoFnzandxQ9a) | [Dean Martin And Jerry Lewis](https://open.spotify.com/artist/7bXOsohZLsQVxjFv9pbW42) | [Dean's Romantic Ballads: Vintage Love & Sentimental Hits](https://open.spotify.com/album/38wNtulBMnbm8Nume4CnbX) | 2:52 | 2025-09-29 |  |
 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 | 2021-12-27 |  |
-| [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2025-04-26 |  |
+| [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2025-04-26 | 2025-09-30 |
 | [Sway \(Quien Sera\)](https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:45 | 2023-12-13 | 2025-04-27 |
 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 | 2021-12-27 |  |
 | [Take Me Home \(with Kane Brown\)](https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Restless Road \- EP](https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh) | 3:21 | 2025-01-15 | 2025-04-12 |

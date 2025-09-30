@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: La Fiera de Ojinaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,423 likes - 209 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,429 likes - 209 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

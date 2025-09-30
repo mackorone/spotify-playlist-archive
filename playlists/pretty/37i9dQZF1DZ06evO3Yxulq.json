@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41362,
+  "num_followers": 41358,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACGEhAbLetFnwqCPwcDQQZ6",
+  "snapshot_id": "aNh6gAAAAAD3w6JgxpC51ZmfsALp41PY",
   "tracks": [
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 309263,
+      "name": "Hasta Poder Ver",
+      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Desmayes Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 344125,
       "name": "En Ti Confiar\u00e9",
       "url": "https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 309263,
-      "name": "Hasta Poder Ver",
-      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
     },
     {
       "added_at": null,

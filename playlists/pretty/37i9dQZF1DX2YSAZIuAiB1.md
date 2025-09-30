@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit diesem sonnigen Genre Mix 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,376 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,950 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
+| 1 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 2 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 3 | [Don't Copy My Flow](https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU), [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR) | [Don't Copy My Flow](https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au) | 2:52 |
 | 4 | [WHINE & KOTCH \(feat\. Pronto\)](https://open.spotify.com/track/4PWRxVMXsCYk5nsYwl4MJQ) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [WHINE & KOTCH \(feat\. Pronto\)](https://open.spotify.com/album/0LGFcnA22gThkFYxPzW0rG) | 2:41 |

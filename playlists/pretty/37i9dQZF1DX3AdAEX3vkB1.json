@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 313168,
+  "num_followers": 313308,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The House of the Rising Sun: Best of The Animals",
         "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 269906,
       "name": "The House of the Rising Sun",
       "url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Summer Days (And Summer Nights) [Remastered]",
-        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
-      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 138546,
       "name": "Hello Mary Lou, Goodbye Heart - Remastered",
       "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Summer Days (And Summer Nights) [Remastered]",
+        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
+      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Circulate (Expanded Edition)",
         "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 157026,
       "name": "Happy Birthday, Sweet Sixteen",
       "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Groovin' with Manfred Mann",
-        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Do Wah Diddy Diddy",
-      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Rhino Hi-Five: Arthur Conley",
         "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Groovin' with Manfred Mann",
+        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
     },
     {
       "added_at": "2022-06-16 22:02:00",

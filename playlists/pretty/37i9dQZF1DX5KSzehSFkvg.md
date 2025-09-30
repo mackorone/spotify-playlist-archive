@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,353 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,448 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Darba Darba](https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38), [badr ouabi](https://open.spotify.com/artist/2JYV7Jmi2njyq5FxTK6NFQ) | [Darba Darba](https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM) | 3:54 |
-| 2 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
+| 1 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
+| 2 | [Darba Darba](https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38), [badr ouabi](https://open.spotify.com/artist/2JYV7Jmi2njyq5FxTK6NFQ) | [Darba Darba](https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM) | 3:54 |
 | 3 | [Jilali](https://open.spotify.com/track/3ADao3EAzM0qRS1TgAIB7J) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Jilali](https://open.spotify.com/album/2JcXqUtwwpGHolWtlyO4zC) | 2:59 |
 | 4 | [Ensa](https://open.spotify.com/track/0gqQVtw4Dhc1jTXCcxa01U) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ensa](https://open.spotify.com/album/263tszRzCdApk9Z0WktOQz) | 3:17 |
 | 5 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [BAMBARA](https://open.spotify.com/track/5EBSvoppcZtLqZ7kif2Mhz) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BAMBARA](https://open.spotify.com/album/4ZhiN2qHatPIIVWS6yWkLt) | 2:22 |
 | 50 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
 
-Snapshot ID: `AAAAACamcYMCvC5eeDkDoJdlawGG8pgn`
+Snapshot ID: `AAAAALJSzXvojWKEA/HzxxKF5K2A8Pc3`

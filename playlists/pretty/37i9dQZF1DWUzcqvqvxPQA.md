@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,581 likes - 5 songs - 17 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 5 songs - 17 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 4 | [Fork in the Road](https://open.spotify.com/track/0dgbQ7OVTpIzCNMf9BxAQ9) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Fork in the Road \(ft\. Trella\)](https://open.spotify.com/album/1HZbGKCMrnZi1V0EQ5NiJg) | 3:27 |
 | 5 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 |
 
-Snapshot ID: `AAAAAANKWJ+VpFlxNQUcrOqEqfY+pbkZ`
+Snapshot ID: `AAAAAD9KoeBgcU90ulHNi3f2sajZSI6E`

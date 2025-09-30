@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,799,885 likes - 98 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,800,190 likes - 98 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

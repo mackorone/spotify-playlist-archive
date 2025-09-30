@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 |
 | 2 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
 | 3 | [Dive Bar Opera](https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Dive Bar Opera](https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn) | 2:26 |
-| 4 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 |
+| 4 | [Girls Just Wanna Be Famous\(er\)](https://open.spotify.com/track/55fJMUj8cAonidO8dI8fVp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Girls Just Wanna Be Famous\(er\)](https://open.spotify.com/album/24AH43eX8jUg0IkwH581wy) | 2:41 |
 | 5 | [jesus christ in a mini skirt](https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:00 |
 | 6 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 |
 | 7 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 12 | [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 |
 | 13 | [emotional affair](https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:01 |
 | 14 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 |
-| 15 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
-| 16 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 |
+| 15 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 |
+| 16 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
 | 17 | [poltergeist](https://open.spotify.com/track/7nVvznvTle4wZBg6fN0GQr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:33 |
 | 18 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 |
 | 19 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 24 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
 | 25 | [DO YOU LIKE ME?](https://open.spotify.com/track/6lxeT761ZTSkwaEDfQnc1F) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:57 |
 
-Snapshot ID: `aNcpAAAAAAAMExaLgLI4tUOFQrpzWe8d`
+Snapshot ID: `aNh6gAAAAAApbj7ycKiUIM/EUOiAjQvW`

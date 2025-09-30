@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 58311,
+  "num_followers": 58349,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACc94laWftr/RQtHQ75IB8+",
+  "snapshot_id": "aNh6gAAAAABEo2hrbUVElQw1Sw9EkeDx",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homesick For Heaven",
-        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Homesick For Heaven",
-      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints",
         "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 273800,
       "name": "Able",
       "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homesick For Heaven",
+        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Homesick For Heaven",
+      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is In The Room",
-        "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 242000,
-      "name": "The King Is In The Room",
-      "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
+      "duration_ms": 239666,
+      "name": "Running To A Runaway",
+      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+        "name": "The King Is In The Room",
+        "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Running To A Runaway",
-      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
+      "duration_ms": 242000,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Great Things",
-      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
+      "duration_ms": 277666,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5P7veaw4BSq113uSBzjXbJ"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 277666,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5P7veaw4BSq113uSBzjXbJ"
+      "duration_ms": 290133,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Your Love Awakens Me",
-      "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
+      "duration_ms": 234266,
+      "name": "Resurrection Story",
+      "url": "https://open.spotify.com/track/7l7tQa5ua6beykmoT5tZYc"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Resurrection Story",
-      "url": "https://open.spotify.com/track/7l7tQa5ua6beykmoT5tZYc"
+      "duration_ms": 233720,
+      "name": "Your Love Awakens Me",
+      "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
       "duration_ms": 272391,
       "name": "Reason I Sing - Acoustic",
       "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Song Of The Saints",
+      "url": "https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Song Of The Saints",
-      "url": "https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 241946,
       "name": "It's Always Been You",
       "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3"
     },
     {
       "added_at": null,

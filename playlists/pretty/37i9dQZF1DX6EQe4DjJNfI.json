@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 183480,
+  "num_followers": 183489,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
         "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
         "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
       },
@@ -319,22 +319,22 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -423,6 +423,30 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
+        "name": "Melodia&Barulho",
+        "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "duration_ms": 177468,
+      "name": "Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/37s9yWpkR1G0s4U37KMxzL"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
-        "name": "Melodia&Barulho",
-        "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
-        }
-      ],
-      "duration_ms": 177468,
-      "name": "Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/37s9yWpkR1G0s4U37KMxzL"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -591,22 +591,22 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
         },
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
         }
       ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+      "duration_ms": 166857,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -627,22 +627,22 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 166857,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Falar De Amor - Remix",
-      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
         "name": "Meu Time (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZZURcVGtXBm3RRanOJMgb"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 207696,
       "name": "Meu Time - Ao Vivo",
       "url": "https://open.spotify.com/track/3ytwizS6YzgXxR22m2WAEs"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Falar De Amor - Remix",
+      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Red On My Lips",
-        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 134406,
-      "name": "Red On My Lips",
-      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 151475,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
     },
     {
       "added_at": "2025-09-25 23:31:15",

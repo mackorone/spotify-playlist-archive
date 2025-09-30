@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,348 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,355 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 16 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
 | 17 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 |
 | 18 | [Sem Palavras](https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Sem Palavras](https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa) | 3:55 |
-| 19 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
-| 20 | [Tudo O Que Sou](https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tudo O Que Sou](https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ) | 4:30 |
+| 19 | [Tudo O Que Sou](https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tudo O Que Sou](https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ) | 4:30 |
+| 20 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 | 21 | [Jesus é o Centro \(Jesus At The Center\) \- Ao Vivo](https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Jesus é o Centro \(Jesus At The Center\) \[Ao Vivo\]](https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH) | 5:46 |
 | 22 | [Eu Me Rendo \- Acústico](https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:38 |
 | 23 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [The Mystery Of Christ](https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd) | 7:29 |
 | 50 | [Essência Da Adoração \- Ao Vivo](https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Essência Da Adoração \(Ao Vivo\)](https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3) | 5:17 |
 
-Snapshot ID: `aNcpAAAAAAAmml6kGmZwiEnjWAdrhl92`
+Snapshot ID: `aNh6gAAAAADRK1SP2K/XC700k73o3z43`

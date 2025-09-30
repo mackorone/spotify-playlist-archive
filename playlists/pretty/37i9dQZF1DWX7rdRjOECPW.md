@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604,785 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,604,374 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 50 | [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 |
 | 51 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
 | 52 | [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 |
-| 53 | [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 |
-| 54 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
-| 55 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
-| 56 | [Bella Napoli](https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Bella Napoli](https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we) | 3:55 |
+| 53 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 54 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
+| 55 | [Bella Napoli](https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Bella Napoli](https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we) | 3:55 |
+| 56 | [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 |
 | 57 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 |
 | 58 | [Jiggy](https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Jiggy](https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl) | 2:11 |
 | 59 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 |

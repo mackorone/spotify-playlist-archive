@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 16510,
+  "num_followers": 16512,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABEegZRqbfjPLwI/1mHh5zA",
+  "snapshot_id": "aNh6gAAAAAACC6WG+o2aPUDvI0cO6eUj",
   "tracks": [
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tegan and Sara Present the Con X: Covers",
-        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
       "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 177320,
-      "name": "Relief Next to Me",
-      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+        "name": "Tegan and Sara Present the Con X: Covers",
+        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
       },
       "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+      "duration_ms": 177320,
+      "name": "Relief Next to Me",
+      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
     },
     {
       "added_at": null,

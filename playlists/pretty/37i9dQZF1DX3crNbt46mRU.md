@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Eileen Alister, Tate McRae, R2, Joya Marleen, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,860 likes - 114 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,853 likes - 114 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 30 | [Loving You Is Life](https://open.spotify.com/track/0XSomaqxA3ic743NuPpEKe) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [JOSEPH](https://open.spotify.com/artist/7tPCHxx5JMvvlUDndg57nj) | [Loving You Is Life](https://open.spotify.com/album/62tX5DmEnXJiK8AuTHPoCT) | 2:19 |
 | 31 | [keinen namen](https://open.spotify.com/track/0G0ds36RlowQ1uV5f2um9X) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [keinen namen](https://open.spotify.com/album/4J12ehRd44p45Uxh5SIfiL) | 2:49 |
 | 32 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:33 |
-| 33 | [Sale état](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Sale état](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
+| 33 | [SALE ÉTAT](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SALE ÉTAT](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
 | 34 | [Pink Champagne](https://open.spotify.com/track/1j6us30RkL0dIz5szfHHvO) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Pink Champagne](https://open.spotify.com/album/21bbj8bS0PyGdW8UOyZzlp) | 2:57 |
 | 35 | [Fehler](https://open.spotify.com/track/20s81cl4XtUTiY5ZcCjhik) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Fehler](https://open.spotify.com/album/6X503VDEugjju8qP0WPhPa) | 2:29 |
 | 36 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |

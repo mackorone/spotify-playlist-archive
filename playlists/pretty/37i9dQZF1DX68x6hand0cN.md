@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,805 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,789 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 2 | [DINERO](https://open.spotify.com/track/0gwG2qqU3xhROaJVnnWpTE) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:32 |
 | 3 | [BOSS](https://open.spotify.com/track/1kaxixqEIs3Z5KEWw6AA0a) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [DJ Milane](https://open.spotify.com/artist/51VUv5NmNQEO5TMGEaUXAJ) | [BOSS](https://open.spotify.com/album/6bnHdFXwKSykY0MczbRrWL) | 3:15 |
 | 4 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
-| 5 | [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
+| 5 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 6 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
 | 7 | [Hm Hm hm](https://open.spotify.com/track/3vKxVl3J8FezNfzhIhGAdM) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Hm Hm hm](https://open.spotify.com/album/7qbOZjRLXgxHxPWl2xlbCI) | 2:11 |
 | 8 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |

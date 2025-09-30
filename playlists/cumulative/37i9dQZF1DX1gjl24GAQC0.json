@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: TIOT(\ud2f0\uc544\uc774\uc624\ud2f0)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: \uc5d0\uc2a4\ucff1\uc2a4X\ubbfc\uaddc (SEVENTEEN)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "tracks": [
     {
@@ -222,6 +222,28 @@
       "duration_ms": 194506,
       "name": "458",
       "url": "https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY"
+    },
+    {
+      "album": {
+        "name": "CxM 1st Mini Album \u2018HYPE VIBES\u2019",
+        "url": "https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55"
+      },
+      "artists": [
+        {
+          "name": "CxM",
+          "url": "https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "5, 4, 3 (Pretty woman) (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq"
     },
     {
       "album": {
@@ -654,6 +676,24 @@
       "duration_ms": 170093,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/3Qa5RL4Fzfo11zkK5zTMWL"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
     },
     {
       "album": {
@@ -1744,6 +1784,24 @@
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
+    },
+    {
+      "album": {
+        "name": "BOYS II PLANET \u2013 FINAL DEBUT BATTLE",
+        "url": "https://open.spotify.com/album/3qdRplX3RGyQgzDPmmueIQ"
+      },
+      "artists": [
+        {
+          "name": "BOYS II PLANET",
+          "url": "https://open.spotify.com/artist/3HO8BSftZMyNkPuCIbgQom"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Brat Attitude",
+      "url": "https://open.spotify.com/track/2XTbl7e9ZcAr57dgRNrwUa"
     },
     {
       "album": {
@@ -3546,7 +3604,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 179040,
       "name": "Earth, Wind & Fire",
       "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
@@ -5240,7 +5298,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 178000,
       "name": "Head Shoulders Knees Toes",
       "url": "https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy"
@@ -5806,7 +5864,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 176000,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/6AKmmsg5C3p86Nm8qwzYc1"
@@ -7208,7 +7266,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 162000,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6dlbp9t6McWNc8r8ZXtYvP"
@@ -11602,7 +11660,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 148000,
       "name": "TAKE A SHOT",
       "url": "https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz"
@@ -11620,7 +11678,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
@@ -12510,7 +12568,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 172000,
       "name": "Veil",
       "url": "https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq"
@@ -12742,6 +12800,24 @@
       "duration_ms": 148810,
       "name": "Walkin On Water",
       "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
+    },
+    {
+      "album": {
+        "name": "Wall Flowers",
+        "url": "https://open.spotify.com/album/6JNlu1MYZPrJTU7KC3wJj8"
+      },
+      "artists": [
+        {
+          "name": "POW",
+          "url": "https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wall Flowers",
+      "url": "https://open.spotify.com/track/7hH6xRAqH9yCkPfRVDGHrt"
     },
     {
       "album": {
@@ -13734,7 +13810,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 204133,
       "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
       "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"

@@ -4,7 +4,7 @@
 
 > roots run deep
 
-416 songs - 1 day 0 hr 48 min
+417 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Denim Eyed Dear](https://open.spotify.com/track/5ER1Ux4SZDIK4KKxQ6bkz5) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Denim Eyed Dear](https://open.spotify.com/album/2JNysN8cxeJlNsRFD25Qiz) | 3:32 | 2025-09-26 |  |
 | [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 | 2024-07-19 | 2024-08-29 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-21 | 2024-02-01 |
-| [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 | 2024-08-28 |  |
+| [Die Alone](https://open.spotify.com/track/08cprYdLXKfZSbtgAJtUhP) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Darling Blue](https://open.spotify.com/album/14gWu1NRr0J0M1evRdF83C) | 3:32 | 2025-09-29 |  |
+| [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 | 2024-08-28 | 2025-09-30 |
 | [Don't close the door](https://open.spotify.com/track/4MgRrQeubyqQAwl76ZMUyl) | [Danny Anderson](https://open.spotify.com/artist/2ZcgnUFe9X6KCZhuY2nxmi) | [Don't close the door](https://open.spotify.com/album/2UDfmJ7fuRbNrGecZBHJzn) | 3:14 | 2025-01-02 |  |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 | 2024-08-29 |
 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2025-08-29 |  |

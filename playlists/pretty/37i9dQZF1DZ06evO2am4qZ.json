@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4948,
+  "num_followers": 4949,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAB4mQM4A5r9s/GXpeu9/Vid",
+  "snapshot_id": "aNh6gAAAAACrvX9JkUmjQx6am27dvnnn",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Flip",
-        "url": "https://open.spotify.com/album/4Y4gWDCCetjIMn5dXTCPkG"
-      },
-      "artists": [
-        {
-          "name": "Malia Civetz",
-          "url": "https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Love Thing (feat. Yung Baby Tate )",
-      "url": "https://open.spotify.com/track/2O4FkPICvTd1c8pW3KiwwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey, Mickey!",
         "url": "https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 173532,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Flip",
+        "url": "https://open.spotify.com/album/4Y4gWDCCetjIMn5dXTCPkG"
+      },
+      "artists": [
+        {
+          "name": "Malia Civetz",
+          "url": "https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Love Thing (feat. Yung Baby Tate )",
+      "url": "https://open.spotify.com/track/2O4FkPICvTd1c8pW3KiwwZ"
     },
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Alaya",
-          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
-        }
-      ],
-      "duration_ms": 192697,
-      "name": "Like We",
-      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poof Be Gone",
         "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
       },
@@ -483,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
       "artists": [
         {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Alaya",
+          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 180174,
-      "name": "Aura (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+      "duration_ms": 192697,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
     },
     {
       "added_at": null,
@@ -523,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Aura (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 172793,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -743,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2000AND4EVA",
-        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 172993,
-      "name": "DAMN DANIEL (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 157575,
       "name": "Straight",
       "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2000AND4EVA",
+        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 172993,
+      "name": "DAMN DANIEL (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Olipop",
+      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Olipop",
-      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
     },
     {
       "added_at": null,

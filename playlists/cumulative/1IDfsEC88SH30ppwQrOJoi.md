@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-425 songs - 21 hr 55 min
+426 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2024-04-26 | 2024-08-03 |
 | [Overrated](https://open.spotify.com/track/4HZm1WZDuudcugFAyn1KVJ) | [Mal Blanc](https://open.spotify.com/artist/2yea6Qx7EDc4vUGTBtf04V), [Different Records](https://open.spotify.com/artist/2Xgd4vt84VmQGcnqNFwGht) | [Overrated](https://open.spotify.com/album/2z9uj04K2A6trDerJ3d9Ek) | 2:53 | 2023-05-12 | 2024-03-14 |
 | [Pa Pa Pa](https://open.spotify.com/track/7pKxbxMk9gL7hYgbeilMel) | [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Milan](https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A) | [Pa Pa Pa](https://open.spotify.com/album/23GBINjhxufU2DtbWATeXW) | 3:27 | 2023-09-15 | 2024-03-14 |
+| [Paper Romance \- Purple Disco Machine Remix](https://open.spotify.com/track/4Q507WHVT2jAodOq49RqMf) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paper Romance \(Purple Disco Machine Remix \- Edit\)](https://open.spotify.com/album/422SWiQLySbuzPmJPYIDt8) | 6:50 | 2025-09-29 |  |
 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-05 |  |
 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 | 2024-04-26 |  |
 | [Part Of Me](https://open.spotify.com/track/0dVWCpNNjFhf0OuRh4Liiz) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ansun](https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm), [CLOSED](https://open.spotify.com/artist/2nrLwfZu1P1op5aFqaisG7), [Sonam](https://open.spotify.com/artist/4N9hZHUQvTGg3cqrlugMVw) | [Part Of Me](https://open.spotify.com/album/75RSM7hgDRRkAwmDnyex58) | 2:42 | 2023-08-22 | 2024-03-14 |

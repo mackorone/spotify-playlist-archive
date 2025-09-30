@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Baila
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,290 likes - 87 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,287 likes - 87 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 56 | [Thirty One](https://open.spotify.com/track/0bzgCX0CtPeeFwpGF2cW6j) | [L/](https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30) | [Bloodline](https://open.spotify.com/album/6hgh1yLfRafmZvOLifDad8) | 3:22 |
 | 57 | [Key in the River](https://open.spotify.com/track/3tZ4iy1cbCBiCcnTs7uREj) | [Cosmic Ceiling](https://open.spotify.com/artist/7en3OfWnyzvNgd9MUXtdy3) | [Key in the River](https://open.spotify.com/album/3L18WQ5DJi5TAsqZHBnUJe) | 4:05 |
 | 58 | [AUTOBAHN](https://open.spotify.com/track/6RPDXnRp2wjMU8zNARdMIV) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [AUTOBAHN](https://open.spotify.com/album/3gNDO6XlCXztcAd7wxVOAz) | 3:13 |
-| 59 | [Be With You](https://open.spotify.com/track/6keseVV3dZUoGntm3hioFC) | [ZF Ali](https://open.spotify.com/artist/5qP6o2cMiyv4tZuysZB0WA), [Enzee\*](https://open.spotify.com/artist/3jhRDFSFqlQfSYfy6E1ojh) | [Be With You](https://open.spotify.com/album/49rPUaFAonvb7q669EVeC8) | 3:03 |
+| 59 | [Be With You](https://open.spotify.com/track/6keseVV3dZUoGntm3hioFC) | [ZF Ali](https://open.spotify.com/artist/5qP6o2cMiyv4tZuysZB0WA), [Enzee\*](https://open.spotify.com/artist/5eEVsjyB2OycJSTTfgQk9g) | [Be With You](https://open.spotify.com/album/49rPUaFAonvb7q669EVeC8) | 3:03 |
 | 60 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 |
 | 61 | [Paint](https://open.spotify.com/track/64X0jkriPbZFq6psHQZ0av) | [Patras](https://open.spotify.com/artist/3oq19Oviwg8G6VSQCINN6z) | [Paint](https://open.spotify.com/album/4tLhCY9PwFZAVs0aJafiW4) | 3:21 |
 | 62 | [Kisruh Cinta](https://open.spotify.com/track/6C23jvAGN4VmqrW6TUnLw5) | [Adna Oekon](https://open.spotify.com/artist/5jIuoG3mBnGq0iZduwFJ3S) | [Kisruh Cinta](https://open.spotify.com/album/2Z6PrA4cQqL55LiL30Ce5q) | 4:06 |

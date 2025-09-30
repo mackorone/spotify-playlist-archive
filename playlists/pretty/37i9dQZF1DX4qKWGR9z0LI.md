@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893,565 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,226 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 17 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 18 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 19 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
-| 20 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |
-| 21 | [Uno Se Cura](https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:32 |
+| 20 | [Uno Se Cura](https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:32 |
+| 21 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |
 | 22 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |
 | 23 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 24 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 88 | [Más Que Un Beso](https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Más Que Un Beso](https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc) | 3:36 |
 | 89 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 |
 | 90 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 |
-| 91 | [Princesa](https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Princesa](https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx) | 2:59 |
-| 92 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
+| 91 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
+| 92 | [Princesa](https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Princesa](https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx) | 2:59 |
 | 93 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
 | 94 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
-| 95 | [JACARANDOSA](https://open.spotify.com/track/1cvLp0KMMMU46aPJhZ0bSj) | [José Aguirre](https://open.spotify.com/artist/45GvR0b9kXuYqSH6jpAWDr), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Cali Big Band](https://open.spotify.com/artist/6w2RBFxyl6FRHoC505rUkP) | [JACARANDOSA](https://open.spotify.com/album/7uaseBXSWlKzztmr7fBblR) | 4:12 |
-| 96 | [Volver a Enamorarnos](https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Volver a Enamorarnos](https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O) | 4:16 |
+| 95 | [Volver a Enamorarnos](https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Volver a Enamorarnos](https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O) | 4:16 |
+| 96 | [JACARANDOSA](https://open.spotify.com/track/1cvLp0KMMMU46aPJhZ0bSj) | [José Aguirre](https://open.spotify.com/artist/45GvR0b9kXuYqSH6jpAWDr), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Cali Big Band](https://open.spotify.com/artist/6w2RBFxyl6FRHoC505rUkP) | [JACARANDOSA](https://open.spotify.com/album/7uaseBXSWlKzztmr7fBblR) | 4:12 |
 | 97 | [Pasándola bien](https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Pasándola bien](https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j) | 2:54 |
 | 98 | [Es Ajena](https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz) | [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn), [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Es Ajena](https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI) | 3:51 |
 | 99 | [Páginas De Amor](https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:56 |
-| 100 | [Me Enamore de Ti, y Que?](https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Me Enamore de Ti, y Que?](https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg) | 2:48 |
+| 100 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 
 Snapshot ID: `AAAAAO3BzNUJfHjCFMXv1q7RtClGc2Ez`

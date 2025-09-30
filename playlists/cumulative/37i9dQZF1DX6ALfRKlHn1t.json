@@ -3921,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "conditions of an orphan//",
+        "url": "https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218259,
+      "name": "monalisa, we miss you//",
+      "url": "https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU"
+    },
+    {
+      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"

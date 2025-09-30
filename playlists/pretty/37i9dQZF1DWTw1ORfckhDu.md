@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa Alina Burnet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,253 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,257 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 |
-| 2 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 |
-| 3 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
+| 2 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
+| 3 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 |
 | 4 | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/1twlTgwJAk0ApT4wOEhjSd) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5Kjjo5fGrQZYbfstHAZ1sl) | 3:14 |
 | 5 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
 | 6 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 7 | [PiENTÄKiVAA](https://open.spotify.com/track/2GmLbOljJ595b3mwhxLHzB) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [PiENTÄKiVAA](https://open.spotify.com/album/7fymE8MMeIYnCmEthFnmnW) | 2:47 |
-| 8 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 |
-| 9 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
-| 10 | [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/track/1R6Pd2lsSDBboDAafLaEjT) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/album/6cyqQjNXbtusjlXvKApmA3) | 2:14 |
-| 11 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 12 | [Kadut tietää](https://open.spotify.com/track/6g9WHMklrI0JxjtM9STpcU) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Kadut tietää](https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp) | 2:29 |
-| 13 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 7 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 |
+| 8 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
+| 9 | [PiENTÄKiVAA](https://open.spotify.com/track/2GmLbOljJ595b3mwhxLHzB) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [PiENTÄKiVAA](https://open.spotify.com/album/7fymE8MMeIYnCmEthFnmnW) | 2:47 |
+| 10 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 11 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 12 | [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/track/1R6Pd2lsSDBboDAafLaEjT) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Senya x OFF THE BOOTH \(Itserakas\)](https://open.spotify.com/album/6cyqQjNXbtusjlXvKApmA3) | 2:14 |
+| 13 | [Kadut tietää](https://open.spotify.com/track/6g9WHMklrI0JxjtM9STpcU) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Kadut tietää](https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp) | 2:29 |
 | 14 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 |
 | 15 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 16 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Muijii stadis](https://open.spotify.com/track/3esf5YD88WaHyYw6rr9WWc) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Muijii stadis](https://open.spotify.com/album/32wXB7RFCSyS2qxATYi1Wl) | 3:12 |
 | 50 | [Kummitusjuna](https://open.spotify.com/track/1XtpCzueUZM4hDd5gpi0nB) | [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Kummitusjuna](https://open.spotify.com/album/7Ksj2Y1jfGypo7fzHWG3IX) | 2:56 |
 
-Snapshot ID: `AAAAAEe4OLpYXiqmdPYWh6bvAY9ZQeLB`
+Snapshot ID: `AAAAABg+hvJRWOMo/z1pxSQ42kAFQ8Ux`

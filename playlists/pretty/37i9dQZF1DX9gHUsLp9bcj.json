@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 44694,
+  "num_followers": 44701,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Mexico's Greatest Hits",
-        "url": "https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW"
-      },
-      "artists": [
-        {
-          "name": "Los Copacabana",
-          "url": "https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Quiereme Mucho (Yours)",
-      "url": "https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "His 28 Greatest Hits",
         "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
       },
@@ -483,18 +467,34 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
-        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
+        "name": "Mexico's Greatest Hits",
+        "url": "https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW"
       },
       "artists": [
         {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+          "name": "Los Copacabana",
+          "url": "https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg"
         }
       ],
-      "duration_ms": 187129,
-      "name": "Somos (Bolero) - Remastered",
-      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
+      "duration_ms": 232333,
+      "name": "Quiereme Mucho (Yours)",
+      "url": "https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Quinto Patio",
+      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
+        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
+        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
       },
       "artists": [
         {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Quinto Patio",
-      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
+      "duration_ms": 187129,
+      "name": "Somos (Bolero) - Remastered",
+      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
     },
     {
       "added_at": "2024-04-24 22:38:01",

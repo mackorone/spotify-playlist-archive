@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Ramya Pothuri
 
-347 songs - 20 hr 1 min
+348 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Spiced Lemonade](https://open.spotify.com/track/7AEZgaAQ0SnJQ5Odw5cBux) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Spiced Lemonade](https://open.spotify.com/album/2C1hH70PnKis3oD8Uaq8pR) | 3:18 | 2023-03-09 | 2025-07-01 |
 | [Start Over](https://open.spotify.com/track/00o6tjjeGukLZiL6E42Oki) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Start Over](https://open.spotify.com/album/4uAIRF3atS9Oy6xxmVoFdC) | 2:38 | 2022-03-25 | 2023-05-20 |
 | [Stay with Me](https://open.spotify.com/track/1DK3RXk38erunCpFE68PQp) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:28 | 2023-05-24 | 2024-06-22 |
+| [Stoned On Your Love \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/5kcPjIvRAHMrWeVhxLxSBU) | [Adi Rao](https://open.spotify.com/artist/67aHUUVIizUykU8Y4NFFp1) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:12 | 2025-09-29 |  |
 | [Straight Through](https://open.spotify.com/track/7f6Neegr5RGVQlJlBXfFpX) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Straight Through](https://open.spotify.com/album/32fagwM4LQVX8UmxSfQK3w) | 4:18 | 2022-04-25 | 2023-01-13 |
 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 | 2023-05-19 | 2023-05-24 |
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-03-25 |  |
@@ -322,7 +323,7 @@
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 | 2022-09-10 |
 | [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 | 2024-06-21 | 2024-08-23 |
 | [Traffic](https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [ill tapes, Vol\. 1](https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr) | 2:18 | 2022-05-06 | 2023-03-18 |
-| [tungh](https://open.spotify.com/track/64BceRX8T5sNVJhhKjeJJw) | [aranya](https://open.spotify.com/artist/31sSjqLFyGD8yQ9ll5Q34N) | [tungh](https://open.spotify.com/album/68MYf5pVGqGWoYZYTxZHqy) | 2:26 | 2025-01-20 |  |
+| [tungh](https://open.spotify.com/track/64BceRX8T5sNVJhhKjeJJw) | [aranya](https://open.spotify.com/artist/31sSjqLFyGD8yQ9ll5Q34N) | [tungh](https://open.spotify.com/album/68MYf5pVGqGWoYZYTxZHqy) | 2:26 | 2025-01-20 | 2025-09-30 |
 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 | 2023-09-07 | 2024-06-22 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2022-03-25 | 2024-08-23 |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-25 | 2023-01-18 |

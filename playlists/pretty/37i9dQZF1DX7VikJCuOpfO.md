@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Majo Aguilar & José Carillo🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,049 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,034 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 90 | [Si Ya Me Enamoré](https://open.spotify.com/track/4zdcnQA7D2xbvZ1bym7jou) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [Si Ya Me Enamoré](https://open.spotify.com/album/2Owva7mSM0Si15iD6rhRDM) | 2:47 |
 | 91 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
 | 92 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
-| 93 | [Dejémoslo Así](https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF) | [Frank Di](https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP), [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Dejémoslo Así](https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6) | 3:00 |
-| 94 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 |
+| 93 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 |
+| 94 | [Dejémoslo Así](https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF) | [Frank Di](https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP), [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Dejémoslo Así](https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6) | 3:00 |
 | 95 | [Ayúdame A Creer](https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Ayúdame A Creer](https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH) | 3:34 |
-| 96 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
-| 97 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
-| 98 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
-| 99 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
-| 100 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
+| 96 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
+| 97 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
+| 98 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
+| 99 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
+| 100 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
 
 Snapshot ID: `AAAAAHvVKGFZidF6FgGMKqjmvu1Y9cuI`

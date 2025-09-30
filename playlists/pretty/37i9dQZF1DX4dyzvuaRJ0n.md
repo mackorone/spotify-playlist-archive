@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Indira Paganotto & Nile Rodgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,647,181 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,644,396 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 50 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
 | 51 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 |
 | 52 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
-| 53 | [Illegal \- Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal \(Nia Archives Remix\)](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 |
+| 53 | [Illegal + Nia Archives](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal + Nia Archives](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 |
 | 54 | [Blackberries](https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Blackberries](https://open.spotify.com/album/0F0JTnpQ50g9dVcX2CiNOn) | 2:01 |
 | 55 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
 | 56 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 |

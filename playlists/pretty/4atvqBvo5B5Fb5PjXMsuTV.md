@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Sep 03:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Sep 18:05 UTC.
 
-[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 100 likes - 50 songs - 2 hr 37 min
+[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 100 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 | 25 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
 | 26 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |
 | 27 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
-| 28 | [Chinatown Pt 2](https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Chinatown Pt 2](https://open.spotify.com/album/0RSlvvBV6LEwRAOocTiyqv) | 2:38 |
-| 29 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
-| 30 | [yezzir](https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [yezzir](https://open.spotify.com/album/4bnx218mT9gJOQILkqDo1t) | 1:46 |
-| 31 | [Starburst](https://open.spotify.com/track/5BwcOGxss3yjlEru57ZY4Y) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Starburst](https://open.spotify.com/album/4hm1LQhtqHqqXkJoBcSAYO) | 4:58 |
-| 32 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 |
-| 33 | [Hippie Sunshine](https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Hippie Sunshine](https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje) | 3:06 |
-| 34 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 |
-| 35 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 |
-| 36 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 |
-| 37 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
-| 38 | [Margiela Pink](https://open.spotify.com/track/26MBnyzi8Ufg9OJvdD1Qln) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Margiela Pink](https://open.spotify.com/album/7t0mA5dtjInFeV3G7uNvxR) | 1:32 |
-| 39 | [Whatever You Like](https://open.spotify.com/track/08mKd7LVxvTq7Af24VfYZ1) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Whatever You Like](https://open.spotify.com/album/6Ws8yG1V1JszzzS0lwk8mn) | 2:55 |
-| 40 | [Butterflies](https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Butterflies](https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5) | 3:09 |
-| 41 | [DIRTY DOG](https://open.spotify.com/track/6cVwVMa30INsgyJtecVGqf) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [DIRTY DOG](https://open.spotify.com/album/7Fl1XlHMkhc5lI7FJIScQl) | 3:01 |
-| 42 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
-| 43 | [Smoochie Girl](https://open.spotify.com/track/3Ey1BWvELDNIZV8JGohnrt) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3grUs6Ll8Godl6D2XDVnT8) | 3:01 |
-| 44 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
-| 45 | [Common Touch](https://open.spotify.com/track/1AOZixWB3G8qpaIhS2eOwB) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Common Touch](https://open.spotify.com/album/3hy3PsDUO1B1dw9SnbHa2c) | 3:11 |
-| 46 | [Strong Because You Are](https://open.spotify.com/track/3qyiGu03ppAuBbUbDHBKU4) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Strong Because You Are](https://open.spotify.com/album/2A54GXf5KVHKRXL3sqfb1Q) | 2:40 |
-| 47 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
-| 48 | [MOUNT PLEASANT.](https://open.spotify.com/track/1NwcswzrfTmjxeyZKm3rCK) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [MOUNT PLEASANT.](https://open.spotify.com/album/3CnmPVTJSNgDmSG2PKKFtv) | 2:25 |
-| 49 | [IF LYRICS WERE CONFIDENTIAL](https://open.spotify.com/track/4u3Cw2vfURpijHBMVFOmGQ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [IF LYRICS WERE CONFIDENTIAL](https://open.spotify.com/album/0RMmFHb2hxmy647eAXsfAB) | 2:52 |
-| 50 | [Into The Cesspool](https://open.spotify.com/track/2YZlG2b8Gz0t6ThDiRPinZ) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Into The Cesspool](https://open.spotify.com/album/0YmYysa7t4xstlKnVCVsM6) | 3:43 |
+| 28 | [rollback freestyle](https://open.spotify.com/track/6mPuuM6qVrr0okmGFeLVHb) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ), [RXKNephew](https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT), [Grey Streak](https://open.spotify.com/artist/2J3xUSbnigLbcN4cmzkcS9) | [rollback freestyle](https://open.spotify.com/album/5xu0iljRkz8vBAjaGsfuT9) | 1:46 |
+| 29 | [Chinatown Pt 2](https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Chinatown Pt 2](https://open.spotify.com/album/0RSlvvBV6LEwRAOocTiyqv) | 2:38 |
+| 30 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
+| 31 | [yezzir](https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [yezzir](https://open.spotify.com/album/4bnx218mT9gJOQILkqDo1t) | 1:46 |
+| 32 | [Starburst](https://open.spotify.com/track/5BwcOGxss3yjlEru57ZY4Y) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Starburst](https://open.spotify.com/album/4hm1LQhtqHqqXkJoBcSAYO) | 4:58 |
+| 33 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 |
+| 34 | [Hippie Sunshine](https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Hippie Sunshine](https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje) | 3:06 |
+| 35 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 |
+| 36 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 |
+| 37 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 |
+| 38 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
+| 39 | [Margiela Pink](https://open.spotify.com/track/26MBnyzi8Ufg9OJvdD1Qln) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Margiela Pink](https://open.spotify.com/album/7t0mA5dtjInFeV3G7uNvxR) | 1:32 |
+| 40 | [Whatever You Like](https://open.spotify.com/track/08mKd7LVxvTq7Af24VfYZ1) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Whatever You Like](https://open.spotify.com/album/6Ws8yG1V1JszzzS0lwk8mn) | 2:55 |
+| 41 | [Butterflies](https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Butterflies](https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5) | 3:09 |
+| 42 | [DIRTY DOG](https://open.spotify.com/track/6cVwVMa30INsgyJtecVGqf) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [DIRTY DOG](https://open.spotify.com/album/7Fl1XlHMkhc5lI7FJIScQl) | 3:01 |
+| 43 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 44 | [Smoochie Girl](https://open.spotify.com/track/3Ey1BWvELDNIZV8JGohnrt) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3grUs6Ll8Godl6D2XDVnT8) | 3:01 |
+| 45 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
+| 46 | [Common Touch](https://open.spotify.com/track/1AOZixWB3G8qpaIhS2eOwB) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Common Touch](https://open.spotify.com/album/3hy3PsDUO1B1dw9SnbHa2c) | 3:11 |
+| 47 | [Strong Because You Are](https://open.spotify.com/track/3qyiGu03ppAuBbUbDHBKU4) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Strong Because You Are](https://open.spotify.com/album/2A54GXf5KVHKRXL3sqfb1Q) | 2:40 |
+| 48 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
+| 49 | [MOUNT PLEASANT.](https://open.spotify.com/track/1NwcswzrfTmjxeyZKm3rCK) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [MOUNT PLEASANT.](https://open.spotify.com/album/3CnmPVTJSNgDmSG2PKKFtv) | 2:25 |
+| 50 | [IF LYRICS WERE CONFIDENTIAL](https://open.spotify.com/track/4u3Cw2vfURpijHBMVFOmGQ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [IF LYRICS WERE CONFIDENTIAL](https://open.spotify.com/album/0RMmFHb2hxmy647eAXsfAB) | 2:52 |
 
-Snapshot ID: `AAAVEcybUzQjuYKz1z/hyxTo8iapXq7u`
+Snapshot ID: `AAAVExIh7IG/tlaC5BJgy0nk7kAXMSSi`

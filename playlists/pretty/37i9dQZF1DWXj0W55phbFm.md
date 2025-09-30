@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,986 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,024 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 35 | [If I Love Again \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 7:27 |
 | 36 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 |
 | 37 | [Gilimanuk](https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Buoyancy](https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv) | 3:48 |
-| 38 | [Lady Bird](https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz) | [Fats Navarro](https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG), [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [Fats Navarro Memorial Album](https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ) | 2:51 |
-| 39 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
+| 38 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
+| 39 | [Lady Bird](https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz) | [Fats Navarro](https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG), [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [Fats Navarro Memorial Album](https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ) | 2:51 |
 | 40 | [Autumn Leaves](https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 6:25 |
 | 41 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/7yLhkBswH1eRs3BWNF6gjZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In Paris \- The complete 1955\-1956 Barclay sessions](https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9) | 4:44 |
 | 42 | [Easy To Remember](https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:09 |

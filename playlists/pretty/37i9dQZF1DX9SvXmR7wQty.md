@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Cœur De Pirate
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,349 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,347 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 32 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 |
 | 33 | [C'est Fort](https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est Fort](https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS) | 2:39 |
 | 34 | [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 |
-| 35 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
-| 36 | [Laponie](https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Alba](https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl) | 2:40 |
+| 35 | [Laponie](https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Alba](https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl) | 2:40 |
+| 36 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
 | 37 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
 | 38 | [HORS DU TEMPS](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [HORS DU TEMPS](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
 | 39 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
 | 40 | [Plus pareil \(feat\. Gazo\)](https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [HAYATI \(Episode 1 : Du sable et du sang\)](https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd) | 2:58 |
 | 41 | [AIR FORCE BLANCHE](https://open.spotify.com/track/1vdXYpwDTZFgVc1inmirQ7) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1eyeaGRt8dRt5wm7Wg7Fyc) | 3:06 |
-| 42 | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc) | 2:50 |
-| 43 | [Extraordinaire](https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Extraordinaire](https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H) | 2:45 |
+| 42 | [Extraordinaire](https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Extraordinaire](https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H) | 2:45 |
+| 43 | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc) | 2:50 |
 | 44 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
 | 45 | [Kappa](https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [En Attendant Paphos](https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G) | 2:40 |
 | 46 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |

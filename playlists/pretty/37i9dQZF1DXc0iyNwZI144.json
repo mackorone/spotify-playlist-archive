@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1039364,
+  "num_followers": 1039237,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,34 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Looking For Love",
         "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
       },
@@ -947,34 +975,6 @@
       "duration_ms": 163636,
       "name": "Whenever (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
-        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
-      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Stay (Don't Go Away) [feat. Raye]",
+        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 185942,
+      "name": "Stay (Don't Go Away) [feat. Raye]",
+      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Save Me (feat. MKLA)",
         "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 193548,
       "name": "Save Me (feat. MKLA)",
       "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Stay (Don't Go Away) [feat. Raye]",
-        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 185942,
-      "name": "Stay (Don't Go Away) [feat. Raye]",
-      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alien (Topic Remix)",
-        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Alien - Topic Remix",
-      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Cry Dancing",
         "url": "https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 179396,
       "name": "Cry Dancing",
       "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Alien (Topic Remix)",
+        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Alien - Topic Remix",
+      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
     },
     {
       "added_at": "2024-11-15 03:00:00",

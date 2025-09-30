@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 244638,
+  "num_followers": 244652,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAA8hhGGoMVb9D1uE4/wqS7s",
+  "snapshot_id": "aNh6gAAAAABTXaM/ntRIg6EpgEW9+WKb",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 371160,
+      "name": "Ideas Nuevas",
+      "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 229150,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 371160,
-      "name": "Ideas Nuevas",
-      "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Tempestad Tranquila",
+      "url": "https://open.spotify.com/track/3ITXSEYKUp1ISVFhWRClIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Codigos Del Alma",
         "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 307720,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Tempestad Tranquila",
-      "url": "https://open.spotify.com/track/3ITXSEYKUp1ISVFhWRClIx"
     },
     {
       "added_at": null,

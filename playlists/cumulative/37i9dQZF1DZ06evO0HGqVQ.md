@@ -4,7 +4,7 @@
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-95 songs - 7 hr 25 min
+96 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Te Sorprenderás](https://open.spotify.com/track/1scX9xCsjlD02BxIv1cGe9) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:48 | 2024-10-14 |  |
 | [Toma Tu Recuerdo](https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:09 | 2024-10-18 |  |
 | [Toma Tú Recuerdo](https://open.spotify.com/track/6Ow8ycrYyPdeV5YJK5hOwH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 5:09 | 2022-12-16 | 2024-10-18 |
-| [Tristeza](https://open.spotify.com/track/2JGSAf6YQs11nwmzApOXRy) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:13 | 2024-10-15 |  |
+| [Tristeza](https://open.spotify.com/track/2JGSAf6YQs11nwmzApOXRy) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:13 | 2024-10-15 | 2025-09-30 |
 | [Tu Historieta](https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:22 | 2024-11-15 |  |
 | [Un Millón De Besos](https://open.spotify.com/track/4wN0Yti0gkHq7hQ10r0EOU) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:35 | 2023-05-27 | 2024-08-19 |
 | [Ven A Mí](https://open.spotify.com/track/1GdNQquq0BgZandu8lxfrx) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 4:44 | 2024-10-17 |  |
@@ -98,6 +98,7 @@
 | [Ven Tú](https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:00 | 2024-10-11 |  |
 | [Ven Y Dime](https://open.spotify.com/track/3xIFpzSM6Em1AxkIQh8OaI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:03 | 2024-10-14 | 2024-10-17 |
 | [Ven Y Dime](https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 5:03 | 2024-10-17 |  |
+| [Vete](https://open.spotify.com/track/1Ir71MW29zzalqJyjE4xXm) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 4:45 | 2025-09-30 |  |
 | [Vete](https://open.spotify.com/track/66TGTBRnnWmYtIvWIMPfSs) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:45 | 2022-12-16 | 2024-10-15 |
 | [Vivimos Lo Nuestro](https://open.spotify.com/track/4HqY4sYQqEDcxLp9lemip5) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 5:13 | 2024-10-15 |  |
 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 | 2022-12-16 | 2024-10-14 |

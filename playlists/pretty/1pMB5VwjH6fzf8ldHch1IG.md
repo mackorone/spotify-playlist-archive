@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Miley Cyrus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 44,449 likes - 103 songs - 5 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 44,431 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 9 | [out of body](https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [out of body](https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE) | 2:55 |
 | 10 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
 | 11 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |
-| 12 | [Diary Of An Alcoholic \(10 Shots\)](https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Diary Of An Alcoholic \(10 Shots\)](https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk) | 3:53 |
+| 12 | [10 Shots](https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [10 Shots](https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk) | 3:53 |
 | 13 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
 | 14 | [SPACE INVADER \- SBTRKT Remix](https://open.spotify.com/track/4DdEh0x1A1GB55nZbkp1c0) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [SPACE INVADER \(SBTRKT Remix\)](https://open.spotify.com/album/6OMwyBafNAK4KS0yN4QI6b) | 3:20 |
 | 15 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 |

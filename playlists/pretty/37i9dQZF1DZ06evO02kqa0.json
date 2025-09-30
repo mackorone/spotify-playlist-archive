@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39698,
+  "num_followers": 39699,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAADqBVvpclR8izFvGwkqh6A",
+  "snapshot_id": "aNh6gAAAAAC+A77o7BMcUqAXYXF6fu6H",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Tarantino Selection: Music from His Movies",
+        "url": "https://open.spotify.com/album/5Z6knIX3m7r3wdrBl48328"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Lucia Danieli",
+          "url": "https://open.spotify.com/artist/3KxTkmx5sr7IPJTp9Ig6m8"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Flower Duet (Va Vie - Scuoti Quella Fronda)",
+      "url": "https://open.spotify.com/track/77KnpbJt9hQnz6ujuwFDlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maria Callas",
         "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 339666,
       "name": "Norma (1997 Digital Remaster): Casta Diva",
       "url": "https://open.spotify.com/track/1pqGcNI8H5i3yySTNCrD7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Tarantino Selection: Music from His Movies",
-        "url": "https://open.spotify.com/album/5Z6knIX3m7r3wdrBl48328"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Lucia Danieli",
-          "url": "https://open.spotify.com/artist/3KxTkmx5sr7IPJTp9Ig6m8"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Flower Duet (Va Vie - Scuoti Quella Fronda)",
-      "url": "https://open.spotify.com/track/77KnpbJt9hQnz6ujuwFDlZ"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 216500,
-      "name": "Casta diva",
-      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
+      "duration_ms": 225581,
+      "name": "Qui la voce sua soave",
+      "url": "https://open.spotify.com/track/3GFA0ARfHs9nApXXCHAJ9y"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 225581,
-      "name": "Qui la voce sua soave",
-      "url": "https://open.spotify.com/track/3GFA0ARfHs9nApXXCHAJ9y"
+      "duration_ms": 216500,
+      "name": "Casta diva",
+      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
     },
     {
       "added_at": null,
@@ -591,6 +591,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Her Greatest Live Recitals",
+        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "North German Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
+      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 252706,
       "name": "Puccini: La boh\u00e8me, Act 1: \"Ehi! Rodolfo! \u2026 O soave fanciulla, o dolce viso\" (Schaunard, Colline, Marcello, Rodolfo, Mimi)",
       "url": "https://open.spotify.com/track/332vXZ7UCNUmNQn6xfGPYs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Her Greatest Live Recitals",
-        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "North German Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
-      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
     },
     {
       "added_at": null,
@@ -895,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas Legendary Recordings",
-        "url": "https://open.spotify.com/album/7fXhJix9RarIVr9Mu9Y6dg"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        }
-      ],
-      "duration_ms": 151613,
-      "name": "La sonnambula, Act I: Come per me sereno",
-      "url": "https://open.spotify.com/track/7vaOkwJbNRs4xXc3xaTivD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
         "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
       },
@@ -963,38 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Francesco Albanese",
-          "url": "https://open.spotify.com/artist/5hX2FWNpuaqI1vJ4vIuT8G"
-        },
-        {
-          "name": "Gabriele Santini",
-          "url": "https://open.spotify.com/artist/4C8Cmg4pufBGtbDGGTGbkL"
-        },
-        {
-          "name": "Orchestra Sinfonica Di Torino Della Rai",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
-      "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verdi: Il trovatore",
         "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
       },
@@ -1019,6 +959,34 @@
       "duration_ms": 213880,
       "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
       "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria Callas Legendary Recordings",
+        "url": "https://open.spotify.com/album/7fXhJix9RarIVr9Mu9Y6dg"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        }
+      ],
+      "duration_ms": 151613,
+      "name": "La sonnambula, Act I: Come per me sereno",
+      "url": "https://open.spotify.com/track/7vaOkwJbNRs4xXc3xaTivD"
     },
     {
       "added_at": null,
@@ -1087,6 +1055,38 @@
       "duration_ms": 228626,
       "name": "Puccini: La boh\u00e8me, Act 1: \"Non sono in vena\" (Rodolfo/Mim\u00ec)",
       "url": "https://open.spotify.com/track/5hcfSKk1uc2eRqyk9kgkAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Francesco Albanese",
+          "url": "https://open.spotify.com/artist/5hX2FWNpuaqI1vJ4vIuT8G"
+        },
+        {
+          "name": "Gabriele Santini",
+          "url": "https://open.spotify.com/artist/4C8Cmg4pufBGtbDGGTGbkL"
+        },
+        {
+          "name": "Orchestra Sinfonica Di Torino Della Rai",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
+      "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
     },
     {
       "added_at": null,

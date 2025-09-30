@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,182 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,186 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 |
 | 50 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 |
 
-Snapshot ID: `aNcpAAAAAAAB/NscY0YjG0nvdzAeSCiS`
+Snapshot ID: `aNh6gAAAAACTVflMYm5dydA/8L82Je/k`

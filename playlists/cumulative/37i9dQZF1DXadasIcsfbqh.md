@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Cameron Whitcomb
 
-341 songs - 17 hr 42 min
+342 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Freaking Out](https://open.spotify.com/track/64vAZadkBrtPKk3OtYGdA1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 Side B](https://open.spotify.com/album/5UiWnlvK6NllXRMoQ2pUlg) | 2:30 | 2021-12-17 | 2022-05-17 |
 | [Get The Girl](https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Get The Girl](https://open.spotify.com/album/2inyimCr6ymziueiISBpzE) | 2:52 | 2023-06-16 | 2024-01-27 |
 | [Gettin' Somewhere](https://open.spotify.com/track/0TqCKx7wAlVY2lXfB0x4NH) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 3:16 | 2021-12-17 | 2022-07-29 |
-| [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-18 |  |
+| [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-18 | 2025-09-30 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2024-09-14 |
 | [Girl In Mine](https://open.spotify.com/track/7GYwddIIGF1XuZrh1z1Mta) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You 2](https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk) | 2:34 | 2023-10-27 | 2024-04-19 |
 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 | 2023-08-11 | 2023-11-06 |
@@ -280,6 +280,7 @@
 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 | 2022-07-22 | 2023-11-03 |
 | [Take My Name](https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Songs from 'For You'](https://open.spotify.com/album/01z0MEI8EPxiAl1GvgRovl) | 2:37 | 2021-12-17 | 2022-07-29 |
 | [Take My Name](https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 2:37 | 2023-10-27 | 2024-04-19 |
+| [Talk Of The Town](https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Talk Of The Town](https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9) | 3:05 | 2025-09-26 |  |
 | [Tennessee Love Song](https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Tennessee Love Song](https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2) | 1:47 | 2023-10-27 | 2024-09-14 |
 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 | 2023-06-09 |  |
 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 | 2021-12-17 | 2022-02-19 |

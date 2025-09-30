@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-407 songs - 1 day 0 hr 23 min
+408 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Premante Inthena](https://open.spotify.com/track/1Ax4ObcMi2ugToK3RLT15V) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Premante Inthena](https://open.spotify.com/album/2KKSTcfeHlrtCrx321lmoP) | 3:08 | 2025-04-28 | 2025-09-06 |
 | [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 | 2023-09-08 | 2024-06-22 |
 | [Prementhundo Gundellona](https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf) | [Uday Kiran UK](https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i) | [Prementhundo Gundellona](https://open.spotify.com/album/7KKA0THUOflYVBCBuj6hQX) | 3:53 | 2023-12-27 | 2024-04-30 |
+| [Premey](https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Premey](https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk) | 4:45 | 2025-09-29 |  |
 | [PREMIKA](https://open.spotify.com/track/5WIWh3L9x0AHq9f6y32uub) | [J.Frank](https://open.spotify.com/artist/6MjtJioAJLnPJx93rKRXBx) | [PURPLE/CHRYSOLITE](https://open.spotify.com/album/2j4Fgb7WDqjvhLSEkvA87e) | 2:49 | 2024-04-25 | 2024-07-20 |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |
 | [Priya](https://open.spotify.com/track/7mWKt0C20Q05fHNU60nfT3) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Priya](https://open.spotify.com/album/6mmK0Nb9PYIpC2s0vqE6in) | 4:40 | 2024-10-23 |  |

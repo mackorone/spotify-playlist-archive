@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,151 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,169 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 2 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 3 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 4 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
-| 5 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 6 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
+| 5 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
+| 6 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 7 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 |
 | 8 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
 | 9 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 93 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
 | 94 | [Tha Rhythm](https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Tha Rhythm](https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0) | 3:15 |
 | 95 | [Today](https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Today](https://open.spotify.com/album/7ipTPuIfLGHeL1Nmu0LiYN) | 3:04 |
-| 96 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
-| 97 | [Hey Hey Hey](https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Hey Hey Hey](https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e) | 2:53 |
+| 96 | [Hey Hey Hey](https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Hey Hey Hey](https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e) | 2:53 |
+| 97 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
 | 98 | [Tomorrow Man](https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 2:46 |
 | 99 | [Should've Known \(feat\. Smino & Cedxric\)](https://open.spotify.com/track/4V8iRao70OTxshu74BMEBE) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cedxric](https://open.spotify.com/artist/4BevWbXTBfZaF4T7yFDtOI) | [Don't Forget To Breathe](https://open.spotify.com/album/5MBfkQZYnJJgeSHeEOGHL4) | 3:03 |
 | 100 | [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 |

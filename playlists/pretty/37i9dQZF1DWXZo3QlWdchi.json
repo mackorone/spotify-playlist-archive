@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 335218,
+  "num_followers": 335290,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
+        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 339960,
+      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
+      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
+    },
+    {
+      "added_at": "2025-06-28 00:29:27",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
-        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 339960,
-      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
-      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
-    },
-    {
-      "added_at": "2025-06-28 00:29:27",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 128106,
-      "name": "O Coro Vai Come - Ao Vivo",
-      "url": "https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR"
+      "duration_ms": 151666,
+      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
     },
     {
       "added_at": "2025-06-28 00:29:27",
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
+      "duration_ms": 128106,
+      "name": "O Coro Vai Come - Ao Vivo",
+      "url": "https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR"
     },
     {
       "added_at": "2025-06-28 00:29:27",

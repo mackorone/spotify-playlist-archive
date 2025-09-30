@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Daniel Caesar✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,519 likes - 204 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,525 likes - 204 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moon](https://open.spotify.com/track/2jAIpYibcgTSvcchEenQwN) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5F9611VbnzXzsLALMquXbe) | 5:17 |
-| 2 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 |
-| 3 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
-| 4 | [Inferno](https://open.spotify.com/track/31O8ZZCnYkHonBL00glsTT) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Inferno](https://open.spotify.com/album/2Ztfpa7y9zCMUGoyF0GFiM) | 1:59 |
-| 5 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
-| 6 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
+| 2 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
+| 3 | [Inferno](https://open.spotify.com/track/31O8ZZCnYkHonBL00glsTT) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Inferno](https://open.spotify.com/album/2Ztfpa7y9zCMUGoyF0GFiM) | 1:59 |
+| 4 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 |
+| 5 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
+| 6 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
 | 7 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 |
 | 8 | [DJ Carpenter's Lovesong](https://open.spotify.com/track/7a78wGtjGBzcQJ49hKPn5E) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [DJ Carpenter's Lovesong](https://open.spotify.com/album/14x8YWiS5PFCtitIVLih1V) | 3:01 |
-| 9 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 |
-| 10 | [Naive](https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Naive](https://open.spotify.com/album/3jH5zIsuqxMJ4DZqq2CcGI) | 3:00 |
-| 11 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
-| 12 | [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 |
-| 13 | [RHYTHM](https://open.spotify.com/track/3ADmWwDoKMtoVc382iCOQS) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [RHYTHM](https://open.spotify.com/album/6q3gXFo6vz9kNOzA4vLEYt) | 3:43 |
-| 14 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
-| 15 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
-| 16 | [Stressed Out](https://open.spotify.com/track/2hPjodk3uO452PXj93V7GU) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Got Shit On My Pants Act II](https://open.spotify.com/album/44uUN2EvFMzgD0LnU373q5) | 3:13 |
-| 17 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 18 | [ruined for me](https://open.spotify.com/track/0tYhqTUD5RVRQrB26wZrYO) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [ruined for me](https://open.spotify.com/album/4STWINy6qyrPq9k7uQe4Nt) | 1:59 |
+| 9 | [ruined for me](https://open.spotify.com/track/0tYhqTUD5RVRQrB26wZrYO) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [ruined for me](https://open.spotify.com/album/4STWINy6qyrPq9k7uQe4Nt) | 1:59 |
+| 10 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 11 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 |
+| 12 | [Naive](https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Naive](https://open.spotify.com/album/3jH5zIsuqxMJ4DZqq2CcGI) | 3:00 |
+| 13 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
+| 14 | [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 |
+| 15 | [RHYTHM](https://open.spotify.com/track/3ADmWwDoKMtoVc382iCOQS) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [RHYTHM](https://open.spotify.com/album/6q3gXFo6vz9kNOzA4vLEYt) | 3:43 |
+| 16 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
+| 17 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
+| 18 | [Stressed Out](https://open.spotify.com/track/2hPjodk3uO452PXj93V7GU) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Got Shit On My Pants Act II](https://open.spotify.com/album/44uUN2EvFMzgD0LnU373q5) | 3:13 |
 | 19 | [alone](https://open.spotify.com/track/4ELOtteyrWKxkUNTdMNQ09) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [Push](https://open.spotify.com/album/5cg9xsPpJYfjPeQOyUCpf0) | 3:27 |
 | 20 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
 | 21 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 203 | [History \(feat\. Waxahatchee\)](https://open.spotify.com/track/2v3H792zzsZb4OrWrNhkCv) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:03 |
 | 204 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 
-Snapshot ID: `AAAAADfHnB2HWvBlAkSR94BGmHc/ixxa`
+Snapshot ID: `AAAAAGtCJwpax8GnE/ljhCD13MkFDqyX`

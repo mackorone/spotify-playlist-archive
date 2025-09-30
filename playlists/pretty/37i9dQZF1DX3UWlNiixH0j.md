@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ROTH BART BARON
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,707 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,703 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 60 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
 | 61 | [love it](https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:51 |
 | 62 | [Showdown](https://open.spotify.com/track/1OLrX49OrQZ6rvoCVBcHuL) | [MUJINA](https://open.spotify.com/artist/6aWTTeaUS0NR95xjGHpwkf) | [Showdown](https://open.spotify.com/album/0jiHBKZEoI3itidxQCQTm9) | 3:54 |
-| 63 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
+| 63 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
 | 64 | [Tokyo Tower](https://open.spotify.com/track/3DK7rKYYwEXJ3HCzakQ1Uy) | [choreography](https://open.spotify.com/artist/4WytylkljmLiq6cBmceCDc) | [Tokyo Tower](https://open.spotify.com/album/6JeYqRiefqZy5oaSY6U1UN) | 3:49 |
-| 65 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
+| 65 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
 | 66 | [Grown Too Old](https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Grown Too Old](https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8) | 3:12 |
 | 67 | [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 |
 | 68 | [lapis lazuli feat\. luvis](https://open.spotify.com/track/1ldtIYXr0WSaXRzolhzPsW) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [lapis lazuli](https://open.spotify.com/album/6cD9JRGnKgOlqM7m2UqKad) | 3:40 |

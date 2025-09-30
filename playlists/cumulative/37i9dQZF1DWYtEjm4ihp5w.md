@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-438 songs - 23 hr 5 min
+439 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fly Emirates](https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Fly Emirates](https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM) | 3:08 | 2023-06-13 | 2023-07-12 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-14 | 2023-07-21 |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-01-03 | 2024-07-13 |
+| [Foutouna](https://open.spotify.com/track/5nkqQt3ZNijIERz0UiYuiR) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [DOUBLE HELIX](https://open.spotify.com/album/0pv4JA1mFwmxTUs9gELT3u) | 2:43 | 2025-09-29 |  |
 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 | 2023-08-30 | 2024-06-19 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 | 2023-12-16 |
 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 | 2025-07-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,930 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,932 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 29 | [Steven](https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:20 |
 | 30 | [WASTED](https://open.spotify.com/track/25AM10uMejVS9eCNUeu7X1) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Pressure](https://open.spotify.com/album/4OfHCsxvjTUu4mSVducvtH) | 2:25 |
 | 31 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/6RTH6uELdnpz9zrPleN1BP) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:34 |
-| 32 | [Fireworks at Dawn](https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 2:09 |
-| 33 | [Between the Mountains and the Sea](https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 4:53 |
+| 32 | [Between the Mountains and the Sea](https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 4:53 |
+| 33 | [Fireworks at Dawn](https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 2:09 |
 | 34 | [End of the World/A Game of Chess](https://open.spotify.com/track/7tBZqOMNXEIL1qXQ5gr9DC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:56 |
 | 35 | [If There Is Light, It Will Find You](https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 6:17 |
 | 36 | [Institutionalized](https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 49 | [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 |
 | 50 | [First Breath, Last Breath](https://open.spotify.com/track/2ohUJ8Kc80bf6cJQ4isUdc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:54 |
 
-Snapshot ID: `aNcpAAAAAAC/kUJzqLwlFlgPL+kz+CIz`
+Snapshot ID: `aNh6gAAAAACWxKmdiPrwenzNzWa+gtxD`

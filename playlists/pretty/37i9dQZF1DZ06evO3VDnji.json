@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 74394,
+  "num_followers": 74398,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAFiNTNxzV7n6QTLXufn4h3",
+  "snapshot_id": "aNh6gAAAAAC/PlF/lna5iNRrJ9BJQUGS",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 244245,
       "name": "Cielo Eterno",
       "url": "https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
     },
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "Decir Adios (with DannyLux)",
+      "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 214410,
       "name": "VIAJA CONMIGO (feat. Jasiel Nu\u00f1ez, Yng Naz) - Remix",
       "url": "https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 279920,
-      "name": "Decir Adios (with DannyLux)",
-      "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
     },
     {
       "added_at": null,

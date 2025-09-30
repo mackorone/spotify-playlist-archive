@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 182684,
+  "num_followers": 182747,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAih0WZuazsXKBp6mJbIURh",
+  "snapshot_id": "aNh6gAAAAACi1EVcgvbXoZcNdxtrHUCv",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "him all along",
-        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "him all along",
-      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sold Out Dates (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 126168,
       "name": "Drip or Drown",
       "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "him all along",
+        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "him all along",
+      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
       "added_at": null,

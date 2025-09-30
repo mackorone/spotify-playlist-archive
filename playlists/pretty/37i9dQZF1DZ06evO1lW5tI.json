@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 247954,
+  "num_followers": 248005,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAALh7ZTZaKGk1Xg3lBNq+r9",
+  "snapshot_id": "aNh6gAAAAADBBAlRQK7aUdJHgxl7zVWt",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
       },
       "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+      "duration_ms": 240742,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9"
     },
     {
       "added_at": null,
@@ -507,38 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 240742,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "Ada Jean",
-      "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -552,25 +516,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 260732,
-      "name": "Connaissais de Face",
-      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
     },
     {
       "added_at": null,
@@ -600,9 +548,93 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
+      "duration_ms": 199032,
+      "name": "Ada Jean",
+      "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 260732,
+      "name": "Connaissais de Face",
+      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "C\u00f3mo Me Quieres",
+      "url": "https://open.spotify.com/track/0pwe8j2VhTBRiAb5gystJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
       "duration_ms": 120720,
       "name": "Farolim de Felgueiras",
       "url": "https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 185165,
+      "name": "Father Bird, Mother Bird",
+      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
     },
     {
       "added_at": null,
@@ -627,24 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 185165,
-      "name": "Father Bird, Mother Bird",
-      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
         {
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 225153,
-      "name": "C\u00f3mo Me Quieres",
-      "url": "https://open.spotify.com/track/0pwe8j2VhTBRiAb5gystJO"
+      "duration_ms": 242536,
+      "name": "C\u00f3mo Te Quiero",
+      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
     },
     {
       "added_at": null,
@@ -675,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 301242,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
       "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 242536,
-      "name": "C\u00f3mo Te Quiero",
-      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
+      "duration_ms": 301242,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
     },
     {
       "added_at": null,

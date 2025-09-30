@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,995 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,998 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 31 | [サイダー](https://open.spotify.com/track/3hgxa6MGGjpQ8VQ7kbPHk2) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:49 |
 | 32 | [ラズベリー＊モンスター](https://open.spotify.com/track/19oCEhJcUnJjFWnJ8tAnvL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール](https://open.spotify.com/album/4PV8u7OxMEUJqFA1lFvNh7) | 2:55 |
 | 33 | [LOVE FIGHT](https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [LOVE FIGHT](https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X) | 3:56 |
-| 34 | [乙女どもよ。（TV size）](https://open.spotify.com/track/0UIL22vPHoye8EtsWXTnVk) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [乙女どもよ。（TV size）](https://open.spotify.com/album/26zxdP1K5NGFkIhdDUXLkd) | 1:30 |
-| 35 | [決戦スピリット TVsize](https://open.spotify.com/track/7h9dwMxEmUl4kRA3Jo90to) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット TVsize](https://open.spotify.com/album/0kNJ3BzFw3lPFdooeN5MdN) | 1:30 |
-| 36 | [ロクベル](https://open.spotify.com/track/4oTHY9dyyGwP1wR8ryzqnR) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [CHiCO with HoneyWorks 2016.1.10 "世界はiに満ちている \-1st\-" at 渋谷WWW](https://open.spotify.com/album/7eu3mYVNTeq6mV0sD7XkR0) | 3:50 |
-| 37 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 |
+| 34 | [決戦スピリット TVsize](https://open.spotify.com/track/7h9dwMxEmUl4kRA3Jo90to) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット TVsize](https://open.spotify.com/album/0kNJ3BzFw3lPFdooeN5MdN) | 1:30 |
+| 35 | [乙女どもよ。（TV size）](https://open.spotify.com/track/0UIL22vPHoye8EtsWXTnVk) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [乙女どもよ。（TV size）](https://open.spotify.com/album/26zxdP1K5NGFkIhdDUXLkd) | 1:30 |
+| 36 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 |
+| 37 | [ロクベル](https://open.spotify.com/track/4oTHY9dyyGwP1wR8ryzqnR) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [CHiCO with HoneyWorks 2016.1.10 "世界はiに満ちている \-1st\-" at 渋谷WWW](https://open.spotify.com/album/7eu3mYVNTeq6mV0sD7XkR0) | 3:50 |
 | 38 | [きっと別れるよ](https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:44 |
 | 39 | [ヒストリア](https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:29 |
 | 40 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 44 | [ビビっとラブ \-CHiCO ぼっち ver.\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 |
 | 45 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `aNcpAAAAAACcIVy5JxkSavH1wpwX7E+L`
+Snapshot ID: `aNh6gAAAAABHBL1kD2IDZyjkHEXFbd0u`

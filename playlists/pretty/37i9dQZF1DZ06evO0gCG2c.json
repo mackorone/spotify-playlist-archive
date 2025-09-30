@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 327304,
+  "num_followers": 327348,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAC+FEcE/2k2qLK0ej/3hRkf",
+  "snapshot_id": "aNh6gAAAAADFK/sPfnAPlCVXuQkcgdMb",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunk Right Now (Na Na Na) with Akon",
-        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not 4 Sale",
         "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 246053,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
     },
     {
       "added_at": null,
@@ -235,22 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
+        "name": "Drunk Right Now (Na Na Na) with Akon",
+        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 246466,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+      "duration_ms": 198660,
+      "name": "Drunk Right Now (Na Na Na) with Akon",
+      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
       "added_at": null,

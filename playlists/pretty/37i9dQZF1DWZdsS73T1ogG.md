@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Moffa & Jovaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,184 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,952 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 12 | [lonely](https://open.spotify.com/track/2zajUUzQI6EVxepdee2KML) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [princesa de la noche](https://open.spotify.com/album/1O4KYm9wHTNwAnjoHCnQMI) | 2:24 |
 | 13 | [GANGTEL](https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GANGTEL](https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW) | 2:56 |
 | 14 | [Tumpa Tumpa \(feat\. Alu Mix\)](https://open.spotify.com/track/7gmxE0kbyG9QZJIBtFarIi) | [Gweri B](https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Tumpa Tumpa \(feat\. Alu Mix\)](https://open.spotify.com/album/16tX77wdnF0PqEEzVqVgi1) | 2:03 |
-| 15 | [Castigo](https://open.spotify.com/track/6r1LW4sBvy3ODLRERuszXT) | [Mark B\. Bryant Flow](https://open.spotify.com/artist/6ESe0jEwTvDI7lxHQZEsKu) | [Castigo](https://open.spotify.com/album/37jwoKxZnmqqXvJ7uuPD6L) | 3:20 |
+| 15 | [Castigo](https://open.spotify.com/track/6r1LW4sBvy3ODLRERuszXT) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Bryant Flow](https://open.spotify.com/artist/0CuT7R1m8QixpXo8sCZLHQ) | [Castigo](https://open.spotify.com/album/37jwoKxZnmqqXvJ7uuPD6L) | 3:20 |
 | 16 | [Arequipe](https://open.spotify.com/track/4USk7McnqhyOSgQr4tNeNM) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Arequipe](https://open.spotify.com/album/5ggvfTh0JD1Z3QGVEFVYCd) | 2:31 |
 | 17 | [Sofía Margiela](https://open.spotify.com/track/5zrTc9gfFyVaJMzrzEfiQ4) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Sofía Margiela](https://open.spotify.com/album/1mah0sNSPaTkoqmvODiptJ) | 2:03 |
 | 18 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |

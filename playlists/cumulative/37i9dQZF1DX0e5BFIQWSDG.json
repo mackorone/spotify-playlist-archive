@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sicario, Konstantinos Argiros, SNIK",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DIFF, XRS",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -992,7 +992,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 150680,
       "name": "AYGOUSTOS",
       "url": "https://open.spotify.com/track/2klGl2ub6l3empTt8NcpfI"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 184613,
       "name": "BRAHAMI FINEST",
       "url": "https://open.spotify.com/track/0ik1NbqFVUoKrk6zgoPfxc"
@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "FINOS FILM",
+        "url": "https://open.spotify.com/album/1IZWFLisg0OuHwfFezAA7o"
+      },
+      "artists": [
+        {
+          "name": "GXHAN",
+          "url": "https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131351,
+      "name": "FINOS FILM",
+      "url": "https://open.spotify.com/track/3Q78butABFYlJZFIIlJZXd"
+    },
+    {
+      "album": {
         "name": "MAIS",
         "url": "https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj"
       },
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 124827,
       "name": "Kaigomai",
       "url": "https://open.spotify.com/track/5xYRYWS2y2NCxs12ZVEvNv"
@@ -3728,6 +3746,24 @@
       "duration_ms": 154705,
       "name": "KOUKLA",
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
+    },
+    {
+      "album": {
+        "name": "Kourastika Na S' Agapo",
+        "url": "https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253420,
+      "name": "Kourastika Na S' Agapo",
+      "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
     },
     {
       "album": {
@@ -4438,7 +4474,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 120000,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/6QPJznZa06kApEw4r6BlRZ"
@@ -5189,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "PARANOMO",
+        "url": "https://open.spotify.com/album/0Rz6blnYamKkaeiAb7npGt"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "PARANOMO",
+      "url": "https://open.spotify.com/track/4M9LkBYxzH1U6YGcWCs6OM"
+    },
+    {
+      "album": {
         "name": "PARANO\u00d3",
         "url": "https://open.spotify.com/album/095rtat4UlMpWphQtm90MN"
       },
@@ -5266,6 +5320,32 @@
       "duration_ms": 187433,
       "name": "Pasok",
       "url": "https://open.spotify.com/track/5WuzHndVMAOgcunToFjp4U"
+    },
+    {
+      "album": {
+        "name": "PATEK",
+        "url": "https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/2BdbmgQDvk6Sk8mRH1B47g"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "PATEK",
+      "url": "https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q"
     },
     {
       "album": {
@@ -5572,6 +5652,32 @@
       "duration_ms": 126923,
       "name": "Pos Pernao",
       "url": "https://open.spotify.com/track/2luaR63Wr8oFc4OdVPP8Lz"
+    },
+    {
+      "album": {
+        "name": "Prezi",
+        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Prezi",
+      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
     },
     {
       "album": {
@@ -5935,6 +6041,28 @@
     },
     {
       "album": {
+        "name": "SEADOO",
+        "url": "https://open.spotify.com/album/2T5uudWve4hhgTHVnaMGcl"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Lami",
+          "url": "https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "SEADOO",
+      "url": "https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g"
+    },
+    {
+      "album": {
         "name": "Scripta Manent",
         "url": "https://open.spotify.com/album/6nzg0S8AJ4c0C7lZLlGKMA"
       },
@@ -6170,7 +6298,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 189942,
       "name": "Somebody Gonna Die",
       "url": "https://open.spotify.com/track/74TkmC5Nrzqxz6PiPXtxiP"
@@ -6599,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Thavmastis",
+        "url": "https://open.spotify.com/album/7EKQMYhWAmomFDlrm7L90n"
+      },
+      "artists": [
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "Thavmastis",
+      "url": "https://open.spotify.com/track/2w5Qj2PzTE0mOZrHaE25qG"
+    },
+    {
+      "album": {
         "name": "Thelw Na Se Dw",
         "url": "https://open.spotify.com/album/6vTLwPmhUJKlUtNeUedsQw"
       },
@@ -6618,7 +6764,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 157009,
       "name": "Thelw Na Se Dw",
       "url": "https://open.spotify.com/track/6vSy6np4X6taAUmk8R1DTp"
@@ -6936,7 +7082,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 139200,
       "name": "TRANQUILA",
       "url": "https://open.spotify.com/track/3wFcRJlyQqaIF0gPfkz3y7"

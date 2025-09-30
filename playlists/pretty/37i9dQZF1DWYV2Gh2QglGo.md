@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Cameron Whitcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,655 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,697 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 5 | [Someone Who Knows](https://open.spotify.com/track/5Op72ozs7L69n5l0LfBPg6) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [Someone Who Knows](https://open.spotify.com/album/4lDz9rqOX6nFCIGP9Tjsc7) | 3:11 |
 | 6 | [Scared Of Getting Sober](https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:30 |
 | 7 | [Heartstrings](https://open.spotify.com/track/66Cpzj9S9v81c83kTh2HHe) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [Chevy Back](https://open.spotify.com/album/7BGKRLNzeuSKpmMqe5K07G) | 3:14 |
-| 8 | [Diary Of An Alcoholic \(10 Shots\)](https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Diary Of An Alcoholic \(10 Shots\)](https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk) | 3:53 |
+| 8 | [10 Shots](https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [10 Shots](https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk) | 3:53 |
 | 9 | [Oh to Be Young](https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Oh to Be Young](https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP) | 3:10 |
 | 10 | [Parking Lot Prayers](https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:45 |
 | 11 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |

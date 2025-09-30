@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 43 | [The Second Time Around](https://open.spotify.com/track/6UJ8bJgY1nIpYUTb2PAsUY) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 6:21 |
 | 44 | [Nobody to Love](https://open.spotify.com/track/58SgKp0jBgzzoc0isG6BMk) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 5:45 |
 | 45 | [Nights In Harlem](https://open.spotify.com/track/6lh0AqT1So3DLXmLCOq7lO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Precise](https://open.spotify.com/artist/1DCg5oUIDsOQKJNgvsfq8U) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:57 |
-| 46 | [Love Forgot](https://open.spotify.com/track/1SdTlnlYsIuLqzvKIACKIf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:36 |
-| 47 | [Dream Lover](https://open.spotify.com/track/6ci6IogNBgBxSMLKm78HUf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:32 |
+| 46 | [Dream Lover](https://open.spotify.com/track/6ci6IogNBgBxSMLKm78HUf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:32 |
+| 47 | [Love Forgot](https://open.spotify.com/track/1SdTlnlYsIuLqzvKIACKIf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:36 |
 | 48 | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/track/66ytWEGo1GFennEcymEXN3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 5:29 |
 | 49 | [Love me Again](https://open.spotify.com/track/4wNjohHSHCdeL6HvrUN5tc) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 6:07 |
 | 50 | [If You Can't Dance](https://open.spotify.com/track/4VMVGxnZFOZrEHAE6UrIkG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu) | 2:27 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [Can't Get Enough Good Loving](https://open.spotify.com/track/6MBFVPHEc0HzGV9ghsxYRO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/3cxPGZ0ES2lA2zG8rIiTaF) | 4:36 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `Ab9d0gAAAAAITLMv39NtttHcydnOlXUC`
+Snapshot ID: `Ab9jXgAAAAC3QUNEZ0AeVqqjkAST5GqW`

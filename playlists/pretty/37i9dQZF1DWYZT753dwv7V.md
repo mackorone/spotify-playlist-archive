@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,418 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,416 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 34 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 |
 | 35 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 36 | [Terra promessa](https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:43 |
-| 37 | [farfalle](https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 2:44 |
-| 38 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 37 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 38 | [farfalle](https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 2:44 |
 | 39 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
 | 41 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 62 | [Siamo uguali](https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [1995](https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD) | 4:10 |
 | 63 | [Cuore matto](https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:50 |
 | 64 | [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 |
-| 65 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 |
-| 66 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 |
+| 65 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 |
+| 66 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 |
 | 67 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
 | 68 | [Se stiamo insieme](https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Tutti I Miei Sogni](https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA) | 4:39 |
 | 69 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 86 | [Gente come noi](https://open.spotify.com/track/0rPsMM9L2Rr6wCGPFHjWPZ) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Ivana Spagna](https://open.spotify.com/album/3ok6wgz1ucuA4BMciW8SVf) | 4:07 |
 | 87 | [Per Tutte Le Volte Che...](https://open.spotify.com/track/1qBKrPkpVNu11W4tjY88Gj) | [Valerio Scanu](https://open.spotify.com/artist/6YqnuGUFh2n0bnLdxpszxE) | [Per Tutte Le Volte Che...](https://open.spotify.com/album/75d3bNl0ruuqr5tAnJoBJW) | 3:58 |
 | 88 | [Apri tutte le porte](https://open.spotify.com/track/563Zhnk0v3WwVR0EsYlMNn) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Apri tutte le porte](https://open.spotify.com/album/1bmGTuZJUGa75v4BvsC0AO) | 3:43 |
-| 89 | [La ragazza con il cuore di latta](https://open.spotify.com/track/1OvoC77TS6iKJecRCaq0hN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La ragazza con il cuore di latta](https://open.spotify.com/album/0wPIBB6biqh3RaadDbhfFo) | 3:42 |
-| 90 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
+| 89 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
+| 90 | [La ragazza con il cuore di latta](https://open.spotify.com/track/1OvoC77TS6iKJecRCaq0hN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La ragazza con il cuore di latta](https://open.spotify.com/album/0wPIBB6biqh3RaadDbhfFo) | 3:42 |
 | 91 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 |
 | 92 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
 | 93 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |

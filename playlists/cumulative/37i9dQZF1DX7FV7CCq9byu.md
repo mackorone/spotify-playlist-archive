@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,163 songs - 2 day 11 hr 18 min
+1,164 songs - 2 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-09 | 2024-10-11 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 | 2024-11-23 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-17 | 2025-03-21 |
+| [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 | 2025-09-29 |  |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 | 2025-08-15 |
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 | 2025-05-09 |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-17 | 2025-02-28 |

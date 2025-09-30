@@ -1435,7 +1435,7 @@
     },
     {
       "album": {
-        "name": "Canci\u00f3n Para Regresar",
+        "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
       "artists": [
@@ -1460,7 +1460,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254713,
-      "name": "Canci\u00f3n Para Regresar",
+      "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
     },
     {
@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"

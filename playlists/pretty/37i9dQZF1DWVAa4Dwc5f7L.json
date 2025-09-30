@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo",
-  "num_followers": 400643,
+  "num_followers": 400541,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
         "name": "As\u00ed Yo Soy",
         "url": "https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 166754,
       "name": "Vamos A Ser Feliz",
       "url": "https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -975,6 +975,38 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "Cutibili Pacha",
+      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
         "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) [Remix]",
         "url": "https://open.spotify.com/album/6xgbZ7SdlBQKBSzVl8GZZu"
       },
@@ -1003,38 +1035,6 @@
       "duration_ms": 215825,
       "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) - Remix",
       "url": "https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "Cutibili Pacha",
-      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
+        "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
+        "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
+      },
+      "artists": [
+        {
+          "name": "La Reuni\u00f3n",
+          "url": "https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 947950,
+      "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
+      "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
         "name": "Imparable",
         "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
       },
@@ -1215,26 +1239,18 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
-        "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
+        "name": "Back In Town",
+        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
       "artists": [
         {
-          "name": "La Reuni\u00f3n",
-          "url": "https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
         }
       ],
-      "duration_ms": 947950,
-      "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
-      "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
+      "duration_ms": 258746,
+      "name": "Jilila Kimbolo",
+      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1251,22 +1267,6 @@
       "duration_ms": 216586,
       "name": "VEN B\u00c1ILALO",
       "url": "https://open.spotify.com/track/0gdKOAU9XYruhOndmI1ThO"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "Back In Town",
-        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
-      },
-      "artists": [
-        {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Jilila Kimbolo",
-      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Vivo De Tus Recuerdos",
-        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Arrieta",
-          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
-        }
-      ],
-      "duration_ms": 198964,
-      "name": "Vivo De Tus Recuerdos",
-      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 265680,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Vivo De Tus Recuerdos",
+        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+        }
+      ],
+      "duration_ms": 198964,
+      "name": "Vivo De Tus Recuerdos",
+      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
     },
     {
       "added_at": "2025-08-08 04:00:33",

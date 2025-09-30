@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 140684,
+  "num_followers": 140694,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 222838,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
     },
     {
       "added_at": "2024-07-24 13:57:08",

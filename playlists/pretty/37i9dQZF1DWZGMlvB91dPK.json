@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3335,
+  "num_followers": 3336,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/6avDRa1wX7du0Mv25zaC7i"
     },
     {
-      "added_at": "2024-01-12 13:36:06",
-      "album": {
-        "name": "C\u00f4te d'Azur",
-        "url": "https://open.spotify.com/album/7dv3v0NT8znHNYy2BlZgbX"
-      },
-      "artists": [
-        {
-          "name": "MIMOSA",
-          "url": "https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl"
-        }
-      ],
-      "duration_ms": 193157,
-      "name": "C\u00f4te d'Azur",
-      "url": "https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB"
-    },
-    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "Lisa",
@@ -55,6 +39,22 @@
       "duration_ms": 230351,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh"
+    },
+    {
+      "added_at": "2024-01-12 13:36:06",
+      "album": {
+        "name": "C\u00f4te d'Azur",
+        "url": "https://open.spotify.com/album/7dv3v0NT8znHNYy2BlZgbX"
+      },
+      "artists": [
+        {
+          "name": "MIMOSA",
+          "url": "https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl"
+        }
+      ],
+      "duration_ms": 193157,
+      "name": "C\u00f4te d'Azur",
+      "url": "https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb"
     },
     {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "De bois et de fum\u00e9e",
-        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
-      },
-      "artists": [
-        {
-          "name": "Joanne Radao",
-          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "De bois et de fum\u00e9e",
-      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
-    },
-    {
       "added_at": "2024-01-15 17:31:32",
       "album": {
         "name": "Otak\u00e9",
@@ -543,6 +527,22 @@
       "duration_ms": 393146,
       "name": "Otak\u00e9",
       "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "De bois et de fum\u00e9e",
+        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
+      },
+      "artists": [
+        {
+          "name": "Joanne Radao",
+          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "De bois et de fum\u00e9e",
+      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
     },
     {
       "added_at": "2023-11-23 11:08:33",

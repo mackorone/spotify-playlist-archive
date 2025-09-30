@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 456368,
+  "num_followers": 456512,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADUYZO3WH4rbDmP1M6tJpaa",
+  "snapshot_id": "aNh6gAAAAAAvG3B/0u42gT2DVt7CQTkV",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Swerve City",
-      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Knife Prty",
-      "url": "https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB"
+      "duration_ms": 204880,
+      "name": "Engine No. 9",
+      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Engine No. 9",
-      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
+      "duration_ms": 289200,
+      "name": "Knife Prty",
+      "url": "https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
       "duration_ms": 221800,
       "name": "Xerces",
       "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 237360,
       "name": "Back to School (Mini Maggit)",
       "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 365480,
-      "name": "Tempest",
-      "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
+      "duration_ms": 293053,
+      "name": "Phantom Bride",
+      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gore",
-        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 293053,
-      "name": "Phantom Bride",
-      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
+      "duration_ms": 365480,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Romantic Dreams",
-      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 320546,
       "name": "Hearts / Wires",
       "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 278106,
+      "name": "Romantic Dreams",
+      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
     },
     {
       "added_at": null,

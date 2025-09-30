@@ -1,12 +1,12 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 150178,
+  "num_followers": 150185,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANc5rxQBG7h2spGRUBE1ioppiFqb",
+  "snapshot_id": "AAAAAFtYVeroVzWqnB6FsZYnD1sL43BF",
   "tracks": [
     {
       "added_at": "2025-09-24 03:29:23",
@@ -25,20 +25,56 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-09-24 03:29:23",
+      "added_at": "2025-09-29 06:07:36",
       "album": {
-        "name": "Nadhif (laman berikutnya)",
-        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
+        "name": "Senja Sudut Kota",
+        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
       },
       "artists": [
         {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
         }
       ],
-      "duration_ms": 198567,
-      "name": "bergema sampai selamanya",
-      "url": "https://open.spotify.com/track/0ql6fgz8qk0pAEKrGeSppJ"
+      "duration_ms": 223012,
+      "name": "Senja Sudut Kota",
+      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
+    },
+    {
+      "added_at": "2025-09-29 06:17:26",
+      "album": {
+        "name": "live with it",
+        "url": "https://open.spotify.com/album/6jzlHvl2F5o3yjNID9GhXs"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "live with it",
+      "url": "https://open.spotify.com/track/0NJBlOWxnGphq0fkCd3xIR"
+    },
+    {
+      "added_at": "2025-09-29 06:17:26",
+      "album": {
+        "name": "Mamiu",
+        "url": "https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "duration_ms": 274254,
+      "name": "Menarilah dengan Jiwamu",
+      "url": "https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY"
     },
     {
       "added_at": "2025-08-11 03:47:53",
@@ -57,24 +93,52 @@
       "url": "https://open.spotify.com/track/1zu5ZpnrSArdoaT6Qq3yo9"
     },
     {
-      "added_at": "2025-09-26 08:14:03",
+      "added_at": "2025-09-29 06:17:26",
       "album": {
-        "name": "Belai",
-        "url": "https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg"
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/1TRUcrO2INobTiEnMz5bKZ"
       },
       "artists": [
         {
-          "name": "Bunga",
-          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
-        },
-        {
-          "name": "Amsyar Leee",
-          "url": "https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 223106,
-      "name": "Belai",
-      "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
+      "duration_ms": 129183,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/7likOdkfLh54jaWAlXOST3"
+    },
+    {
+      "added_at": "2025-09-24 03:29:23",
+      "album": {
+        "name": "Nadhif (laman berikutnya)",
+        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 198567,
+      "name": "bergema sampai selamanya",
+      "url": "https://open.spotify.com/track/0ql6fgz8qk0pAEKrGeSppJ"
+    },
+    {
+      "added_at": "2025-09-29 06:17:26",
+      "album": {
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
     },
     {
       "added_at": "2025-09-24 03:29:23",
@@ -107,6 +171,26 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-09-26 08:14:03",
+      "album": {
+        "name": "Belai",
+        "url": "https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg"
+      },
+      "artists": [
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
+        },
+        {
+          "name": "Amsyar Leee",
+          "url": "https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Belai",
+      "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
     },
     {
       "added_at": "2025-08-11 03:47:53",
@@ -1127,26 +1211,6 @@
     {
       "added_at": "2025-08-11 03:47:53",
       "album": {
-        "name": "Kuingin",
-        "url": "https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG"
-      },
-      "artists": [
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "The Groove",
-          "url": "https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Satu Mimpiku",
-      "url": "https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv"
-    },
-    {
-      "added_at": "2025-08-11 03:47:53",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -1283,22 +1347,6 @@
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
-    },
-    {
-      "added_at": "2025-08-11 03:47:53",
-      "album": {
-        "name": "Aduh",
-        "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 196897,
-      "name": "Aduh",
-      "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
     },
     {
       "added_at": "2025-08-11 03:47:53",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2842,
+  "num_followers": 2841,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABYH7UaTm44heYgG0hqMVGO",
+  "snapshot_id": "aNh6gAAAAAD0AqkDB6C12CHz9FMygeke",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 182253,
-      "name": "Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3WsfozLckE6PpvImGxcelw"
+      "duration_ms": 214173,
+      "name": "No Me Cabe Duda",
+      "url": "https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Qu\u00e9",
-        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 214173,
-      "name": "No Me Cabe Duda",
-      "url": "https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv"
+      "duration_ms": 182253,
+      "name": "Me Estoy Quemando",
+      "url": "https://open.spotify.com/track/3WsfozLckE6PpvImGxcelw"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 184732,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Vuelta al Barrio Vol.1",
-        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 181105,
-      "name": "Estoy Cantando",
-      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+        "name": "De Vuelta al Barrio Vol.1",
+        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+      "duration_ms": 181105,
+      "name": "Estoy Cantando",
+      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
     },
     {
       "added_at": null,

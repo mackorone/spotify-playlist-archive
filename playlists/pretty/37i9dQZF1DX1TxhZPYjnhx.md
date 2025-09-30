@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: 5 Seconds of Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,603 likes - 118 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,604 likes - 118 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

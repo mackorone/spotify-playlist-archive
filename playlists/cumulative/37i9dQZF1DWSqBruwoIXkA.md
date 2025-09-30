@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Cameron Whitcomb
 
-973 songs - 2 day 5 hr 34 min
+974 songs - 2 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-03-23 |
 | [Losing You](https://open.spotify.com/track/7nMjj2KzTdrv3DhKrFecjP) | [Mark Dohner](https://open.spotify.com/artist/0oeLTriLBq9avDlMepaN3i) | [Losing You](https://open.spotify.com/album/3dgdaTLgQIFeb1HU3xX4p0) | 3:07 | 2021-12-24 | 2022-01-10 |
 | [Lost & Found](https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost & Found](https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ) | 4:09 | 2023-10-20 | 2023-11-26 |
+| [Loud](https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 | 2025-09-29 |  |
 | [Love I've Been Jealous Of](https://open.spotify.com/track/37sYE6Cho29A0qHm6Q3bSf) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Love I've Been Jealous Of](https://open.spotify.com/album/5xVrTHPF3KilJ0C7IjqQtk) | 2:49 | 2023-03-24 | 2024-01-27 |
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2021-12-17 | 2025-03-26 |
 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 | 2021-12-17 | 2022-10-22 |
@@ -725,7 +726,7 @@
 | [Romantic Comedies](https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb) | 2:49 | 2023-02-17 | 2023-03-25 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-29 |  |
 | [Roomful Of People](https://open.spotify.com/track/1a2p23baptozv8eFRwTPf8) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Roomful Of People](https://open.spotify.com/album/1LsDcdZEYyt2D53RKz5wl2) | 3:15 | 2025-01-03 | 2025-03-20 |
-| [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 |  |
+| [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 | 2025-09-30 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-07-18 | 2022-07-23 |
 | [Ruins](https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Ruins](https://open.spotify.com/album/49xPyLWptFULo4SmaCW6D0) | 3:20 | 2022-05-27 | 2022-06-10 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-05-20 |

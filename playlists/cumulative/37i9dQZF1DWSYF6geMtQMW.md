@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: ששון איפרם שאולוב
 
-171 songs - 9 hr 4 min
+173 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,11 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-02 | 2025-07-08 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 | 2024-09-24 |
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-30 | 2025-04-23 |
+| [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-09-29 |  |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-07-01 | 2024-09-24 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-25 | 2025-01-28 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-07-01 | 2024-08-13 |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-29 |  |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-28 | 2025-08-20 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-11 | 2025-04-08 |
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2024-07-01 | 2024-07-30 |
@@ -75,7 +77,7 @@
 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 | 2025-04-22 |  |
 | [אמן אמן אמן](https://open.spotify.com/track/6RCxgLA7IVZjO5aPHEWNRC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 5:00 | 2025-06-03 | 2025-08-20 |
 | [אני](https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אני](https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn) | 2:45 | 2024-07-22 | 2024-10-01 |
-| [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-08-05 |  |
+| [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-08-05 | 2025-09-30 |
 | [אני מסתובב](https://open.spotify.com/track/7362lWsAM9fv1ZF3tjNG1K) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 2:47 | 2025-07-14 |  |
 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 | 2025-09-01 |  |
 | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 |  |
@@ -139,7 +141,7 @@
 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 | 2024-07-01 | 2024-10-01 |
 | [נאדי באדי](https://open.spotify.com/track/6g84RaMubeO44LyTDghqUB) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [נאדי באדי](https://open.spotify.com/album/79JwxRq2qhfLrvxl7s03pR) | 2:30 | 2024-07-01 | 2025-01-21 |
 | [נחלת בנימין](https://open.spotify.com/track/2H84mdRphvQn5QniG3v07a) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [11](https://open.spotify.com/album/0ennEyxGFWhz2ShCa74kMK) | 2:58 | 2025-04-07 |  |
-| [נרקומן של בדידות](https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:17 | 2024-11-18 |  |
+| [נרקומן של בדידות](https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:17 | 2024-11-18 | 2025-09-30 |
 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 | 2025-08-25 |  |
 | [נתראה בגלגול הבא](https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נתראה בגלגול הבא](https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9) | 2:45 | 2024-07-01 | 2024-07-23 |
 | [סוף סוף אני](https://open.spotify.com/track/04BEjO8G5HQM24fAvAv1cR) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סוף סוף אני](https://open.spotify.com/album/7bpBR9H0jZOBjuq54pHfdE) | 3:45 | 2024-11-25 | 2024-12-10 |

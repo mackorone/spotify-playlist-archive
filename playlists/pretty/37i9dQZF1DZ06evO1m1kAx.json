@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7599,
+  "num_followers": 7603,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADZT52p4RkqLA0VdioBgcrq",
+  "snapshot_id": "aNh6gAAAAADJH+sPJvzI7onG+tpt8DXp",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 218462,
+      "name": "Dance in the Rain",
+      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cupid Stories",
         "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 242813,
       "name": "Remember (feat. 2face)",
       "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 218462,
-      "name": "Dance in the Rain",
-      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Sound Sultan",
-          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
-        }
-      ],
-      "duration_ms": 261276,
-      "name": "Enter the Place (feat. Sound Sultan)",
-      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oya Come Make We Go",
         "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 259773,
       "name": "Oya Come Make We Go",
       "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
+        }
+      ],
+      "duration_ms": 261276,
+      "name": "Enter the Place (feat. Sound Sultan)",
+      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Men, The Boys and Your Guy",
+        "url": "https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "If To Say",
+      "url": "https://open.spotify.com/track/1rtDPay5p7EhDShN2qPjc5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -863,6 +883,26 @@
       "duration_ms": 199650,
       "name": "Suffer Head",
       "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,
@@ -891,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chairman",
         "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
       },
@@ -931,42 +951,6 @@
       "duration_ms": 347085,
       "name": "Human Being (feat. 2Face & Sound Sultan)",
       "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Men, The Boys and Your Guy",
-        "url": "https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "If To Say",
-      "url": "https://open.spotify.com/track/1rtDPay5p7EhDShN2qPjc5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Officially Blind",
-        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Officially Blind",
-      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
     },
     {
       "added_at": null,
@@ -995,6 +979,22 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Officially Blind",
+        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Officially Blind",
+      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
     }
   ],
   "unique_name": "This Is 2Baba",

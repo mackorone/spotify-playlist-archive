@@ -1,33 +1,13 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Fulana",
-  "num_followers": 166194,
+  "num_followers": 166203,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA",
+  "snapshot_id": "AAAAAN0tAGnJ4J0M3mBI8/3UwyLpJcOt",
   "tracks": [
-    {
-      "added_at": "2025-08-08 13:23:23",
-      "album": {
-        "name": "ground:from",
-        "url": "https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k"
-      },
-      "artists": [
-        {
-          "name": "fulana",
-          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
-        },
-        {
-          "name": "Input/Output",
-          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "marigold",
-      "url": "https://open.spotify.com/track/6JrjfWgPI8d1uraNP0YEDx"
-    },
     {
       "added_at": "2025-08-08 13:23:23",
       "album": {
@@ -93,6 +73,26 @@
       "url": "https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj"
     },
     {
+      "added_at": "2025-09-29 08:18:32",
+      "album": {
+        "name": "Who Pulled Up? (feat. Jeed)",
+        "url": "https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Who Pulled Up? (feat. Jeed)",
+      "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"
+    },
+    {
       "added_at": "2025-08-08 13:23:23",
       "album": {
         "name": "Call Her Right Now",
@@ -115,6 +115,22 @@
       "duration_ms": 137110,
       "name": "Call Her Right Now",
       "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
+    },
+    {
+      "added_at": "2025-09-29 08:18:32",
+      "album": {
+        "name": "IMY",
+        "url": "https://open.spotify.com/album/4pV0NErJZFSPIVQ7XTknPW"
+      },
+      "artists": [
+        {
+          "name": "Hoosh",
+          "url": "https://open.spotify.com/artist/451QYarjabz09nL2SSufeV"
+        }
+      ],
+      "duration_ms": 161495,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3KvNIhdszIHOsCCWzXqhBH"
     },
     {
       "added_at": "2025-08-08 13:23:23",
@@ -185,6 +201,22 @@
       "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
     },
     {
+      "added_at": "2025-09-29 08:18:32",
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/0ONGZLVJwJXgRGwkZzGBAk"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 153644,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/4ydkHlS4tJYEjoANmUDEol"
+    },
+    {
       "added_at": "2025-08-08 13:23:23",
       "album": {
         "name": "96 Miles From Bethlehem",
@@ -207,26 +239,6 @@
       "duration_ms": 208608,
       "name": "Maktub",
       "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
-    },
-    {
-      "added_at": "2025-08-08 13:23:23",
-      "album": {
-        "name": "freakuency",
-        "url": "https://open.spotify.com/album/1nWH43v7RtIdKznMvrVi4W"
-      },
-      "artists": [
-        {
-          "name": "Kali-B",
-          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
-        },
-        {
-          "name": "Wazic",
-          "url": "https://open.spotify.com/artist/4MYk7nIQMJ8Zj8p6AeZOmN"
-        }
-      ],
-      "duration_ms": 139716,
-      "name": "GO CRAZY",
-      "url": "https://open.spotify.com/track/72gh4ZobtjRMcpYUxpPNTJ"
     },
     {
       "added_at": "2025-08-08 13:23:23",
@@ -507,22 +519,6 @@
       "duration_ms": 156174,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/3pJ7Zz0759gcQDSDmF3c73"
-    },
-    {
-      "added_at": "2025-08-08 13:23:23",
-      "album": {
-        "name": "Can't Afford",
-        "url": "https://open.spotify.com/album/2YH6KgZ6AE5Ahbte48fJ6E"
-      },
-      "artists": [
-        {
-          "name": "Kali-B",
-          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "Can't Afford",
-      "url": "https://open.spotify.com/track/51V2cgFDgUZjcUtd68ygR4"
     },
     {
       "added_at": "2025-08-08 13:23:23",

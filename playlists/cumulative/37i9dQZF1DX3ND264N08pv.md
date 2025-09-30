@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-360 songs - 19 hr 39 min
+361 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,13 +268,14 @@
 | [Raver](https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Raver](https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W) | 2:12 | 2023-06-15 | 2024-05-18 |
 | [READY 4 WAR](https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [READY 4 WAR](https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi) | 2:52 | 2023-04-27 | 2023-11-03 |
 | [Ready to Explode](https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Ready to Explode](https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN) | 2:47 | 2022-12-08 | 2023-04-07 |
-| [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 | 2025-04-04 |  |
+| [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 | 2025-04-04 | 2025-09-30 |
 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 | 2025-09-26 |  |
 | [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 | 2022-12-08 | 2024-02-16 |
 | [Ring The Alarm](https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Ring The Alarm](https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT) | 3:27 | 2022-12-08 | 2023-06-09 |
 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 | 2024-07-12 |  |
 | [RIP TO MOZART](https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [RIP TO MOZART](https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD) | 2:02 | 2024-11-08 | 2025-04-05 |
 | [Road Rage](https://open.spotify.com/track/5hZuHOC9L0OAYz26BHWsh3) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Road Rage](https://open.spotify.com/album/614CqVxko6YYHIpr9bz89T) | 3:57 | 2022-12-08 | 2023-06-02 |
+| [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 | 2025-09-29 |  |
 | [RUDE METHODS](https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RUDE METHODS](https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd) | 3:08 | 2023-03-07 | 2023-04-28 |
 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 | 2025-03-07 |  |
 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 | 2025-02-27 |  |

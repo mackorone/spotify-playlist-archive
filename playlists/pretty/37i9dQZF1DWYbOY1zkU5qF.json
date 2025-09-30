@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 214184,
+  "num_followers": 214262,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Si Veo a Tu Mam\u00e1",
-        "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Si Veo a Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Si Veo a Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 160000,
+      "name": "Si Veo a Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 213000,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "No Bailes Sola (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "No Bailes Sola - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Covers, Vol. 2",
         "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 149292,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Me Hace Tanto Bien (En Vivo)",
-        "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
-      },
-      "artists": [
-        {
-          "name": "Mo Rivas",
-          "url": "https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz"
-        },
-        {
-          "name": "Carlos Law",
-          "url": "https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD"
-        }
-      ],
-      "duration_ms": 188789,
-      "name": "Me Hace Tanto Bien - En Vivo",
-      "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -687,22 +687,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "No Bailes Sola (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo"
+        "name": "Me Hace Tanto Bien (En Vivo)",
+        "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Mo Rivas",
+          "url": "https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Carlos Law",
+          "url": "https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD"
         }
       ],
-      "duration_ms": 189920,
-      "name": "No Bailes Sola - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO"
+      "duration_ms": 188789,
+      "name": "Me Hace Tanto Bien - En Vivo",
+      "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Y C\u00f3mo Es \u00c9l?",
         "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 131500,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Bolero Falaz",
         "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 263500,
       "name": "Bolero Falaz",
       "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ya no tiene novio",
-        "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 108027,
-      "name": "Ya no tiene novio",
-      "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ya no tiene novio",
+        "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 108027,
+      "name": "Ya no tiene novio",
+      "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
     },
     {
       "added_at": "2022-02-18 06:00:00",

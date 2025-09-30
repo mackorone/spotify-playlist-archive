@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,016 songs - 3 day 13 hr 8 min
+1,017 songs - 3 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-08-27 | 2022-07-10 |
 | [Miller](https://open.spotify.com/track/1QEaF95yg4u8p4KquK4z72) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Miller](https://open.spotify.com/album/1PqVEt69ZmHEoZhrKfuAji) | 6:27 | 2024-04-19 | 2024-04-30 |
 | [Million Years from Now](https://open.spotify.com/track/2kewLcYuDDeuvYDh0hwbbB) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Million Years from Now / Just Rain](https://open.spotify.com/album/0zKBXAmPsgXq5vBRLLCu4C) | 7:19 | 2024-11-08 | 2024-11-13 |
+| [Mind Off](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Mind Off](https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp) | 3:32 | 2025-09-26 |  |
 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-29 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-10-13 | 2024-11-09 |
@@ -630,7 +631,7 @@
 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 | 2022-07-08 | 2023-11-04 |
 | [Never Too Late](https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Never Too Late](https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN) | 4:47 | 2023-04-28 | 2023-08-20 |
 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 | 2024-09-27 | 2025-08-30 |
-| [New Day](https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [New Day](https://open.spotify.com/album/60Jd60j8HijpYtIIFi1IQy) | 5:40 | 2025-08-29 |  |
+| [New Day](https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [New Day](https://open.spotify.com/album/60Jd60j8HijpYtIIFi1IQy) | 5:40 | 2025-08-29 | 2025-09-30 |
 | [Ngeke](https://open.spotify.com/track/2YU8o3X8Oyp9Ljdf7TTlNp) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ngeke](https://open.spotify.com/album/7A4IhGJIySOF9ZxbDdANk0) | 3:31 | 2024-09-27 | 2025-08-23 |
 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-08-19 | 2023-02-25 |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-08-19 | 2022-12-15 |

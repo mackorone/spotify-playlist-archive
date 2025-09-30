@@ -4,7 +4,7 @@
 
 > The world's most iconic and relaxing classical piano.
 
-156 songs - 10 hr 15 min
+157 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/6StjE2hce01PzynfEkfKvo) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Anna Vinnitskaya](https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr) | [Ravel: Miroirs, Gaspard de la nuit, Pavane](https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh) | 6:29 | 2021-12-06 | 2025-04-05 |
 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 | 2021-12-06 |  |
 | [Piano Concerto No\. 3 in D Minor, Op\. 30: III\. Finale\. Alla breve \(Opening\) \- Live from the 2022 Cliburn Competition](https://open.spotify.com/track/01lUHgQOHvqrVsAIO1Avho) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz), [Fort Worth Symphony Orchestra](https://open.spotify.com/artist/25iprcvBsfduvCePYhpsLX), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Rachmaninoff: Piano Concerto No\. 3 in D Minor, Op\. 30: III\. Finale\. Alla breve \(Opening\) \[Live from the 2022 Cliburn Competition\]](https://open.spotify.com/album/6VomQOLlfAtBb0awrHLtCs) | 3:15 | 2025-05-23 |  |
+| [Piano Sonata No\. 1 in F\-Sharp Minor, Op\. 11: III\. Scherzo\. Allegrissimo \- Intermezzo\. Lento](https://open.spotify.com/track/41s88rWS7mtii9pSotfoRv) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Llŷr Williams](https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE) | [Piano Sonata No\. 1 in F\-Sharp Minor, Op\. 11: III\. Scherzo\. Allegrissimo \- Intermezzo\. Lento](https://open.spotify.com/album/55bWaY0oXtSU8Y7NI9D7yU) | 5:10 | 2025-09-29 |  |
 | [Piano Sonata No\. 10 in C Major, K\. 330: I\. Allegro moderato](https://open.spotify.com/track/3P9w9Xq3leFGCEqPHcTtAS) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [MOZART: Piano Works 2](https://open.spotify.com/album/0oSET78ArciEfmARHcwojq) | 6:48 | 2024-12-23 | 2025-05-24 |
 | [Piano Sonata No\. 12 in F Major, K\. 332: II\. Adagio](https://open.spotify.com/track/2kEPPjd1zugWWxNAB4SiU9) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [Mozart: The Piano Sonatas](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) | 4:47 | 2024-07-26 |  |
 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/2yoAbeZiRU8rgTWmCBdawA) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Beethoven: Complete Piano Sonatas & Concertos](https://open.spotify.com/album/62VlldLNKK8OGw8vbyIFED) | 6:02 | 2025-04-04 |  |

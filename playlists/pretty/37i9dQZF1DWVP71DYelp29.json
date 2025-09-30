@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 735672,
+  "num_followers": 735651,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -804,22 +804,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
       "artists": [
@@ -831,6 +815,22 @@
       "duration_ms": 202482,
       "name": "Stan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
     },
     {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "July - Spotify Singles",
-      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
-    },
-    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1411,6 +1395,22 @@
       "duration_ms": 248045,
       "name": "Billie Jean - Spotify Singles",
       "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
     },
     {
       "added_at": "2023-01-11 19:54:48",

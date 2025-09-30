@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>YUNGIN, GRAY, DeVita\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>Wonstein\(원슈타인\)\)
 
 863 songs - 1 day 21 hr 41 min
 

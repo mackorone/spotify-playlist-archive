@@ -1,29 +1,13 @@
 {
   "description": "Feel good songs yang bikin kamu happy",
-  "num_followers": 206140,
+  "num_followers": 206143,
   "original_name": "Yang Penting Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE68tdx5G55Si6W8tu0VBe9a4m3b",
+  "snapshot_id": "AAAAAHNv/e/SxYXFm7mvx4sc3oQRvbvu",
   "tracks": [
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
-    },
     {
       "added_at": "2025-09-08 02:20:09",
       "album": {
@@ -59,22 +43,50 @@
     {
       "added_at": "2025-09-08 02:20:09",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+      "duration_ms": 227343,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
+    },
+    {
+      "added_at": "2025-09-08 02:20:09",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2025-09-29 06:08:20",
+      "album": {
+        "name": "Senja Sudut Kota",
+        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+        }
+      ],
+      "duration_ms": 223012,
+      "name": "Senja Sudut Kota",
+      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -95,18 +107,86 @@
     {
       "added_at": "2025-09-08 02:20:09",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2025-09-29 06:11:39",
+      "album": {
+        "name": "Temukan Bahagia",
+        "url": "https://open.spotify.com/album/0ukBczUgOggpB6K9VxpW78"
+      },
+      "artists": [
+        {
+          "name": "OKAAY",
+          "url": "https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq"
+        }
+      ],
+      "duration_ms": 168048,
+      "name": "Temukan Bahagia",
+      "url": "https://open.spotify.com/track/1lIVBKBD7OSGLO0x4cvfZ1"
+    },
+    {
+      "added_at": "2025-09-29 06:11:39",
+      "album": {
+        "name": "Pretty Please",
+        "url": "https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 204322,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
+    },
+    {
+      "added_at": "2025-09-29 06:11:39",
+      "album": {
+        "name": "3rd MINI ALBUM [LOVE PULSE]",
+        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 170699,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
+    },
+    {
+      "added_at": "2025-09-29 06:21:00",
+      "album": {
+        "name": "Adu Bola Mata",
+        "url": "https://open.spotify.com/album/2yANwUmtQhdZpq98mcBN73"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "duration_ms": 240952,
+      "name": "Adu Bola Mata",
+      "url": "https://open.spotify.com/track/7wsle0lIudoJaGDAXfwHjm"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -287,22 +367,6 @@
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Type Dangerous",
-        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Type Dangerous",
-      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
     },
     {
       "added_at": "2025-09-08 02:20:09",

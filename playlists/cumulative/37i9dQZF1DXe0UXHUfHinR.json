@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Thembi",
+        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350266,
+      "name": "Astral Traveling",
+      "url": "https://open.spotify.com/track/55X66sKArUevBeGD7buroR"
+    },
+    {
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/33wUoRLQLzB8Q3iDzgQ7Nq"
       },
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 230173,
       "name": "Graceful Touch",
       "url": "https://open.spotify.com/track/4vTZifau5Us490e0sQCU1y"
@@ -7955,6 +7973,24 @@
     },
     {
       "album": {
+        "name": "The Shape Of Jazz To Come",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302199,
+      "name": "Lonely Woman",
+      "url": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN"
+    },
+    {
+      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -10682,7 +10718,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 361773,
       "name": "Recorda Me",
       "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"

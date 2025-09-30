@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91293,
+  "num_followers": 91305,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAA7YIMpLG5vjYzLBvIA2b+u",
+  "snapshot_id": "aNh6gAAAAAA1IGRkNns9SHDo07DDhHvt",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
     },
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 266481,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
+      "duration_ms": 269500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy to Love You",
-        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
-      },
-      "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 269090,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 255986,
       "name": "Mind Block (with Eric Rachmany)",
       "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy to Love You",
+        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
+      },
+      "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 269090,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
     },
     {
       "added_at": null,

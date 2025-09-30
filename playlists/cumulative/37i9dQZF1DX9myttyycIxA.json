@@ -9337,6 +9337,24 @@
     },
     {
       "album": {
+        "name": "no scope",
+        "url": "https://open.spotify.com/album/1MoHchytw6sq4hhC28JZ7x"
+      },
+      "artists": [
+        {
+          "name": "crushed",
+          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247341,
+      "name": "exo",
+      "url": "https://open.spotify.com/track/5afPubAOdm8L79NQYaW40o"
+    },
+    {
+      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU"
       },

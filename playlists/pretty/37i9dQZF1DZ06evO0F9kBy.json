@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27339,
+  "num_followers": 27345,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADBT2vgXvDnfRMyMcoMqgPn",
+  "snapshot_id": "aNh6gAAAAAAT2LyhS2R7K/66YlVFJS7n",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Climate Vigil Songs",
         "url": "https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 291057,
       "name": "Hosanna! (Will You Rise?)",
       "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": null,

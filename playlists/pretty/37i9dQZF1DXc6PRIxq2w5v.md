@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,394 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,427 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 27 | [Crises](https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Crises](https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe) | 2:24 |
 | 28 | [Amor Freestyle](https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE) | [GBZIN](https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Amor Freestyle](https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R) | 2:48 |
 | 29 | [eu vi](https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [eu vi](https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI) | 2:59 |
-| 30 | [Tranquilo](https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Tranquilo](https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ) | 3:19 |
-| 31 | [Quebrantado \- Remix](https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Fabi Silva](https://open.spotify.com/artist/7gPmWG4AxJq98Ofj6F98S0), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quebrantado \(Remix\)](https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP) | 3:48 |
+| 30 | [Quebrantado \- Remix](https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Fabi Silva](https://open.spotify.com/artist/7gPmWG4AxJq98Ofj6F98S0), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quebrantado \(Remix\)](https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP) | 3:48 |
+| 31 | [Tranquilo](https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Tranquilo](https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ) | 3:19 |
 | 32 | [Irrisório](https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Irrisório](https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO) | 2:26 |
 | 33 | [Flame](https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Flame](https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4) | 3:17 |
 | 34 | [Renuncio o Meu Eu](https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Renuncio o Meu Eu](https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D) | 3:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Eu Sou](https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Eu Sou](https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9) | 3:05 |
 | 85 | [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 |
 
-Snapshot ID: `AAAAAKD0+mS4/IMtm+SZe5RoI8KbgXSc`
+Snapshot ID: `AAAAAFmKqm+1Nj3Z6f789fkIMS1F8stY`

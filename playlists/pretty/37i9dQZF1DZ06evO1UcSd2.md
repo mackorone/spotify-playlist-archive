@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,655 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,657 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 41 | [La Belikiza](https://open.spotify.com/track/76WcyhTktK0eLW8m1wehRc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:09 |
 | 42 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
 | 43 | [Cuando Nino \(feat\. Lenin Ramirez \- Banda](https://open.spotify.com/track/2HbTiBBBEMaQHTGWkniY5h) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Jalando la Banda y el Tololoche](https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF) | 3:20 |
-| 44 | [La Vida Que Nos Toco](https://open.spotify.com/track/67VxfuanwY80y1BV4rmOqq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Vida Que Nos Toco](https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp) | 3:00 |
-| 45 | [Canto Pa' Desahogarme](https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:59 |
-| 46 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
-| 47 | [El Güero Bastidas](https://open.spotify.com/track/7dRpZqekjiKiQBrTqLjzlN) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:09 |
-| 48 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
-| 49 | [Ya No Se Olvidarte](https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 |
+| 44 | [Canto Pa' Desahogarme](https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:59 |
+| 45 | [La Vida Que Nos Toco](https://open.spotify.com/track/67VxfuanwY80y1BV4rmOqq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Vida Que Nos Toco](https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp) | 3:00 |
+| 46 | [El Güero Bastidas](https://open.spotify.com/track/7dRpZqekjiKiQBrTqLjzlN) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:09 |
+| 47 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
+| 48 | [Ya No Se Olvidarte](https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 |
+| 49 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
 | 50 | [Hoy Toca Llorar](https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy A Levantarme](https://open.spotify.com/album/0pswYE95SNbJ6vdwD34PH0) | 2:50 |
 
-Snapshot ID: `aNcpAAAAAAAs6yENgxjCs9XFijTGfDY9`
+Snapshot ID: `aNh6gAAAAAAEybuBdxjKKv91zg3jPQyH`

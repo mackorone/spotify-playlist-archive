@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 
 > Songs from all 12 Albums of the Year shortlisted for the Mercury Prize 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,191 likes - 24 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,201 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 | 23 | [Arm's Length](https://open.spotify.com/track/6ty3uMPCIEGVgGbrvHfeoU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:59 |
 | 24 | [The Sofa](https://open.spotify.com/track/6APpl5Y2nG8BtM3pTV9GS0) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:26 |
 
-Snapshot ID: `AAAAABjD6lPBJMuWf0zEupvb7jvl88Tl`
+Snapshot ID: `AAAAAE/G+0AL7Iw3EHYxdlzmr9+eYzrK`

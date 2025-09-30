@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Shiv Paul
 
-232 songs - 12 hr 49 min
+233 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Arena \(From "TEST"\)](https://open.spotify.com/track/6iezfKAXRLprXcICgFtIkc) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Arena \(From "TEST"\)](https://open.spotify.com/album/5m17Jx5opvPBbhcnGuKCZZ) | 2:46 | 2025-03-13 |  |
 | [Ariyallo](https://open.spotify.com/track/16tzFbRkVkxmNxziYajER0) | [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [Ariyallo](https://open.spotify.com/album/5rF1ulrTK5mxlh7Ik3QY9L) | 3:21 | 2024-12-29 | 2025-09-19 |
 | [Arnakairu](https://open.spotify.com/track/4h6tOVR29BsAfR4BdONDM4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Arnakairu](https://open.spotify.com/album/1rDGudki8qY9Hc0Azqyy2N) | 2:19 | 2025-06-17 | 2025-09-06 |
+| [Bangoma](https://open.spotify.com/track/7ywASFRTukqg9kzX3gMfa6) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Bangoma](https://open.spotify.com/album/2HcXRfcsvwne1GQeSIIeTV) | 2:15 | 2025-09-29 |  |
 | [Bhagavan Rap](https://open.spotify.com/track/1BkIQxD8RsyKCKOHNGbTFm) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9) | 3:42 | 2022-02-08 | 2024-04-19 |
 | [Bhagavan Rap](https://open.spotify.com/track/1UPPDUrCYljlxigBScBWdY) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3hBtdA6JRSFzEGjOM11ZDm) | 3:42 | 2022-02-08 | 2023-11-11 |
 | [Bhagavan Rap](https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst) | [The Prophecy](https://open.spotify.com/artist/7fh9y8rqcWSY09PWjEUgnN), [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI) | [Aadhi Bhagavan](https://open.spotify.com/album/2Spqg3Ga3uiCcVhouI37Uu) | 3:42 | 2022-02-08 | 2025-01-10 |

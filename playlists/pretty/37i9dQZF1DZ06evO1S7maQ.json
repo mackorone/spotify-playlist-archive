@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 652982,
+  "num_followers": 653012,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAmeu+MdZ1qoIUjZg0JnKTm",
+  "snapshot_id": "aNh6gAAAAAAxSuborE7cijduYBt2czHa",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nebraska",
         "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 236653,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonely Night In The Park",
-        "url": "https://open.spotify.com/album/0UW5iJTjUbGL3S5fK8aWCP"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 277039,
-      "name": "Lonely Night In The Park",
-      "url": "https://open.spotify.com/track/4XHstWlKuxTfhs5DRTASi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nebraska",
         "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 261826,
       "name": "One Step Up",
       "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonely Night In The Park",
+        "url": "https://open.spotify.com/album/0UW5iJTjUbGL3S5fK8aWCP"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 277039,
+      "name": "Lonely Night In The Park",
+      "url": "https://open.spotify.com/track/4XHstWlKuxTfhs5DRTASi6"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 390146,
-      "name": "Backstreets",
-      "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild, the Innocent & The E Street Shuffle",
         "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 420840,
       "name": "Rosalita (Come Out Tonight)",
       "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 390146,
+      "name": "Backstreets",
+      "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
     },
     {
       "added_at": null,

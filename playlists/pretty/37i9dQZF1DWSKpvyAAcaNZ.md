@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,437 likes - 153 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,450 likes - 153 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 152 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 |
 | 153 | [Chains](https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:14 |
 
-Snapshot ID: `AAAAAPVzG11govql4ewmjgQDdk4HZsFU`
+Snapshot ID: `AAAAAGo+/aeaF5hAgQrDwEtcT8PjcGCF`

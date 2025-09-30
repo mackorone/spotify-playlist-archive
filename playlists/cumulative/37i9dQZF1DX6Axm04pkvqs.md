@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-96 songs - 13 hr 30 min
+97 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 | 2024-07-26 | 2025-09-12 |
 | [Into the Deep \(Prayer Chant\)](https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 3:45 | 2024-07-26 |  |
 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 | 2024-07-26 |  |
-| [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 | 2024-07-26 |  |
+| [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 | 2024-07-26 | 2025-09-30 |
 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 | 2024-07-26 |  |
 | [Joy Chant](https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Joy Chant](https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN) | 8:51 | 2025-08-29 |  |
 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 | 2024-07-26 | 2025-09-19 |
@@ -101,6 +101,7 @@
 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 |  |
 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 | 2024-07-26 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/4IHbHNYL5qlk53XPvxg8kc) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [The Declaration \(Live\)](https://open.spotify.com/album/61ORlXf6oUCesajS1E6FfQ) | 8:32 | 2024-07-26 | 2025-03-24 |
+| [YAHWEH is in the room \(Aya Ya\)](https://open.spotify.com/track/1zfJyhYv1rDinVbAmNcE2z) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K) | [YAHWEH is in the room \(Aya Ya\)](https://open.spotify.com/album/7EgDBqYDx2H3ISM8RZ2BLS) | 9:30 | 2024-11-08 |  |
 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 | 2024-07-26 |  |
 | [You And I](https://open.spotify.com/track/6HIyZBVcETC6ODKlNl87fl) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [You And I](https://open.spotify.com/album/5PdH8dt3ToFnm4BbCEteGR) | 7:33 | 2025-03-21 | 2025-07-01 |
 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 | 2024-07-26 |  |

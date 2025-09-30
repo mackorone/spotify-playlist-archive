@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Judeline x Amaia, Rauw Alejandro, Feid, Xiyo x Fernandezz x Yung Beef x Quevedo y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,202 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,206 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 4 | [Ruina](https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH) | [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Ruina](https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W) | 3:54 |
 | 5 | [Ella](https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Ella](https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets) | 4:24 |
 | 6 | [BB \(with Blessd\)](https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BB \(with Blessd\)](https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR) | 3:00 |
-| 7 | [Canción Para Regresar](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Canción Para Regresar](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 7 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 8 | [Mis 36](https://open.spotify.com/track/4qvEkeFHAgQFzn4gzDzoWv) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Mis 36](https://open.spotify.com/album/0pRpwj7IuVsgcJ1ZY7PRY2) | 4:02 |
 | 9 | [Que Me Quiera Má](https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Que Me Quiera Má](https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM) | 2:51 |
 | 10 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |

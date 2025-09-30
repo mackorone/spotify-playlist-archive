@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 113172,
+  "num_followers": 113202,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Pinnacles",
+        "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "The Light Cone",
+      "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 288333,
       "name": "Carnation Lily Lily Rose",
       "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Pinnacles",
-        "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "The Light Cone",
-      "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Valley In The Clouds",
-      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Oasis [Remastered]",
         "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 489093,
       "name": "Cosmic Energy",
       "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Valley In The Clouds",
+      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Fresh Aire I",
         "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 153706,
       "name": "Interlude II",
       "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 323693,
       "name": "Processional: Root Chakra",
       "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Boreale - Remastered",
-      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Mooncircles",
         "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 90253,
       "name": "Inner Mood I",
       "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Boreale - Remastered",
+      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 348880,
-      "name": "Arrival - Remastered",
-      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 394826,
       "name": "Soaring: Crown Chakra",
       "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 348880,
+      "name": "Arrival - Remastered",
+      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+        "name": "Equinoxe",
+        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
         }
       ],
-      "duration_ms": 460640,
-      "name": "Oxygene, Pt. 1",
-      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
+      "duration_ms": 425133,
+      "name": "Equinoxe, Pt. 4",
+      "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Equinoxe",
-        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
         }
       ],
-      "duration_ms": 425133,
-      "name": "Equinoxe, Pt. 4",
-      "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
+      "duration_ms": 460640,
+      "name": "Oxygene, Pt. 1",
+      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
     },
     {
       "added_at": "2023-08-18 14:02:54",

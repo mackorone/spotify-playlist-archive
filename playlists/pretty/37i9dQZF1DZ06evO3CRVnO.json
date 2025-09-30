@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 316392,
+  "num_followers": 316436,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAABfM7g5JKa0HjO+rmi4hreE",
+  "snapshot_id": "aNh6gAAAAACrTcJ+Cxa4QmhYUpLvvfSv",
   "tracks": [
     {
       "added_at": null,
@@ -182,11 +182,15 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 183928,
-      "name": "EVIL J0RDAN",
-      "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
+      "duration_ms": 135275,
+      "name": "TOXIC (with Skepta)",
+      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
     },
     {
       "added_at": null,
@@ -254,15 +258,11 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 135275,
-      "name": "TOXIC (with Skepta)",
-      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
+      "duration_ms": 183928,
+      "name": "EVIL J0RDAN",
+      "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "DIFFERENT DAY",
+      "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 260672,
       "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
       "url": "https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "DIFFERENT DAY",
-      "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
     },
     {
       "added_at": null,

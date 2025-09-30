@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,825 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,862 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 26 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
 | 27 | [NY Girls](https://open.spotify.com/track/4yh9WYjFLCSMZ6gTh3MTlE) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [NY Girls](https://open.spotify.com/album/6qU0YxBfZ50I8w3kivpZtZ) | 3:01 |
 | 28 | [It Bend Like Banana](https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [It Bend Like Banana](https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu) | 2:54 |
-| 29 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
-| 30 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |
+| 29 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |
+| 30 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 31 | [Mute](https://open.spotify.com/track/1SsBhroynnJPIU4jc9eVqC) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Mute](https://open.spotify.com/album/6XhQsFERljV8xhwBGiuCnp) | 4:02 |
 | 32 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
 | 33 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 47 | [Ignite the World](https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ignite the World \- Single](https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F) | 3:09 |
 | 48 | [Ms Pretty Rockstar](https://open.spotify.com/track/0OP6uabvEok2R5i3OzltCB) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Ms Pretty Rockstar](https://open.spotify.com/album/2hNJ03DujEamkpCIsAGjZ3) | 2:24 |
 | 49 | [GANGSTA](https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [MUSE](https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D) | 2:36 |
-| 50 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |
+| 50 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 
 Snapshot ID: `AAAAAPTS8yzdSAATQKLyKUf2r4d46V86`

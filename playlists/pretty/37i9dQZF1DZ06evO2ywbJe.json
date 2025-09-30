@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6265,
+  "num_followers": 6269,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAMKcIWuJqpX4b7BWduM1tX",
+  "snapshot_id": "aNh6gAAAAAB0YV67Moze5WiQgtYiniHr",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cash App",
         "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
     },
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get better",
-        "url": "https://open.spotify.com/album/68txDotXdFLjPsMnmcL1TL"
-      },
-      "artists": [
-        {
-          "name": "Damzee Abaamin",
-          "url": "https://open.spotify.com/artist/7wsFUNZpQAeTtAq6mUgnCs"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 90932,
-      "name": "Get better",
-      "url": "https://open.spotify.com/track/1sXhAzKfAv87lBYlBvj69r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get better",
+        "url": "https://open.spotify.com/album/68txDotXdFLjPsMnmcL1TL"
+      },
+      "artists": [
+        {
+          "name": "Damzee Abaamin",
+          "url": "https://open.spotify.com/artist/7wsFUNZpQAeTtAq6mUgnCs"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 90932,
+      "name": "Get better",
+      "url": "https://open.spotify.com/track/1sXhAzKfAv87lBYlBvj69r"
     },
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
         "url": "https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 157935,
       "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
       "url": "https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spiritual",
-        "url": "https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk"
     },
     {
       "added_at": null,

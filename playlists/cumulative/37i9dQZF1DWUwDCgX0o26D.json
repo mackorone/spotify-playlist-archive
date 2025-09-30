@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Miley Cyrus",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Tate McRae",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -902,6 +902,24 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
+        "name": "All Natural",
+        "url": "https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "All Natural",
+      "url": "https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7"
     },
     {
       "album": {
@@ -2273,6 +2291,28 @@
     },
     {
       "album": {
+        "name": "Blink (feat. TZUYU)",
+        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162092,
+      "name": "Blink (feat. TZUYU)",
+      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
+    },
+    {
+      "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
       },
@@ -2448,6 +2488,24 @@
       "duration_ms": 213323,
       "name": "blue - with MINNIE",
       "url": "https://open.spotify.com/track/6HIngEWX8ycnLjuUfSZyah"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182055,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
     },
     {
       "album": {
@@ -2884,10 +2942,36 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 148433,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/4QGTnh9AxekobAMvaHfNAo"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0fQ17nEk7GRevJSuua5eE3"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227735,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/7it6UHQQJWG1e7GpE2I8LY"
     },
     {
       "album": {
@@ -4826,7 +4910,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 236140,
       "name": "do you think you could love me?",
       "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
@@ -6039,6 +6123,50 @@
     },
     {
       "album": {
+        "name": "FIX IT! (feat. pH-1)",
+        "url": "https://open.spotify.com/album/40dOoovQxj7jhmt2k049qk"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137714,
+      "name": "FIX IT! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/6YXwBKZ8OYfmj5JlhSuVan"
+    },
+    {
+      "album": {
+        "name": "FLAMES OF YOU",
+        "url": "https://open.spotify.com/album/0HIPtTG79UnZPxSwq4X9ID"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "FLAMES OF YOU",
+      "url": "https://open.spotify.com/track/5aTRuish7RaATqYGRaUVFX"
+    },
+    {
+      "album": {
         "name": "flower",
         "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
       },
@@ -6108,7 +6236,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 200000,
       "name": "folding chairs on the moon",
       "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
@@ -6997,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
+    {
+      "album": {
         "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
       },
@@ -7568,6 +7714,28 @@
       "duration_ms": 155413,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        },
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237045,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
     },
     {
       "album": {
@@ -8415,6 +8583,24 @@
     },
     {
       "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
+    },
+    {
+      "album": {
         "name": "HOW DOES IT FEEL?",
         "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
       },
@@ -9016,7 +9202,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 218006,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
@@ -10498,7 +10684,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 156296,
       "name": "Locked & Loaded (Official Fortnite Anthem)",
       "url": "https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom"
@@ -11434,7 +11620,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -11488,10 +11674,28 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "album": {
+        "name": "me without you",
+        "url": "https://open.spotify.com/album/4nvpti0VNnf2flsfWyUZeX"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "me without you",
+      "url": "https://open.spotify.com/track/1m4OAAgnZ4CumJ6fRn88Xq"
     },
     {
       "album": {
@@ -11898,6 +12102,28 @@
       "duration_ms": 236626,
       "name": "Money On Money (feat. Future)",
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
+    },
+    {
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
     },
     {
       "album": {
@@ -12873,6 +13099,24 @@
     },
     {
       "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
+    },
+    {
+      "album": {
         "name": "Nothing Breaks Like a Heart - Spotify Singles",
         "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
       },
@@ -13329,6 +13573,24 @@
     },
     {
       "album": {
+        "name": "out of body",
+        "url": "https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175413,
+      "name": "out of body",
+      "url": "https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf"
+    },
+    {
+      "album": {
         "name": "Wasting Away",
         "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
       },
@@ -13717,6 +13979,28 @@
     },
     {
       "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -13804,7 +14088,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 261959,
       "name": "Post Sex Clarity",
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
@@ -14028,7 +14312,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 131061,
       "name": "put it on me",
       "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
@@ -14628,7 +14912,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 177886,
       "name": "Safe (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
@@ -14948,7 +15232,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 229458,
       "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
@@ -15836,10 +16120,28 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"
+    },
+    {
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "album": {
@@ -16830,7 +17132,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 144348,
       "name": "superstars",
       "url": "https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj"
@@ -17176,7 +17478,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
@@ -17836,7 +18138,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
@@ -18190,6 +18492,24 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175956,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
       "album": {
@@ -18836,7 +19156,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

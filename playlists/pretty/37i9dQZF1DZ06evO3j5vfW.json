@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72320,
+  "num_followers": 72319,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACzGudRys/vym/CUVLWzWRM",
+  "snapshot_id": "aNh6gAAAAADux/95yEZyl5daFikbTzwh",
   "tracks": [
     {
       "added_at": null,
@@ -215,34 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4EWr9IMsfwg20zWXGiacmp"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "LAMAS (BR)",
-          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/63GxgopLJOCQ4YFp65mQQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
       },
@@ -267,6 +239,34 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4EWr9IMsfwg20zWXGiacmp"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/63GxgopLJOCQ4YFp65mQQt"
     },
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be There",
-        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Emiel Monte",
-          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be There",
+        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Emiel Monte",
+          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
@@ -731,46 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need You To Know",
         "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
       "added_at": null,

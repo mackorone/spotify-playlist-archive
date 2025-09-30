@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 48 songs - 2 hr 54 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 46 | [The Hand That Feeds](https://open.spotify.com/track/1ejQlif5hMrqgnfnZztCsN) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 4:27 |
 | 47 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 48 | [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 |
+| 49 | [Fingers To The Bone](https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:11 |
 
-Snapshot ID: `AAAAQGTx9Q8BxAnzl+ZTQWus6WHkza1x`
+Snapshot ID: `AAAAQZD0uR9znjOgQeshrEOxQJGa5oCt`

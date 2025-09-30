@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130204,
+  "num_followers": 130199,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-09-25 16:00:15",
       "album": {
+        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
+        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 253728,
+      "name": "\u5e7e\u4e4e\u662f\u611b\u60c5",
+      "url": "https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs"
+    },
+    {
+      "added_at": "2025-09-25 16:00:15",
+      "album": {
         "name": "\u9019\u689d\u5c0f\u9b5a\u5728\u4e4e",
         "url": "https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2025-09-25 16:00:15",
       "album": {
-        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
-        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 253728,
-      "name": "\u5e7e\u4e4e\u662f\u611b\u60c5",
-      "url": "https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs"
-    },
-    {
-      "added_at": "2025-09-25 16:00:15",
-      "album": {
         "name": "\u9e8b\u9e7f",
         "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 234236,
       "name": "\u5927\u4eba",
       "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
-    },
-    {
-      "added_at": "2025-09-25 16:00:15",
-      "album": {
-        "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
-        "url": "https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy"
-      },
-      "artists": [
-        {
-          "name": "Good Band",
-          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
-        }
-      ],
-      "duration_ms": 224995,
-      "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
-      "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
     },
     {
       "added_at": "2025-09-25 16:00:15",
@@ -323,18 +307,18 @@
     {
       "added_at": "2025-09-25 16:00:15",
       "album": {
-        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+        "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
+        "url": "https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
         }
       ],
-      "duration_ms": 221073,
-      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+      "duration_ms": 224995,
+      "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
+      "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
     },
     {
       "added_at": "2025-09-25 16:00:15",
@@ -351,6 +335,22 @@
       "duration_ms": 220826,
       "name": "\u5728\u9019\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY"
+    },
+    {
+      "added_at": "2025-09-25 16:00:15",
+      "album": {
+        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 221073,
+      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
     },
     {
       "added_at": "2025-09-25 16:00:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-09-25 16:00:15",
       "album": {
-        "name": "\u6211\u559c\u6b61\u6211",
-        "url": "https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy"
-      },
-      "artists": [
-        {
-          "name": "Zen \u4fca\u5029",
-          "url": "https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH"
-        }
-      ],
-      "duration_ms": 184553,
-      "name": "\u6211\u559c\u6b61\u6211",
-      "url": "https://open.spotify.com/track/6xSTphVc86dhex73ZryENf"
-    },
-    {
-      "added_at": "2025-09-25 16:00:15",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2025-09-25 16:00:15",
+      "album": {
+        "name": "\u6211\u559c\u6b61\u6211",
+        "url": "https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy"
+      },
+      "artists": [
+        {
+          "name": "Zen \u4fca\u5029",
+          "url": "https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH"
+        }
+      ],
+      "duration_ms": 184553,
+      "name": "\u6211\u559c\u6b61\u6211",
+      "url": "https://open.spotify.com/track/6xSTphVc86dhex73ZryENf"
     },
     {
       "added_at": "2025-09-25 16:00:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-09-25 16:00:15",
       "album": {
-        "name": "\u4e0d\u5c6c\u65bc",
-        "url": "https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u4f73\u6b61",
-          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
-        }
-      ],
-      "duration_ms": 241071,
-      "name": "\u4e0d\u5c6c\u65bc",
-      "url": "https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF"
-    },
-    {
-      "added_at": "2025-09-25 16:00:15",
-      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
+    },
+    {
+      "added_at": "2025-09-25 16:00:15",
+      "album": {
+        "name": "\u4e0d\u5c6c\u65bc",
+        "url": "https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "duration_ms": 241071,
+      "name": "\u4e0d\u5c6c\u65bc",
+      "url": "https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

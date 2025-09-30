@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 185 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 185 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,19 +105,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 95 | [Lonely](https://open.spotify.com/track/0u0UwHTBElRtS8QImH1oR4) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:40 |
 | 96 | [Loudmouth](https://open.spotify.com/track/6cCHKwvTMIrA0SyRjkoN6C) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 4:02 |
 | 97 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
-| 98 | [Bloody Hell](https://open.spotify.com/track/1BQ17JlAkS8cgTkvelXQHP) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:54 |
-| 99 | [Hell Bound](https://open.spotify.com/track/5q7qGNhvkSe9aNyGhy87Lb) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:40 |
-| 100 | [This One's For The Girls](https://open.spotify.com/track/0PgesxnsfbPbqF8XGN1CXh) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 3:20 |
-| 101 | [All Night, Pt\. II](https://open.spotify.com/track/6UDH8pqwW5siqNszFtX6x0) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:16 |
-| 102 | [LAST DAY](https://open.spotify.com/track/2jxrreHQb2Itr4jJFtWEKg) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [LAST DAY](https://open.spotify.com/album/1GUjZGpVnLXF3DPIHI0nhM) | 3:05 |
-| 103 | [Prince of the Lost & Broken](https://open.spotify.com/track/7no7JMVOzCpfH7I1msYvIZ) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 3:04 |
-| 104 | [Spooky Electrick](https://open.spotify.com/track/1OmtT0yb2Zt9FqpPtWk8Tv) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:43 |
-| 105 | [Love Shine Down](https://open.spotify.com/track/6Wtv2n0dqdjzeAGbxhrdWL) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 4:05 |
-| 106 | [Love My Neighbour](https://open.spotify.com/track/09tpe143lHWH4ncKfaNmgA) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Love My Neighbour](https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL) | 3:01 |
-| 107 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
-| 108 | [Come Alive](https://open.spotify.com/track/4HjEhcygmxh1gSGGLSAFF5) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:51 |
-| 109 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
-| 110 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 98 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 99 | [Bloody Hell](https://open.spotify.com/track/1BQ17JlAkS8cgTkvelXQHP) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:54 |
+| 100 | [Hell Bound](https://open.spotify.com/track/5q7qGNhvkSe9aNyGhy87Lb) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:40 |
+| 101 | [This One's For The Girls](https://open.spotify.com/track/0PgesxnsfbPbqF8XGN1CXh) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 3:20 |
+| 102 | [All Night, Pt\. II](https://open.spotify.com/track/6UDH8pqwW5siqNszFtX6x0) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:16 |
+| 103 | [LAST DAY](https://open.spotify.com/track/2jxrreHQb2Itr4jJFtWEKg) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [LAST DAY](https://open.spotify.com/album/1GUjZGpVnLXF3DPIHI0nhM) | 3:05 |
+| 104 | [Prince of the Lost & Broken](https://open.spotify.com/track/7no7JMVOzCpfH7I1msYvIZ) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 3:04 |
+| 105 | [Spooky Electrick](https://open.spotify.com/track/1OmtT0yb2Zt9FqpPtWk8Tv) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:43 |
+| 106 | [Love Shine Down](https://open.spotify.com/track/6Wtv2n0dqdjzeAGbxhrdWL) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 4:05 |
+| 107 | [Love My Neighbour](https://open.spotify.com/track/09tpe143lHWH4ncKfaNmgA) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Love My Neighbour](https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL) | 3:01 |
+| 108 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
+| 109 | [Come Alive](https://open.spotify.com/track/4HjEhcygmxh1gSGGLSAFF5) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:51 |
+| 110 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
 | 111 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 | 112 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 |
 | 113 | [Control Of The Knife](https://open.spotify.com/track/2BA8K7pvwK8BRir61JBhpf) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Tangled Up \(Deluxe\)](https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw) | 3:49 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 184 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 185 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab9dyAAAAACVtXYvfTui0RO7CWKEkaua`
+Snapshot ID: `Ab9jcgAAAACsHvzJEaQGU3Pg3qDLoenw`

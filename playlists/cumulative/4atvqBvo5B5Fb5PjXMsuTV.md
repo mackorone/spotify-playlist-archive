@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Sep 03:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Sep 18:05 UTC.
 
-5,589 songs - 12 day 23 hr 15 min
+5,590 songs - 12 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2515,7 +2515,7 @@
 | [Into Hell](https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Into Hell](https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS) | 3:12 | 2025-06-20 | 2025-06-29 |
 | [Into Sands](https://open.spotify.com/track/2QfrO9c4zcB4MQbCmnY1YF) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Into Sands](https://open.spotify.com/album/6Du5vune5TRZrxqGUAZYir) | 4:01 | 2024-09-19 | 2024-09-21 |
 | [Into The Atmostfear](https://open.spotify.com/track/4cbf40kkfDhpyi6QTWRCFM) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [Into The Atmostfear](https://open.spotify.com/album/7wrCZ7mI1nW44iS9JQwnYF) | 5:12 | 2024-05-28 | 2024-06-01 |
-| [Into The Cesspool](https://open.spotify.com/track/2YZlG2b8Gz0t6ThDiRPinZ) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Into The Cesspool](https://open.spotify.com/album/0YmYysa7t4xstlKnVCVsM6) | 3:43 | 2025-09-19 |  |
+| [Into The Cesspool](https://open.spotify.com/track/2YZlG2b8Gz0t6ThDiRPinZ) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Into The Cesspool](https://open.spotify.com/album/0YmYysa7t4xstlKnVCVsM6) | 3:43 | 2025-09-19 | 2025-09-30 |
 | [intro](https://open.spotify.com/track/3d1YtKpp27rNxBShzzKbrw) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [intro + up! up! up!](https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L) | 3:10 | 2025-01-24 | 2025-01-30 |
 | [IOU](https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [IOU](https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa) | 3:11 | 2024-11-01 | 2024-11-06 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-22 | 2025-06-28 |
@@ -4008,6 +4008,7 @@
 | [Rogue](https://open.spotify.com/track/7BBSSVDxCwfZKbb8a1IlTB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Rogue](https://open.spotify.com/album/218JtIGiHXx4XepIaL7Ns7) | 3:12 | 2024-09-10 | 2024-09-13 |
 | [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 | 2024-09-20 | 2024-09-25 |
 | [Roll That Weed Up](https://open.spotify.com/track/6MXCDzuLxdhBRbiGWPXybX) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Roll That Weed Up](https://open.spotify.com/album/77k8vNN8uDita9wIpvv1i1) | 2:42 | 2024-11-09 | 2024-11-11 |
+| [rollback freestyle](https://open.spotify.com/track/6mPuuM6qVrr0okmGFeLVHb) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ), [RXKNephew](https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT), [Grey Streak](https://open.spotify.com/artist/2J3xUSbnigLbcN4cmzkcS9) | [rollback freestyle](https://open.spotify.com/album/5xu0iljRkz8vBAjaGsfuT9) | 1:46 | 2025-09-29 |  |
 | [Rollercoaster](https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Rollercoaster](https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP) | 3:06 | 2025-02-14 | 2025-02-24 |
 | [Rollin'](https://open.spotify.com/track/7uJ7G8RLvAJgJFRn49mD0C) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [QuakeBeatz](https://open.spotify.com/artist/30HKqvpaWBTGoxIO8hFMt1), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Rollin'](https://open.spotify.com/album/0zhrB1tEDu3BbtzQKIfFJ6) | 2:00 | 2024-12-08 | 2024-12-13 |
 | [Romanticise](https://open.spotify.com/track/0UimWay9Ep5hjosaNy2zOg) | [Jazz Emu](https://open.spotify.com/artist/69W52X4tUONDDDb6FmGtl6) | [Romanticise](https://open.spotify.com/album/0gAwIZXA8mOLOyhVqYl7gg) | 2:12 | 2024-08-15 | 2024-08-17 |

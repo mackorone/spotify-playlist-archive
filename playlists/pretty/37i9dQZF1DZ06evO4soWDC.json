@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAA+MNnIqPW0iRbEwwKsONkc",
+  "snapshot_id": "aNh6gAAAAAC3O5roUSya2aObcYu1C9/p",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 164228,
-      "name": "Every Time You're Here (I'm Gone)",
-      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 164228,
+      "name": "Every Time You're Here (I'm Gone)",
+      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 176893,
       "name": "Party Scene",
       "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Isaac Bowen",
-      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Isaac Bowen",
+      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 204533,
       "name": "Rinse and Repeat",
       "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Like a Charm",
-      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yossarian",
         "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+      "duration_ms": 207400,
+      "name": "Like a Charm",
+      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
     },
     {
       "added_at": null,

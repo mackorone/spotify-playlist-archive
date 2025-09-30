@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-147 songs - 11 hr 48 min
+148 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-11-07 |  |
 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 | 2022-11-07 | 2022-11-13 |
 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 | 2022-09-12 |  |
-| [Sketchbook of Dreams \(Radio Edit\)](https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt) | [Tom van der Zaal](https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au) | [Sketchbook of Dreams](https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k) | 3:45 | 2025-07-21 |  |
+| [Sketchbook of Dreams \(Radio Edit\)](https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt) | [Tom van der Zaal](https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au) | [Sketchbook of Dreams](https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k) | 3:45 | 2025-07-21 | 2025-09-30 |
 | [Sleep Away](https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 3:21 | 2022-11-07 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-09-12 |  |
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2022-09-12 | 2022-11-13 |
@@ -138,6 +138,7 @@
 | [The Tearjerker Returns](https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX) | 3:32 | 2022-09-12 | 2024-04-19 |
 | [The Tearjerker Returns](https://open.spotify.com/track/0WG0GMBpWDNJzSqCpZAIhq) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Study Deep Focus](https://open.spotify.com/album/5qeut0jStJIZ5mX7uDKjPn) | 3:32 | 2024-03-11 | 2024-03-24 |
 | [The Third One](https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w) | [Svante Söderqvist](https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Tuulikki Bartosik](https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS) | [The Rocket](https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo) | 5:10 | 2024-04-08 | 2024-10-28 |
+| [The Unknown](https://open.spotify.com/track/4MQoAgfCZsw6iyv1olPb92) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [The Unknown](https://open.spotify.com/album/0cbgMntTRsvEASZAdPCrFo) | 4:10 | 2025-09-29 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 | 2022-09-12 | 2024-04-19 |
 | [Tranquillity \- Remastered 1994](https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:03 | 2024-09-16 |  |
 | [Travels](https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9) | [Pat Metheny Trio](https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv) | [Trio 99\-00](https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP) | 5:43 | 2022-09-12 |  |

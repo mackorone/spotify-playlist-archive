@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAC4zFxBtuaPvDkrSL5S05AS",
+  "snapshot_id": "aNh6gAAAAAA55G3w67gpYPeNknjDADwG",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170911,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
         "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 171822,
       "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
       "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170911,
-      "name": "Familia",
-      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
     },
     {
       "added_at": null,
@@ -626,11 +626,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
     },
     {
       "added_at": null,
@@ -702,15 +706,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,
@@ -991,26 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHECK",
-        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
+        "name": "We Belong",
+        "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
       },
       "artists": [
         {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 207000,
-      "name": "CHECK",
-      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
+      "duration_ms": 177219,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
     }
   ],
   "unique_name": "This Is KB",

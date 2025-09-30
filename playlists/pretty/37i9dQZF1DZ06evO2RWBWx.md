@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 > This is imase\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,943 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 32 | [ココロウチュウ](https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ココロウチュウ](https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb) | 3:16 |
 | 33 | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 |
 | 34 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 |
-| 35 | [LIT](https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:50 |
-| 36 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 |
+| 35 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 |
+| 36 | [LIT](https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:50 |
 | 37 | [Holy Light](https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:17 |
 | 38 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 |
 | 39 | [蜃気楼](https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [蜃気楼](https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS) | 3:29 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 42 | [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 |
 | 43 | [いい湯だな 2025 \- imase × mabanua MIX](https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [いい湯だな 2025 \(imase × mabanua MIX\)](https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z) | 3:54 |
 
-Snapshot ID: `aNcpAAAAAADngMkZW/oEuzzeIxGIO7ro`
+Snapshot ID: `aNh6gAAAAACx/hPhJYu9har6W19mJeMX`

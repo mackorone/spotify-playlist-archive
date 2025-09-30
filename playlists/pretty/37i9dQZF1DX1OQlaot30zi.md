@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rondodasosa, Boro e Guè, 22simba, Mecna,  Visino Bianco e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,317 likes - 106 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,319 likes - 106 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

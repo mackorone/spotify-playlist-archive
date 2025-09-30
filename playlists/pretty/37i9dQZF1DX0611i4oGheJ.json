@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 493682,
+  "num_followers": 493680,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,26 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
         "name": "Just One Break (with Mon Rov\u00eea)",
         "url": "https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ"
       },
@@ -903,22 +923,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+        "name": "The Trek",
+        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
       },
       "artists": [
         {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        },
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
         }
       ],
-      "duration_ms": 195999,
-      "name": "Gown",
-      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+      "duration_ms": 282253,
+      "name": "The Trek",
+      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -943,22 +959,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "The Trek",
-        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 282253,
-      "name": "The Trek",
-      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Lavender Girl",
         "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 203546,
       "name": "Lavender Girl",
       "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -995,22 +1011,6 @@
       "duration_ms": 383080,
       "name": "Ever New - Reworked by Bon Iver & Flock of Dimes Single Version",
       "url": "https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
       },
       "artists": [
         {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
         }
       ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+      "duration_ms": 183303,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
       "artists": [
         {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 183303,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Steady Now",
-        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
-      },
-      "artists": [
-        {
-          "name": "William Wild",
-          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
-        }
-      ],
-      "duration_ms": 262571,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 243680,
       "name": "Humble & Kind",
       "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Steady Now",
+        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "duration_ms": 262571,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 235593,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
-      },
-      "artists": [
-        {
-          "name": "The National Forest",
-          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "This Heart",
         "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
+      },
+      "artists": [
+        {
+          "name": "The National Forest",
+          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
         "name": "A Running Start",
         "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
       },
@@ -1759,22 +1759,6 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
-        "name": "Wait Up",
-        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
-      },
-      "artists": [
-        {
-          "name": "Neffy",
-          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "Wait Up",
-      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1807,6 +1791,22 @@
       "duration_ms": 200333,
       "name": "Such Love Does",
       "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
+      },
+      "artists": [
+        {
+          "name": "Neffy",
+          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Wildflowers In The Sky",
         "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 162099,
       "name": "Wildflowers In The Sky",
       "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
     },
     {
       "added_at": "2025-09-22 18:30:23",

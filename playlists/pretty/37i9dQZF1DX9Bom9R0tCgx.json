@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 437606,
+  "num_followers": 437723,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Fire To The Rain",
         "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
-      },
-      "artists": [
-        {
-          "name": "Gregor McMurray",
-          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 116433,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Perfect (Exceeder) [1991 Remix]",
         "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
       },
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1619,6 +1599,42 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "HARD POP VOL. 2",
+        "url": "https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 339310,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "HARD POP VOL. 2",
-        "url": "https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 339310,
-      "name": "Nero",
-      "url": "https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -1679,30 +1679,6 @@
       "duration_ms": 126428,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
-        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 145032,
-      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
-      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1727,6 +1703,30 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
+        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 145032,
+      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
+      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
     },
     {
       "added_at": "2025-06-26 22:00:24",

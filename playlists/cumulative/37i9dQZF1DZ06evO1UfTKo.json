@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/7udJoseAJT6OnSusEzTVb6"
+    },
+    {
+      "album": {
         "name": "Herencia De Familia",
         "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 218413,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF"

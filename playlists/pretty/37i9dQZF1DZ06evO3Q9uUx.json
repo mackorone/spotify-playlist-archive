@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15707,
+  "num_followers": 15705,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAARBPfo1tbA0daBD+AlLTE9",
+  "snapshot_id": "aNh6gAAAAACReIjlt2vlPKhVOq9R80sN",
   "tracks": [
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End of an Era",
-        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 170899,
-      "name": "Is That Right",
-      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distrito Federal",
         "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 172078,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     },
     {
       "added_at": null,

@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Can You Fix Your Heart",
+        "url": "https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ"
+      },
+      "artists": [
+        {
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180424,
+      "name": "Can You Fix Your Heart?",
+      "url": "https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG"
+    },
+    {
+      "album": {
         "name": "Caramella Caramella",
         "url": "https://open.spotify.com/album/4sQpOAMLAL5gTiZqEuvnrb"
       },
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 154909,
       "name": "How Do U Feel",
       "url": "https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1"
@@ -4946,7 +4964,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 264571,
       "name": "Parigi (mi manchi) - Hey Cabrera! Remix",
       "url": "https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9"
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 124168,
       "name": "QUARANTENA",
       "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"

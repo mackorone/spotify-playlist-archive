@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 255595,
+  "num_followers": 255577,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-08-18 19:58:36",
       "album": {
-        "name": "Linus n' Lucy (Theme from Peanuts)",
-        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Linus n' Lucy (Theme from Peanuts)",
-      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
-    },
-    {
-      "added_at": "2025-08-18 19:58:36",
-      "album": {
         "name": "Deck The Halls",
         "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 124000,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
+    },
+    {
+      "added_at": "2025-08-18 19:58:36",
+      "album": {
+        "name": "Linus n' Lucy (Theme from Peanuts)",
+        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Linus n' Lucy (Theme from Peanuts)",
+      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
     },
     {
       "added_at": "2025-08-18 19:58:36",

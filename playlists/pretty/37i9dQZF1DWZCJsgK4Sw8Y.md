@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,939 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,944 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 49 | [Crash](https://open.spotify.com/track/1FoNbYIeraEqeN46nwNk8a) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/4Dir4ut5xEbGqJC3Pe9HsW) | 3:51 |
 | 50 | [Embers And Envelopes](https://open.spotify.com/track/4ArUnW8s0cuJLKVFmkCA2F) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/3qdzT7kFqXnAKum9hYXXOz) | 4:18 |
 
-Snapshot ID: `AAAAAOdtaL3v50EzELOfSY8TGxO2Ad/9`
+Snapshot ID: `AAAAABXc/x+uFD+2ACGtp6WJe4x/La5Z`

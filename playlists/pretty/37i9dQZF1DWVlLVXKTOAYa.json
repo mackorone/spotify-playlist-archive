@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1048242,
+  "num_followers": 1047601,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "boom",
         "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 163000,
       "name": "boom",
       "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 176242,
-      "name": "clich\u00e9",
-      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 162995,
       "name": "Bluest Flame",
       "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "Forever Is A Feeling",
+        "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 203490,
+      "name": "Bullseye (with Hozier)",
+      "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "Forever Is A Feeling",
-        "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 203490,
-      "name": "Bullseye (with Hozier)",
-      "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Why Is She Still Here?",
-        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 150255,
-      "name": "Why Is She Still Here?",
-      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1635,22 +1635,6 @@
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1683,6 +1667,22 @@
       "duration_ms": 292093,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
     },
     {
       "added_at": "2025-08-14 22:00:28",

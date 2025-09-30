@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 38087,
+  "num_followers": 38094,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAANpi0hnpyCHbobj49FtSQc",
+  "snapshot_id": "aNh6gAAAAABsycSMmfQb1zp0wWTcZ41P",
   "tracks": [
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 303720,
-      "name": "Can't We Try",
-      "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 180346,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
+      "duration_ms": 303720,
+      "name": "Can't We Try",
+      "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
     },
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+        "name": "A Little More Magic",
+        "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX"
+      "duration_ms": 391733,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little More Magic",
-        "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
       "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 391733,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
+      "duration_ms": 220933,
+      "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX"
     },
     {
       "added_at": null,

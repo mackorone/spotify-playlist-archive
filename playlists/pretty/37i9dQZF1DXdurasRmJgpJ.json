@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 351665,
+  "num_followers": 351820,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -359,38 +359,6 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "\u672a\u78ba\u8a8d\u9818\u57df",
-        "url": "https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "\u672a\u78ba\u8a8d\u9818\u57df",
-      "url": "https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
-        "name": "1000 days of moments",
-        "url": "https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 203380,
-      "name": "1000 days of moments",
-      "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
         "name": "\u7e54\u59eb\u3068BABY",
         "url": "https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD"
       },
@@ -411,6 +379,22 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
+        "name": "1000 days of moments",
+        "url": "https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 203380,
+      "name": "1000 days of moments",
+      "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
         "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
         "url": "https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 178380,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
+        "name": "\u672a\u78ba\u8a8d\u9818\u57df",
+        "url": "https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "\u672a\u78ba\u8a8d\u9818\u57df",
+      "url": "https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
         "name": "Plazma",
         "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 180832,
       "name": "Plazma",
       "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
-        "name": "Carrying Happiness",
-        "url": "https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Carrying Happiness",
-      "url": "https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
+        "name": "Carrying Happiness",
+        "url": "https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 258333,
-      "name": "HAPPY BIRTHDAY",
-      "url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3"
+      "duration_ms": 222093,
+      "name": "Carrying Happiness",
+      "url": "https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
         "name": "Never Grow Up",
         "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 196253,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "ALXD",
-        "url": "https://open.spotify.com/album/320EqC5cbWaxVViu3cJUAn"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "\u30ef\u30bf\u30ea\u30c9\u30ea",
-      "url": "https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 200219,
       "name": "\u604b\u4eba\u3054\u3063\u3053",
       "url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
+        "name": "ALXD",
+        "url": "https://open.spotify.com/album/320EqC5cbWaxVViu3cJUAn"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "\u30ef\u30bf\u30ea\u30c9\u30ea",
+      "url": "https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "\u7d76\u5bfe\u96f6\u5ea6",
-        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 198483,
-      "name": "\u7d76\u5bfe\u96f6\u5ea6",
-      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
         "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
         "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
       },
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "GOD_i",
-        "url": "https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I"
+        "name": "\u7d76\u5bfe\u96f6\u5ea6",
+        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
       },
       "artists": [
         {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 215120,
-      "name": "GOD_i",
-      "url": "https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN"
+      "duration_ms": 198483,
+      "name": "\u7d76\u5bfe\u96f6\u5ea6",
+      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
+        "name": "Almond Chocolate",
+        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Almond Chocolate",
+      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "Almond Chocolate",
-        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Almond Chocolate",
-      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
         "name": "Mela!",
         "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
+        "name": "GOD_i",
+        "url": "https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "GOD_i",
+      "url": "https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "\u30ab\u30fc\u30de\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 204302,
-      "name": "\u30ab\u30fc\u30de\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd"
-    },
-    {
-      "added_at": "2025-09-26 08:19:27",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 276800,
       "name": "PUZZLE",
       "url": "https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7"
+    },
+    {
+      "added_at": "2025-09-26 08:19:27",
+      "album": {
+        "name": "\u30ab\u30fc\u30de\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 204302,
+      "name": "\u30ab\u30fc\u30de\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1491,26 +1491,18 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
-        "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
+        "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
+        "url": "https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS"
       },
       "artists": [
         {
-          "name": "GEMN",
-          "url": "https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew"
-        },
-        {
-          "name": "\u4e2d\u5cf6\u5065\u4eba",
-          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
-        },
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 219200,
-      "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
-      "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+      "duration_ms": 298663,
+      "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
+      "url": "https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3"
     },
     {
       "added_at": "2025-09-26 08:19:27",
@@ -1547,18 +1539,26 @@
     {
       "added_at": "2025-09-26 08:19:27",
       "album": {
-        "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
-        "url": "https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS"
+        "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+        "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
       },
       "artists": [
         {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+          "name": "GEMN",
+          "url": "https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 298663,
-      "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
-      "url": "https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3"
+      "duration_ms": 219200,
+      "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+      "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
     },
     {
       "added_at": "2025-09-26 08:19:27",

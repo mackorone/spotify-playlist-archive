@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6925,
+  "num_followers": 6926,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAADPCJw4WwZ5HHAaKI9VcLE+",
+  "snapshot_id": "aNh6gAAAAAA3HZfi28CPFZy5fIQUXTLH",
   "tracks": [
     {
       "added_at": null,
@@ -216,17 +216,13 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "J. Angel",
-          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
-        },
-        {
-          "name": "DJ Am",
-          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
+          "name": "Fann",
+          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Born to Raise Hell",
-      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
+      "duration_ms": 189893,
+      "name": "Baby You Don't Know",
+      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,
@@ -304,17 +300,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Bishop Lamont",
-          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
+          "name": "J. Angel",
+          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
         },
         {
-          "name": "Fann",
-          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
+          "name": "DJ Am",
+          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
+      "duration_ms": 212306,
+      "name": "Born to Raise Hell",
+      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
     },
     {
       "added_at": null,
@@ -380,13 +376,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
+          "name": "Bishop Lamont",
+          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
+        },
+        {
           "name": "Fann",
           "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Baby You Don't Know",
-      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
+      "duration_ms": 255386,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 158693,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hellscape",
         "url": "https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 219428,
       "name": "Hellscape",
       "url": "https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,

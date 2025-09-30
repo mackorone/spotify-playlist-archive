@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 45710,
+  "num_followers": 45714,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Gruppo Italiano",
-        "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
-      },
-      "artists": [
-        {
-          "name": "Gruppo Italiano",
-          "url": "https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Balla (Remastered)",
         "url": "https://open.spotify.com/album/4A6errXJxy9750cknTxu1p"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 195333,
       "name": "Balla",
       "url": "https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Gruppo Italiano",
+        "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
+      },
+      "artists": [
+        {
+          "name": "Gruppo Italiano",
+          "url": "https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R"
     },
     {
       "added_at": "2025-05-02 09:12:30",

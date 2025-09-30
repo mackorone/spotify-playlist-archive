@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 962965,
+  "num_followers": 964162,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 326320,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Now & Then (Reissue)",
-        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Yesterday Once More",
-      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Now & Then (Reissue)",
+        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Blue Moves",
-        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 256666,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
-      "added_at": "2024-12-27 17:35:00",
-      "album": {
-        "name": "Seasons In The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
-      },
-      "artists": [
-        {
-          "name": "Terry Jacks",
-          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Seasons in the Sun",
-      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Bridge Over Troubled Water",
@@ -1355,6 +1339,22 @@
       "duration_ms": 218306,
       "name": "I Just Wanna Stop",
       "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+    },
+    {
+      "added_at": "2024-12-27 17:35:00",
+      "album": {
+        "name": "Seasons In The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 247733,
       "name": "My Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 165666,
       "name": "Beth",
       "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1905,6 +1905,22 @@
       "url": "https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS"
     },
     {
+      "added_at": "2023-03-13 08:18:56",
+      "album": {
+        "name": "Closing Time (Remastered)",
+        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "I Hope That I Don't Fall In Love With You",
+      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
+    },
+    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Diana & Marvin (Expanded Edition)",
@@ -1925,22 +1941,6 @@
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
     },
     {
-      "added_at": "2023-03-13 08:18:56",
-      "album": {
-        "name": "Closing Time (Remastered)",
-        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "I Hope That I Don't Fall In Love With You",
-      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "A Star Is Born",
@@ -1955,6 +1955,22 @@
       "duration_ms": 184800,
       "name": "Evergreen (Love Theme from \"A Star Is Born\")",
       "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1975,22 +1991,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Gather Me",
-        "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
-      },
-      "artists": [
-        {
-          "name": "Melanie",
-          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Brand New Key",
-      "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
         "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 243933,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Gather Me",
+        "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Brand New Key",
+      "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Wings Greatest",
-        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Mull Of Kintyre",
-      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "American Pie (Expanded Edition)",
         "url": "https://open.spotify.com/album/3cKcMgO1UmhVk3ZfPIJhi0"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 239866,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/3VAIny0fsmbiZCwt3817Ay"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 286346,
+      "name": "Mull Of Kintyre",
+      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
     },
     {
       "added_at": "2022-09-23 05:26:33",

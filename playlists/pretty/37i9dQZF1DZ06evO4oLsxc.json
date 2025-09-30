@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 930,
+  "num_followers": 935,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACqs1gjUvShmPDO8dFrUl9c",
+  "snapshot_id": "aNh6gAAAAACi2ivU5MmDd/URthpxR8H/",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisting (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Twisting (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisting (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 213393,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 213393,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
     },
     {
       "added_at": null,
@@ -354,11 +354,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
         }
       ],
-      "duration_ms": 118706,
-      "name": "+Star101",
-      "url": "https://open.spotify.com/track/1Te1WjWNktTVf9L1wmmTSz"
+      "duration_ms": 223480,
+      "name": "Veranda (feat. CARI)",
+      "url": "https://open.spotify.com/track/27tCU1eQ9zMKCKy3HTMUIt"
     },
     {
       "added_at": null,
@@ -426,15 +430,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Veranda (feat. CARI)",
-      "url": "https://open.spotify.com/track/27tCU1eQ9zMKCKy3HTMUIt"
+      "duration_ms": 118706,
+      "name": "+Star101",
+      "url": "https://open.spotify.com/track/1Te1WjWNktTVf9L1wmmTSz"
     },
     {
       "added_at": null,

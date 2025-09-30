@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Man On A Mission",
+        "url": "https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211721,
+      "name": "Man On A Mission",
+      "url": "https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG"
+    },
+    {
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },

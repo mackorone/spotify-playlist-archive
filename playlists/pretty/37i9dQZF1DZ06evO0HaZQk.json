@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 521535,
+  "num_followers": 521538,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAOixmnY/pGjEKHe3z1HdIs",
+  "snapshot_id": "aNh6gAAAAABhcVViehUjSt9gjzBjGMf/",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio la Colifata Presenta: El Canto del Loco",
-        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Contigo (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 240333,
       "name": "Que Nadie Sepa Mi Sufrir (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio la Colifata Presenta: El Canto del Loco",
+        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Contigo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cancionera",
         "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 265847,
       "name": "Cocos en la Playa",
       "url": "https://open.spotify.com/track/4956xD0yHMfb8SDqcfI47c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
     },
     {
       "added_at": null,

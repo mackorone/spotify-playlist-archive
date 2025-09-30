@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Lim Jae Beum\(임재범\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: CHEN\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-616 songs - 1 day 16 hr 19 min
+617 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [And The End](https://open.spotify.com/track/5g4Gu5pc7STz901CngD3JC) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [And The End](https://open.spotify.com/album/4Cd5Q17VMgm5OKSqLJvoQJ) | 3:48 | 2022-05-13 | 2022-07-28 |
 | [Anomaly](https://open.spotify.com/track/5DvxeABzpKJ5wrQ9PNYzAN) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Anomaly](https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0) | 3:01 | 2023-04-07 | 2023-04-19 |
 | [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 | 2023-11-22 |
+| [Arcadia](https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Arcadia](https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO) | 2:50 | 2025-09-29 |  |
 | [Around You](https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Around You](https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn) | 3:59 | 2022-07-04 | 2022-07-23 |
 | [As always](https://open.spotify.com/track/2vwbkdH4deV947bonfeKI4) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [As always](https://open.spotify.com/album/6tMA69q44j87tm123uSouo) | 3:49 | 2024-06-05 | 2024-08-13 |
 | [As Autumn Brings Cold Wind](https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [As Autumn Brings Cold Wind](https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA) | 4:19 | 2023-10-05 | 2023-11-10 |
@@ -296,7 +297,7 @@
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 | 2023-10-16 |
 | [Longing For The One I Lost](https://open.spotify.com/track/5zmaQ67jCtABqcWzjQNa6w) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Longing For The One I Lost](https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM) | 3:56 | 2024-12-10 | 2025-03-23 |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
-| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 |  |
+| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2025-09-30 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 | 2024-05-11 |
 | [Love Illusion](https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Love Illusion](https://open.spotify.com/album/65XtBx6D49S95rheH2RS83) | 3:45 | 2024-04-15 | 2024-06-28 |

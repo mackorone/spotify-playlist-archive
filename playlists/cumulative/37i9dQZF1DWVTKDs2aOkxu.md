@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Geese
 
-678 songs - 1 day 16 hr 30 min
+679 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-17 | 2025-02-21 |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 | 2025-04-28 |
 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 | 2024-06-27 | 2024-08-30 |
+| [Itsumo](https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Itsumo](https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5) | 4:11 | 2025-09-25 |  |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-04-11 | 2025-06-13 |
 | [JIVE](https://open.spotify.com/track/4WJ7z7TqsN06ZXcgfVxCJG) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [JIVE](https://open.spotify.com/album/6L0MoQQNsJMpIxy2H0g98g) | 4:14 | 2025-06-19 | 2025-08-08 |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-06-27 | 2024-07-12 |

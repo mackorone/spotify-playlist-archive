@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Phantastic Ferniture
 
-1,728 songs - 4 day 3 hr 51 min
+1,729 songs - 4 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Excuses](https://open.spotify.com/track/4b64vOfZptiujHdsqjbfoD) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Excuses](https://open.spotify.com/album/030CZCgobrplhu5ddAGiMO) | 2:48 | 2021-06-02 | 2022-04-18 |
 | [Existential](https://open.spotify.com/track/4yi9vxDk77KEsQgdakIabg) | [Berlue](https://open.spotify.com/artist/23AyLrq18LhJG61d8EjSRY) | [Existential](https://open.spotify.com/album/3F4gPGqsjEug9JDJjcePc4) | 3:10 | 2023-05-26 | 2023-06-16 |
 | [exit girl](https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [exit girl](https://open.spotify.com/album/39yddITr5Zid1HdG611km6) | 3:26 | 2023-09-15 | 2024-04-27 |
+| [exo](https://open.spotify.com/track/5afPubAOdm8L79NQYaW40o) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [no scope](https://open.spotify.com/album/1MoHchytw6sq4hhC28JZ7x) | 4:07 | 2025-09-29 |  |
 | [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-15 | 2022-12-09 |
 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-10-21 | 2023-04-29 |
 | [Eyes](https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Oldies & Goldies](https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt) | 3:41 | 2022-08-26 | 2023-01-18 |

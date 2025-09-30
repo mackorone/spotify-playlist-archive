@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83805,
+  "num_followers": 83812,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
+        "name": "Bietje Bas",
+        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Schorre Chef & MC Vals",
+          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Bietje Bas",
+      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
         "name": "Outsiders Remix EP",
         "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 226245,
       "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
       "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
-        "name": "Bietje Bas",
-        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Schorre Chef & MC Vals",
-          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Bietje Bas",
-      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
     },
     {
       "added_at": "2025-09-25 09:03:02",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
-        "name": "De Laatste (De Nachtbrakers Remix)",
-        "url": "https://open.spotify.com/album/5p8PEyTaHYcWCrYM9JbYOz"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "De Nachtbrakers",
-          "url": "https://open.spotify.com/artist/6WtQIrE4QtO7sceTzeasnn"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Laatste - De Nachtbrakers Remix",
-      "url": "https://open.spotify.com/track/75zPlFNjN0P92jD67UMIU2"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
+        "name": "De Laatste (De Nachtbrakers Remix)",
+        "url": "https://open.spotify.com/album/5p8PEyTaHYcWCrYM9JbYOz"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "De Nachtbrakers",
+          "url": "https://open.spotify.com/artist/6WtQIrE4QtO7sceTzeasnn"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Laatste - De Nachtbrakers Remix",
+      "url": "https://open.spotify.com/track/75zPlFNjN0P92jD67UMIU2"
     },
     {
       "added_at": "2025-09-25 09:03:02",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
         "name": "Adrenaline (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/5nM7KwNskekFeQ3YCWixcU"
       },
@@ -1003,6 +983,26 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
         "name": "De Hut Verbouwen (Dr. Rude Remix)",
         "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
       },
@@ -1019,26 +1019,6 @@
       "duration_ms": 180676,
       "name": "De Hut Verbouwen - Dr. Rude Remix",
       "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
-        "name": "VAMONOS",
-        "url": "https://open.spotify.com/album/6WeIhHYnVsgmiOgzK8Kjsy"
-      },
-      "artists": [
-        {
-          "name": "Altijd Larstig & Rob Gasd\u2019rop",
-          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
-        },
-        {
-          "name": "Jody Bernal",
-          "url": "https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "VAMONOS",
-      "url": "https://open.spotify.com/track/05hrUYRhKBPitIJkUZg14M"
     },
     {
       "added_at": "2025-09-25 09:03:02",
@@ -1079,6 +1059,26 @@
       "duration_ms": 257202,
       "name": "Het Is Een Nacht - Total Loss Remix",
       "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
+        "name": "VAMONOS",
+        "url": "https://open.spotify.com/album/6WeIhHYnVsgmiOgzK8Kjsy"
+      },
+      "artists": [
+        {
+          "name": "Altijd Larstig & Rob Gasd\u2019rop",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+        },
+        {
+          "name": "Jody Bernal",
+          "url": "https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "VAMONOS",
+      "url": "https://open.spotify.com/track/05hrUYRhKBPitIJkUZg14M"
     },
     {
       "added_at": "2025-09-25 09:03:02",

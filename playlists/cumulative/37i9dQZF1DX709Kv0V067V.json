@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 188437,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/5Mfnq3NhU0FjSDZiC022az"
@@ -1746,6 +1746,24 @@
       "duration_ms": 177000,
       "name": "Fluere Ranae",
       "url": "https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL"
+    },
+    {
+      "album": {
+        "name": "Flyby",
+        "url": "https://open.spotify.com/album/5fJ8HiIbfq4dVmpaW2vgi4"
+      },
+      "artists": [
+        {
+          "name": "By Lotus",
+          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215320,
+      "name": "Flyby",
+      "url": "https://open.spotify.com/track/405P9q8Fp8OIlKFEYhutNE"
     },
     {
       "album": {

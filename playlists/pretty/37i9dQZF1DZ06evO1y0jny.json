@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAvAf2GYfBIg7Ts8Fv/2V55",
+  "snapshot_id": "aNh6gAAAAACUomn6Q+5PGUDTthLWGiZP",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hahani Mai (21st Anniversary Edition)",
         "url": "https://open.spotify.com/album/35rgOxshONl1KMNXOH71Yv"
       },
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lei N\u0101honoapi\u02bbilani: N\u0101 Mele Hou",
-        "url": "https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5"
+        "name": "K\u0101wili",
+        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 188841,
-      "name": "Honokowai",
-      "url": "https://open.spotify.com/track/3vEK9J9FuhBMAK9koYYbQZ"
+      "duration_ms": 159020,
+      "name": "He Aloha Wau i\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
     },
     {
       "added_at": null,
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 202202,
-      "name": "O Ukumehame",
-      "url": "https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy"
+      "duration_ms": 188841,
+      "name": "Honokowai",
+      "url": "https://open.spotify.com/track/3vEK9J9FuhBMAK9koYYbQZ"
     }
   ],
   "unique_name": "This Is Keauhou",

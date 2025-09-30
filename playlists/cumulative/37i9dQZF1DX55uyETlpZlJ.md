@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-555 songs - 1 day 7 hr 33 min
+556 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Chanda](https://open.spotify.com/track/3WBenVVe9S0FkVxApthEnJ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/0XpUURR7bNOYU88nkHNKjx) | 3:26 | 2023-08-21 | 2024-04-19 |
 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 | 2023-08-31 | 2024-03-15 |
 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 | 2024-03-06 |
+| [Chill Madale](https://open.spotify.com/track/42ZcXFhPyt4DH9jsELRYWh) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Chill Madale](https://open.spotify.com/album/23pxYZmTU9sQopSbSJE02w) | 3:40 | 2025-09-29 |  |
 | [Chill Madu Maga](https://open.spotify.com/track/7JncE2mHoMdPipbAVGTeXZ) | [Suprith Nayak Official](https://open.spotify.com/artist/03zw6bTAA8lSfj1wJR8PMn) | [Chill Madu Maga](https://open.spotify.com/album/4aHx6I6Kp3Y2U1788IxFQ8) | 3:00 | 2025-07-07 |  |
 | [CHINDI MAADU](https://open.spotify.com/track/1t7ETxbjdYeeLwbe6LXxq1) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [CHINDI MAADU](https://open.spotify.com/album/4m69AYEq6wKLWbKoT7KdUW) | 3:22 | 2024-05-06 | 2024-11-14 |
 | [Chinte Bidi \- Enne Hodi](https://open.spotify.com/track/5ialXnx6tJlOlkCC17NfUc) | [Kishan Bijjur](https://open.spotify.com/artist/3S2ZrbffGmeAZgE9yIiDSF), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Chinte Bidi \(Enne Hodi\)](https://open.spotify.com/album/0RyKmpUBNqpxD6CTVEsbSw) | 3:02 | 2025-03-18 | 2025-08-22 |
@@ -438,7 +439,7 @@
 | [Paaru](https://open.spotify.com/track/7k1x1taBxaq1BUQNs5CwAw) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Paaru](https://open.spotify.com/album/7LNl42e04CCKb0GdMbcOBr) | 3:55 | 2025-04-02 | 2025-09-19 |
 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 | 2024-10-14 | 2025-03-18 |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 | 2024-09-18 |
-| [Paisa](https://open.spotify.com/track/6GnCmGYCBKPe5PZSe2TnP4) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Paisa](https://open.spotify.com/album/2PZsne4TWitMBuKSpW11pX) | 2:09 | 2025-03-03 |  |
+| [Paisa](https://open.spotify.com/track/6GnCmGYCBKPe5PZSe2TnP4) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Paisa](https://open.spotify.com/album/2PZsne4TWitMBuKSpW11pX) | 2:09 | 2025-03-03 | 2025-09-30 |
 | [Pakshi](https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl) | 2:57 | 2023-07-14 | 2024-02-15 |
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |
 | [Pappi Kodabek Anisaithi](https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs) | [Shivu Bhergi](https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Pappi Kodabek Anisaithi](https://open.spotify.com/album/51n3dJlCVjis0ESErlmLuQ) | 4:24 | 2025-07-21 |  |

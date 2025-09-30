@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-318 songs - 15 hr 38 min
+319 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2023-06-16 |  |
 | [Midwinter Downtown Rain](https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Cold Winter Rain](https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN) | 5:42 | 2023-06-16 |  |
 | [Misty Nights](https://open.spotify.com/track/1VoWakyWCQffi9kJLE8E9e) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rain Flood](https://open.spotify.com/album/7ICJo8n9KU5LyLwivs02CE) | 3:36 | 2023-06-16 |  |
+| [Misty Repose](https://open.spotify.com/track/4qvAEQnHGpZnULGQHMeYGG) | [State Of Rest](https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM) | [Misty Repose](https://open.spotify.com/album/28Dw2RCnixiHeRkWs1Qe85) | 2:59 | 2025-09-23 |  |
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2023-06-16 |  |
 | [Morning Rain](https://open.spotify.com/track/5imJcc13Fu59LGcxQKhQtp) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 3:06 | 2023-06-16 |  |
 | [Mosslight Rain](https://open.spotify.com/track/0fssBwzuKUh44oWOt3DTVU) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:12 | 2025-07-24 |  |
@@ -221,7 +222,7 @@
 | [Rainfall Retreat: Zen in Your Ears](https://open.spotify.com/track/1N4fgDLtBwOAm9a0IXUCuf) | [Low White Noise Mode](https://open.spotify.com/artist/31fNSvoD2B7BhKMvdgd1Pn) | [Drizzle Dreams: Sleep to the Sound of Rain](https://open.spotify.com/album/5EykfbEgCviCSoyv7i2h4V) | 2:36 | 2023-06-16 |  |
 | [Rainfall Reverberations: Melodic Rain Sounds](https://open.spotify.com/track/20HUGlsJXMHLAXkW5HDoav) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Tranquil Showers: Refreshing Rain Sounds](https://open.spotify.com/album/75Z3imNQxLfriwo9X5iWQv) | 2:30 | 2023-06-16 |  |
 | [Rainfall Symphony](https://open.spotify.com/track/45lICfV5vHF9zeVTsXoREP) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rainfall Symphony](https://open.spotify.com/album/21xYLPgL1tcmjJekVbq6UH) | 4:24 | 2024-03-21 |  |
-| [Rainforest Life](https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:38 | 2023-06-16 |  |
+| [Rainforest Life](https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:38 | 2023-06-16 | 2025-09-30 |
 | [Raining After Midnight](https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:20 | 2023-06-16 |  |
 | [Raining Coma](https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Heavy Due](https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx) | 3:00 | 2023-06-16 |  |
 | [raining for hours](https://open.spotify.com/track/3L1JHXiqNOJ57w3n2R3HyU) | [ame](https://open.spotify.com/artist/7htQnykNfk2Bu39bSw7owz) | [grey cloud](https://open.spotify.com/album/2Iyw159svPU1i8iNnHDIne) | 2:11 | 2023-06-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 283679,
+  "num_followers": 283709,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAF2GP5zOEGj4CtnbSoavtQ",
+  "snapshot_id": "aNh6gAAAAABiphKNWZQEVSrnElzvPz2U",
   "tracks": [
     {
       "added_at": null,
@@ -283,38 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bon Iver, Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Towers",
-      "url": "https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -335,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
       "artists": [
         {
@@ -344,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
     },
     {
       "added_at": null,
@@ -360,15 +328,15 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 225733,
-      "name": "Michicant",
-      "url": "https://open.spotify.com/track/43d83eCd7GzmVOKsLwV3QN"
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
       "artists": [
         {
@@ -376,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": null,
@@ -399,6 +367,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Michicant",
+      "url": "https://open.spotify.com/track/43d83eCd7GzmVOKsLwV3QN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bon Iver, Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+      "duration_ms": 256586,
+      "name": "Lost In The World",
+      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
     },
     {
       "added_at": null,
@@ -455,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
       "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 256586,
-      "name": "Lost In The World",
-      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 329266,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bon Iver, Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Perth",
-      "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Perth",
+      "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
     },
     {
       "added_at": null,

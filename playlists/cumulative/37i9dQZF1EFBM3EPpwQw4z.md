@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 8 hr 24 min
+145 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 | 2023-12-30 |  |
 | [Giver](https://open.spotify.com/track/0bT1k41qDD0fQUhlziToXT) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Dena Amy](https://open.spotify.com/artist/6A1M7uYGABvWsuIPrMaGLM) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:35 | 2023-12-30 |  |
 | [Goh \(feat\. KLP\)](https://open.spotify.com/track/0So66iJESFvaJn4qFqTtbr) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Not All The Beautiful Things](https://open.spotify.com/album/51kMEATKhcubCQXuIetiXk) | 3:35 | 2023-12-30 | 2025-07-24 |
+| [Gonna Make U](https://open.spotify.com/track/7xTyPF9xZIcCT99udCyfnt) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Gonna Make U](https://open.spotify.com/album/5SLJ2wooauWvIfQnwiRBAY) | 3:08 | 2025-09-29 |  |
 | [Good Morning](https://open.spotify.com/track/0xHzSnfmVCvc6rOfS2MIxV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:58 | 2023-12-30 |  |
 | [Hands \- Dcup Deep Bitch Remix](https://open.spotify.com/track/2QA6VgbU86I3iRSwVsT4ZE) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [Revolution \(Remixed\)](https://open.spotify.com/album/1Cl1yqiVaj9lQr5mD5I8M1) | 4:29 | 2023-12-30 | 2025-07-24 |
 | [Heater](https://open.spotify.com/track/7953uVZSJG2MJGYOrilJDr) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:53 | 2023-12-30 |  |

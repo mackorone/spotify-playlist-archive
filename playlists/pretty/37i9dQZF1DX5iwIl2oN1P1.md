@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: HLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,629 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,652 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 49 | [Better](https://open.spotify.com/track/70IMwY7Hj050abt9WU1ehm) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Better](https://open.spotify.com/album/5ynd96HmA6LQJpcmikv98l) | 4:00 |
 | 50 | [Yeshua](https://open.spotify.com/track/74jN4CqCZMW5notHs5UhNk) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [Pavilion](https://open.spotify.com/album/1r8AXPtdQd1YMXjyzT7cUk) | 5:18 |
 
-Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`
+Snapshot ID: `AAAAAGol8oCT+Zi8o7QJBGJBfBDOxHWJ`

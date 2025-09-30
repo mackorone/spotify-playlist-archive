@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from Classical New Releases in 2024\. Cover: Mao Fujita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,971 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,982 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

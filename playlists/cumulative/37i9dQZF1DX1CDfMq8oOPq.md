@@ -4,7 +4,7 @@
 
 > pior que coração é nutritivo, maru come td dia no almoço olha como ela tá
 
-321 songs - 15 hr 5 min
+322 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,12 +199,13 @@
 | [Negona](https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Negona](https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP) | 3:06 | 2023-12-01 | 2024-11-30 |
 | [Negra Tipo A](https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:34 | 2024-01-19 | 2024-03-30 |
 | [Neurose](https://open.spotify.com/track/30H19lwk43YYwrzpgKK9xz) | [Mika Mc](https://open.spotify.com/artist/7Dtyvrw9EwQcMgHuBaOZJn), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX) | [Neurose](https://open.spotify.com/album/1eq2mPYo4Pozh1a4sILQxg) | 2:34 | 2023-02-17 | 2023-04-01 |
+| [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 | 2025-09-29 |  |
 | [No Te Gusta](https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Limonnada](https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f) | 4:07 | 2023-10-13 | 2023-12-16 |
 | [No Topo](https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Topo](https://open.spotify.com/album/2Tq9t0VdZmmw6DO8HXJlDv) | 3:00 | 2023-04-28 | 2023-07-22 |
 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 | 2022-11-18 | 2023-04-22 |
 | [Novinho Chora](https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Novinho Chora](https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS) | 3:07 | 2024-03-22 | 2024-05-03 |
 | [Number One](https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 2:32 | 2025-08-29 |  |
-| [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 | 2024-11-15 |  |
+| [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 | 2024-11-15 | 2025-09-30 |
 | [Não Adianta Me Ligar](https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:25 | 2024-10-07 | 2024-10-12 |
 | [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 | 2022-10-08 |
 | [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 | 2022-11-04 | 2023-01-06 |

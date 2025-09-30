@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,256 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,255 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 24 | [celeste](https://open.spotify.com/track/1iuLKFUWDN536r1gaId4Z1) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [eigensinn](https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg) | 3:14 |
 | 25 | [moonlight](https://open.spotify.com/track/0A6B9yrbMJjZNEreNbBOWJ) | [Zynn](https://open.spotify.com/artist/2adrKQYFHzbdzK2v0lvrFL), [CALLMEJEI](https://open.spotify.com/artist/1guDeSAN1Uc8kDd0MElAPv) | [AERO](https://open.spotify.com/album/7jwnugdQrjECohVwGTLJxd) | 3:44 |
 | 26 | [It's Idea!](https://open.spotify.com/track/4T45ZddprMasJyLxvev08N) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [It's Idea!](https://open.spotify.com/album/3dqVbZ76WGAUZoGxSOU1J4) | 3:51 |
-| 27 | [BOYFRIEND, GIRLFRIEND](https://open.spotify.com/track/2rXwjkHSmazWqUXOjmNgJT) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU), [outside hire](https://open.spotify.com/artist/4I2Kmsx39bbPCIsPsp62TG) | [MARRY ME/BOYFRIEND, GIRLFRIEND](https://open.spotify.com/album/51IOwCookF2sZO0OXuDA8J) | 4:02 |
+| 27 | [BOYFRIEND, GIRLFRIEND](https://open.spotify.com/track/2rXwjkHSmazWqUXOjmNgJT) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU), [outside hire](https://open.spotify.com/artist/4I2Kmsx39bbPCIsPsp62TG), [PINKPINKPINK](https://open.spotify.com/artist/1bjEBBwkMcTfZhExBumZU7), [Spencer Mckay](https://open.spotify.com/artist/6Bg4Y5Ls08AD5mJSDqxJfA) | [MARRY ME/BOYFRIEND, GIRLFRIEND](https://open.spotify.com/album/51IOwCookF2sZO0OXuDA8J) | 4:02 |
 | 28 | [ESC \(feat\. Chloe Kae\)](https://open.spotify.com/track/01GnWl2wkSv6oASzkYp4cy) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9), [Chloe Kae](https://open.spotify.com/artist/0bXv4FgcOUyK12k0hgxRkK) | [ESC \(feat\. Chloe Kae\)](https://open.spotify.com/album/33oKoziO8AX0OdFBCgaKip) | 3:05 |
 | 29 | [COMMUNITY DICK](https://open.spotify.com/track/54YWrj8umQvttih4BWZ8Tv) | [HONEY B](https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W), [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24) | [COMMUNITY DICK](https://open.spotify.com/album/1ZB7zX2mQrMjAsTwTNF5sq) | 4:58 |
 | 30 | [full disk](https://open.spotify.com/track/73MTyhCYl2SMYaIXyfhJAK) | [O\-PNG](https://open.spotify.com/artist/04jzh7kDL2SB1fitEDrpWN) | [full disk](https://open.spotify.com/album/6oSKjImFzQSrUoGDzDMoqr) | 3:39 |

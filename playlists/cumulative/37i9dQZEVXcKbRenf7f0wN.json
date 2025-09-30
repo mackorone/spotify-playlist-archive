@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 224813,
       "name": "(Ghost) Riders in the Sky",
       "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 160333,
       "name": "A Well Respected Man",
       "url": "https://open.spotify.com/track/4fn4imVYZcfM5s4cSCDRTm"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 221133,
       "name": "Altogether",
       "url": "https://open.spotify.com/track/1I3f8tsoYbIPEgQ1TPvJPb"
@@ -4876,7 +4876,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 279666,
       "name": "Black No. 1 - Edit",
       "url": "https://open.spotify.com/track/4YXZa5AcYlFeV9zDCfNbSJ"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Bloody Cape",
       "url": "https://open.spotify.com/track/66ace8nbTVjgHTed107cDn"
@@ -5716,7 +5716,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 299786,
       "name": "Born To Raise Hell",
       "url": "https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS"
@@ -7596,7 +7596,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 114546,
       "name": "Chainsaw Massacre",
       "url": "https://open.spotify.com/track/2ji2uByd9KuqWzEy7zyXa3"
@@ -8270,7 +8270,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 128906,
       "name": "Code Blue",
       "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
@@ -9110,7 +9110,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 341533,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
@@ -10670,7 +10670,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 218080,
       "name": "Demons Are a Girl's Best Friend",
       "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
@@ -12438,7 +12438,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 104426,
       "name": "Drowned in Your Blood",
       "url": "https://open.spotify.com/track/4l4G8Th3nJpU9GMYgCs4BK"
@@ -14512,7 +14512,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 191066,
       "name": "Everybody's Happy Nowadays - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7xUEsVEwSSXhjgBgZG57Tl"
@@ -15560,7 +15560,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 177786,
       "name": "Florecita Rockera",
       "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
@@ -20831,6 +20831,24 @@
     },
     {
       "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "I'm the One - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2xS1lC45sjj60M1eeRsOUp"
+    },
+    {
+      "album": {
         "name": "Dos Dedos Mis Amigos",
         "url": "https://open.spotify.com/album/2ZWYbyMqlZZ8wyqe3GcJmz"
       },
@@ -22774,7 +22792,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 197080,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3zAT4htM49OptjvWwxyZMX"
@@ -27616,7 +27634,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 354408,
       "name": "Melody Lane",
       "url": "https://open.spotify.com/track/6lS2jdGhJvy0M1gDM8spDy"
@@ -28084,7 +28102,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 134933,
       "name": "Misirlou",
       "url": "https://open.spotify.com/track/7wWIhN947etKKsGOlcTgaH"
@@ -28654,7 +28672,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 210760,
       "name": "Movin' Out (Anthony's Song)",
       "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
@@ -29613,6 +29631,24 @@
     },
     {
       "album": {
+        "name": "Clear Hearts Grey Flowers",
+        "url": "https://open.spotify.com/album/7GmU3mfzXDwS68kpuFMczP"
+      },
+      "artists": [
+        {
+          "name": "Jack Off Jill",
+          "url": "https://open.spotify.com/artist/5ybsLFsFrRFXgdklfMryWD"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161819,
+      "name": "Nazi Halo",
+      "url": "https://open.spotify.com/track/0UwrQ4tgKCsLQoNUK9Dvrl"
+    },
+    {
+      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
@@ -29984,7 +30020,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 335613,
       "name": "New Year's Day - Remastered 2008",
       "url": "https://open.spotify.com/track/7IzLAli1EfsUYTLgfp4MvM"
@@ -30096,6 +30132,24 @@
       "duration_ms": 255866,
       "name": "Nie wierz\u0119 politykom",
       "url": "https://open.spotify.com/track/1mp5E3Q7cACcQAEhY6vxFU"
+    },
+    {
+      "album": {
+        "name": "Deaf Dumb Blind",
+        "url": "https://open.spotify.com/album/4jX8MTTsSVDVuuUgFMdW3n"
+      },
+      "artists": [
+        {
+          "name": "Clawfinger",
+          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227746,
+      "name": "Nigger",
+      "url": "https://open.spotify.com/track/1jGvgQkqQtNVj725vg26Ft"
     },
     {
       "album": {
@@ -30564,7 +30618,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 125653,
       "name": "No More Like That",
       "url": "https://open.spotify.com/track/7K3mac0IqCjLGmbZ47jOf9"
@@ -33182,7 +33236,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 198000,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O"
@@ -33684,6 +33738,24 @@
       "duration_ms": 191744,
       "name": "Please End Me",
       "url": "https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT"
+    },
+    {
+      "album": {
+        "name": "Pleasure to Kill",
+        "url": "https://open.spotify.com/album/1YTYZUIr11BAcbNzD7g3hd"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248766,
+      "name": "Pleasure to Kill",
+      "url": "https://open.spotify.com/track/0tiHUNPWw48fN6N1VIzczm"
     },
     {
       "album": {
@@ -34344,7 +34416,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 150826,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/5z2XqieaqxpCJc3ntZ6Ye3"
@@ -37108,7 +37180,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 151985,
       "name": "Scenario of Life",
       "url": "https://open.spotify.com/track/0gRnG9TjG1pQH8JzYnvbgU"
@@ -37756,7 +37828,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 209613,
       "name": "Set Me on Fire",
       "url": "https://open.spotify.com/track/4iwRcNfL0VqwUNtbSQ0hZL"
@@ -39262,7 +39334,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 198346,
       "name": "Slow Chemical",
       "url": "https://open.spotify.com/track/5kkFgrqzq4WV46z9d1hT16"
@@ -45560,7 +45632,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 254693,
       "name": "This Fire",
       "url": "https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj"
@@ -45578,7 +45650,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 200840,
       "name": "This Grotesque Dance",
       "url": "https://open.spotify.com/track/0PTtvb2693IfmfXCOjT1rp"
@@ -46018,7 +46090,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
@@ -46684,7 +46756,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 303333,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
@@ -48062,7 +48134,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 313213,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/5JHQnFsdxFCwqJze3z7hQJ"
@@ -49250,7 +49322,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 301592,
       "name": "Watch You Bleed",
       "url": "https://open.spotify.com/track/4JSLc69A3ZTrDOcd4E1pdI"
@@ -50832,7 +50904,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 253426,
       "name": "World of Shit",
       "url": "https://open.spotify.com/track/3DvTQI6kg1Wor3ZEKCssfO"
@@ -51642,7 +51714,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 277786,
       "name": "Zeitgeist",
       "url": "https://open.spotify.com/track/4HFRItYjNrcwT6Vbtbk2i4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
-  "num_followers": 240,
+  "num_followers": 241,
   "original_name": "This Is Cheli Madrid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAHaslaKX0fdaWhJPOt6h9v",
+  "snapshot_id": "aNh6gAAAAACP/ugRzCDrLLLdx8hDXSin",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuela Paloma",
-        "url": "https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 265856,
-      "name": "Vuela Paloma",
-      "url": "https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOS VALE MADRE",
         "url": "https://open.spotify.com/album/43NoqcA11wC5ZDw61N43Sc"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 174745,
       "name": "NOS VALE MADRE",
       "url": "https://open.spotify.com/track/7bcD0xvqzdOWB7KNd0xfCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuela Paloma",
+        "url": "https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 265856,
+      "name": "Vuela Paloma",
+      "url": "https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Alla del Sol",
+        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 202315,
+      "name": "Mas Alla del Sol",
+      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 193333,
       "name": "Pero Que Mal Me Fue",
       "url": "https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 209869,
-      "name": "Ac\u00e1 Entre Nos - En Vivo",
-      "url": "https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Alla del Sol",
-        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 202315,
-      "name": "Mas Alla del Sol",
-      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+      "duration_ms": 209869,
+      "name": "Ac\u00e1 Entre Nos - En Vivo",
+      "url": "https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Nomas Le Muevo - En Vivo",
-      "url": "https://open.spotify.com/track/6jd403Xv3p0N68i3R7UVCf"
+      "duration_ms": 186840,
+      "name": "Hoy Que Te Vas",
+      "url": "https://open.spotify.com/track/1XtVgG9OLArdsm0p5i5rVy"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 168096,
-      "name": "El Hubiera No Existe",
-      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
+      "duration_ms": 174666,
+      "name": "Nomas Le Muevo - En Vivo",
+      "url": "https://open.spotify.com/track/6jd403Xv3p0N68i3R7UVCf"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 173365,
-      "name": "Destino Cruel - En Vivo",
-      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+      "duration_ms": 168096,
+      "name": "El Hubiera No Existe",
+      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
     },
     {
       "added_at": null,
@@ -515,6 +515,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Adios Ranchero",
+        "url": "https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 196993,
+      "name": "El Adios Ranchero",
+      "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
@@ -524,9 +556,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Hoy Que Te Vas",
-      "url": "https://open.spotify.com/track/1XtVgG9OLArdsm0p5i5rVy"
+      "duration_ms": 202594,
+      "name": "Llegas",
+      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
     },
     {
       "added_at": null,
@@ -563,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+        "name": "Lo de Anoche",
+        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
       },
       "artists": [
         {
@@ -572,57 +620,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 198469,
-      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
-      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 202594,
-      "name": "Llegas",
-      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Adios Ranchero",
-        "url": "https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 196993,
-      "name": "El Adios Ranchero",
-      "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+      "duration_ms": 187750,
+      "name": "Lo de Anoche",
+      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo de Anoche",
-        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 187750,
-      "name": "Lo de Anoche",
-      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -671,6 +671,42 @@
       "duration_ms": 184074,
       "name": "Cuando El Destino - En Vivo",
       "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 235144,
+      "name": "Golpes En El Corazon (En Vivo)",
+      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Convences",
+        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "Me Convences",
+      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
     },
     {
       "added_at": null,
@@ -739,58 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Convences",
-        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "Me Convences",
-      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo (En Vivo)",
-        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
-      },
-      "artists": [
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        },
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 235144,
-      "name": "Golpes En El Corazon (En Vivo)",
-      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Adios Madre Querida - En Vivo",
-      "url": "https://open.spotify.com/track/2WpnSBSuhytZxhpqy4nrpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Causa Perdida",
         "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
       },
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 110116,
-      "name": "Dos Amores En Mi Vida - En Vivo",
-      "url": "https://open.spotify.com/track/7jp4rYlZ2cBEpRVZxeBoQe"
+      "duration_ms": 158641,
+      "name": "Adios Madre Querida - En Vivo",
+      "url": "https://open.spotify.com/track/2WpnSBSuhytZxhpqy4nrpp"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 161621,
       "name": "Coraz\u00f3n De Oropel - En Vivo",
       "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 206058,
+      "name": "Besos de Papel - En Vivo",
+      "url": "https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Itsumo",
+        "url": "https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251477,
+      "name": "Itsumo",
+      "url": "https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw"
+    },
+    {
+      "album": {
         "name": "Itterasshai",
         "url": "https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd"
       },

@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Annalisa e Marco Mengoni in cover
 
-388 songs - 19 hr 48 min
+389 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bubble Gum \(버블검\)](https://open.spotify.com/track/7KMYf7i5JwMCCeHbL8fC7S) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bubble Gum \(버블검\)](https://open.spotify.com/album/0cMJ5tzbMwfZqNevuAI6he) | 2:49 | 2025-06-05 | 2025-08-29 |
 | [buia](https://open.spotify.com/track/3wcWAwF5Rw7SdTYWN7EV8k) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [buia](https://open.spotify.com/album/4RFfOBgfwHeIbf4k99PTOd) | 2:49 | 2025-09-18 |  |
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-09-19 | 2025-06-20 |
+| [Buon trasloco](https://open.spotify.com/track/3QLMlVX2QydtebrLV5vK2G) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 4:20 | 2025-09-29 |  |
 | [CABARET](https://open.spotify.com/track/3gY37Od3abC7qOZoWHbsur) | [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [CABARET](https://open.spotify.com/album/7ysUidKVotdITc3h65MTAa) | 2:57 | 2025-06-26 | 2025-08-15 |
 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 | 2024-07-01 | 2024-09-24 |
 | [CANI RANDAGI](https://open.spotify.com/track/2m3Xb1dRie5ub8L2x1A6BL) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CANI RANDAGI](https://open.spotify.com/album/6nbm2pPp2oO6G5TB8rGewU) | 2:54 | 2025-04-10 | 2025-05-09 |
@@ -104,7 +105,7 @@
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-07-01 | 2024-07-12 |
 | [Dea Saffica](https://open.spotify.com/track/6Fm3dU9ZwAliTadrs8HBzL) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Dea Saffica](https://open.spotify.com/album/682OwV08MCYCXR6sYR8xnt) | 2:33 | 2024-07-01 | 2024-07-19 |
 | [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-05 | 2025-03-21 |
-| [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 | 2025-05-22 |  |
+| [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 | 2025-05-22 | 2025-09-30 |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-07-01 | 2024-10-25 |
 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 | 2025-04-03 | 2025-05-02 |
 | [Dillo Solo Al Buio](https://open.spotify.com/track/2Om8fOpJjFtSn7MGdj3aen) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dillo Solo Al Buio](https://open.spotify.com/album/5DaUWuCz3CUye1DFBaD25T) | 3:45 | 2024-11-14 | 2025-04-04 |

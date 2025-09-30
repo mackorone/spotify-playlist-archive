@@ -2,7 +2,7 @@
 
 ### [Happy Stroll \- 音楽と散歩 \- ](https://open.spotify.com/playlist/37i9dQZF1DWWS0ll5RduHB)
 
-> 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。cover: 藤井 風
+> 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
 128 songs - 7 hr 23 min
 

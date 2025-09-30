@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: NMIXX &Pabllo Vittar)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: TZUYU, Corbyn Besson)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -116,6 +116,28 @@
       "duration_ms": 181175,
       "name": "4 Letters",
       "url": "https://open.spotify.com/track/66bhW33qGtoNu3LQM5W70Z"
+    },
+    {
+      "album": {
+        "name": "CxM 1st Mini Album \u2018HYPE VIBES\u2019",
+        "url": "https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55"
+      },
+      "artists": [
+        {
+          "name": "CxM",
+          "url": "https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "5, 4, 3 (Pretty woman) (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq"
     },
     {
       "album": {
@@ -640,7 +662,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
@@ -800,6 +822,28 @@
       "duration_ms": 234626,
       "name": "Better Half (feat. Omoinotake)",
       "url": "https://open.spotify.com/track/1beUALLSloBEvYre65QiW6"
+    },
+    {
+      "album": {
+        "name": "Blink (feat. TZUYU)",
+        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162092,
+      "name": "Blink (feat. TZUYU)",
+      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
     },
     {
       "album": {
@@ -1080,7 +1124,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 193400,
       "name": "C'mon (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"

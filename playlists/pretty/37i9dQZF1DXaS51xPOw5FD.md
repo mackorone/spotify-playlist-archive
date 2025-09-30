@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,548 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,549 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 94 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 |
 | 95 | [Settle](https://open.spotify.com/track/6pDeV5DiST952oRhDUQghN) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Settle](https://open.spotify.com/album/5jURie0Y721Kke4KXMw5pG) | 4:04 |
 | 96 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 |
-| 97 | [Owe It All To You](https://open.spotify.com/track/4rnQDR4LkCVeTN85wiPByY) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Owe It All To You](https://open.spotify.com/album/31D5KFyavZz9dMCF08ARJl) | 2:42 |
-| 98 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
-| 99 | [These Are The Days](https://open.spotify.com/track/6X4VJwhPhAbpgEMqCuHcl9) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [These Are The Days](https://open.spotify.com/album/6qKWvolh88jomkOHHv35Db) | 4:00 |
+| 97 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
+| 98 | [These Are The Days](https://open.spotify.com/track/6X4VJwhPhAbpgEMqCuHcl9) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [These Are The Days](https://open.spotify.com/album/6qKWvolh88jomkOHHv35Db) | 4:00 |
+| 99 | [Owe It All To You](https://open.spotify.com/track/4rnQDR4LkCVeTN85wiPByY) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Owe It All To You](https://open.spotify.com/album/31D5KFyavZz9dMCF08ARJl) | 2:42 |
 | 100 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 
 Snapshot ID: `AAAAAPHy9g0qJoxRCopUVPKhFisBZv4d`

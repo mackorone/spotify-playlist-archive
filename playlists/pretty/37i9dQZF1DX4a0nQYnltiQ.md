@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,522 likes - 83 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,351 likes - 83 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

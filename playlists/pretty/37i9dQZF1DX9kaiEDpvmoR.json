@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93674,
+  "num_followers": 93672,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 166432,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
         "name": "Liquid Courage",
         "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
       },
@@ -303,6 +283,42 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 166432,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
         "name": "Ingen vet",
         "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "EXISTENS",
-        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "EXISTENS",
-      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -351,18 +351,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -403,22 +403,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Stardust / The Whole Woman",
-        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
       },
       "artists": [
         {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
         }
       ],
-      "duration_ms": 258146,
-      "name": "The Whole Woman",
-      "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -439,18 +435,22 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+        "name": "Stardust / The Whole Woman",
+        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
       },
       "artists": [
         {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
+      "duration_ms": 258146,
+      "name": "The Whole Woman",
+      "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -559,34 +559,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Springer Ikapp",
-        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 214033,
-      "name": "Springer ikapp",
-      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 345866,
-      "name": "Unsatisfied Heart",
-      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -607,18 +591,34 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
+        "name": "Springer Ikapp",
+        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "Springer ikapp",
+      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "\u00c4r det upp till dig och mig",
-        "url": "https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd"
-      },
-      "artists": [
-        {
-          "name": "Jakob Hellman",
-          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
-        }
-      ],
-      "duration_ms": 265786,
-      "name": "\u00c4r det upp till dig och mig",
-      "url": "https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
+        "name": "\u00c4r det upp till dig och mig",
+        "url": "https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd"
+      },
+      "artists": [
+        {
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+        }
+      ],
+      "duration_ms": 265786,
+      "name": "\u00c4r det upp till dig och mig",
+      "url": "https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
         "name": "ICONIC EP",
         "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 158133,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "N\u00e5gonting som aldrig h\u00e4nt",
-        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 181829,
-      "name": "N\u00e5gonting som aldrig h\u00e4nt",
-      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+        "name": "N\u00e5gonting som aldrig h\u00e4nt",
+        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
       },
       "artists": [
         {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 324360,
-      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
+      "duration_ms": 181829,
+      "name": "N\u00e5gonting som aldrig h\u00e4nt",
+      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -883,6 +883,22 @@
       "duration_ms": 218800,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
+        "name": "V\u00e5r b\u00e4sta tid",
+        "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
+      },
+      "artists": [
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 216511,
+      "name": "V\u00e5r b\u00e4sta tid",
+      "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -915,22 +931,6 @@
       "duration_ms": 200053,
       "name": "Lilla livet",
       "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "V\u00e5r b\u00e4sta tid",
-        "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
-      },
-      "artists": [
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 216511,
-      "name": "V\u00e5r b\u00e4sta tid",
-      "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
+        "name": "Benjamin (From the TV series 'Etter Benjamin')",
+        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Benjamin - From the TV series 'Etter Benjamin'",
+      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
         "name": "The Spectrum of Love",
         "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
       },
@@ -1095,34 +1111,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Benjamin (From the TV series 'Etter Benjamin')",
-        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+        "name": "Mjuk extas",
+        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Benjamin - From the TV series 'Etter Benjamin'",
-      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "Know You've Been Loved",
-        "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 216594,
-      "name": "Know You've Been Loved",
-      "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+      "duration_ms": 271874,
+      "name": "L\u00e4gg den h\u00e4r, bredvid min",
+      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1143,6 +1143,38 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
+        "name": "Know You've Been Loved",
+        "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "duration_ms": 216594,
+      "name": "Know You've Been Loved",
+      "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
       },
@@ -1155,22 +1187,6 @@
       "duration_ms": 263360,
       "name": "Stillhet",
       "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "Mjuk extas",
-        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 271874,
-      "name": "L\u00e4gg den h\u00e4r, bredvid min",
-      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
       "artists": [
         {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1283,22 +1299,18 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "Graven vid Gullmars",
-        "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
       },
       "artists": [
         {
-          "name": "Mira Ray",
-          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
         }
       ],
-      "duration_ms": 299098,
-      "name": "Graven vid Gullmars",
-      "url": "https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv"
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1319,34 +1331,22 @@
     {
       "added_at": "2025-09-25 22:00:22",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+        "name": "Graven vid Gullmars",
+        "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
       },
       "artists": [
         {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
+          "name": "Mira Ray",
+          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
+        },
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+      "duration_ms": 299098,
+      "name": "Graven vid Gullmars",
+      "url": "https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1363,6 +1363,26 @@
       "duration_ms": 149153,
       "name": "K\u00e4rleken \u00e4r kung",
       "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
+    },
+    {
+      "added_at": "2025-09-25 22:00:22",
+      "album": {
+        "name": "Sk\u00f6nheten och odjuret",
+        "url": "https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        },
+        {
+          "name": "Linus Wahlgren",
+          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "Sk\u00f6nheten och odjuret",
+      "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
     },
     {
       "added_at": "2025-09-25 22:00:22",
@@ -1395,26 +1415,6 @@
       "duration_ms": 167093,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN"
-    },
-    {
-      "added_at": "2025-09-25 22:00:22",
-      "album": {
-        "name": "Sk\u00f6nheten och odjuret",
-        "url": "https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO"
-      },
-      "artists": [
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        },
-        {
-          "name": "Linus Wahlgren",
-          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "Sk\u00f6nheten och odjuret",
-      "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
     },
     {
       "added_at": "2025-09-25 22:00:22",

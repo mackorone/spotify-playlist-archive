@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Capo Plaza in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,268 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,284 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [SEI PERSA](https://open.spotify.com/track/3smgQO8B4MQK6bbBrfHEX6) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 2:58 |
 | 50 | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/album/0rywnZls7YOlHPcipdSmAq) | 2:50 |
 
-Snapshot ID: `AAAAAIMxxQEWZGqGbw68Hf0rWTsccw+J`
+Snapshot ID: `AAAAAP5rjgqmAbBlF2PDV7Wu6pcHH2Bm`

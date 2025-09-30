@@ -1,18 +1,18 @@
 {
-  "description": "With winterburn, Leblanc, After Cooking and more",
-  "num_followers": 5112,
+  "description": "With winterburn, Leblanc, Birrd and more",
+  "num_followers": 5115,
   "original_name": "Klangphonics Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHqNpTvFLhHcl/Yway64Sxh7OHKH",
+  "snapshot_id": "AAAAAMi9vyMqmlC2GITtp+JOb+NMTbSR",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Holocene, Pt. II",
-        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
+        "name": "Songs to Try",
+        "url": "https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 414600,
-      "name": "Holocene, Pt. II",
-      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "u n k n o w n",
-        "url": "https://open.spotify.com/album/2auEr9CC9UHr8FXAa3NblU"
-      },
-      "artists": [
-        {
-          "name": "winterburn",
-          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "u n k n o w n",
-      "url": "https://open.spotify.com/track/6ZMjxnnITDHlawzFbMaDyt"
+      "duration_ms": 498640,
+      "name": "Great Plains",
+      "url": "https://open.spotify.com/track/2ZxcZhExAOda6PMI7P1l3u"
     },
     {
       "added_at": null,
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "u n k n o w n",
+        "url": "https://open.spotify.com/album/2auEr9CC9UHr8FXAa3NblU"
+      },
+      "artists": [
+        {
+          "name": "winterburn",
+          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "u n k n o w n",
+      "url": "https://open.spotify.com/track/6ZMjxnnITDHlawzFbMaDyt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sources",
         "url": "https://open.spotify.com/album/7CgkMkiwG5Vf5UHAGZPdDT"
       },
@@ -75,88 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water Waves",
-        "url": "https://open.spotify.com/album/6OWACrgRErjbbcEOwv9rQW"
-      },
-      "artists": [
-        {
-          "name": "After Cooking",
-          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Water Waves",
-      "url": "https://open.spotify.com/track/6LDsKCfIoxcyUXthWn5iYW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs to Try",
-        "url": "https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 498640,
-      "name": "Great Plains",
-      "url": "https://open.spotify.com/track/2ZxcZhExAOda6PMI7P1l3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Syamo",
-        "url": "https://open.spotify.com/album/1fp5VOyTSZXrfOiZyDSJFh"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3HnWv0RHxCHGxqSqbZmJjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "master of your mind",
-        "url": "https://open.spotify.com/album/0R6PsBvUrayDLPKDdFSj7K"
-      },
-      "artists": [
-        {
-          "name": "winterburn",
-          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "master of your mind",
-      "url": "https://open.spotify.com/track/1r7RmUpYjTSJUhbTPNcF9z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/0tVYTAD2f4aHk9S1ayjsTi"
-      },
-      "artists": [
-        {
-          "name": "Leblanc",
-          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
-        }
-      ],
-      "duration_ms": 142496,
-      "name": "Ouverture",
-      "url": "https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/4i1OEx11jjhWWBt3PWVnq8"
+        "name": "Alter Echo",
+        "url": "https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu"
       },
       "artists": [
         {
@@ -164,15 +84,15 @@
           "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
         }
       ],
-      "duration_ms": 245542,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
+      "duration_ms": 272156,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+        "name": "Holocene, Pt. II",
+        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
       },
       "artists": [
         {
@@ -180,105 +100,9 @@
           "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sources",
-        "url": "https://open.spotify.com/album/7CgkMkiwG5Vf5UHAGZPdDT"
-      },
-      "artists": [
-        {
-          "name": "GONE",
-          "url": "https://open.spotify.com/artist/4pKLG10xJBXQ5SWhBmcT8J"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Premier contact",
-      "url": "https://open.spotify.com/track/3fJPlwDCvx3dyKIoaSeANr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18"
-      },
-      "artists": [
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Pulsing",
-      "url": "https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i think i'm everything",
-        "url": "https://open.spotify.com/album/2nWFyhIJBDNqzAClAys3JC"
-      },
-      "artists": [
-        {
-          "name": "winterburn",
-          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "what a day",
-      "url": "https://open.spotify.com/track/0QWzeUKqTxgvs9eLK9J9TS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cornfield Chase",
-        "url": "https://open.spotify.com/album/4jwRKEl2N6RyKIeORApasG"
-      },
-      "artists": [
-        {
-          "name": "Leblanc",
-          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Cornfield Chase",
-      "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs to Try",
-        "url": "https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 414950,
-      "name": "Dendrometry",
-      "url": "https://open.spotify.com/track/7M1n5q7YmHCa3GtvaP3rtY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
-        "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
-      },
-      "artists": [
-        {
-          "name": "Paul Sabin",
-          "url": "https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S"
-        }
-      ],
-      "duration_ms": 412631,
-      "name": "The White Duke",
-      "url": "https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT"
+      "duration_ms": 414600,
+      "name": "Holocene, Pt. II",
+      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
     },
     {
       "added_at": null,
@@ -299,24 +123,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/5GxVG9MEdZnwiYyN2oEIQP"
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/0tVYTAD2f4aHk9S1ayjsTi"
       },
       "artists": [
         {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
         }
       ],
-      "duration_ms": 274851,
-      "name": "Samothrace",
-      "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
+      "duration_ms": 142496,
+      "name": "Ouverture",
+      "url": "https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "rise//ruin",
-        "url": "https://open.spotify.com/album/5xYp38Ban4HNY4bHrAMIL0"
+        "name": "master of your mind",
+        "url": "https://open.spotify.com/album/0R6PsBvUrayDLPKDdFSj7K"
       },
       "artists": [
         {
@@ -324,9 +148,189 @@
           "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
         }
       ],
-      "duration_ms": 191250,
-      "name": "rise//ruin",
-      "url": "https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd"
+      "duration_ms": 165120,
+      "name": "master of your mind",
+      "url": "https://open.spotify.com/track/1r7RmUpYjTSJUhbTPNcF9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
+        "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
+      },
+      "artists": [
+        {
+          "name": "Paul Sabin",
+          "url": "https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S"
+        }
+      ],
+      "duration_ms": 412631,
+      "name": "The White Duke",
+      "url": "https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/4i1OEx11jjhWWBt3PWVnq8"
+      },
+      "artists": [
+        {
+          "name": "Birrd",
+          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
+        }
+      ],
+      "duration_ms": 245542,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Syamo",
+        "url": "https://open.spotify.com/album/1fp5VOyTSZXrfOiZyDSJFh"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3HnWv0RHxCHGxqSqbZmJjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cornfield Chase",
+        "url": "https://open.spotify.com/album/4jwRKEl2N6RyKIeORApasG"
+      },
+      "artists": [
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i think i'm everything",
+        "url": "https://open.spotify.com/album/2nWFyhIJBDNqzAClAys3JC"
+      },
+      "artists": [
+        {
+          "name": "winterburn",
+          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "what a day",
+      "url": "https://open.spotify.com/track/0QWzeUKqTxgvs9eLK9J9TS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs to Try",
+        "url": "https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 414950,
+      "name": "Dendrometry",
+      "url": "https://open.spotify.com/track/7M1n5q7YmHCa3GtvaP3rtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sources",
+        "url": "https://open.spotify.com/album/7CgkMkiwG5Vf5UHAGZPdDT"
+      },
+      "artists": [
+        {
+          "name": "GONE",
+          "url": "https://open.spotify.com/artist/4pKLG10xJBXQ5SWhBmcT8J"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Premier contact",
+      "url": "https://open.spotify.com/track/3fJPlwDCvx3dyKIoaSeANr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
+        "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
+      },
+      "artists": [
+        {
+          "name": "Paul Sabin",
+          "url": "https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S"
+        }
+      ],
+      "duration_ms": 169189,
+      "name": "Sirene",
+      "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die Eisbraut (Leblanc Remix)",
+        "url": "https://open.spotify.com/album/43BqIUsaOrQyGmQg6CKZdU"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        },
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        }
+      ],
+      "duration_ms": 190525,
+      "name": "Die Eisbraut - Leblanc Remix",
+      "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Bond",
+        "url": "https://open.spotify.com/album/3bXmV7vPWqOi57DDzpLDtD"
+      },
+      "artists": [
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Eternal Bond",
+      "url": "https://open.spotify.com/track/0B2GF5eu7ODZfyY5EE25EI"
     },
     {
       "added_at": null,
@@ -351,50 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alter Echo",
-        "url": "https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu"
+        "name": "you are not like the others",
+        "url": "https://open.spotify.com/album/2eXq8ZazenrhwO2PInwnui"
       },
       "artists": [
         {
-          "name": "Birrd",
-          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
+          "name": "winterburn",
+          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
         }
       ],
-      "duration_ms": 272156,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down The Line",
-        "url": "https://open.spotify.com/album/5JLcRWNMxaeviaa9dA9zlE"
-      },
-      "artists": [
-        {
-          "name": "After Cooking",
-          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Down The Line",
-      "url": "https://open.spotify.com/track/3scWnhahRG6x0Ul4bn1L62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contagious",
-        "url": "https://open.spotify.com/album/6soKatxMxJdAuzC6eOAT7b"
-      },
-      "artists": [
-        {
-          "name": "3x3cute",
-          "url": "https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP"
-        }
-      ],
-      "duration_ms": 160350,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
+      "duration_ms": 223125,
+      "name": "you are not like the others",
+      "url": "https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g"
     },
     {
       "added_at": null,
@@ -415,6 +387,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/6soKatxMxJdAuzC6eOAT7b"
+      },
+      "artists": [
+        {
+          "name": "3x3cute",
+          "url": "https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP"
+        }
+      ],
+      "duration_ms": 160350,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Pulsing",
+      "url": "https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs to Try",
         "url": "https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX"
       },
@@ -431,8 +435,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "you are not like the others",
-        "url": "https://open.spotify.com/album/2eXq8ZazenrhwO2PInwnui"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6UTx58NB7eREXbm49R0E0S"
+      },
+      "artists": [
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        }
+      ],
+      "duration_ms": 246045,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/6r6dx1lVXkRHgTgHA1eTaT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rise//ruin",
+        "url": "https://open.spotify.com/album/5xYp38Ban4HNY4bHrAMIL0"
       },
       "artists": [
         {
@@ -440,77 +460,9 @@
           "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
         }
       ],
-      "duration_ms": 223125,
-      "name": "you are not like the others",
-      "url": "https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes in The Dark",
-        "url": "https://open.spotify.com/album/1tCx49k8PdrWYLluyIUtyv"
-      },
-      "artists": [
-        {
-          "name": "Monomy",
-          "url": "https://open.spotify.com/artist/68I4mR4qyPQTJjvfG6YBUG"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Echoes in The Dark",
-      "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tamasuk",
-        "url": "https://open.spotify.com/album/7ETwuyj6v42cSOopNBVWb3"
-      },
-      "artists": [
-        {
-          "name": "After Cooking",
-          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
-        },
-        {
-          "name": "INTI AVINA",
-          "url": "https://open.spotify.com/artist/7jzYJ1ZPhvCKKbn9YQ2p73"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Tamasuk",
-      "url": "https://open.spotify.com/track/2Ht3FbzLZxoZjT7gQRcG6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ySsbBRUQH3aHHnPesNlS7"
-      },
-      "artists": [
-        {
-          "name": "3x3cute",
-          "url": "https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP"
-        }
-      ],
-      "duration_ms": 140485,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Opposure",
-        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 373750,
-      "name": "Free (My Mind)",
-      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
+      "duration_ms": 191250,
+      "name": "rise//ruin",
+      "url": "https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd"
     },
     {
       "added_at": null,
@@ -531,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "u n k n o w n",
-        "url": "https://open.spotify.com/album/2auEr9CC9UHr8FXAa3NblU"
-      },
-      "artists": [
-        {
-          "name": "winterburn",
-          "url": "https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "crush as you burn",
-      "url": "https://open.spotify.com/track/5t6uN7HfHFlooRP005c5pi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/66BjO16RjKLLohIOsfCpnx"
       },
@@ -563,24 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brainstorm",
-        "url": "https://open.spotify.com/album/5lOiWu7EBQX9KIoUdkd7nf"
-      },
-      "artists": [
-        {
-          "name": "After Cooking",
-          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Brainstorm",
-      "url": "https://open.spotify.com/track/5raWNsK4qXHNBAeTyyAzdF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Laminar (Moonbootica Remix)",
-        "url": "https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD"
+        "name": "Perfect Opposure",
+        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
       },
       "artists": [
         {
@@ -588,81 +508,77 @@
           "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         },
         {
-          "name": "Moonbootica",
-          "url": "https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf"
+          "name": "BR\u00d8R",
+          "url": "https://open.spotify.com/artist/07UPjICGizU8glJbzyKxax"
         }
       ],
-      "duration_ms": 395874,
-      "name": "Laminar - Moonbootica Remix",
-      "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
+      "duration_ms": 300687,
+      "name": "You Know (We Won't Remember)",
+      "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "DIA (Birrd Rework)",
-        "url": "https://open.spotify.com/album/2XJwsBMAwyTXusAghgcFot"
+        "name": "Water Waves",
+        "url": "https://open.spotify.com/album/6OWACrgRErjbbcEOwv9rQW"
       },
       "artists": [
         {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        },
-        {
-          "name": "Birrd",
-          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
+          "name": "After Cooking",
+          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
         }
       ],
-      "duration_ms": 221317,
-      "name": "DIA - Birrd Rework",
-      "url": "https://open.spotify.com/track/3P6EZuulylLhdPtyP6x8LN"
+      "duration_ms": 184373,
+      "name": "Water Waves",
+      "url": "https://open.spotify.com/track/6LDsKCfIoxcyUXthWn5iYW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wind Runner",
-        "url": "https://open.spotify.com/album/5OfVPJqY5m7O2yM62NE2Gq"
+        "name": "Echoes in The Dark",
+        "url": "https://open.spotify.com/album/1tCx49k8PdrWYLluyIUtyv"
       },
       "artists": [
         {
-          "name": "Douran",
-          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
+          "name": "Monomy",
+          "url": "https://open.spotify.com/artist/68I4mR4qyPQTJjvfG6YBUG"
         }
       ],
-      "duration_ms": 242705,
-      "name": "Blind Sun",
-      "url": "https://open.spotify.com/track/2Yd4m4c0ZlKrFYfJ1wUxMX"
+      "duration_ms": 150500,
+      "name": "Echoes in The Dark",
+      "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "To the Other Side",
-        "url": "https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij"
+        "name": "La Dibona",
+        "url": "https://open.spotify.com/album/3r5LEiMFCNcGaZbDT2a5vl"
       },
       "artists": [
         {
-          "name": "This Other Space",
-          "url": "https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT"
+          "name": "Traf",
+          "url": "https://open.spotify.com/artist/3M1kdGJP7DlEBGPb1JtKJX"
         }
       ],
-      "duration_ms": 198458,
-      "name": "To the Other Side",
-      "url": "https://open.spotify.com/track/0WQvuT8ShwwdwCAy86vjvA"
+      "duration_ms": 307441,
+      "name": "La Dibona",
+      "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Deep in Fear",
-        "url": "https://open.spotify.com/album/7piVU3jBHKLHYS9PYONaQ1"
+        "name": "No Tribe",
+        "url": "https://open.spotify.com/album/0vhCO6SmR9v2xZhgfnm6F7"
       },
       "artists": [
         {
-          "name": "Nightwhisper",
-          "url": "https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa"
+          "name": "Olik",
+          "url": "https://open.spotify.com/artist/0ccwI3VWnx2sRbJ0o6bZ0m"
         }
       ],
-      "duration_ms": 131733,
-      "name": "Deep in Fear",
-      "url": "https://open.spotify.com/track/0vxJ563j2MOSGDDQYsUopv"
+      "duration_ms": 299514,
+      "name": "No Tribe",
+      "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
     },
     {
       "added_at": null,
@@ -687,18 +603,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/6RTG5PxMSB0KnBNzvGRNiP"
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/5GxVG9MEdZnwiYyN2oEIQP"
       },
       "artists": [
         {
-          "name": "MOWYA",
-          "url": "https://open.spotify.com/artist/6CCcq0brjtvZsOHV5jb4S0"
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
         }
       ],
-      "duration_ms": 130203,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/4EfQBE1xUSen1EOHps2etR"
+      "duration_ms": 274851,
+      "name": "Samothrace",
+      "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brainstorm",
+        "url": "https://open.spotify.com/album/5lOiWu7EBQX9KIoUdkd7nf"
+      },
+      "artists": [
+        {
+          "name": "After Cooking",
+          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Brainstorm",
+      "url": "https://open.spotify.com/track/5raWNsK4qXHNBAeTyyAzdF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Philosophy of Time",
+        "url": "https://open.spotify.com/album/7p7E77Hwo9Vz8grJLzaHaQ"
+      },
+      "artists": [
+        {
+          "name": "Hollt",
+          "url": "https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Philosophy of Time",
+      "url": "https://open.spotify.com/track/3ckK6IH8kxuUyrkVksp6Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Galaxies",
+        "url": "https://open.spotify.com/album/3BwffTlR5adgasBxmZVcWs"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        }
+      ],
+      "duration_ms": 310942,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Laminar",
+        "url": "https://open.spotify.com/album/5OL2ld2GERvCSirYeFkWJi"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 362449,
+      "name": "Laminar",
+      "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
     },
     {
       "added_at": null,
@@ -715,6 +695,22 @@
       "duration_ms": 174193,
       "name": "Sweet Moment",
       "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/6UfEMyOQo8tiTbnvJUza3d"
+      },
+      "artists": [
+        {
+          "name": "Franky Klassen",
+          "url": "https://open.spotify.com/artist/3e4RLmsGQOYIdeXnRTvygH"
+        }
+      ],
+      "duration_ms": 201171,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/3Mnf4786O6XPDSsAO9TdLO"
     },
     {
       "added_at": null,
@@ -758,79 +754,79 @@
         {
           "name": "Klangphonics",
           "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 373750,
+      "name": "Free (My Mind)",
+      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/1oQpfbbTQkUP5S53xPhWe7"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/5VrX2D9vVses20gktDdU4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/0jPFmiXCh1Ef5Ngv2C6DIM"
+      },
+      "artists": [
+        {
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
         },
         {
-          "name": "Anna Metko",
-          "url": "https://open.spotify.com/artist/5tRkZWpev6swx7Nl5cRe2r"
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
         }
       ],
-      "duration_ms": 366512,
-      "name": "Ghost (Find Me Again)",
-      "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
+      "duration_ms": 291303,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/4Z9Q1zcIHuENnzF2wYOQxR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Tribe",
-        "url": "https://open.spotify.com/album/0vhCO6SmR9v2xZhgfnm6F7"
+        "name": "Deep in Fear",
+        "url": "https://open.spotify.com/album/7piVU3jBHKLHYS9PYONaQ1"
       },
       "artists": [
         {
-          "name": "Olik",
-          "url": "https://open.spotify.com/artist/0ccwI3VWnx2sRbJ0o6bZ0m"
+          "name": "Nightwhisper",
+          "url": "https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa"
         }
       ],
-      "duration_ms": 299514,
-      "name": "No Tribe",
-      "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
+      "duration_ms": 131733,
+      "name": "Deep in Fear",
+      "url": "https://open.spotify.com/track/0vxJ563j2MOSGDDQYsUopv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "In A Blurry World",
-        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/1ysY3tn5ZswPstrcIaTHZz"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Birrd",
+          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
         }
       ],
-      "duration_ms": 347680,
-      "name": "In A Blurry World",
-      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philosophy of Time",
-        "url": "https://open.spotify.com/album/7p7E77Hwo9Vz8grJLzaHaQ"
-      },
-      "artists": [
-        {
-          "name": "Hollt",
-          "url": "https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Philosophy of Time",
-      "url": "https://open.spotify.com/track/3ckK6IH8kxuUyrkVksp6Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
+      "duration_ms": 283453,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/5U1jtvuBkX5PdCWK5JdYt1"
     }
   ],
   "unique_name": "Klangphonics Radio",

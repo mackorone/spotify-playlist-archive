@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 118160,
+  "num_followers": 118175,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAACOku3RreOld/wcDRodr5Y+",
+  "snapshot_id": "aNh6gAAAAABAJtkY1gjg6WJyKOv4+sEo",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 313167,
       "name": "Who Believes In Angels?",
       "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "added_at": null,
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 268573,
-      "name": "Sugartooth",
-      "url": "https://open.spotify.com/track/3jkQiPGU9T3A0KLfFoiPH8"
+      "duration_ms": 283586,
+      "name": "Fulton County Jane Doe",
+      "url": "https://open.spotify.com/track/67QNn7OMBtCRnLPG8ZUv62"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

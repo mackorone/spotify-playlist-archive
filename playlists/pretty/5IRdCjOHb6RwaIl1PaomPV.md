@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,777 likes - 100 songs - 5 hr 42 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,770 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 20 | [choke enough \(jamesjamesjames remix\)](https://open.spotify.com/track/5sjv7SJb257ml19zGpOQYk) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [choke enough \(remixes\)](https://open.spotify.com/album/2HLVIJuBYm1SzuTZP40RUL) | 5:44 |
 | 21 | [Ocean Apart](https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 3:11 |
 | 22 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
-| 23 | [Illegal \- Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal \(Nia Archives Remix\)](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 |
+| 23 | [Illegal + Nia Archives](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal + Nia Archives](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 |
 | 24 | [Nova](https://open.spotify.com/track/3hLfifIpMTrw1VKqfcBhGa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Nova](https://open.spotify.com/album/2kseeZVin6wA2vOCOmWlr9) | 5:55 |
 | 25 | [5ever](https://open.spotify.com/track/0vHSuXgncuehd9GdKD2thJ) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR) | [5ever](https://open.spotify.com/album/0IxIKvL0AIkvFohs9TEgpS) | 2:47 |
 | 26 | [PAUSE](https://open.spotify.com/track/2KBcbM9t4AhnzuDFWXgxjY) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [PAUSE](https://open.spotify.com/album/50c1nz74rz07dgXW30TYaY) | 5:18 |

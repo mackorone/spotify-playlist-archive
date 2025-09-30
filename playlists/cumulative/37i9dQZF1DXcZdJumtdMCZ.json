@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Bangoma",
+        "url": "https://open.spotify.com/album/2HcXRfcsvwne1GQeSIIeTV"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "Bangoma",
+      "url": "https://open.spotify.com/track/7ywASFRTukqg9kzX3gMfa6"
+    },
+    {
+      "album": {
         "name": "Aadhi Bhagavan",
         "url": "https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9"
       },

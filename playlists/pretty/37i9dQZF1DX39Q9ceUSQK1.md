@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Glitterpaard
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,762 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,763 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quiet Boys](https://open.spotify.com/track/1sNL7NZPkrn7zGF7ai5Dnv) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Thursday](https://open.spotify.com/album/7hzFaE1FPdV7JMwpTOuLbh) | 3:05 |
-| 2 | [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 |
-| 3 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 4 | [Cool Bottle Water Park](https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky) | [Long Fling](https://open.spotify.com/artist/65R6SYInZyAejg0WNniLhC) | [Cool Bottle Water Park](https://open.spotify.com/album/3T2AH9XZ6Cv7iq3eBFUnzA) | 2:47 |
-| 5 | [TWO FEET](https://open.spotify.com/track/19JqTT7FaG8xxj30zmI5RA) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [TWO FEET](https://open.spotify.com/album/5K8WKCfV17XwNFC0cMnDFv) | 3:18 |
-| 6 | [Stars](https://open.spotify.com/track/0r9Iyfi7mRDnV6DP7byrYd) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Stars](https://open.spotify.com/album/1a0GUVQ949SkbMcQOKfPGJ) | 3:17 |
+| 2 | [Stars](https://open.spotify.com/track/0r9Iyfi7mRDnV6DP7byrYd) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Stars](https://open.spotify.com/album/1a0GUVQ949SkbMcQOKfPGJ) | 3:17 |
+| 3 | [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 |
+| 4 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 5 | [Cool Bottle Water Park](https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky) | [Long Fling](https://open.spotify.com/artist/65R6SYInZyAejg0WNniLhC) | [Cool Bottle Water Park](https://open.spotify.com/album/3T2AH9XZ6Cv7iq3eBFUnzA) | 2:47 |
+| 6 | [TWO FEET](https://open.spotify.com/track/19JqTT7FaG8xxj30zmI5RA) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [TWO FEET](https://open.spotify.com/album/5K8WKCfV17XwNFC0cMnDFv) | 3:18 |
 | 7 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 8 | [Only For A While \- Alternate Version](https://open.spotify.com/track/6lJxjRi3LlKwxg3A79PG03) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone \(Alternate Versions\)](https://open.spotify.com/album/500MmAQDZVykk5McHLBPeP) | 3:34 |
 | 9 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 74 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
 | 75 | [Won't Obey](https://open.spotify.com/track/3W5cpcTbjcGLwqD4ktR0nY) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Won't Obey](https://open.spotify.com/album/5ap3JvurI9KBfQLYpapm20) | 3:05 |
 
-Snapshot ID: `AAAAALmUtvY2QXrR3CmN69KC3BHteDXi`
+Snapshot ID: `AAAAACFwXWUsC4PHeRiGLDydKQ/qXt+c`

@@ -718,6 +718,28 @@
     {
       "album": {
         "name": "4AM IN IBIZA",
+        "url": "https://open.spotify.com/album/7w0vgK94rNjzPB80LgAdPz"
+      },
+      "artists": [
+        {
+          "name": "Mark Vank",
+          "url": "https://open.spotify.com/artist/43kbgy3mjbFkA5ndaFzekf"
+        },
+        {
+          "name": "Samu",
+          "url": "https://open.spotify.com/artist/18h6AOAQUSrWGxC6uB71Ji"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220004,
+      "name": "4AM IN IBIZA",
+      "url": "https://open.spotify.com/track/0RAiNFjiSU0EfJXooHq5nq"
+    },
+    {
+      "album": {
+        "name": "4AM IN IBIZA",
         "url": "https://open.spotify.com/album/5FxiBOrZbYDCik9EnQpNL5"
       },
       "artists": [
@@ -732,7 +754,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 251213,
       "name": "Alt du trenger",
       "url": "https://open.spotify.com/track/3O1hAitk6yz7DtOCHswVk3"
@@ -2372,7 +2394,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3994,7 +4016,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -7926,7 +7948,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 171667,
       "name": "Cowboyhatten",
       "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
@@ -9314,7 +9336,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 244920,
       "name": "Den finast eg veit",
       "url": "https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV"
@@ -31996,7 +32018,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 178666,
       "name": "Overfladisk",
       "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
@@ -37852,7 +37874,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -38468,7 +38490,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"

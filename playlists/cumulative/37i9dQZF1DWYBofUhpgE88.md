@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Mattia Furlani, il più giovane atleta di sempre a vincere l'oro nel salto in lungo 🥇
+> Fenomenale pallavolo azzurra maschile, di nuovo campioni del mondo 🏆
 
 387 songs - 20 hr 20 min
 

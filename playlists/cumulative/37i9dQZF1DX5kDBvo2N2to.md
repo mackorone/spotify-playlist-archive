@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-417 songs - 22 hr 19 min
+418 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-12 |  |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 | 2024-09-20 |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-06-28 | 2024-08-23 |
+| [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 | 2025-09-25 |  |
 | [NYLON](https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [NYLON](https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm) | 2:38 | 2024-11-08 | 2025-05-23 |
 | [Någon annan än dig](https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Någon annan än dig](https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB) | 2:44 | 2025-05-29 |  |
 | [OKEJ](https://open.spotify.com/track/7c2lgsV1U2bWUoNMmctf0A) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [OKEJ](https://open.spotify.com/album/6fah1g2OizBaCkgx4NbZBj) | 3:02 | 2025-03-27 | 2025-04-04 |
@@ -389,7 +390,7 @@
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 | 2024-09-21 |
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 |  |
 | [Tjejerna](https://open.spotify.com/track/0933FD1xHrm3KGjkz1cMl5) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Tjejerna](https://open.spotify.com/album/4v8as5ZYEZakizcgP0iVWW) | 3:05 | 2025-06-05 | 2025-06-13 |
-| [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 |  |
+| [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-09-30 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |

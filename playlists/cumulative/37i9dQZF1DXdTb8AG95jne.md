@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YDBB\(유다빈밴드\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OuiOui\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,106 songs - 2 day 18 hr 59 min
+1,109 songs - 2 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-03-31 | 2022-07-23 |
 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 | 2024-11-06 | 2024-12-20 |
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
-| [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-08 |  |
+| [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-08 | 2025-09-30 |
 | [EX \(Feat\. Zenn\)](https://open.spotify.com/track/3TD3K5nHSV3BIJJfwZO9KY) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Zenn](https://open.spotify.com/artist/7IxJ9FKazddUw1iGwDSPgz) | [EX](https://open.spotify.com/album/0PijWVJt8D3zN4FRvZX7mJ) | 3:14 | 2025-09-16 |  |
 | [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-04 | 2025-08-12 |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
@@ -644,6 +644,7 @@
 | [Nice To Meet You](https://open.spotify.com/track/3KpDIQ1oQrS0uCA2WjjjEn) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Nice To Meet You](https://open.spotify.com/album/7MUD1MG1G8r2y0zUf9Ucxj) | 3:19 | 2024-02-15 | 2025-07-24 |
 | [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2023-01-10 | 2023-01-26 |
 | [Night](https://open.spotify.com/track/71dnO4IWWvwWqSOVqaL2k4) | [withyou](https://open.spotify.com/artist/4bxCjd47PzaXgcv6hYNicy) | [Night](https://open.spotify.com/album/2WQIYG46g0cYXHmtRZL9aF) | 3:10 | 2022-03-31 | 2022-04-17 |
+| [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-09-30 |  |
 | [night drive](https://open.spotify.com/track/0IlkvSocmPVnaVXxQsLs56) | [xxiuk](https://open.spotify.com/artist/3bUokI8BPDRTAMg4YNRuLT) | [night drive](https://open.spotify.com/album/7lGoiZo6fEBatrwlNNexTP) | 3:12 | 2021-12-12 | 2022-04-07 |
 | [Night Keeper](https://open.spotify.com/track/6hOEtej8q58BgHjvFeYohj) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Night Keeper](https://open.spotify.com/album/1Y6jdkFgLwyGt1CBuEdbgN) | 3:51 | 2023-01-25 | 2023-02-09 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-04 | 2022-08-05 |
@@ -907,6 +908,7 @@
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 | 2023-03-01 |
 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-07-07 | 2025-07-09 |
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-04-30 | 2024-05-10 |
+| [Take It Slow](https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY) | 2:50 | 2025-09-30 |  |
 | [Take Over by Silica Gel](https://open.spotify.com/track/2umMPFIrznerq1OgMjz0MW) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Take Over by Silica Gel](https://open.spotify.com/album/0D0XOFx7HNO9W0Ag6bDNZY) | 0:20 | 2025-07-23 | 2025-08-01 |
 | [Tea Time for Cats and Magpies](https://open.spotify.com/track/5Gi6lShrxbMQnHO9VJfhIy) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Tea Time for Cats and Magpies](https://open.spotify.com/album/4S2bCnhw9RxvIJgEODABzC) | 3:22 | 2024-05-08 | 2024-05-10 |
 | [TEAM 401](https://open.spotify.com/track/6Wnnk2BDGai0SeTv7e48ho) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Just as We Were](https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR) | 4:30 | 2024-06-19 | 2024-07-02 |
@@ -974,6 +976,7 @@
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
 | [Typing \. \. \. \(with Jehwwn\)](https://open.spotify.com/track/4yR254OLRXvEYiAdwSyhTR) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Recall 2](https://open.spotify.com/album/0CGkAjIWKjuDGWXlP38TWU) | 2:48 | 2025-07-29 | 2025-09-04 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
+| [Uncertainty](https://open.spotify.com/track/110fmD1UZunfVmFqrgMJ2o) | [Wah Wah Wah](https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG), [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [UBUBU](https://open.spotify.com/album/6pbrTmdUYrorSP876yMIFm) | 9:47 | 2025-09-30 |  |
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 | 2025-05-23 |
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |

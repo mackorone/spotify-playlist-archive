@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,338 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,608 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 21 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 |
 | 22 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 |
 | 23 | [SILHOUETTES](https://open.spotify.com/track/6F4sg4reLLpEr36STteePe) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 2:44 |
-| 24 | [Stimming](https://open.spotify.com/track/3VW5vrPumuIuaFQb1Hqc9G) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Stimming](https://open.spotify.com/album/46vU8FeukYVJ0rwFrfrTdE) | 3:22 |
+| 24 | [STIMMING](https://open.spotify.com/track/3VW5vrPumuIuaFQb1Hqc9G) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [STIMMING](https://open.spotify.com/album/46vU8FeukYVJ0rwFrfrTdE) | 3:22 |
 | 25 | [Winter Wonderland](https://open.spotify.com/track/1D4qUYEH0cs7zNcUXVw6IX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:04 |
 | 26 | [Workin On Me](https://open.spotify.com/track/4OLpvmygTruvZfH1uyj6sS) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Workin On Me](https://open.spotify.com/album/4htzd8kCbdtovAFvLnHz5f) | 5:00 |
 | 27 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |

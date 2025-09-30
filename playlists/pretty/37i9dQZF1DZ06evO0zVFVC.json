@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 109337,
+  "num_followers": 109391,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNcpAAAAAAAmGgwQpLmzymN7DrDX0lIr",
+  "snapshot_id": "aNh6gAAAAAAo0ibzEENmpZpSpwDWo7q3",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 229373,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 190193,
-      "name": "Cemetery Bloom",
-      "url": "https://open.spotify.com/track/1eU41X9GC7PjWEvY7wCDnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Smoke 'Em If You Got 'Em",
-      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Smoke 'Em If You Got 'Em",
+      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 248453,
       "name": "Home Is For The Heartless",
       "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 206374,
+      "name": "Devil's Calling",
+      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 206374,
-      "name": "Devil's Calling",
-      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 210012,
       "name": "Into the Dark",
       "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "Mutiny",
-      "url": "https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven's Gates",
         "url": "https://open.spotify.com/album/5QBE6vKR7vLBkJAF9saCNG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 138000,
       "name": "Heaven's Gates",
       "url": "https://open.spotify.com/track/5O4pUnw88y5Md7bqS5Zi0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Mutiny",
+      "url": "https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9"
     },
     {
       "added_at": null,

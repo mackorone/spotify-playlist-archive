@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Aaron Blommaert \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a><br/>\-artist\), Olivia Dean, Zwangere Guy, Roxy Dekker, Doja Cat and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,132 likes - 94 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,131 likes - 94 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 11 | [Stars](https://open.spotify.com/track/0r9Iyfi7mRDnV6DP7byrYd) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Stars](https://open.spotify.com/album/1a0GUVQ949SkbMcQOKfPGJ) | 3:17 |
 | 12 | [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 |
 | 13 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 |
-| 14 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E.](https://open.spotify.com/artist/7bbRIvBizM0uBe5WPsjAWc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
+| 14 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
 | 15 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 | 16 | [JAMAIS TOI](https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [JAMAIS TOI](https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm) | 2:47 |
-| 17 | [Sale état](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Sale état](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
+| 17 | [SALE ÉTAT](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SALE ÉTAT](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
 | 18 | [Vinegar & Salt \- Live With Strings](https://open.spotify.com/track/6pYv0MOWok2xVsotQ8fOW7) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [The Magnificent Tree \- Live With Strings](https://open.spotify.com/album/2q43jHXGwYgt8IbQW8dueO) | 3:20 |
 | 19 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:33 |
 | 20 | [Pumpin'](https://open.spotify.com/track/39aeFcnJP32dVZeJlmt6Wi) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [Bermio](https://open.spotify.com/artist/10BP6UEPDeWXQIPQqSXBs7) | [Pumpin'](https://open.spotify.com/album/7Ch2xxN4uSYijxGOPbGoYX) | 3:39 |

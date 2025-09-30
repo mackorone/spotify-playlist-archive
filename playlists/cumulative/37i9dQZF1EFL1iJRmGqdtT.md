@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 6 hr 18 min
+111 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bad](https://open.spotify.com/track/6kOGQjXmFNJTuSom4fR4gp) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 1:27 | 2025-08-02 |  |
 | [Balloons](https://open.spotify.com/track/6JX3C5Y7fHUSpUz4ErXKJE) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:21 | 2025-08-02 |  |
 | [Be Yourself](https://open.spotify.com/track/60V16rkc0r73IjVIoyfqg6) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 2:48 | 2025-08-02 |  |
+| [Best Behavior](https://open.spotify.com/track/1SI0nGEG4roMUv1P3h6yNQ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:52 | 2025-09-29 |  |
 | [Best Mistake](https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:53 | 2025-08-02 |  |
 | [BLACK EFFECT](https://open.spotify.com/track/2rCuBpIkHVtY16o0PRv2GS) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:15 | 2025-08-02 |  |
 | [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 | 2025-08-02 |  |

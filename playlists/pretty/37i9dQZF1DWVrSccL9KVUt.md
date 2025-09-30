@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,552 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,626 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 74 | [Koolaid](https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Koolaid](https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr) | 3:00 |
 | 75 | [Something More](https://open.spotify.com/track/7kKN9NjsDL4C95WIjKSyQr) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Something More](https://open.spotify.com/album/4vrjC5Da5RlIXAAOF4fAYC) | 3:42 |
 
-Snapshot ID: `AAAAAFzMHWED7fjFOSqK6cl2/3tVAj/f`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

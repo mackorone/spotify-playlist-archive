@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,339 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,328 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 22 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 |
 | 23 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY) | 3:04 |
 | 24 | [Queen](https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 3:50 |
-| 25 | [Up Jumped the Devil](https://open.spotify.com/track/7ADjnZWrVZHB2glDFMczO0) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Tender Prey \(2010 \- Remaster\)](https://open.spotify.com/album/4x0lzfZuWixnhpeNJ20sjl) | 5:16 |
+| 25 | [Up Jumped the Devil \- 2010 Remaster](https://open.spotify.com/track/7ADjnZWrVZHB2glDFMczO0) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Tender Prey \(2010 Remaster\)](https://open.spotify.com/album/4x0lzfZuWixnhpeNJ20sjl) | 5:16 |
 | 26 | [Eve: Spotify Official Playlist Introduction](https://open.spotify.com/track/4OylOwZQldCS9KdPsG4VJD) | [James Gunn](https://open.spotify.com/artist/3tQtOquvJ7w7CG9TCIrOVU) | [Eve: Spotify Official Playlist Introduction](https://open.spotify.com/album/07gspV3Z8555iZVCbrQoC0) | 0:33 |
 | 27 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 |
 | 28 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |

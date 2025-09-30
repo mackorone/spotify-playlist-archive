@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 60077,
+  "num_followers": 60094,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Mburucuy\u00e1 poty",
-        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
-      },
-      "artists": [
-        {
-          "name": "Salvador Miqueri",
-          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Soy Correntino y Doy Fe",
-      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -956,9 +940,25 @@
           "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+      "duration_ms": 140040,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+      },
+      "artists": [
+        {
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas",
-          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Bien picadito",
-      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Oraci\u00f3n del Remanso",
         "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 311531,
       "name": "Oraci\u00f3n del Remanso",
       "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas",
+          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Bien picadito",
+      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 132213,
       "name": "Te amare eternamente",
       "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Cate",
-          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
-        }
-      ],
-      "duration_ms": 123226,
-      "name": "Un simbronazo",
-      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
+        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
+      },
+      "artists": [
+        {
+          "name": "Rosendo y Ofelia",
+          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 154893,
       "name": "Nostalgias Camperas",
       "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
-        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
-      },
-      "artists": [
-        {
-          "name": "Rosendo y Ofelia",
-          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
     },
     {
       "added_at": "2025-03-31 12:53:49",

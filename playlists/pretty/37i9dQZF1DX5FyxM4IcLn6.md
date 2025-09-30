@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 67th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,524 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,501 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 43 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 44 | [GOOD DAY](https://open.spotify.com/track/0vC82BouGPXm6X2K60RfQw) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:50 |
 | 45 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
-| 46 | [4×4×U](https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:59 |
-| 47 | [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 |
+| 46 | [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 |
+| 47 | [4×4×U](https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:59 |
 | 48 | [I Am Not Okay](https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:18 |
 | 49 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
 | 50 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 116 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 117 | [PRAISE YOU ANYWHERE \(LIVE\)](https://open.spotify.com/track/5yJRoMJSIz7mdAXFjMt7rx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [TEAR OFF THE ROOF \(LIVE FROM THE HOLY CITY\)](https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A) | 4:11 |
 | 118 | [Wanting and Waiting](https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 4:15 |
-| 119 | [Waiting For You \(feat\. Lucius\)](https://open.spotify.com/track/06B1Aj15InZZmiwXQ3EitH) | [T Bone Burnett](https://open.spotify.com/artist/4zMX9gWf1DKhvsYHUCbBF7), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [The Other Side](https://open.spotify.com/album/51nP58lWKAzvLfzs8McnOo) | 2:58 |
-| 120 | [Yesterday](https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Yesterday](https://open.spotify.com/album/1BwLUBMJ0Ol72WtHU41vkO) | 5:01 |
+| 119 | [Yesterday](https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Yesterday](https://open.spotify.com/album/1BwLUBMJ0Ol72WtHU41vkO) | 5:01 |
+| 120 | [Waiting For You \(feat\. Lucius\)](https://open.spotify.com/track/06B1Aj15InZZmiwXQ3EitH) | [T Bone Burnett](https://open.spotify.com/artist/4zMX9gWf1DKhvsYHUCbBF7), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [The Other Side](https://open.spotify.com/album/51nP58lWKAzvLfzs8McnOo) | 2:58 |
 | 121 | [BYE BYE](https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [The Collective](https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x) | 4:14 |
 | 122 | [Diamante](https://open.spotify.com/track/5eRN0FLIkrRDbpOBZtH6bi) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:41 |
 | 123 | [When The Sun Shines Again \[Feat\. Posdnuos\]](https://open.spotify.com/track/7dPzrE3hNzxtUIDqKmZY3B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [The Auditorium Vol\. 1](https://open.spotify.com/album/1wA3gsTb8pgnKuAyJbAsu0) | 4:45 |
