@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
+> Best of Punjabi Hip\-Hop! Cover:  Prem Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,885 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,925 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [NO MIDMAN](https://open.spotify.com/track/4vrnlcjMrRpTecEvdiuiAv) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [NO MIDMAN](https://open.spotify.com/album/3z7Qb70k9Q3jIB8q5pjfko) | 3:38 |
 | 75 | [Strings Attached](https://open.spotify.com/track/5qXOKKtAPWAzsf2fEQIxIq) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Strings Attached](https://open.spotify.com/album/1u5zGS19vX75xh0zW6IAU0) | 2:34 |
 
-Snapshot ID: `AAAAAHMZOWAE2L1t1acuRg4rRCRCxIQE`
+Snapshot ID: `AAAAAJMBBa5yHDN9+gA2w+X8TssKD+lv`

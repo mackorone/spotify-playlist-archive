@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/3hJK4iCpLy0EroovgbCDzI"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/0KKP66XVq3KxciJpfvd6ti"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats Vol. 6",
         "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
       },

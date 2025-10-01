@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 24088,
+  "num_followers": 24091,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,42 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "ALL nOR NOTHING",
+        "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u8c37\u5e78\u5e83 (CV.\u72e9\u91ce \u7fd4)",
+          "url": "https://open.spotify.com/artist/1dntGXrPQ9hLm1rAD6qu7a"
+        },
+        {
+          "name": "\u5317\u6751\u60f3\u697d (CV.\u6c50\u8c37\u6587\u5eb7)",
+          "url": "https://open.spotify.com/artist/6gLPEzlIMIN8WZwdSd4kmN"
+        },
+        {
+          "name": "\u63e1\u91ce\u82f1\u96c4 (CV.\u718a\u8c37\u5065\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L"
+        },
+        {
+          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
+          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
+        },
+        {
+          "name": "\u698a \u590f\u6765 (CV.\u6e21\u8fba \u7d18)",
+          "url": "https://open.spotify.com/artist/0KbjxfCIJv7RxirFCcTQTC"
+        },
+        {
+          "name": "\u5ca1\u6751\u76f4\u592e (CV.\u77e2\u91ce\u5968\u543e)",
+          "url": "https://open.spotify.com/artist/6UVpGdaJTtWjqayx63Newe"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "ALL nOR NOTHING",
+      "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME",
         "url": "https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv"
       },
@@ -895,42 +931,6 @@
       "duration_ms": 276026,
       "name": "Eternal Fantasia",
       "url": "https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "ALL nOR NOTHING",
-        "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u8c37\u5e78\u5e83 (CV.\u72e9\u91ce \u7fd4)",
-          "url": "https://open.spotify.com/artist/1dntGXrPQ9hLm1rAD6qu7a"
-        },
-        {
-          "name": "\u5317\u6751\u60f3\u697d (CV.\u6c50\u8c37\u6587\u5eb7)",
-          "url": "https://open.spotify.com/artist/6gLPEzlIMIN8WZwdSd4kmN"
-        },
-        {
-          "name": "\u63e1\u91ce\u82f1\u96c4 (CV.\u718a\u8c37\u5065\u592a\u90ce)",
-          "url": "https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L"
-        },
-        {
-          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
-          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
-        },
-        {
-          "name": "\u698a \u590f\u6765 (CV.\u6e21\u8fba \u7d18)",
-          "url": "https://open.spotify.com/artist/0KbjxfCIJv7RxirFCcTQTC"
-        },
-        {
-          "name": "\u5ca1\u6751\u76f4\u592e (CV.\u77e2\u91ce\u5968\u543e)",
-          "url": "https://open.spotify.com/artist/6UVpGdaJTtWjqayx63Newe"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "ALL nOR NOTHING",
-      "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
     },
     {
       "added_at": "2025-01-14 15:56:57",

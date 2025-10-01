@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-186 songs - 12 hr 35 min
+187 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Back Beat](https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters 35: Johnny Hodges](https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr) | 7:27 | 2023-01-17 | 2024-04-19 |
 | [Back Beat](https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:28 | 2021-12-16 | 2022-07-29 |
 | [Back in Your Own Back Yard](https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [William Galison](https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn) | [Got You on My Mind](https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S) | 2:32 | 2021-12-16 |  |
-| [Benny Thanks](https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Benny Thanks](https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU) | 5:58 | 2025-09-12 |  |
+| [Benny Thanks](https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Benny Thanks](https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU) | 5:58 | 2025-09-12 | 2025-10-01 |
 | [Beyond the Sea](https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Beyond the Sea](https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB) | 2:55 | 2024-09-27 |  |
 | [Blue Minor](https://open.spotify.com/track/6OBefdKL1eJNlHjfEfqVzf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Blue Minor](https://open.spotify.com/album/4v9oX1D9zVNwbf5xHXCmXZ) | 4:32 | 2025-03-28 | 2025-07-12 |
 | [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2021-12-16 | 2023-04-14 |
@@ -175,6 +175,7 @@
 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2021-12-16 | 2022-11-24 |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 | 2022-05-25 |  |
 | [Things Ain't What They Used To Be](https://open.spotify.com/track/7pzhoKl2D6oRVU6C7ZDqjR) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 4:43 | 2021-12-16 | 2022-01-14 |
+| [Three Little Words](https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Three Little Words](https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5) | 4:50 | 2025-09-26 |  |
 | [Trouble Maker](https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Trouble Maker](https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS) | 6:47 | 2021-12-16 | 2022-01-14 |
 | [Two Fish \- Alt Take](https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [David Cook](https://open.spotify.com/artist/1kTlMFv8G550JogQHA7Jq6) | [How Love Begins \(Extended Edition\)](https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb) | 5:16 | 2024-11-29 |  |
 | [Two Not One](https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:31 | 2021-12-16 | 2022-10-26 |

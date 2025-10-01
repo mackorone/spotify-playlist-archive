@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: SPYAIR",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: NEMOPHILA",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
@@ -5440,7 +5440,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 308256,
       "name": "Sono nanika in my daze",
       "url": "https://open.spotify.com/track/4Z3y4fJl1IuWCejj32HDPZ"
@@ -7959,6 +7959,24 @@
     },
     {
       "album": {
+        "name": "\u958b\u82b1\u5ba3\u8a00",
+        "url": "https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189041,
+      "name": "\u958b\u82b1\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8"
+    },
+    {
+      "album": {
         "name": "ELLEGARDEN BEST 1999-2008",
         "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
       },
@@ -7974,6 +7992,24 @@
       "duration_ms": 252453,
       "name": "\u98a8\u306e\u65e5",
       "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+    },
+    {
+      "album": {
+        "name": "\ud83d\udd25\u304a\u3063\u304b\u306a\u3044\ud83d\udd25",
+        "url": "https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196639,
+      "name": "\ud83d\udd25\u304a\u3063\u304b\u306a\u3044\ud83d\udd25",
+      "url": "https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT"

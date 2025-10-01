@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Raúl Beltran, Luis R Conriquez & Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,522 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,648 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 57 | [Celos](https://open.spotify.com/track/3Dtmc44NJIrZnoKtlrCFAd) | [Grupo Arraigado](https://open.spotify.com/artist/05CSQP8OYRgD04Kmj9sAT2) | [Celos](https://open.spotify.com/album/3YuODdRNjatcOYLid6z1D3) | 2:38 |
 | 58 | [Me Muero](https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA) | [Valery Rios](https://open.spotify.com/artist/1EDki5iAmaWx7FJNcf124f) | [Me Muero](https://open.spotify.com/album/5ceGaznF4sphWSn24yDxJ2) | 2:45 |
 | 59 | [Adios Sin Palabras](https://open.spotify.com/track/7KY8u2gocJvxMa1BfRX7qe) | [Arnulfo III](https://open.spotify.com/artist/2vkYjMrmZHpDKKxPBRKvCW) | [Adios Sin Palabras](https://open.spotify.com/album/4VpoDKkP4EPavrogvdGCEv) | 3:38 |
-| 60 | [La Vi Con Otra](https://open.spotify.com/track/0A6ymq0bcPm3HvJH4xZssT) | [Carolina](https://open.spotify.com/artist/2PzTaXB2v6D4h6IzrQhAbY), [Linda Caba](https://open.spotify.com/artist/3VaRJoaVYuSJyzqHm7bnRb) | [La Vi Con Otra](https://open.spotify.com/album/2UOGnqtduDkDbiLZg4wStl) | 3:10 |
+| 60 | [Lo Vi Con Otra](https://open.spotify.com/track/0A6ymq0bcPm3HvJH4xZssT) | [Carolina](https://open.spotify.com/artist/2PzTaXB2v6D4h6IzrQhAbY), [Linda Caba](https://open.spotify.com/artist/3VaRJoaVYuSJyzqHm7bnRb) | [Lo Vi Con Otra](https://open.spotify.com/album/2UOGnqtduDkDbiLZg4wStl) | 3:10 |
 
 Snapshot ID: `AAAAACIN3UL3SaFyn/B7LXhkqn0FP2cS`

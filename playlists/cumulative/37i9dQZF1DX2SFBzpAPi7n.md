@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: WOODZ\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can't be blue\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,048 songs - 2 day 16 hr 1 min
+1,049 songs - 2 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [just want to sleep 망할 잠](https://open.spotify.com/track/5ZUduLAgYDEx0CnvKJI0tn) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [inspiration](https://open.spotify.com/album/5FtiCb3iXBx8YfdXkmH6Nv) | 3:30 | 2022-04-22 | 2022-04-26 |
 | [Karma](https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:12 | 2024-05-09 | 2024-11-07 |
 | [KENJI](https://open.spotify.com/track/6GYpTFTsD8nEkCOFHZ6S6i) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [KENJI](https://open.spotify.com/album/2rGBoestOQnAIjKsmAHo7X) | 3:54 | 2024-09-18 | 2024-12-03 |
-| [KICK OUT](https://open.spotify.com/track/1Gww9PNkelaMkdqpXQeYmW) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [AURUM](https://open.spotify.com/album/2BiQgShCtUiXsh0wZSrein) | 3:42 | 2025-09-18 |  |
+| [KICK OUT](https://open.spotify.com/track/1Gww9PNkelaMkdqpXQeYmW) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [AURUM](https://open.spotify.com/album/2BiQgShCtUiXsh0wZSrein) | 3:42 | 2025-09-18 | 2025-10-01 |
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-03 | 2025-09-11 |
 | [Knife](https://open.spotify.com/track/0UYcMcJXEFhM0m04i8LIC6) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Knife](https://open.spotify.com/album/0Rm8DxRN9bLmyMoIIs7r5p) | 3:51 | 2024-03-21 | 2024-05-10 |
 | [Knight \(Knight for Fight\)](https://open.spotify.com/track/1GgqaOfzfi0Aa3xWfcFATl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Tales Runner \[Multiverse and Dimension Authority\] O.S.T PART\. 1 Knight \(Knight for Fight\)](https://open.spotify.com/album/2a1E4ATdnm2vvhrliXtg6g) | 3:05 | 2022-12-22 | 2023-01-11 |
@@ -854,6 +854,7 @@
 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-06-11 | 2025-07-10 |
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-05-02 | 2024-05-10 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-01 |  |
+| [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 | 2025-10-01 |  |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
 | [Take off](https://open.spotify.com/track/3qCq7hnNm87XtsAIGyRAe9) | [D82](https://open.spotify.com/artist/6L71MuejIjNrtoiqb6sTJE) | [Take off](https://open.spotify.com/album/2dTVAj7BMO63ep3hqVkgOS) | 3:33 | 2024-04-22 | 2024-05-10 |
 | [takeoff](https://open.spotify.com/track/5PRc30D1NLEGUKi7KeIetn) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [magicality](https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz) | 3:14 | 2022-08-10 | 2022-08-19 |

@@ -2,9 +2,9 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
+> Music from shows and movies you love including Chad Powers, now streaming on Hulu.
 
-169 songs - 8 hr 12 min
+170 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bring Da Ruckus](https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:11 | 2024-01-05 | 2024-07-03 |
 | [Can I Ever Know You? \(Main Title\)](https://open.spotify.com/track/3Rgxma6sHOZrq6rhbvTv6R) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Mae Whitman](https://open.spotify.com/artist/4vOzhuYhVNHVToghhXMwPw), [Sophia Hammons](https://open.spotify.com/artist/4QJfrqcHIzoFwiP90qmWvF), [John Hodgman](https://open.spotify.com/artist/1B9hohYDOxFbOScp2QAayW), [Katie Finneran](https://open.spotify.com/artist/7CV1kXmo2dc3mmH3UjTN1j), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI), [Scott Porter](https://open.spotify.com/artist/0ZdYiSeVehDwrr3yjHSqsI), [Andréa Burns](https://open.spotify.com/artist/67ZtLX0nstdb8ml4Gc7Tq9), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:43 | 2024-01-05 | 2025-05-07 |
 | [Can It Be All so Simple](https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [The Essential Wu\-Tang Clan](https://open.spotify.com/album/0qtA1fEpJAvz8xGqUESxHU) | 4:11 | 2024-01-05 | 2024-07-03 |
+| [Chad Powers Titles](https://open.spotify.com/track/5WndwmcZLJqNxsr98FClTi) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Chad Powers \(Original Soundtrack\)](https://open.spotify.com/album/6mKxhbiKmTMLVg2jxma6tX) | 0:25 | 2025-09-30 |  |
 | [Chase](https://open.spotify.com/track/7yrPpP8xA8oGgwyc9JRDX4) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Vacation Friends 2 \(Original Soundtrack\)](https://open.spotify.com/album/1r5f7IRaMMAs5IDahZ97DU) | 2:39 | 2024-01-05 | 2025-05-07 |
 | [Cheryl \- From "A Small Light: Episode 2"](https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [A Small Light: Episodes 1 & 2 \(Songs from the Limited Series\)](https://open.spotify.com/album/4eyOODroEAOa4fzO8oQ8Ha) | 5:23 | 2024-01-05 | 2025-05-07 |
 | [Christian Laettner](https://open.spotify.com/track/3ppQ2k0mEcrxtxwUwX6okO) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 4:13 | 2025-01-31 | 2025-05-07 |

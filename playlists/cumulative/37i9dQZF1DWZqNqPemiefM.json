@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "name": "Sora",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+  "name": "Sora Ambient",
   "tracks": [
     {
       "album": {
@@ -164,6 +164,24 @@
       "duration_ms": 606196,
       "name": "02",
       "url": "https://open.spotify.com/track/50KO4uVeDiQ0XzYNKg3nJv"
+    },
+    {
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "album": {
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 153073,
       "name": "Basketball",
       "url": "https://open.spotify.com/track/2RgYGHyhGGSTqFJtuiimQG"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 239053,
       "name": "blue sky and yellow sunflower",
       "url": "https://open.spotify.com/track/3TSK1p0Vi6utUaMnfDWh7Y"
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 185834,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 337506,
       "name": "DARK SIDE OF THE STAR\uff0f\u5730\u7403\u306e\u591c\u306b\u3080\u3051\u3066\u306e\u591c\u60f3\u66f2",
       "url": "https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 122120,
       "name": "Disintegration Loops (1.1 Excerpt I)",
       "url": "https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 227973,
       "name": "Energy Flow (Ki No Nagare)",
       "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
@@ -6468,7 +6486,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 152764,
       "name": "Jicama",
       "url": "https://open.spotify.com/track/47RGxJ1g9UwQNAQ53kRwKy"
@@ -8464,13 +8482,13 @@
       },
       "artists": [
         {
-          "name": "Meitei",
+          "name": "MEITEI",
           "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 236040,
       "name": "Nami",
       "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
@@ -8861,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "Soundscapes for the Emotional-Type Listener",
+        "url": "https://open.spotify.com/album/2zye4wf4QiYd2UMYUD7Z6j"
+      },
+      "artists": [
+        {
+          "name": "Slow Attack Ensemble",
+          "url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236032,
+      "name": "November, 1st in Detroit",
+      "url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
+    },
+    {
+      "album": {
         "name": "Approach to Anima",
         "url": "https://open.spotify.com/album/27iGaCh2JV907Q3rkHnJAE"
       },
@@ -9136,7 +9172,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
@@ -9382,7 +9418,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 195654,
       "name": "Pareidolia - Single Edit",
       "url": "https://open.spotify.com/track/21GUB2nIKPpJgzJr4Sitgu"
@@ -10349,6 +10385,24 @@
     },
     {
       "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229057,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/7tR91UOIle9FOcDSpBF83v"
+    },
+    {
+      "album": {
         "name": "Roam",
         "url": "https://open.spotify.com/album/3RUlErZZOPYcIudrHC6XAb"
       },
@@ -11018,7 +11072,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 199653,
       "name": "Sewing a Button",
       "url": "https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i"
@@ -11036,7 +11090,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 113213,
       "name": "shade",
       "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
@@ -11249,6 +11303,24 @@
     },
     {
       "album": {
+        "name": "Humid Sun",
+        "url": "https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Takahashi",
+          "url": "https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224913,
+      "name": "Silky Lake",
+      "url": "https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS"
+    },
+    {
+      "album": {
         "name": "Simple Math",
         "url": "https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N"
       },
@@ -11404,7 +11476,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 152000,
       "name": "Slow Worm",
       "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
@@ -12058,7 +12130,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 109640,
       "name": "stem",
       "url": "https://open.spotify.com/track/2BZYwQG4Wq6OJ4jrJWFSpM"
@@ -12906,7 +12978,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 131114,
       "name": "The Quiet Between Stars",
       "url": "https://open.spotify.com/track/3Jpw0ErrJPLvMLDJd9wqcb"
@@ -12996,7 +13068,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 151248,
       "name": "The Theme",
       "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
@@ -13368,6 +13440,24 @@
       "duration_ms": 278693,
       "name": "TOBIUME",
       "url": "https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q"
+    },
+    {
+      "album": {
+        "name": "You Always Will Be",
+        "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Today I Taught Them How To How To Skip Stones Across the Lake",
+      "url": "https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK"
     },
     {
       "album": {
@@ -15308,7 +15398,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 400874,
       "name": "\u795e\u69d8\u306e\u30e1\u30ed\u30c7\u30a3",
       "url": "https://open.spotify.com/track/565p6EISKgCjN66vmqs0H5"

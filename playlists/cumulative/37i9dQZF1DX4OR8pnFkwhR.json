@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u4e43\u7d2b",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u5c71\u672c\u5927\u6597",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 243931,
       "name": "boys",
       "url": "https://open.spotify.com/track/6TwhwafJt69U9ExhjbdbcW"
@@ -10696,6 +10696,24 @@
       "duration_ms": 144775,
       "name": "Last Flight",
       "url": "https://open.spotify.com/track/5DgiPHYEL7BrUkFj3JsODs"
+    },
+    {
+      "album": {
+        "name": "Last Summer Bye-bye",
+        "url": "https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm"
+      },
+      "artists": [
+        {
+          "name": "\u8fbb\u4e95 \u304f\u306c\u3048",
+          "url": "https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322714,
+      "name": "Last Summer Bye-bye",
+      "url": "https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg"
     },
     {
       "album": {
@@ -19385,6 +19403,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2IaA6wLLXy9RmIp8aerYyd"
+      },
+      "artists": [
+        {
+          "name": "Roka",
+          "url": "https://open.spotify.com/artist/0GNjQ4UsF0AJiksilivETU"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213033,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7ipleiJ5GZt3Am7kVkOLGA"
+    },
+    {
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4U9TfKHxuKyPdFO5emYrfH"
       },
@@ -23298,7 +23334,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 186285,
       "name": "\u3055\u3088\u306a\u3089 - SAYONARA",
       "url": "https://open.spotify.com/track/43IaIzIRWI2NZUDbNNtwvV"
@@ -31911,6 +31947,24 @@
     },
     {
       "album": {
+        "name": "\u5f92\u7136 - Tsurezure",
+        "url": "https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156244,
+      "name": "\u5f92\u7136 - Tsurezure",
+      "url": "https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g"
+    },
+    {
+      "album": {
         "name": "\u5f98\u5f8a",
         "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
       },
@@ -33280,7 +33334,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 204000,
       "name": "\u6625\u3092\u5f85\u3064\u98a8",
       "url": "https://open.spotify.com/track/2iLY9P1xzusaGNCqZqOfS2"

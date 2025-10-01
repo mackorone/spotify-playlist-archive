@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:2nQ17oZU3rP09w7d17VK8H">Bri3</a>
 
-1,289 songs - 2 day 11 hr 28 min
+1,290 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Gang Gang \(feat\. Baby Kia\)](https://open.spotify.com/track/2oaOfTI7My7xxojxHvob5L) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [Jungle Book](https://open.spotify.com/album/5f2Q0HMRM1nvOSe1y29D3n) | 3:20 | 2024-05-24 | 2024-06-08 |
 | [Ganger](https://open.spotify.com/track/2FCRKH6ZzGw5Ql98E0L0By) | [RRoxket](https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS) | [Red Ranger](https://open.spotify.com/album/1fpRbHRPabCzwxyDed2YvE) | 2:54 | 2024-08-30 | 2024-10-05 |
 | [Garden](https://open.spotify.com/track/0BV2Qn5ZFA70g9bSWmSxvq) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:52 | 2023-09-22 | 2024-02-03 |
+| [Gas Station Love](https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Gas Station Love](https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W) | 4:05 | 2025-09-30 |  |
 | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/track/7jrQ5s1FCXj7Pj2YAoo3Zo) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [ShotOff](https://open.spotify.com/artist/6aaS6LqoDNT6uvZNUwMUPs) | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/album/0g5zC8lYp8e1gpqOoNIxsq) | 2:35 | 2023-12-15 | 2024-01-13 |
 | [GD Woman](https://open.spotify.com/track/3vVRD5GnlAU5hm4WH9TSpl) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/03NWc0BPkbCS498UStrDdf) | 2:58 | 2023-07-21 | 2023-10-21 |
 | [Get Back](https://open.spotify.com/track/3lJ0OmRN1dQE4JXucRHDpA) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/5ycaQESXqBPAqIvk57xYA7) | 2:35 | 2023-12-15 | 2024-09-21 |
@@ -596,7 +597,7 @@
 | [JD's REVENGE](https://open.spotify.com/track/3F1jnTXKuJd6iPmjRMH4tO) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [HEAVY](https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL) | 2:16 | 2023-04-15 | 2023-09-23 |
 | [Jealousy](https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Jealousy](https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk) | 3:11 | 2024-09-20 | 2024-09-28 |
 | [Jesus Piece](https://open.spotify.com/track/5xLYcxA8518p4hctOHjsCv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [Jesus Piece](https://open.spotify.com/album/18jjUDMS8uvQYUj1ZijrMX) | 2:37 | 2024-03-22 | 2024-03-30 |
-| [Johnny](https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Johnny](https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR) | 1:58 | 2025-08-15 |  |
+| [Johnny](https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Johnny](https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR) | 1:58 | 2025-08-15 | 2025-10-01 |
 | [Josephine](https://open.spotify.com/track/7lfSp8wwJsY4aTQ3Ce6n6z) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Love Gun](https://open.spotify.com/album/2on9cngVipES27SlJ3uJJY) | 3:23 | 2023-10-25 | 2023-11-01 |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-03-29 | 2024-04-06 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-19 | 2024-08-03 |

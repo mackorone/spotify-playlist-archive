@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Dayseeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,036 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,957 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 41 | [My Final Stand](https://open.spotify.com/track/6I2LFLF8gYJ7MZDrvN2K8v) | [Luna Falling](https://open.spotify.com/artist/6qKgeqikuAdlYYToMkaROu), [The Bunny The Bear](https://open.spotify.com/artist/7w5hVyH6GGdmswqTwHplgF) | [My Final Stand](https://open.spotify.com/album/74XU3n5i8IbykQ9GaW61Oe) | 4:11 |
 | 42 | [Become Death](https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS) | [Waste](https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj), [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup) | [Become Death](https://open.spotify.com/album/78mkHcNRrEaEzDKrBnAG8U) | 2:09 |
 | 43 | [Wet Dreams](https://open.spotify.com/track/5p2UtO28Oc6k1ymLHSarYZ) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Fury](https://open.spotify.com/album/1fCrRUykhfUC1sGg4QMoDu) | 3:14 |
-| 44 | [The Heart Of The Strom \- Dark Folk Version](https://open.spotify.com/track/60uD77HaikOCcsNOtwa5Jw) | [Manntra](https://open.spotify.com/artist/5xKw7nNLyZ7UVvhaLC5kYd) | [Titans \(Dark Folk Version\)](https://open.spotify.com/album/4PePuqKvaV4bbjELu2wVUA) | 4:26 |
+| 44 | [The Heart Of The Storm \- Dark Folk Version](https://open.spotify.com/track/60uD77HaikOCcsNOtwa5Jw) | [Manntra](https://open.spotify.com/artist/5xKw7nNLyZ7UVvhaLC5kYd) | [Titans \(Dark Folk Version\)](https://open.spotify.com/album/4PePuqKvaV4bbjELu2wVUA) | 4:26 |
 | 45 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
 | 46 | [Burning Sands](https://open.spotify.com/track/6aPFI0FiuByAZibLZFsun5) | [Wings of Steel](https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T) | [Burning Sands](https://open.spotify.com/album/0ivM2HaJRQJIX5MPWIz0wx) | 6:17 |
 | 47 | [Your Touch](https://open.spotify.com/track/4uFRUsCH7pHEQoJQxS5IXI) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Your Touch](https://open.spotify.com/album/56k8jjrnDFHyMtBfo9wv7y) | 3:56 |

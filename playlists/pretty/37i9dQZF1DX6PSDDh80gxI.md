@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > LA SUA BOCCA NON HA IL TUO SAPORE ED ORAAA BERE NON MI PIACE PIÙ \(eddie brock in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,372 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,339 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 19 | [Sottocosto](https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Sottocosto](https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM) | 2:57 |
 | 20 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 |
 | 21 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 |
-| 22 | [SU E GIÙ \(feat\. Piccolo & Clams Casino\)](https://open.spotify.com/track/0gysKxbEM9DDzUhZTUicX9) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:25 |
+| 22 | [SU E GIÙ \(feat\. Piccolo & Clams Casino\)](https://open.spotify.com/track/0gysKxbEM9DDzUhZTUicX9) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:25 |
 | 23 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 |
 | 24 | [Your Dog](https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 2:53 |
 | 25 | [Meglio di niente](https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Il Male](https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB) | 3:43 |

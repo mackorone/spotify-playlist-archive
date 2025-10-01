@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1444300,
+  "num_followers": 1444530,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-09-19 14:10:00",
       "album": {
+        "name": "S\u00e1bado em Copacabana",
+        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "S\u00e1bado em Copacabana",
+      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
+    },
+    {
+      "added_at": "2025-09-19 14:10:00",
+      "album": {
         "name": "Viol\u00f5es e Cavaquinhos",
         "url": "https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 191800,
       "name": "Canta Canta, Minha Gente (Minha Gente, Canta Canta)",
       "url": "https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm"
-    },
-    {
-      "added_at": "2025-09-19 14:10:00",
-      "album": {
-        "name": "S\u00e1bado em Copacabana",
-        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "S\u00e1bado em Copacabana",
-      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
     },
     {
       "added_at": "2025-09-19 14:10:00",

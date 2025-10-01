@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 브라운 아이드 소울\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
 
-572 songs - 1 day 6 hr 50 min
+573 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Malibu](https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS) | [KIND](https://open.spotify.com/artist/1gWxpQhTiJXSFMRnwDZ7LO), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Malibu](https://open.spotify.com/album/5AI1aMZ3MZQAjr3EMVGrUv) | 3:18 | 2024-09-02 | 2025-01-19 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-20 | 2025-02-21 |
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |
+| [Me, Myself & I](https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Me, Myself & I](https://open.spotify.com/album/1OsWJNxJABp62RsCo4Mcmb) | 3:04 | 2025-09-30 |  |
 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 | 2023-10-05 | 2024-02-23 |
 | [Meet Again](https://open.spotify.com/track/1m7yg4UDxh2xco5eRq9UL5) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Meet Again](https://open.spotify.com/album/27lTlZeBbBoAZ83PtjxPUl) | 4:08 | 2024-07-10 | 2024-09-14 |
 | [midsummer](https://open.spotify.com/track/0nNUG87yUlCJqGhpv5ney8) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [midsummer](https://open.spotify.com/album/4RzTyZL9B3fVK1X8M717de) | 2:28 | 2025-08-05 |  |

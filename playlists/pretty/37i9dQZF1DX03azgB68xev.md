@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: SOFYKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,292 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,263 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 28 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 29 | [Let The Church Sing](https://open.spotify.com/track/1Kb56ii7Gr2DgRMon5tgmD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Let The Church Sing](https://open.spotify.com/album/0MeSS7BlmQYdx0vRXWUnpn) | 3:16 |
 | 30 | [Nothing I Have To Hide](https://open.spotify.com/track/7yB8sAWod9fWE8oLa0PsJx) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Nothing I Have To Hide](https://open.spotify.com/album/09UqUX9BZUBa4N4jYtgFrX) | 3:31 |
-| 31 | [Like Dat](https://open.spotify.com/track/50jgZArq7BFn1LSJMumuQn) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [Like Dat](https://open.spotify.com/album/5RqsVPG5Llm1RtUoE8f4CI) | 2:25 |
+| 31 | [LIKE DAT](https://open.spotify.com/track/50jgZArq7BFn1LSJMumuQn) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [LIKE DAT](https://open.spotify.com/album/5RqsVPG5Llm1RtUoE8f4CI) | 2:25 |
 | 32 | [Tell Me How](https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Tell Me How](https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw) | 3:03 |
 | 33 | [Where Oh Where](https://open.spotify.com/track/03zlFzKWT8YwVNYMUL32Bq) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 4:01 |
 | 34 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 |

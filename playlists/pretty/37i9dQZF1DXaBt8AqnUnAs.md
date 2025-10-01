@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,018 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,046 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 65 | [Up & Down](https://open.spotify.com/track/7gHb0WZhu9LM5ix3XPYlXq) | [Dj Lk](https://open.spotify.com/artist/4yLJVAYJPwCbhmmRMUxvk3), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Up & Down](https://open.spotify.com/album/3cYwcx5wKJmCJyyFRZmzCz) | 2:30 |
 | 66 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
 | 67 | [Sangra](https://open.spotify.com/track/0XSxVbeRrukitzmQJf8f3R) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt) | [Sangra](https://open.spotify.com/album/5KezIV18zOBAMaYvnx7S3r) | 2:42 |
-| 68 | [Sem Perceber](https://open.spotify.com/track/0sp4Y1UYfCNlfQQXZabwZZ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [Cecéu Muniz](https://open.spotify.com/artist/0w5dgIahLkN5zcvXm52x64) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 5:06 |
+| 68 | [Sem Perceber](https://open.spotify.com/track/0sp4Y1UYfCNlfQQXZabwZZ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [Cecéu Muniz](https://open.spotify.com/artist/0w5dgIahLkN5zcvXm52x64), [Dona Kelly](https://open.spotify.com/artist/0Xe4H6iA4Pv8xr4r2Glkat) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 5:06 |
 | 69 | [Não É Amor \(Só P\* e Tchau\)](https://open.spotify.com/track/17PSpje8Gh2NYwSnXLeZsw) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [PL](https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1) | [Não É Fácil Ser Eu](https://open.spotify.com/album/4rnCfBilA1yONDvb8q8OBT) | 2:09 |
 | 70 | [Toda Hora](https://open.spotify.com/track/3mVbonUbVYB3ODMsNZRL5o) | [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [GRX](https://open.spotify.com/artist/5xrEmIAscZ0U22Hze6D82l) | [Amor & Ego](https://open.spotify.com/album/5eixCZVRZN0g8YQapSpr2N) | 3:16 |
 | 71 | [Inocente](https://open.spotify.com/track/0d401AYZM9Mboeiv4I33jo) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Inocente](https://open.spotify.com/album/1ayPIjRzCHNw8vqh9I6rTj) | 2:30 |

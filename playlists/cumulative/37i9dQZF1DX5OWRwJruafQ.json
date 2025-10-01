@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/6lp0wgZp5lRwSaICc4k6Yk"
+      },
+      "artists": [
+        {
+          "name": "Guri Lahoria",
+          "url": "https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199534,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/722EMijhPURSaH6awFFjqw"
+    },
+    {
+      "album": {
         "name": "Bexley .Road",
         "url": "https://open.spotify.com/album/1AeMtYxe6KGqhivHtThFzC"
       },
@@ -6034,6 +6056,28 @@
       "duration_ms": 139200,
       "name": "Homies - Elevate",
       "url": "https://open.spotify.com/track/2h4a0R2LrCsn5h40nY8t5A"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/6lp0wgZp5lRwSaICc4k6Yk"
+      },
+      "artists": [
+        {
+          "name": "Guri Lahoria",
+          "url": "https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Hommies",
+      "url": "https://open.spotify.com/track/05JmxIC7eQaFvox3moiwaX"
     },
     {
       "album": {
@@ -10591,6 +10635,28 @@
     },
     {
       "album": {
+        "name": "ON SIGHT",
+        "url": "https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC"
+      },
+      "artists": [
+        {
+          "name": "Bhambi2fly",
+          "url": "https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143728,
+      "name": "ON SIGHT",
+      "url": "https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k"
+    },
+    {
+      "album": {
         "name": "On Top 2",
         "url": "https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p"
       },
@@ -10730,7 +10796,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 211768,
       "name": "P-POP CULTURE",
       "url": "https://open.spotify.com/track/5uXge1cK24monr2woxAZ7F"
@@ -13398,7 +13464,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 180000,
       "name": "Street Talk",
       "url": "https://open.spotify.com/track/3PZjsRjRArMSKYcbUJm8fq"
@@ -14684,7 +14750,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 140869,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD"

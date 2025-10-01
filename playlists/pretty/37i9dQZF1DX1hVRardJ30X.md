@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Neton Vega, Rauw Alejandro, Milo j and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,442 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,475 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 43 | [quieremeunpoco](https://open.spotify.com/track/1YgpjTzmDGZ48Y9M0XWA2A) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [quieremeunpoco](https://open.spotify.com/album/0KXNhmetSbp8J7Kzd14Kzm) | 2:44 |
 | 44 | [Only A Dream](https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Only A Dream](https://open.spotify.com/album/5dcXpnLc2tOZCIgUBsMHMu) | 4:01 |
 | 45 | [Chill](https://open.spotify.com/track/3waoiBN3uhSLeoxVVH2X8e) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Chill](https://open.spotify.com/album/1jUtqNqfYeewWmfWvsYFgk) | 3:08 |
-| 46 | [INNECESARIO](https://open.spotify.com/track/2UTzSAldF42rExMsU19OKL) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [INNECESARIO](https://open.spotify.com/album/73w4AVp3IhyxP3CmRYHlVv) | 3:29 |
+| 46 | [INNECESARIO](https://open.spotify.com/track/2UTzSAldF42rExMsU19OKL) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [geomafia](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [INNECESARIO](https://open.spotify.com/album/73w4AVp3IhyxP3CmRYHlVv) | 3:29 |
 | 47 | [LA BRONCA](https://open.spotify.com/track/3GCdmnHUTE5WDn9cPvA35N) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [LA BRONCA](https://open.spotify.com/album/4hz0VJ50GR5bc2Pw4tppHI) | 2:59 |
 | 48 | [Brutos](https://open.spotify.com/track/2q8esFvj5jgkGiAS67sdEC) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry) | [Brutos](https://open.spotify.com/album/75WLEtoUN4nUgbcTaa4UVb) | 3:37 |
 | 49 | [MOOD](https://open.spotify.com/track/4mxvz0ZsSxllTR4EsU2Kqa) | [Yahda](https://open.spotify.com/artist/722VgER0ody0VC83osWBG9), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [MOOD](https://open.spotify.com/album/4w7Cl7QY3JVf0hrWjBaONg) | 3:24 |

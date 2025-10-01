@@ -4,7 +4,7 @@
 
 > Visino Bianco in cover della playlist con il futuro del rap italiano 📈
 
-2,015 songs - 3 day 13 hr 37 min
+2,016 songs - 3 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [ATE \- Why Do You Hate?](https://open.spotify.com/track/53bHvb5mbJe4NfMSmGlG6o) | [Doll Kill](https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX) | [ATE \(Why Do You Hate?\)](https://open.spotify.com/album/6cFCVOqNc9JcpB4lf0NiF8) | 1:57 | 2025-07-03 | 2025-07-18 |
 | [Attimi](https://open.spotify.com/track/5oZ1UQqXAFsvUgYNQGs2I8) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Attimi](https://open.spotify.com/album/6m8vAIVU1BttTt6e09Vrax) | 1:57 | 2024-02-22 | 2024-03-08 |
 | [ATTIMO](https://open.spotify.com/track/01nHhpyMvqwrOaObKtGwRz) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [ATTIMO](https://open.spotify.com/album/0nlhPomopFpYGyEkUUzjNj) | 2:46 | 2023-10-26 | 2023-11-17 |
-| [Audemars](https://open.spotify.com/track/2NUOdmLPgHzpUrRJAm7K5s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [Audemars](https://open.spotify.com/album/4CUHtEsTCmXgG0Y3k9oBmA) | 2:24 | 2025-08-06 |  |
+| [Audemars](https://open.spotify.com/track/2NUOdmLPgHzpUrRJAm7K5s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [Audemars](https://open.spotify.com/album/4CUHtEsTCmXgG0Y3k9oBmA) | 2:24 | 2025-08-06 | 2025-10-01 |
 | [AVEVO RAGIONE](https://open.spotify.com/track/1iGgK8BRLotvfNETSl1B9r) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [AVEVO RAGIONE](https://open.spotify.com/album/5BNk4uyD6UL0d7ex2OeZHo) | 2:51 | 2024-04-18 | 2024-05-24 |
 | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp) | 2:19 | 2024-08-01 | 2024-11-29 |
 | [AWE](https://open.spotify.com/track/4TLyvOHhzatoBhpvZocUBB) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [AWE](https://open.spotify.com/album/1bYzrn7FHLLh20WTatmTzm) | 2:18 | 2022-06-23 | 2022-07-15 |
@@ -1909,6 +1909,7 @@
 | [Underwater](https://open.spotify.com/track/4Wb3XhK2KUp0qUQMsIrurn) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [Underwater](https://open.spotify.com/album/731c6Q6AHSZdO4CdtMzPWz) | 2:22 | 2024-07-18 | 2024-08-07 |
 | [Uno Come Me](https://open.spotify.com/track/7gPE0NCEyHOsqbMkkTNefD) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [Uno Come Me](https://open.spotify.com/album/2GfJV6hFCKk5L6B1XLt7br) | 2:55 | 2025-09-18 |  |
 | [Uno9999](https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Uno9999](https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS) | 3:27 | 2023-03-07 | 2023-04-14 |
+| [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 | 2025-09-30 |  |
 | [UP](https://open.spotify.com/track/5TxO42NKtZ0B1PhhQhywmx) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [UP](https://open.spotify.com/album/4oO1mEit1TRcg6lWbpmBSy) | 1:55 | 2024-11-21 | 2025-01-17 |
 | [UP](https://open.spotify.com/track/0lEcmsS175dpaOBvGFMvoh) | [Kay](https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU) | [UP](https://open.spotify.com/album/37D4xeFm2WXkN4nMyQXN1C) | 1:49 | 2025-01-23 | 2025-02-21 |
 | [Uzi](https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ) | [Trap God](https://open.spotify.com/artist/39yVrqHlEzhfH3juNpSRvz), [Sghenny Madattak](https://open.spotify.com/artist/7BvgAL2eNaLZ4S3XkwqE0u) | [Uzi](https://open.spotify.com/album/7HUaGiOfqxeHHSI84DUWGX) | 1:38 | 2022-09-08 | 2022-09-23 |

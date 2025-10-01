@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Reznik
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,680 likes - 98 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,682 likes - 98 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 97 | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/album/0qhB3pwU5CkZJ9LT7wBHRg) | 4:03 |
 | 98 | [Hard2Sleep](https://open.spotify.com/track/5FwoblKmorXIz0hFuaqOqL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Hard2Sleep](https://open.spotify.com/album/5W43PNvqQsY8aykMg0AOLv) | 3:10 |
 
-Snapshot ID: `AAAAAAIHeNFsAneLbSv6nS6CYgl0tAiH`
+Snapshot ID: `AAAAANoMU7NbFLeJUtg25/VMJmAAhjjM`

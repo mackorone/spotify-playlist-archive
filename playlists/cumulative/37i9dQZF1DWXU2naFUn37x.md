@@ -4,7 +4,7 @@
 
 > IvanBi in cover della playlist con il top dello street rap italiano ⛓️
 
-880 songs - 1 day 16 hr 17 min
+881 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [LAPROVINCE \#3](https://open.spotify.com/track/7bF8PdgDn6gLY6E14Axh4M) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 1:58 | 2024-03-28 | 2024-05-17 |
 | [LAPROVINCE \#4](https://open.spotify.com/track/5dfkNaeDjMiRZTPM83atGC) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#4](https://open.spotify.com/album/3y9kk0wrpHnBeyvhuxEsTS) | 2:15 | 2025-05-01 | 2025-06-27 |
 | [Larry Hoover](https://open.spotify.com/track/7eScENac9mVHxi7kts5pBH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Larry Hoover](https://open.spotify.com/album/0h1lFD5K1MjHVPnEiUyTXK) | 2:35 | 2025-09-11 |  |
+| [LAVAPIATTI](https://open.spotify.com/track/4LZj2aMIhDMd9rQOoAztCD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP) | 2:03 | 2025-09-30 |  |
 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 | 2023-10-26 | 2024-02-23 |
 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 | 2024-04-18 | 2024-12-06 |
 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 | 2022-06-20 | 2023-07-14 |

@@ -4,10 +4,11 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-599 songs - 1 day 9 hr 28 min
+600 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [123 Song](https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s) | [123 Song](https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l) | 3:02 | 2025-09-30 |  |
 | [90's Kid](https://open.spotify.com/track/267GHnAzfVj04A6ErbCOSD) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [90's Kid](https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam) | 1:58 | 2024-08-14 | 2024-08-24 |
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
 | [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 | 2025-05-15 | 2025-06-03 |
@@ -263,7 +264,7 @@
 | [Khala](https://open.spotify.com/track/5XgB4ThkJOi2dWT1GRSQZ6) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khala](https://open.spotify.com/album/4d2PsSkEjUENjTiZTJHw9W) | 2:09 | 2023-05-17 | 2023-09-26 |
 | [Khamakha](https://open.spotify.com/track/56zTLzFV2qp9KTBehmtj6d) | [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Flowers](https://open.spotify.com/album/0ExgP2688LprduMofZctqA) | 2:16 | 2025-07-23 |  |
 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 | 2023-09-10 |
-| [Khamokhaan](https://open.spotify.com/track/3O2FbtJAifU88mgFvr8hBK) | [Arish B](https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI) | [Khamokhaan](https://open.spotify.com/album/4O3blD8O78RuZJQws3ASLS) | 3:21 | 2025-09-12 |  |
+| [Khamokhaan](https://open.spotify.com/track/3O2FbtJAifU88mgFvr8hBK) | [Arish B](https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI) | [Khamokhaan](https://open.spotify.com/album/4O3blD8O78RuZJQws3ASLS) | 3:21 | 2025-09-12 | 2025-10-01 |
 | [Khamosh Hum](https://open.spotify.com/track/6DbqJtVimKA96EPcTNpHKC) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ), [Shriyank Gour](https://open.spotify.com/artist/2wVq6f96SDr4btIlB2ikkR) | [Khamosh Hum](https://open.spotify.com/album/6cuCRw4GK3FA6PetXShiWK) | 2:45 | 2025-02-18 | 2025-03-08 |
 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 | 2023-06-28 | 2023-10-27 |
 | [Khatam](https://open.spotify.com/track/6KLocCf9WxUWcXFO6m1Zir) | [Shaur](https://open.spotify.com/artist/7acoXYmXSV5HOgBW2A4SsD) | [Khatam](https://open.spotify.com/album/5RavsbAGaZC0UZvR4k8JoV) | 2:57 | 2025-05-29 | 2025-07-29 |

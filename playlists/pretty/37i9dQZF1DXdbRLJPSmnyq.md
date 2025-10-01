@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,163 likes - 71 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,249 likes - 71 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

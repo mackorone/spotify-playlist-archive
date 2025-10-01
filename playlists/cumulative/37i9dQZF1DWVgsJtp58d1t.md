@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:3jk39CGeaaSO3FPKNx1RUx">Syd</a>
 
-5,271 songs - 11 day 3 hr 23 min
+5,273 songs - 11 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,7 +1056,7 @@
 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 | 2025-02-03 | 2025-03-08 |
 | [Crimes of Compassion.](https://open.spotify.com/track/4yDhadKZ1PtOkuSR7Eprx8) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Crimes of Compassion.](https://open.spotify.com/album/6mngD3c10ewUIeWJBeyLfT) | 2:54 | 2024-08-23 | 2024-08-31 |
 | [Criminal](https://open.spotify.com/track/2uYhLPiKQo6NMtisvDiDpG) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Criminal](https://open.spotify.com/album/7rflzEdNH5uSR6GtcNlusz) | 2:11 | 2024-09-27 | 2024-10-05 |
-| [CRISCO](https://open.spotify.com/track/37Yl0zkS5XshL0u7ox57N0) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:38 | 2025-08-23 |  |
+| [CRISCO](https://open.spotify.com/track/37Yl0zkS5XshL0u7ox57N0) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:38 | 2025-08-23 | 2025-10-01 |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 | 2025-03-01 |
 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 | 2024-04-05 | 2024-06-15 |
 | [Crooks & Castles](https://open.spotify.com/track/6FPR87S0g92cCImxUrGvYP) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Crooks & Castles](https://open.spotify.com/album/7hxBFX5tUuwYNmxbQPhyoJ) | 2:04 | 2022-02-25 | 2022-03-26 |
@@ -1748,6 +1748,7 @@
 | [Garden of Eden](https://open.spotify.com/track/0NlYeYreqeP6OO5cYG2ALx) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:55 | 2024-05-17 | 2024-05-25 |
 | [Garmonbozia](https://open.spotify.com/track/36PIheIp9ceOOW8WuHIcgz) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 3:33 | 2025-04-04 | 2025-04-12 |
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-26 | 2024-03-02 |
+| [Gas Station Love](https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Gas Station Love](https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W) | 4:05 | 2025-09-30 |  |
 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 | 2022-06-17 | 2022-07-10 |
 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 | 2022-10-21 | 2022-11-05 |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 | 2025-02-04 |
@@ -3728,6 +3729,7 @@
 | [Rain Falls](https://open.spotify.com/track/4IZKu1dmdvjKE6gUpvfx5Z) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/58bZzAN7pWB0IKuhVaSCLA) | 2:09 | 2022-09-09 | 2022-10-01 |
 | [Rainbow Road](https://open.spotify.com/track/7n4y3HFf7amvGFoogy2zuo) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW) | [Rainbow Road](https://open.spotify.com/album/31Z8AoO3fCn3QSFCIhcDWe) | 2:17 | 2022-04-01 | 2022-04-16 |
 | [raisins](https://open.spotify.com/track/7AaHNhB05A2yPXRSpeABJS) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [raisins](https://open.spotify.com/album/1ONVmw18mFxkVFPNusJv0t) | 2:41 | 2025-05-23 | 2025-06-04 |
+| [Ramen Noodles](https://open.spotify.com/track/7zImkv4vKnACicU20HVkJP) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Ramen Noodles](https://open.spotify.com/album/75v06t1AN6fBo74d7CPgB5) | 3:08 | 2025-09-30 |  |
 | [Ramen Noodles](https://open.spotify.com/track/7zfUQg4Z8ITycXqFVQ3A6E) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Ramen Noodles EP](https://open.spotify.com/album/1lHev4TyDDEAnXQXYGofKQ) | 2:24 | 2024-04-05 | 2024-04-13 |
 | [Rampage](https://open.spotify.com/track/3JXqRCeXxeNLKLuCgX8o9h) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:19 | 2023-09-01 | 2023-11-04 |
 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 | 2025-03-21 | 2025-03-29 |
@@ -4211,7 +4213,7 @@
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-20 | 2023-11-30 |
 | [Someone](https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Someone](https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN) | 2:37 | 2023-05-05 | 2023-06-24 |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-03 | 2023-02-18 |
-| [Somethin](https://open.spotify.com/track/0UrIpHECkxkxCvckR0PLRJ) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Somethin](https://open.spotify.com/album/4hFIICSyzNWKeDXHUAUkFI) | 3:16 | 2025-08-01 |  |
+| [Somethin](https://open.spotify.com/track/0UrIpHECkxkxCvckR0PLRJ) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Somethin](https://open.spotify.com/album/4hFIICSyzNWKeDXHUAUkFI) | 3:16 | 2025-08-01 | 2025-10-01 |
 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 | 2024-02-09 | 2024-02-17 |
 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-08-26 | 2022-09-17 |
 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 | 2025-02-14 | 2025-03-01 |

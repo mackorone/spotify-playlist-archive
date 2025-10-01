@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Annalisa e Marco Mengoni in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,158 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,264 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 53 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 |
 | 54 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
 | 55 | [buia](https://open.spotify.com/track/3wcWAwF5Rw7SdTYWN7EV8k) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [buia](https://open.spotify.com/album/4RFfOBgfwHeIbf4k99PTOd) | 2:49 |
-| 56 | [PICCOLA \(feat\. Piccolo & thasup\)](https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:29 |
+| 56 | [PICCOLA \(feat\. Piccolo & thasup\)](https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:29 |
 | 57 | [Il mio giorno preferito](https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:26 |
 | 58 | [acqua santa](https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [acqua santa](https://open.spotify.com/album/4saZ2bZ4QrNo3KRhVk0Alj) | 2:36 |
 | 59 | [Bam Bam](https://open.spotify.com/track/4KVniEaketaWkpVFVrIEgw) | [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy) | [Bam Bam](https://open.spotify.com/album/00tWjalfGuKzjfkIj9f1WE) | 3:00 |

@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-304 songs - 15 hr 41 min
+305 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [BUSY](https://open.spotify.com/track/24icItMZ9lKoUtHznlAInH) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [BUSY](https://open.spotify.com/album/2Y2WIoNpftwf8IeWDGv9bD) | 2:10 | 2023-11-02 | 2023-11-17 |
 | [BYE BYE](https://open.spotify.com/track/1KZm459Xdw6GuYjcGk3pbm) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:24 | 2025-05-08 |  |
 | [CALIFANO FREESTYLE \(feat\. Emis Killa\)](https://open.spotify.com/track/7B3oXWhGGML9jIUCxXmJyF) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [OSTIL3](https://open.spotify.com/album/49ZyGerSEt8m7LXLeNWW6f) | 2:09 | 2025-09-18 |  |
+| [CARTE IN TAVOLA](https://open.spotify.com/track/31cmPjGugy94lCiJfHmJER) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 1:59 | 2025-09-30 |  |
 | [CATTIVE INTENZIONI \(feat\. Salmo\)](https://open.spotify.com/track/0OmnpUgUBVcCnKdS7o9P03) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 2:48 | 2022-12-06 | 2023-05-05 |
 | [CATTIVE INTENZIONI \(feat\. Salmo\)](https://open.spotify.com/track/1qeKaa5Cyw1Xi6PzoNpen5) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:48 | 2022-11-17 | 2022-12-08 |
 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 | 2024-08-29 | 2025-04-11 |

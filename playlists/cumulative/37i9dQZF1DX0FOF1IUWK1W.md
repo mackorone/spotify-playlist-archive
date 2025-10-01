@@ -4,7 +4,7 @@
 
 > Matheus & Kauan com Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
-637 songs - 1 day 7 hr 43 min
+638 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 | 2024-06-20 | 2025-01-25 |
 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/6IFMz6Buh3dKoUjULWE26n) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1uA9OubhaxPCMtZM5CMYzy) | 2:41 | 2025-01-24 | 2025-02-08 |
 | [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 | 2023-05-18 | 2023-09-29 |
-| [Pé na Areia](https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Pé na Areia](https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY) | 2:58 | 2025-09-01 |  |
+| [Pé na Areia](https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Pé na Areia](https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY) | 2:58 | 2025-09-01 | 2025-10-01 |
 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 | 2024-03-07 | 2024-05-24 |
 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1UtFywx23D3gScleyACbgD) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1) | 2:24 | 2023-02-02 | 2023-11-24 |
 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP1\)](https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N) | 2:58 | 2023-10-13 | 2024-09-13 |
@@ -518,6 +518,7 @@
 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 | 2025-04-18 |  |
 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 | 2024-08-08 | 2025-03-08 |
 | [Se Essa Bunda For Uma Empresa](https://open.spotify.com/track/3CvpnVAV75lKCcaTtUTpgW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Se Essa Bunda For Uma Empresa](https://open.spotify.com/album/5RnXjWZ6rCEjxtuXUgvfOa) | 2:42 | 2025-03-21 | 2025-06-14 |
+| [Se Eu Te Perdoar \- Ao Vivo](https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Se Eu Te Perdoar \(Ao Vivo\)](https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5) | 2:44 | 2025-09-29 |  |
 | [Sei Que Tu Me Odeia](https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:40 | 2025-01-31 | 2025-06-14 |
 | [Sei Tocar Violão \- Ao Vivo](https://open.spotify.com/track/2KdyhL41F9solmRiyLQ3yl) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP3\)](https://open.spotify.com/album/6pSEJeeQ50tN0zfSx8sXrg) | 2:44 | 2024-10-24 | 2025-03-14 |
 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 | 2025-07-11 |  |

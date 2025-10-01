@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares, MORADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,674 likes - 49 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,691 likes - 49 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > IvanBi in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,081 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,070 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 42 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
 | 43 | [BOMBAY](https://open.spotify.com/track/76kL83yLBUnoDl8nqObsci) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [BOMBAY](https://open.spotify.com/album/7mBETUvrMuUHXLHU9qWUeH) | 2:15 |
 | 44 | [Lamelo](https://open.spotify.com/track/5I8NuBULtzqtZE067UA36R) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Lamelo](https://open.spotify.com/album/3hjaiAGv1Lm0LzTcnLR00l) | 2:52 |
-| 45 | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/track/1iX6LqbBWwhfctAy3DnNMh) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/album/7sSafpY92CsWyhn46s0MDI) | 2:47 |
-| 46 | [CRYPTO CELL](https://open.spotify.com/track/0gv5kcsSE1XAXEtBh47bNY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [CRYPTO CELL](https://open.spotify.com/album/4o7B0KKZfqnE2NcmUWymd4) | 3:01 |
-| 47 | [figa check \#225](https://open.spotify.com/track/2REORFlyDzbSSoI9yrra72) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [figa check \#225](https://open.spotify.com/album/04qoS4zFHB6hJBWiFiKuPl) | 2:06 |
-| 48 | [MILANO](https://open.spotify.com/track/7DEq01JHgpeGkm6axITIq3) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MILANO](https://open.spotify.com/album/5mk77jzGH8PQk1spthhs5H) | 2:59 |
-| 49 | [COME?COSA?](https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [COME?COSA?](https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh) | 2:27 |
+| 45 | [LAVAPIATTI](https://open.spotify.com/track/4LZj2aMIhDMd9rQOoAztCD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP) | 2:03 |
+| 46 | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/track/1iX6LqbBWwhfctAy3DnNMh) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/album/7sSafpY92CsWyhn46s0MDI) | 2:47 |
+| 47 | [CRYPTO CELL](https://open.spotify.com/track/0gv5kcsSE1XAXEtBh47bNY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [CRYPTO CELL](https://open.spotify.com/album/4o7B0KKZfqnE2NcmUWymd4) | 3:01 |
+| 48 | [figa check \#225](https://open.spotify.com/track/2REORFlyDzbSSoI9yrra72) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [figa check \#225](https://open.spotify.com/album/04qoS4zFHB6hJBWiFiKuPl) | 2:06 |
+| 49 | [MILANO](https://open.spotify.com/track/7DEq01JHgpeGkm6axITIq3) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MILANO](https://open.spotify.com/album/5mk77jzGH8PQk1spthhs5H) | 2:59 |
+| 50 | [COME?COSA?](https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [COME?COSA?](https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh) | 2:27 |
 
-Snapshot ID: `AAAAAHtRkAI5D1rFuUKrC7OBettvXNU+`
+Snapshot ID: `AAAAAHRRx8Ny35ErqSYtEtoyzgfwEDtj`

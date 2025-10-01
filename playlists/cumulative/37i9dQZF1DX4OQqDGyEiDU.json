@@ -2867,6 +2867,32 @@
     },
     {
       "album": {
+        "name": "Pentatonic",
+        "url": "https://open.spotify.com/album/5P980OpP1KzXof4mcNGRpd"
+      },
+      "artists": [
+        {
+          "name": "syudou \u00d7 Balloon",
+          "url": "https://open.spotify.com/artist/1dsBCeRaXAWlM2kIv61icy"
+        },
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        },
+        {
+          "name": "Balloon",
+          "url": "https://open.spotify.com/artist/4i5N9MozlKe9ty90PhOPCj"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212366,
+      "name": "Pentatonic",
+      "url": "https://open.spotify.com/track/5txdVujtl1Ws3kZeHwWkZt"
+    },
+    {
+      "album": {
         "name": "Philosophia",
         "url": "https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5"
       },
@@ -3372,7 +3398,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 194400,
       "name": "Shitauchi",
       "url": "https://open.spotify.com/track/2oTbs1CnOViXXw2NpfW2v0"

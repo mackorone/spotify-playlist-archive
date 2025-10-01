@@ -2,9 +2,9 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Ahlam Bakkali
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nour
 
-165 songs - 8 hr 43 min
+166 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,12 @@
 | [966](https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [966](https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0) | 3:29 | 2022-06-24 | 2022-11-09 |
 | [A'yshtiny](https://open.spotify.com/track/4zfHwTLD44LYbz7HH1Lysg) | [Momen Rihan](https://open.spotify.com/artist/0CyOshhqVfUfmaBviztIeU) | [A'yshtiny](https://open.spotify.com/album/3tdL688raITLMsbWZ8tZxG) | 3:53 | 2022-10-10 | 2025-01-30 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2025-01-29 |  |
+| [AHLAMI](https://open.spotify.com/track/05EAwEsNxGF5rSH8QiL1nb) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [AHLAMI](https://open.spotify.com/album/1lmJ6SnT63f7IUeZxBnDrv) | 3:42 | 2025-09-30 |  |
 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 | 2022-06-24 | 2025-01-30 |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-06-24 | 2024-05-15 |
 | [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-03 |  |
 | [AMANA](https://open.spotify.com/track/0DAnkEea6lZ0CFlZMHWop0) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/2TkMBE1z1BwYwuir446P1r) | 2:46 | 2023-10-05 | 2024-04-19 |
-| [Ana 7or](https://open.spotify.com/track/3EUFja0RO52fDuJLUKiRC0) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Ana 7or](https://open.spotify.com/album/36oRcnpueXTRoCtZzioalj) | 2:49 | 2025-03-24 |  |
+| [Ana 7or](https://open.spotify.com/track/3EUFja0RO52fDuJLUKiRC0) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Ana 7or](https://open.spotify.com/album/36oRcnpueXTRoCtZzioalj) | 2:49 | 2025-03-24 | 2025-10-01 |
 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 | 2022-06-24 | 2024-05-15 |
 | [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-02 | 2025-01-30 |
 | [Assad](https://open.spotify.com/track/1gQz4I9Q2gcns4wEP9Fizh) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Hashem](https://open.spotify.com/artist/7CDm7aMX6Qiv6QATIBEFC8) | [Assad](https://open.spotify.com/album/12fuHTS6NBQaIznGxg8Zrs) | 3:51 | 2025-03-24 |  |

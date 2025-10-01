@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 15 likes - 77 songs - 8 hr 37 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 15 likes - 78 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 75 | [Outshine \- Nigel Good Radio Edit](https://open.spotify.com/track/1fcaQ2Yj06nusW20DzmEtF) | [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2) | [Outshine](https://open.spotify.com/album/6Vd89na2VpfS9GYDPcDVj1) | 3:32 |
 | 76 | [Arrival](https://open.spotify.com/track/79PINijs6LZ0JGNvcECVVk) | [James Woods](https://open.spotify.com/artist/5YeXBjCN7FLVoTLWu8dL6L), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Arrival](https://open.spotify.com/album/0iLb7siCAulqE75dVVfIVd) | 6:47 |
 | 77 | [April \- 'Morning' Mix](https://open.spotify.com/track/1ru5ger9m2bB0ERfFofc9F) | [Schodt](https://open.spotify.com/artist/7oJeR8oaVPNG8RnmbVW32o) | [April \(Remixes\)](https://open.spotify.com/album/4MRDTpjb3qeUdVevOX3cZe) | 4:26 |
+| 78 | [Kundu](https://open.spotify.com/track/0ByXIWDgyHGIAfCwwxkaZ3) | [NOV3](https://open.spotify.com/artist/7dHn7mPrBc0Q60J1K6k4ZV) | [Kundu](https://open.spotify.com/album/1a6F1ovOeeHUkxApo9FXlS) | 3:32 |
 
-Snapshot ID: `AAAAWoadWgDVCPCndqWfSP75zcAVjnyT`
+Snapshot ID: `AAAAW0nWZhWnd/RDv35zUn7gcBgFN0Cm`

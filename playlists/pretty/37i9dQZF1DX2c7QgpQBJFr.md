@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  Rose Villain in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,933 likes - 105 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,937 likes - 105 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 23 | [un cane per te](https://open.spotify.com/track/1VCOQIBjWRjwgeXtQDmabc) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [I \- Autunno](https://open.spotify.com/album/5UMS2YRbBGmK7auQraSmcU) | 2:56 |
 | 24 | [Al buio senza di te](https://open.spotify.com/track/5w1MpsEu0FFS2gJeMcxAzo) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Al buio senza di te](https://open.spotify.com/album/0zRoeBEByxFQ15i5v3uy4N) | 2:50 |
 | 25 | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/track/51rVDNulsFqL7rU6MbcnQV) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/2QNVMPmBUn0mUluCdq1rh0) | 3:31 |
-| 26 | [PICCOLA \(feat\. Piccolo & thasup\)](https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:29 |
+| 26 | [PICCOLA \(feat\. Piccolo & thasup\)](https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:29 |
 | 27 | [PAURA DI ME](https://open.spotify.com/track/2mjOVIN374WM756hIds37D) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [PAURA DI ME](https://open.spotify.com/album/1vNdfcGM7TC8vBFeNI7872) | 3:16 |
 | 28 | [MIAO](https://open.spotify.com/track/4URjpvjOaqL3HCDA8CE80L) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Luvi](https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0), [cupido](https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM) | [MIAO](https://open.spotify.com/album/6OpCYidL9CLCcXAgEsgDAR) | 2:28 |
 | 29 | [NON GUARDARMI](https://open.spotify.com/track/5sTEaRuBpKhJixWyYrUiYF) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [NON GUARDARMI](https://open.spotify.com/album/2vT99gBiR7NWZ9HjMCqvEU) | 2:16 |

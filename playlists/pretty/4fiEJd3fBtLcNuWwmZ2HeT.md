@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 370 songs - 21 hr 17 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 373 songs - 21 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -378,5 +378,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 368 | [You Are Also Like Me](https://open.spotify.com/track/6onHrimFWsQSZ1VxyRAaUy) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/7qRTxfrH3dQ4camvRDNgUP) | 3:12 |
 | 369 | [Chuuzuri Shoujo](https://open.spotify.com/track/0iJpEvIjUVEH0UWb5GCri0) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Chuuzuri Shoujo \(Tsugai Ban\)](https://open.spotify.com/album/4trD0YxmLKpZOYL8RNfr9J) | 4:05 |
 | 370 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
+| 371 | [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 |
+| 372 | [<<<<<<](https://open.spotify.com/track/7q1XJApEsIjsztIG9aFR5h) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [<<<<<<](https://open.spotify.com/album/6jMvyuEcOtMBUUzp2uijzg) | 4:34 |
+| 373 | [フワライドウ \(feat\. 初音ミク\)](https://open.spotify.com/track/3dVN7kgkeUZG3pK2PxvJQJ) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [フワライドウ](https://open.spotify.com/album/2QaYjVPp5BfdNDHvee6wpe) | 2:38 |
 
-Snapshot ID: `AAAJZ2NLUGtfI9neeo6eFNWcbnk1/r7x`
+Snapshot ID: `AAAJanVn+K7hcB5hfDqH46nT3szFxTXS`

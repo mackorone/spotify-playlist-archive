@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1201931,
+  "num_followers": 1202273,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAACn4InPw7CNBGuvMmoKYBLp",
+  "snapshot_id": "aNnMAAAAAAB2AEqVLPMjcsF8uSaCAJwQ",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Souk Eye",
+      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 230141,
       "name": "Oil (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 274760,
-      "name": "Souk Eye",
-      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192880,
       "name": "Pac-Man (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 150316,
-      "name": "Controllah (feat. MC Bin Laden)",
-      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 181028,
       "name": "The Valley of The Pagans (feat. Beck)",
       "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Miho Hatori",
-          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Re-Hash",
-      "url": "https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 221386,
       "name": "Momentary Bliss (feat. slowthai and Slaves)",
       "url": "https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Re-Hash",
+      "url": "https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
-        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Daley",
-          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Doncamatic (feat. Daley)",
-      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 253333,
       "name": "Aries (feat. Peter Hook and Georgia)",
       "url": "https://open.spotify.com/track/25Gp0MpGdvrs4hL1u4L2TF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
+        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Doncamatic (feat. Daley)",
+      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u041c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0454\u043c\u043d\u0438\u0445 \u043e\u0441\u0456\u043d\u043d\u0456\u0445 \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \ud83c\udf41",
-  "num_followers": 38264,
+  "num_followers": 38277,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "Nich",
-        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
+        "name": "Lucerna",
+        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 230660,
-      "name": "Nich",
-      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
+      "duration_ms": 376000,
+      "name": "Lucerna",
+      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -767,8 +767,8 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "Lucerna",
-        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+        "name": "Nich",
+        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Lucerna",
-      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+      "duration_ms": 230660,
+      "name": "Nich",
+      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
         "name": "\u041c\u0456\u0441\u0442\u043e",
         "url": "https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 138045,
       "name": "\u041c\u0456\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
         "name": "\u0412\u043e\u043b\u044f (full version)",
         "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 164636,
       "name": "\u0412\u043e\u043b\u044f - full version",
       "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
-        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
-        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 112262,
-      "name": "\u041b\u0438\u043d\u0443",
-      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
     }
   ],
   "unique_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

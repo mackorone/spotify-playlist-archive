@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,626 likes - 122 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,720 likes - 122 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 66 | [Rock Your Body](https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Rock Your Body](https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt) | 2:13 |
 | 67 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 68 | [New Species](https://open.spotify.com/track/43IxujU228QDYxlnMcotzW) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 3:21 |
-| 69 | [FUCKED UP BRAIN!](https://open.spotify.com/track/0CICooqqgcHvmuuxOcMoBq) | [kmrnxo](https://open.spotify.com/artist/74MU7adE5990G7b8NHXMM3), [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG), [wasty](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [FUCKED UP BRAIN!](https://open.spotify.com/album/60teuvy4vmsVsbv2iRueFu) | 2:16 |
+| 69 | [FUCKED UP BRAIN!](https://open.spotify.com/track/0CICooqqgcHvmuuxOcMoBq) | [kmrnxo](https://open.spotify.com/artist/74MU7adE5990G7b8NHXMM3), [d3r](https://open.spotify.com/artist/7zNq0fgSrP31ocQdlznOh5), [wasty](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [FUCKED UP BRAIN!](https://open.spotify.com/album/60teuvy4vmsVsbv2iRueFu) | 2:16 |
 | 70 | [party addict](https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A) | 2:05 |
 | 71 | [MONEY! \(Money Money, Green Green\)](https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0) | [Kaytoven](https://open.spotify.com/artist/4DDuVAfwHpJyGSmNUHRTGm) | [MONEY! \(Money Money, Green Green\)](https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX) | 1:18 |
 | 72 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |

@@ -4,7 +4,7 @@
 
 > Capo Plaza in cover della playlist urban più grande d'Italia 🔥
 
-873 songs - 1 day 18 hr 30 min
+874 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 | 2025-01-23 | 2025-02-28 |
 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 | 2024-10-03 | 2024-12-17 |
 | [COME POSSO FIDARMI](https://open.spotify.com/track/505Bud7x4Nea07A39ZEJpD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-01-09 | 2025-01-24 |
+| [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 | 2025-09-30 |  |
 | [Come Te](https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Come Te](https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX) | 2:40 | 2022-09-08 | 2022-10-14 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-13 | 2023-12-01 |
 | [Comfort \(feat\. Tony Boy\)](https://open.spotify.com/track/5mtVj6o82SJuEv0CmE4eDa) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:44 | 2025-06-19 | 2025-09-19 |
@@ -772,7 +773,7 @@
 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 | 2022-05-09 | 2022-06-03 |
 | [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 | 2025-05-22 |  |
 | [Stellina](https://open.spotify.com/track/59ToSWwKmlwI6TIgZkw60M) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Stellina](https://open.spotify.com/album/5IKV5k9xXPyN1siJYoX3ku) | 3:02 | 2025-03-20 | 2025-06-20 |
-| [Step \(feat\. Lazza\)](https://open.spotify.com/track/2ykjihVVaGaixmIK1nDW1w) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Step \(feat\. Lazza\)](https://open.spotify.com/album/2ckHxwHM4jBLS2Gdhq0S3E) | 2:36 | 2025-06-19 |  |
+| [Step \(feat\. Lazza\)](https://open.spotify.com/track/2ykjihVVaGaixmIK1nDW1w) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Step \(feat\. Lazza\)](https://open.spotify.com/album/2ckHxwHM4jBLS2Gdhq0S3E) | 2:36 | 2025-06-19 | 2025-10-01 |
 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 2:52 | 2023-12-14 | 2024-03-01 |
 | [Straniero \(feat\. Tedua\)](https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 | 2023-11-30 | 2024-02-23 |
 | [Straniero RMX \(feat\. Tedua & Neima Ezza\)](https://open.spotify.com/track/1tGv0FsQ9E1huqo9l8gIBl) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Straniero RMX \(feat\. Tedua & Neima Ezza\)](https://open.spotify.com/album/729KrkLu00nv1Y7wCbMbX2) | 3:56 | 2024-04-25 | 2024-05-24 |

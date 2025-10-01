@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 115087,
+  "num_followers": 115082,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Kehanet",
-        "url": "https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 239605,
-      "name": "Tac Mahal",
-      "url": "https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Akustik Travma",
         "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 235817,
       "name": "Bodrum",
       "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Kehanet",
+        "url": "https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 239605,
+      "name": "Tac Mahal",
+      "url": "https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ"
     },
     {
       "added_at": "2025-07-10 21:06:57",

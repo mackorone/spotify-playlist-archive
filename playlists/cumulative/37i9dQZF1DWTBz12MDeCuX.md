@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Rowli
 
-2,961 songs - 5 day 18 hr 16 min
+2,962 songs - 5 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,7 @@
 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 | 2023-12-14 | 2024-02-23 |
 | [DRAGO AUGUSTINO](https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [DRAGO AUGUSTINO](https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq) | 2:37 | 2025-07-10 | 2025-09-19 |
 | [Drake Type](https://open.spotify.com/track/2D3xVwir22PxfX7LYvy2SE) | [Justice J](https://open.spotify.com/artist/49vtrxW8m5Wie0T80WMUFW) | [Drake Type](https://open.spotify.com/album/7oeuDsCxJnWNAWfKMkE9CU) | 2:37 | 2023-05-04 | 2023-07-15 |
-| [Draußen](https://open.spotify.com/track/4FaSVdUavXSTQCcwul3c6t) | [Sicko](https://open.spotify.com/artist/0QiFjnDDT6vUrKuh7OukgE), [FXNN](https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR), [prod.anno](https://open.spotify.com/artist/1SGLVfATshO6K1jRTGeOxz) | [Draußen](https://open.spotify.com/album/57QJqH1CM8q4L1Mo7BRKtY) | 1:38 | 2025-06-26 |  |
+| [Draußen](https://open.spotify.com/track/4FaSVdUavXSTQCcwul3c6t) | [Sicko](https://open.spotify.com/artist/0QiFjnDDT6vUrKuh7OukgE), [FXNN](https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR), [prod.anno](https://open.spotify.com/artist/1SGLVfATshO6K1jRTGeOxz) | [Draußen](https://open.spotify.com/album/57QJqH1CM8q4L1Mo7BRKtY) | 1:38 | 2025-06-26 | 2025-10-01 |
 | [draußen essen spät schlafen 💤](https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Tage vor 2000](https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk) | 2:35 | 2023-12-21 | 2024-02-23 |
 | [Draußen ist Krieg \(feat\. $OHO BANI\)](https://open.spotify.com/track/540JMtXlUGkUn6ITsryjRM) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Draußen ist Krieg \(feat\. $OHO BANI\)](https://open.spotify.com/album/5adlkQpkAGeIyNd3i7m4PC) | 3:33 | 2024-10-24 | 2025-01-17 |
 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 | 2024-11-18 | 2025-09-19 |
@@ -1869,6 +1869,7 @@
 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 | 2023-12-04 | 2023-12-15 |
 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2023-11-23 | 2025-08-08 |
 | [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-03-20 | 2023-03-31 |
+| [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-09-30 |  |
 | [NPCs \(mit Aggu\)](https://open.spotify.com/track/2kBllzLD3kRVAecjxkOUrQ) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [NPCs \(mit Aggu\)](https://open.spotify.com/album/6uVRCzyYxSiQSEIWyLHF8D) | 2:24 | 2025-02-06 | 2025-03-28 |
 | [Nur 1 Schritt](https://open.spotify.com/track/5wzSQmXN8Gp2XstyXFsAfL) | [Ben Factor](https://open.spotify.com/artist/16Z37kyA2PJ85ppgwBAHtC), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9), [DRES DIAZ](https://open.spotify.com/artist/6S0ZlMstjLUwWLgpCx1yfL) | [Nur 1 Schritt](https://open.spotify.com/album/7hwxPLMop9HxDVJGpGfAg2) | 2:50 | 2023-09-28 | 2023-10-13 |
 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 | 2023-11-16 | 2024-01-26 |

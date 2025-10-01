@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Heart Wandering All Night",
+        "url": "https://open.spotify.com/album/4xKdwXeZSNVBHtozxMokX2"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255431,
+      "name": "A Heart Wandering All Night",
+      "url": "https://open.spotify.com/track/7F8KqqBxoTOIB6YUmMnF1E"
+    },
+    {
+      "album": {
         "name": "A long goodbye (with jangheewon)",
         "url": "https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv"
       },
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
@@ -2879,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Perhaps here",
+        "url": "https://open.spotify.com/album/48H2QWLMT5SmjwoL0k5LIs"
+      },
+      "artists": [
+        {
+          "name": "Kim Do Yeon",
+          "url": "https://open.spotify.com/artist/1pUCZRd6GiVJTcQncoZmSF"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Perhaps here",
+      "url": "https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ"
+    },
+    {
+      "album": {
         "name": "Lyrical 1 \u2013 Afterimage",
         "url": "https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo"
       },
@@ -3042,6 +3078,24 @@
       "duration_ms": 234893,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
+    },
+    {
+      "album": {
+        "name": "Sapporo",
+        "url": "https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty"
+      },
+      "artists": [
+        {
+          "name": "Kim Bom",
+          "url": "https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Sapporo",
+      "url": "https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn"
     },
     {
       "album": {
@@ -4288,7 +4342,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
@@ -4306,7 +4360,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 155480,
       "name": "Your Sun Is Stupid",
       "url": "https://open.spotify.com/track/0dSzOuc6GcCz4IYUgyTAie"

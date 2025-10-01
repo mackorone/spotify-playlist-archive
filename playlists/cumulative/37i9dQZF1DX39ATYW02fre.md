@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-269 songs - 19 hr 9 min
+270 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Can't Do Without You](https://open.spotify.com/track/2f14cB0pXqhgQDeNmQDkXf) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/3JRPfW15UIAdRYuBvNxLkR) | 3:56 | 2020-06-08 | 2022-07-27 |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2022-05-30 | 2024-04-19 |
 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 | 2021-03-16 | 2021-10-12 |
-| [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 | 2025-07-03 |  |
+| [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 | 2025-07-03 | 2025-10-01 |
 | [Ceremony](https://open.spotify.com/track/4yIV95FtWATRqSz4dXOqhZ) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh) | [Ceremonial](https://open.spotify.com/album/7kKD9ZFfor7pnWDpyhGC6v) | 4:04 | 2021-02-02 | 2022-07-27 |
 | [Citrus](https://open.spotify.com/track/4g10sqEm8v6qbe3LSb8wtK) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Beats & Pieces](https://open.spotify.com/album/4Gw6m1hSwHNKu08Jj6xpCy) | 2:09 | 2025-04-17 | 2025-04-25 |
 | [Cold nights and city bike rides.](https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Oliver Rees](https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI) | [Cold nights and city bike rides.](https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2) | 2:46 | 2025-07-03 | 2025-09-05 |
@@ -235,6 +235,7 @@
 | [Sunday Song](https://open.spotify.com/track/2P4wRFA7ftewX1JdN3On2K) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Sunday Song](https://open.spotify.com/album/74R8jlQqkBESah1EvRHjPy) | 4:29 | 2020-06-05\* | 2022-07-28 |
 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 | 2025-02-20 | 2025-03-20 |
 | [Swarm](https://open.spotify.com/track/634S3xkO8Dfk5NFfMqMZPc) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Swarm](https://open.spotify.com/album/1loMHAu0uSEO7msawksCPZ) | 2:46 | 2020-06-12 | 2021-10-13 |
+| [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2025-08-27 |  |
 | [Take My Hand \- Totally Enormous Extinct Dinosaurs Sky Remix](https://open.spotify.com/track/1zyTaupx41D8Ig4mRK2WE9) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Take My Hand \(Totally Enormous Extinct Dinosaurs Remixes\)](https://open.spotify.com/album/0LlFZwFPLUSB5dVGj0h5Xj) | 3:43 | 2020-06-05 | 2022-07-28 |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2024-09-19 |  |
 | [The Colour In Anything](https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 3:33 | 2021-03-19 | 2021-07-27 |

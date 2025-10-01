@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: JUNNY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,742 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,731 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Chameleon](https://open.spotify.com/track/33DkA0THiSLDZTRMlk3ByB) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Chameleon](https://open.spotify.com/album/14wBrRu7gwBuN5haV2HKmA) | 2:44 |
 | 50 | [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 |
 
-Snapshot ID: `AAAAAMRkUzMaPadZoATByJcitQ/9I0W0`
+Snapshot ID: `AAAAAF4cvMS7X92CXXLAlrGVx7s/6jIc`

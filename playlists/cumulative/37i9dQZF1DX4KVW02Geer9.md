@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Thundercat
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: んoon
 
-433 songs - 1 day 7 hr 3 min
+434 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [BBL](https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Gadabout Season](https://open.spotify.com/album/372tUB50Rip4brrZdUELBQ) | 4:55 | 2025-06-12 |  |
 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 | 2024-06-27 | 2024-08-30 |
 | [Beat Birds](https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Beat Birds](https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS) | 2:46 | 2025-09-25 |  |
-| [Belly Of The Beast](https://open.spotify.com/track/2Z5wZj94gz4c2s9gBNfFFv) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Belly Of The Beast](https://open.spotify.com/album/0uj4yuLfpb983l8uwgT5h4) | 2:35 | 2025-07-10 |  |
+| [Belly Of The Beast](https://open.spotify.com/track/2Z5wZj94gz4c2s9gBNfFFv) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Belly Of The Beast](https://open.spotify.com/album/0uj4yuLfpb983l8uwgT5h4) | 2:35 | 2025-07-10 | 2025-10-01 |
 | [Best Left Unsolved \- Bonus Track](https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 5:26 | 2024-08-01 | 2024-12-06 |
 | [Better Than Before](https://open.spotify.com/track/3gelo6F3S6OfyU1XFLhU1O) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Emilie Boyd](https://open.spotify.com/artist/0ZQNy5KGr7GRnwFWJ47w2p), [Sonedo](https://open.spotify.com/artist/4pKpMAxOjsmuIhLCBvXEwN) | [Better Than Before](https://open.spotify.com/album/2JMdv9JmDvUpQ14Pp9nmEP) | 6:26 | 2024-10-26 | 2025-02-07 |
 | [Beyond the Redemption](https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A STORY ABOUT YOU](https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2) | 4:52 | 2024-06-27 | 2024-12-20 |
@@ -163,6 +163,7 @@
 | [Happy Sad](https://open.spotify.com/track/5aL6ovxQvpMobmJ6gFQeZc) | [James Macaulay and The Ancient Highballs](https://open.spotify.com/artist/1sMVgAs9dOOqQK0Da7sf6R), [James Macaulay](https://open.spotify.com/artist/2O8rHsNJ6MlniL4rVpFLH5), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Happy Sad](https://open.spotify.com/album/6T7H5qJx6baFoDCj62xGLB) | 6:39 | 2025-07-31 |  |
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2024-06-27 | 2024-12-13 |
 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 | 2024-06-27 | 2024-09-27 |
+| [HEBITORA](https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HEBITORA](https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky) | 4:17 | 2025-09-30 |  |
 | [Her Love Is All I Need](https://open.spotify.com/track/1TNF3fW0OFZKCjd3ou32zz) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0), [Jihad Darwish](https://open.spotify.com/artist/2bsHhAkRSy9fEdvd8D143v) | [Opening Time](https://open.spotify.com/album/0LMm2iX2fOFDLTx3EJQQT2) | 5:05 | 2025-07-31 |  |
 | [HERE](https://open.spotify.com/track/4ORrs3m7mGrx7Srj3ZJv0E) | [Azumi](https://open.spotify.com/artist/3CJDRg43I3iqVWDhLhPrir), [タブゾンビ](https://open.spotify.com/artist/3GqKwD70nzY4ngcHLHnqAt) | [STILL HERE](https://open.spotify.com/album/6JIB3XFHj6QNOAve0leSJM) | 3:46 | 2025-07-31 | 2025-08-30 |
 | [Here, There and Everywhere](https://open.spotify.com/track/3tr4hSuThqlJOwjZHBPdbB) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Here, There and Everywhere](https://open.spotify.com/album/5V4arQKht2Q4t12GqYRLxv) | 4:23 | 2024-06-27 | 2024-08-09 |

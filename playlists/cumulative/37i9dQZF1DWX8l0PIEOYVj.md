@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with ILLENIUM and HAYLA
 
-820 songs - 2 day 1 hr 0 min
+821 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [SKYFALLING](https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Tempo](https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T) | 2:58 | 2024-05-03 | 2025-07-12 |
 | [SLAY](https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/633geRmMguveturqYAb9k2) | 4:01 | 2024-07-26 | 2024-11-17 |
 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 | 2023-02-03 | 2024-02-07 |
+| [Slippin](https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Slippin](https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a) | 3:28 | 2025-09-26 |  |
 | [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-03-31 | 2023-07-16 |
 | [SO ABSURD \- VIP](https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity \(Remixes\)](https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO) | 2:28 | 2024-12-20 | 2025-02-10 |
 | [So Alive](https://open.spotify.com/track/0h6bm47GyD7bArUBTGEkp9) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [So Alive](https://open.spotify.com/album/0jCAy2DkhbyDW7uaONsiIX) | 4:09 | 2022-07-08 | 2023-04-09 |
@@ -760,7 +761,7 @@
 | [Used To Be So Strong](https://open.spotify.com/track/7Ijq5Ex6gbt5FUCc27EPrd) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Used To Be So Strong](https://open.spotify.com/album/1JiCckZXypTs8x7speGpAy) | 4:16 | 2024-04-19 | 2024-06-29 |
 | [Villain in the Story](https://open.spotify.com/track/0cGhiFcQVnD5lzi33lfzz6) | [Cloudy Parallels](https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Villain in the Story](https://open.spotify.com/album/6KZBYCRYduvxKQ3fYbXzWq) | 4:04 | 2024-05-24 | 2024-11-17 |
 | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf) | 3:48 | 2023-06-30 | 2025-08-10 |
-| [vision \(wish u could see\)](https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [vision \(wish u could see\)](https://open.spotify.com/album/3Jw3BAEuYNZwWWDxXduAL5) | 3:59 | 2025-02-16 |  |
+| [vision \(wish u could see\)](https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [vision \(wish u could see\)](https://open.spotify.com/album/3Jw3BAEuYNZwWWDxXduAL5) | 3:59 | 2025-02-16 | 2025-10-01 |
 | [Voices](https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Voices](https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce) | 3:48 | 2024-03-08 |  |
 | [Wait for Fate](https://open.spotify.com/track/7CedP29UcimYIrxEViMPo2) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Wait for Fate](https://open.spotify.com/album/44pzhFsX019bA88c9GF7YO) | 4:08 | 2025-03-07 | 2025-05-31 |
 | [Waiting](https://open.spotify.com/track/3l5bgBsTb7lx6p72oJ9BWD) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting / Paradise](https://open.spotify.com/album/24aWSkyPzUBq8RCJ2Kprdf) | 5:01 | 2023-09-15 | 2024-03-23 |

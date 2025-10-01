@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,293 songs - 5 day 9 hr 24 min
+2,294 songs - 5 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Beat It Up](https://open.spotify.com/track/7ABJnaoCAufiu6tkGo7BGM) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Like This / Beat It Up](https://open.spotify.com/album/4tniAJkA2pKkW6HMBrY8g0) | 3:00 | 2023-04-21 | 2023-04-29 |
 | [Beat of the Drum](https://open.spotify.com/track/3QeAAUENrwqgyS7DYXFdRG) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [Joe Vanditti](https://open.spotify.com/artist/3EkNQSAIFQSFFqHEi5yccC) | [Beat of the Drum EP](https://open.spotify.com/album/0v6VNydsSAFaLaeY3z8Uex) | 6:04 | 2025-01-17 | 2025-03-01 |
 | [Beatback](https://open.spotify.com/track/1iDGmM0noNCgvcaReNWDL6) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Beatback](https://open.spotify.com/album/7eE49iCRycJwkTn9CLebgP) | 2:48 | 2022-07-15 | 2022-07-30 |
+| [Beats & Pool \- Radio Edit](https://open.spotify.com/track/5yDgcnzmbUvriBdEdmkapQ) | [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74), [Darane](https://open.spotify.com/artist/4692rrmuoItKa7630YvTU8) | [Beats & Pool](https://open.spotify.com/album/4U2hNMyRbF7lhesRUMhs1N) | 3:38 | 2025-09-30 |  |
 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 | 2024-01-27 | 2024-03-13 |
 | [Beats Keep Rockin' \- Edit](https://open.spotify.com/track/7GDBm3a49RNgL7EpdWtUh7) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Beats Keep Rockin'](https://open.spotify.com/album/0RAPLDYHhVTaSYUTKUvGgf) | 2:26 | 2025-01-10 | 2025-02-22 |
 | [Because The Night](https://open.spotify.com/track/6Q0EhqGF0AluGEI0ZBNB1h) | [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [Because The Night](https://open.spotify.com/album/5Np0gPvNSXvF91tYdNuHhH) | 2:13 | 2023-09-01 | 2023-09-09 |

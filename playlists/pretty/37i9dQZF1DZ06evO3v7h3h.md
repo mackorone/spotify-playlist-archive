@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,054 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,053 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 34 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 |
 | 35 | [Castelos de Papel](https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:40 |
 | 36 | [Porque Eu Rimo](https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:03 |
-| 37 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
-| 38 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
-| 39 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
-| 40 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 |
-| 41 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 |
+| 37 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
+| 38 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
+| 39 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
+| 40 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 |
+| 41 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 |
 | 42 | [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 |
 | 43 | [Homem do Mundo \(feat\. Criolo\)](https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:17 |
 | 44 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [O Que Se Leva \(Dói\)](https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Quem Sou](https://open.spotify.com/track/0XevUDqotTLOl7KNdZzjbk) | [Dr Caligari](https://open.spotify.com/artist/4P8MHFSABGVP77KjXhTKNw), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Matheusiddy](https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93) | [Meu Eu](https://open.spotify.com/album/0Aeva0uksEHUQgObD6fXHC) | 3:39 |
 | 50 | [Hora de Acordar](https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Luiz Guima](https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:42 |
 
-Snapshot ID: `aNh6gAAAAACYejGkdTiCiRCY4NWdPROh`
+Snapshot ID: `aNnMAAAAAAAMtqqktOQ0LfGdxy0LKBF5`

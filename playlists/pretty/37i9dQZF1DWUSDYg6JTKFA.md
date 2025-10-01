@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,646 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,673 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 86 | [Even Then](https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK) | 3:16 |
 | 87 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 |
 | 88 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 |
-| 89 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \(Live\)](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
+| 89 | [Far Kingdom // Summer Sessions](https://open.spotify.com/track/5LtQwgFTJ5ehQ16Sdrk1sR) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Far Kingdom // Summer Sessions](https://open.spotify.com/album/1fYiViZd4VlnOXCzYqPYfQ) | 3:42 |
 | 90 | [See The Light](https://open.spotify.com/track/1xIHfkc6IJB76YjB9EDcez) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:07 |
-| 91 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 |
-| 92 | [Far Kingdom // Summer Sessions](https://open.spotify.com/track/5LtQwgFTJ5ehQ16Sdrk1sR) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Far Kingdom // Summer Sessions](https://open.spotify.com/album/1fYiViZd4VlnOXCzYqPYfQ) | 3:42 |
+| 91 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \(Live\)](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
+| 92 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 |
 | 93 | [Giving Up](https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [A New Reality \(Deluxe Version\)](https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf) | 3:35 |
 | 94 | [Mansion](https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Mansion](https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN) | 4:11 |
 | 95 | [You're Not Done](https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [You're Not Done](https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq) | 6:03 |

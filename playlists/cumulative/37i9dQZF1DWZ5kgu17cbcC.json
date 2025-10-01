@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-15",
-  "description": "Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.",
+  "description": "Music from shows and movies you love including Chad Powers, now streaming on Hulu.",
   "name": "Hulu Hits",
   "tracks": [
     {
@@ -384,6 +384,24 @@
       "duration_ms": 251226,
       "name": "Can It Be All so Simple",
       "url": "https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD"
+    },
+    {
+      "album": {
+        "name": "Chad Powers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6mKxhbiKmTMLVg2jxma6tX"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25268,
+      "name": "Chad Powers Titles",
+      "url": "https://open.spotify.com/track/5WndwmcZLJqNxsr98FClTi"
     },
     {
       "album": {

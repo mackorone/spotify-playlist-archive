@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Cardi B
 
-1,756 songs - 3 day 7 hr 35 min
+1,757 songs - 3 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,7 +828,7 @@
 | [JUST FRIENDS ?](https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [JUST FRIENDS ?](https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax) | 2:43 | 2022-12-16 | 2023-07-01 |
 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 | 2023-04-28 | 2023-07-22 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-10-18 | 2023-07-01 |
-| [Kai Cenat](https://open.spotify.com/track/4H9bZuYcKmvElvdCz35Bct) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [J4TS](https://open.spotify.com/album/1mOLtUQxS1T0j2O3jKqh4P) | 2:25 | 2025-06-27 |  |
+| [Kai Cenat](https://open.spotify.com/track/4H9bZuYcKmvElvdCz35Bct) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [J4TS](https://open.spotify.com/album/1mOLtUQxS1T0j2O3jKqh4P) | 2:25 | 2025-06-27 | 2025-10-01 |
 | [Keep Executing](https://open.spotify.com/track/6F0TuT7SUOFyI8Ia1UEaXE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Dragon Season..\. The Awakening](https://open.spotify.com/album/21Np5Hp3uiQVeAv2sIyNHN) | 2:23 | 2025-01-17 | 2025-02-08 |
 | [Keep It 100](https://open.spotify.com/track/2g9RfCXZna6roc6hjvoCn1) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Keep It 100](https://open.spotify.com/album/2qCog50BkPP2sJpLjHGsQG) | 2:50 | 2022-11-04 | 2023-02-25 |
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-08-16 | 2024-08-24 |
@@ -1278,6 +1278,7 @@
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-09-29 | 2024-01-13 |
 | [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 | 2023-07-14 | 2023-09-02 |
 | [Rambo](https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rambo](https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr) | 3:31 | 2021-12-03 | 2022-03-01 |
+| [Ramen Noodles](https://open.spotify.com/track/7zImkv4vKnACicU20HVkJP) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Ramen Noodles](https://open.spotify.com/album/75v06t1AN6fBo74d7CPgB5) | 3:08 | 2025-09-30 |  |
 | [Rap Kingpin](https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Rap Kingpin](https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V) | 2:44 | 2025-08-01 | 2025-08-09 |
 | [Rapper Who?](https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Rapper Who?](https://open.spotify.com/album/0RJIyfTEIwJgjcCzjnBVlQ) | 2:03 | 2022-09-23 | 2022-10-29 |
 | [Rare Steppa](https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Steppa](https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K) | 1:58 | 2023-03-31 | 2023-06-03 |

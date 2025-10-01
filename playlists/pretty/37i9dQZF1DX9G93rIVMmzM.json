@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 362497,
+  "num_followers": 362724,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/11Hbhd3ShzY3uhNjOaxMUP"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205002,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6D46UmiP97e9nxssD4r7tN"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
     },
     {
       "added_at": "2025-09-19 04:00:10",

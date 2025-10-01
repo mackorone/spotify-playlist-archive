@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,371 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,372 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 22 | [Bleeding Out](https://open.spotify.com/track/60rnWUaFlJw45uvIkObLno) | [Visionobi](https://open.spotify.com/artist/54llsSjxdbdGegB0X5uXEP), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [Aaliyah Esprit](https://open.spotify.com/artist/73JRJE3o5cLbEOIoksppmG) | [Bleeding Out](https://open.spotify.com/album/0MtsVyLf8DVnQLK8n79RPj) | 4:17 |
 | 23 | [Show Me the Way](https://open.spotify.com/track/3j0EcpNkcyd8fer6v77cmx) | [Submarine](https://open.spotify.com/artist/7mZGz9V04gNBZJpr8LOuBu) | [Show Me the Way](https://open.spotify.com/album/5QnFRwH8VXv0OsLi9twGj2) | 5:20 |
 | 24 | [Sound Killa, Pt\. 2 \(feat\. Shy FX\)](https://open.spotify.com/track/7ec1cAEJwhWP4uhq1R3kZH) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Specialist Moss](https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2) | [Sound Killa, Pt\. 2 \(feat\. Shy FX\)](https://open.spotify.com/album/5dNRyqgeuzJyGoeK93pbHA) | 2:48 |
-| 25 | [Billion Dollar Gravy \- Watch the Ride Remix](https://open.spotify.com/track/73H5xAf3OO5C3vX2CE5Uxz) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Liane Carroll](https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk), [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Billion Dollar Gravy \(Watch the Ride Remix\)](https://open.spotify.com/album/4NNZbZ3r3ZruuBvMxZIgHR) | 4:52 |
+| 25 | [Billion Dollar Gravy \(Watch the Ride Remix\)](https://open.spotify.com/track/73H5xAf3OO5C3vX2CE5Uxz) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Liane Carroll](https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk), [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Billion Dollar Gravy \(Watch the Ride Remix\)](https://open.spotify.com/album/4NNZbZ3r3ZruuBvMxZIgHR) | 4:52 |
 | 26 | [Capiche](https://open.spotify.com/track/0nZboLMgEy83u0fWF4XxrO) | [Benny L](https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0), [NV 33](https://open.spotify.com/artist/3oOKGN5qB1YAiIRTukRl5V) | [Capiche](https://open.spotify.com/album/1Pg2zvfgjBnsM0iM5aDGMX) | 4:45 |
 | 27 | [Time's Up](https://open.spotify.com/track/24zdyFMs4fJ6EF7Hi0VM84) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/78CCHeAwm55bNPt4G6E5XA) | 3:47 |
 | 28 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |

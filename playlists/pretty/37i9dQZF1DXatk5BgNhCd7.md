@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Los Ángeles Azules, Luck Ra & Yami Safdie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,417 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,431 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [Se Está Acabando El Año](https://open.spotify.com/track/5hN0bEWHGhhx2HvppZwzfw) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [Se Está Acabando El Año](https://open.spotify.com/album/7wCp0J8WJo5eerNkI6tRwy) | 3:34 |
 | 12 | [Rompecabezas de Amor](https://open.spotify.com/track/5fbT06Y25WFOsod1W3JM8u) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Rompecabezas de Amor](https://open.spotify.com/album/46PQv68qXXp3d7ZUiSvFCL) | 3:54 |
 | 13 | [Un Payaso / Mi Habitación \- En Vivo](https://open.spotify.com/track/56fZe3JYfgLyoqqey4FxXZ) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Un Payaso / Mi Habitación \(En Vivo\)](https://open.spotify.com/album/72R8LEUIHZ8L05IvSaRC8S) | 5:12 |
-| 14 | [\#PerreoConPlena](https://open.spotify.com/track/54AO6C7nQ3ixa6fLTovhCB) | [Jotape](https://open.spotify.com/artist/3QXiKWVF6ze6coCuJcVHSc), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [\#PerreoConPlena](https://open.spotify.com/album/1JkQ9W7cKg5CL1rwRqZlhm) | 2:43 |
+| 14 | [Perreo Con Plena](https://open.spotify.com/track/54AO6C7nQ3ixa6fLTovhCB) | [Jotape](https://open.spotify.com/artist/3QXiKWVF6ze6coCuJcVHSc), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Perreo Con Plena](https://open.spotify.com/album/1JkQ9W7cKg5CL1rwRqZlhm) | 2:43 |
 | 15 | [Medley Salsa Colombiana: La Rebelion / Oiga Mire Vea / El Preso / Cali Pachanguero / Micaela / En Bquilla Me Quedo / Mi Vecina](https://open.spotify.com/track/4muMo1rnDEhy1wQhUGMzVs) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Auditorio Live Concert](https://open.spotify.com/album/45OnJnzfg4Xo0p75pVHOQW) | 6:50 |
 | 16 | [Sueña Sueña](https://open.spotify.com/track/4Ij3Wiwa2q5t4eF5Lm0XVz) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [Sueña Sueña](https://open.spotify.com/album/7KzMprbzMSIY1ukJavUt4v) | 3:05 |
 | 17 | [El aire que Respiro \(Remix\)](https://open.spotify.com/track/3mSgm6fvDJLK0WP2myCXgX) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Leo Franco](https://open.spotify.com/artist/7D3Ad14Q0bZ9bzbxbqXaFW) | [El aire que Respiro \(Remix\)](https://open.spotify.com/album/4mgFwAqKOobDZVJ4c1lx09) | 2:48 |

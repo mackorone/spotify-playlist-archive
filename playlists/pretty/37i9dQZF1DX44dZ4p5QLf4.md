@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New stunning releases in modern soul\. Cover: Sedric Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,862 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,836 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 55 | [Little Miss Playa](https://open.spotify.com/track/6dfOSyPfztyvZU0xgvKIqm) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Bella Luna](https://open.spotify.com/artist/7ATn4QW2vNMQ1ASAHFZqqQ) | [Little Miss Playa](https://open.spotify.com/album/0m1oNr6LIpQbimeiX4QxUz) | 2:06 |
 | 56 | [Package Delivered by Tomorrow](https://open.spotify.com/track/0x5CkJPcSu3uTQe0g1JnJW) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Package Delivered by Tomorrow](https://open.spotify.com/album/45LOYek1e737i64Bq8LipC) | 3:48 |
 | 57 | [LWYDTM \- An Ode to Mary Jane](https://open.spotify.com/track/1VJ6cKUfjTBE50lTyDvegJ) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [LWYDTM \(An Ode to Mary Jane\)](https://open.spotify.com/album/65uFU2zXXAFMtgTDHyJ1eX) | 3:31 |
-| 58 | [hope u don't mind](https://open.spotify.com/track/1XS1nLEdIUvgO2BpzN90DL) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Tim Fontaine](https://open.spotify.com/artist/3WuiQYm4EDRcrQtJFEuHyJ), [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj) | [hope u don't mind](https://open.spotify.com/album/5lPdqO6eqNTTCSmHFMhXUk) | 3:06 |
+| 58 | [hope u don't mind](https://open.spotify.com/track/1XS1nLEdIUvgO2BpzN90DL) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj), [Tim Fontaine](https://open.spotify.com/artist/3WuiQYm4EDRcrQtJFEuHyJ) | [hope u don't mind](https://open.spotify.com/album/5lPdqO6eqNTTCSmHFMhXUk) | 3:06 |
 | 59 | [River Of Creation](https://open.spotify.com/track/2wvatTSdSlTd9gEZ3T16ud) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [River Of Creation](https://open.spotify.com/album/2FeLUGhh5N3KgxSUZv4X9x) | 4:15 |
 | 60 | [She Is Alive](https://open.spotify.com/track/4EwKdfy5qVZF5aAgDfEfNH) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy) | [Ways Of Speaking](https://open.spotify.com/album/1QEsaqZaJ7wwjjIddlE8Pa) | 4:38 |
 | 61 | [Handle That](https://open.spotify.com/track/4HJX5m1Rx5HzifYizr34dt) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [KT.FM](https://open.spotify.com/album/5PoOWQThDKCdkfvx6zGthx) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,437 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,435 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 24 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:49 |
 | 25 | [Le Vœu](https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r) | [Marco Ferreira](https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona) | [Le Vœu](https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo) | 1:57 |
 | 26 | [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 |
-| 27 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:32 |
+| 27 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:33 |
 | 28 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 |
 | 29 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
 | 30 | [Des éclats dans les nuages](https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Des éclats dans les nuages](https://open.spotify.com/album/3kbx1aOylg4fwbdmCUFWqE) | 2:42 |

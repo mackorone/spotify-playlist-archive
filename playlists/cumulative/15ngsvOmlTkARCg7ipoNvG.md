@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,019 songs - 1 day 16 hr 47 min
+2,020 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1361,7 +1361,7 @@
 | [Quiet Joy](https://open.spotify.com/track/1FJAimeQsvhQB95NTGpG60) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:47 | 2022-01-20 |  |
 | [Quiet Love](https://open.spotify.com/track/3s6VZYDAJ7GfqIflkxqy1t) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Quiet Love](https://open.spotify.com/album/5FOLujx57ozchoLQGmFouU) | 1:01 | 2022-03-21 | 2024-01-30 |
 | [Quiet Night](https://open.spotify.com/track/4qmaxSnrzUYqDIZcrJZ4ia) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Quiet Night](https://open.spotify.com/album/6s8kzeG3p0BnRRKgs6v3gL) | 1:00 | 2024-12-29 |  |
-| [Quiet Night Melody](https://open.spotify.com/track/4dKFTaModWbW8kiG5LpZEJ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 0:59 | 2022-08-25 | 2024-01-30 |
+| [Quiet Night Melody](https://open.spotify.com/track/4dKFTaModWbW8kiG5LpZEJ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 0:59 | 2022-08-25 |  |
 | [Quiet Place Arr\. For Cello And Violin](https://open.spotify.com/track/59DelPzezDrHzco3wqu0VE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Vista With Strings](https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz) | 0:59 | 2024-02-09 | 2024-02-13 |
 | [Quiet Plains](https://open.spotify.com/track/6lDPsGIVPEAnqYMU3Tbt6f) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Returns](https://open.spotify.com/album/2C0XsBRLNZ8vFdiy6XmqdC) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Quiet Stars](https://open.spotify.com/track/2eAx1LQnOVdCwflCqDCzyz) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:01 | 2022-03-11 |  |
@@ -1804,6 +1804,7 @@
 | [Towards The Sky](https://open.spotify.com/track/0KR7lY2WpeO1823sjCZwkl) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Towards The Sky](https://open.spotify.com/album/07nhUxfxkrNnlLb5s6zmwM) | 1:00 | 2025-02-15 |  |
 | [Toyland \- Cello And Soft Piano Version](https://open.spotify.com/track/48TUvKen5OY2EkwIoY1yGD) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Toyland \(Cello And Soft Piano Version\)](https://open.spotify.com/album/4fMIJ8mdbAzhlX2szvuAPR) | 1:06 | 2024-02-09 | 2024-02-13 |
 | [Toyland \- Remastered Cello Version](https://open.spotify.com/track/7KOg8vllFPZOWMOLieDLMe) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Toyland \(Remastered Cello Version\)](https://open.spotify.com/album/7dylYidvgoVXS7Azxmo0Lt) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Tranquil](https://open.spotify.com/track/3gNyOR2hpQMDSOz0Lmm5sF) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Tranquil](https://open.spotify.com/album/1PwmL2dVH5v4aWkcWJCTwH) | 1:00 | 2025-09-30 |  |
 | [Transcend](https://open.spotify.com/track/42ZeYFGqrcU5NGDkkFmCPG) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Cello Meditations](https://open.spotify.com/album/4NwBSghuv7xiOgeU0viPqr) | 2:28 | 2022-01-12 | 2024-01-30 |
 | [Transcending](https://open.spotify.com/track/0hwvRQt83boYj6croE4oDC) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Before We Go](https://open.spotify.com/album/2rbnjJn8PK6B7SNDEvqmhl) | 1:00 | 2023-02-14 |  |
 | [Treasure](https://open.spotify.com/track/5Lrz7eZteqKqIDSZLTOuAz) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:05 | 2022-03-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Total Wife
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,205 likes - 271 songs - 14 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,151 likes - 271 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

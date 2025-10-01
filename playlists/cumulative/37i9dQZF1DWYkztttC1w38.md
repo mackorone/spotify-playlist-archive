@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-122 songs - 8 hr 17 min
+123 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dvorák / Transc\. Lenaerts: Rusalka, Op\. 114, Act 1: Song to the Moon](https://open.spotify.com/track/5nOSt81jKAUYZpTdjcfEOA) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 5:53 | 2022-05-03 | 2024-04-19 |
 | [Empty City](https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Empty City](https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh) | 3:16 | 2022-02-04 |  |
 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 | 2022-02-04 | 2023-01-10 |
+| [Fracture \(Arr\. Vennart for Saxophone, Piano & Moog\)](https://open.spotify.com/track/0h08apulejObjoZ2IJu0R4) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Leif Kaner\-Lidström](https://open.spotify.com/artist/1zgrVzDDzgoBXdxRdd7TsC), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT) | [Fracture \(Arr\. Vennart for Saxophone, Piano & Moog\)](https://open.spotify.com/album/7kfrhFtIzwMsD8dhQuJf69) | 2:49 | 2025-09-29 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Aria da capo \(Arr\. for Violin, Guitar & Cello by David Juritz\)](https://open.spotify.com/track/3k6MvrijJjZZXjBLbevjbr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Juritz](https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk) | [J.S\. Bach: Goldberg Variations arranged for Violin, Guitar & Cello](https://open.spotify.com/album/6xHkcQexkgKAphQAB4M8DW) | 2:19 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/0SFeEtT7B12lgXWn09gCef) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Study Classics: Bach](https://open.spotify.com/album/1ixqeGQw9jJBjkzT9YTMc8) | 2:20 | 2022-10-14 | 2022-11-14 |

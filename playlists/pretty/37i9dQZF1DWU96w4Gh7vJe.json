@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 581677,
+  "num_followers": 581639,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-09-12 11:06:36",
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+    },
+    {
+      "added_at": "2025-09-12 11:06:36",
+      "album": {
         "name": "Byahe",
         "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 197192,
       "name": "Dati (feat. Skusta Clee)",
       "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
-    },
-    {
-      "added_at": "2025-09-12 11:06:36",
-      "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
-      },
-      "artists": [
-        {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
     },
     {
       "added_at": "2025-09-12 11:06:36",

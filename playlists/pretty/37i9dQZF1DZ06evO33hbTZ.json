@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5706,
+  "num_followers": 5710,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAAAu4aJyUJZ66NLtBMGqfds0",
+  "snapshot_id": "aNnMAAAAAAAX1tUkMY7I5f+QWDM+R5QZ",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Yoruba Worship Medley",
-        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 620000,
-      "name": "Deep Yoruba Worship Medley",
-      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You make all things Beautiful (Piano Session)",
         "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 87405,
       "name": "You make all things Beautiful (Piano Session)",
       "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Yoruba Worship Medley",
+        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 620000,
+      "name": "Deep Yoruba Worship Medley",
+      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
     },
     {
       "added_at": null,
@@ -435,42 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "According To Brother Nwachukwu",
-        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 193207,
-      "name": "Onyeoma",
-      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOOD and MORE",
         "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
       },
@@ -491,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Absolutely Nothing",
+      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Urhobo/Isoko Worship Medley",
         "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 363781,
       "name": "Urhobo/Isoko Worship Medley",
       "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "According To Brother Nwachukwu",
+        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 193207,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Absolutely Nothing",
-      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+        "name": "TOTORI(The Name of Jesus)",
+        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
       },
       "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
+      "duration_ms": 204600,
+      "name": "TOTORI(The Name of Jesus)",
+      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
     },
     {
       "added_at": null,
@@ -627,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTORI(The Name of Jesus)",
-        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
       "artists": [
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 204600,
-      "name": "TOTORI(The Name of Jesus)",
-      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Nkosi",
-      "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"
+      "duration_ms": 164155,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 164155,
-      "name": "Na You",
-      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
+      "duration_ms": 182318,
+      "name": "Nkosi",
+      "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"
     }
   ],
   "unique_name": "This Is Victor Thompson",

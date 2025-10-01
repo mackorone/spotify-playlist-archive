@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Kundu",
+        "url": "https://open.spotify.com/album/1a6F1ovOeeHUkxApo9FXlS"
+      },
+      "artists": [
+        {
+          "name": "NOV3",
+          "url": "https://open.spotify.com/artist/7dHn7mPrBc0Q60J1K6k4ZV"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "Kundu",
+      "url": "https://open.spotify.com/track/0ByXIWDgyHGIAfCwwxkaZ3"
+    },
+    {
+      "album": {
         "name": "Las Cosas Del Joder (Remixes)",
         "url": "https://open.spotify.com/album/1rzrCOabMqdfLZE0a0ztnu"
       },

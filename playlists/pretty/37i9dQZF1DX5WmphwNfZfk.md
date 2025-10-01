@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > Celebrate 1000 RADAR artists by listening to some of the most streamed RADAR artists from Canada\. Cover: 347aidan
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,962 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,957 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: MFS
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Charlu
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,249 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,250 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 |
-| 2 | [Close my eyes \(feat\. さらさ\)](https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 3:39 |
-| 3 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
-| 4 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
-| 5 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 |
-| 6 | [Not Your Mama](https://open.spotify.com/track/3WxH7aG8DmX0ADK2DSOlsz) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Not Your Mama](https://open.spotify.com/album/2sQc3lirxt9fRSmk24jAhd) | 3:10 |
-| 7 | [Hello](https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Hello](https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd) | 3:52 |
-| 8 | [星に願う](https://open.spotify.com/track/1SeC3ZRkFfGdhJw3ftr8Zp) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [星に願う](https://open.spotify.com/album/3jsSiU9UXByd2z5jSr8ViL) | 2:46 |
+| 1 | [In The Sky](https://open.spotify.com/track/0txmA3JAGwVexETZav673g) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [In The Sky](https://open.spotify.com/album/6ovKmvWBa2VZBSDZHkJNwj) | 2:59 |
+| 2 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
+| 3 | [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 |
+| 4 | [Close my eyes \(feat\. さらさ\)](https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 3:39 |
+| 5 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
+| 6 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 |
+| 7 | [Not Your Mama](https://open.spotify.com/track/3WxH7aG8DmX0ADK2DSOlsz) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Not Your Mama](https://open.spotify.com/album/2sQc3lirxt9fRSmk24jAhd) | 3:10 |
+| 8 | [Hello](https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Hello](https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd) | 3:52 |
 | 9 | [Happy](https://open.spotify.com/track/3IiMNkpbU0zjXggH3hwits) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Happy](https://open.spotify.com/album/3jqGi1n11HFBscBMDS2sVZ) | 4:23 |
 | 10 | [\#東京LIFE](https://open.spotify.com/track/0hT6HbnZafnoRyMycbK4IQ) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [\#東京LIFE](https://open.spotify.com/album/1ZopAiG7fuudpo9DULQp22) | 3:03 |
 | 11 | [ChaO!](https://open.spotify.com/track/3KmgpETY3e5w8q0pz1oxFY) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [ChaO!](https://open.spotify.com/album/1TqJgDyCN2zhDSYXI1iu8h) | 3:36 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 16 | [Venus](https://open.spotify.com/track/35pTdvFQUjqyQwXRuBfYwu) | [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [Venus](https://open.spotify.com/album/0a4M9djldSAwLG6qpcJodJ) | 2:37 |
 | 17 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |
 | 18 | [Instead of me](https://open.spotify.com/track/5ME3aSbiGqfEQzKHYphjax) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Instead of me](https://open.spotify.com/album/7FSDdVzn4vy60tLdQylGRd) | 5:31 |
-| 19 | [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 |
+| 19 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 |
 | 20 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 |
 | 21 | [花・魁 \- feat\. Medusa, E.V.P & IFE](https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Medusa](https://open.spotify.com/artist/1TzyeS338hV4LOl9GW22tA), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/7kCFvoPirTF7lPnUQyUUAQ) | 3:15 |
 | 22 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
-| 23 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 |
+| 23 | [Diary 9](https://open.spotify.com/track/1t8SvlndvfSar6g8hcb9f8) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Diary 9](https://open.spotify.com/album/6Q1sJjqEGKYf3hS1hJwpO4) | 2:47 |
 | 24 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 |
 | 25 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 |
 | 26 | [One Heart](https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [One Heart](https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 |
 | 50 | [iconoclasm](https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [iconoclasm](https://open.spotify.com/album/0a5DWiA2nEcK4XnfDlEW6M) | 4:50 |
 
-Snapshot ID: `AAAAAIaq7Lp9JhLNcngkkzyEAsm2wty1`
+Snapshot ID: `AAAAAPvvRcdIEno5MXbyWLrF75F94Yjt`

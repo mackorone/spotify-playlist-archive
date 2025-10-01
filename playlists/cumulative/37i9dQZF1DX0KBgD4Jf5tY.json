@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5PbGXiwDFSQSMmzQ3pP5Jj\">Vanegas</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3UBYL8t0DhD4uhJxF0FtGT\">Saint Ludo</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -980,7 +980,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 160098,
       "name": "7 AM",
       "url": "https://open.spotify.com/track/3csFngzlVP0z2lsE8pdp4E"
@@ -1002,6 +1002,24 @@
       "duration_ms": 174033,
       "name": "7lettere",
       "url": "https://open.spotify.com/track/7lPWmTSU58LrU94FGOz0r7"
+    },
+    {
+      "album": {
+        "name": "9.11",
+        "url": "https://open.spotify.com/album/2kW4PRbdudYsQbFinvm3hr"
+      },
+      "artists": [
+        {
+          "name": "Satantango",
+          "url": "https://open.spotify.com/artist/5DFr0aAEV4CYkcW8stBcdS"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198163,
+      "name": "9.11",
+      "url": "https://open.spotify.com/track/6rEJHVOlMbfgLxks8xRZk5"
     },
     {
       "album": {
@@ -1056,6 +1074,24 @@
       "duration_ms": 176657,
       "name": "A Casa Presto",
       "url": "https://open.spotify.com/track/5T0CIfawDCTjWMi3wDHmgC"
+    },
+    {
+      "album": {
+        "name": "A CAZZOTTI",
+        "url": "https://open.spotify.com/album/6c8l4F3pe3larxrkYPccQD"
+      },
+      "artists": [
+        {
+          "name": "Refo",
+          "url": "https://open.spotify.com/artist/03mwxB2gQpaYZNRm5nNjIU"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167027,
+      "name": "A CAZZOTTI",
+      "url": "https://open.spotify.com/track/4AEaIOv3lNrrS1PEWaLBaW"
     },
     {
       "album": {
@@ -2014,6 +2050,24 @@
       "duration_ms": 260584,
       "name": "Altar of Love",
       "url": "https://open.spotify.com/track/3cBrcj7y4bxf28L248hchQ"
+    },
+    {
+      "album": {
+        "name": "Ama Dee (luna piena)",
+        "url": "https://open.spotify.com/album/6EvtGIGPJp23dy4PX5IO48"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181072,
+      "name": "Ama Dee (luna piena)",
+      "url": "https://open.spotify.com/track/3s8PNbBju5JbOS7cHiFgw3"
     },
     {
       "album": {
@@ -7213,6 +7267,24 @@
     },
     {
       "album": {
+        "name": "Modern Night",
+        "url": "https://open.spotify.com/album/6r16Yf6f2QKUIHETpKybKx"
+      },
+      "artists": [
+        {
+          "name": "Alex Fernet",
+          "url": "https://open.spotify.com/artist/0SRTURSTzG8vb5BJXxm72J"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/7tAZWSktCF92ECu4wVCa6P"
+    },
+    {
+      "album": {
         "name": "Inside Jokes",
         "url": "https://open.spotify.com/album/72F0BgMLjtU9pL0T3p9A26"
       },
@@ -8077,6 +8149,24 @@
     },
     {
       "album": {
+        "name": "Debbie Downer",
+        "url": "https://open.spotify.com/album/3C5jk1JjdzAmiCxT3VNHpI"
+      },
+      "artists": [
+        {
+          "name": "Francesca Everly",
+          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Debbie Downer",
+      "url": "https://open.spotify.com/track/5UWTmd4dSybFZNXJesrAWr"
+    },
+    {
+      "album": {
         "name": "Cemento",
         "url": "https://open.spotify.com/album/1crXKMxBTr3vTS6PmcH0v3"
       },
@@ -8218,7 +8308,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 154703,
       "name": "Dentro un altro film",
       "url": "https://open.spotify.com/track/7HoX3x1NFugzHnCagj0XKb"
@@ -9712,6 +9802,24 @@
       "duration_ms": 195282,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/4O1RfYRRq0FaCT3kSRFjQ3"
+      },
+      "artists": [
+        {
+          "name": "tabascomeno",
+          "url": "https://open.spotify.com/artist/7ry1g6OMLhn01U5Ok1JfUc"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277260,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1rGIBkcQu9PMjvjMY0REx2"
     },
     {
       "album": {
@@ -11246,7 +11354,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 183385,
       "name": "fine del giorno",
       "url": "https://open.spotify.com/track/04Y2Etijw0vUBsXjHbdOPP"
@@ -12158,7 +12266,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 185403,
       "name": "FUORISEDE",
       "url": "https://open.spotify.com/track/0sEb1ViSwfkLtgwOSnOMjg"
@@ -12540,6 +12648,24 @@
       "duration_ms": 183125,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
+    },
+    {
+      "album": {
+        "name": "Gioielli Neri",
+        "url": "https://open.spotify.com/album/0e56GJgBZADNyqunC1cBsN"
+      },
+      "artists": [
+        {
+          "name": "Sara Gioielli",
+          "url": "https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Gioielli Neri",
+      "url": "https://open.spotify.com/track/0gGjsjXrANoFvNSrPpXDVm"
     },
     {
       "album": {
@@ -13979,6 +14105,24 @@
     },
     {
       "album": {
+        "name": "Idk",
+        "url": "https://open.spotify.com/album/6k3MOMsZF3tgUrfbaf4FJx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gobbi",
+          "url": "https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171322,
+      "name": "Idk",
+      "url": "https://open.spotify.com/track/0PCNmy8zuWYwJFpMlFkh6t"
+    },
+    {
+      "album": {
         "name": "Gimmy Glauco",
         "url": "https://open.spotify.com/album/6z9veasf20bXNzg65YHgsi"
       },
@@ -14314,7 +14458,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 177493,
       "name": "IL SOLE",
       "url": "https://open.spotify.com/track/3zk5LaepUYP30KimiGFLUL"
@@ -14756,6 +14900,24 @@
       "duration_ms": 178760,
       "name": "Incidere",
       "url": "https://open.spotify.com/track/6FfhmmhKjIXyYRkQxvNH0C"
+    },
+    {
+      "album": {
+        "name": "Incubi",
+        "url": "https://open.spotify.com/album/5eTOSgxvtsTnKdT4BGW6Qf"
+      },
+      "artists": [
+        {
+          "name": "151515!",
+          "url": "https://open.spotify.com/artist/2Yi3CLx7EWKwzPnkDFz0GL"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147410,
+      "name": "Incubi",
+      "url": "https://open.spotify.com/track/7aGh19ssTDMKtagFVgb3Gx"
     },
     {
       "album": {
@@ -18240,7 +18402,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 146291,
       "name": "Male di te",
       "url": "https://open.spotify.com/track/7Ec7IO9nRpGt33WiC8GihP"
@@ -18567,6 +18729,24 @@
     },
     {
       "album": {
+        "name": "mare mare mare",
+        "url": "https://open.spotify.com/album/1MpsnGhvNw4n1NXnIHmZdc"
+      },
+      "artists": [
+        {
+          "name": "RIP",
+          "url": "https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "mare mare mare",
+      "url": "https://open.spotify.com/track/7J5ahdmMsCu6Ymkmgxn6ZW"
+    },
+    {
+      "album": {
         "name": "Zolfo",
         "url": "https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm"
       },
@@ -18690,6 +18870,24 @@
       "duration_ms": 187887,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/6EvI5xktrT4QArsjKeHJTj"
+    },
+    {
+      "album": {
+        "name": "MARONNA",
+        "url": "https://open.spotify.com/album/6OlXNyv0KL9Sb6Zxz3JzTy"
+      },
+      "artists": [
+        {
+          "name": "IDDA",
+          "url": "https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "MARONNA",
+      "url": "https://open.spotify.com/track/2ITtOrqUTkg8B5Q322ukyc"
     },
     {
       "album": {
@@ -19846,6 +20044,24 @@
       "duration_ms": 106197,
       "name": "MOOD 3",
       "url": "https://open.spotify.com/track/4KW1yB1syYV67cuPjvkcmA"
+    },
+    {
+      "album": {
+        "name": "mosca cieca",
+        "url": "https://open.spotify.com/album/0yMrSvXYaDr0WKekRESPn5"
+      },
+      "artists": [
+        {
+          "name": "juni",
+          "url": "https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196957,
+      "name": "mosca cieca",
+      "url": "https://open.spotify.com/track/4LKpTG7GU7pkzAv9fJyqop"
     },
     {
       "album": {
@@ -23988,7 +24204,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 146688,
       "name": "PARTENOPE",
       "url": "https://open.spotify.com/track/2cLhmX9IiiarAdCGOP7pzA"
@@ -24722,6 +24938,24 @@
       "duration_ms": 203789,
       "name": "PIANOPIANOFORTE",
       "url": "https://open.spotify.com/track/1IPYLIUcqI1jxQCasFK8Iy"
+    },
+    {
+      "album": {
+        "name": "Piantine",
+        "url": "https://open.spotify.com/album/5d6yF4Guh7jw3e9aeNL4gZ"
+      },
+      "artists": [
+        {
+          "name": "Bravo, Bravissimo",
+          "url": "https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165225,
+      "name": "Piantine",
+      "url": "https://open.spotify.com/track/70KnZRAgna00ZBx4v0Zwjx"
     },
     {
       "album": {
@@ -25934,6 +26168,24 @@
       "duration_ms": 187874,
       "name": "Punto e a capo",
       "url": "https://open.spotify.com/track/5avRtlxCtBeeGKqTilmkeq"
+    },
+    {
+      "album": {
+        "name": "puoi sempre confidare nelle formule",
+        "url": "https://open.spotify.com/album/7CI5nz0Vl5DVWeDMrLOPjA"
+      },
+      "artists": [
+        {
+          "name": "LENORE",
+          "url": "https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138520,
+      "name": "puoi sempre confidare nelle formule",
+      "url": "https://open.spotify.com/track/3eYi695ZVuGv1xcWAmsSuN"
     },
     {
       "album": {
@@ -31113,6 +31365,28 @@
     },
     {
       "album": {
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
+    },
+    {
+      "album": {
         "name": "Sui sedili della metro",
         "url": "https://open.spotify.com/album/1Zp0SNFItqjRJxuyRD0ors"
       },
@@ -32042,6 +32316,28 @@
       "duration_ms": 236470,
       "name": "Think I'm Gonna Love U",
       "url": "https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm"
+    },
+    {
+      "album": {
+        "name": "think of u",
+        "url": "https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB"
+      },
+      "artists": [
+        {
+          "name": "Cucina Sonora",
+          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
+        },
+        {
+          "name": "Pentola",
+          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238309,
+      "name": "think of u",
+      "url": "https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv"
     },
     {
       "album": {
@@ -33284,6 +33580,24 @@
       "duration_ms": 143250,
       "name": "Un drink pi\u00f9 deciso",
       "url": "https://open.spotify.com/track/5LdrXyHptMz49GWlCj2r6g"
+    },
+    {
+      "album": {
+        "name": "Un Letto Per Tre",
+        "url": "https://open.spotify.com/album/2a6h0pFMb6Cbuytstwib7s"
+      },
+      "artists": [
+        {
+          "name": "Lumiero",
+          "url": "https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195826,
+      "name": "Un Letto Per Tre",
+      "url": "https://open.spotify.com/track/23qftjW7ppRTtcIY8Q9Hev"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-227 songs - 11 hr 39 min
+231 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,8 @@
 | [Dance of Calming Sun](https://open.spotify.com/track/21FOpLRPeaNDp4kLANJL9A) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:31 | 2022-09-02 | 2022-10-26 |
 | [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 | 2024-07-23 |  |
 | [Deep Wellness](https://open.spotify.com/track/3n4QsPRpbkzgXwP8PprorS) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Fountain of Life](https://open.spotify.com/album/1ipenLBGBc2xcdSKd4BF08) | 3:27 | 2022-09-02 | 2022-11-26 |
+| [Divya](https://open.spotify.com/track/7sB73Z8yPxPWslAETo2L9d) | [The Still Grove](https://open.spotify.com/artist/2RGAaERtAwx8nfiQlTTzSK) | [Divya](https://open.spotify.com/album/0Vmffb5uWJhXs6zi8U9mI3) | 3:16 | 2025-09-30 |  |
+| [Dreamcatcher](https://open.spotify.com/track/5t6fUO17x9Y9hbY0SPTHkE) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Dreamcatcher](https://open.spotify.com/album/0EIWPtJH5BOFGnhYESjCDi) | 2:36 | 2025-09-30 |  |
 | [Dreamwalker](https://open.spotify.com/track/6O42QZVJXVbThqGmVf81av) | [Mearlorne](https://open.spotify.com/artist/3qBmBfvM7WekY4GCLnU9vk) | [Dreamwalker](https://open.spotify.com/album/7DG1RTtJnpGzSNVJmAsil9) | 2:33 | 2022-09-02 |  |
 | [Drums of Shamanic Ritual](https://open.spotify.com/track/0zbUcJfHT0cvEpxOmIlKNx) | [Relaxing Zen Music Therapy](https://open.spotify.com/artist/1uWS5oGawRMbrNpjVFOqAp) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:43 | 2022-09-02 | 2022-10-26 |
 | [Détente \(Hang drum\)](https://open.spotify.com/track/799kB7l9LSSlsz4MMaoaok) | [Yoga Exercices Club](https://open.spotify.com/artist/5NlewSfsj9UeVhTKJrNip9) | [Yoga del Mar – Cours de Yoga et Pilates, musique d'ambience et ambient lounge pour Hatha Yoga et Power Pilates](https://open.spotify.com/album/3JXmupCoVuKGHGL2ji1Xbg) | 5:26 | 2022-09-02 | 2023-01-21 |
@@ -65,6 +67,7 @@
 | [Essence of Life](https://open.spotify.com/track/63y6PepwrdwXegkLQSZj91) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:29 | 2022-09-02 | 2023-06-22 |
 | [Eternity Present](https://open.spotify.com/track/6cbiH9ayUzdB3AZsO9GdNs) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Lotus River](https://open.spotify.com/album/1E6wsfpKLEbiDmd5j3ea0b) | 2:30 | 2025-02-13 |  |
 | [Euthalia Lubentina](https://open.spotify.com/track/2bni5uNaF2vpuErZvO8Z33) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Gende Ka Phool](https://open.spotify.com/album/2jCOAIjv0fhD1bap6y0i6Q) | 3:21 | 2022-09-02 | 2024-07-24 |
+| [Evaporation](https://open.spotify.com/track/38t0qC0zp5peGu2TU5i2I4) | [Dada Schism](https://open.spotify.com/artist/5Rw9ji4Ou4OecPAdmUbxoP) | [Evaporation](https://open.spotify.com/album/5MohGgrEYVzQ9Ozg9IbfSB) | 2:36 | 2025-09-30 |  |
 | [Evolving](https://open.spotify.com/track/72ayVp3nnzaDgv34YIXR4x) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [Evolving](https://open.spotify.com/album/6DOASUKDLzaYzNsbFx5xVL) | 3:03 | 2022-09-02 |  |
 | [Expectations](https://open.spotify.com/track/3sqAF5u1lZdHD2FpYRNyyM) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [FEAR](https://open.spotify.com/album/7ifhbe9ZjiElMn91LKohIr) | 3:28 | 2022-09-02 | 2024-11-12 |
 | [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 | 2024-02-22 |  |
@@ -153,6 +156,7 @@
 | [Purity](https://open.spotify.com/track/4fu3B9ZiZThtlawPjsXy9q) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Oxygen](https://open.spotify.com/album/6xKe8eYdAqko4lwgPh9m7K) | 2:51 | 2023-06-21 | 2025-01-08 |
 | [Queen West Blues](https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Queen West Blues](https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW) | 2:21 | 2022-09-02 |  |
 | [Ra](https://open.spotify.com/track/46WdVsTQR8oNSCz9TQTWup) | [Phumos](https://open.spotify.com/artist/4Kbma5Q6AakN90M13bF7mh) | [Ra](https://open.spotify.com/album/5iAKOHMEOZsRCvICTyDVuE) | 2:36 | 2023-08-11 |  |
+| [Reminiscing Hearts](https://open.spotify.com/track/6YfViY3EL57dtCnLlAAneM) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Reminiscing Hearts](https://open.spotify.com/album/4vF15grtrtvIXCWVtEZm7t) | 3:03 | 2025-09-30 |  |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-09-02 |  |
 | [Rhythm Of My Soul](https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Rhythm Of My Soul](https://open.spotify.com/album/6silPFIfr3SUpF5cQNn9tD) | 3:04 | 2022-09-02 |  |
 | [Rhythm River](https://open.spotify.com/track/3Br4ekPWHt39VULZjDvlgt) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 2:54 | 2022-10-25 |  |

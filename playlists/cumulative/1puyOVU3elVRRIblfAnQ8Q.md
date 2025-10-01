@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-227 songs - 13 hr 5 min
+228 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Cumuto](https://open.spotify.com/track/49fAxCphCd8DOzXDHX4zzU) | [Sagaman](https://open.spotify.com/artist/2U7zxnBc9X7hVKBiVfSM29), [XL](https://open.spotify.com/artist/5eWRNK24B0BOh4wiCge5IH) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:51 | 2024-08-23 | 2024-09-27 |
 | [Damage](https://open.spotify.com/track/0llgSrqseKarsyuL2DxOEc) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Mind Of Madness](https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ) | 3:13 | 2024-04-30 | 2024-08-24 |
 | [Damage \- The Glitch Mob Remix](https://open.spotify.com/track/7cit6IMrSDbpXR6878YzLi) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Mind Of Madness \(Remixes\)](https://open.spotify.com/album/5USIUAtL8jerdsgVnNBuhg) | 3:58 | 2025-03-21 |  |
+| [Danger](https://open.spotify.com/track/0KKP66XVq3KxciJpfvd6ti) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Danger](https://open.spotify.com/album/3hJK4iCpLy0EroovgbCDzI) | 2:59 | 2025-09-30 |  |
 | [Danger](https://open.spotify.com/track/3SoamIpcuox8LEzgOOB5EH) | [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw), [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:58 | 2024-08-23 | 2024-09-27 |
 | [Deathwish](https://open.spotify.com/track/2Z85COMAN65p26N55yd32P) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Deathwish](https://open.spotify.com/album/288QGoQc8PJsoexl5pFm2T) | 3:06 | 2023-03-07 | 2023-11-09 |
 | [Deep Inside](https://open.spotify.com/track/080ykYdAZJaUaEeu1hnVtF) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Lily Of The Valley](https://open.spotify.com/album/22MhIeIM0sCQ7bJllDMnSZ) | 4:05 | 2024-04-30 | 2024-08-24 |

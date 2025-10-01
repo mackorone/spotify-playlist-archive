@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:40VzC4fLTuY4YWFwKXK4Cv">1300SAINT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,878 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,935 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BloodSucker.](https://open.spotify.com/track/3K8EcJSK3DgNqUzsrccwAX) | [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv) | [NewDrug.](https://open.spotify.com/album/4iajDNksX7WzdVMnOeOR12) | 2:16 |
+| 1 | [Set.](https://open.spotify.com/track/2cWVjGXcLejkTbfF5coKVI) | [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv), [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc), [Diorvsyou](https://open.spotify.com/artist/6EoHLAwai5b3t4VyqadsOj), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [NewDrug.](https://open.spotify.com/album/4iajDNksX7WzdVMnOeOR12) | 2:42 |
 | 2 | [Went West Freestyle](https://open.spotify.com/track/5B31zcUzEHZXjTPPD76OlR) | [Fadess](https://open.spotify.com/artist/1MZ5vKXJQQzDYmMOeCyGFo) | [Went West Freestyle](https://open.spotify.com/album/1pa5SwAP5PnXgL80OVF4Va) | 1:23 |
 | 3 | [Successful](https://open.spotify.com/track/4a4TQY1JEu1TLRCIM2cpsh) | [PCF Jaey](https://open.spotify.com/artist/3SQyoWBxZH35NqaGtKDplP), [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Successful](https://open.spotify.com/album/1rshOvPIwne7xx6WUSVAle) | 1:55 |
 | 4 | [1 of 1.](https://open.spotify.com/track/4CaMf0ogdDd9H4uHpZ8RcX) | [Yves!](https://open.spotify.com/artist/0nYLdRhYC1rJA92ulnyB74) | [ROTY](https://open.spotify.com/album/4YQV93WNNfExX5b9zD5Qf3) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Broken Barbies](https://open.spotify.com/track/6U0BBjRQG2uyoFjDmXSS2n) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5) | [Broken Barbies](https://open.spotify.com/album/404SZ5N0p2kS6E6JT90dUx) | 2:49 |
 | 100 | [Henny](https://open.spotify.com/track/1uDOBfsiIoikT4SsoUqyWo) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Enjoy The Ride \(Deluxe\)](https://open.spotify.com/album/1eij4HEN2WwHvxXvX9Qo3e) | 2:03 |
 
-Snapshot ID: `AAAAABhL9tZRdVwaMATznRTtnbrityTW`
+Snapshot ID: `AAAAAMmgra687NAxt+9bGAdbQK8Hf/e6`

@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-79 songs - 8 hr 49 min
+80 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Heavens \- Mono Suono Remix](https://open.spotify.com/track/2ka92kGIMOysEdBY2td6iN) | [Alex Pich](https://open.spotify.com/artist/6Fg5tw2IVCqxHe0BbqLEpR) | [Heavens](https://open.spotify.com/album/4V5fwELDjeeLNHRRWjtvQW) | 7:35 | 2023-02-23 |  |
 | [Himalayas \- Original mix](https://open.spotify.com/track/7lFzbBAuu4DUEmNvZlfufq) | [Eleve \(NO\)](https://open.spotify.com/artist/1QtV1ORvBv1tSsqv8eQI0N), [Maiga](https://open.spotify.com/artist/0ecp1rT4umtmtcyx0ItXg8) | [Himalayas](https://open.spotify.com/album/0lKnQBM2GfogWKJVRjevdL) | 8:53 | 2021-03-23 |  |
 | [Innerspace \- Dan & Sam Intro Mix](https://open.spotify.com/track/1oz228zg8R4Yqth9OFooYX) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Dan & Sam](https://open.spotify.com/artist/1jNFCmMEhZotuBe2jZtge8) | [Silk Remixed 03](https://open.spotify.com/album/3fue71GveqwilSGaLEbIEu) | 8:36 | 2023-02-23 |  |
+| [Kundu](https://open.spotify.com/track/0ByXIWDgyHGIAfCwwxkaZ3) | [NOV3](https://open.spotify.com/artist/7dHn7mPrBc0Q60J1K6k4ZV) | [Kundu](https://open.spotify.com/album/1a6F1ovOeeHUkxApo9FXlS) | 3:32 | 2025-09-30 |  |
 | [Las Cosas Del Joder \- Talamanca Vocal Remix](https://open.spotify.com/track/6VVujJR7rIjy5R4Xqe52hA) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Las Cosas Del Joder \(Remixes\)](https://open.spotify.com/album/1rzrCOabMqdfLZE0a0ztnu) | 6:52 | 2023-02-23 |  |
 | [Lazy Sundays \- Original Mix](https://open.spotify.com/track/50iORwr4EAxDZvq7syHVYI) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2), [VITO \(ES\)](https://open.spotify.com/artist/7E1pBq3xzrjj2fd8VAFpPj), [Jorn Van Deynhoven](https://open.spotify.com/artist/6NuXlqTU1RF0aIoyD46z5v), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Lazy Sundays](https://open.spotify.com/album/3I1gEYq9EqZzMOQ4ApVofD) | 6:43 | 2021-03-23 |  |
 | [Let There Be Dark: Chase \- Radio Edit](https://open.spotify.com/track/2isvgH0UTSgt05KDEYznJn) | [Numatra](https://open.spotify.com/artist/0BxefgliewSrvWmU3mPygK) | [Let There Be Dark: Chase \(Radio Edit\)](https://open.spotify.com/album/0q5gePrhK7dQdGtD9hQPrG) | 3:31 | 2022-09-01 |  |

@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 247173,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
@@ -508,10 +508,28 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 158000,
       "name": "APPLE JUICE (Feat. Chan)",
       "url": "https://open.spotify.com/track/6R2l9v1sKQ1A4PTxtIJryL"
+    },
+    {
+      "album": {
+        "name": "in Autumn, You",
+        "url": "https://open.spotify.com/album/4alspHJEqDcXNDmxnArBRG"
+      },
+      "artists": [
+        {
+          "name": "krnb",
+          "url": "https://open.spotify.com/artist/5kW21xTx9kCwijRQ3nCYYS"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195762,
+      "name": "Autumn Night",
+      "url": "https://open.spotify.com/track/3yEpbDpsrWJaRX2KJSM7HF"
     },
     {
       "album": {
@@ -3037,6 +3055,28 @@
     },
     {
       "album": {
+        "name": "If You Were The Rain",
+        "url": "https://open.spotify.com/album/0E4fXApSRac34NKsvzisUC"
+      },
+      "artists": [
+        {
+          "name": "Min Jiwoon",
+          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215471,
+      "name": "If You Were The Rain",
+      "url": "https://open.spotify.com/track/3pOis9ELzIrpgNsU11fBwf"
+    },
+    {
+      "album": {
         "name": "ilung ilung",
         "url": "https://open.spotify.com/album/0mL0IeA72ywXQ6FrxK4Ryg"
       },
@@ -3070,6 +3110,24 @@
       "duration_ms": 176694,
       "name": "In December",
       "url": "https://open.spotify.com/track/796UQ9iCOw6kzuXY7ioeGg"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/5kGUlF4MVnQTX3DBO6r6Ip"
     },
     {
       "album": {
@@ -3172,7 +3230,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 182250,
       "name": "it's you",
       "url": "https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz"
@@ -3610,7 +3668,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 167506,
       "name": "London Haze",
       "url": "https://open.spotify.com/track/6sI5B7hDd3qfV136fsknLN"
@@ -5394,7 +5452,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 197961,
       "name": "SARANGHAE",
       "url": "https://open.spotify.com/track/3URB1DMuLPkeGkRj1KiE37"

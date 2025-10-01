@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140686,
+      "name": "Carnaval de Arequipa",
+      "url": "https://open.spotify.com/track/2qeJaVBYNlFUUcdydc3Sif"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA"
       },
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 212952,
       "name": "Mar de Emociones",
       "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"

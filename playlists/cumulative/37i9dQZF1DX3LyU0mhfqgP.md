@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Gatlin
+> Songs from LGBTQIA+ artists\. Cover: Barbi Recanati
 
 1,599 songs - 3 day 14 hr 27 min
 
@@ -92,8 +92,8 @@
 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 | 2024-06-12 | 2024-07-10 |
 | [Amore viscerale \(charnel\)](https://open.spotify.com/track/34R0X1WwO2D3Sl3nJr8ayz) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Pas facile](https://open.spotify.com/album/1j3iGC3DHnfA9D2UsWNona) | 2:08 | 2025-06-05 | 2025-09-10 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/64ryOoAgl2QuzB1G5cukz3) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/1O6LqsYQ8uIdo3utTawVCl) | 3:19 | 2023-01-24 | 2023-03-08 |
-| [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-04-08 | 2025-09-24 |
-| [Anchor](https://open.spotify.com/track/5aWd3x5i3VGHddzSZAupS3) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Anchor](https://open.spotify.com/album/27Xoq5t9AawWqgS2goiUiE) | 3:22 | 2025-09-23 |  |
+| [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-04-08 |  |
+| [Anchor](https://open.spotify.com/track/5aWd3x5i3VGHddzSZAupS3) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Anchor](https://open.spotify.com/album/27Xoq5t9AawWqgS2goiUiE) | 3:22 | 2025-09-23 | 2025-10-01 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-09-16 | 2024-01-11 |
 | [Ankles](https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:11 | 2025-06-05 |  |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-11 | 2025-03-12 |
@@ -656,7 +656,7 @@
 | [I Feel Alive](https://open.spotify.com/track/0uvCOD3I7rr86UEQfXXijF) | [IMRI](https://open.spotify.com/artist/0SWdzEo0WG8A0CsBiJMuJS) | [I Feel Alive](https://open.spotify.com/album/3TKOCUg8OiPqpU2Ln1S59m) | 3:00 | 2025-05-13 | 2025-05-20 |
 | [I Give Everything](https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [I Give Everything](https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z) | 2:52 | 2022-01-07 | 2022-07-28 |
 | [i hate being cool](https://open.spotify.com/track/64uMhhVtwbC05h7N0T2fzn) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:33 | 2023-08-08 | 2023-10-11 |
-| [I Kissed a Boy](https://open.spotify.com/track/0ZZ1vpHL9AnwEujppPudhK) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [I Kissed a Boy](https://open.spotify.com/album/59lADBYwihYtPGRSnt0W1a) | 3:12 | 2025-06-05 | 2025-09-24 |
+| [I Kissed a Boy](https://open.spotify.com/track/0ZZ1vpHL9AnwEujppPudhK) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [I Kissed a Boy](https://open.spotify.com/album/59lADBYwihYtPGRSnt0W1a) | 3:12 | 2025-06-05 |  |
 | [I Kissed a Boy](https://open.spotify.com/track/5CBIn8ukSRxaCniNN9BcRh) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [I Kissed a Boy](https://open.spotify.com/album/1zLXtQZ8rJmCSxAUj4GB5R) | 3:12 | 2025-09-09 |  |
 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-06-01 | 2023-07-12 |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2023-01-24 | 2023-03-08 |
@@ -1280,7 +1280,7 @@
 | [SO HARD TO TELL](https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1xXzkgC4BLs5RELfhh0pqC) | 3:05 | 2023-03-07 | 2023-03-26 |
 | [Soft Rockstar](https://open.spotify.com/track/60DgZLH53ikzQHRveL4YUf) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [Soft Rockstar](https://open.spotify.com/album/7bMD3FFiRR5tiWyZwPx0T6) | 3:01 | 2023-03-07 | 2023-04-01 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-07 | 2022-08-01 |
-| [Soho House Valet](https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Soho House Valet](https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa) | 4:02 | 2025-09-23 |  |
+| [Soho House Valet](https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Soho House Valet](https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa) | 4:02 | 2025-09-23 | 2025-10-01 |
 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 | 2024-06-05 | 2024-07-10 |
 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 | 2023-03-07 | 2023-04-01 |
 | [Somebody I F\*cked Once \- Lady Bee Remix](https://open.spotify.com/track/4QeEtuZ4paF4UxTtb2MauS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Somebody I F\*cked Once \(The Extras\)](https://open.spotify.com/album/42n9e4oj8yQcXV5CN4uQx0) | 2:25 | 2022-01-21 | 2022-04-16 |

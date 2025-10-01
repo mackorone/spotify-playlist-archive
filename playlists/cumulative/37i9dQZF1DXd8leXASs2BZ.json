@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: e5",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: IFE",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 144705,
       "name": "After the Rain",
       "url": "https://open.spotify.com/track/2AkSZpZuUrFngA5S9rowa2"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 135629,
       "name": "ain't fired yo",
       "url": "https://open.spotify.com/track/4vCANnPK80yv51MMx3pF46"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 146610,
       "name": "Baddie (feat. Ashley)",
       "url": "https://open.spotify.com/track/2NIJ3Vo4D3nNloyfvrV0qu"
@@ -2620,6 +2620,28 @@
       "duration_ms": 166075,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/5HozX33fkmavrDrpHXLi0L"
+    },
+    {
+      "album": {
+        "name": "BIGGUWAPSHIT",
+        "url": "https://open.spotify.com/album/6qFvHrjXL4T4SaDLrBXCdu"
+      },
+      "artists": [
+        {
+          "name": "Xameleon",
+          "url": "https://open.spotify.com/artist/5NZhMjkFBqtqGM38O6VP7J"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175915,
+      "name": "BIGGUWAPSHIT",
+      "url": "https://open.spotify.com/track/6orKdpjY52CGDBRsv7sbVs"
     },
     {
       "album": {
@@ -3440,6 +3462,24 @@
       "duration_ms": 154615,
       "name": "C-30",
       "url": "https://open.spotify.com/track/7jedeUoyPZOPlP3HY9Hj2e"
+    },
+    {
+      "album": {
+        "name": "CaliGula",
+        "url": "https://open.spotify.com/album/6B9roBrfWzyN8StjQt4xcQ"
+      },
+      "artists": [
+        {
+          "name": "Meguri Sasaki",
+          "url": "https://open.spotify.com/artist/0ENlamuucoK5Fk9eDmUQy3"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164657,
+      "name": "CaliGula",
+      "url": "https://open.spotify.com/track/1wEftlZ7eYxXCs3KIOOeeZ"
     },
     {
       "album": {
@@ -7878,7 +7918,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 208001,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/0J3JXLGEwD42xA3DYfw1RF"
@@ -8054,7 +8094,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 160880,
       "name": "Good Day (feat. YELLASOMA & Lucy)",
       "url": "https://open.spotify.com/track/1LJOb686FLwF7CbeLoCbsi"
@@ -10335,6 +10375,24 @@
     },
     {
       "album": {
+        "name": "Karakuri",
+        "url": "https://open.spotify.com/album/5Ncw8umyLyRmgp2t72FgzU"
+      },
+      "artists": [
+        {
+          "name": "Adem",
+          "url": "https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132261,
+      "name": "Karakuri",
+      "url": "https://open.spotify.com/track/32E5sfCHQrCOQZMBTrtqtr"
+    },
+    {
+      "album": {
         "name": "KARASU",
         "url": "https://open.spotify.com/album/3hqAA3agtdXgyTpm5j0Qb6"
       },
@@ -10740,7 +10798,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 173610,
       "name": "KOREAN TOWN",
       "url": "https://open.spotify.com/track/2UWAwPr8JiOS64mbKZJ8Ca"
@@ -11096,7 +11154,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 160096,
       "name": "Liberty",
       "url": "https://open.spotify.com/track/0VRw9kTlfZRVBFdlnpLqoI"
@@ -11837,6 +11895,36 @@
     },
     {
       "album": {
+        "name": "MAHU-BA",
+        "url": "https://open.spotify.com/album/5kWOkhQ1QZMyivsGIsof8I"
+      },
+      "artists": [
+        {
+          "name": "K.K FLOW",
+          "url": "https://open.spotify.com/artist/5Ca33ybfHnypI7zBIEsHAK"
+        },
+        {
+          "name": "M.O.J.I.",
+          "url": "https://open.spotify.com/artist/4QjtoPVkYN4EowYx5FVHUE"
+        },
+        {
+          "name": "Chouji",
+          "url": "https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu"
+        },
+        {
+          "name": "Shuto",
+          "url": "https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251785,
+      "name": "MAHU-BA",
+      "url": "https://open.spotify.com/track/4MGe92PiqGCacm3kmUWwrN"
+    },
+    {
+      "album": {
         "name": "MAKE IT OUT",
         "url": "https://open.spotify.com/album/04QLqOP3fcM74n7AegzLDg"
       },
@@ -12424,6 +12512,28 @@
       "duration_ms": 203333,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/6PT8F7NTngaBYmXSM2Jf4F"
+    },
+    {
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/2jPBH5Zj4Sm0kNKXXlwkAl"
+      },
+      "artists": [
+        {
+          "name": "SHAMO",
+          "url": "https://open.spotify.com/artist/2SrOC8UHWZI16LBs0yI7nI"
+        },
+        {
+          "name": "CAPTAIN AKIHABARA",
+          "url": "https://open.spotify.com/artist/1kSCEGACHz02GBWsRrqPgz"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92307,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/0NL5bwVAGiD9ombG98W2Ff"
     },
     {
       "album": {
@@ -13658,7 +13768,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 216779,
       "name": "NONE",
       "url": "https://open.spotify.com/track/033XLUF0JKchTq8esT2clY"
@@ -16536,7 +16646,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 165847,
       "name": "Scrambled",
       "url": "https://open.spotify.com/track/5aJnhHweIvKfzWXqbYqgnv"
@@ -16866,6 +16976,24 @@
       "duration_ms": 161176,
       "name": "Sh!t Talker",
       "url": "https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX"
+    },
+    {
+      "album": {
+        "name": "SH!TTO",
+        "url": "https://open.spotify.com/album/28yCD6ZxkJRcvySIMX9N8q"
+      },
+      "artists": [
+        {
+          "name": "RITO",
+          "url": "https://open.spotify.com/artist/0Z0rM6VqPaTt93CYeRUA96"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193875,
+      "name": "SH!TTO",
+      "url": "https://open.spotify.com/track/69pKfbBycC5wvv7TZvBpLl"
     },
     {
       "album": {
@@ -17320,7 +17448,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 160000,
       "name": "siren (feat. hyunis1000)",
       "url": "https://open.spotify.com/track/3wQWj0VmSV3J45I4OXGhwj"
@@ -17538,7 +17666,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 121945,
       "name": "soul speed",
       "url": "https://open.spotify.com/track/6NychmpGVFH0KnVULw0fHM"
@@ -19099,6 +19227,24 @@
     },
     {
       "album": {
+        "name": "Tokio BASE",
+        "url": "https://open.spotify.com/album/7e9xe6jGfFKhELAmV74hWN"
+      },
+      "artists": [
+        {
+          "name": "EL Mosh",
+          "url": "https://open.spotify.com/artist/6VU2ko8f1SVTXZVFOjMoSp"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81538,
+      "name": "Tokio BASE",
+      "url": "https://open.spotify.com/track/18LHzwjRlU4IUvk2wzkSOT"
+    },
+    {
+      "album": {
         "name": "CBKSW",
         "url": "https://open.spotify.com/album/7AfomS05kB5B9hSEmDyRL9"
       },
@@ -19392,6 +19538,24 @@
       "duration_ms": 166941,
       "name": "Try & Error",
       "url": "https://open.spotify.com/track/6vqHiscoH7PWnXvzFt2mxu"
+    },
+    {
+      "album": {
+        "name": "UNVEIL",
+        "url": "https://open.spotify.com/album/3yEgaoes6pOEcD6FA2wCnf"
+      },
+      "artists": [
+        {
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "TSUKI",
+      "url": "https://open.spotify.com/track/3OLdnkCLQB6WftuS9XyPSV"
     },
     {
       "album": {
@@ -20011,6 +20175,28 @@
     },
     {
       "album": {
+        "name": "Waruiko Remix (feat. 7)",
+        "url": "https://open.spotify.com/album/0YDWP0UcwnYdWWjgqrAugs"
+      },
+      "artists": [
+        {
+          "name": "IFE",
+          "url": "https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Waruiko Remix (feat. 7)",
+      "url": "https://open.spotify.com/track/0ShvA0s43V3SjEWQ0dl3EL"
+    },
+    {
+      "album": {
         "name": "WASABI",
         "url": "https://open.spotify.com/album/5Pe3H9Aqz1Tqfx3dBrwwTF"
       },
@@ -20466,6 +20652,28 @@
       "duration_ms": 210149,
       "name": "Who?",
       "url": "https://open.spotify.com/track/75Oa0p1FJ31i6yZlufxB8n"
+    },
+    {
+      "album": {
+        "name": "WHY DO WE FALL?",
+        "url": "https://open.spotify.com/album/5nh27FCgBstWtZxOckskGG"
+      },
+      "artists": [
+        {
+          "name": "Need a Flex",
+          "url": "https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA"
+        },
+        {
+          "name": "Kamui",
+          "url": "https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114022,
+      "name": "WHY DO WE FALL?",
+      "url": "https://open.spotify.com/track/3NOQkx4EG39w85YGD7EvKV"
     },
     {
       "album": {
@@ -22334,6 +22542,28 @@
       "duration_ms": 168106,
       "name": "\u68ee\u6797\u306b\u884c\u3053\u3046",
       "url": "https://open.spotify.com/track/3GJ0dHjqwcsFRDT4DRiWMq"
+    },
+    {
+      "album": {
+        "name": "Loco Dinner",
+        "url": "https://open.spotify.com/album/0tKxvf5NryXC9LrNrC70qs"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197496,
+      "name": "\u697d\u3057\u3044\u3060\u3051\u3058\u3083 (feat. Worldwide Skippa)",
+      "url": "https://open.spotify.com/track/3bTF24ppSYQ8aohmy2CcRC"
     },
     {
       "album": {

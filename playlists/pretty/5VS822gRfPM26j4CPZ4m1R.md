@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,835 likes - 612 songs - 1 day 12 hr 17 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,836 likes - 612 songs - 1 day 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Strangers](https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Strangers](https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts) | 3:21 |
-| 2 | [No Rush \- Tokyo Tea Room Remix](https://open.spotify.com/track/44jahDKznKZ9ZPCTZuq2Br) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Worlds Apart \(B Sides, Alternatives & Demos\)](https://open.spotify.com/album/2za0QJFgVmXC5AzcYwdp1P) | 4:07 |
-| 3 | [to your will](https://open.spotify.com/track/05K1PCsSMuN3YxpXQ13znx) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [to your will](https://open.spotify.com/album/4MPKTBfgQQ4whl02fkmGmC) | 3:27 |
-| 4 | [You And I](https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [You And I](https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE) | 2:16 |
+| 1 | [You And I](https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [You And I](https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE) | 2:16 |
+| 2 | [Strangers](https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Strangers](https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts) | 3:21 |
+| 3 | [No Rush \- Tokyo Tea Room Remix](https://open.spotify.com/track/44jahDKznKZ9ZPCTZuq2Br) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Worlds Apart \(B Sides, Alternatives & Demos\)](https://open.spotify.com/album/2za0QJFgVmXC5AzcYwdp1P) | 4:07 |
+| 4 | [to your will](https://open.spotify.com/track/05K1PCsSMuN3YxpXQ13znx) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [to your will](https://open.spotify.com/album/4MPKTBfgQQ4whl02fkmGmC) | 3:27 |
 | 5 | [Hollow Smiles](https://open.spotify.com/track/4L6g4KVBaDU9eVwVeJwNwf) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Hollow Smiles](https://open.spotify.com/album/5AGi2EuRJQ4k5AYTZ4dUcl) | 3:42 |
 | 6 | [Flat Tire Ride](https://open.spotify.com/track/7ig17MWSf7vdRzcLZwuMIQ) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Flat Tire Ride](https://open.spotify.com/album/3fsHk7lqp1YTBLmGR1kC3t) | 2:46 |
 | 7 | [Black Water](https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Black Water](https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY) | 2:42 |
@@ -621,4 +621,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 611 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 612 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 
-Snapshot ID: `AAAMC1gxuumKvnWIGAl1mFcNi5VuR3kW`
+Snapshot ID: `AAAMDOldd9tmvabY8GZqoKvcUJj+ekJ7`

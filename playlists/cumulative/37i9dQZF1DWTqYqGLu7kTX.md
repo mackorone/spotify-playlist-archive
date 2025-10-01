@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
+> Best of Punjabi Hip\-Hop! Cover:  Prem Dhillon
 
 294 songs - 14 hr 29 min
 

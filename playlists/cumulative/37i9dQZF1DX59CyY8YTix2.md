@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: chilldspot
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー
 
-1,927 songs - 4 day 23 hr 27 min
+1,929 songs - 4 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [CONNECTION](https://open.spotify.com/track/53fUHIIjpMweek9PVAng6O) | [シロクロミーアキャット](https://open.spotify.com/artist/1Df09q3nInMTxbmnre927z) | [CONNECTION](https://open.spotify.com/album/3nPEUW99Gj2sUEgTq1Z6yR) | 3:09 | 2022-07-07 | 2022-07-28 |
 | [crawl](https://open.spotify.com/track/6OpQNagrrEbmvJA4tjtZfU) | [enomoto ryo](https://open.spotify.com/artist/1AH0orz2dejzHUzFLbZjPc) | [crawl](https://open.spotify.com/album/6IOM4KxMYofgem7LgXjAnW) | 3:44 | 2022-05-26 | 2022-06-01 |
 | [Crawl](https://open.spotify.com/track/0VJvLYjlPuebg8wGvrQsPB) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Crawl](https://open.spotify.com/album/2Ul6HklCKOh1lOk1YXLYRW) | 4:06 | 2024-11-05 | 2024-11-13 |
+| [CRAZZZY](https://open.spotify.com/track/2SzkK2z0uUQr6cR5IwRM6L) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CRAZZZY](https://open.spotify.com/album/6epSwi19HQpi4fZERo4jni) | 3:05 | 2025-09-30 |  |
 | [CREAM](https://open.spotify.com/track/1gMYcZj1y84jxRCGQBNqoU) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [CREAM](https://open.spotify.com/album/7aIFDiXgaMPn8PztKrwcAZ) | 3:31 | 2024-04-30 | 2024-05-14 |
 | [CROWN](https://open.spotify.com/track/3iEDGTJMwWGZiaWYnbRHAw) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [CROWN](https://open.spotify.com/album/3tbZnA7NixrMCVrrNbq68M) | 3:38 | 2024-09-17 | 2024-10-16 |
 | [cruising memories](https://open.spotify.com/track/3X6Kg15H1B6tiz0WYt0XmG) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [cruising memories](https://open.spotify.com/album/3Tkmbdj09MTaSBJTv2qqJA) | 4:36 | 2022-06-07 | 2022-07-19 |
@@ -235,7 +236,7 @@
 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 | 2024-12-03 | 2025-03-11 |
 | [ESSAFOSSA](https://open.spotify.com/track/0Us98qR9hodEUjrik1cwBc) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [ESSAFOSSA](https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N) | 4:49 | 2022-06-30 | 2022-07-18 |
 | [eternal](https://open.spotify.com/track/0qLazkyv3x0KcQVKbjFZn7) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [eternal](https://open.spotify.com/album/2CgPevkTzjHM2qrqUhPhCN) | 3:42 | 2022-06-30 | 2022-07-25 |
-| [every breath](https://open.spotify.com/track/1u7iJzDUnxz1AQxhBER9y5) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [every breath](https://open.spotify.com/album/0bYqHYcVjNyJfwfRze6ieE) | 5:11 | 2025-08-05 |  |
+| [every breath](https://open.spotify.com/track/1u7iJzDUnxz1AQxhBER9y5) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [every breath](https://open.spotify.com/album/0bYqHYcVjNyJfwfRze6ieE) | 5:11 | 2025-08-05 | 2025-10-01 |
 | [Everybody needs a smile](https://open.spotify.com/track/7pkDXymrh2KvrSEYHck3PY) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Everybody needs a smile](https://open.spotify.com/album/2HqGSBfVJp9oWiraJChhvH) | 2:52 | 2022-05-31 | 2022-07-13 |
 | [Everyday](https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Everyday](https://open.spotify.com/album/6ixXVAnvxRiOpufVVZc6wb) | 3:01 | 2024-03-19 | 2024-05-01 |
 | [Everything](https://open.spotify.com/track/7zKNKDAOlyIfbOkNfz8KH0) | [FILTER](https://open.spotify.com/artist/5iqcmM1KJhZUVjDmdDlBV5), [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Everything](https://open.spotify.com/album/7kjN0KqGTJvmPyNGilvDDc) | 3:13 | 2023-10-24 | 2023-11-01 |
@@ -713,7 +714,7 @@
 | [Royal Mile](https://open.spotify.com/track/7KvwRpgvmOd1bsTJqh753h) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [未来の途中](https://open.spotify.com/album/77WsE90G0tRmxa3vvrbKdE) | 3:56 | 2023-03-28 | 2023-04-05 |
 | [Ruin Garden](https://open.spotify.com/track/0ges8Lc8lL7cs3TYpLnfer) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Ruin Garden EP](https://open.spotify.com/album/4ecsiWyOj8aNeyeLadHGje) | 3:01 | 2023-11-21 | 2023-11-23 |
 | [Ruin Garden](https://open.spotify.com/track/7mPu4eVF4rDEtVEl921h5O) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Ruin Garden EP](https://open.spotify.com/album/57a4UeoRGOuvzHHMgXS8hl) | 3:01 | 2023-11-21 | 2023-11-29 |
-| [RUN](https://open.spotify.com/track/0snW1gioDaHITTkiIGIiUG) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [RUN](https://open.spotify.com/album/5Y1C38TwlbzfBHVWuYrhjH) | 2:56 | 2025-09-02 |  |
+| [RUN](https://open.spotify.com/track/0snW1gioDaHITTkiIGIiUG) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [RUN](https://open.spotify.com/album/5Y1C38TwlbzfBHVWuYrhjH) | 2:56 | 2025-09-02 | 2025-10-01 |
 | [Sabasister's Theme \- 2024 Ver.](https://open.spotify.com/track/3rU0HTxiUG4LZYGyu34KNR) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 3:32 | 2024-03-07 | 2024-04-19 |
 | [Sabukaru no Iki wo denai](https://open.spotify.com/track/4LkKiQcq9ZmSzR9LzFagHa) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [Sabukaru no Iki wo denai](https://open.spotify.com/album/29SEHfNCTNXqvFMa58w9P2) | 4:46 | 2023-10-17 | 2023-10-25 |
 | [Saiai](https://open.spotify.com/track/4Rz3GhEH2YZGL5jvEdYW5i) | [NANONI](https://open.spotify.com/artist/6kUrujYI9pc2Qz04qaNocy) | [Saiai](https://open.spotify.com/album/6D9PoJyvz7BgTcsmf7CSXJ) | 4:00 | 2024-02-13 | 2024-02-21 |
@@ -1349,6 +1350,7 @@
 | [ヘントウタイ](https://open.spotify.com/track/5acubt3tZ9wsDNM2wSM89d) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ヘントウタイ](https://open.spotify.com/album/6fCwhpkS7SjeOtfEZRFhQQ) | 3:48 | 2024-07-26 | 2025-02-05 |
 | [ペープサートプラネット](https://open.spotify.com/track/45dzjte5s0h0ajfJBWGtSA) | [Ame no Mondays](https://open.spotify.com/artist/09yY2UTdY3L9XxAjGvryHl) | [ペープサートプラネット](https://open.spotify.com/album/4BQa1KBqgQQOFtksZL2vyo) | 3:47 | 2022-05-26 | 2022-07-10 |
 | [ホーム](https://open.spotify.com/track/0CMCDo5iFYvJjUMaweh6dV) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ホーム](https://open.spotify.com/album/6lRRdBI3g2SvShIbhypgAV) | 2:53 | 2024-04-30 | 2024-06-13 |
+| [ホームカミング](https://open.spotify.com/track/25imQn6HeoDQ9BQ8UcMpg4) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ホームカミング](https://open.spotify.com/album/6C6R68fJNrCa5DYr60jSld) | 3:58 | 2025-09-30 |  |
 | [ボール](https://open.spotify.com/track/76vMnUUHs3jq89Wkwu5mJ4) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [ボール](https://open.spotify.com/album/1Qypcf0ZLxn8JwtJXBC3LP) | 3:53 | 2023-07-11 | 2023-07-13 |
 | [ポルトロン](https://open.spotify.com/track/33uGqJENJe8VcXoVIMHQ2q) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ポルトロン](https://open.spotify.com/album/6ynx5p9eto6w5pRdiXoKzR) | 3:14 | 2023-11-28 | 2023-12-20 |
 | [マイボーイ](https://open.spotify.com/track/3u5oNyjZGEP5Ntj0b29M8V) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [マイボーイ](https://open.spotify.com/album/7x2wB6G9O0NW8OBDHr0cRj) | 4:07 | 2022-05-31 | 2022-07-27 |

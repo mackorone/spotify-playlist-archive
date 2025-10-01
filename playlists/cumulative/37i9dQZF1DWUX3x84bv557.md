@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Roxy Dekker
 
-1,071 songs - 2 day 3 hr 9 min
+1,073 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 | 2023-08-24 | 2023-11-03 |
 | [DOPAMINE](https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [DOPAMINE](https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn) | 2:44 | 2024-01-25 | 2024-05-07 |
 | [Dopamine](https://open.spotify.com/track/4rKgglMTWD9srdmmFd3iwS) | [Guusje](https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx) | [Dopamine](https://open.spotify.com/album/4K5Zge9nkEolGmF0S3OOV9) | 2:54 | 2023-10-19 | 2023-11-03 |
+| [Down](https://open.spotify.com/track/65y6Ak4YaKtfua7gemQaff) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ) | [Eastside](https://open.spotify.com/album/5nAsQYfwRlGm6wsr83Nkfi) | 2:22 | 2025-09-30 |  |
 | [Down Met Jou](https://open.spotify.com/track/7zWceawn2oJgmlnSSXPxlm) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY), [Djé\-Rimo](https://open.spotify.com/artist/5a35K4Lx6ee2QY11vj7cGO) | [Down Met Jou](https://open.spotify.com/album/51UpNHvjjcnP1JhF0qj51M) | 2:58 | 2023-06-30 | 2023-09-05 |
 | [Draaien](https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Draaien](https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp) | 3:25 | 2023-08-17 | 2023-12-08 |
 | [Dresscode](https://open.spotify.com/track/20Il3468yznPyLB8fjZEBX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Van Huis Uit](https://open.spotify.com/album/3c5HcU9hSV8SjM51ZO31aY) | 2:24 | 2023-10-05 | 2024-02-09 |
@@ -903,6 +904,7 @@
 | [Tot De Dood](https://open.spotify.com/track/7pj0MymlGo5A67vLog7NSm) | [Piet Junior](https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Tot De Dood](https://open.spotify.com/album/5coJkWf27pNUEu1MVCxw9X) | 2:22 | 2023-02-23 | 2023-05-12 |
 | [Tovenares](https://open.spotify.com/track/1vmrXE4E7aTfsCczRVDOXB) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Tovenares](https://open.spotify.com/album/1MQx7zeKdMK21P3bOHtRGp) | 2:05 | 2024-05-02 | 2024-06-14 |
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
+| [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 |  |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |

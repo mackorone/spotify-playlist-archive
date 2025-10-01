@@ -6861,6 +6861,28 @@
     },
     {
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4igvCxUMOHlR2TUz5WWsfU"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3kyslSkaBiNvo70J0gcK6P"
+    },
+    {
+      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/0wHRCxOtc8POmkwSjBINk6"
       },

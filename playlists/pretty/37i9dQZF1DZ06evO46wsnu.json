@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 174989,
+  "num_followers": 175000,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAAAkLC3FM0JeXNfjRkOD13ts",
+  "snapshot_id": "aNnMAAAAAABUujd097oxreKtdXhNAwDa",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 199245,
-      "name": "Gold Long Gone",
-      "url": "https://open.spotify.com/track/0BHyc5cgSYKHGIce4gTkMn"
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/1TBOPJx69RayvK6CJOK0uy"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 186052,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/1TBOPJx69RayvK6CJOK0uy"
+      "duration_ms": 199245,
+      "name": "Gold Long Gone",
+      "url": "https://open.spotify.com/track/0BHyc5cgSYKHGIce4gTkMn"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/7jZsALpP2VGqgwUadT8mIj"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Black Masks & Gasoline",
-      "url": "https://open.spotify.com/track/5SKpp65RnvRqulDKHlpRxA"
+      "duration_ms": 241440,
+      "name": "Dancing For Rain",
+      "url": "https://open.spotify.com/track/4qX0ej3QhDggOqNtK7yuRV"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Rpm10",
+        "url": "https://open.spotify.com/album/7jZsALpP2VGqgwUadT8mIj"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Dancing For Rain",
-      "url": "https://open.spotify.com/track/4qX0ej3QhDggOqNtK7yuRV"
+      "duration_ms": 179466,
+      "name": "Black Masks & Gasoline",
+      "url": "https://open.spotify.com/track/5SKpp65RnvRqulDKHlpRxA"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
       "artists": [
         {
@@ -788,9 +772,25 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 299946,
-      "name": "The Numbers",
-      "url": "https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0"
+      "duration_ms": 217720,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 233553,
+      "name": "Far From Perfect - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 214053,
-      "name": "Sooner Or later",
-      "url": "https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI"
+      "duration_ms": 299946,
+      "name": "The Numbers",
+      "url": "https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0"
     }
   ],
   "unique_name": "This Is Rise Against",

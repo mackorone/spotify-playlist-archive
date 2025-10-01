@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 137290,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
@@ -2698,6 +2698,24 @@
       "duration_ms": 160000,
       "name": "See you in the morning",
       "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+    },
+    {
+      "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/4Hbj5OAjuH2wP140oohhmo"
+      },
+      "artists": [
+        {
+          "name": "Jan Baltimore",
+          "url": "https://open.spotify.com/artist/2JOosskeWZKm2P84LeA2Gd"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/0rbKJ3fMPs3FmLqiyxq9n2"
     },
     {
       "album": {

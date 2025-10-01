@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Joya Marleen
 
-412 songs - 21 hr 12 min
+413 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 | 2025-04-05 | 2025-07-10 |
 | [Derfi di hebe](https://open.spotify.com/track/0offCTctIys3XsX6YKkOWC) | [Dino Brandão](https://open.spotify.com/artist/6tLCNTqQll91cBwz6SSMYn), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Ich liebe Dich](https://open.spotify.com/album/0g9dbdt4D5Co7tniGL785C) | 4:16 | 2025-05-15 | 2025-05-23 |
-| [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 |  |
+| [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 | 2025-10-01 |
 | [Devil On My Back](https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Devil On My Back](https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj) | 3:14 | 2025-07-31 |  |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-02 |  |
 | [Dodo](https://open.spotify.com/track/4uwXA0cDCqfLhBILOXKHl8) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy), [Dibby Sounds](https://open.spotify.com/artist/3K8wOgBm2F7eT4ARLsLq1c) | [EGREGORE](https://open.spotify.com/album/1dH56AsyhoFITRAV8E9zkq) | 3:05 | 2025-04-24 | 2025-05-02 |
@@ -177,6 +177,7 @@
 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 | 2024-06-27 |  |
 | [House On Fire \- Duet Version](https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [House On Fire \(Duet Version\)](https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou) | 2:59 | 2025-05-22 | 2025-08-07 |
 | [How Much Can a Heart Break](https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [How Much Can a Heart Break](https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx) | 3:15 | 2024-10-11 |  |
+| [Human](https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Human](https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW) | 3:28 | 2025-09-25 |  |
 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2024-06-27 | 2025-05-09 |
 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 | 2024-06-27 |  |
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-10-03 | 2024-10-24 |

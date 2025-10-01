@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-766 songs - 1 day 14 hr 27 min
+767 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Hollywood Perfect](https://open.spotify.com/track/2b4s9qk2mq5kaFj4rUZlzr) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [NotEvenTanner](https://open.spotify.com/artist/2FS6z8pQbDMXrscqKiw983) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 2:42 | 2023-08-08 | 2023-12-14 |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 | 2023-08-10 |
 | [Home](https://open.spotify.com/track/7giR6y9ahTIds8BUXszX1H) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Home](https://open.spotify.com/album/49sMeCWeevXADmnURP9icx) | 2:27 | 2024-09-03 | 2025-01-19 |
+| [Honest](https://open.spotify.com/track/3kyslSkaBiNvo70J0gcK6P) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Drive!Drive!](https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb) | [Honest](https://open.spotify.com/album/4igvCxUMOHlR2TUz5WWsfU) | 3:40 | 2025-09-30 |  |
 | [Howling](https://open.spotify.com/track/596lDSwIMzDoiq3E6jJ0wC) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling](https://open.spotify.com/album/0wHRCxOtc8POmkwSjBINk6) | 3:24 | 2023-08-08 | 2024-02-02 |
 | [Howling \- Andromedik Remix](https://open.spotify.com/track/3cvr7I6DJxIq3GL4UAU8p4) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling \(Andromedik Remix\)](https://open.spotify.com/album/2xbLxzB4Dh0O5vx1sEiV7D) | 3:40 | 2023-08-08 | 2023-12-14 |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |

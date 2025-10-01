@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: M.Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,618 likes - 101 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,656 likes - 101 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 100 | [Kanata](https://open.spotify.com/track/11CSIZycieddsW6bYYoR63) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Kanata](https://open.spotify.com/album/5nfsN67FD0oxYxZAK5eBhm) | 2:17 |
 | 101 | [ennemi des images \(admise dans mon passé seulement depuis cette nuit à la montagne\)](https://open.spotify.com/track/6HbPetaNdFuBfgkrZiUbik) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [ennemi des images](https://open.spotify.com/album/5ywuspd4aSYAOZePMAHohc) | 5:11 |
 
-Snapshot ID: `AAAAAIbhBpetMhU1AWmpvOL2hAMx3XLe`
+Snapshot ID: `AAAAAPKT73sQIOkAJB5z5pikvU2ZlqEo`

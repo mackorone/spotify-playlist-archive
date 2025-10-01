@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 17 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |
 | 18 | [Nothing Feels Right](https://open.spotify.com/track/5Q66rYlhfXkhrJ3F80FIxE) | [Julieta Kopp](https://open.spotify.com/artist/5fczVg2llLHrH7bqRerVH6) | [Clergy 10 Years \| Echo](https://open.spotify.com/album/0LnF4BpITs92ejMuaciBJt) | 5:54 |
 | 19 | [GT\-R](https://open.spotify.com/track/4fzmpZmqz5R8vykOew3Mda) | [Uma Scheffer](https://open.spotify.com/artist/2y1JA9jNWjTJY0n0b4M6GO) | [WANGAN CLUB V.A 001](https://open.spotify.com/album/55XrmJUSkvba1KQzWgks8f) | 5:24 |
-| 20 | [Get that](https://open.spotify.com/track/1hiPghu8NoK8B7Y5woX50Q) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Pleasure EP](https://open.spotify.com/album/0rffzwv2Oj8snKQGwkCQhj) | 5:17 |
+| 20 | [Stay](https://open.spotify.com/track/4p2XptEA66p6QBpPo75CG7) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Stay](https://open.spotify.com/album/0EUb4OCzSjUASNg1jwzH3K) | 4:43 |
 | 21 | [Peak 3](https://open.spotify.com/track/0biGkF7tOFb9a8uCuxiZCY) | [Sol Caballero](https://open.spotify.com/artist/4Yc0oTAY0trDl1pMAnNh6D) | [Patterns](https://open.spotify.com/album/2iPKyBhhYrNOSx62UbTpjp) | 5:29 |
 | 22 | [Cadillac](https://open.spotify.com/track/4yQoJUxgTD1qjD3vHvK8wL) | [Uma Scheffer](https://open.spotify.com/artist/2y1JA9jNWjTJY0n0b4M6GO), [EOYYV](https://open.spotify.com/artist/247OZRPayPDR9qeiZ49Vth) | [4 22](https://open.spotify.com/album/7HrPbjeueyUTxJ4R92Fi73) | 5:46 |
-| 23 | [Stay](https://open.spotify.com/track/4p2XptEA66p6QBpPo75CG7) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Stay](https://open.spotify.com/album/0EUb4OCzSjUASNg1jwzH3K) | 4:43 |
+| 23 | [Get that](https://open.spotify.com/track/1hiPghu8NoK8B7Y5woX50Q) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Pleasure EP](https://open.spotify.com/album/0rffzwv2Oj8snKQGwkCQhj) | 5:17 |
 
 Snapshot ID: `AAAAAE1hvlbndTHoscubYpdRzM42eTXK`

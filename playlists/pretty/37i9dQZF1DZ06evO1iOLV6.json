@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11716,
+  "num_followers": 11724,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAAALGd1j/l/rJ02qQedudHZw",
+  "snapshot_id": "aNnMAAAAAAAF9Wcb92XEQ2OIrx8OYUMW",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Die (feat. Diamond Platnumz)",
-        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 195597,
-      "name": "Love You Die (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prayer Request",
         "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 193097,
       "name": "Prayer Request",
       "url": "https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Die (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 195597,
+      "name": "Love You Die (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MA GIRL",
-        "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 208042,
-      "name": "MA GIRL",
-      "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 193718,
       "name": "Credit Alert",
       "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MA GIRL",
+        "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 208042,
+      "name": "MA GIRL",
+      "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
     },
     {
       "added_at": null,

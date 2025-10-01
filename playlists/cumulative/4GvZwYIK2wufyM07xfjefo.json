@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 175578,
       "name": "Cream Soda (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3Sdol1OpzL1fkUnnsHL6LE"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 264704,
       "name": "Lapse (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4f03V4w5mjF2DqQKMnewBA"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 224000,
       "name": "Moonlit Silence (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/27C5IFX6qCWQvevJy241G2"
@@ -3219,6 +3219,28 @@
     },
     {
       "album": {
+        "name": "Port Town",
+        "url": "https://open.spotify.com/album/36ir3iWv249Ur2Vkk6icq4"
+      },
+      "artists": [
+        {
+          "name": "\u68ee\u7f85",
+          "url": "https://open.spotify.com/artist/4NATLO7T00XhUqYGvycxuN"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232250,
+      "name": "\u30b5\u30fc\u30d3\u30b9\u30c8\u30fc\u30af (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6tAqLDWrNdgf9PU03cqvqt"
+    },
+    {
+      "album": {
         "name": "prototype",
         "url": "https://open.spotify.com/album/7nmU6rpBWa56ym4G3nrPZh"
       },
@@ -4007,6 +4029,28 @@
     },
     {
       "album": {
+        "name": "\u30de\u30a4\u30e9\u30a4\u30d5\u30ed\u30ac\u30fc",
+        "url": "https://open.spotify.com/album/5WS1uS2sFB4jf1dmF4MEE7"
+      },
+      "artists": [
+        {
+          "name": "irucaice",
+          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
+        },
+        {
+          "name": "\u5f69\u6f84\u3057\u3085\u304a",
+          "url": "https://open.spotify.com/artist/3hFfK6uHsOv6XTS2HRya6n"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248095,
+      "name": "\u30de\u30a4\u30e9\u30a4\u30d5\u30ed\u30ac\u30fc (feat. \u5f69\u6f84\u3057\u3085\u304a)",
+      "url": "https://open.spotify.com/track/1dU7VNNBEchKNduTtQw8n9"
+    },
+    {
+      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b3\u30fc\u30d2\u30fc",
         "url": "https://open.spotify.com/album/1cTu9TM59bgN4CUa9qE1A3"
       },
@@ -4172,6 +4216,28 @@
       "duration_ms": 151378,
       "name": "\u30ea\u30d5\u30ec\u30f0\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4cwtqhgARGp2tzsIziBlCz"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30d9\u30e9\u30fb\u30e1",
+        "url": "https://open.spotify.com/album/2F0gNjJPYSEs2ADYj4UhVo"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u304b\u3081",
+          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93698,
+      "name": "\u30ea\u30d9\u30e9\u30fb\u30e1 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/61nqKILmEbduouO7x6EGaM"
     },
     {
       "album": {
@@ -5043,6 +5109,28 @@
     },
     {
       "album": {
+        "name": "\u5f15\u304d\u3053\u3082\u308a\u9769\u547d",
+        "url": "https://open.spotify.com/album/73uFfRB1se1Z7TsSRfCUEZ"
+      },
+      "artists": [
+        {
+          "name": "GYU P",
+          "url": "https://open.spotify.com/artist/7BNncSIn0Str7aLcmrv3HU"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "\u5f15\u304d\u3053\u3082\u308a\u9769\u547d (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2rpee0OEpyuYnHCsAtoIvZ"
+    },
+    {
+      "album": {
         "name": "\u5f57\u661f\u30ce\u9280\u6cb3",
         "url": "https://open.spotify.com/album/7BnrFNDpIj9oGuRRXp0xpM"
       },
@@ -5420,7 +5508,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 210824,
       "name": "\u6700\u8fd1\u601d\u3046\u306e\u306f (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4XswkBdRm0NIZ4j41qqOmK"
@@ -5468,7 +5556,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 226216,
       "name": "\u681e\u3092\u631f\u3080 (feat. \u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
       "url": "https://open.spotify.com/track/3uza2IYbc0AElbxwFdGzJH"
@@ -5526,6 +5614,28 @@
       "duration_ms": 326043,
       "name": "\u6c34\u69fd\u3068\u96e8",
       "url": "https://open.spotify.com/track/6TCjaebHdBj9ByV4FeGial"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u4e45\u5fc3\u81d3\u8ad6",
+        "url": "https://open.spotify.com/album/5lJMvn52Igi1zhSRJl7lkd"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u98a8\u592a\u967d",
+          "url": "https://open.spotify.com/artist/3C6YK9PmwFy9SGXTW3uC2i"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "\u6c38\u4e45\u5fc3\u81d3\u8ad6 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5AU1AOG8xxNG8r3NMSo81g"
     },
     {
       "album": {

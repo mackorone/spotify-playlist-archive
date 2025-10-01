@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,686 likes - 180 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,698 likes - 180 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 179 | [I Tried](https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N) | [Rory Campbell](https://open.spotify.com/artist/065g9oYYpGh7AOf7UR2Jr2) | [The Past Hasn't Happened Yet](https://open.spotify.com/album/7LtLQkFRQVMm06t6C9XUZO) | 4:03 |
 | 180 | [Dès vu](https://open.spotify.com/track/4xrojcxCFJ26E8JUB5fDfE) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Dès vu](https://open.spotify.com/album/0r4jrdVyggFR6n8EA9s1fm) | 2:09 |
 
-Snapshot ID: `AAAAACPnx5WORaGidw2drgARdQ1DEMWJ`
+Snapshot ID: `AAAAABnxziG8exqJeD+1/bRvmKiJrWxU`

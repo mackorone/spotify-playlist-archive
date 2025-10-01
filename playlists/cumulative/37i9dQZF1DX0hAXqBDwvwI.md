@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-803 songs - 2 day 4 hr 4 min
+804 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-07-28 | 2024-04-19 |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2023-01-17 | 2024-04-19 |
 | [katharsis](https://open.spotify.com/track/7MtpXnAhLKdkXjoFaK95TB) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis](https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG) | 4:26 | 2022-07-28 | 2022-09-16 |
+| [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe) | 3:20 | 2025-09-30 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2023-01-17 |  |
 | [Kimigamitayumenomonogatari](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Kimigamitayumenomonogatari](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 | 2022-06-03 | 2022-07-21 |
 | [kIng](https://open.spotify.com/track/11lbUUMW8T5MFpHTYLulmg) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [kIng](https://open.spotify.com/album/05KfSFZpuYmktTahDYnjbZ) | 3:50 | 2022-06-14 | 2022-07-27 |
@@ -626,7 +627,7 @@
 | [君の知らない物語](https://open.spotify.com/track/4uGT6MUZagSKZ8ERNhR7Qw) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/4VeIR3f3yaDcMOnknO4LRC) | 5:39 | 2022-07-14 | 2022-07-22 |
 | [命の灯火](https://open.spotify.com/track/5AH3OpbMYGS983Yj5BlhTQ) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「ディープインサニティ ザ・ロストチャイルド」オープニングテーマ「命の灯火」](https://open.spotify.com/album/2K4f6h2Qh4Fgd30C944ivW) | 3:42 | 2022-06-14 | 2022-07-28 |
 | [命ノ証](https://open.spotify.com/track/2siPX9kyOPMaMUZAGtCfPK) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [命ノ証](https://open.spotify.com/album/2ycCJObN5Df1kYvEnGAATW) | 3:18 | 2022-06-03 | 2022-07-26 |
-| [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-07-26 |  |
+| [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-07-26 | 2025-10-01 |
 | [嘘](https://open.spotify.com/track/4HVmyH7lnGpaikr4XN0nS5) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [SID Anime Best 2008\-2017](https://open.spotify.com/album/2q9HhhZYE5VDNFXhDlP1gG) | 3:25 | 2022-06-14 | 2022-07-19 |
 | [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 | 2022-07-28 | 2022-10-19 |
 | [嘘](https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK) | 3:25 | 2024-01-09 | 2024-04-19 |

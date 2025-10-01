@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Anggis Devaki, Doja Cat, Olivia Dean, Rafi Sudirman dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,934 likes - 107 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,960 likes - 107 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

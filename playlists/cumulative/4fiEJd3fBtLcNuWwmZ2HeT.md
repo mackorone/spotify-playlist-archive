@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-376 songs - 21 hr 43 min
+379 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [......](https://open.spotify.com/track/0hZcG4Uw0sieOgwi4E0WbM) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [......](https://open.spotify.com/album/4PjasvlU6CzI86k1yQlSON) | 2:26 | 2023-10-23 |  |
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2023-10-30 |  |
 | [4nim0sity \[99.999999999%\]](https://open.spotify.com/track/2u2kyKAf9mpQegLo9IedWA) | [ICHI](https://open.spotify.com/artist/305bMWyRhzAMV0PmrqYTC4) | [4nim0sity \[99.999999999%\]](https://open.spotify.com/album/30E43p3UUNrMZypGdgLmzU) | 3:36 | 2025-09-12 |  |
+| [<<<<<<](https://open.spotify.com/track/7q1XJApEsIjsztIG9aFR5h) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [<<<<<<](https://open.spotify.com/album/6jMvyuEcOtMBUUzp2uijzg) | 4:34 | 2025-09-30 |  |
 | [\_\_\_\_\_\_](https://open.spotify.com/track/0NjGohOFKKxpJLLAovsEtO) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\_\_\_\_\_\_](https://open.spotify.com/album/2XgpdopvOJdcBC9Oq3xtCE) | 2:21 | 2025-05-05 |  |
 | [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 | 2025-05-05 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-09-24 |  |
@@ -266,6 +267,7 @@
 | [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 | 2025-05-25 |  |
 | [カルメン](https://open.spotify.com/track/2trg5QP7LvutSwDmApo7JN) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [カルメン](https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY) | 2:27 | 2023-09-07 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-08-18 |  |
+| [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 | 2025-09-30 |  |
 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 | 2024-11-18 |  |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-05-06 |  |
 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 | 2025-09-12 |  |
@@ -291,6 +293,7 @@
 | [ファブリック・フラワー](https://open.spotify.com/track/3EzCdvLrgxYJkLXrwoPpml) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [ファブリック・フラワー](https://open.spotify.com/album/3zVCnrLb0V85Xo5i7ZSgcN) | 2:40 | 2024-07-08 |  |
 | [フィクサー・イン・グレイ](https://open.spotify.com/track/3Y0hbUxtoYW9PbUAIWpJji) | [アザミ](https://open.spotify.com/artist/2PIhnekER7v12MJ0HYZQTu) | [ADVENTUNE 2](https://open.spotify.com/album/5jZZkkJyDWHMOQGl796We2) | 4:01 | 2025-05-27 |  |
 | [フラッシュバッカー](https://open.spotify.com/track/2qdPWFrknWyLXYIPpbtAgD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:35 | 2023-05-06 |  |
+| [フワライドウ \(feat\. 初音ミク\)](https://open.spotify.com/track/3dVN7kgkeUZG3pK2PxvJQJ) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [フワライドウ](https://open.spotify.com/album/2QaYjVPp5BfdNDHvee6wpe) | 2:38 | 2025-09-30 |  |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2024-05-20 |  |
 | [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 | 2025-04-09 |  |
 | [ヘイヴン](https://open.spotify.com/track/6aTSQHD767wxox2zqpUWj1) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘイヴン](https://open.spotify.com/album/7tnjWKvtu1FFvWxjgXDYTW) | 3:23 | 2025-03-18 |  |

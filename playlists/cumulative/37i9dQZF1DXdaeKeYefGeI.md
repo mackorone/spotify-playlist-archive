@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-227 songs - 13 hr 49 min
+228 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dorp Van Hop En Van Mout](https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Dorp Van Hop En Van Mout](https://open.spotify.com/album/4ZlSQQ2ZKjcN5tQ3sU1pDm) | 4:52 | 2023-10-12 | 2023-12-14 |
 | [Een Filosofie Van Het Riool](https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Een Filosofie Van Het Riool](https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV) | 5:26 | 2025-03-13 |  |
 | [Een Meisje Van 16](https://open.spotify.com/track/7rjCFRtUL20Z1V9AfyiwBp) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF), [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [La Bohème](https://open.spotify.com/album/2XvjwHk3WFT1fiVnmttQbD) | 3:31 | 2025-02-27 |  |
-| [Eindstation](https://open.spotify.com/track/39WJTiCtjJDmKlOZZy4bYd) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV), [Kaspar](https://open.spotify.com/artist/0Fwk4xcdt4FqaYhJ7uwi5z) | [Eindstation](https://open.spotify.com/album/3KxFm1DB1FD8JRhpZia4E5) | 3:44 | 2024-05-09 |  |
+| [Eindstation](https://open.spotify.com/track/39WJTiCtjJDmKlOZZy4bYd) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV), [Kaspar](https://open.spotify.com/artist/0Fwk4xcdt4FqaYhJ7uwi5z) | [Eindstation](https://open.spotify.com/album/3KxFm1DB1FD8JRhpZia4E5) | 3:44 | 2024-05-09 | 2025-10-01 |
 | [Elke Dag](https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [Elke Dag](https://open.spotify.com/album/4HdHIIuRPiIvRKCKtfAty5) | 2:59 | 2023-11-16 | 2024-11-22 |
 | [Elke Seconde](https://open.spotify.com/track/41Y8FqhbSRNEqsK47Ks7xW) | [Belinda Kinnaer](https://open.spotify.com/artist/3MHjbcGUxFSEHexlD4csSF) | [Elke Seconde](https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c) | 3:43 | 2023-02-10 | 2023-03-18 |
 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 | 2024-09-26 | 2025-04-26 |
@@ -115,7 +115,7 @@
 | [Jouw Ogen](https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Jouw Ogen](https://open.spotify.com/album/4dkc4FlkKVgUHtnPEc8RMe) | 3:30 | 2023-09-14 | 2025-03-14 |
 | [Kaartenhuis](https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Kaartenhuis](https://open.spotify.com/album/34TIrIc7Hxk0nkK5qEMesa) | 3:55 | 2025-05-08 |  |
 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 | 2025-09-10 |  |
-| [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 | 2023-02-10 |  |
+| [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 | 2023-02-10 | 2025-10-01 |
 | [Kijk Niet Achterom](https://open.spotify.com/track/0QL7jSoLircjh2hLC0SYAi) | [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Kijk Niet Achterom](https://open.spotify.com/album/53sBljvd4P6foQ3p9RZZ46) | 3:49 | 2023-02-10 | 2023-09-15 |
 | [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2023-02-10 | 2024-03-20 |
 | [Kom Hier](https://open.spotify.com/track/6NFDCjTgNVlhVCeNGTAuYh) | [Manuëla Kemp](https://open.spotify.com/artist/0zpaARjlrBqGeMtzn2Y6XI) | [Slapeloze nachten](https://open.spotify.com/album/2OaBag8Hc7E3UnerZNY7xD) | 4:07 | 2025-01-24 |  |
@@ -139,6 +139,7 @@
 | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/track/7De0CL6kj5lJ2xFtwIBoin) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/album/6I5Q1NF4WrhiQf9F2rFpiX) | 3:26 | 2024-07-05 | 2025-03-14 |
 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 | 2024-04-18 | 2025-09-11 |
 | [Mag ik dan bij jou \- Single Version](https://open.spotify.com/track/6jXoII9HpQpBvs4mxA7EGT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag ik dan bij jou](https://open.spotify.com/album/6YdAR6x5rHf846m5ZqZscr) | 3:23 | 2023-02-10 | 2024-04-19 |
+| [Mama Huil Niet](https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/3JV5C1wGCb3gOyIfRE2D0M) | 3:28 | 2025-09-30 |  |
 | [Mama kijk ik kan het zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2023-11-09 | 2024-10-11 |
 | [Mee](https://open.spotify.com/track/3DFmhtFDIbZLLwepdg6aC4) | [HELEEN](https://open.spotify.com/artist/2JGuxN1UnFTeBxEzu0uXMF) | [Tollen en Turen](https://open.spotify.com/album/4sJHZP585SYperxQ6ml7DJ) | 2:06 | 2023-11-09 | 2024-10-25 |
 | [Merk Je Het Niet](https://open.spotify.com/track/03ESD7EEMVNXLECAKr0wdE) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Merk Je Het Niet](https://open.spotify.com/album/5UReFwidgQkuPIsHnHRLh0) | 3:22 | 2023-02-10 | 2023-04-26 |

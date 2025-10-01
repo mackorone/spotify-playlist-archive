@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 341879,
+  "num_followers": 341973,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Gorilla Manor",
-        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "Wide Eyes",
-      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Gorilla Manor",
+        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Journal of Ardency",
-        "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
-      },
-      "artists": [
-        {
-          "name": "Class Actress",
-          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
-        }
-      ],
-      "duration_ms": 225233,
-      "name": "Journal of Ardency",
-      "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "The Head and the Heart",
         "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Journal of Ardency",
+        "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
+      },
+      "artists": [
+        {
+          "name": "Class Actress",
+          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
+        }
+      ],
+      "duration_ms": 225233,
+      "name": "Journal of Ardency",
+      "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
     },
     {
       "added_at": "2025-03-14 11:46:42",

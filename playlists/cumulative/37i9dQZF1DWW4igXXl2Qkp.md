@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:40VzC4fLTuY4YWFwKXK4Cv">1300SAINT</a>
 
-2,049 songs - 3 day 15 hr 49 min
+2,050 songs - 3 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Blood Boy](https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Blood Boy](https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p) | 2:26 | 2022-08-03 | 2022-09-15 |
 | [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 | 2022-11-30 | 2023-01-12 |
 | [Blood In The Air](https://open.spotify.com/track/5WdtKGOyVeiJ3CVcd3mUiH) | [Johnny Cocoa](https://open.spotify.com/artist/2pVTGEVqWtNMXd3gIwiWPI) | [Blood In The Air](https://open.spotify.com/album/45u6ckP6fRWJtQFjv6ht2j) | 3:22 | 2024-02-07 | 2025-01-23 |
-| [BloodSucker.](https://open.spotify.com/track/3K8EcJSK3DgNqUzsrccwAX) | [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv) | [NewDrug.](https://open.spotify.com/album/4iajDNksX7WzdVMnOeOR12) | 2:16 | 2025-09-26 |  |
+| [BloodSucker.](https://open.spotify.com/track/3K8EcJSK3DgNqUzsrccwAX) | [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv) | [NewDrug.](https://open.spotify.com/album/4iajDNksX7WzdVMnOeOR12) | 2:16 | 2025-09-26 | 2025-10-01 |
 | [Blow My Mind](https://open.spotify.com/track/0DK34Cbp17a2U8XnyXkd0n) | [Roper Williams](https://open.spotify.com/artist/3IbBDWFU62Ffx84oPtkec8), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr), [AKAI SOLO](https://open.spotify.com/artist/4BqOTaVacNL8CyDxxgiMjB), [Fatboi Sharif](https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj) | [Infinite Victory Loop](https://open.spotify.com/album/6R6nmUMgL2vAzwcHGoYihc) | 2:55 | 2023-10-04 | 2023-11-30 |
 | [Blue Nerdz](https://open.spotify.com/track/0eBgZA61aoGswreqU1mYup) | [Aweezy](https://open.spotify.com/artist/523BGYitKoVNalfvoA3KW5) | [Plenty Type of Flavours](https://open.spotify.com/album/2RU9xTyXN94atxlwIjSruS) | 3:37 | 2023-09-20 | 2023-11-30 |
 | [Bluegrass](https://open.spotify.com/track/6U59xekWOtch0p4MOWbv9L) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [E for Effortless](https://open.spotify.com/album/0ly9hVmvKhEiMm3GNcbMRl) | 1:57 | 2021-12-01 | 2022-01-14 |
@@ -1595,6 +1595,7 @@
 | [Set It Up](https://open.spotify.com/track/2FlXN6JgSJhzUMXyD8cd6I) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Turtle Crossing](https://open.spotify.com/album/1IjVN39eXQyaxgG6wVJYQA) | 3:37 | 2022-11-30 | 2023-01-12 |
 | [Set The Tone](https://open.spotify.com/track/4tgz3gJDuJEFsxySqaGkxI) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/6azejJSa9k44nrbERWng88) | 2:54 | 2023-11-08 | 2023-11-23 |
 | [Set The Tone](https://open.spotify.com/track/6ymnmbGOS5yi8EcwGS97HC) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/4nkBdox5tbf2DtxEHJl9S4) | 2:54 | 2023-09-20 | 2023-11-11 |
+| [Set.](https://open.spotify.com/track/2cWVjGXcLejkTbfF5coKVI) | [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv), [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc), [Diorvsyou](https://open.spotify.com/artist/6EoHLAwai5b3t4VyqadsOj), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [NewDrug.](https://open.spotify.com/album/4iajDNksX7WzdVMnOeOR12) | 2:42 | 2025-09-30 |  |
 | [Sex For Breakfast](https://open.spotify.com/track/6FdwRsOEOYBDPwdMyCK1LF) | [Asoh Black!](https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg) | [Sex For Breakfast](https://open.spotify.com/album/5VDKGBeuR8JL94hmeAX91D) | 1:32 | 2023-05-17 | 2023-08-03 |
 | [SEXC](https://open.spotify.com/track/1iCev5FI58GEREv8XXNQYB) | [Kelow LaTesha](https://open.spotify.com/artist/6oUUlugyY0JajHnw3FYAKb) | [SEXC](https://open.spotify.com/album/1SbOAZ7IEIWy7SC6dtsAap) | 2:00 | 2025-05-14 | 2025-06-12 |
 | [Shadow Boxin](https://open.spotify.com/track/0y685aaD3r80F1UYjFbaPT) | [FOUR50](https://open.spotify.com/artist/3Kz2TSK4ffPyMVkx7liR3q) | [MILLIONAIRE MARNI](https://open.spotify.com/album/7ua9bNjDe5oBsxqLoy3ZMQ) | 2:12 | 2023-08-30 | 2023-11-23 |

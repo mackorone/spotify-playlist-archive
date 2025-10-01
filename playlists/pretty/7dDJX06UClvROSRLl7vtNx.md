@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 100,177 likes - 207 songs - 8 hr 58 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 100,203 likes - 207 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 21 | [All Night Long](https://open.spotify.com/track/6BTJEauio7VgCelhJPRuGA) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [All Night Long](https://open.spotify.com/album/1dN4X7ArobIEGG5hwOfOXx) | 2:18 |
 | 22 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 23 | [When I'm Lovin’ U](https://open.spotify.com/track/3HfCYLIrpEkiyzRS1erhFz) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [When I'm Lovin’ U](https://open.spotify.com/album/06c9hyMCBoJKpveW5EDmfE) | 2:34 |
-| 24 | [Because of You](https://open.spotify.com/track/0qpUZ0c42DyRjYV4C8UhrI) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [azvre](https://open.spotify.com/artist/1NcRa3z8Qo1zKr4hmBS0uK) | [Because of You](https://open.spotify.com/album/4jQpQu5U5Fv8zsNy9Vk5Su) | 2:36 |
+| 24 | [Because of You](https://open.spotify.com/track/0qpUZ0c42DyRjYV4C8UhrI) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [azvre](https://open.spotify.com/artist/1NcRa3z8Qo1zKr4hmBS0uK), [Next Wave](https://open.spotify.com/artist/78nCgYiUAqrImiPlqk0vDS) | [Because of You](https://open.spotify.com/album/4jQpQu5U5Fv8zsNy9Vk5Su) | 2:36 |
 | 25 | [Obsession](https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [Obsession](https://open.spotify.com/album/4sLn7l3YLpwxfTpAB6wvBF) | 2:05 |
 | 26 | [Lovely Day](https://open.spotify.com/track/6qFkmAhg75vMEoqr4qeqmk) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Lovely Day](https://open.spotify.com/album/6t3ktT9YuDvIPGyF823TLY) | 2:37 |
 | 27 | [Strangers](https://open.spotify.com/track/5FZ3F8RDenKwUHvAfcdGjS) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [ARTUNIS](https://open.spotify.com/artist/3NAAapJybGBNcE1YqCvTbI) | [Strangers](https://open.spotify.com/album/2ULOOoQKpV5haFQDqZcjRo) | 2:42 |

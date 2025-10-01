@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Manafest
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,840 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,820 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [Sweet Surrender](https://open.spotify.com/track/7riAHNpUNb2JKekZwYXeRy) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Sweet Surrender](https://open.spotify.com/album/3uF0r9W5Tdh2nGoLDzproA) | 3:16 |
 | 75 | [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 |
 
-Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`
+Snapshot ID: `AAAAAKBtPObLzEh9ZW2hu3okVx5yehIA`

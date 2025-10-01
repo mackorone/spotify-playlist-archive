@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FpedkNl6M0.md) - [plain]
 
 > Joe laughs out loud with his fellow comedians.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,097 likes - 12 songs - 1 day 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,098 likes - 12 songs - 1 day 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

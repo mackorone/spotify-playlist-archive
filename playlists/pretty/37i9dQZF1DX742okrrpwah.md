@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > marguerite, Doja Cat et Kerchak x L2B au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,449 likes - 108 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,378 likes - 108 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

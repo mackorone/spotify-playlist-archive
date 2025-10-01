@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "[ MAL ]",
+        "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147903,
+      "name": "9 to 2",
+      "url": "https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
         "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 180000,
       "name": "as if I\u2019d be crazy enough",
       "url": "https://open.spotify.com/track/4rYzZhwwSALvfiejz5ykT7"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 256642,
       "name": "First Love",
       "url": "https://open.spotify.com/track/0n46SMy26W6RlWJEtLTzl2"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 221870,
       "name": "Flower",
       "url": "https://open.spotify.com/track/7azsOcyVMJ9M0U3VMrsK62"
@@ -3175,6 +3193,24 @@
     },
     {
       "album": {
+        "name": "More and More (From \"Love Scout\" : Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/1rfttiekzWf2CPvFPknNHe"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "More and More (From \"Love Scout\" : Original Soundtrack)",
+      "url": "https://open.spotify.com/track/7pPe8smRnmEhSGjLwL6P81"
+    },
+    {
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
       },
@@ -3244,6 +3280,24 @@
       "duration_ms": 194786,
       "name": "My Destiny",
       "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "album": {
+        "name": "MY PRIDE",
+        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
+      },
+      "artists": [
+        {
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "MY PRIDE",
+      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
     },
     {
       "album": {
@@ -4030,6 +4084,24 @@
       "duration_ms": 183500,
       "name": "Shutter (feat. Kinn)",
       "url": "https://open.spotify.com/track/1hisjif3DM0ITkDTdrRrao"
+    },
+    {
+      "album": {
+        "name": "Indigging #05",
+        "url": "https://open.spotify.com/album/4R6zDRWhdqzfAJPnoHITmy"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/5pbYgrBHeVrw7OjMUQgXP3"
     },
     {
       "album": {
@@ -5390,7 +5462,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 167000,
       "name": "YaYaYa",
       "url": "https://open.spotify.com/track/3PiLrChGqJRReYYsBwGxEh"

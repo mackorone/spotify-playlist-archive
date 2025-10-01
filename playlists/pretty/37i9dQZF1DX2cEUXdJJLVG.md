@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,665 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,661 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 12 | [Come Alive](https://open.spotify.com/track/54qhMRdSYqQhUo7CtFzXQa) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Come Alive](https://open.spotify.com/album/4rFgB6gBS4YJR8EtyUinvw) | 3:17 |
 | 13 | [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 |
 | 14 | [Colors](https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [Colors](https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o) | 3:24 |
-| 15 | [ADDICTED](https://open.spotify.com/track/2Zfc7xWv3QTPsfj7YrxiYc) | [SYOT](https://open.spotify.com/artist/6V6o5XTZuofACOywfTHsim) | [ADDICTED](https://open.spotify.com/album/4f2u9y24mUyUe7j3Qvnyob) | 3:56 |
+| 15 | [ADDICTED](https://open.spotify.com/track/2Zfc7xWv3QTPsfj7YrxiYc) | [Syot](https://open.spotify.com/artist/6V6o5XTZuofACOywfTHsim) | [ADDICTED](https://open.spotify.com/album/4f2u9y24mUyUe7j3Qvnyob) | 3:56 |
 | 16 | [Body Move](https://open.spotify.com/track/5gVXgdnsZmDFVDCbvhXo0p) | [They Call Me Steve](https://open.spotify.com/artist/3sMOsgdJl7e2l6nueIl4Se) | [Body Move](https://open.spotify.com/album/7i4i7qBQai2WA99i7U68HW) | 3:20 |
 | 17 | [Burnin'](https://open.spotify.com/track/4Okyrxv0ZNQcykjyJ3fvAx) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [Bloom](https://open.spotify.com/album/4v8UXSF4axUN6brXSjsmiW) | 2:20 |
 | 18 | [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 |

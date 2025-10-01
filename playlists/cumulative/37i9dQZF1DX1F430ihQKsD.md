@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Les Louanges
+> La scène musicale montréalaise au premier plan\. Photo: Patrick Watson
 
-622 songs - 1 day 11 hr 31 min
+623 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Cours toujours](https://open.spotify.com/track/5XMrAEkXNWcw8ZpEmip0Ig) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Cours toujours](https://open.spotify.com/album/3VcBUeKtfRrNYhmc4ByGdz) | 4:29 | 2025-02-28 | 2025-03-29 |
 | [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-22 | 2025-01-25 |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-03-25 | 2022-05-28 |
+| [Cross Control Patrol](https://open.spotify.com/track/5GhOmSUneOKUaFwEOjWYTC) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Cross Control Patrol](https://open.spotify.com/album/2RZT8iKshF9BlBOrVwXMdE) | 2:39 | 2025-10-01 |  |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-09-27 | 2024-10-19 |
 | [Cycle délicat](https://open.spotify.com/track/12Lrxdw1iIjQJT4y2VT436) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/5sehiJueG6OFg1EYJ9dm9B) | 3:14 | 2025-07-18 |  |
 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 | 2024-08-23 | 2024-10-26 |
@@ -423,7 +424,7 @@
 | [Oumamie](https://open.spotify.com/track/2iauwPwdi7tZPyFPfLUotw) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Oumamie](https://open.spotify.com/album/4JH7mG8IRdK3oGh2m0nT4L) | 2:21 | 2024-05-03 | 2024-09-07 |
 | [Out Of Control](https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5) | ["Turning \(Inside Out\)" b/w "Out Of Control"](https://open.spotify.com/album/561UO06aHshx0pz1miVIPV) | 4:02 | 2023-02-17 | 2024-03-16 |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-22 | 2023-05-20 |
-| [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 | 2024-05-31 |  |
+| [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 | 2024-05-31 | 2025-10-01 |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-03-25 | 2023-03-18 |
 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 | 2023-07-28 | 2024-09-28 |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |

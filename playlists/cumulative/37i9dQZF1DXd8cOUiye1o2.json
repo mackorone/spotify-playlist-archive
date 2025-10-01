@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 144750,
       "name": "Bhai Vakeel Hai - From \"Jolly LLB 3\"",
       "url": "https://open.spotify.com/track/3i39KGnJ1pjHGdF0aPa0CG"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 202864,
       "name": "Bheegi Saree - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/3z47FzesU0MyJKwpCGxOMp"
@@ -1404,6 +1404,32 @@
       "duration_ms": 256525,
       "name": "Chand Kagaz Ka - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/4LDWP3b89Emx9zsF7kuroA"
+    },
+    {
+      "album": {
+        "name": "Chanda Re",
+        "url": "https://open.spotify.com/album/09yetzViSApWmEwX2xQRCd"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Udit Saxena",
+          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
+        },
+        {
+          "name": "Vaniit Bakshi",
+          "url": "https://open.spotify.com/artist/0OuDD4tItqDidmRLRvZoNp"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233870,
+      "name": "Chanda Re",
+      "url": "https://open.spotify.com/track/00pfMUrlqOH1Pm2jF3qkZT"
     },
     {
       "album": {
@@ -2420,10 +2446,32 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 244073,
       "name": "Guzaara (From \"Baaghi 4\")",
       "url": "https://open.spotify.com/track/3gjTErwpHM5PkRbWMhmNrV"
+    },
+    {
+      "album": {
+        "name": "Guzara",
+        "url": "https://open.spotify.com/album/14YAyyweosBBi4gDWOk8E9"
+      },
+      "artists": [
+        {
+          "name": "lekhak",
+          "url": "https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG"
+        },
+        {
+          "name": "Vishesh Malik",
+          "url": "https://open.spotify.com/artist/6wBblgJ3pQZ4IAqdya5Lzk"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192296,
+      "name": "Guzara",
+      "url": "https://open.spotify.com/track/44EtFwkbMkhlyJ7c2UO524"
     },
     {
       "album": {
@@ -4122,7 +4170,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 205714,
       "name": "Mashooqa",
       "url": "https://open.spotify.com/track/2YFOrvNbTSBGifeGzfX9Vv"
@@ -6028,7 +6076,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 192639,
       "name": "Sunn Mere Yaar Ve - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/4aNDTU2GctEyflO4FsNAxk"
@@ -6771,6 +6819,32 @@
     },
     {
       "album": {
+        "name": "Tum Jo Kaho Toh (From \"Bhoomi 2025\")",
+        "url": "https://open.spotify.com/album/4eMsUZuhMmfQKUUAkJebDx"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300925,
+      "name": "Tum Jo Kaho Toh (From \"Bhoomi 2025\")",
+      "url": "https://open.spotify.com/track/2sTRtB12lOopJRGhqkfYyG"
+    },
+    {
+      "album": {
         "name": "Tum Mere Na Huye (From \u201cThamma\u201d)",
         "url": "https://open.spotify.com/album/0PyAGvPiU1D9Z3cadEjhOp"
       },
@@ -6794,6 +6868,32 @@
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/1YbEjKKjS790uQkR0XCQ95"
+    },
+    {
+      "album": {
+        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268445,
+      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
     },
     {
       "album": {
@@ -6894,6 +6994,32 @@
       "duration_ms": 261254,
       "name": "Ve Mahiya (From \"Sarzameen\")",
       "url": "https://open.spotify.com/track/1N69uoU8VYLDmNzFHKGk1i"
+    },
+    {
+      "album": {
+        "name": "Waade",
+        "url": "https://open.spotify.com/album/7kNKb7KlyMr5L4PNNYjfw6"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Swapnil Tare",
+          "url": "https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208945,
+      "name": "Waade",
+      "url": "https://open.spotify.com/track/67OAbfn2fUMsVWQX8sWbUC"
     },
     {
       "album": {

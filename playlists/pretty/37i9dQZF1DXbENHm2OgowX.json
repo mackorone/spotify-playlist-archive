@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 289222,
+  "num_followers": 289474,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
         "name": "Asleep On The Wing",
         "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 220500,
       "name": "Asleep On The Wing - Pt. 4",
       "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
-        "name": "PHANTOM BRICKWORKS (LP II)",
-        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 325320,
-      "name": "DOROTHEA\u2019S BED",
-      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Under The Bed",
-        "url": "https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 594853,
-      "name": "Under The Bed",
-      "url": "https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "fly high",
         "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 107056,
       "name": "fly high",
       "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Under The Bed",
+        "url": "https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 594853,
+      "name": "Under The Bed",
+      "url": "https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Bardo Landscape",
-        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Bardo Landscape",
-      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+        "name": "Bardo Landscape",
+        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
       },
       "artists": [
         {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
         }
       ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+      "duration_ms": 203424,
+      "name": "Bardo Landscape",
+      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -1051,6 +1035,22 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 987960,
-      "name": "The Dead Flag Blues",
-      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+      "duration_ms": 987960,
+      "name": "The Dead Flag Blues",
+      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -1155,6 +1139,22 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2025-09-05 04:00:08",

@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 164241,
+  "num_followers": 164243,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
+        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nervos de A\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 161675,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
-        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
-        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nervos de A\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Do It Yourself (New Bossa Remix)",
-        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
-      },
-      "artists": [
-        {
-          "name": "Markko Mendes",
-          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
-        },
-        {
-          "name": "DJ Hum",
-          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
-        }
-      ],
-      "duration_ms": 252142,
-      "name": "Do It Yourself - New Bossa Remix",
-      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1143,6 +1123,22 @@
       "duration_ms": 171805,
       "name": "Tamb\u00e9m Pede Bis",
       "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "A Chave do Sucesso",
+        "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
+      },
+      "artists": [
+        {
+          "name": "Orlandivo",
+          "url": "https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Jura",
+      "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "A Chave do Sucesso",
-        "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
+        "name": "Do It Yourself (New Bossa Remix)",
+        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
       },
       "artists": [
         {
-          "name": "Orlandivo",
-          "url": "https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0"
+          "name": "Markko Mendes",
+          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Jura",
-      "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
+      "duration_ms": 252142,
+      "name": "Do It Yourself - New Bossa Remix",
+      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
     },
     {
       "added_at": "2025-05-23 03:01:25",

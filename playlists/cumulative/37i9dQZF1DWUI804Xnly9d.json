@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "123 Song",
+        "url": "https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l"
+      },
+      "artists": [
+        {
+          "name": "Piyush Ambhore",
+          "url": "https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182685,
+      "name": "123 Song",
+      "url": "https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8"
+    },
+    {
+      "album": {
         "name": "90's Kid",
         "url": "https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam"
       },
@@ -5298,7 +5316,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 201120,
       "name": "Khamokhaan",
       "url": "https://open.spotify.com/track/3O2FbtJAifU88mgFvr8hBK"

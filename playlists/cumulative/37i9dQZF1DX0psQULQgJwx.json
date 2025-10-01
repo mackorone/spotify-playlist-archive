@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 191351,
       "name": "Astral Lights",
       "url": "https://open.spotify.com/track/7ysKjjiw3xuTfER17BmEVd"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Drifting Thoughts",
+        "url": "https://open.spotify.com/album/1Cml32ygJz68a3KDfRfbRH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sands",
+          "url": "https://open.spotify.com/artist/6ig52IJqdzQvg3V3W5XXau"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Drifting Thoughts",
+      "url": "https://open.spotify.com/track/6RfedklQiGjr0O72k9KbOI"
+    },
+    {
+      "album": {
         "name": "Droplets of Joy",
         "url": "https://open.spotify.com/album/4xmFc5gf28OdqkEWQkDdSA"
       },
@@ -1648,6 +1666,24 @@
       "duration_ms": 109297,
       "name": "Forest of Hope",
       "url": "https://open.spotify.com/track/2aH3zeFIh14oUTOgJpBsI1"
+    },
+    {
+      "album": {
+        "name": "Forest of Peace (Spa Version)",
+        "url": "https://open.spotify.com/album/5XtT3iTUPWtTjBkpE9SxRq"
+      },
+      "artists": [
+        {
+          "name": "Astral Ocean",
+          "url": "https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158114,
+      "name": "Forest of Peace (Spa Version)",
+      "url": "https://open.spotify.com/track/16JIQKD6THMNWvEIunLzTt"
     },
     {
       "album": {
@@ -2314,6 +2350,42 @@
       "duration_ms": 233086,
       "name": "Levitation",
       "url": "https://open.spotify.com/track/3wKQw2F0TeHjftbnpA2X4U"
+    },
+    {
+      "album": {
+        "name": "Levitation",
+        "url": "https://open.spotify.com/album/2Yg2szk9E5XvCHRuIjTN1X"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Levitation",
+      "url": "https://open.spotify.com/track/4OHaLKyhzBJwat8hB470hX"
+    },
+    {
+      "album": {
+        "name": "Liberation of Shadows",
+        "url": "https://open.spotify.com/album/2agu0UCn47IYwJgdg5YO8e"
+      },
+      "artists": [
+        {
+          "name": "Satori Bloom",
+          "url": "https://open.spotify.com/artist/7i9wtx5GMP70LKJE1Qa2qR"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223799,
+      "name": "Liberation of Shadows",
+      "url": "https://open.spotify.com/track/5L5DnqjbksLYLPAqEullS6"
     },
     {
       "album": {
@@ -3019,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/0dwf8IKOWJ7aWadYj2wv6P"
+      },
+      "artists": [
+        {
+          "name": "Colored Dots",
+          "url": "https://open.spotify.com/artist/58k1nfxMMdhqwyECfACA9B"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190375,
+      "name": "Obsidian",
+      "url": "https://open.spotify.com/track/6oq6B25RDuzYBQRH3np2fq"
+    },
+    {
+      "album": {
         "name": "Ocean Gaze",
         "url": "https://open.spotify.com/album/3kDuA5yhxXO7j6I8ObZSJB"
       },
@@ -3541,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Reminiscing Hearts",
+        "url": "https://open.spotify.com/album/4vF15grtrtvIXCWVtEZm7t"
+      },
+      "artists": [
+        {
+          "name": "Elysian Heart",
+          "url": "https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183819,
+      "name": "Reminiscing Hearts",
+      "url": "https://open.spotify.com/track/6YfViY3EL57dtCnLlAAneM"
+    },
+    {
+      "album": {
         "name": "Repetitive Meditative",
         "url": "https://open.spotify.com/album/1SgjJPmRO7F0dHkohg0dS9"
       },
@@ -3682,6 +3790,24 @@
       "duration_ms": 208000,
       "name": "Safe Inside",
       "url": "https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0"
+    },
+    {
+      "album": {
+        "name": "Sam\u00e3dhi",
+        "url": "https://open.spotify.com/album/2pdPjBJyuCEG2ddm4zKJws"
+      },
+      "artists": [
+        {
+          "name": "Flowing Light",
+          "url": "https://open.spotify.com/artist/3cQywPCPFCA8A8CFfZ1d3H"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171610,
+      "name": "Sam\u00e3dhi",
+      "url": "https://open.spotify.com/track/4daKcCY31H6YpR9VYBwqaj"
     },
     {
       "album": {
@@ -4207,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Springcorn",
+        "url": "https://open.spotify.com/album/5AsphjCt6luY37kRcwmcv9"
+      },
+      "artists": [
+        {
+          "name": "Caiharice",
+          "url": "https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192455,
+      "name": "Springcorn",
+      "url": "https://open.spotify.com/track/4rmPvsYPwOs3x3dYxijI6h"
+    },
+    {
+      "album": {
         "name": "Starfade",
         "url": "https://open.spotify.com/album/7C0oG2QoF1rRuQm66ChVBy"
       },
@@ -4531,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "The Portal",
+        "url": "https://open.spotify.com/album/44d4ixmraT72ZtNArh9Un2"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "The Portal",
+      "url": "https://open.spotify.com/track/4SElA4Dm591oMKVxdAsIDD"
+    },
+    {
+      "album": {
         "name": "The Scenic Bridge",
         "url": "https://open.spotify.com/album/18RUonN79AFHqy3fozs7vH"
       },
@@ -4625,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Thought Pluck",
+        "url": "https://open.spotify.com/album/72TWsp0xdtNR6Up6BJnhfi"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Thought Pluck",
+      "url": "https://open.spotify.com/track/3ZXcOeekn0C2opYJtxIPe6"
+    },
+    {
+      "album": {
         "name": "Through The Changes",
         "url": "https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns"
       },
@@ -4676,6 +4856,24 @@
       "duration_ms": 175999,
       "name": "Torpid",
       "url": "https://open.spotify.com/track/3YR3JfeREWuoI1jc6dPiT7"
+    },
+    {
+      "album": {
+        "name": "Tranquil Dawn (spa)",
+        "url": "https://open.spotify.com/album/1lWUZeLFP65OooEtna2bWR"
+      },
+      "artists": [
+        {
+          "name": "Ethereva",
+          "url": "https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Tranquil Dawn (spa)",
+      "url": "https://open.spotify.com/track/7prIceNosPC6UtxYQ3JXWA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Bliss n Eso
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,935 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,921 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 26 | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7) | 4:05 |
 | 27 | [We On The Way](https://open.spotify.com/track/6lzvVpfyEbaaWEcY6QGlRS) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v) | [We On The Way](https://open.spotify.com/album/39SWePSVmN8pE9JBQXgZpe) | 3:54 |
 | 28 | [Jaded](https://open.spotify.com/track/30zY9mXF3q0Ize4NmnO1Uq) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [Jaded](https://open.spotify.com/album/6P9tHqdRkUGj7WwNe1UUY0) | 2:33 |
-| 29 | [Isn't How I Remember](https://open.spotify.com/track/4ZJsQ5G7jEF2kV9WF5mLDI) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom), [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ) | [Isn't How I Remember](https://open.spotify.com/album/7q1McRTYdAf4COxom3MJhy) | 3:37 |
+| 29 | [Isn't How I Remember](https://open.spotify.com/track/4ZJsQ5G7jEF2kV9WF5mLDI) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [Isn't How I Remember](https://open.spotify.com/album/7q1McRTYdAf4COxom3MJhy) | 3:37 |
 | 30 | [NO VIP](https://open.spotify.com/track/6hcNBj0GRuGVcewMat0y9u) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [NO VIP](https://open.spotify.com/album/1l80V3c3tG4dauykNlxR9M) | 3:00 |
 | 31 | [Haka Through the Pain](https://open.spotify.com/track/4g0fcYIsoWWxIQY19vP7Em) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Haka Through the Pain](https://open.spotify.com/album/3AJ8NWgyOaUDeGZnLo3hsi) | 3:10 |
 | 32 | [Rage Against The Fatigue](https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Fall From The Light](https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m) | 3:26 |

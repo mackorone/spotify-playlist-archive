@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,314 likes - 580 songs - 1 day 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,316 likes - 580 songs - 1 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,8 +371,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 361 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 362 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
 | 363 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 |
-| 364 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
-| 365 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 364 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 365 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
 | 366 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
 | 367 | [In Walked Love](https://open.spotify.com/track/5UzPgmMKEwsxZsQbwXQFkY) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:54 |
 | 368 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
@@ -389,8 +389,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 379 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
 | 380 | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/track/2kNdcf6YKLNC8mtQalv4H6) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/album/0BaHbx9vN3XE8tBJMp6T38) | 3:18 |
 | 381 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
-| 382 | [¿Quien Eres Tu?](https://open.spotify.com/track/4J7w6Bb668rRhok7ibv9Y1) | [Fabiola Rodas](https://open.spotify.com/artist/4IB1Wnh0oN0YpQ66lD2Ji5) | [Mi Gran Desafío](https://open.spotify.com/album/4Fnw5DMfyNj2ySU1UujnHb) | 4:41 |
-| 383 | [Other People's Lives](https://open.spotify.com/track/5y9HLY26I0nytnGUKC913B) | [Don Johnson](https://open.spotify.com/artist/29gt8yNK2jFp21ZWXISskB) | [Let It Roll](https://open.spotify.com/album/3ugyPjTyWpPkiIOzCGNj9B) | 5:27 |
+| 382 | [Other People's Lives](https://open.spotify.com/track/5y9HLY26I0nytnGUKC913B) | [Don Johnson](https://open.spotify.com/artist/29gt8yNK2jFp21ZWXISskB) | [Let It Roll](https://open.spotify.com/album/3ugyPjTyWpPkiIOzCGNj9B) | 5:27 |
+| 383 | [¿Quien Eres Tu?](https://open.spotify.com/track/4J7w6Bb668rRhok7ibv9Y1) | [Fabiola Rodas](https://open.spotify.com/artist/4IB1Wnh0oN0YpQ66lD2Ji5) | [Mi Gran Desafío](https://open.spotify.com/album/4Fnw5DMfyNj2ySU1UujnHb) | 4:41 |
 | 384 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
 | 385 | [NAACP Swing](https://open.spotify.com/track/3TKklRQ0zQFzZ4o8bAho35) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:34 |
 | 386 | [I Wanna Get Back With You](https://open.spotify.com/track/1nvVkERyrtBdV8mDj1bcdU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [The Lead And How To Swing It](https://open.spotify.com/album/45QU97Z1TooErTjggqMadG) | 5:00 |
@@ -569,8 +569,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 559 | [Se te ne vai così \(I Want It to Be Me\)](https://open.spotify.com/track/2UqdjQvvWeqgHknG51BjQw) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB) | [Gli Occhi Grandi Della Luna](https://open.spotify.com/album/1JHneLmyAZl9s2cUaZHjTt) | 3:47 |
 | 560 | [Your Lover](https://open.spotify.com/track/12qV0Jjwu2MwtaV6eOtK79) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Makin' My Way](https://open.spotify.com/album/4I2owAJAzxjTlCSQe7R8DP) | 3:40 |
 | 561 | [This Could Take All Night](https://open.spotify.com/track/1VfOrgBJKhvO1ivJ8u6hkf) | [Chris Emerson](https://open.spotify.com/artist/3wMMMz6nznx9XoTHjnOUgS) | [TOURIST](https://open.spotify.com/album/0spxXinrmiHGwjop4hxVIb) | 4:03 |
-| 562 | [Feeling U Feeling Me](https://open.spotify.com/track/5AGvW2DA8v1Uv3gKQLqeMH) | [Therése Neaimé](https://open.spotify.com/artist/3sgijcFGvk8gF2jpqDuUfK) | [Sandstorm](https://open.spotify.com/album/6yjSHENfBNo2cJUvRkRPQZ) | 3:49 |
-| 563 | [Fine Line](https://open.spotify.com/track/0RjH82GUS8gN68oNPpNHSp) | [Bunny Debarge](https://open.spotify.com/artist/08ogPyhMUxFAl78GUFSrQj) | [In Love](https://open.spotify.com/album/2NB5vsJ8lUOghnTO66mhvV) | 4:58 |
+| 562 | [Fine Line](https://open.spotify.com/track/0RjH82GUS8gN68oNPpNHSp) | [Bunny Debarge](https://open.spotify.com/artist/08ogPyhMUxFAl78GUFSrQj) | [In Love](https://open.spotify.com/album/2NB5vsJ8lUOghnTO66mhvV) | 4:58 |
+| 563 | [Feeling U Feeling Me](https://open.spotify.com/track/5AGvW2DA8v1Uv3gKQLqeMH) | [Therése Neaimé](https://open.spotify.com/artist/3sgijcFGvk8gF2jpqDuUfK) | [Sandstorm](https://open.spotify.com/album/6yjSHENfBNo2cJUvRkRPQZ) | 3:49 |
 | 564 | [Why Did You Stop Loving Me](https://open.spotify.com/track/2HibyaLoexsEzWr94mmp6Z) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Friday Night Forever](https://open.spotify.com/album/16LeE3kIE3aocqAp8aVxZH) | 3:28 |
 | 565 | [Saddest Song \- Leigh Bros Remix](https://open.spotify.com/track/1Spc7zWfB3hEumoxMoxnRy) | [Cherry](https://open.spotify.com/artist/2Wmsee5wZmPkrf9UEhYWwf), [The Leigh Brothers](https://open.spotify.com/artist/6H0oPL7VK46FUy3FuIOuP4) | [Saddest Song](https://open.spotify.com/album/7MybEbWCjSKVKPt2TSymYL) | 3:49 |
 | 566 | [Stand in the Fire](https://open.spotify.com/track/2yO7ZmuxCUsRlFt4KFKyAZ) | [Eric Thomas](https://open.spotify.com/artist/5URFLvsIMbJIqmQL36FmvW) | [Varnell Road](https://open.spotify.com/album/0aMt1oxaPk8NRkxWXknRzW) | 5:34 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab9jSgAAAABv9HluzlcWzmiTf89FU3yt`
+Snapshot ID: `Ab9pJgAAAAB+1WDpUXEmsDbE3eD84qf1`

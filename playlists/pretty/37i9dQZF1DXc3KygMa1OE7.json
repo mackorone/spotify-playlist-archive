@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2591145,
+  "num_followers": 2591233,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-05-18 19:25:48",
       "album": {
+        "name": "Kick 30",
+        "url": "https://open.spotify.com/album/5ikDHkayqR6ZTYkpaL2Udq"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/0P9M370uqlIjYcEiOGppAV"
+    },
+    {
+      "added_at": "2025-05-18 19:25:48",
+      "album": {
         "name": "The Peabo Bryson Collection",
         "url": "https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 211400,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/622nEHkm52E6ijVShcea9f"
-    },
-    {
-      "added_at": "2025-05-18 19:25:48",
-      "album": {
-        "name": "Kick 30",
-        "url": "https://open.spotify.com/album/5ikDHkayqR6ZTYkpaL2Udq"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/0P9M370uqlIjYcEiOGppAV"
     },
     {
       "added_at": "2025-05-18 19:25:48",

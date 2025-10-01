@@ -3467,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Beats & Pool",
+        "url": "https://open.spotify.com/album/4U2hNMyRbF7lhesRUMhs1N"
+      },
+      "artists": [
+        {
+          "name": "Umaedo",
+          "url": "https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74"
+        },
+        {
+          "name": "Darane",
+          "url": "https://open.spotify.com/artist/4692rrmuoItKa7630YvTU8"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218978,
+      "name": "Beats & Pool - Radio Edit",
+      "url": "https://open.spotify.com/track/5yDgcnzmbUvriBdEdmkapQ"
+    },
+    {
+      "album": {
         "name": "BEATS FOR THE UNDERGROUND",
         "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
       },

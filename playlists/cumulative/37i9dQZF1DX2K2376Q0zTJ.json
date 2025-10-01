@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: MFS",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Charlu",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -3488,6 +3488,24 @@
       "duration_ms": 216248,
       "name": "Diary",
       "url": "https://open.spotify.com/track/7M7y82GSc9eqXfXypSVwRi"
+    },
+    {
+      "album": {
+        "name": "Diary 9",
+        "url": "https://open.spotify.com/album/6Q1sJjqEGKYf3hS1hJwpO4"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167585,
+      "name": "Diary 9",
+      "url": "https://open.spotify.com/track/1t8SvlndvfSar6g8hcb9f8"
     },
     {
       "album": {
@@ -7572,6 +7590,24 @@
       "duration_ms": 148645,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2dzL4vLcb8uGjP8YoskjfO"
+    },
+    {
+      "album": {
+        "name": "In The Sky",
+        "url": "https://open.spotify.com/album/6ovKmvWBa2VZBSDZHkJNwj"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "In The Sky",
+      "url": "https://open.spotify.com/track/0txmA3JAGwVexETZav673g"
     },
     {
       "album": {
@@ -21516,7 +21552,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 255293,
       "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
       "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
@@ -24306,7 +24342,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 166277,
       "name": "\u661f\u306b\u9858\u3046",
       "url": "https://open.spotify.com/track/1SeC3ZRkFfGdhJw3ftr8Zp"

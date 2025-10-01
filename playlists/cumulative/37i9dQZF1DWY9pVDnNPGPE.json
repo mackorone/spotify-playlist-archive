@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
+    },
+    {
+      "album": {
         "name": "Anywhere is Fine",
         "url": "https://open.spotify.com/album/09UuMjRQ824AqhjYowuV8l"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 170000,
       "name": "Lazy Summer",
       "url": "https://open.spotify.com/track/1OLv3RSj1Jdgss1U0Ge5LR"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 208629,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6I1vTVJnDdnuKbO6S79CQH"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/40jKmO49u111wjmrqUy1mU"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 193480,
       "name": "SEESAW",
       "url": "https://open.spotify.com/track/1M8J3WL4gzaVU7c3oiIfA9"
@@ -2161,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Day : \ubc14\ub78c\uc758 \uc637\uc744 \uc785\uace0 \ucd08\ub85d\uc744 \ub2ec\ub9ac\ub124",
+        "url": "https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5"
+      },
+      "artists": [
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "tulip",
+      "url": "https://open.spotify.com/track/261NZOeWdrSC40Toa7dJaO"
+    },
+    {
+      "album": {
         "name": "Twenty (Prod. Jung Key)",
         "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
       },
@@ -2194,6 +2230,24 @@
       "duration_ms": 167733,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "album": {
+        "name": "attitude",
+        "url": "https://open.spotify.com/album/4ri4vdCKemWFF7WZreFx4C"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250346,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/1WjpBTjxgluq3k0rGSjEA3"
     },
     {
       "album": {
@@ -2270,7 +2324,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 151037,
       "name": "Zenly (feat. Dajung)",
       "url": "https://open.spotify.com/track/2HJj0N9aCxMmWSitr6plyx"

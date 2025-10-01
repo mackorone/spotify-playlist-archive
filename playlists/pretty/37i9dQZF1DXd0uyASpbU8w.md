@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Thakzin, Tyler ICU, Lloyiso, Doja Cat and Vigro Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,580 likes - 84 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,613 likes - 84 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

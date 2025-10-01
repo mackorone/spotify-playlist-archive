@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,371 likes - 43 songs - 2 hr 19 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,384 likes - 48 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 41 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 |
 | 42 | [Sospetti E Tenerezze](https://open.spotify.com/track/51FtXU9pPeXA4PV1pgh39g) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Senza Sapere Niente Di Lei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7iWJnjKnHwxHAnIfNIJrDP) | 4:26 |
 | 43 | [Groovin'](https://open.spotify.com/track/1pZ4YQ93Wc9xoN0Q3h3fLq) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [Solid Soul](https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq) | 2:59 |
+| 44 | [American Express](https://open.spotify.com/track/3AwUCMdBdFw5fzeIdxTRiF) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 4:34 |
+| 45 | [Untitled <3](https://open.spotify.com/track/1aMWBlGWiXlR9zogWsu2yY) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 2:07 |
+| 46 | [take it](https://open.spotify.com/track/4YPOplh4glirQhau0shF5u) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [take it](https://open.spotify.com/album/4SYyFlB9YiIcjYxAQMCfBg) | 3:24 |
+| 47 | [Peel](https://open.spotify.com/track/6TZlGQGbFpPiKEjWxFW5vt) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 3:56 |
+| 48 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
 
-Snapshot ID: `AAANMYtVJuf7CDTyRvzJee//piVeh1w4`
+Snapshot ID: `AAANNjFAcuuWlx9Eeq0fWnJEnrZq+Rot`

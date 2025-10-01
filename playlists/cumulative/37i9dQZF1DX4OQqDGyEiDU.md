@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-636 songs - 1 day 11 hr 35 min
+637 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [oyasumi mode](https://open.spotify.com/track/6BbPE7yMOG2LvAfVlxuO2z) | [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [NEXTLIGHT](https://open.spotify.com/artist/3TB8FogU3YjuUQa8osr0cY) | [oyasumi mode](https://open.spotify.com/album/3wfictgWVFJZIqFCcLF4Sb) | 2:47 | 2025-02-18 | 2025-02-28 |
 | [Panta Rhei](https://open.spotify.com/track/12xRTxLUDGBtMRpRuZTJCQ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Panta Rhei](https://open.spotify.com/album/2FFIFHkx0R40MapvK81Tki) | 3:49 | 2023-08-10 | 2023-08-16 |
 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 | 2022-07-10 | 2022-07-12 |
+| [Pentatonic](https://open.spotify.com/track/5txdVujtl1Ws3kZeHwWkZt) | [syudou × Balloon](https://open.spotify.com/artist/1dsBCeRaXAWlM2kIv61icy), [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [Balloon](https://open.spotify.com/artist/4i5N9MozlKe9ty90PhOPCj) | [Pentatonic](https://open.spotify.com/album/5P980OpP1KzXof4mcNGRpd) | 3:32 | 2025-09-30 |  |
 | [Philosophia](https://open.spotify.com/track/2YNNwEliMwd8LeCyFTCo2S) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Philosophia](https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5) | 3:01 | 2022-06-14 | 2022-06-22 |
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 | 2023-08-25 |
 | [Posinega\*Mistakers](https://open.spotify.com/track/2klkz5Ab8cFgekyiBv7Nez) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Mirai Eve](https://open.spotify.com/album/1JXumAYnk57JaFj4CGt0gh) | 3:39 | 2023-07-06 | 2023-07-21 |
@@ -180,7 +181,7 @@
 | [Shadow Shadow](https://open.spotify.com/track/3kKrLW9Fi7FdPi5oeLER7U) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Shadow Shadow](https://open.spotify.com/album/0czcM9b8vvv9vGIoftmnMq) | 2:21 | 2022-06-09 | 2023-01-13 |
 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 | 2022-06-09 | 2022-07-17 |
 | [Shinkaisyouzyo \-deep sea girl\-](https://open.spotify.com/track/3lVvyDll0zmUqtMncLuCKP) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Shinkaisyouzyo \-deep sea girl\-](https://open.spotify.com/album/5POzDYJhk6PobXLRbXGglJ) | 3:42 | 2023-01-03 | 2023-03-29 |
-| [Shitauchi](https://open.spotify.com/track/2oTbs1CnOViXXw2NpfW2v0) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Aizou](https://open.spotify.com/album/0BdZocxXNdRC3k5qJbvwjo) | 3:14 | 2025-02-27 |  |
+| [Shitauchi](https://open.spotify.com/track/2oTbs1CnOViXXw2NpfW2v0) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Aizou](https://open.spotify.com/album/0BdZocxXNdRC3k5qJbvwjo) | 3:14 | 2025-02-27 | 2025-10-01 |
 | [Shiwa](https://open.spotify.com/track/3NaZokOh98b1XBTMPnN7oz) | [buzzG](https://open.spotify.com/artist/19NXgOnueQiWGJqA2G9ux8) | [Exit Tunes Presents Gumitia From Megpoid](https://open.spotify.com/album/576susPyURtiacuy83kSAV) | 4:15 | 2022-06-14 | 2022-07-28 |
 | [shun\-ran](https://open.spotify.com/track/3fwHnVrs8X3I7jaxoBeifn) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/3sWobIbTGugakWItFl0lex) | 2:41 | 2023-09-05 | 2024-04-19 |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-07-26 | 2022-10-14 |

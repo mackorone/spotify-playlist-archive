@@ -5504,7 +5504,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -5690,7 +5690,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
       "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
@@ -8998,7 +8998,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
@@ -13428,7 +13428,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 261616,
       "name": "L\u1ea1 L\u00f9ng",
       "url": "https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9"
@@ -15709,6 +15709,44 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\" 2025, T\u1eacP 2",
+        "url": "https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "Ng\u00f4 Ki\u1ebfn Huy",
+          "url": "https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s"
+        },
+        {
+          "name": "Jey B",
+          "url": "https://open.spotify.com/artist/4nxHXVJhEDW8IBb2oUwWxA"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316633,
+      "name": "NG\u01af\u1edcI NH\u01af ANH X\u1ee8NG \u0110\u00c1NG C\u00d4 \u0110\u01a0N",
+      "url": "https://open.spotify.com/track/5u5AsK8JLgkr154QHZjJqh"
+    },
+    {
+      "album": {
         "name": "Ng\u01b0\u1eddi \u00d4m Ph\u00e1o Hoa",
         "url": "https://open.spotify.com/album/46D47ArgMXMIF13u0nFWTk"
       },
@@ -16464,7 +16502,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -21086,7 +21124,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
@@ -22296,7 +22334,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -24260,7 +24298,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 265954,
       "name": "V\u00f9ng An To\u00e0n",
       "url": "https://open.spotify.com/track/6Zoi4ue74UdUeYmHXItXnf"
@@ -24326,6 +24364,24 @@
       "duration_ms": 185625,
       "name": "v\u1ea1n v\u1eadt nh\u01b0 mu\u1ed1n ta b\u00ean nhau",
       "url": "https://open.spotify.com/track/5WkuMbkHX7yR7nnBKCn7tV"
+    },
+    {
+      "album": {
+        "name": "Gi\u1ea3i M\u00e3",
+        "url": "https://open.spotify.com/album/2zryoJLP17DSZOnzqYfBpD"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210067,
+      "name": "V\u1ebft M\u01b0a",
+      "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"
     },
     {
       "album": {
@@ -26260,7 +26316,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 266000,
       "name": "\u0110\u01b0\u1eddng T\u00f4i Ch\u1edf Em V\u1ec1",
       "url": "https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL"
@@ -26780,7 +26836,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 279208,
       "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
       "url": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt"

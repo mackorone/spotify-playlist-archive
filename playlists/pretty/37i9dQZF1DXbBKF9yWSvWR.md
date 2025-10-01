@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: tjels
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,212 likes - 77 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,189 likes - 77 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

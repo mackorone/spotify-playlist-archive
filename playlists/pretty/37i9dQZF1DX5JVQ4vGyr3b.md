@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 
 > <a href="spotify:artist:3JkLFcTej6tdwZoQT6Nx4B">Seth Troxler</a>'s favorite tracks\. Updated regularly\. Curated by Seth Troxler\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,168 likes - 53 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,176 likes - 53 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 | 43 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW) | [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [The Attention Deficit Track](https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc) | 3:48 |
 | 44 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
 | 45 | [Movin' \- Dub](https://open.spotify.com/track/2NjGjxwHyacoDY6xJNCY4b) | [TB\-203](https://open.spotify.com/artist/3BX90WAUaZmZFL7wrSvcEj), [DannyP](https://open.spotify.com/artist/6ppLW8ckA8AkPJ8vMjlUek) | [Movin'](https://open.spotify.com/album/70IiYVHfKDW1XuRNPwwq25) | 6:36 |
-| 46 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [DJ Rolando](https://open.spotify.com/artist/6d596lgGxYcfIG0hDl6dhp) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
+| 46 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
 | 47 | [Weak Become Heroes \- Ashley Beedle's Love Bug Vocal](https://open.spotify.com/track/1WApNNh3hq0IVRCqkK9bG1) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Remixes & B\-Sides](https://open.spotify.com/album/215Ax4hgQGPetqBmqfa25a) | 8:13 |
 | 48 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 49 | [Feeling Hot](https://open.spotify.com/track/6K0FfOGkqS9cvYRxH5akMv) | [COLOR.LOVE](https://open.spotify.com/artist/7hgwystBentJsSi5OwDTzh) | [Mixmasters Ibiza](https://open.spotify.com/album/38J2gW0pOO1bVoPpwox7HK) | 6:16 |

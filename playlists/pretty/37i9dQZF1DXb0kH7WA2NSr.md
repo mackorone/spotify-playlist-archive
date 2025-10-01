@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0kH7WA2NSr.md) - [plain]
 
 > <a href="spotify:artist:0jS6VTFGujWxinY5TSQwOG">Kevin Saunderson</a>'s favorite tracks\. Updated regularly\. Curated by Kevin Saunderson\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,144 likes - 30 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,154 likes - 30 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0kH7WA2NSr.md) - [plain]
 | 22 | [Closer](https://open.spotify.com/track/4FyHQroomA3pk6JSQiSWDP) | [Niquid](https://open.spotify.com/artist/0ZR9ne3dReFv0mnMu346L5) | [Single](https://open.spotify.com/album/7bST1M1kZWBbT0Z7NmanXU) | 7:32 |
 | 23 | [Strings of Life](https://open.spotify.com/track/5S7zaCv2inktON7vNdGpHj) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1Xd8VCttru2gEXvzORNmXn) | 6:02 |
 | 24 | [World Of Deep](https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:28 |
-| 25 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [DJ Rolando](https://open.spotify.com/artist/6d596lgGxYcfIG0hDl6dhp) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
+| 25 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
 | 26 | [Rock To The Beat \- Extended Mix](https://open.spotify.com/track/7lyVk3en02JkqjCbbeejmj) | [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Rock To The Beat](https://open.spotify.com/album/1fY2YlZUH5lj0jKnCvTxkg) | 4:08 |
 | 27 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
 | 28 | [Forever Monna](https://open.spotify.com/track/03Z9FKjsOaDy6DpgLhBB2E) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Movement: Torino Music Festival \(Off Series\) \[Issue I\]](https://open.spotify.com/album/3e9xazUt5IAWx6tL7oLYDa) | 5:06 |

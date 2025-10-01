@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Bassline Therapy Radio on SoundCloud
 
-846 songs - 1 day 20 hr 46 min
+847 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Analog Ascent](https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 3:17 | 2025-01-05 | 2025-03-16 |
 | [Animal](https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Animal](https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD) | 3:13 | 2025-04-19 | 2025-07-05 |
 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-09-21 | 2024-09-23 |
-| [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-07-18 |  |
+| [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-07-18 | 2025-10-01 |
 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 | 2024-09-02 | 2024-10-28 |
 | [Asi](https://open.spotify.com/track/6gvss2BhzkoeQpCu2Pfc27) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Asi](https://open.spotify.com/album/0yJ4UqNO4ipDkAV69q4wKo) | 2:57 | 2025-02-09 | 2025-07-05 |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2025-03-16 | 2025-05-19 |
@@ -713,6 +713,7 @@
 | [Takin' Over](https://open.spotify.com/track/03aXk8l9p8bZRKFdQO7VyI) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Takin' Over](https://open.spotify.com/album/4489xlffm6gCzrEvM7vSgE) | 1:59 | 2023-12-31 | 2024-01-16 |
 | [Talk](https://open.spotify.com/track/1QXsfrmFDqXnwqwEA1JbNZ) | [kyogre](https://open.spotify.com/artist/5skAptlgoJmZB8qKS4IUwi) | [Talk](https://open.spotify.com/album/5BDMVOB6AjusqIAPUbMGtK) | 2:46 | 2024-01-08 | 2024-01-22 |
 | [Talk to Me](https://open.spotify.com/track/4mDQ3zjO1OLQhjeYkELy9G) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Talk to Me](https://open.spotify.com/album/1sOEWaeiYUGWiNmpCaaNbo) | 3:10 | 2024-02-05 | 2024-06-24 |
+| [Talk To Me](https://open.spotify.com/track/3OEoWdSIdvAiI83SAK7Y45) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Talk To Me](https://open.spotify.com/album/5CFW6TkoXl34omQRU0bxqj) | 2:34 | 2025-09-30 |  |
 | [Talk To Me](https://open.spotify.com/track/1St7IYlYZmM3e8WcAkQcvo) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg) | [Talk to Me](https://open.spotify.com/album/2uQECqcbhDvLJxbrVs11dR) | 4:37 | 2025-08-23 |  |
 | [Tanga](https://open.spotify.com/track/1vyaqQGDajFnJCJdp29LlX) | [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0), [Skillz](https://open.spotify.com/artist/1I1oMH1GNZY9whdragvksN) | [Tanga](https://open.spotify.com/album/4Y7BIKF5l95MFvmVUqcdz7) | 2:36 | 2025-02-09 | 2025-04-20 |
 | [Tax](https://open.spotify.com/track/6VeiSkTvUS928pBY0uEAC9) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Tax](https://open.spotify.com/album/3d7mcIYhD0nt9hBq1lkdmi) | 3:24 | 2025-01-19 | 2025-03-29 |

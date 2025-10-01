@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 42784,
+  "num_followers": 42810,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAADMZ/tgvlpS6OR9ZZE63wXy",
+  "snapshot_id": "aNnMAAAAAACc4puXx/cEJpaF7rdEkCYK",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "mewtwo",
-      "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 148760,
       "name": "i need u",
       "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "mewtwo",
+      "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
     },
     {
       "added_at": null,
@@ -251,26 +251,6 @@
       "duration_ms": 219428,
       "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "</3\u00b3",
-        "url": "https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 262539,
-      "name": "open it up (with Ken Carson)",
-      "url": "https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq"
     },
     {
       "added_at": null,
@@ -307,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Trap Jump",
-      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -335,6 +299,22 @@
       "duration_ms": 186756,
       "name": "loading",
       "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "Trap Jump",
+      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
     },
     {
       "added_at": null,
@@ -367,6 +347,26 @@
       "duration_ms": 188701,
       "name": "Green Room",
       "url": "https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "</3\u00b3",
+        "url": "https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 262539,
+      "name": "open it up (with Ken Carson)",
+      "url": "https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 95687,
+      "name": "It\u2019s Over",
+      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 176326,
       "name": "VETERAN (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 95687,
-      "name": "It\u2019s Over",
-      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
     },
     {
       "added_at": null,

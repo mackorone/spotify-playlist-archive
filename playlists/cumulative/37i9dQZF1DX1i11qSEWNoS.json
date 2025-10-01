@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Atlantis (Edit)",
+        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Atlantis - Edit",
+      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
+    },
+    {
+      "album": {
         "name": "HALB:VIER DELUXE",
         "url": "https://open.spotify.com/album/0PD3uJOx7UkLtCPoY5fO8o"
       },
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 141493,
       "name": "NEIN SCHATZ",
       "url": "https://open.spotify.com/track/7Bkw8mQs8oYUV9udjdgXG9"

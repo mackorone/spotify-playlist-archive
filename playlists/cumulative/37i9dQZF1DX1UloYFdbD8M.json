@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Urumi",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: K.S.Harisankar",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -258,6 +258,32 @@
       "duration_ms": 215194,
       "name": "Aham",
       "url": "https://open.spotify.com/track/2A8tC8QsRMIvhGpwySJ8rK"
+    },
+    {
+      "album": {
+        "name": "Aham",
+        "url": "https://open.spotify.com/album/0AIYu4ehm4dw6rfsufDfgT"
+      },
+      "artists": [
+        {
+          "name": "Rahul Ramachandran",
+          "url": "https://open.spotify.com/artist/5ZVqVNfX4878mRzELmU6WB"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229784,
+      "name": "Aham - The Atma",
+      "url": "https://open.spotify.com/track/0WHOOt77K29SJG4wdgj3sK"
     },
     {
       "album": {
@@ -2838,7 +2864,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 177761,
       "name": "Kaalachakram",
       "url": "https://open.spotify.com/track/44ZjUym9Qz2fRW16GjwpAR"
@@ -4728,7 +4754,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 206999,
       "name": "MUNDAKAN",
       "url": "https://open.spotify.com/track/4OZwc7QymVhv68I5qMgAJ1"
@@ -5990,6 +6016,28 @@
       "duration_ms": 180352,
       "name": "Oru Mazhayude",
       "url": "https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh"
+    },
+    {
+      "album": {
+        "name": "Oud Trip",
+        "url": "https://open.spotify.com/album/4xMVu7G2doh5Bssx0SNzzN"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Wraith V",
+          "url": "https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194418,
+      "name": "Oud Trip",
+      "url": "https://open.spotify.com/track/2VnolpkBTx6R61J4BWbLBa"
     },
     {
       "album": {
@@ -8596,7 +8644,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 172456,
       "name": "Veyil",
       "url": "https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC"

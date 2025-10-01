@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 195254,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/14Nv1sac50bwPYV5id5OwG"
@@ -3466,6 +3466,28 @@
       "duration_ms": 218082,
       "name": "LALA LALA",
       "url": "https://open.spotify.com/track/4Szt63J5j1ieCImAvn6EPv"
+    },
+    {
+      "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/1HNjofemPzIaYikUdusDJt"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/0bpCU4vY6sf3WNNq88w7nT"
     },
     {
       "album": {

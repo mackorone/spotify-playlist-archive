@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 82986,
+  "num_followers": 82982,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Sapphire (feat. Arijit Singh)",
-        "url": "https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Sapphire (feat. Arijit Singh)",
-      "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
         "name": "Befikre",
         "url": "https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 237875,
       "name": "Nashe Si Chadh Gayi",
       "url": "https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
+        "name": "Sapphire (feat. Arijit Singh)",
+        "url": "https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Sapphire (feat. Arijit Singh)",
+      "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "Jalebi Baby",
+        "url": "https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Jalebi Baby",
+      "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
         "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 216054,
       "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "Jalebi Baby",
-        "url": "https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc"
-      },
-      "artists": [
-        {
-          "name": "Tesher",
-          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Jalebi Baby",
-      "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -735,6 +735,30 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "Makhna (From \"Drive\")",
+        "url": "https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj"
+      },
+      "artists": [
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Makhna - From \"Drive\"",
+      "url": "https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "Makhna (From \"Drive\")",
-        "url": "https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj"
-      },
-      "artists": [
-        {
-          "name": "Yasser Desai",
-          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Makhna - From \"Drive\"",
-      "url": "https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -819,34 +819,6 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Band Baaja Baaraat",
-        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Salim Merchant",
-          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 267624,
-      "name": "Ainvayi Ainvayi",
-      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
         "name": "Roy",
         "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
       },
@@ -871,30 +843,30 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "O Saki Saki (From \"Batla House\")",
-        "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
+        "name": "Band Baaja Baaraat",
+        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
       },
       "artists": [
         {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
         {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
         },
         {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 191089,
-      "name": "O Saki Saki (From \"Batla House\")",
-      "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
+      "duration_ms": 267624,
+      "name": "Ainvayi Ainvayi",
+      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -927,6 +899,34 @@
       "duration_ms": 182369,
       "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/3yxUi5nDZSWcYKi1C2xmLd"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
+        "name": "O Saki Saki (From \"Batla House\")",
+        "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "duration_ms": 191089,
+      "name": "O Saki Saki (From \"Batla House\")",
+      "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "Buzz (feat. Badshah)",
+        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Buzz (feat. Badshah)",
+      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 208164,
       "name": "Jhoome Jo Pathaan",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "Buzz (feat. Badshah)",
-        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
-      },
-      "artists": [
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Buzz (feat. Badshah)",
-      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
-        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
-      },
-      "artists": [
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "duration_ms": 223271,
-      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
-      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
         "name": "Aankh Marey (From \"Simmba\")",
         "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
+        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 223271,
+      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
     },
     {
       "added_at": "2025-09-18 12:21:29",

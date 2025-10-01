@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 薛詒丹 \(aDAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,848 likes - 139 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,889 likes - 139 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 63 | [花語](https://open.spotify.com/track/0zOr0tMvSseAPoNHsSg8KD) | [楊千儀](https://open.spotify.com/artist/32VAinywGJmYtj0EozXyDy) | [花語](https://open.spotify.com/album/7s0xIzqWw7eKoct56zS8YE) | 3:44 |
 | 64 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振瑋](https://open.spotify.com/artist/1R9YWhWA91cCM9uxRMy3O6) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
 | 65 | [Morning call](https://open.spotify.com/track/1xEnm1E2QMFBDo6Ngav2Qp) | [BB彈](https://open.spotify.com/artist/3XvsBnr5I2CaTacYhrdAht) | [Morning call](https://open.spotify.com/album/6KqbJ02lxLccHixcy0XOau) | 1:51 |
-| 66 | [腐爛](https://open.spotify.com/track/7A00Fx4WKlfYpDFWSVeEoF) | [依錚依靜](https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8) | [腐爛](https://open.spotify.com/album/0bRANZ69xkqcmsJJA6BVuc) | 2:57 |
+| 66 | [腐爛](https://open.spotify.com/track/7A00Fx4WKlfYpDFWSVeEoF) | [Yi\-Cheng Yi\-Ching](https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8) | [腐爛](https://open.spotify.com/album/0bRANZ69xkqcmsJJA6BVuc) | 2:57 |
 | 67 | [地圖](https://open.spotify.com/track/3aHlRudJ7ZkFKpcXdDXbSd) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [地圖](https://open.spotify.com/album/4oR1ZUPxnrBeCUkJ8Ur04r) | 1:58 |
 | 68 | [I Don't Want To Talk About It](https://open.spotify.com/track/4ZnkwCBpYCzo4EszQHCFZN) | [LaDY](https://open.spotify.com/artist/5UHOIi8Fui4jcfCSbZCExP) | [I Don't Want To Talk About It](https://open.spotify.com/album/3q8MdTlHy1N6vYx1ZxKkbj) | 3:58 |
 | 69 | [YE SE WEI LIANG](https://open.spotify.com/track/6aHHZrjHWlcvGIThEY443k) | [Loong\-G龍吉](https://open.spotify.com/artist/0RaoGBli3VJJDuE1w82Zmo) | [YE SE WEI LIANG](https://open.spotify.com/album/4D0AorTxx1BBsdebG4LFF5) | 2:44 |

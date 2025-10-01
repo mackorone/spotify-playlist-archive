@@ -4307,6 +4307,24 @@
     },
     {
       "album": {
+        "name": "burka",
+        "url": "https://open.spotify.com/album/7kGYgOHmNfW50ZKhYpw11M"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382677,
+      "name": "burka",
+      "url": "https://open.spotify.com/track/2D85as3PhKMm5pA2gBlw9p"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -4854,7 +4872,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 150295,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
@@ -11928,7 +11946,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -22798,7 +22816,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 208124,
       "name": "RFL",
       "url": "https://open.spotify.com/track/1AD2yeWI3MVPMETTcuxNuL"
@@ -24014,7 +24032,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 139014,
       "name": "seholse",
       "url": "https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD"
@@ -31358,7 +31376,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

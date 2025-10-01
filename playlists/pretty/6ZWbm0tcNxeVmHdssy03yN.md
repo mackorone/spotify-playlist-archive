@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,058 likes - 118 songs - 6 hr 3 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,068 likes - 118 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 38 | [Bad lil' mama](https://open.spotify.com/track/7lcQAePZOtddt0vO5mC1Ot) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Bad lil' mama](https://open.spotify.com/album/2MuBIBSkLoaHNSVoHbol11) | 2:56 |
 | 39 | [Music To Drown By](https://open.spotify.com/track/6KIbwxZAf39TW4vN2ulxlo) | [ChuggaBoom](https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3) | [Music To Drown By](https://open.spotify.com/album/5iRIQOjS0uRH51t8hMbL2Z) | 3:02 |
 | 40 | [Good Jeans](https://open.spotify.com/track/7BLdns6XhYrtJQJynGcUDU) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Good Jeans](https://open.spotify.com/album/69f9I0biqNJJiaILqaCa1J) | 5:44 |
-| 41 | [OOO WHAT'S THAT](https://open.spotify.com/track/0JOiXprMPpS55kmGqGZ7GF) | [HUMAN ERROR CLUB](https://open.spotify.com/artist/0Zo06rizILgTDRvKTx2uQO), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [OOO WHAT'S THAT](https://open.spotify.com/album/4mEOkDK8wcKZGCbwhY0JH2) | 2:49 |
+| 41 | [OOO WHAT'S THAT ft\. Quelle Chris & Cavalier](https://open.spotify.com/track/0JOiXprMPpS55kmGqGZ7GF) | [HUMAN ERROR CLUB](https://open.spotify.com/artist/0Zo06rizILgTDRvKTx2uQO), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [OOO WHAT'S THAT ft\. Quelle Chris & Cavalier](https://open.spotify.com/album/4mEOkDK8wcKZGCbwhY0JH2) | 2:49 |
 | 42 | [Mr\. Hollywood \(Stripped\)](https://open.spotify.com/track/77Gfoz27YvFtzXyR6OtiAZ) | [Stringer](https://open.spotify.com/artist/6DaF5M1QxZ84PIZqbr0zCA), [Majeska](https://open.spotify.com/artist/5KsNaFxbZPeBOhRZ1gtlav), [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG) | [Mr\. Hollywood](https://open.spotify.com/album/5C49yiefYr89NbFLn2kpoE) | 2:51 |
 | 43 | [never on lateness](https://open.spotify.com/track/5UtubGXjDrVftUP26fGnHS) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [never on lateness](https://open.spotify.com/album/3RTvotXhKgrLVb7zFP5HbZ) | 1:44 |
 | 44 | [Si te vas a ir](https://open.spotify.com/track/2zZNWLugb55U7xTYcpneaD) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [Ragazzi](https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA) | [Si te vas a ir](https://open.spotify.com/album/4XjtcLY2wo1gdXhpioy0RB) | 3:58 |

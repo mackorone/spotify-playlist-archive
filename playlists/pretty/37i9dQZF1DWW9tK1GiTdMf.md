@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un autunno non proprio felice \(sally cruz in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,711 likes - 95 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,713 likes - 95 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -126,7 +126,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 222000,
       "name": "Agua Nueva",
       "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
@@ -2314,6 +2314,24 @@
       "duration_ms": 219936,
       "name": "La Alegr\u00eda Manda",
       "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
+    },
+    {
+      "album": {
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
+      },
+      "artists": [
+        {
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236471,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
     },
     {
       "album": {
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 154736,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gllXXCp9zDiMPUOMZyFGr"

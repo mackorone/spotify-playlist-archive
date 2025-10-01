@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 119137,
+  "num_followers": 119179,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 350228,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 350228,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "In A Safe Place",
         "url": "https://open.spotify.com/album/1sHRD82NYs8RKZtlXatlkC"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "The Ever Shifting Fields",
-        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
-      },
-      "artists": [
-        {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
-        }
-      ],
-      "duration_ms": 277133,
-      "name": "In Collusion with the Waves",
-      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Pure Phase",
         "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 232266,
       "name": "The Slide Song",
       "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "The Ever Shifting Fields",
+        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 277133,
+      "name": "In Collusion with the Waves",
+      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Birthing",
-        "url": "https://open.spotify.com/album/3Yz6MpVM993PWHOEQLCXh5"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 411135,
-      "name": "Red Yellow",
-      "url": "https://open.spotify.com/track/2aRL4MQjSefZIWBmeW926k"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Timewave Zero",
         "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 311555,
       "name": "What the Heart Craves For",
       "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Birthing",
+        "url": "https://open.spotify.com/album/3Yz6MpVM993PWHOEQLCXh5"
+      },
+      "artists": [
+        {
+          "name": "Swans",
+          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+        }
+      ],
+      "duration_ms": 411135,
+      "name": "Red Yellow",
+      "url": "https://open.spotify.com/track/2aRL4MQjSefZIWBmeW926k"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 182760,
       "name": "Tear Trails",
       "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Meteor Shower",
-        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
-      },
-      "artists": [
-        {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "kissing maggots",
+        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 230157,
+      "name": "kissing maggots",
+      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "you are now listening to a tender spring",
         "url": "https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 171624,
       "name": "You Have My Whole Heart",
       "url": "https://open.spotify.com/track/3XSMK307R9qBIK1HUgau2x"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "kissing maggots",
-        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 230157,
-      "name": "kissing maggots",
-      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+      },
+      "artists": [
+        {
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+        }
+      ],
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
       "artists": [
         {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
         }
       ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1459,22 +1475,6 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
-      },
-      "artists": [
-        {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "The Skyline EP",
         "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 270962,
       "name": "Skyline Drive",
       "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 278067,
       "name": "Lifelike",
       "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2025-09-25 12:08:17",

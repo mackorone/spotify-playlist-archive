@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 246501,
+  "num_followers": 246538,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW"
+      },
+      "artists": [
+        {
+          "name": "J Ribbon",
+          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
         "name": "YOU GOT ME",
         "url": "https://open.spotify.com/album/7KEs4DXK74Hcj1JLQeL33D"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 210232,
       "name": "YOU GOT ME",
       "url": "https://open.spotify.com/track/5xIF1HQGt4ikaGRDevUNOL"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW"
-      },
-      "artists": [
-        {
-          "name": "J Ribbon",
-          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "If You're Here With Me",
-        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "If You're Here With Me",
-      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
+        "name": "If You're Here With Me",
+        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "If You're Here With Me",
+      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
     },
     {
       "added_at": "2025-08-28 23:00:33",

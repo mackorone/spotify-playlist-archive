@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,812 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,821 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 49 | [Jump & Sing \- Hard Metro Mix](https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx) | [Scram](https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:41 |
 | 50 | [I Get Lifted \- The Underground Network Mix](https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 7:13 |
 | 51 | [Get Up](https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q) | [Krimp](https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz) | [Get Up](https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK) | 6:50 |
-| 52 | [Curious \- Vocal Mix](https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm) | [Sun, Sun, Sun](https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj) | [Curious](https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A) | 7:20 |
-| 53 | [Tyler Moore Mary](https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk) | [Rageous](https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe), [Franklin Fuentes](https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:51 |
+| 52 | [Tyler Moore Mary](https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk) | [Rageous](https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe), [Franklin Fuentes](https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:51 |
+| 53 | [Curious \- Vocal Mix](https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm) | [Sun, Sun, Sun](https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj) | [Curious](https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A) | 7:20 |
 | 54 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
 | 55 | [Stay Together \- Armand's ''Crazy'' Trauma Mix](https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Stay Together](https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt) | 12:57 |
 | 56 | [The Bombero Remix 96](https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA) | [R.B.M.](https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl) | [Straight from the Bario EP](https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK) | 6:12 |

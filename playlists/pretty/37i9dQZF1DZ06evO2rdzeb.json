@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17334,
+  "num_followers": 17346,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAAD3+JR7+If0o+gb/KGJAdZM",
+  "snapshot_id": "aNnMAAAAAAA/7kDqUVu0omHnSkqHCbZz",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides",
-        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 171453,
-      "name": "Kerina",
-      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
+      "duration_ms": 161133,
+      "name": "Steamboat",
+      "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
     },
     {
       "added_at": null,
@@ -251,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+        "name": "a-sides",
+        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Steamboat",
-      "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
+      "duration_ms": 171453,
+      "name": "Kerina",
+      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
     },
     {
       "added_at": null,

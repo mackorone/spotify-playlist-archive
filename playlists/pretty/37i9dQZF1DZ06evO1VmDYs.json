@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 196763,
+  "num_followers": 196795,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNh6gAAAAAAzodWtIkjBVgZ0laiq7yee",
+  "snapshot_id": "aNnMAAAAAABpvSbaRBMndSpIwlrHuUu2",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK Human",
-        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 170717,
-      "name": "Grapes Of Wrath",
-      "url": "https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu"
+      "duration_ms": 207760,
+      "name": "Do You Wanna Get High?",
+      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+        "name": "OK Human",
+        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
+      "duration_ms": 170717,
+      "name": "Grapes Of Wrath",
+      "url": "https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu"
     },
     {
       "added_at": null,

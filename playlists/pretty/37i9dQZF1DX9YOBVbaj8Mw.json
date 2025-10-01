@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19269,
+  "num_followers": 19268,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Come back...",
+        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
+      },
+      "artists": [
+        {
+          "name": "Henryk Miskiewicz",
+          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
+        },
+        {
+          "name": "Chopin University Big Band",
+          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
+        },
+        {
+          "name": "Piotr Kostrzewa",
+          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
+        }
+      ],
+      "duration_ms": 416128,
+      "name": "Kakaruka",
+      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Adam's Apple",
         "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
       },
@@ -1255,30 +1279,6 @@
       "duration_ms": 332013,
       "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
       "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Come back...",
-        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
-      },
-      "artists": [
-        {
-          "name": "Henryk Miskiewicz",
-          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
-        },
-        {
-          "name": "Chopin University Big Band",
-          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
-        },
-        {
-          "name": "Piotr Kostrzewa",
-          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
-        }
-      ],
-      "duration_ms": 416128,
-      "name": "Kakaruka",
-      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "W\u0119druj\u0105cy Ptak",
-        "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
-      },
-      "artists": [
-        {
-          "name": "\u0141ukasz Ojdana",
-          "url": "https://open.spotify.com/artist/24FTXRoseBamWaThnQ6H1F"
-        },
-        {
-          "name": "DREVO",
-          "url": "https://open.spotify.com/artist/68ia1N3xOWMVUlGe7u4hFT"
-        },
-        {
-          "name": "Mariia Ojdana",
-          "url": "https://open.spotify.com/artist/5SlqX2gNJBLGHpZn8dmJAT"
-        }
-      ],
-      "duration_ms": 157780,
-      "name": "Letila zozula czerez moju chatu",
-      "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Come back...",
         "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
       },
@@ -1467,22 +1443,26 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+        "name": "W\u0119druj\u0105cy Ptak",
+        "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
       "artists": [
         {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+          "name": "\u0141ukasz Ojdana",
+          "url": "https://open.spotify.com/artist/24FTXRoseBamWaThnQ6H1F"
         },
         {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+          "name": "DREVO",
+          "url": "https://open.spotify.com/artist/68ia1N3xOWMVUlGe7u4hFT"
+        },
+        {
+          "name": "Mariia Ojdana",
+          "url": "https://open.spotify.com/artist/5SlqX2gNJBLGHpZn8dmJAT"
         }
       ],
-      "duration_ms": 361016,
-      "name": "F Jak Samolot",
-      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
+      "duration_ms": 157780,
+      "name": "Letila zozula czerez moju chatu",
+      "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1499,6 +1479,26 @@
       "duration_ms": 137170,
       "name": "Welcome To The Forrest",
       "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 361016,
+      "name": "F Jak Samolot",
+      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Zero Waste",
+        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
+      },
+      "artists": [
+        {
+          "name": "Szymon Zawodny Quintet",
+          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Morning Sea",
+      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 338031,
       "name": "Bonzer",
       "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Zero Waste",
-        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
-      },
-      "artists": [
-        {
-          "name": "Szymon Zawodny Quintet",
-          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Morning Sea",
-      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
     }
   ],
   "unique_name": "Fryderyk 2025",

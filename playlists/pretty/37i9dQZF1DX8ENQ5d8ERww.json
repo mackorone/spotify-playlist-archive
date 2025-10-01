@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12981,
+  "num_followers": 12983,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "L\u00e4benslauf",
-        "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
-      },
-      "artists": [
-        {
-          "name": "Wrecked Mob",
-          "url": "https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3"
-        },
-        {
-          "name": "Dj Thomilla",
-          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "L\u00e4benslauf",
-      "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "Du & Ich",
         "url": "https://open.spotify.com/album/76WhAV5kBQARS2T6Dk39RU"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 238053,
       "name": "Du & Ich - Radio Edit",
       "url": "https://open.spotify.com/track/5Ej5atpjCZcFmu1OTXeFHx"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "L\u00e4benslauf",
+        "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
+      },
+      "artists": [
+        {
+          "name": "Wrecked Mob",
+          "url": "https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3"
+        },
+        {
+          "name": "Dj Thomilla",
+          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "L\u00e4benslauf",
+      "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
     },
     {
       "added_at": "2025-07-24 13:47:10",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "Freshman 2015",
-        "url": "https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0"
-      },
-      "artists": [
-        {
-          "name": "Rotchopf",
-          "url": "https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "I dier",
-      "url": "https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 225666,
       "name": "Nackt",
       "url": "https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "Freshman 2015",
+        "url": "https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0"
+      },
+      "artists": [
+        {
+          "name": "Rotchopf",
+          "url": "https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "I dier",
+      "url": "https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF"
     },
     {
       "added_at": "2025-07-24 13:47:10",

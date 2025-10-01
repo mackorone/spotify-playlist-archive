@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-285 songs - 17 hr 17 min
+286 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-08-24 |  |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-12-01 | 2024-04-19 |
 | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/track/51mycpP5uFInLw300nestX) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb) | 3:08 | 2024-02-01 |  |
-| [Missing Piece \- Sofi Tukker Remix](https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Missing Piece \(Sofi Tukker Remix\)](https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M) | 3:26 | 2025-06-03 |  |
+| [Missing Piece \- Sofi Tukker Remix](https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Missing Piece \(Sofi Tukker Remix\)](https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M) | 3:26 | 2025-06-03 | 2025-10-01 |
 | [More of You](https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [More of You](https://open.spotify.com/album/2XtHv7Q0Woi1PI9N2jqE1g) | 4:13 | 2025-04-08 |  |
 | [Morning Sun](https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Morning Sun](https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH) | 5:04 | 2025-06-03 |  |
 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 | 2023-10-12 | 2023-11-17 |
@@ -283,6 +283,7 @@
 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 | 2023-02-09 | 2025-05-07 |
 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2022-12-15 |  |
 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-12-01 |  |
+| [Work Your Body](https://open.spotify.com/track/0cLBjsy97A5FpKQ6eZyLe0) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU), [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Work Your Body](https://open.spotify.com/album/4mkweAKel2xdUAW2JCsSwD) | 3:20 | 2025-08-01 |  |
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-12-01 | 2024-05-10 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2024-02-01 | 2024-04-19 |
 | [Would You \(feat\. Mel Blue\)](https://open.spotify.com/track/1mAsZArwHOrkJ0qjS6iAQV) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Would You \(feat\. Mel Blue\)](https://open.spotify.com/album/6yAPQKMXh3KWjaGw59mCBN) | 3:35 | 2025-04-01 | 2025-04-21 |

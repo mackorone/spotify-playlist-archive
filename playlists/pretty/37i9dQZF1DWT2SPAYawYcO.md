@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Olivia Dean, 5 Seconds of Summer, Tame Impala, Doja Cat, The 046  + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,102 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,083 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 70 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 |
 | 71 | [Rebecca](https://open.spotify.com/track/6CP6LUVijAZYts1n8F3y6r) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Rebecca](https://open.spotify.com/album/5GuldxGIudIorKuknPw6kj) | 3:05 |
 | 72 | [Idk](https://open.spotify.com/track/0PCNmy8zuWYwJFpMlFkh6t) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [Idk](https://open.spotify.com/album/6k3MOMsZF3tgUrfbaf4FJx) | 2:51 |
-| 73 | [Isn't How I Remember](https://open.spotify.com/track/4ZJsQ5G7jEF2kV9WF5mLDI) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom), [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ) | [Isn't How I Remember](https://open.spotify.com/album/7q1McRTYdAf4COxom3MJhy) | 3:37 |
+| 73 | [Isn't How I Remember](https://open.spotify.com/track/4ZJsQ5G7jEF2kV9WF5mLDI) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [Isn't How I Remember](https://open.spotify.com/album/7q1McRTYdAf4COxom3MJhy) | 3:37 |
 | 74 | [Rancid \(feat\. LUATÈ.\)](https://open.spotify.com/track/1loM1yy28leRnuJ66hEjCx) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [LUATÈ.](https://open.spotify.com/artist/1jPPCN5GEjdRDM2a34neQY) | [Better With Friends \- Vol\. 1](https://open.spotify.com/album/4NBPVo68ogvy6Vh48F4xRS) | 2:48 |
 | 75 | [SUNLIGHT](https://open.spotify.com/track/6vuoyS7juzpRFzhnB9mcS0) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [SUNLIGHT](https://open.spotify.com/album/1Pf6ADqkjTpf6HTEWlEHXl) | 2:45 |
 | 76 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |

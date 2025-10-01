@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIW4dh1ZqUeCg>Still Remains</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 244680,
       "name": "1984",
       "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 190693,
       "name": "94 Hours",
       "url": "https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 253080,
       "name": "An Ocean Between Us",
       "url": "https://open.spotify.com/track/2wVY3XAbaIK0Kw2fzpuTSN"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "Blueprints For Future Homes",
       "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 228920,
       "name": "DEMON(S)",
       "url": "https://open.spotify.com/track/6t1Bmjef4I067PKxd6CRlQ"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 243600,
       "name": "Dez Moines",
       "url": "https://open.spotify.com/track/05NRKMTDuXA5ehLLe0wtL0"
@@ -1266,6 +1266,24 @@
       "duration_ms": 77973,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
+    },
+    {
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "Down, Set, Go",
+      "url": "https://open.spotify.com/track/1Kf4N09laoNZfMmvQiIBez"
     },
     {
       "album": {
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 282533,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3vMPhppWYQoLN7Ji4JXWo7"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 318026,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 297426,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/50mHTNxev0bSYQhuAASe17"
@@ -2767,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/7MaZpVGGdWnqOrAdWmARV4"
       },
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 205400,
       "name": "Relentless Chaos",
       "url": "https://open.spotify.com/track/0LU2vXwIiZRhaskw6cFV13"
@@ -3307,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "The Fiction We Live",
+        "url": "https://open.spotify.com/album/3o7hJydFolbqna8vFoTGX0"
+      },
+      "artists": [
+        {
+          "name": "From Autumn To Ashes",
+          "url": "https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "The After Dinner Payback",
+      "url": "https://open.spotify.com/track/0kMwWzfhFVAiUFyTIPpLRy"
+    },
+    {
+      "album": {
         "name": "Saints",
         "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
       },
@@ -3448,6 +3502,24 @@
       "duration_ms": 190506,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/4JootIUZqWEfvhIuvljZTu"
+    },
+    {
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "The Impact Of Reason",
+      "url": "https://open.spotify.com/track/5T8sMuNzpxsZlmOKFhGayj"
     },
     {
       "album": {
@@ -4182,7 +4254,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42"
@@ -4369,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Define The Great Line",
+        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242413,
+      "name": "Writing On The Walls",
+      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
+    },
+    {
+      "album": {
         "name": "Of Mice & Men",
         "url": "https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL"
       },
@@ -4420,6 +4510,24 @@
       "duration_ms": 253826,
       "name": "You're Ever So Inviting",
       "url": "https://open.spotify.com/track/5rK0oa87GjgVTJ8bGcaape"
+    },
+    {
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "Young And Aspiring",
+      "url": "https://open.spotify.com/track/5AcWLXw3J6XVC9Ba6SNB0u"
     },
     {
       "album": {

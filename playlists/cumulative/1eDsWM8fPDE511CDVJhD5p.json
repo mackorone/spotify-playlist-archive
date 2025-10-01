@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 244137,
       "name": "Awake (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/70P2Kq5uqY5T1bh0MXKAXK"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 215625,
       "name": "Like Light (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1XkA9XpKfjqCEoPwrn4Vj7"
@@ -3131,6 +3131,28 @@
     },
     {
       "album": {
+        "name": "I want to be one and only.",
+        "url": "https://open.spotify.com/album/3ItgNli4pSv9SauBr5bY4N"
+      },
+      "artists": [
+        {
+          "name": "Cagayake",
+          "url": "https://open.spotify.com/artist/5CfFlJQ8rKqPkUkv9Hcpus"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "The Baton of Playful Colors (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/4uFEuIJh8kXCJKO5xibeGu"
+    },
+    {
+      "album": {
         "name": "VOCALO EDM COLLECTION feat. Miku Hatsune",
         "url": "https://open.spotify.com/album/6BFIt7SLczxOz6OYZSuOdf"
       },
@@ -3296,7 +3318,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 240000,
       "name": "undersurface (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/1NlLCgrhAqdoIQ2BE5adGs"
@@ -4374,7 +4396,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 206666,
       "name": "\u30ab\u30a6\u30f3\u30bb\u30e9\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5ZeOV6d5rY1cugpBCqaeWC"
@@ -4784,6 +4806,28 @@
       "duration_ms": 167461,
       "name": "\u30bd\u30ec\u30e0 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/054E21JyZZUmwCC3v6c2pl"
+    },
+    {
+      "album": {
+        "name": "SHOWDOWN",
+        "url": "https://open.spotify.com/album/0a3zj9D3XBjvxwovAYEpN9"
+      },
+      "artists": [
+        {
+          "name": "\u706f\u9060",
+          "url": "https://open.spotify.com/artist/4AFG29nrsmlj863TBXHjzU"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "\u30bf\u30ca\u30c8\u30d5\u30a3\u30ea\u30a2 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/0ACOY6nVpWPLs3GGZ2CIlJ"
     },
     {
       "album": {
@@ -5234,6 +5278,28 @@
       "duration_ms": 189650,
       "name": "\u30d2\u30ed\u30a4\u30f3\u3002 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1K3CPzNrAws4fG8Sv4x4bG"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30fc\u30c8\u30fb\u30aa\u30f3\u30fb\u30d3\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/5AAkPNKUthpB4roqwoBlwm"
+      },
+      "artists": [
+        {
+          "name": "Rulmry.",
+          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174206,
+      "name": "\u30d2\u30fc\u30c8\u30fb\u30aa\u30f3\u30fb\u30d3\u30fc\u30c8 (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/2P6N7VIGmmQXNCaeMlzYr4"
     },
     {
       "album": {
@@ -6109,6 +6175,28 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5728\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1G9Fe7rglGf7r6o5rddZ1r"
+      },
+      "artists": [
+        {
+          "name": "nyanyannya\uff08\u5927\u5929\u624dP\uff09",
+          "url": "https://open.spotify.com/artist/7CG1mUAvK4H3QjgFDu3NAF"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177850,
+      "name": "\u4e0d\u5728\u306e\u8a69 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1UzIbK9liAYXUqoMAGS828"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u7d14\u540c\u76df",
         "url": "https://open.spotify.com/album/0xcSKmQSrpy2ndniN5eKjs"
       },
@@ -6486,7 +6574,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 173661,
       "name": "\u658e\u6212 -MEIKO ver.-",
       "url": "https://open.spotify.com/track/6Kax7VCWEdrBbHO5rSPTM5"
@@ -7146,6 +7234,32 @@
       "duration_ms": 134166,
       "name": "\u9685\u7530\u5ddd\u884c\u5217 (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5fuTIXWhsgXw6yctAiWxL0"
+    },
+    {
+      "album": {
+        "name": "\u96fb\u5149\u5239\u6b4c",
+        "url": "https://open.spotify.com/album/0wnY0QqK88AhUGIyPN8z6S"
+      },
+      "artists": [
+        {
+          "name": "Camellia",
+          "url": "https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "\u96fb\u5149\u5239\u6b4c (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7fAb4w5YqpHgTBGjCmJpVH"
     },
     {
       "album": {

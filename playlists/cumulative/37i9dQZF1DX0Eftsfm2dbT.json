@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: MFS",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: guca owl, STUTS",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 7427,
       "name": "+81 Connect Call_C.O.S.A.",
       "url": "https://open.spotify.com/track/5zwKiH6rkWWZEPGK24W84Y"
+    },
+    {
+      "album": {
+        "name": "+81 Connect Call_guca owl",
+        "url": "https://open.spotify.com/album/0arxYoDEyKGW8sJ07qXjDv"
+      },
+      "artists": [
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10399,
+      "name": "+81 Connect Call_guca owl",
+      "url": "https://open.spotify.com/track/1xRljfiRJlgfUGWu6cxz7X"
     },
     {
       "album": {
@@ -656,7 +674,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 210660,
       "name": "1942 (feat. YZERR)",
       "url": "https://open.spotify.com/track/5C0hw5Fbygeep9k6tKn8zX"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 92832,
       "name": "6mg",
       "url": "https://open.spotify.com/track/0h3259Ydh8XCHG6D5bMkD7"
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
@@ -2815,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Aruku",
+        "url": "https://open.spotify.com/album/7bal1sb6OWToV0X8D9s5tX"
+      },
+      "artists": [
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124848,
+      "name": "Aruku",
+      "url": "https://open.spotify.com/track/4AzKChal9wqdatJY4Hilv7"
+    },
+    {
+      "album": {
         "name": "ASAGAKITA",
         "url": "https://open.spotify.com/album/0IT91sxpP98ySg38KDkl9X"
       },
@@ -3442,6 +3478,24 @@
       "duration_ms": 147920,
       "name": "BABE",
       "url": "https://open.spotify.com/track/4YGG8J2CiQiyT5o49J840H"
+    },
+    {
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/7uOzobU8DHxUSglFZPscFf"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7k9SOTCuKQA0vPaQxh22OX"
     },
     {
       "album": {
@@ -4744,7 +4798,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 130909,
       "name": "Bible (feat. guca owl)",
       "url": "https://open.spotify.com/track/2cIj4DLyyvQj7r6CKBorWl"
@@ -5118,7 +5172,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 91000,
       "name": "BK Suede - Remix",
       "url": "https://open.spotify.com/track/4CZjWQcRCuyWq5TuMjvcTs"
@@ -5320,6 +5374,28 @@
       "duration_ms": 172236,
       "name": "Blood (feat. KOWICHI & Starceed)",
       "url": "https://open.spotify.com/track/1PJ1B2OjcWLs428QVoqRrd"
+    },
+    {
+      "album": {
+        "name": "Blood In My Hood",
+        "url": "https://open.spotify.com/album/58eNZah36Wsn5QLD95HQxH"
+      },
+      "artists": [
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197403,
+      "name": "Blood In My Hood",
+      "url": "https://open.spotify.com/track/0liqMNwIAWrP0R8FNmiimd"
     },
     {
       "album": {
@@ -8575,6 +8651,36 @@
     },
     {
       "album": {
+        "name": "It Was All A Dream",
+        "url": "https://open.spotify.com/album/1j2I2gdLqMbUMSgZr5vK4f"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "hxpe trash",
+          "url": "https://open.spotify.com/artist/1f8HDZFshD96Iw3bNxpREB"
+        },
+        {
+          "name": "STACK THE PINK",
+          "url": "https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266007,
+      "name": "Dennis Rodman's (feat. hxpe trash, STACK THE PINK & Worldwide Skippa)",
+      "url": "https://open.spotify.com/track/5ffjFC2uDTAZDyfxEZ7ube"
+    },
+    {
+      "album": {
         "name": "Dependent",
         "url": "https://open.spotify.com/album/1ZFnFAn0Z0YnJyOqIMjMkY"
       },
@@ -8802,6 +8908,28 @@
       "duration_ms": 220333,
       "name": "DIFFICULT",
       "url": "https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD"
+    },
+    {
+      "album": {
+        "name": "DigDag",
+        "url": "https://open.spotify.com/album/1yBq8JaOghrXVLL6iGsFzw"
+      },
+      "artists": [
+        {
+          "name": "ISSUGI",
+          "url": "https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp"
+        },
+        {
+          "name": "Gradis Nice",
+          "url": "https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193796,
+      "name": "DigDag",
+      "url": "https://open.spotify.com/track/2Wl0iCweMUpRUUPWYk6v5S"
     },
     {
       "album": {
@@ -17802,7 +17930,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 131374,
       "name": "Katsushika",
       "url": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
@@ -20591,6 +20719,36 @@
     },
     {
       "album": {
+        "name": "MAHU-BA",
+        "url": "https://open.spotify.com/album/5kWOkhQ1QZMyivsGIsof8I"
+      },
+      "artists": [
+        {
+          "name": "K.K FLOW",
+          "url": "https://open.spotify.com/artist/5Ca33ybfHnypI7zBIEsHAK"
+        },
+        {
+          "name": "M.O.J.I.",
+          "url": "https://open.spotify.com/artist/4QjtoPVkYN4EowYx5FVHUE"
+        },
+        {
+          "name": "Chouji",
+          "url": "https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu"
+        },
+        {
+          "name": "Shuto",
+          "url": "https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251785,
+      "name": "MAHU-BA",
+      "url": "https://open.spotify.com/track/4MGe92PiqGCacm3kmUWwrN"
+    },
+    {
+      "album": {
         "name": "Main Job (feat. Gottz & MUD)",
         "url": "https://open.spotify.com/album/3nCJgTTy7OAdZLT2ZhrZY4"
       },
@@ -22412,7 +22570,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 129672,
       "name": "MOVE IN SILENCE",
       "url": "https://open.spotify.com/track/6iSLFhWPttcd9hSaiKJw9t"
@@ -25878,6 +26036,24 @@
       "duration_ms": 205567,
       "name": "ONCE IN A LIFETIME",
       "url": "https://open.spotify.com/track/2bCg9X07xTOoXptDWvV5Ad"
+    },
+    {
+      "album": {
+        "name": "Once today is over",
+        "url": "https://open.spotify.com/album/2XG5ZBWIZklrXSaNtbTy8l"
+      },
+      "artists": [
+        {
+          "name": "Yella Flat Boys",
+          "url": "https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232581,
+      "name": "Once today is over",
+      "url": "https://open.spotify.com/track/2Wr5XUPwmmLpaCKq9kxVil"
     },
     {
       "album": {
@@ -29620,7 +29796,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 180530,
       "name": "Run",
       "url": "https://open.spotify.com/track/3li8S07E2MCMXzPWnPwuDI"
@@ -29712,7 +29888,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 157714,
       "name": "Run It (feat. BFN TOKYOTRILL & ACE COOL)",
       "url": "https://open.spotify.com/track/1tZq3bxaNMbHKkl09oa115"
@@ -31242,7 +31418,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 204333,
       "name": "SHUT THE FUCK UP (feat. Hideyoshi, Jinmenusagi & Carz)",
       "url": "https://open.spotify.com/track/0qBKYzHLHs7ZISRc4Lpk8Q"
@@ -31308,7 +31484,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 177590,
       "name": "Sinner (feat. A-THUG)",
       "url": "https://open.spotify.com/track/1jCp9odlkPxd68KhsFSkPx"
@@ -31564,6 +31740,28 @@
       "duration_ms": 220454,
       "name": "SLICK BACK (feat. Myghty Tommy)",
       "url": "https://open.spotify.com/track/04N23tB31o5meYYoKaQKUu"
+    },
+    {
+      "album": {
+        "name": "Slither.io",
+        "url": "https://open.spotify.com/album/2MzQmBx7P0FQKztu5HIkEE"
+      },
+      "artists": [
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        },
+        {
+          "name": "who28",
+          "url": "https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "Slither.io",
+      "url": "https://open.spotify.com/track/6OiXpXbILy8NulA3AYwde9"
     },
     {
       "album": {
@@ -33658,6 +33856,32 @@
       "duration_ms": 135000,
       "name": "Switch!",
       "url": "https://open.spotify.com/track/6Td7ZVBmvlnWMA0RKMw5VZ"
+    },
+    {
+      "album": {
+        "name": "TACHI (feat. Maeshima Kantarou & KENTINMIN)",
+        "url": "https://open.spotify.com/album/7j0aEymB55RQvTYrHjG4gs"
+      },
+      "artists": [
+        {
+          "name": "KIKUMARU",
+          "url": "https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK"
+        },
+        {
+          "name": "Maeshima Kantarou",
+          "url": "https://open.spotify.com/artist/0OEIXG7MU9R1qRSIF74ilf"
+        },
+        {
+          "name": "KENTINMIN",
+          "url": "https://open.spotify.com/artist/74L5FMXHVvsJV2G6YqflJV"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170543,
+      "name": "TACHI (feat. Maeshima Kantarou & KENTINMIN)",
+      "url": "https://open.spotify.com/track/5Uge8TZWqDaNLFgMC7QWXn"
     },
     {
       "album": {
@@ -35883,6 +36107,24 @@
     },
     {
       "album": {
+        "name": "UNVEIL",
+        "url": "https://open.spotify.com/album/3yEgaoes6pOEcD6FA2wCnf"
+      },
+      "artists": [
+        {
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "TSUKI",
+      "url": "https://open.spotify.com/track/3OLdnkCLQB6WftuS9XyPSV"
+    },
+    {
+      "album": {
         "name": "Cocrgi White",
         "url": "https://open.spotify.com/album/7qGxq2zZwTogbXFeFbxjvT"
       },
@@ -35974,7 +36216,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 114580,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/30kqOEzaNBrUa7JEjb6PsF"
@@ -36388,7 +36630,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 191624,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/1lIG5yztPC8R876BsiiSyy"
@@ -37363,6 +37605,28 @@
     },
     {
       "album": {
+        "name": "Waruiko Remix (feat. 7)",
+        "url": "https://open.spotify.com/album/0YDWP0UcwnYdWWjgqrAugs"
+      },
+      "artists": [
+        {
+          "name": "IFE",
+          "url": "https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Waruiko Remix (feat. 7)",
+      "url": "https://open.spotify.com/track/0ShvA0s43V3SjEWQ0dl3EL"
+    },
+    {
+      "album": {
         "name": "Just Live For Today",
         "url": "https://open.spotify.com/album/3uFsqbRY4qqnhpi13kUphe"
       },
@@ -38278,6 +38542,28 @@
       "duration_ms": 210149,
       "name": "Who?",
       "url": "https://open.spotify.com/track/75Oa0p1FJ31i6yZlufxB8n"
+    },
+    {
+      "album": {
+        "name": "WHY DO WE FALL?",
+        "url": "https://open.spotify.com/album/5nh27FCgBstWtZxOckskGG"
+      },
+      "artists": [
+        {
+          "name": "Need a Flex",
+          "url": "https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA"
+        },
+        {
+          "name": "Kamui",
+          "url": "https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114022,
+      "name": "WHY DO WE FALL?",
+      "url": "https://open.spotify.com/track/3NOQkx4EG39w85YGD7EvKV"
     },
     {
       "album": {
@@ -41554,7 +41840,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 183200,
       "name": "\u4ffa\u306e\u30d6\u30e9\u30f3\u30c9 (feat. S TILL I DIE & Miyauchi)",
       "url": "https://open.spotify.com/track/7rglowSd4oe0nbkYIxTR6K"
@@ -42364,7 +42650,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 166277,
       "name": "\u661f\u306b\u9858\u3046",
       "url": "https://open.spotify.com/track/1SeC3ZRkFfGdhJw3ftr8Zp"
@@ -42470,6 +42756,28 @@
       "duration_ms": 223359,
       "name": "\u6771\u4eac\u7121\u5bbf",
       "url": "https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM"
+    },
+    {
+      "album": {
+        "name": "Loco Dinner",
+        "url": "https://open.spotify.com/album/0tKxvf5NryXC9LrNrC70qs"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197496,
+      "name": "\u697d\u3057\u3044\u3060\u3051\u3058\u3083 (feat. Worldwide Skippa)",
+      "url": "https://open.spotify.com/track/3bTF24ppSYQ8aohmy2CcRC"
     },
     {
       "album": {

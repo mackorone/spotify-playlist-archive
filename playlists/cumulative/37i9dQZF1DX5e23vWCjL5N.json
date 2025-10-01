@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "PROGETTO X",
+        "url": "https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119597,
+      "name": "CARTE IN TAVOLA",
+      "url": "https://open.spotify.com/track/31cmPjGugy94lCiJfHmJER"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
       },

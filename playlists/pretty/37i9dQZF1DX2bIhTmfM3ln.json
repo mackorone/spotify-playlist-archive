@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 47932,
+  "num_followers": 47989,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "i think i love you 2",
-        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
-      },
-      "artists": [
-        {
-          "name": "ru.",
-          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "i think i love you 2",
-      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "DIANA",
         "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 140481,
       "name": "DIANA",
       "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "i think i love you 2",
+        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
+      },
+      "artists": [
+        {
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "i think i love you 2",
+      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
+        "name": "Lemme Know",
+        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Lemme Know",
+      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
         "name": "Who Is Big Banju",
         "url": "https://open.spotify.com/album/7yIj6m5wHxmHxk2Lmgue2m"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 172427,
       "name": "In Love with You",
       "url": "https://open.spotify.com/track/22ChegU5K3Yv2BOE5Il3QO"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
-        "name": "Lemme Know",
-        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Lemme Know",
-      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "K.O.K",
-        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "K.O.K",
-      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
       },
@@ -1347,6 +1327,26 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
+        "name": "K.O.K",
+        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "K.O.K",
+      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
         "name": "Rehab",
         "url": "https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 173550,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1411,22 +1395,18 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "From The Soil",
-        "url": "https://open.spotify.com/album/7Fg63uNtYiTRMrJjMsHhTI"
+        "name": "You",
+        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
       },
       "artists": [
         {
-          "name": "Jubed",
-          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
-        },
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
         }
       ],
-      "duration_ms": 181176,
-      "name": "Abena",
-      "url": "https://open.spotify.com/track/4KEBHEiQve5RAIgX1LPYzw"
+      "duration_ms": 135000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1447,6 +1427,26 @@
       "duration_ms": 210404,
       "name": "Lose My Mind - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "From The Soil",
+        "url": "https://open.spotify.com/album/7Fg63uNtYiTRMrJjMsHhTI"
+      },
+      "artists": [
+        {
+          "name": "Jubed",
+          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 181176,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/4KEBHEiQve5RAIgX1LPYzw"
     },
     {
       "added_at": "2025-09-26 00:01:27",
