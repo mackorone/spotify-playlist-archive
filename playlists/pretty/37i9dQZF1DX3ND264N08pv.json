@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 88718,
+  "num_followers": 88746,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-09-29 09:14:26",
       "album": {
-        "name": "Paint It Black",
-        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
-    },
-    {
-      "added_at": "2025-09-29 09:14:26",
-      "album": {
         "name": "Pennywise (Deadly Guns Remix)",
         "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 152000,
       "name": "Pennywise - Deadly Guns Remix",
       "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
+    },
+    {
+      "added_at": "2025-09-29 09:14:26",
+      "album": {
+        "name": "Paint It Black",
+        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
     },
     {
       "added_at": "2025-09-29 09:14:26",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2025-09-29 09:14:26",
       "album": {
-        "name": "Hardcore Strikes Back",
-        "url": "https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE"
+        "name": "Monkey Man",
+        "url": "https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "The Herbalist",
+          "url": "https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu"
+        },
+        {
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Hardcore Strikes Back",
-      "url": "https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE"
+      "duration_ms": 140304,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

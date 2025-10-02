@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-254 songs - 15 hr 35 min
+255 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-03-21 | 2025-09-10 |
 | [On My Way](https://open.spotify.com/track/6SxVjWpYrs3ONAiT2zEN38) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [On My Way](https://open.spotify.com/album/0uSQfBqp7FRrJ3AyuAMv6K) | 3:22 | 2023-11-28 | 2025-09-10 |
 | [One Love](https://open.spotify.com/track/0aPNwV1eWsyjpccU7eJ4j4) | [Bradamon Band](https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr), [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2), [Chante](https://open.spotify.com/artist/5bEBymJXMgx3PBk2XCJlON) | [One Love](https://open.spotify.com/album/3Itcy97dg2cWNhMVHbXKgL) | 3:58 | 2024-10-04 | 2025-09-10 |
-| [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 | 2025-05-22 |  |
+| [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 | 2025-05-22 | 2025-10-02 |
 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 | 2023-11-28 |  |
 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 | 2025-09-09 |  |
 | [One Way](https://open.spotify.com/track/3NEXN45dcu8xBrjRvSgKon) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [One Way](https://open.spotify.com/album/424aV8BFksWTncxaEKmGD5) | 3:08 | 2025-07-24 |  |
@@ -177,6 +177,7 @@
 | [Pele Moni](https://open.spotify.com/track/1EfCoeCGjl6ZAcHcV4tPZo) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Pele Moni](https://open.spotify.com/album/5ZbzbBco8fvdBzVsnJFP5l) | 2:48 | 2024-11-07 | 2025-09-10 |
 | [Perfect to Me](https://open.spotify.com/track/5Tc9ADjIJJEYQyq34z8ESA) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Perfect to Me](https://open.spotify.com/album/761Tk06gOpexFYx3XjGzMY) | 4:02 | 2025-09-09 |  |
 | [Place To Be](https://open.spotify.com/track/7JFpuEBhJzBCFWWmW27vPF) | [People of the PA](https://open.spotify.com/artist/0ZFEJl5p4qhQJ0pnloHeFs), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Place To Be](https://open.spotify.com/album/0ZaueDxjLbgYYT8iMe3hQW) | 3:49 | 2023-11-28 | 2025-09-10 |
+| [Power of Love \- Reggae](https://open.spotify.com/track/5FW9a89r3hjYtOCyuDMORD) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Power of Love \(Reggae\)](https://open.spotify.com/album/4Dmq6VCmupTaY7YOZhz089) | 3:15 | 2025-09-09 |  |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-17 |  |
 | [Prince Charming](https://open.spotify.com/track/06goB8fnjdVuCuyDmgTX3F) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Prince Charming](https://open.spotify.com/album/6hrHPCTTR3Dh1iaYBnw9ax) | 4:09 | 2023-11-28 | 2025-09-10 |
 | [Purea / Cool It Down](https://open.spotify.com/track/0nMbU8GJdT4HqYZycdbTQC) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Purea / Cool It Down](https://open.spotify.com/album/0kkFbhQEcnThqJTKVYYjJO) | 4:38 | 2023-11-28 | 2025-09-10 |

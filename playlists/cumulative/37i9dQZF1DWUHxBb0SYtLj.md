@@ -2,7 +2,7 @@
 
 ### [EQUAL Italia](https://open.spotify.com/playlist/37i9dQZF1DWUHxBb0SYtLj)
 
-> Artiste italiane da ascoltare a tutto volume 🔊 Cover: Mimì
+> Artiste italiane da ascoltare a tutto volume 🔊 Cover: Ele A
 
 1,623 songs - 3 day 8 hr 41 min
 

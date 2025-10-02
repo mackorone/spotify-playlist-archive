@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 332269,
+  "num_followers": 332127,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAALf7TzkJtd+s68/qeLwICz61A52f",
   "tracks": [
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 348400,
       "name": "Sultans Of Swing",
       "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Electric Warrior",
         "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 262613,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Pont Aeri, Vol. 4 EP",
-        "url": "https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q"
-      },
-      "artists": [
-        {
-          "name": "Pont Aeri",
-          "url": "https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67"
-        },
-        {
-          "name": "Marian Dacal",
-          "url": "https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem"
-        }
-      ],
-      "duration_ms": 406400,
-      "name": "Flying Free - Original Mix",
-      "url": "https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "SEX AND LOVE",
         "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/0bEA0mMgXheXnahvIbIQfg"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Pont Aeri, Vol. 4 EP",
+        "url": "https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q"
+      },
+      "artists": [
+        {
+          "name": "Pont Aeri",
+          "url": "https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67"
+        },
+        {
+          "name": "Marian Dacal",
+          "url": "https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem"
+        }
+      ],
+      "duration_ms": 406400,
+      "name": "Flying Free - Original Mix",
+      "url": "https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "En Cuerpo Y Alma",
-        "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
-      },
-      "artists": [
-        {
-          "name": "David Civera",
-          "url": "https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Que La Detengan",
-      "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Puerto Presente",
         "url": "https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 199960,
       "name": "Moving",
       "url": "https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "En Cuerpo Y Alma",
+        "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
+      },
+      "artists": [
+        {
+          "name": "David Civera",
+          "url": "https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "70s los Anos Jovenes - la Coleccion",
-        "url": "https://open.spotify.com/album/7JFT8yBfrCYgoVo5tBtbQf"
-      },
-      "artists": [
-        {
-          "name": "Los Diablos",
-          "url": "https://open.spotify.com/artist/1iTBMIseDKB2IoKlmlGvyp"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Un Rayo de Sol",
-      "url": "https://open.spotify.com/track/6mUQ6NW9WRcCuSsi4kzdlf"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Tomalacate",
         "url": "https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 251560,
       "name": "Me Pongo Colorada",
       "url": "https://open.spotify.com/track/4AA1JmBpy3Bx5ZLAnJxOto"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "70s los Anos Jovenes - la Coleccion",
+        "url": "https://open.spotify.com/album/7JFT8yBfrCYgoVo5tBtbQf"
+      },
+      "artists": [
+        {
+          "name": "Los Diablos",
+          "url": "https://open.spotify.com/artist/1iTBMIseDKB2IoKlmlGvyp"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Un Rayo de Sol",
+      "url": "https://open.spotify.com/track/6mUQ6NW9WRcCuSsi4kzdlf"
     },
     {
       "added_at": "2025-07-02 10:54:22",

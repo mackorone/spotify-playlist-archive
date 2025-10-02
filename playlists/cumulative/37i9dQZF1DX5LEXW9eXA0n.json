@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \ud5c8\uac01) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 219013,
       "name": "A Thousand Reasons",
       "url": "https://open.spotify.com/track/0reriCJCzwM8GBFN6HM3gv"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 223169,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/3lsapvOXrlQEbr1WWWXOK7"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 216013,
       "name": "Be Your Shade (The Haunted Palace : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/1IbjQvZ1CfeA6xnbEzdI1O"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 265365,
       "name": "Blue Rain",
       "url": "https://open.spotify.com/track/0yJcEYL12KrFvcM7Wlk59r"
@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 218546,
       "name": "Empty",
       "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
@@ -7342,7 +7342,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 311933,
       "name": "Forsake",
       "url": "https://open.spotify.com/track/4riSqVzNeyDqCADUJkf2G8"
@@ -12781,6 +12781,24 @@
     },
     {
       "album": {
+        "name": "Last Scene",
+        "url": "https://open.spotify.com/album/592h4yhZuNN4aUKs3lxGTD"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199941,
+      "name": "Last Scene",
+      "url": "https://open.spotify.com/track/5bFhOadvcNkK8hLgCEb3lB"
+    },
+    {
+      "album": {
         "name": "Buried Hearts (Original Television Soundtrack) Pt. 7",
         "url": "https://open.spotify.com/album/5KHAL2dWTEWhhcUNSvgUKG"
       },
@@ -13438,6 +13456,24 @@
       "duration_ms": 271973,
       "name": "Like You Was To Me",
       "url": "https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD"
+    },
+    {
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/2z830ZHkbqlvHSP3o2BtWf"
+      },
+      "artists": [
+        {
+          "name": "Park Jang Hyun",
+          "url": "https://open.spotify.com/artist/0aQHn3glDk5hK63KnE3ZpO"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/7iPjaDwNB8zFDGCdZOQwME"
     },
     {
       "album": {
@@ -14934,7 +14970,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 267946,
       "name": "Marry me",
       "url": "https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe"
@@ -17324,6 +17360,24 @@
       "duration_ms": 196320,
       "name": "On such a wonderful night",
       "url": "https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM"
+    },
+    {
+      "album": {
+        "name": "On That Day (Jeon Sang Keun X Lulu-lala Friends)",
+        "url": "https://open.spotify.com/album/4xai6pyfkrg1sJMZtu0qKN"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "On That Day",
+      "url": "https://open.spotify.com/track/5opGTlCl24NOTRyrYjUYQ8"
     },
     {
       "album": {
@@ -20535,6 +20589,24 @@
     },
     {
       "album": {
+        "name": "Something I couldn't say to you",
+        "url": "https://open.spotify.com/album/7etpSOtoHMFeIBWUy29TWR"
+      },
+      "artists": [
+        {
+          "name": "GyeongseoYeji",
+          "url": "https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Something I couldn't say to you",
+      "url": "https://open.spotify.com/track/4t6fSrYAgfmVTxohPDSNLr"
+    },
+    {
+      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/0r5sHBZo7gzcEnbmA3s8AF"
       },
@@ -20676,6 +20748,24 @@
       "duration_ms": 296600,
       "name": "Soonri",
       "url": "https://open.spotify.com/track/7GCNT9j5CTaq3eCNxuvJxa"
+    },
+    {
+      "album": {
+        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
+        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
+      },
+      "artists": [
+        {
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202142,
+      "name": "Sorrow at my door(Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
     },
     {
       "album": {
@@ -24597,6 +24687,24 @@
     },
     {
       "album": {
+        "name": "Until Always",
+        "url": "https://open.spotify.com/album/0psAnK0UM488nJJlzNR4Ba"
+      },
+      "artists": [
+        {
+          "name": "As One",
+          "url": "https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238976,
+      "name": "Until Always",
+      "url": "https://open.spotify.com/track/4PmuXDuDQUVvPNCNOJnSCC"
+    },
+    {
+      "album": {
         "name": "Until I love the love",
         "url": "https://open.spotify.com/album/4wOnyTSfHScSoCxq54NzVX"
       },
@@ -25968,6 +26076,24 @@
       "duration_ms": 244013,
       "name": "Wind Flower",
       "url": "https://open.spotify.com/track/3o7S5W2QW94CSZ0WLio1dM"
+    },
+    {
+      "album": {
+        "name": "Wind that blows",
+        "url": "https://open.spotify.com/album/71Dd0dSSAISVUxvpzhgQDj"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Wind that blows",
+      "url": "https://open.spotify.com/track/71ApV2H6XkyZtrKxB6WIod"
     },
     {
       "album": {

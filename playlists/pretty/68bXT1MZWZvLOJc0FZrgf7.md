@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Calvin Harris &amp; Jessie Reyez
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 94,570 likes - 100 songs - 5 hr 40 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 94,527 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

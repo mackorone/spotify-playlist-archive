@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,750,194 likes - 100 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,754,862 likes - 100 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 89 | [BLOODY! \- ULTRA SLOWED](https://open.spotify.com/track/03E0f4JneWZEtrQPU6EsIV) | [M4GN](https://open.spotify.com/artist/1qaCszXlFNPEnCELYBixa5), [DJ Oliver Mendes](https://open.spotify.com/artist/2ZuUKw4Pfvj7zIKxYY3HAh) | [BLOODY!](https://open.spotify.com/album/0yr5YRR7l813mmHITxmFWa) | 2:19 |
 | 90 | [Montagem sombra estelar 1.0](https://open.spotify.com/track/7BRQ9eXqLLkYL8WdIYNRQq) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Charles](https://open.spotify.com/artist/0mBCkBV2KtgPRhr7Z4g4K7), [THZ](https://open.spotify.com/artist/7gSamjqhPvUjkm4jzJd6Rq) | [Montagem sombra estelar 1.0](https://open.spotify.com/album/0JQT0alFPE0pKxgiLfhwYz) | 1:28 |
 | 91 | [MONTAGEM SILICONADE \- Slowed](https://open.spotify.com/track/0N6sC7f6VYChn4QdZQNwnv) | [SICXRIUS](https://open.spotify.com/artist/1XDHghf5LSNMthHOcpK6rT) | [MONTAGEM SILICONADE](https://open.spotify.com/album/3YywcCxfMAGm6SIQBIMmg8) | 1:49 |
-| 92 | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n) | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ) | 1:36 |
+| 92 | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n), [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO) | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ) | 1:36 |
 | 93 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |
 | 94 | [EL QUE LA DEBE FUNK \- SLOWED](https://open.spotify.com/track/5PHdyF0lk5ZWzow4aUSfPL) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [DJ MILLYANN](https://open.spotify.com/artist/1um8FQQ62RO4ecSx5g3A2E), [MRR](https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM) | [EL QUE LA DEBE FUNK](https://open.spotify.com/album/2i9lYE2CWNBLmDiXwJ884n) | 1:48 |
 | 95 | [DRESS!](https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [DRESS!](https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI) | 1:30 |

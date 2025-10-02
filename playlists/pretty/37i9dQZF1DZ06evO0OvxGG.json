@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8285,
+  "num_followers": 8291,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNnMAAAAAABQRKwGYywMUIAZ2Zok1mNJ",
+  "snapshot_id": "aNsdgAAAAAB3rvJP1481OYjIJSg+/Hsv",
   "tracks": [
     {
       "added_at": null,
@@ -102,19 +102,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         }
       ],
-      "duration_ms": 175262,
-      "name": "8x5",
-      "url": "https://open.spotify.com/track/2tu6PRCVT397ILFiPfngkt"
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
     },
     {
       "added_at": null,
@@ -194,11 +186,19 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
+      "duration_ms": 175262,
+      "name": "8x5",
+      "url": "https://open.spotify.com/track/2tu6PRCVT397ILFiPfngkt"
     },
     {
       "added_at": null,

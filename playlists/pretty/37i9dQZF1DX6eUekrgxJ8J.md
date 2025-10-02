@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eUekrgxJ8J.md) - [plain]
 
 > Discover hits signed Smokey Robinson that shaped the early sound of Motown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,024 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,025 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

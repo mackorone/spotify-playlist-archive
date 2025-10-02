@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Mulan, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Clothesline From Hell, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,707 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,721 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Therapy](https://open.spotify.com/track/1qtluMbiC5FjSVox4wGoBb) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru) | [Therapy](https://open.spotify.com/album/4wyPk9hcagJzIXX9Fe7Gc7) | 2:28 |
 | 50 | [Full Moon](https://open.spotify.com/track/3wjgHCEZobKb0A2hE9mcvf) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Full Moon](https://open.spotify.com/album/0FPQrFfvzrzs9lmFBUzu9D) | 4:22 |
 
-Snapshot ID: `AAAAAK28yOKJmBg0yWaNiTzVsm6c9cxC`
+Snapshot ID: `AAAAABbhzRvPmTyUSfpfbL6X/sytnWvo`

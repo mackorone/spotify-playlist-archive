@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Aldri s\u00e5 vondt",
+        "url": "https://open.spotify.com/album/5IWoalOQ3l7YMopQ9qyc3j"
+      },
+      "artists": [
+        {
+          "name": "Synne S\u00f8rgjerd",
+          "url": "https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193367,
+      "name": "Aldri s\u00e5 vondt",
+      "url": "https://open.spotify.com/track/0Gaq0ZNS9kQwgNCmWS6ER7"
+    },
+    {
+      "album": {
         "name": "Aleine over fjell",
         "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 133875,
       "name": "B\u00f8lger",
       "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"

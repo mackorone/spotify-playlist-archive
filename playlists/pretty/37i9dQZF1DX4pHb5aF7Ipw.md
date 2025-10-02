@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jaskaran, Prem Dhillon and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,626 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,637 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 8 | [PANJAB](https://open.spotify.com/track/7whjXmPLiNJJkzblCU9d4B) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [PANJAB](https://open.spotify.com/album/584j4Wpkz7gxuwsXpchI79) | 2:50 |
 | 9 | [ON SIGHT](https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [ON SIGHT](https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC) | 2:23 |
 | 10 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 |
-| 11 | [Devils](https://open.spotify.com/track/3zNig1OCQDuxMTpg1RpCio) | [Hunter](https://open.spotify.com/artist/7w8qf2byZq8wJu3itCJFYo), [Kaapo](https://open.spotify.com/artist/4YG8EPmK18wLQ9VH5D264w), [hit boi](https://open.spotify.com/artist/6PYg7bmCDdWhBrSyHntPMV) | [Street Devils](https://open.spotify.com/album/71r6ytAUgL4PZf93ldCUeo) | 2:30 |
+| 11 | [Devils](https://open.spotify.com/track/3zNig1OCQDuxMTpg1RpCio) | [Hunter](https://open.spotify.com/artist/7w8qf2byZq8wJu3itCJFYo), [Kaapo](https://open.spotify.com/artist/4YG8EPmK18wLQ9VH5D264w), [Hit Boi](https://open.spotify.com/artist/6C9PCQszYlITG6Zk8aVey5) | [Street Devils](https://open.spotify.com/album/71r6ytAUgL4PZf93ldCUeo) | 2:30 |
 | 12 | [Headliners](https://open.spotify.com/track/27ueMJk9dPzc6VHX7qEesq) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Headliners](https://open.spotify.com/album/7ivhg8codznsl1yEKdoY1x) | 2:12 |
 | 13 | [Doaba Block](https://open.spotify.com/track/0lc5c1T7NxDprnmfhSc229) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Immortal](https://open.spotify.com/album/6lp0wgZp5lRwSaICc4k6Yk) | 2:52 |
 | 14 | [New Heights](https://open.spotify.com/track/2CqVPfNAKptQVf0sEvrkG7) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [WORDPLAY](https://open.spotify.com/album/1ZT00C99V2fm1qOMWTe9kg) | 2:20 |

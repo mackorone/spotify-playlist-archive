@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467 likes - 391 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 391 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,8 +295,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 285 | [Anything Goes, Act I: Where Are the Men? \(1st & 2nd Girls, Girls' Chorus\)](https://open.spotify.com/track/0qkycZ33YJGiONCxpR4dIH) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Ambrosian Chorus](https://open.spotify.com/artist/2TRkTaY4XSQ5IUDltXCOpv), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Anything Goes \- Porter](https://open.spotify.com/album/4D60FSryWgisAVKEnGthGd) | 5:00 |
 | 286 | [The Boyfriend Back Home](https://open.spotify.com/track/6b47csQ0e3aXW5yuuIF3SZ) | [Howard McGillin](https://open.spotify.com/artist/5ULluSxmW77lt0IpatHeoP), [Orchestra New England](https://open.spotify.com/artist/3mvGdZ8CrrB9X3noolKKBI) | [Fifty Million Frenchmen](https://open.spotify.com/album/6iPfoCguDCvtCNEgkNh9lc) | 3:10 |
 | 287 | [The Leader Of A Big\-Time Band](https://open.spotify.com/track/06XUS485sSCfjXvti3Jp4C) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Empire Brass](https://open.spotify.com/artist/5fFFbl2ufejefn1aJZox5z) | [Empire Brass In Japan \(Live at Hitomi Commemoration Auditorium, 1986\)](https://open.spotify.com/album/3CshDhCfmThWIrQA3YKrlL) | 1:48 |
-| 288 | [Oatmeal \- Cyd Returns to Paris](https://open.spotify.com/track/2t8xh4cjWIUgOFCta0IyVX) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:27 |
-| 289 | [Shofar Sounds](https://open.spotify.com/track/3Lq9MdlJTG6j5bdgXP4e4V) | [Cindy Paley](https://open.spotify.com/artist/2pMGpuo3N22N8gAEIKOkIU) | [Celebrate with Cindy](https://open.spotify.com/album/1VGub6vPWpYR0RMSpGfeAa) | 0:39 |
+| 288 | [Shofar Sounds](https://open.spotify.com/track/3Lq9MdlJTG6j5bdgXP4e4V) | [Cindy Paley](https://open.spotify.com/artist/2pMGpuo3N22N8gAEIKOkIU) | [Celebrate with Cindy](https://open.spotify.com/album/1VGub6vPWpYR0RMSpGfeAa) | 0:39 |
+| 289 | [Oatmeal \- Cyd Returns to Paris](https://open.spotify.com/track/2t8xh4cjWIUgOFCta0IyVX) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:27 |
 | 290 | [I'm Unlucky at Gambling](https://open.spotify.com/track/5i0G0gkYnnHHRSJ3fjvuHj) | [Howard McGillin](https://open.spotify.com/artist/5ULluSxmW77lt0IpatHeoP) | [Fifty Million Frenchmen](https://open.spotify.com/album/6iPfoCguDCvtCNEgkNh9lc) | 3:10 |
 | 291 | [Something For the Boys: When My Baby Goes to Town \(orch\. Don Walker\)](https://open.spotify.com/track/0SZ5o0LoeeAq0aIrQGkHAI) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Thomas Hampson](https://open.spotify.com/artist/6pxEWWaFpWFJGEZK6dOzsF), [Ambrosian Chorus](https://open.spotify.com/artist/2TRkTaY4XSQ5IUDltXCOpv), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Cole Porter Night and Day: Thomas Hampson](https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR) | 4:39 |
 | 292 | [You're Just Too, Too!](https://open.spotify.com/track/6yMFCN5ohHra2A7x2iw899) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [I Got Rhythm](https://open.spotify.com/album/6eTcIUVYY214XsgfTlnl2h) | 1:59 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Ab9pCAAAAABBvWHIRgitPXlzXDqlgHnF`
+Snapshot ID: `Ab9u0AAAAACk1fnUEf/R4rIjZD2nIHm/`

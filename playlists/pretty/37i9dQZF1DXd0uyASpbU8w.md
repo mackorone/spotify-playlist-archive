@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Thakzin, Tyler ICU, Lloyiso, Doja Cat and Vigro Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,613 likes - 84 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,658 likes - 84 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 53 | [Ulibambe Lingashoni \- Edit](https://open.spotify.com/track/5MJMvUTvQUJjZX0lDQbRPI) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Bantwanas](https://open.spotify.com/artist/4Ehizytd7yGJKj5ywFyj3E) | [Ulibambe Lingashoni](https://open.spotify.com/album/7veeSxxXK9vaOTJewEb3z1) | 4:32 |
 | 54 | [You Love Who You Love](https://open.spotify.com/track/1Hr0PIvPMjdeKU6z7eBLOM) | [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Love Who You Love](https://open.spotify.com/album/5VGXLiubyYqCGs6vWc0Xbj) | 4:09 |
 | 55 | [Ngivulele \(feat\. Kamoh Xaba & Tumisho\)](https://open.spotify.com/track/4AAoQ8iXieWW7UgkfMEwWQ) | [De Soul](https://open.spotify.com/artist/7MC6QpkwcMnPCBfyaF1vBW), [NATASHA MD](https://open.spotify.com/artist/6lyHG2RfrqozySImvcfwBa), [Brandon Dhludhlu](https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV), [Kamoh Xaba](https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui), [Tumisho](https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d) | [Ngivulele \(feat\. Kamoh Xaba & Tumisho\)](https://open.spotify.com/album/2C7hrgoZ0cLJjQFyXKxj5m) | 6:00 |
-| 56 | [On The Floor](https://open.spotify.com/track/2nlPxAYSF1L4Xqa5LUcifb) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [King P](https://open.spotify.com/artist/1i0GY0xeP8c8ow4zaBGtKi) | [On The Floor](https://open.spotify.com/album/1ppE43KggdTvjV1qXrMz8W) | 6:38 |
+| 56 | [On The Floor](https://open.spotify.com/track/2nlPxAYSF1L4Xqa5LUcifb) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [King P](https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc) | [On The Floor](https://open.spotify.com/album/1ppE43KggdTvjV1qXrMz8W) | 6:38 |
 | 57 | [Panorama](https://open.spotify.com/track/2OOwzUMX840Zdrf8fqSeOT) | [Monark](https://open.spotify.com/artist/4fWc4RmQhx0vz05EQV8ekC) | [Panorama](https://open.spotify.com/album/2aM5O978xmf2IxRKMRb2CA) | 2:56 |
 | 58 | [Drop It Low](https://open.spotify.com/track/2RMqXhCDQUP3bhMAd349ar) | [Meneer Cee](https://open.spotify.com/artist/3xAQoJwSMZGIrqKWSunu7k), [Dinky Kunene](https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI), [Dj Ranie](https://open.spotify.com/artist/2tgwksYJCghbbhZkoHV1RW) | [Drop It Low](https://open.spotify.com/album/0R4Z8tnVsfaaVpHntPv4ze) | 5:43 |
 | 59 | [Lets Go Far](https://open.spotify.com/track/2eipcKNRYZ3gttySEqIKfF) | [Teemza](https://open.spotify.com/artist/2tWWbox2be8aKKmqVGIPh8), [Thobile](https://open.spotify.com/artist/1ERKN7qBozAsqgm8L8TzLA) | [Lets Go Far](https://open.spotify.com/album/1m26EUJWqY60IICigHaIzx) | 8:38 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,020 songs - 1 day 16 hr 48 min
+2,022 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Autumn Love \- Strings Version](https://open.spotify.com/track/1hum1mcNIILCOtIjVPlwIZ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Autumn Love](https://open.spotify.com/album/1s01k3AI562WSpqca9cmfX) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Autumn Moonlight](https://open.spotify.com/track/3WifCtcnBd0xrh9fOZ3U9a) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Moonlight](https://open.spotify.com/album/0dWGKr31tTlKjqZDr95mYO) | 1:00 | 2024-10-20 |  |
 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 | 2022-10-05 | 2024-01-30 |
+| [Autumn Stars](https://open.spotify.com/track/5Sg63jJcd4Fw4e0ZZJgDRo) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Autumn Stars](https://open.spotify.com/album/4d8wWXLmRmYaBqDkgFnpnp) | 1:00 | 2025-10-01 |  |
 | [Autumn Sunlight](https://open.spotify.com/track/23agY1FRngBN4kng0b2RxK) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Autumn Sunlight](https://open.spotify.com/album/1odVY6duTDQN39pvLTEaDR) | 1:00 | 2024-10-20 |  |
 | [Awaiting](https://open.spotify.com/track/6ucb3jW9Wf9b0w8TsXgC41) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Awaiting](https://open.spotify.com/album/3LW69C1BGvvwgrheV8pYwe) | 1:00 | 2025-08-30 |  |
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 | 2024-02-13 |
@@ -430,6 +431,7 @@
 | [Cradle Hymn \- Cello Version](https://open.spotify.com/track/2VohJg5wBOLZWWJKRNaw3m) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cradle Hymn \(Cello Version\)](https://open.spotify.com/album/5Az51Ib24ZeajaBvtmMIrr) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Creation](https://open.spotify.com/track/0tWfXnWhRUwh8bPd8ZuM8o) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:15 | 2022-01-12 |  |
 | [Currents](https://open.spotify.com/track/2J6dkILhtcuJpiUO6sJGOT) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Currents](https://open.spotify.com/album/40xHqgfvLPCMZbMHIL4ZFq) | 1:03 | 2024-02-09 | 2024-02-13 |
+| [Cycle](https://open.spotify.com/track/0amvkNlJaDdrcPAmXr0sFe) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Cycle](https://open.spotify.com/album/3ChZIxBu0ndZKVUq7tClEk) | 1:00 | 2025-10-01 |  |
 | [Daffodil](https://open.spotify.com/track/0GgfLU0g6DJZ2tI91xmJ5y) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-06-14 | 2025-03-03 |
 | [Daisies In The Light Rain](https://open.spotify.com/track/5c6hRtjCMtdVHc792ok0kG) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 | 2024-01-30 |
 | [Daisies In The Rain](https://open.spotify.com/track/2YEyj2OqT973gLW3cJ1Xu5) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:03 | 2022-01-12 |  |

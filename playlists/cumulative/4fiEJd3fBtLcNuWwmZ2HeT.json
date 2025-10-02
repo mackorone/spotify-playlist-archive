@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Tadano Best",
+        "url": "https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE"
+      },
+      "artists": [
+        {
+          "name": "si-o",
+          "url": "https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Therefor you and me",
+      "url": "https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll"
+    },
+    {
+      "album": {
         "name": "Memento Mori (Expanded)",
         "url": "https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg"
       },

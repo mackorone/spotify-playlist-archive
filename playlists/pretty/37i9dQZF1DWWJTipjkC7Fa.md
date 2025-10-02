@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,288 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,336 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 38 | [Stubborn Heart](https://open.spotify.com/track/6CuaS0ZrVqMafHACp8YdJ5) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 2:39 |
 | 39 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 |
 | 40 | [Good Life](https://open.spotify.com/track/0co9JSxVqC4NrN2929A1xq) | [Nice Horse](https://open.spotify.com/artist/7cSjuVkt2nAbYABqWdoIf7) | [Good Life](https://open.spotify.com/album/7AmB6MkZgnn5Jd1IsE9ZxZ) | 2:51 |
-| 41 | [If That's Love](https://open.spotify.com/track/5fP6PoIZGenEqUwCNvQmK5) | [Cold Fame](https://open.spotify.com/artist/0Y6fegYjM0nlrAtUA4YLCH) | [RED ROOM](https://open.spotify.com/album/7BlHsUkjTuI3Puoo5CeSJD) | 2:55 |
-| 42 | [I’ll Be Right Here \(My Life with the Walter Boys\)](https://open.spotify.com/track/1zze8XTHhqOVFHC200EmZ7) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [I’ll Be Right Here \(My Life with the Walter Boys\)](https://open.spotify.com/album/5ZsgFHkrQCdSuQCAr9Xzf4) | 2:52 |
-| 43 | [Phantom Heart](https://open.spotify.com/track/3IDeSisz1MFegVkT6fFA6d) | [LEATHERS](https://open.spotify.com/artist/6LcqDmkCZkoKRPBZaWYW6Q) | [Ultraviolet](https://open.spotify.com/album/1YIo5ArgZXxrNbxuuzVmqe) | 3:58 |
-| 44 | [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 |
-| 45 | [Upside Down](https://open.spotify.com/track/4lVZw8UEk4Z5Iz1e0NmTt1) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Take A Bite](https://open.spotify.com/album/4QO3JP8WxzX4MrE3XCx22J) | 2:53 |
-| 46 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:06 |
-| 47 | [I Am Not Okay](https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:18 |
-| 48 | [Best Thing](https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Let Yourself Go](https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP) | 4:32 |
-| 49 | [Hope Floats](https://open.spotify.com/track/5Buw6GARBOaCdANUbhQyR1) | [Jesse and the Dandelions](https://open.spotify.com/artist/0Gn5sUjuM1DpB6lXzHNZI4) | [Hope Floats](https://open.spotify.com/album/1tHZGoZFPQp1phUXNE5vKR) | 2:19 |
-| 50 | [Fire On Fire](https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:06 |
+| 41 | [Someone To You](https://open.spotify.com/track/7KOIp0EEEUbZfUXVffgFhB) | [Riun Garner](https://open.spotify.com/artist/3dL6tboQBwjaIWIxNldpFR) | [Someone To You](https://open.spotify.com/album/7aKCBFUXKB4PZxlp1bFWSB) | 4:14 |
+| 42 | [If That's Love](https://open.spotify.com/track/5fP6PoIZGenEqUwCNvQmK5) | [Cold Fame](https://open.spotify.com/artist/0Y6fegYjM0nlrAtUA4YLCH) | [RED ROOM](https://open.spotify.com/album/7BlHsUkjTuI3Puoo5CeSJD) | 2:55 |
+| 43 | [I’ll Be Right Here \(My Life with the Walter Boys\)](https://open.spotify.com/track/1zze8XTHhqOVFHC200EmZ7) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [I’ll Be Right Here \(My Life with the Walter Boys\)](https://open.spotify.com/album/5ZsgFHkrQCdSuQCAr9Xzf4) | 2:52 |
+| 44 | [Phantom Heart](https://open.spotify.com/track/3IDeSisz1MFegVkT6fFA6d) | [LEATHERS](https://open.spotify.com/artist/6LcqDmkCZkoKRPBZaWYW6Q) | [Ultraviolet](https://open.spotify.com/album/1YIo5ArgZXxrNbxuuzVmqe) | 3:58 |
+| 45 | [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 |
+| 46 | [Upside Down](https://open.spotify.com/track/4lVZw8UEk4Z5Iz1e0NmTt1) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Take A Bite](https://open.spotify.com/album/4QO3JP8WxzX4MrE3XCx22J) | 2:53 |
+| 47 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:06 |
+| 48 | [I Am Not Okay](https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:18 |
+| 49 | [Best Thing](https://open.spotify.com/track/0wmNV2ooIKpmB6lKA5djEK) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Let Yourself Go](https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP) | 4:32 |
+| 50 | [Hope Floats](https://open.spotify.com/track/5Buw6GARBOaCdANUbhQyR1) | [Jesse and the Dandelions](https://open.spotify.com/artist/0Gn5sUjuM1DpB6lXzHNZI4) | [Hope Floats](https://open.spotify.com/album/1tHZGoZFPQp1phUXNE5vKR) | 2:19 |
+| 51 | [Fire On Fire](https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:06 |
 
-Snapshot ID: `AAAAAHz349U84AcsqFqOA/MXjz95aAZp`
+Snapshot ID: `AAAAALT6cMTYpbHbRDE7FhxEj1BaIVNC`

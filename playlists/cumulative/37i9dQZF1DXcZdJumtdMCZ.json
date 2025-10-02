@@ -3643,6 +3643,28 @@
     },
     {
       "album": {
+        "name": "Pookadai",
+        "url": "https://open.spotify.com/album/3XR0USvx7UKiKCLRvlPO2p"
+      },
+      "artists": [
+        {
+          "name": "8c sam",
+          "url": "https://open.spotify.com/artist/1VogXncDsNB2ufaktmigkx"
+        },
+        {
+          "name": "M.Kowtham",
+          "url": "https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Pookadai",
+      "url": "https://open.spotify.com/track/57Uo0uStYjLnOBfwFVlGqP"
+    },
+    {
+      "album": {
         "name": "Michael (Tamil)",
         "url": "https://open.spotify.com/album/4eE9faqjsq3QpDErYDQjxL"
       },

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-379 songs - 21 hr 53 min
+380 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [TEMPEST\-TOST](https://open.spotify.com/track/2EqH7eu4ZMfZg3DW8kUzSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 4:09 | 2023-11-08 |  |
 | [The Chattering Lack of Common Sense](https://open.spotify.com/track/1jFtCDktj1XTxDcu52iyeC) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [The Chattering Lack of Common Sense](https://open.spotify.com/album/4ZkEBNbrWleWPSlnw6Kxtb) | 3:34 | 2022-08-02 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-01-17 |  |
+| [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 | 2025-10-01 |  |
 | [This Close](https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Memento Mori \(Expanded\)](https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg) | 3:19 | 2024-08-19 |  |
 | [Toge](https://open.spotify.com/track/11SRHDplDfjSEYgisBy6bp) | [Shinra\-Bansho](https://open.spotify.com/artist/0hvH9m3WODkzWWyW2gktx6) | [ARMAGEDDON](https://open.spotify.com/album/5UD8Yl63ARC5bAX2JXSLvN) | 4:01 | 2023-12-04 |  |
 | [Tokyo Teddy Bear](https://open.spotify.com/track/1OTkrip8I6EW5ap78axkyg) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr), [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Bokukara No Saishuu Teiri](https://open.spotify.com/album/4sVkAuyfAayJ1DQU4oMgLY) | 3:12 | 2021-10-24 |  |

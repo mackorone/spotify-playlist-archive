@@ -1,12 +1,12 @@
 {
   "description": "The best indie tracks of the moment. Cover: yung kai",
-  "num_followers": 161078,
+  "num_followers": 161070,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACmBMoQkyOiqIrLadLrQv5symcHB",
+  "snapshot_id": "AAAAAMe/OsbI5URpNgiew5jCrGy43/84",
   "tracks": [
     {
       "added_at": "2025-09-26 00:01:27",
@@ -75,6 +75,22 @@
       "duration_ms": 201766,
       "name": "how do you dance?",
       "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
+    },
+    {
+      "added_at": "2025-10-01 15:24:43",
+      "album": {
+        "name": "Cross Control Patrol",
+        "url": "https://open.spotify.com/album/2RZT8iKshF9BlBOrVwXMdE"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Cross Control Patrol",
+      "url": "https://open.spotify.com/track/5GhOmSUneOKUaFwEOjWYTC"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1623,22 +1639,6 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
-    },
-    {
-      "added_at": "2025-08-22 16:10:05",
-      "album": {
-        "name": "In My Pocket",
-        "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 238223,
-      "name": "In My Pocket",
-      "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
     }
   ],
   "unique_name": "Indie All Stars",

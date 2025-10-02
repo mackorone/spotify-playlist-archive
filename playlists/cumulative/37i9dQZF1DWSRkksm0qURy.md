@@ -4,7 +4,7 @@
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-118 songs - 5 hr 44 min
+122 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [417 Hz \- Deep Sleep](https://open.spotify.com/track/4EnPnWH0uMaC5SSU0vYKr8) | [Velodrome](https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB) | [Deep Sleep](https://open.spotify.com/album/4rgY7wUEdsxw8CHdrcT0uj) | 3:21 | 2023-03-10 |  |
 | [417 Hz \- Dimensions](https://open.spotify.com/track/0IzqpKNPqDPYoDGFL9pyX6) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Dimensions](https://open.spotify.com/album/5LkYY5LmpJiKvjv60XrLEc) | 2:47 | 2023-03-10 |  |
 | [417 Hz \- DNA healing](https://open.spotify.com/track/1SnGoAbvE6FPAmopzHACW8) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [DNA healing](https://open.spotify.com/album/6HvsMwxFzST9plzfdAfrsd) | 3:39 | 2023-03-10 |  |
+| [417 Hz \- Echoes of Rebirth](https://open.spotify.com/track/0YdAvBkqGijlULiNh8Q2Lu) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [417 Hz \- Echoes of Rebirth](https://open.spotify.com/album/1Zn3xO1wDaNPS0BBDacW2N) | 3:17 | 2025-10-01 |  |
 | [417 Hz \- Escape Gravity](https://open.spotify.com/track/2leyc1nMYhsuxOpJQzMguZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/6Q5SJIXsAhHNl2HuQsep69) | 3:13 | 2023-03-10 |  |
 | [417 Hz \- Ethereal Sleep](https://open.spotify.com/track/4y5bX66p1ZM8sLp63efROX) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep \- Solfeggio](https://open.spotify.com/album/2lvIKEO0zvEuaV0tA9hcCj) | 2:02 | 2023-03-10 |  |
 | [417 Hz \- Find Your Center](https://open.spotify.com/track/7CosOh2Jx0VFHITCdCwuqJ) | [Chura Rin](https://open.spotify.com/artist/3ND8SIfnQTaM7QulRp8RwN) | [417Hz \- Find Your Center](https://open.spotify.com/album/3KSJe7UR1TQLzmyD6cvmw0) | 2:38 | 2023-11-30 |  |
@@ -42,6 +43,7 @@
 | [417 Hz Dreams](https://open.spotify.com/track/1r9DY8hJCflvItUWmgM52p) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [417 Hz Dreams](https://open.spotify.com/album/6W6LF4dC04bUnBVouBAiyu) | 2:56 | 2023-03-10 |  |
 | [417 Hz Energetic Reset](https://open.spotify.com/track/3ipz2zfAzd5mWn7xPtnAQb) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [417 Hz Energetic Reset](https://open.spotify.com/album/0JII5OGX9LqCRTvn7thHwI) | 2:45 | 2024-03-13 |  |
 | [417 Hz Harmonic Shift](https://open.spotify.com/track/1DnOEBxHsGKMAhhrHGMf2K) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Harmonic Shift 417 Hz](https://open.spotify.com/album/4ydVRSRbizt3dBpAS0PUQ5) | 2:50 | 2024-03-13 |  |
+| [417 Hz Harmonic Shift](https://open.spotify.com/track/5UfHAvaSWjCQaCnngYSzVU) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [417 Hz Harmonic Shift](https://open.spotify.com/album/3P2MCAdswUTiNP1YVIQTcD) | 3:22 | 2025-10-01 |  |
 | [417 Hz High Vitality](https://open.spotify.com/track/0JiuQ8tZRDOLH3wC6MUm5H) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [417 Hz High Vitality](https://open.spotify.com/album/2LerI0W92yCUmSBEzSVaro) | 2:57 | 2025-05-06 |  |
 | [417 Hz Letting go](https://open.spotify.com/track/56WpAn0KZKqedUicFeq5bP) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [417 Hz Letting go](https://open.spotify.com/album/2Bgl7sZQMHKGjdQSMYfUOo) | 2:48 | 2023-03-10 |  |
 | [417 Hz Natural Capacity](https://open.spotify.com/track/1xEJphvAp45wlZC5NRBRNv) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [417 Hz Natural Capacity](https://open.spotify.com/album/2fMADapRhw2fISW3VHkrVv) | 3:30 | 2024-12-18 |  |
@@ -61,6 +63,7 @@
 | [417 Hz Timeless](https://open.spotify.com/track/4VMWQ3W7dj0IdGibhdQKlX) | [Francorchamps](https://open.spotify.com/artist/11fWJjHq0q210RYCK5sSDh) | [417 Hz Timeless](https://open.spotify.com/album/0Ht0PmmDktxvvfptwGPVwD) | 3:00 | 2023-03-10 |  |
 | [417 Hz Timeless Tranquility](https://open.spotify.com/track/5RvtcQOmt23MJJbOzaB3NC) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [417 Hz Timeless Tranquility](https://open.spotify.com/album/1uHC3ucNzK3TJ8wPDgChH4) | 3:16 | 2024-04-07 |  |
 | [417 Hz Transformative Reverberation](https://open.spotify.com/track/4L5l33yzWxu0N0H98E9SQL) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [417 Hz Transformative Reverberation](https://open.spotify.com/album/5OkWKq2K0HvO08tLaw1MJC) | 2:12 | 2024-10-24 | 2025-02-13 |
+| [417 Hz Turning Forms](https://open.spotify.com/track/5AAxuzn4p7iUQ2OmLQlsuh) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [417 Hz Turning Forms](https://open.spotify.com/album/41KmrHFLXte8KrNODhRJNQ) | 2:42 | 2025-10-01 |  |
 | [417 Hz Unity Healing](https://open.spotify.com/track/4SsyJ6wO0IJi2iZyj7K2xo) | [Edda Prado](https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc) | [417 Hz Unity Healing](https://open.spotify.com/album/5SdV03KnGJdl7ougERDrx5) | 3:12 | 2023-08-07 |  |
 | [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-07 |  |
 | [417 Hz – Talentueuse](https://open.spotify.com/track/4sUwwyop662EyG9YuSAMWg) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 2:19 | 2023-03-10 |  |
@@ -91,6 +94,7 @@
 | [fresh start 417 Hz](https://open.spotify.com/track/4yjNMr90s34Zh8Vvp4MlRq) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:28 | 2023-03-10 |  |
 | [Heal \(417 Hz\)](https://open.spotify.com/track/6DPJLtFHtCImIfLBLNCL1j) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Intentional Impact](https://open.spotify.com/album/6nuc9pLSPyY5gJ0XOU8t6L) | 3:27 | 2023-03-10 |  |
 | [Healing Hara \(417 Hz\)](https://open.spotify.com/track/5WnOfKlcPuSoZw7jGX6tq0) | [Dream Projector](https://open.spotify.com/artist/4eEIA7JoR4AqTUbk0hGzLE) | [Healing Hara](https://open.spotify.com/album/1cIyBKfW6oVGpB5EwcyNJd) | 3:05 | 2023-03-10 |  |
+| [In Spirit 417 Hz](https://open.spotify.com/track/3GI1MEzCsYKx7mNTmVrVMA) | [Infinite Imagination](https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv) | [In Spirit 417 Hz](https://open.spotify.com/album/6AoT8DwEdYKK4uM99XirpQ) | 2:34 | 2025-10-01 |  |
 | [In Stillness](https://open.spotify.com/track/3Ig6hAfTh8DMPDm4qdJvDD) | [Aksel Hvitfeldt](https://open.spotify.com/artist/5mDMUto7iSJACsjZ1JPSEr) | [In Stillness](https://open.spotify.com/album/7MuvrqjJrvErUhuFEe4xb9) | 2:42 | 2023-03-10 |  |
 | [In Touch \- Solfeggio \(417hz\)](https://open.spotify.com/track/50v7j7oKownjAisNDk0ka1) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [In Touch \(417hz\)](https://open.spotify.com/album/1XFwF7VND4bMb8c126MteP) | 2:35 | 2024-12-18 |  |
 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 | 2023-03-10 |  |

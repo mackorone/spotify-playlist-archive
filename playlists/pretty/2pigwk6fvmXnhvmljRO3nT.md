@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,650 songs - 19 day 18 hr 37 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,663 songs - 19 day 19 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7658,5 +7658,18 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7648 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 |
 | 7649 | [Luv \(sic\)](https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:46 |
 | 7650 | [Luv \(sic\) pt4 \(feat\. Shing02\)](https://open.spotify.com/track/6norVbAE14clVMEyDuRw1m) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 5:10 |
+| 7651 | [Don't Cry](https://open.spotify.com/track/67c5M9gVWemCV5SGH5cc4v) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 1:59 |
+| 7652 | [Flyers](https://open.spotify.com/track/4KS1lIxiFW37Ko1WZ4GFcP) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [POWER OF LIFE](https://open.spotify.com/album/3S1QKzxWngOhGhiDBI4X9z) | 3:30 |
+| 7653 | [Can't be a Fairytale](https://open.spotify.com/track/26lEVjy1CVTBmnenTwz8fD) | [FAIRY STARS](https://open.spotify.com/artist/5Rh36LXIcDP1te6wdyKsUa), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [Tsumugi Shiraishi \(CV: Saki Minami\)](https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD), [Megumi Tokoro \(CV: Yukiyo Fujii\)](https://open.spotify.com/artist/5xRVfZ3FGcLVFE2lMlTmxS), [Julia \(CV: Aimi\)](https://open.spotify.com/artist/1CLvL2z5LbARBiaOY5fVeH), [Shiho Kitazawa \(CV: Sora Amamiya\)](https://open.spotify.com/artist/41GN7GAXhnqcImdPFJedJF) | [THE IDOLM@STER MILLION THE@TER GENERATION 02 FAIRY STARS](https://open.spotify.com/album/0LNWQ8aP4RPrzRRHRJOdQy) | 3:42 |
+| 7654 | [VOY@GER \- MILLION LIVE! Version](https://open.spotify.com/track/1xOXtTfkUbyfZR50JnwrAk) | [MILLIONSTARS](https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii), [Umi Kousaka \(CV: Reina Ueda\)](https://open.spotify.com/artist/6cVvOseobFc7jc0JDWho8S), [Tsumugi Shiraishi \(CV: Saki Minami\)](https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD), [Anna Mochizuki \(CV: Shiina Natsukawa\)](https://open.spotify.com/artist/0IIzjqgrvj8DTpvvOKLQmQ) | [VOY@GER \(MILLION LIVE! Version\)](https://open.spotify.com/album/4jtRhh6MIxTd5MpU6uqlLO) | 5:39 |
+| 7655 | [虹色Passions!](https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [虹色Passions!](https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl) | 4:15 |
+| 7656 | [Just Believe!!!](https://open.spotify.com/track/0EIfyw7CQpOmIsV5CqnXLp) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:05 |
+| 7657 | [CHANGE!!!! \- M@STER VERSION](https://open.spotify.com/track/7qFwt0mQyWCHoLwPXQr8Zf) | [765PRO ALLSTARS](https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 4:57 |
+| 7658 | [ALKA TALE](https://open.spotify.com/track/1zSsNipjh0wdAnhEREjHKv) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Shake Up!](https://open.spotify.com/album/0Raud5WVDL8u7xQ0hO2Zse) | 4:47 |
+| 7659 | [VOY@GER \- SHINY COLORS Version](https://open.spotify.com/track/04cUkE8KhHZfHjqWnvpZVl) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR), [NATSUHA ARISUGAWA \(CV: Akiho Suzumoto\)](https://open.spotify.com/artist/5GJEcs32oEH3t3v4XMyodE), [FUYUKO MAYUZUMI \(CV: Eri Yukimura\)](https://open.spotify.com/artist/3F0HYSKU84sRqtRIVSuUgw), [TORU ASAKURA \(CV: Yu Wakui\)](https://open.spotify.com/artist/17ol7Ht5OsLo3rSZoBy3HX) | [VOY@GER \(SHINY COLORS Version\)](https://open.spotify.com/album/3PZCoNMOsUjPac77UmVCNV) | 5:39 |
+| 7660 | [チェリボム](https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Silent Siren Selection](https://open.spotify.com/album/5VguY79HKEmjk7vllN0li5) | 4:05 |
+| 7661 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/1hTReyVBNVvDqssrJMBGyz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 3:35 |
+| 7662 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
+| 7663 | [Wrong World](https://open.spotify.com/track/4Mghgr37JNnlFWXbezg3oZ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [TOGENASHI](https://open.spotify.com/album/7I0nZ1uqE3Qydi7gyyd187) | 3:04 |
 
-Snapshot ID: `AAAI2G1ftb5pWwcLwHmsK0PvVehvBL+8`
+Snapshot ID: `AAAI5Xm04xrcy+i2v5rgge5QVnPgwKxh`

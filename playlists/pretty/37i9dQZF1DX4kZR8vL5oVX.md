@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Playlist réalisée avec THÉA \(du titre \#1 au \#20\).
+> Les femmes montent le son\. Playlist réalisée avec Miki \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,731 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,732 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

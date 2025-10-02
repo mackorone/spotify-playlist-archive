@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-144 songs - 5 hr 53 min
+145 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,9 @@
 | [Ding Dong Merrily on High](https://open.spotify.com/track/4ocYQc887Mb8mtv378OiNP) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Ding Dong Merrily on High](https://open.spotify.com/album/4NLtEjzjdEzL0ZIjnjlhob) | 2:07 | 2025-09-12 | 2025-09-24 |
 | [Do You Want to Build a Snowman](https://open.spotify.com/track/25RqCzdrL6O6OFahC1sFqk) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 1:46 | 2023-10-13 | 2023-10-14 |
 | [Do You Want To Build A Snowman](https://open.spotify.com/track/2EtcEa7S0RO3Kxp5L3CnWJ) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Do You Want To Build A Snowman](https://open.spotify.com/album/2IpgZTkBoc4vHXZ48BZlC2) | 1:46 | 2023-10-13 |  |
-| [Fairytale of New York](https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Fairytale of New York](https://open.spotify.com/album/6pvMnOZo7wxTyY5C9npWng) | 2:39 | 2025-09-12 | 2025-09-24 |
+| [Fairytale of New York](https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Fairytale of New York](https://open.spotify.com/album/6pvMnOZo7wxTyY5C9npWng) | 2:39 | 2025-09-12 |  |
 | [Fairytale of New York](https://open.spotify.com/track/08YmAqEDTXRBoxYfkxqMYE) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Fairytale of New York](https://open.spotify.com/album/58CgzG5yqqtNrdcbp3TmaA) | 3:07 | 2021-12-22 | 2025-09-03 |
-| [Fairytale of New York](https://open.spotify.com/track/4i9PDb4PZYhf2mHZWdlVxx) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Fairytale of New York](https://open.spotify.com/album/0zkA461981Si9kYb1qfBCN) | 2:25 | 2025-09-23 |  |
+| [Fairytale of New York](https://open.spotify.com/track/4i9PDb4PZYhf2mHZWdlVxx) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Fairytale of New York](https://open.spotify.com/album/0zkA461981Si9kYb1qfBCN) | 2:25 | 2025-09-23 | 2025-10-02 |
 | [Feliz Navidad](https://open.spotify.com/track/1vWVGELREX5WZKcjMNZaa6) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:29 | 2021-12-22 | 2023-09-14 |
 | [Feliz Navidad](https://open.spotify.com/track/3xvRbdVCBPoOD1q0381Hbr) | [Denis Raum](https://open.spotify.com/artist/04326aFqeHuCMcdFVI66EZ) | [Christmas Guitar](https://open.spotify.com/album/7FetKTnSUViylCu4GCi79T) | 2:59 | 2022-11-11 | 2025-09-03 |
 | [Feliz Navidad](https://open.spotify.com/track/5IHQrWbmD7w75yUaWB3A8k) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Feliz Navidad](https://open.spotify.com/album/5gByMQ7J4bjCXjZ3HuCwZJ) | 2:24 | 2025-09-12 |  |
@@ -67,6 +67,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6FTtN7PEZXjHbwPmOLcUpk) | [Jack Haigh](https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1vbarPIkYZ1APsyn3tD8UQ) | 1:34 | 2022-11-11 | 2023-09-14 |
 | [Holly Jolly Christmas \(Instrumental Version\)](https://open.spotify.com/track/62WcsG8bXBKJPzKxBgDQ8n) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Christmas Background Music on Ukulele](https://open.spotify.com/album/7bdbRsExh8aNCkNRdSvEDr) | 2:20 | 2021-12-22 |  |
 | [Home for the Holidays \(Instrumental Version\)](https://open.spotify.com/track/2w2pafEMaKxEmK2K3eZYEo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Christmas Background Music on Ukulele](https://open.spotify.com/album/7bdbRsExh8aNCkNRdSvEDr) | 2:37 | 2021-12-22 |  |
+| [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/1z58bfw6hdvZTcNUqORPS1) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [I Saw Mommy Kissing Santa Claus & Jingle Bells](https://open.spotify.com/album/00cPDyKSf7j1lZKThekCfq) | 2:54 | 2025-09-30 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4ZmAbnW3w6YUymH6QkzsuE) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Jingle Bell Rock](https://open.spotify.com/album/7gEXzGjALzCSU1Jbx6cXg3) | 2:24 | 2021-12-22 | 2025-09-03 |
 | [I Saw Three Ships](https://open.spotify.com/track/5GsWzzGYFaw1mrW3WwkGlk) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [I Saw Three Ships](https://open.spotify.com/album/2yhYfuNKEbUqWzmuZHnclf) | 1:44 | 2022-11-11 | 2025-09-03 |
 | [I Want A Hippopotamus For Christmas](https://open.spotify.com/track/1WZfN51Ppajwbb1CHb7ymQ) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Want A Hippopotamus For Christmas](https://open.spotify.com/album/1OK1lQUpD4Hqy9tgJDwoFF) | 2:13 | 2023-10-06 |  |

@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: TJ Monterde
 
-394 songs - 1 day 0 hr 27 min
+398 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-26 | 2024-11-21 |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-01-24 | 2024-05-09 |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-05-15 | 2024-07-18 |
+| [Dahan](https://open.spotify.com/track/4l6wJay9VIyQYaMOWecj6N) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Dahan](https://open.spotify.com/album/7CW5E4wuSXw01vBKkSZ9Gh) | 3:10 | 2025-10-01 |  |
 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 | 2025-04-16 |  |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-05 | 2025-06-19 |
 | [Dance With My Mistakes](https://open.spotify.com/track/7jd9wJQLGgaXPjPXPJiiMB) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Dance With My Mistakes](https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO) | 2:57 | 2025-04-09 | 2025-07-17 |
@@ -121,6 +122,7 @@
 | [HAYUP KA](https://open.spotify.com/track/7z527B3xf93ei8pR2q7UR4) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [HAYUP KA](https://open.spotify.com/album/2lufRVNXDecGoZewh5yv1n) | 3:00 | 2025-09-10 |  |
 | [HBD](https://open.spotify.com/track/5sH9HLm2WfjOHLIMFRZWGm) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [HBD](https://open.spotify.com/album/3XVq8uwst8BgCMnhP8T4bX) | 4:17 | 2024-01-24 | 2024-02-29 |
 | [Healing \(Someday I Might Fly\)](https://open.spotify.com/track/3u4hPVKemj7VPAxhOqmKsa) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Healing \(Someday I Might Fly\)](https://open.spotify.com/album/7qx81xGLcWUZHpHGb0orfD) | 3:12 | 2025-09-17 |  |
+| [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 | 2025-10-01 |  |
 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 | 2025-05-14 | 2025-08-07 |
 | [Himala](https://open.spotify.com/track/4EXMOHx4MRlcwn0BbDttdY) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [JeryC](https://open.spotify.com/artist/71rLWhdALdq6mKlVApbmJW) | [Himala](https://open.spotify.com/album/3runPHNazEvo8fZ4iCzfI9) | 3:24 | 2025-07-10 | 2025-08-21 |
 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 | 2024-10-17 | 2025-05-15 |
@@ -301,6 +303,8 @@
 | [PLANETA](https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk) | [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [PLANETA](https://open.spotify.com/album/4X8lD1CYW5tonDqQ9iUTSc) | 4:23 | 2024-03-06 | 2024-04-24 |
 | [PLY4](https://open.spotify.com/track/3nRlbohAuTQDgKdB7RQWBk) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe) | [PLY4](https://open.spotify.com/album/1pjgSL6hP3LmD21fwZkhQP) | 3:56 | 2025-07-02 | 2025-08-14 |
 | [PNYT](https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [PNYT](https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5) | 3:18 | 2025-02-12 | 2025-05-22 |
+| [POGI](https://open.spotify.com/track/1PmTiq3Z2ZExb7r8Xf8dVi) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [POGI](https://open.spotify.com/album/19KMiGDK3ZQWqc4qPFRM8p) | 3:03 | 2025-10-01 |  |
+| [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [Cholow](https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 | 2025-10-01 |  |
 | [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-01-24 | 2024-06-27 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-11 | 2024-10-03 |
 | [Puso](https://open.spotify.com/track/23GZMUl9aJvSmb2QpBS55j) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Puso](https://open.spotify.com/album/1W3PCcGjOgI58R6r9sYZbx) | 5:02 | 2025-05-07 | 2025-09-18 |

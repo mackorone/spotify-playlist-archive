@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 380188,
+  "num_followers": 380224,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Colorado (feat. Carlie Hanson)",
+        "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
+      },
+      "artists": [
+        {
+          "name": "Bluey Thomas",
+          "url": "https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi"
+        },
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Colorado (feat. Carlie Hanson)",
+      "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Migration Stories",
         "url": "https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 182520,
       "name": "Feels Like Lightning",
       "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Colorado (feat. Carlie Hanson)",
-        "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
-      },
-      "artists": [
-        {
-          "name": "Bluey Thomas",
-          "url": "https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi"
-        },
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Colorado (feat. Carlie Hanson)",
-      "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Mary Oliver (Acoustic)",
         "url": "https://open.spotify.com/album/3MTZ3ITMfQulojB2EbGRcO"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 191296,
       "name": "Mary Oliver - Acoustic",
       "url": "https://open.spotify.com/track/3Y48M1emb8uhEagDFBCkei"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2024-07-05 21:33:59",

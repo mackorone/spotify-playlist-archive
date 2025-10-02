@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: MONO NO AWARE \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,645 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,693 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 82 | [DOVE](https://open.spotify.com/track/0c7bWZxmcn4SYbTzAWaVmV) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [DOVE](https://open.spotify.com/album/2nv06C1P6MMcoRVnFi6tE6) | 4:11 |
 | 83 | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/track/5SwraSnI0F2BW8XtdE5bKQ) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/album/3S6B35zp1iUJbaaGgCl52f) | 3:53 |
 | 84 | [my light](https://open.spotify.com/track/6Tz1omWIrOk7Ly9SOG69l3) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my light](https://open.spotify.com/album/17VOoXeticR0qLGOoplBTz) | 3:18 |
-| 85 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
-| 86 | [Stupefied](https://open.spotify.com/track/4W8ZloZDeY01EwvnWZASLp) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Stupefied](https://open.spotify.com/album/6SO2nPUIEM1QyajFjqigUw) | 3:05 |
+| 85 | [Stupefied](https://open.spotify.com/track/4W8ZloZDeY01EwvnWZASLp) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Stupefied](https://open.spotify.com/album/6SO2nPUIEM1QyajFjqigUw) | 3:05 |
+| 86 | [Supernova](https://open.spotify.com/track/6bkIfmlSYL5DoJss2EmEMa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:18 |
 | 87 | [feel like a goss](https://open.spotify.com/track/3KxlWm0hFZTni0CpOAvls7) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [g/g](https://open.spotify.com/album/6b7YD26Mjwgd2TfOr59Hrj) | 2:36 |
 | 88 | [Deleted Scenes](https://open.spotify.com/track/60HRWnuWfZ1W5SJC6eX3Ix) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [D’Electro](https://open.spotify.com/album/0IdmWvBORihX9EE6LGZEpd) | 3:55 |
 | 89 | [Falling](https://open.spotify.com/track/6fy8BFwRgwwJHeCvlJAj1S) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [Kuszanagi](https://open.spotify.com/artist/7G8U6CwUfY85f2PzV6rcTO) | [Falling](https://open.spotify.com/album/0ATeTy0c1pbtskdSzcr9dk) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [人去樓空](https://open.spotify.com/track/0im069CBRQOVVkelqRY9lv) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [人去樓空](https://open.spotify.com/album/0lWarxfdGvlxkw7XHg9vdk) | 4:34 |
 | 100 | [2019](https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [2019](https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM) | 3:15 |
 
-Snapshot ID: `AAAAABR+/Cug5vaUdPn4B8ZlcF6U+NgW`
+Snapshot ID: `AAAAAD4o6oyyj3j8z+yf5q2vgti2RH9N`

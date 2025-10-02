@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/26JpOuYZeyN0ker0XjK6Ih"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/0BnCCDEN50k16bZeGIZPz1"
+    },
+    {
+      "album": {
         "name": "AF1",
         "url": "https://open.spotify.com/album/6gRSAPkjUctZmxPlG6LN7F"
       },
@@ -18710,6 +18732,24 @@
       "duration_ms": 206000,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk"
+    },
+    {
+      "album": {
+        "name": "Sunset Kiss",
+        "url": "https://open.spotify.com/album/02A0ZhFNndBU0oMuqhOBlS"
+      },
+      "artists": [
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Sunset Kiss",
+      "url": "https://open.spotify.com/track/5R4Ii9nYR4PLmOVlpTwk3C"
     },
     {
       "album": {

@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195946,
+      "name": "Talk Talk Talk",
+      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
+    },
+    {
+      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN"
       },

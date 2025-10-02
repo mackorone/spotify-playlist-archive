@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Baila
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,286 likes - 87 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,284 likes - 87 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 11 | [Chaotic Love](https://open.spotify.com/track/4BBMHuuu2JH6SwlMW6VPkk) | [Jerome Gabe](https://open.spotify.com/artist/1GIpbfgVOBFAYr8Ej1K8or), [hilly](https://open.spotify.com/artist/3VDeircEavv4vv7sggr4T0) | [Chaotic Love](https://open.spotify.com/album/4nN4tPMZlzfRe1dOsqO3Gk) | 4:24 |
 | 12 | [Lamun \- Void Version](https://open.spotify.com/track/6f6rOKQRLy5A6cNhDmQR7S) | [Moss & Wine](https://open.spotify.com/artist/7nlInkL17LdBwjCgFzag4Z) | [Lamun \(Void Version\)](https://open.spotify.com/album/16rynXrwejJWVJ0NpLSHUM) | 3:30 |
 | 13 | [Rasa Nusantara](https://open.spotify.com/track/1yIyKkmPmVdqTEhI6F9ncz) | [Moonliite](https://open.spotify.com/artist/1ArQ4QVEOk2bu0mnCWTGax) | [Rasa Nusantara](https://open.spotify.com/album/7fo2Rw0XkWfNNsh5F1Ikyr) | 3:32 |
-| 14 | [stasis](https://open.spotify.com/track/2wDbO57z9mAGligAmR3j5T) | [brrr](https://open.spotify.com/artist/3vrbcpXGhZhRuD7gihiOnl), [Palel Atmoko](https://open.spotify.com/artist/7pra5IYvQAAK9HBQStt5vM) | [stasis](https://open.spotify.com/album/1RkAMBCqWjmoEzYYRKdtrV) | 4:13 |
+| 14 | [stasis](https://open.spotify.com/track/2wDbO57z9mAGligAmR3j5T) | [Brrr](https://open.spotify.com/artist/6GPnBHfoRjnVmIVfeacB3I) | [stasis](https://open.spotify.com/album/1RkAMBCqWjmoEzYYRKdtrV) | 4:13 |
 | 15 | [Do I Matter?](https://open.spotify.com/track/3XcmjyiIE4L4BaoKJ9MyUH) | [syauu](https://open.spotify.com/artist/0DPiScXk2cvmh1cjWu9jaT) | [Do I Matter?](https://open.spotify.com/album/4AeuB5Z6ujkNMrUh9jp3WF) | 5:27 |
 | 16 | [Kapan Weekend Tiba](https://open.spotify.com/track/3VHPWc0IHvUhZfvQakXLzx) | [Melody Teresa](https://open.spotify.com/artist/0sOzL6PbEosfvsC8mydF8B), [Nada Swara Gembira](https://open.spotify.com/artist/5AG0d6HPJu728CuJGIzN7p) | [Kapan Weekend Tiba](https://open.spotify.com/album/1X4gyhENhxbGDpqqhtOAOh) | 2:37 |
 | 17 | [White Blouse](https://open.spotify.com/track/1CvCjFRxhAYAhdfMCJ6dzK) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [White Blouse](https://open.spotify.com/album/1GnpEnQRlWz7OromLlR3YD) | 3:22 |

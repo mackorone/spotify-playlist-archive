@@ -9135,6 +9135,24 @@
     },
     {
       "album": {
+        "name": "NON SONO GES\u00d9",
+        "url": "https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123426,
+      "name": "LAVAPIATTI",
+      "url": "https://open.spotify.com/track/4LZj2aMIhDMd9rQOoAztCD"
+    },
+    {
+      "album": {
         "name": "Law N Order",
         "url": "https://open.spotify.com/album/4jNKm7j89w9FTfVK7cOVkZ"
       },
@@ -14827,6 +14845,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 2",
+        "url": "https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Sesto senso",
+      "url": "https://open.spotify.com/track/0VMGL7KoAfjN3UnTL6aB5o"
+    },
+    {
+      "album": {
         "name": "SETEADORA",
         "url": "https://open.spotify.com/album/2hggjr2zzxII9TYGL5sS60"
       },
@@ -18436,10 +18472,32 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 175273,
       "name": "Wish (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/760IJcunfpbkm6sHbMmyyj"
+    },
+    {
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Wish (feat. Trippie Redd) - Trippie Mix",
+      "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
     },
     {
       "album": {

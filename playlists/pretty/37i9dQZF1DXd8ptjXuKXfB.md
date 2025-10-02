@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon! Cover: Pamkutya
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,364 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,388 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 66 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 |
 | 67 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
 | 68 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 |
-| 69 | [LOMBKORONÁK](https://open.spotify.com/track/20NIEH3lWXTxGbJ54YvMIT) | [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN) | [LOMBKORONÁK](https://open.spotify.com/album/3DOA9PecPwZ0Qsr5n0cPao) | 2:50 |
-| 70 | [3NAP](https://open.spotify.com/track/6tW69dfzZ5gxRoCyGI010b) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO) | [3NAP](https://open.spotify.com/album/3ZFS5JuQ6e8OtZ45RbWtdV) | 2:57 |
+| 69 | [3NAP](https://open.spotify.com/track/6tW69dfzZ5gxRoCyGI010b) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO) | [3NAP](https://open.spotify.com/album/3ZFS5JuQ6e8OtZ45RbWtdV) | 2:57 |
+| 70 | [LOMBKORONÁK](https://open.spotify.com/track/20NIEH3lWXTxGbJ54YvMIT) | [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN) | [LOMBKORONÁK](https://open.spotify.com/album/3DOA9PecPwZ0Qsr5n0cPao) | 2:50 |
 | 71 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
 | 72 | [Love Story](https://open.spotify.com/track/0BywaTkttaSOAoHTitOly3) | [Mikee Mykanic](https://open.spotify.com/artist/5PjhmqjtE8y3WeS96xSmQu), [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [NEHÉZFAME](https://open.spotify.com/album/7zivpKIat95GgeWt6wanUH) | 3:18 |
 | 73 | [JUICY](https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [JUICY](https://open.spotify.com/album/3dBxIm63bMFJfX2GUGkSRO) | 3:48 |
 | 74 | [rum](https://open.spotify.com/track/1E4dmBbgu6ut66FiXYlIfw) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [rum](https://open.spotify.com/album/2KxuitCVU2RCfK4M9yJuk5) | 2:43 |
-| 75 | [Marimba](https://open.spotify.com/track/243WfEVYauoBabr1HDrJMU) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Marimba](https://open.spotify.com/album/15gAf3ThC9J6qQswJEAFTW) | 2:46 |
-| 76 | [Titkos üzenet](https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X) | [TNT](https://open.spotify.com/artist/0mrz04tAG5y6E8xTJUhLwa) | [Bomba](https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu) | 3:36 |
+| 75 | [Titkos üzenet](https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X) | [TNT](https://open.spotify.com/artist/0mrz04tAG5y6E8xTJUhLwa) | [Bomba](https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu) | 3:36 |
+| 76 | [Marimba](https://open.spotify.com/track/243WfEVYauoBabr1HDrJMU) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Marimba](https://open.spotify.com/album/15gAf3ThC9J6qQswJEAFTW) | 2:46 |
 | 77 | [MILF](https://open.spotify.com/track/4OzNBJIHhiYKRe5COThmC3) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [MILF](https://open.spotify.com/album/0njwkRwxNkojfPZTKVnTYW) | 2:23 |
 | 78 | [NGZ LDN BER](https://open.spotify.com/track/3suDFP1Nwxi6a2dUKRFvJg) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [NGZ LDN BER](https://open.spotify.com/album/4v1Y05brN7WfMfWEmoAb30) | 2:53 |
-| 79 | [Mégegyszer](https://open.spotify.com/track/6MoY6upCR0LGbyy9HOVwJ2) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Mégegyszer](https://open.spotify.com/album/74PfAetWEsR4nxqDq2UWlr) | 3:03 |
-| 80 | [Don't Be Afraid](https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Don't Be Afraid](https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I) | 2:52 |
+| 79 | [Don't Be Afraid](https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Don't Be Afraid](https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I) | 2:52 |
+| 80 | [Mégegyszer](https://open.spotify.com/track/6MoY6upCR0LGbyy9HOVwJ2) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Mégegyszer](https://open.spotify.com/album/74PfAetWEsR4nxqDq2UWlr) | 3:03 |
 
 Snapshot ID: `AAAAAHgbscCdNnnEWjshLIK/HedSGJmj`

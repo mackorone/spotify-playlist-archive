@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 174748,
       "name": "Acending",
       "url": "https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 179251,
       "name": "Bio-logical",
       "url": "https://open.spotify.com/track/7bj6z4jBc4z0RSUv4lUoru"
@@ -982,6 +982,24 @@
       "duration_ms": 142702,
       "name": "Bothain",
       "url": "https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ"
+    },
+    {
+      "album": {
+        "name": "Breathe Deeply",
+        "url": "https://open.spotify.com/album/49mYPbCGK5aopYbOejcfBl"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Breathe Deeply",
+      "url": "https://open.spotify.com/track/1dbb2Fij1mrFMFHZ9XGQKa"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 166500,
       "name": "Breezy Blossoms",
       "url": "https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f"
@@ -1108,6 +1126,24 @@
       "duration_ms": 210713,
       "name": "Calm Waters",
       "url": "https://open.spotify.com/track/5xY4aftKW7VJrOngL6VJIG"
+    },
+    {
+      "album": {
+        "name": "Calm Within",
+        "url": "https://open.spotify.com/album/5oW7GtrHOyEOpQ5EATZwGH"
+      },
+      "artists": [
+        {
+          "name": "Gates of Heaven",
+          "url": "https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194095,
+      "name": "Calm Within",
+      "url": "https://open.spotify.com/track/22snfz7xC8QQs8WzzzeHci"
     },
     {
       "album": {
@@ -1453,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Deep Rest",
+        "url": "https://open.spotify.com/album/31yfrq9vm6fFwhiBEiTGdM"
+      },
+      "artists": [
+        {
+          "name": "The Stillframe",
+          "url": "https://open.spotify.com/artist/4TWhLQyfVIOv12m4OUExUe"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Deep Rest",
+      "url": "https://open.spotify.com/track/1KM4DZVpU4IBbn9tKZJziw"
+    },
+    {
+      "album": {
         "name": "Defining Rest",
         "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
       },
@@ -1648,6 +1702,24 @@
       "duration_ms": 205250,
       "name": "Duality",
       "url": "https://open.spotify.com/track/5yrOHeekunz6C4CGlLiFYM"
+    },
+    {
+      "album": {
+        "name": "Echo of Ease",
+        "url": "https://open.spotify.com/album/61GdUeMHmFibgj1JfsTk0W"
+      },
+      "artists": [
+        {
+          "name": "Cokobi",
+          "url": "https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135967,
+      "name": "Echo of Ease",
+      "url": "https://open.spotify.com/track/4Mh9PuKHL8Fx1nA5RviWdA"
     },
     {
       "album": {
@@ -2011,6 +2083,42 @@
     },
     {
       "album": {
+        "name": "Feathered Silence",
+        "url": "https://open.spotify.com/album/0wCv8N0FlS9SJdu04X3Bx6"
+      },
+      "artists": [
+        {
+          "name": "Lush Aura",
+          "url": "https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169254,
+      "name": "Feathered Silence",
+      "url": "https://open.spotify.com/track/1IFZLhOqNwrBJOzZ2LNQf6"
+    },
+    {
+      "album": {
+        "name": "Finding Harmony",
+        "url": "https://open.spotify.com/album/5dccGgN917safBdhVndrDZ"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169808,
+      "name": "Finding Harmony",
+      "url": "https://open.spotify.com/track/5izlZQ9su7aESJCddNsxQR"
+    },
+    {
+      "album": {
         "name": "First Light Whisper",
         "url": "https://open.spotify.com/album/5U66wvkWPgqasaKkllbvqm"
       },
@@ -2080,6 +2188,24 @@
       "duration_ms": 211774,
       "name": "Following The Seasons",
       "url": "https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy"
+    },
+    {
+      "album": {
+        "name": "Forest of Peace (Meditation Version)",
+        "url": "https://open.spotify.com/album/3nTGvaRfFfqqKKlnOJkrXK"
+      },
+      "artists": [
+        {
+          "name": "Astral Ocean",
+          "url": "https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158114,
+      "name": "Forest of Peace (Meditation Version)",
+      "url": "https://open.spotify.com/track/0O2GULrP3DeMKLBfSeRjYM"
     },
     {
       "album": {
@@ -2983,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "Interval",
+        "url": "https://open.spotify.com/album/2Lp1JXEQHW4W7uSGteugMY"
+      },
+      "artists": [
+        {
+          "name": "Luminary Night",
+          "url": "https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148258,
+      "name": "Interval",
+      "url": "https://open.spotify.com/track/5beZ2FfZVWYUfguamVswOD"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR"
       },
@@ -3192,10 +3336,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+    },
+    {
+      "album": {
+        "name": "Long Road",
+        "url": "https://open.spotify.com/album/4lvsAjOg6yay42akelUukH"
+      },
+      "artists": [
+        {
+          "name": "Slepth",
+          "url": "https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2gUJFzHKiDSWBT3weoiNYJ"
     },
     {
       "album": {
@@ -3214,6 +3376,24 @@
       "duration_ms": 225503,
       "name": "Long-Horned Beetles",
       "url": "https://open.spotify.com/track/2Fi1BIoPwqLyFmi49IaIp5"
+    },
+    {
+      "album": {
+        "name": "Loop of Calm",
+        "url": "https://open.spotify.com/album/6g8snvWBIUgygza9rb9Vbj"
+      },
+      "artists": [
+        {
+          "name": "Moon Waves",
+          "url": "https://open.spotify.com/artist/4culOc37QVV7jSX09VKt96"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138523,
+      "name": "Loop of Calm",
+      "url": "https://open.spotify.com/track/487Mjd8gO0CJnT9YD4Yyq9"
     },
     {
       "album": {
@@ -3667,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Nuexos",
+        "url": "https://open.spotify.com/album/1GWqS5VLW2mNTS8TSF6nn5"
+      },
+      "artists": [
+        {
+          "name": "Auricz",
+          "url": "https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183459,
+      "name": "Nuexos",
+      "url": "https://open.spotify.com/track/1C1WYGzqsCKNhtFgehh8La"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO"
       },
@@ -3685,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/0dwf8IKOWJ7aWadYj2wv6P"
+      },
+      "artists": [
+        {
+          "name": "Colored Dots",
+          "url": "https://open.spotify.com/artist/58k1nfxMMdhqwyECfACA9B"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190375,
+      "name": "Obsidian",
+      "url": "https://open.spotify.com/track/6oq6B25RDuzYBQRH3np2fq"
+    },
+    {
+      "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
@@ -3696,7 +3912,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 157724,
       "name": "Ocean Breath",
       "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
@@ -3718,6 +3934,24 @@
       "duration_ms": 176000,
       "name": "Ocean Vibrations",
       "url": "https://open.spotify.com/track/1F2I0zog3dDvCFZcxIChkp"
+    },
+    {
+      "album": {
+        "name": "Old Orbit",
+        "url": "https://open.spotify.com/album/4RjDbiYSIRrDYxtETvXvYO"
+      },
+      "artists": [
+        {
+          "name": "De Ester",
+          "url": "https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Old Orbit",
+      "url": "https://open.spotify.com/track/3LqKLPjt6IYGKWRMpAp1j5"
     },
     {
       "album": {
@@ -5539,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "Tidebound",
+        "url": "https://open.spotify.com/album/2z1WYl1dAdFkHTtgxx42h7"
+      },
+      "artists": [
+        {
+          "name": "Zonovia",
+          "url": "https://open.spotify.com/artist/1vVOSYYOb8CpXiZ0nFEFvc"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211999,
+      "name": "Tidebound",
+      "url": "https://open.spotify.com/track/7fSfh9ekLMmRiSvdvOnWPO"
+    },
+    {
+      "album": {
         "name": "Timeless Tides",
         "url": "https://open.spotify.com/album/6jtWGoopaymhJA8TgXPEYb"
       },
@@ -5806,6 +6058,24 @@
       "duration_ms": 166875,
       "name": "Vision",
       "url": "https://open.spotify.com/track/1t9XNkE62Ofl1yfvEBh7JP"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Day",
+        "url": "https://open.spotify.com/album/6OOLcpth4ARFCI5egfYbcq"
+      },
+      "artists": [
+        {
+          "name": "Noctivelle",
+          "url": "https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Waiting for the Day",
+      "url": "https://open.spotify.com/track/22B9k7DDhLUp2GJCil8FwM"
     },
     {
       "album": {

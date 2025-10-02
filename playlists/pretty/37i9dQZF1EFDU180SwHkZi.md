@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 131 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 131 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 41 | [Comfortable](https://open.spotify.com/track/2wpbd3TMjF3zuJhSwln1iX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Comfortable](https://open.spotify.com/album/4IyNzsMpD1ztwKGEgQjsxC) | 2:26 |
 | 42 | [Hope That I Go First](https://open.spotify.com/track/6ITZgBVNjWEjuS0KxWwE60) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 2:45 |
 | 43 | [Discovering You](https://open.spotify.com/track/3exJk2UsZJz4SFAIXoDt4i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 2:32 |
-| 44 | [Down Easy](https://open.spotify.com/track/4VMtyHM4MTW8DKtxas8K16) | [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Down Easy](https://open.spotify.com/album/7eSICnVsgASy2NGJtSxkxj) | 3:42 |
-| 45 | [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 |
+| 44 | [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 |
+| 45 | [Down Easy](https://open.spotify.com/track/4VMtyHM4MTW8DKtxas8K16) | [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Down Easy](https://open.spotify.com/album/7eSICnVsgASy2NGJtSxkxj) | 3:42 |
 | 46 | [january](https://open.spotify.com/track/4BCwkKDpIsWgAJohzaEjux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/0VGR9ywEKEl4vMgTvSVC5m) | 2:36 |
 | 47 | [Feel Good](https://open.spotify.com/track/0KLQEVv44FyvoJ0ry9P02v) | [Stolar](https://open.spotify.com/artist/73PLndNan9GxNYmuCCSUT3) | [Feel Good](https://open.spotify.com/album/2KFVfaT6bP1LAWsGJg9uMQ) | 3:14 |
 | 48 | [Salvador](https://open.spotify.com/track/2dsnEM8ahQjuVmS8miG9jS) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Salvador](https://open.spotify.com/album/4VhygJCt8Zj9h4RDL3Y47v) | 2:59 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 73 | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE) | 2:34 |
 | 74 | [Different People](https://open.spotify.com/track/1blsSUa69iQ1V9cqeTu96w) | [Liam Mogan](https://open.spotify.com/artist/1Q3xk1O4cQZ6uEOIEkOgvi) | [Different People](https://open.spotify.com/album/0uebuhOAT7mvfmKVmiaXWB) | 3:55 |
 | 75 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 |
-| 76 | [Ada](https://open.spotify.com/track/40haOxIaprGiFVmhKUkXRm) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Ada](https://open.spotify.com/album/4oLtHbGG9VRAI7f0T4FvYR) | 2:25 |
-| 77 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
+| 76 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
+| 77 | [Ada](https://open.spotify.com/track/40haOxIaprGiFVmhKUkXRm) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Ada](https://open.spotify.com/album/4oLtHbGG9VRAI7f0T4FvYR) | 2:25 |
 | 78 | [Expensive On Me](https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9) | 2:16 |
 | 79 | [Can I Be Ur Friend?](https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Can I Be Ur Friend?](https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr) | 3:37 |
 | 80 | [Look At Me Go](https://open.spotify.com/track/6Y8NDWGqBgJPSz7Ejfn7YQ) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Look At Me Go](https://open.spotify.com/album/4ZV3duqSz1IUk84iGlX8a0) | 2:57 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 130 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 131 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab9o/gAAAAAljihoaok3ttjdN5ba5rxr`
+Snapshot ID: `Ab9ulAAAAAAWlOtJ8DTnIhegPzXDHwu/`

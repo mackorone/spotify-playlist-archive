@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,073 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,125 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 79 | [Risk Your \(feat\. Bonbero\)](https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Risk Your \(feat\. Bonbero\)](https://open.spotify.com/album/5Vne7FdSPUYxOo2uDzWNPw) | 2:34 |
 | 80 | [MINT](https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [MINT](https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3) | 2:21 |
 
-Snapshot ID: `AAAAAO1zW6lp+0IH/sIovdP+aoAE6HZv`
+Snapshot ID: `AAAAAM29NoOH7Hi15aycwc5J2imGDynM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371,487 likes - 104 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371,416 likes - 104 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 86 | [Finessed](https://open.spotify.com/track/5lj9BWDIr9Nu9WCKUIW5fx) | [yuke](https://open.spotify.com/artist/3gJ7vM5lzXzYuYpnPy9WAL) | [Cheetah World](https://open.spotify.com/album/7hWlhGepPvB5ushvzHrYKT) | 2:10 |
 | 87 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 |
 | 88 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 |
-| 89 | [dolce & gabbana](https://open.spotify.com/track/7wmqvs84RI4RxgJXAqLPbp) | [cr1tter](https://open.spotify.com/artist/5menILZ97UsYnaAKoMMYuR) | [yea I think](https://open.spotify.com/album/7GWCqTf8Uwfvkk2UluKBQE) | 2:29 |
+| 89 | [dolce & gabbana](https://open.spotify.com/track/7wmqvs84RI4RxgJXAqLPbp) | [cr1tter](https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR) | [yea I think](https://open.spotify.com/album/7GWCqTf8Uwfvkk2UluKBQE) | 2:29 |
 | 90 | [comical](https://open.spotify.com/track/6BNXYLvJGBp3EBNoYcKQNM) | [6xat!c](https://open.spotify.com/artist/2uwEvDBKbB5xehCgTlYflx) | [comical](https://open.spotify.com/album/5uQn1YhgxrKRH5OzEN7iJS) | 2:35 |
 | 91 | [Pro Open \(with BabyTron\)](https://open.spotify.com/track/0vVG0pVOd221B10F8J0Krm) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Pro Open \(with BabyTron\)](https://open.spotify.com/album/7A8IZmbJDZ38S2YtHYmLRj) | 2:25 |
 | 92 | [LAY UP](https://open.spotify.com/track/76My5QFcDYRPsg6uL7vPIf) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [LAY UP](https://open.spotify.com/album/3R0pXQrTfkcoMlyVINpoAV) | 2:42 |

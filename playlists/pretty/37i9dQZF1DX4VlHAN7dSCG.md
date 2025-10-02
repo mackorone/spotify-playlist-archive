@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 八三夭 \(831\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,488 likes - 76 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,490 likes - 76 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 11 | [他不愛我 \- 滾石撞樂隊2 \(原唱:莫文蔚\)](https://open.spotify.com/track/0oFAas3rJLL2evZiSGlSxm) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [滾石撞樂隊2 \- 他不愛我](https://open.spotify.com/album/4gxiKfR8AlCen1oiRsH6H1) | 3:27 |
 | 12 | [冰輪](https://open.spotify.com/track/4aZYUiAQlsFBO7hcN50VvP) | [萬象](https://open.spotify.com/artist/64KqLHNmO5vqmpDEiVZM8U) | [宇宙的孩子](https://open.spotify.com/album/5nJr3F28CRVs1sqdiO1MkI) | 4:46 |
 | 13 | [Crossing the coastline](https://open.spotify.com/track/4t5m2jrajPxkKyMzlCHnjz) | [蘇菲花園樂隊](https://open.spotify.com/artist/3lrOoXaMTvHP5wzei7fNej) | [Crossing the coastline](https://open.spotify.com/album/0GV1EPbuDLO44PsH1qbkuG) | 4:30 |
-| 14 | [Day n Nite](https://open.spotify.com/track/74ePDBjr0YfCAq03layase) | [T.J](https://open.spotify.com/artist/1WlQFCxYJ2dgsvGjalKx3c), [ChinoBroz \(奇童兄弟\)](https://open.spotify.com/artist/3MX4KjsPDjOYqdZ6Yns196) | [Day n Nite](https://open.spotify.com/album/4P3CO0fhDGlyAzO0VCGycB) | 2:42 |
+| 14 | [Day n Nite](https://open.spotify.com/track/74ePDBjr0YfCAq03layase) | [T.J](https://open.spotify.com/artist/1WlQFCxYJ2dgsvGjalKx3c), [ChinoBroz \(奇童兄弟\)](https://open.spotify.com/artist/3MX4KjsPDjOYqdZ6Yns196) | [Day n Nite](https://open.spotify.com/album/4P3CO0fhDGlyAzO0VCGycB) | 2:39 |
 | 15 | [天海一線](https://open.spotify.com/track/3Vyz921P5kppxs2iSXhhmA) | [Sunny&Welly](https://open.spotify.com/artist/0wV4jULHZogcVorMV6FLKT), [Sunny@逃避的人](https://open.spotify.com/artist/6ro3C4yvclfr3qpOIkJEwt), [水水Mizu98](https://open.spotify.com/artist/1c83P0MDXWVhh7k64xyMcK) | [天海一線](https://open.spotify.com/album/7MgiVqU2HMejYijF08vYBo) | 2:11 |
 | 16 | [Morning call](https://open.spotify.com/track/1xEnm1E2QMFBDo6Ngav2Qp) | [BB彈](https://open.spotify.com/artist/3XvsBnr5I2CaTacYhrdAht) | [Morning call](https://open.spotify.com/album/6KqbJ02lxLccHixcy0XOau) | 1:51 |
 | 17 | [腐爛](https://open.spotify.com/track/7A00Fx4WKlfYpDFWSVeEoF) | [Yi\-Cheng Yi\-Ching](https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8) | [腐爛](https://open.spotify.com/album/0bRANZ69xkqcmsJJA6BVuc) | 2:57 |

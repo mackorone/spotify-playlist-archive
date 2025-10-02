@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 257512,
+  "num_followers": 257604,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "SALSEANDO CON... UNO",
+        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
+      },
+      "artists": [
+        {
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Fantasia Herida",
+      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Exitos Bailables",
         "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 282746,
       "name": "Vestida De Blanco",
       "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Amaneci Contigo sin Tabu",
-        "url": "https://open.spotify.com/album/5ZnrQ9pCeSBxtwq15WDzpr"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 239397,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/4IpLwNEogub3ewrIxf03iy"
     }
   ],
   "unique_name": "Salsa: Los '80",

@@ -2,7 +2,7 @@
 
 ### [K\-OST Center \(Korean OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 컨피던스맨 KR\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 1,117 songs - 2 day 19 hr 46 min
 

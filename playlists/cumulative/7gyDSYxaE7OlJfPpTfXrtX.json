@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/6ylocGXgoMALy6IzoOWx6g"
+      },
+      "artists": [
+        {
+          "name": "The Weepies",
+          "url": "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+        },
+        {
+          "name": "Deb Talan",
+          "url": "https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD"
+        },
+        {
+          "name": "Steve Tannen",
+          "url": "https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7hgw26BhOeyqGDxpHbzih8"
+    },
+    {
+      "album": {
         "name": "The Life Of The World To Come",
         "url": "https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS"
       },

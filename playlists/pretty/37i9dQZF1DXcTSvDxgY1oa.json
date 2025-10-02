@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: Syot ",
-  "num_followers": 1932,
+  "num_followers": 1934,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Overcompensating",
-        "url": "https://open.spotify.com/album/3UJTW4CxzsBQyQLvqbV3h0"
-      },
-      "artists": [
-        {
-          "name": "Moon Jacky Jane",
-          "url": "https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov"
-        }
-      ],
-      "duration_ms": 195450,
-      "name": "Overcompensating",
-      "url": "https://open.spotify.com/track/29q8cAbDbnqiX9dgs94P98"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1YYGYLfJqSYH34dgrxPkkt"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 202312,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3yJ2xDbJBa28WQ8Wag4UmN"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Overcompensating",
+        "url": "https://open.spotify.com/album/3UJTW4CxzsBQyQLvqbV3h0"
+      },
+      "artists": [
+        {
+          "name": "Moon Jacky Jane",
+          "url": "https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov"
+        }
+      ],
+      "duration_ms": 195450,
+      "name": "Overcompensating",
+      "url": "https://open.spotify.com/track/29q8cAbDbnqiX9dgs94P98"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Je Weet Pas Wat Je Hebt",
-        "url": "https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER"
-      },
-      "artists": [
-        {
-          "name": "Elieve",
-          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Je Weet Pas Wat Je Hebt",
-      "url": "https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Don't Lie",
         "url": "https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 123090,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/0EAlSRLB5OFIlkb7gQ0uNG"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Je Weet Pas Wat Je Hebt",
+        "url": "https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER"
+      },
+      "artists": [
+        {
+          "name": "Elieve",
+          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Je Weet Pas Wat Je Hebt",
+      "url": "https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Quiet Life",
-        "url": "https://open.spotify.com/album/3zG4TpY9GMajFXgBwQSbfJ"
-      },
-      "artists": [
-        {
-          "name": "plonki",
-          "url": "https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Quiet Life",
-      "url": "https://open.spotify.com/track/2X1TY6dff8ienKQQFO4CVP"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Lach",
         "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/3zG4TpY9GMajFXgBwQSbfJ"
+      },
+      "artists": [
+        {
+          "name": "plonki",
+          "url": "https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/2X1TY6dff8ienKQQFO4CVP"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/5ss71IJPLmogSbrXmI9bV4"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 175619,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6twfj64yWVPf00VvpVnQQc"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "perfectly imperfect",
-        "url": "https://open.spotify.com/album/1dJoMWU122CDWe6gocrgzx"
-      },
-      "artists": [
-        {
-          "name": "Anouk Wolf",
-          "url": "https://open.spotify.com/artist/2HABYmyNHmN6fSxwx88rO8"
-        }
-      ],
-      "duration_ms": 247495,
-      "name": "perfectly imperfect",
-      "url": "https://open.spotify.com/track/3DCzpVDtnF6Pw4NlqPbDaR"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -495,6 +479,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "perfectly imperfect",
+        "url": "https://open.spotify.com/album/1dJoMWU122CDWe6gocrgzx"
+      },
+      "artists": [
+        {
+          "name": "Anouk Wolf",
+          "url": "https://open.spotify.com/artist/2HABYmyNHmN6fSxwx88rO8"
+        }
+      ],
+      "duration_ms": 247495,
+      "name": "perfectly imperfect",
+      "url": "https://open.spotify.com/track/3DCzpVDtnF6Pw4NlqPbDaR"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Vallen Pt. I",
         "url": "https://open.spotify.com/album/1fZcCvaGUMYyBXYjlGFX4k"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 229570,
       "name": "Vallen Pt. I",
       "url": "https://open.spotify.com/track/1nK8XXd0789U15xiumSKRj"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/0eVsCtQAuxLdQNvnDCcgm9"
+      },
+      "artists": [
+        {
+          "name": "BERTHAJU",
+          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
+        }
+      ],
+      "duration_ms": 285263,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -539,22 +555,6 @@
       "duration_ms": 132671,
       "name": "Filthy Hands",
       "url": "https://open.spotify.com/track/52aY4b5OXg0Icy9Lj5Oc7h"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/0eVsCtQAuxLdQNvnDCcgm9"
-      },
-      "artists": [
-        {
-          "name": "BERTHAJU",
-          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
-        }
-      ],
-      "duration_ms": 285263,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Burn It",
-        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
-      },
-      "artists": [
-        {
-          "name": "Bad Luck Baby",
-          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
-        }
-      ],
-      "duration_ms": 229953,
-      "name": "Chew",
-      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Dit Gaat Pijn Doen",
         "url": "https://open.spotify.com/album/1Gt7ItM4BmcpjupLhMahcv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 195346,
       "name": "Dit Gaat Pijn Doen",
       "url": "https://open.spotify.com/track/2CTfVMR4Uayoge0b2gl60g"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
+      },
+      "artists": [
+        {
+          "name": "Bad Luck Baby",
+          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Chew",
+      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Judith Judith",
+        "url": "https://open.spotify.com/album/0xNIOrJI537lnWQ0vXw9mj"
+      },
+      "artists": [
+        {
+          "name": "My Girlfriend",
+          "url": "https://open.spotify.com/artist/2Qw9ThbCvZhVIBNSexO6I2"
+        }
+      ],
+      "duration_ms": 219818,
+      "name": "Judith Judith",
+      "url": "https://open.spotify.com/track/6D19JQFTor3GaXKoRkQ11p"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Feel The Pain",
         "url": "https://open.spotify.com/album/0qSeZDreT0DBBghTv3gEiq"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 159416,
       "name": "Feel The Pain",
       "url": "https://open.spotify.com/track/4JYzuJltpHHRQAhEtvC0zs"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Judith Judith",
-        "url": "https://open.spotify.com/album/0xNIOrJI537lnWQ0vXw9mj"
-      },
-      "artists": [
-        {
-          "name": "My Girlfriend",
-          "url": "https://open.spotify.com/artist/2Qw9ThbCvZhVIBNSexO6I2"
-        }
-      ],
-      "duration_ms": 219818,
-      "name": "Judith Judith",
-      "url": "https://open.spotify.com/track/6D19JQFTor3GaXKoRkQ11p"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -951,18 +951,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/0JzGRklYd7C8nh7aTQa8m9"
+        "name": "The Immortal Gerard",
+        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
       },
       "artists": [
         {
-          "name": "IL\u00c6NDER",
-          "url": "https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z"
+          "name": "Baba Pen & The Bim Bam Band",
+          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
         }
       ],
-      "duration_ms": 257534,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/7sWUX5grGGuRRigr4VWeM5"
+      "duration_ms": 251106,
+      "name": "The Immortal Gerard",
+      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "The Immortal Gerard",
-        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/0JzGRklYd7C8nh7aTQa8m9"
       },
       "artists": [
         {
-          "name": "Baba Pen & The Bim Bam Band",
-          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
+          "name": "IL\u00c6NDER",
+          "url": "https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z"
         }
       ],
-      "duration_ms": 251106,
-      "name": "The Immortal Gerard",
-      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
+      "duration_ms": 257534,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/7sWUX5grGGuRRigr4VWeM5"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1011,26 +1011,6 @@
       "duration_ms": 138168,
       "name": "Zoete Wraak",
       "url": "https://open.spotify.com/track/4GzHTJnakHILedjVW3DqHy"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "volgens mij ben ik verliefd",
-        "url": "https://open.spotify.com/album/27K7UVc24nW01l6WhvipId"
-      },
-      "artists": [
-        {
-          "name": "Dashaeno",
-          "url": "https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE"
-        },
-        {
-          "name": "damy",
-          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
-        }
-      ],
-      "duration_ms": 147648,
-      "name": "volgens mij ben ik verliefd",
-      "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "volgens mij ben ik verliefd",
+        "url": "https://open.spotify.com/album/27K7UVc24nW01l6WhvipId"
+      },
+      "artists": [
+        {
+          "name": "Dashaeno",
+          "url": "https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE"
+        },
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "duration_ms": 147648,
+      "name": "volgens mij ben ik verliefd",
+      "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Insurrecci\u200b\u00f3\u200bn de los Incontentables",
         "url": "https://open.spotify.com/album/2R098kap4WCtwKhkr5VJiq"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
+        "name": "Kaonashi",
+        "url": "https://open.spotify.com/album/6fYeOWxW0YiAy9VcOsubcX"
       },
       "artists": [
         {
-          "name": "Luke Christoffel",
-          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
+          "name": "Gallamesh",
+          "url": "https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV"
         }
       ],
-      "duration_ms": 192342,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
+      "duration_ms": 134000,
+      "name": "Kaonashi",
+      "url": "https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
       },
       "artists": [
         {
-          "name": "Inherited",
-          "url": "https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02"
+          "name": "Luke Christoffel",
+          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
         }
       ],
-      "duration_ms": 152652,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS"
+      "duration_ms": 192342,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1147,6 +1147,22 @@
       "duration_ms": 199558,
       "name": "Lonely Part Of Me",
       "url": "https://open.spotify.com/track/1B2SEsITGnyID7NI7HJIKA"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg"
+      },
+      "artists": [
+        {
+          "name": "Inherited",
+          "url": "https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02"
+        }
+      ],
+      "duration_ms": 152652,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1187,6 +1203,22 @@
       "duration_ms": 312361,
       "name": "Ik Praat Met De Sterren",
       "url": "https://open.spotify.com/track/60bWRPFDzNVl62huWvbw4A"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Out Of Mind",
+        "url": "https://open.spotify.com/album/5ax8o38PpG9oMk9JB8mMsL"
+      },
+      "artists": [
+        {
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/33yrFLgM6BdoRbVoY2DiIo"
+        }
+      ],
+      "duration_ms": 260661,
+      "name": "Out Of Mind",
+      "url": "https://open.spotify.com/track/4XqfLb4FuCFhrOKNgz8Ojs"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1255,18 +1287,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ"
+        "name": "No One Leaves Without Saying Goodbye",
+        "url": "https://open.spotify.com/album/5boez4TwIfpACortOOLdYJ"
       },
       "artists": [
         {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
+          "name": "Honey Camp",
+          "url": "https://open.spotify.com/artist/4IUuubcdMywrkSCalmf0Um"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t"
+      "duration_ms": 243414,
+      "name": "No One Leaves Without Saying Goodbye",
+      "url": "https://open.spotify.com/track/7zny72BKyflB9EJ0G4kwQP"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1287,66 +1319,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Out Of Mind",
-        "url": "https://open.spotify.com/album/5ax8o38PpG9oMk9JB8mMsL"
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ"
       },
       "artists": [
         {
-          "name": "Wabi Sabi",
-          "url": "https://open.spotify.com/artist/33yrFLgM6BdoRbVoY2DiIo"
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
         }
       ],
-      "duration_ms": 260661,
-      "name": "Out Of Mind",
-      "url": "https://open.spotify.com/track/4XqfLb4FuCFhrOKNgz8Ojs"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "No One Leaves Without Saying Goodbye",
-        "url": "https://open.spotify.com/album/5boez4TwIfpACortOOLdYJ"
-      },
-      "artists": [
-        {
-          "name": "Honey Camp",
-          "url": "https://open.spotify.com/artist/4IUuubcdMywrkSCalmf0Um"
-        }
-      ],
-      "duration_ms": 243414,
-      "name": "No One Leaves Without Saying Goodbye",
-      "url": "https://open.spotify.com/track/7zny72BKyflB9EJ0G4kwQP"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "WINDKRACHT TIEN",
-        "url": "https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y"
-      },
-      "artists": [
-        {
-          "name": "Thor Kissing",
-          "url": "https://open.spotify.com/artist/6aYMaD2LzJWHYmR6bxeM0v"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "HAMERTJE TIK",
-      "url": "https://open.spotify.com/track/0OIITNnEeplZ0wxSSYYVn0"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "I Won't Back Down",
-        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ploeger",
-          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
+      "duration_ms": 251026,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "I Won't Back Down",
+        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ploeger",
+          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Party Purse",
         "url": "https://open.spotify.com/album/4wgLw5jJ79T24RYZv7kMpW"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 135587,
       "name": "Party Purse",
       "url": "https://open.spotify.com/track/2oYNNPeInAIHJXFpOerDVM"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Kaonashi",
-        "url": "https://open.spotify.com/album/6fYeOWxW0YiAy9VcOsubcX"
-      },
-      "artists": [
-        {
-          "name": "Gallamesh",
-          "url": "https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Kaonashi",
-      "url": "https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
+        "name": "WINDKRACHT TIEN",
+        "url": "https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y"
       },
       "artists": [
         {
-          "name": "Nora Carli",
-          "url": "https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD"
+          "name": "Thor Kissing",
+          "url": "https://open.spotify.com/artist/6aYMaD2LzJWHYmR6bxeM0v"
         }
       ],
-      "duration_ms": 203624,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
+      "duration_ms": 151764,
+      "name": "HAMERTJE TIK",
+      "url": "https://open.spotify.com/track/0OIITNnEeplZ0wxSSYYVn0"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Fig. 1",
-        "url": "https://open.spotify.com/album/2MSI3nQKHjmwpMlDJOfr9m"
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
       },
       "artists": [
         {
-          "name": "Figi",
-          "url": "https://open.spotify.com/artist/73HGx0Dd0nECcObZ70vtTx"
+          "name": "Nora Carli",
+          "url": "https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD"
         }
       ],
-      "duration_ms": 278208,
-      "name": "FIG. 1",
-      "url": "https://open.spotify.com/track/6ICmQGDSTamENZuRIZ4mHK"
+      "duration_ms": 203624,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Fig. 1",
+        "url": "https://open.spotify.com/album/2MSI3nQKHjmwpMlDJOfr9m"
+      },
+      "artists": [
+        {
+          "name": "Figi",
+          "url": "https://open.spotify.com/artist/73HGx0Dd0nECcObZ70vtTx"
+        }
+      ],
+      "duration_ms": 278208,
+      "name": "FIG. 1",
+      "url": "https://open.spotify.com/track/6ICmQGDSTamENZuRIZ4mHK"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Kate Mosh",
         "url": "https://open.spotify.com/album/2DZ1u5rXSRLvs3iptuBXja"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 212743,
       "name": "Kate Mosh",
       "url": "https://open.spotify.com/track/2tv2P3DPxmdqABPuOnYPwJ"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "If/When",
+        "url": "https://open.spotify.com/album/2BpntQ9nmdqzdx5qLM7ncM"
+      },
+      "artists": [
+        {
+          "name": "Flora Sophi",
+          "url": "https://open.spotify.com/artist/6uQxXBGiZTiuUJm0oFd4LS"
+        }
+      ],
+      "duration_ms": 276542,
+      "name": "If/When",
+      "url": "https://open.spotify.com/track/3mhKG8cpVd13TWOlhixHUa"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1527,22 +1543,6 @@
       "duration_ms": 279646,
       "name": "Resonant Echoes",
       "url": "https://open.spotify.com/track/3lHJqZc9enjdV0lh5UXeTr"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "If/When",
-        "url": "https://open.spotify.com/album/2BpntQ9nmdqzdx5qLM7ncM"
-      },
-      "artists": [
-        {
-          "name": "Flora Sophi",
-          "url": "https://open.spotify.com/artist/6uQxXBGiZTiuUJm0oFd4LS"
-        }
-      ],
-      "duration_ms": 276542,
-      "name": "If/When",
-      "url": "https://open.spotify.com/track/3mhKG8cpVd13TWOlhixHUa"
     },
     {
       "added_at": "2025-09-30 08:00:36",

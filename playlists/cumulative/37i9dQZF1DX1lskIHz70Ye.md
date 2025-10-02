@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-194 songs - 9 hr 38 min
+196 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2022-03-03 | 2025-01-14 |
 | [Popurri Revolucionario](https://open.spotify.com/track/3IoOITvmTADnF8t8alXoWP) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas](https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv) | 7:12 | 2022-03-03 | 2022-05-27 |
 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 | 2022-03-03 |  |
+| [Preciosa](https://open.spotify.com/track/0QCxaAab6D7LfafCUEKgzb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Preciosa](https://open.spotify.com/album/0pglYJR5nQuBRyBjYiNfgN) | 2:34 | 2025-10-01 |  |
 | [Prelude No\. 1 in C Major, WTC Book 1, BWV 846](https://open.spotify.com/track/5ePhbFerpWhHshbjjMjwGQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [Prelude No\. 1 in C Major, WTC Book 1, BWV 846](https://open.spotify.com/album/0c4fPYpn8VLYE6lUdKeIVW) | 2:13 | 2022-09-17 | 2023-09-01 |
 | [Preludio No\. 3](https://open.spotify.com/track/2VCUwRLBHxqTscPd3NfOCP) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: Preludio No\. 3](https://open.spotify.com/album/3X1sZmEBYuVDwutGnrUm7D) | 0:36 | 2022-06-24 | 2022-07-22 |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2022-03-03 |  |
@@ -170,6 +171,7 @@
 | [Straight Through My Heart](https://open.spotify.com/track/0LBN0uMXR5sJ7WSxFF8c3A) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Straight Through My Heart](https://open.spotify.com/album/5ozSncuInN9MHvJ6LPJ6I2) | 3:01 | 2024-06-07 |  |
 | [Suave](https://open.spotify.com/track/4MTpIFPmOhMuasTQLHoEtm) | [Roman Ticker](https://open.spotify.com/artist/2N3alU1QULBStjDC38TldG) | [Ipanema Dreams](https://open.spotify.com/album/5t9rpIS1nZA3QUu0WezT4X) | 2:08 | 2022-03-03 | 2022-07-22 |
 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 | 2022-03-03 | 2025-02-25 |
+| [Summer Soon](https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Summer Soon](https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg) | 2:34 | 2025-10-01 |  |
 | [Summer Walks](https://open.spotify.com/track/3PgpqddvtMosikFwFytr14) | [Walter David](https://open.spotify.com/artist/7DroDCkqomfRXj7zVYjiI3) | [Summer Walks](https://open.spotify.com/album/7C0PB7dfWUj7FLoXCYkSMQ) | 1:36 | 2022-07-08 | 2023-09-15 |
 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-05-13 |  |
 | [Sunday Afternoon](https://open.spotify.com/track/2Wh7EN2hw9LMQ5yCDByuZY) | [Sam Edwards](https://open.spotify.com/artist/4LPoFO74bCM3VqcLryqJqZ) | [Venezia Dreams](https://open.spotify.com/album/3Mh1ys1CHwfETM4yE79in2) | 3:11 | 2022-03-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 551622,
+  "num_followers": 551427,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Brother Sun/Sister Moon",
-        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
+        "name": "A Boy from Colorado",
+        "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
       },
       "artists": [
         {
-          "name": "LYS",
-          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
+          "name": "Gabe James",
+          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Brother Sun/Sister Moon",
-      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
+      "duration_ms": 138136,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "A Boy from Colorado",
-        "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
+        "name": "Brother Sun/Sister Moon",
+        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
       },
       "artists": [
         {
-          "name": "Gabe James",
-          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+          "name": "LYS",
+          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
         }
       ],
-      "duration_ms": 138136,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
+      "duration_ms": 216400,
+      "name": "Brother Sun/Sister Moon",
+      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "I Like That",
-        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
     },
     {
       "added_at": "2024-07-11 01:17:45",

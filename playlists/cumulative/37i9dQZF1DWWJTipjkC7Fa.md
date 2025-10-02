@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-114 songs - 6 hr 23 min
+115 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 | 2023-12-07 | 2025-08-29 |
 | [Slip Away](https://open.spotify.com/track/13yxz52EwElyue9PLrqcZY) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:45 | 2025-08-28 |  |
 | [Some of Everything](https://open.spotify.com/track/7DBaPsTe4FHr8uruCpy2YW) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Some of Everything](https://open.spotify.com/album/7FkDhibRBJ1iUulMWvE9tE) | 3:08 | 2023-12-07 | 2025-08-29 |
+| [Someone To You](https://open.spotify.com/track/7KOIp0EEEUbZfUXVffgFhB) | [Riun Garner](https://open.spotify.com/artist/3dL6tboQBwjaIWIxNldpFR) | [Someone To You](https://open.spotify.com/album/7aKCBFUXKB4PZxlp1bFWSB) | 4:14 | 2025-10-01 |  |
 | [Somethin' Bout You](https://open.spotify.com/track/5UC7I4I1H4ImK6UJMrJ0Hq) | [Nice Horse](https://open.spotify.com/artist/7cSjuVkt2nAbYABqWdoIf7) | [Somethin' Bout You](https://open.spotify.com/album/6AsH0Sk5jCz4cBMiV5j3lf) | 3:09 | 2025-08-28 |  |
 | [Something Better](https://open.spotify.com/track/2rJ5AqaUfxBDZFXSsbXfFo) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/7762DXt6ZVJ8SjDWhQNrFg) | 3:34 | 2023-12-07 | 2024-04-19 |
 | [Something Better](https://open.spotify.com/track/4PQAgLLzrYCUsgfMyjFmpP) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:34 | 2023-12-07 | 2025-08-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4316,
+  "num_followers": 4318,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNnMAAAAAABakicBc8Qjzgo5SZSfWoO1",
+  "snapshot_id": "aNsdgAAAAAD08xzKCwEy5Xs8ugnPqdHX",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 158920,
-      "name": "Jet Alone",
-      "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
+      "duration_ms": 112946,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 112946,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp"
+      "duration_ms": 158920,
+      "name": "Jet Alone",
+      "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Studio 4 Acoustic Session",
         "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228928,
       "name": "Carry You Over",
       "url": "https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
     },
     {
       "added_at": null,

@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 160067,
       "name": "Air",
       "url": "https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 134680,
       "name": "Coincide",
       "url": "https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 130000,
       "name": "L\u00e4tt",
       "url": "https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3"
@@ -3888,6 +3888,24 @@
       "duration_ms": 82570,
       "name": "Navi",
       "url": "https://open.spotify.com/track/37XRBuSza57EcexazvYqQy"
+    },
+    {
+      "album": {
+        "name": "Nav\u012bna J\u012bvana / New Life",
+        "url": "https://open.spotify.com/album/2eq9DrYytAvyWTYSFmtZaa"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Nav\u012bna J\u012bvana / New Life",
+      "url": "https://open.spotify.com/track/6UFzHG564ddiVyUxJfSjom"
     },
     {
       "album": {
@@ -4194,7 +4212,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 237525,
       "name": "Ode to Blue",
       "url": "https://open.spotify.com/track/5slC4oYhwfrRaQfohUUNro"
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 219375,
       "name": "Passing By",
       "url": "https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj"
@@ -4450,7 +4468,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 238724,
       "name": "Periphescence",
       "url": "https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0"
@@ -5325,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "socks on moss",
+        "url": "https://open.spotify.com/album/6m4VgI55hgiHEXRqBd9TXn"
+      },
+      "artists": [
+        {
+          "name": "floating echoes",
+          "url": "https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293647,
+      "name": "socks on moss",
+      "url": "https://open.spotify.com/track/1ER6PULa9Dqmf87fZ0LXHb"
+    },
+    {
+      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/4nICR7VmmfEp78mfcZ4WUC"
       },
@@ -6056,7 +6092,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 162500,
       "name": "To Unwind",
       "url": "https://open.spotify.com/track/7ov7MmCvTeQsHyDscGKTKD"
@@ -6420,6 +6456,24 @@
       "duration_ms": 126740,
       "name": "Walking on Air",
       "url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK"
+    },
+    {
+      "album": {
+        "name": "warmth",
+        "url": "https://open.spotify.com/album/1z5ecrrqFd9no12g7t6Hz0"
+      },
+      "artists": [
+        {
+          "name": "halfsoul",
+          "url": "https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86214,
+      "name": "warmth",
+      "url": "https://open.spotify.com/track/6NflHj3pdGn2f68gLZB4e8"
     },
     {
       "album": {

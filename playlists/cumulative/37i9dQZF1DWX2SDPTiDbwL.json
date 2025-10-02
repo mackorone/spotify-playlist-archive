@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Summer Soon",
+        "url": "https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg"
+      },
+      "artists": [
+        {
+          "name": "Oddn",
+          "url": "https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Summer Soon",
+      "url": "https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy"
+    },
+    {
+      "album": {
         "name": "Susurros Del Viento",
         "url": "https://open.spotify.com/album/5n7vpFa0NnqBKxtWd3EMp9"
       },

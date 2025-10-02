@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: JO1
 
-737 songs - 1 day 16 hr 28 min
+738 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [真夏ノ花火](https://open.spotify.com/track/03NNhJNLE4Z6Krnuw88zhu) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [真夏ノ花火](https://open.spotify.com/album/4g5vl2704SOZUzCNbukJBD) | 3:18 | 2025-06-22 | 2025-09-01 |
 | [空](https://open.spotify.com/track/298ROhlpzNNOujR3q9XkP0) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/1ukg4OCTuWIJpBsbACk7Kp) | 3:39 | 2025-07-07 | 2025-08-25 |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-11-23 | 2023-12-08 |
+| [花のように](https://open.spotify.com/track/3gmieCgCITvaVwrwbJBr7U) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [SAKU](https://open.spotify.com/album/3dnvRymeMXh17lqIYN9H75) | 4:03 | 2025-09-30 |  |
 | [華麗な生活](https://open.spotify.com/track/7ez6wvi0htlWbvAWQSJADl) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Endless Happy\-Ending](https://open.spotify.com/album/6dBgrtQcKpiwavwseEu6Su) | 3:15 | 2024-10-29 | 2024-11-06 |
 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 | 2024-02-15 | 2024-03-06 |
 | [踊れピエロ](https://open.spotify.com/track/7lFlPqGM6CajadNT5G1Qfh) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [踊れピエロ](https://open.spotify.com/album/74wtkw5rmbTnyPFj30gVoQ) | 3:31 | 2024-04-23 | 2024-05-29 |

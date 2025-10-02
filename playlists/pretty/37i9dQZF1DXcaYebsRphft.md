@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『2025 RIIZE CONCERT TOUR \[RIIZING LOUD\] IN JAPAN』 のセットリストをスペシャルメッセージとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,304 likes - 28 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,283 likes - 28 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 27 | [One Kiss](https://open.spotify.com/track/6nC7oaf1K3GzTuEC2XHauS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M) | 3:32 |
 | 28 | [Inside My Love](https://open.spotify.com/track/4CYodtfvQBBuUVnYXDl8qo) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 2:39 |
 
-Snapshot ID: `AAAAAO2SnHU/2eIuI1KUA44Il/REj2df`
+Snapshot ID: `AAAAAOjqv0zHoicZiyqHQno0giNjixYo`

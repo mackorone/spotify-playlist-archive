@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,188 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,204 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 46 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
 | 47 | [Awesome God \(Your Voice\) \- Kids Version](https://open.spotify.com/track/0cmSswi24ufP4W1eqBRyoN) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Here I Am To Worship For Kids](https://open.spotify.com/album/2XZz6o7NDi2NsTpuN6qjHX) | 4:26 |
 | 48 | [Oh Come, Let Us Worship](https://open.spotify.com/track/7h19A0XhUCeWo7mNC3sgx3) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Oh Come, Let Us Worship](https://open.spotify.com/album/4M67vB4bJDf7rQ9ALnXQxx) | 2:29 |
-| 49 | [Let My Light Shine](https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Let My Light Shine](https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI) | 2:46 |
-| 50 | [What a Friend We Have in Jesus](https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Just as I Am](https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92) | 3:11 |
+| 49 | [What a Friend We Have in Jesus](https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Just as I Am](https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92) | 3:11 |
+| 50 | [Let My Light Shine](https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Let My Light Shine](https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI) | 2:46 |
 | 51 | [If You're Saved and You Know It](https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:04 |
 | 52 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
 | 53 | [Heaven Is A Wonderful Place/When I Get To Heaven](https://open.spotify.com/track/6iINEWo79e3Ao1MYoHGg7n) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [The First Sunday Singalong](https://open.spotify.com/album/3ZSxL7JnNVTWi9yyNFuTHa) | 1:35 |
-| 54 | [Be Completely Changed](https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [You Amaze Me](https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY) | 2:32 |
-| 55 | [\(Blessed Be\) The Name of the Lord](https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:55 |
+| 54 | [\(Blessed Be\) The Name of the Lord](https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:55 |
+| 55 | [Be Completely Changed](https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [You Amaze Me](https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY) | 2:32 |
 | 56 | [I Am the Way \(John 14:6\)](https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:21 |
 | 57 | [Books Of The Bible](https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [3 Little Words, Vol\. 7](https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD) | 1:55 |
 | 58 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 |

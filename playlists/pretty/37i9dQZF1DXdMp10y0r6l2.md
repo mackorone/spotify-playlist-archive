@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > mucho ruido, puro ruido\. Deftones en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,270 likes - 83 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,245 likes - 83 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

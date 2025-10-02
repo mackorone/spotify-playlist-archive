@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Lily Palmer
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 263,522 likes - 257 songs - 13 hr 30 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 263,439 likes - 257 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

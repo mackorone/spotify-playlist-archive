@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-443 songs - 1 day 2 hr 32 min
+444 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I Got Your Back](https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Got Your Back](https://open.spotify.com/album/6CC5BUqncXiqJOSKi1ZCu1) | 3:05 | 2022-09-09 | 2024-11-22 |
 | [I Want](https://open.spotify.com/track/2k9E1OlHPxIKT6y46726Mv) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [I Want](https://open.spotify.com/album/0IQNUnAmWi9KSZEOLjsPHe) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [I Want You \- Underboss Remix](https://open.spotify.com/track/5XglCdjCtfFJpKlIOf1y4I) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [I Want You \(Underboss Remix\)](https://open.spotify.com/album/1d5Aaipwunfid3kaIchL0E) | 5:23 | 2022-09-09 | 2022-10-15 |
+| [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-10-01 |  |
 | [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 | 2023-02-09 | 2023-07-31 |
 | [I Won't Tell](https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:39 | 2023-07-13 | 2024-03-21 |
 | [I'm A Blessed Man](https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Mister Vi](https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 9:56 | 2022-12-05 | 2024-02-02 |
@@ -314,7 +315,7 @@
 | [Quebrada](https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Quebrada](https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL) | 4:19 | 2022-09-09 | 2024-10-11 |
 | [Queen](https://open.spotify.com/track/3ynvh5EnUmMKDXQ98qcynE) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Muted Chaos.](https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn) | 2:36 | 2023-11-02 | 2025-05-20 |
 | [Quick \- KMB Remix](https://open.spotify.com/track/6vJbcwhdOcmg5QmE03MV8m) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq), [KMB](https://open.spotify.com/artist/0ihliQqviJjnWKiG0XSRqN) | [Quick \(KMB Remix\)](https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs) | 3:05 | 2022-09-09 | 2022-09-16 |
-| [Re\-Up](https://open.spotify.com/track/7yThFb95n51KWFbwbfb3P0) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Re\-Up](https://open.spotify.com/album/4oGuEHTCrs3ZAAL4yzaQEH) | 3:19 | 2024-02-01 |  |
+| [Re\-Up](https://open.spotify.com/track/7yThFb95n51KWFbwbfb3P0) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Re\-Up](https://open.spotify.com/album/4oGuEHTCrs3ZAAL4yzaQEH) | 3:19 | 2024-02-01 | 2025-10-02 |
 | [REARRANGE YOURSELF](https://open.spotify.com/track/3DUf1zmIEzJ71RVKCCOZWb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [REARRANGE YOURSELF](https://open.spotify.com/album/6SrZ9IvPllHz1BrhCajg5f) | 3:41 | 2025-08-14 |  |
 | [Reconcile \- Fybe:One Remix](https://open.spotify.com/track/6kMD5i8ymKWuhxlId1QoZe) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Fybe:One](https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw) | [Remixes](https://open.spotify.com/album/1nGlh9Jtra730EfY9UFHQ7) | 3:47 | 2025-06-06 |  |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-06-20 | 2024-02-02 |

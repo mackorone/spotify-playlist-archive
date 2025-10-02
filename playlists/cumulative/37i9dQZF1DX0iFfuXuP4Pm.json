@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Dahan",
+        "url": "https://open.spotify.com/album/7CW5E4wuSXw01vBKkSZ9Gh"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/4l6wJay9VIyQYaMOWecj6N"
+    },
+    {
+      "album": {
         "name": "Dalangin",
         "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
       },
@@ -2172,6 +2190,28 @@
       "duration_ms": 192794,
       "name": "Healing (Someday I Might Fly)",
       "url": "https://open.spotify.com/track/3u4hPVKemj7VPAxhOqmKsa"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        },
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237045,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
     },
     {
       "album": {
@@ -5640,6 +5680,54 @@
       "duration_ms": 198000,
       "name": "PNYT",
       "url": "https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas"
+    },
+    {
+      "album": {
+        "name": "POGI",
+        "url": "https://open.spotify.com/album/19KMiGDK3ZQWqc4qPFRM8p"
+      },
+      "artists": [
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "POGI",
+      "url": "https://open.spotify.com/track/1PmTiq3Z2ZExb7r8Xf8dVi"
+    },
+    {
+      "album": {
+        "name": "POUGIE",
+        "url": "https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE"
+      },
+      "artists": [
+        {
+          "name": "Mark Beats",
+          "url": "https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM"
+        },
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        },
+        {
+          "name": "GA Chillerong Ghetto",
+          "url": "https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al"
+        },
+        {
+          "name": "Cholow",
+          "url": "https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204943,
+      "name": "POUGIE",
+      "url": "https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm"
     },
     {
       "album": {

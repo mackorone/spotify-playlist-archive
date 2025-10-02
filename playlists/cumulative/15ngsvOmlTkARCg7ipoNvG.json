@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Autumn Stars",
+        "url": "https://open.spotify.com/album/4d8wWXLmRmYaBqDkgFnpnp"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60463,
+      "name": "Autumn Stars",
+      "url": "https://open.spotify.com/track/5Sg63jJcd4Fw4e0ZZJgDRo"
+    },
+    {
+      "album": {
         "name": "Autumn Sunlight",
         "url": "https://open.spotify.com/album/1odVY6duTDQN39pvLTEaDR"
       },
@@ -7610,6 +7628,24 @@
       "duration_ms": 63193,
       "name": "Currents",
       "url": "https://open.spotify.com/track/2J6dkILhtcuJpiUO6sJGOT"
+    },
+    {
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/3ChZIxBu0ndZKVUq7tClEk"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60402,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/0amvkNlJaDdrcPAmXr0sFe"
     },
     {
       "album": {

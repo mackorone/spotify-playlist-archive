@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "A Passage Between",
+        "url": "https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL"
+      },
+      "artists": [
+        {
+          "name": "Melle Jutte",
+          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "Realize (Essence)",
+      "url": "https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2"
+    },
+    {
+      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -1392,6 +1410,24 @@
       "duration_ms": 183760,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk"
+    },
+    {
+      "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "album": {

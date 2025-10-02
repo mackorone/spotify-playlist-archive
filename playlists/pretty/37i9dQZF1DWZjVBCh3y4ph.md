@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,810 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,850 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 17 | [Goumin](https://open.spotify.com/track/6UMDlX8OqZYZduZrGLdcfi) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 3:48 |
 | 18 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 |
 | 19 | [Ti Bonbon](https://open.spotify.com/track/0sesaypqeysVZ9ACRV4W0H) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [Ti Bonbon](https://open.spotify.com/album/34qqqXjgUBPhifz8mwjbpn) | 3:26 |
-| 20 | [Hello](https://open.spotify.com/track/2ryQp2AEeS2lDyjlpA7SBE) | [Antonny Drew](https://open.spotify.com/artist/49wsVk3gEe6pOjZtbf0oFm), [Yoann Danier](https://open.spotify.com/artist/03CVtaeXLd1RIpx3TbtIBX) | [Rémission](https://open.spotify.com/album/6JEQUHAeDKyGBkmQp16Ps4) | 4:29 |
+| 20 | [Hello](https://open.spotify.com/track/2ryQp2AEeS2lDyjlpA7SBE) | [Antonny Drew](https://open.spotify.com/artist/49wsVk3gEe6pOjZtbf0oFm) | [Rémission](https://open.spotify.com/album/6JEQUHAeDKyGBkmQp16Ps4) | 4:29 |
 | 21 | [TROP LOVE](https://open.spotify.com/track/33dJhAnryWez0YcwdwRLIt) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [HISTOIRES D'AMOUR](https://open.spotify.com/album/7eiylQt70j5hQ2kDAQrY46) | 3:00 |
 | 22 | [DOUBABY](https://open.spotify.com/track/2rkpaD7yXJfPLnp8GOfBS9) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [IS THIS LOVE](https://open.spotify.com/album/2dMPaQp3cHOS7tnhR1lHKX) | 3:20 |
 | 23 | [A JAMAIS](https://open.spotify.com/track/0CR0htWvqsZTsgWzepdq3Y) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [A JAMAIS](https://open.spotify.com/album/61eIh4xuvzamO2pVteuSIG) | 3:07 |

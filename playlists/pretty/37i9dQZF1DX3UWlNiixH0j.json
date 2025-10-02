@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: ANORAK!",
-  "num_followers": 65699,
+  "num_followers": 65707,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -139,8 +139,8 @@
     {
       "added_at": "2025-09-30 15:50:32",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "GUM",
+        "url": "https://open.spotify.com/album/5d8QdQJilmf1AeiMZ6SOSd"
       },
       "artists": [
         {
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-09-30 15:50:32",
       "album": {
+        "name": "munasawagi",
+        "url": "https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "duration_ms": 207472,
+      "name": "munasawagi",
+      "url": "https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1"
+    },
+    {
+      "added_at": "2025-09-30 15:50:32",
+      "album": {
         "name": "\u5922\u304b\u3089\u899a\u3081\u3066\u3082",
         "url": "https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2025-09-30 15:50:32",
       "album": {
-        "name": "munasawagi",
-        "url": "https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x"
-      },
-      "artists": [
-        {
-          "name": "E.scene",
-          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
-        }
-      ],
-      "duration_ms": 207472,
-      "name": "munasawagi",
-      "url": "https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1"
-    },
-    {
-      "added_at": "2025-09-30 15:50:32",
-      "album": {
         "name": "Fibril",
         "url": "https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 174087,
       "name": "Brutalist",
       "url": "https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK"
+    },
+    {
+      "added_at": "2025-09-30 15:50:32",
+      "album": {
+        "name": "yo,",
+        "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "love it",
+      "url": "https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD"
     },
     {
       "added_at": "2025-09-30 15:50:32",
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2025-09-30 15:50:32",
       "album": {
-        "name": "yo,",
-        "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "love it",
-      "url": "https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD"
-    },
-    {
-      "added_at": "2025-09-30 15:50:32",
-      "album": {
-        "name": "Stand up",
-        "url": "https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh"
-      },
-      "artists": [
-        {
-          "name": "REJAY",
-          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Stand up",
-      "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
-    },
-    {
-      "added_at": "2025-09-30 15:50:32",
-      "album": {
         "name": "Torie",
         "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 269026,
       "name": "\u3044\u3063\u3064\u3082",
       "url": "https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6"
+    },
+    {
+      "added_at": "2025-09-30 15:50:32",
+      "album": {
+        "name": "Stand up",
+        "url": "https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Stand up",
+      "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
     },
     {
       "added_at": "2025-09-30 15:50:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-09-30 15:50:32",
       "album": {
-        "name": "kurayamisaka yori ai wo komete",
-        "url": "https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO"
-      },
-      "artists": [
-        {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "kurayamisaka yori ai wo komete",
-      "url": "https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt"
-    },
-    {
-      "added_at": "2025-09-30 15:50:32",
-      "album": {
         "name": "HOLD ME",
         "url": "https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 192300,
       "name": "HOLD ME",
       "url": "https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE"
+    },
+    {
+      "added_at": "2025-09-30 15:50:32",
+      "album": {
+        "name": "kurayamisaka yori ai wo komete",
+        "url": "https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "kurayamisaka yori ai wo komete",
+      "url": "https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt"
     },
     {
       "added_at": "2025-09-30 15:50:32",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-09-30 15:50:32",
       "album": {
-        "name": "CHO CO PA\uff1aEAST ASIA oldies EP",
-        "url": "https://open.spotify.com/album/0D8fkxFhJiJR6EkKMMAZlC"
+        "name": "\u5c71\u6b69",
+        "url": "https://open.spotify.com/album/5e51fd3Qvhd8rGlYbjS7og"
       },
       "artists": [
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
+          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
         }
       ],
-      "duration_ms": 173000,
-      "name": "\u30ea\u30f3\u30b4\u8ffd\u5206",
-      "url": "https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj"
+      "duration_ms": 202831,
+      "name": "\u5c71\u6b69",
+      "url": "https://open.spotify.com/track/1vrsAZ0VJmlHB4kphu77U7"
     }
   ],
   "unique_name": "Edge!",

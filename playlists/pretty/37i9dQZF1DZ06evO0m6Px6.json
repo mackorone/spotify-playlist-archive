@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 345,
+  "num_followers": 347,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNnMAAAAAACGc04tAw/ZUCn5+JOzQf4V",
+  "snapshot_id": "aNsdgAAAAADFv55Jw3YZtgs2KK3k/w7W",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Life, Red Planet",
-        "url": "https://open.spotify.com/album/6C9mnXb8ZXTo5Qsat9mZ0K"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
       "artists": [
         {
-          "name": "gum.mp3",
-          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
-        },
-        {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "48thSt",
-          "url": "https://open.spotify.com/artist/0cB7mWWQDeeZ33j3qAMCiU"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Mars and Its Moons",
-      "url": "https://open.spotify.com/track/7jysG69WpZjSnXtinBWHIf"
+      "duration_ms": 167215,
+      "name": "Celica Supra",
+      "url": "https://open.spotify.com/track/3SUTdj0nv34Br6rMDeLicG"
     },
     {
       "added_at": null,
@@ -163,18 +155,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+        "name": "Black Life, Red Planet",
+        "url": "https://open.spotify.com/album/6C9mnXb8ZXTo5Qsat9mZ0K"
       },
       "artists": [
         {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        },
+        {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "48thSt",
+          "url": "https://open.spotify.com/artist/0cB7mWWQDeeZ33j3qAMCiU"
         }
       ],
-      "duration_ms": 167215,
-      "name": "Celica Supra",
-      "url": "https://open.spotify.com/track/3SUTdj0nv34Br6rMDeLicG"
+      "duration_ms": 282000,
+      "name": "Mars and Its Moons",
+      "url": "https://open.spotify.com/track/7jysG69WpZjSnXtinBWHIf"
     },
     {
       "added_at": null,

@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Viernes De Peligro",
+        "url": "https://open.spotify.com/album/3cHoXUoQxETiVfKLbLGZkr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Ola de Cumbia",
+          "url": "https://open.spotify.com/artist/1i8V0JVW4GJxg5mgcocreK"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Viernes De Peligro",
+      "url": "https://open.spotify.com/track/6oPpP5Q9W3x1tliIOMvMso"
+    },
+    {
+      "album": {
         "name": "Vision De Tunel",
         "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Mulan, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Clothesline From Hell, Artwork: Isu Kim.
 
 2,657 songs - 5 day 17 hr 8 min
 

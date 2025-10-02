@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Shiv Paul
 
-233 songs - 12 hr 51 min
+234 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Podu Mike](https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Podu Mike](https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh) | 2:00 | 2024-12-29 |  |
 | [Ponmagal Vandaal](https://open.spotify.com/track/1P4OiSP7ylgP3BmQyE0xx9) | [Aslam](https://open.spotify.com/artist/3Q1wXkTZmSBtS4ELOe6cyt), [Ember rap](https://open.spotify.com/artist/4BgYQaiNNwn3EbRpbBFYQs) | [Azagiya Tamilmagan \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/2TbIygsV5OBPugEA04aTcy) | 3:05 | 2022-02-08 | 2025-01-10 |
 | [Poo Mudhal Pen Varai](https://open.spotify.com/track/6eHVWYpKCeqKkGwSyjPz7a) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Theeratha Vilayaatu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JutgYHaEXEC32O2FUbo1U) | 4:35 | 2022-02-08 | 2024-12-29 |
+| [Pookadai](https://open.spotify.com/track/57Uo0uStYjLnOBfwFVlGqP) | [8c sam](https://open.spotify.com/artist/1VogXncDsNB2ufaktmigkx), [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63) | [Pookadai](https://open.spotify.com/album/3XR0USvx7UKiKCLRvlPO2p) | 2:52 | 2025-10-01 |  |
 | [Por Por](https://open.spotify.com/track/1u3QxSAsiGj1XTAGJJMmQf) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Michael \(Tamil\)](https://open.spotify.com/album/4eE9faqjsq3QpDErYDQjxL) | 2:24 | 2023-02-06 | 2023-07-20 |
 | [Por Veeran \(Azadi\) \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Por Veeran \(Azadi\) \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS) | 3:13 | 2024-10-19 | 2025-09-09 |
 | [Porattam \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/7CcxIeSvx9NE2X8EumKGJL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Neeraj Madhav](https://open.spotify.com/artist/2LATypZ1Z4YnoVZ7K8BhVI) | [Porattam \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/4eXKztxH4xyhB5z2DzOSou) | 2:02 | 2022-09-30 | 2025-03-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,016 likes - 336 songs - 17 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,024 likes - 336 songs - 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

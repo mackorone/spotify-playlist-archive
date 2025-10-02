@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-628 songs - 1 day 7 hr 57 min
+629 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Criminal Minds](https://open.spotify.com/track/2rGv08UOtSl44xt7SC17zR) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Criminal Minds](https://open.spotify.com/album/6sdJwA6KueRhCENEa7ocEe) | 3:05 | 2022-06-30 | 2022-07-29 |
 | [Criminal Minds](https://open.spotify.com/track/661SaL85Dv0NV0wGhClHeq) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Criminal Minds](https://open.spotify.com/album/7IQ56ZSM0RjCz7gZVTFuZF) | 3:05 | 2022-07-28 | 2022-08-19 |
 | [Cyanide](https://open.spotify.com/track/2sAYITKPDWEWyIinEh6hSO) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Noubya](https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud) | [Cyanide](https://open.spotify.com/album/2nEf8KkMp1TOfaQOYIm9yl) | 2:07 | 2025-04-03 | 2025-05-08 |
+| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 |  |
 | [Dance All Night](https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Dance All Night](https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX) | 2:52 | 2024-09-19 |  |
 | [Dance Therapy](https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN) | [Dance Therapy](https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa) | 2:05 | 2024-05-30 | 2025-05-30 |
 | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Hi\-Gate](https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv) | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ) | 2:41 | 2024-05-30 |  |
@@ -292,7 +293,7 @@
 | [Komtie \(Kom Tie Dan He!\)](https://open.spotify.com/track/4eKzx7tcRxOLpa4QWmRHse) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv), [DJ Norman](https://open.spotify.com/artist/4FDKMnyCDqoLQqmZOnNJH4) | [Komtie \(Kom Tie Dan He!\)](https://open.spotify.com/album/6YhNFiGoXIOlXy8q8g4feC) | 2:22 | 2023-06-08 | 2023-09-15 |
 | [KUTMUG \- Hardwell & AFROJACK Edit](https://open.spotify.com/track/6xziLieZ6PAJYJqlhXKPlj) | [Julian Cross](https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG), [FISION](https://open.spotify.com/artist/5IjHqOhczRkVSQlF2HvlUK), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [KUTMUG \(Hardwell & AFROJACK Edit\)](https://open.spotify.com/album/6pBa0aSKNjbMPOrd2joAfi) | 2:30 | 2025-09-10 |  |
 | [La Bomba](https://open.spotify.com/track/2iVNnBKIRIvl7VtA5iAZhr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [La Bomba](https://open.spotify.com/album/3GKYwf96BVfZIOBswK69Sc) | 2:59 | 2023-02-16 | 2023-10-06 |
-| [La La La](https://open.spotify.com/track/44teMuEcQx41IYoWdRMolu) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [La La La](https://open.spotify.com/album/6ZITdRO6gpcJtgwpawSGxe) | 1:54 | 2025-02-07 |  |
+| [La La La](https://open.spotify.com/track/44teMuEcQx41IYoWdRMolu) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [La La La](https://open.spotify.com/album/6ZITdRO6gpcJtgwpawSGxe) | 1:54 | 2025-02-07 | 2025-10-02 |
 | [LASER](https://open.spotify.com/track/2krJv87d5K071NJ7jbspLD) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [LASER](https://open.spotify.com/album/6Aa5cax0wZODvPMaZd1Yfo) | 2:54 | 2022-07-28 | 2023-01-03 |
 | [Leave A Little Love \- Club Mix](https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love \(Club Mix\)](https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH) | 2:53 | 2022-04-14 | 2022-09-29 |
 | [Les Lacs du Connemara](https://open.spotify.com/track/7BC1IK97sAgN96PNJhKq8u) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Les Lacs Du Connemara](https://open.spotify.com/album/4ymvYRcjhuQiAKHJQslAWa) | 3:13 | 2022-11-17 | 2022-12-27 |

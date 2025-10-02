@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new music by Experimental independent artists\. <a href="spotify:artist:5qK8WYVzvkaBcoe4CDfuyY">KUNTARI</a> on cover\. Artwork by Thami Nabil
+> The best new music by Experimental independent artists\. <a href="spotify:artist:7nfBxjb99prCqaT3wk87u5">Samba Jean\-Baptiste</a> on cover\. Artwork by Thami Nabil
 
-2,098 songs - 6 day 19 hr 3 min
+2,099 songs - 6 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Come Down From the Tree Now](https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt) | [Edsel Axle](https://open.spotify.com/artist/00YusfX57VytvF81253D01) | [Variable Happiness](https://open.spotify.com/album/0PNX72AdXt7VDrkjrBXSlk) | 7:30 | 2023-08-23 | 2023-11-16 |
 | [Comfy Place](https://open.spotify.com/track/578IASw3v1cdtzMPrq254X) | [Shoko Igarashi](https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK) | [Comfy Place](https://open.spotify.com/album/344hmSXinXIbznevcvCt7p) | 3:44 | 2022-06-29 | 2022-08-25 |
 | [Compañera de la pena](https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk) | [REHHLL](https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx) | [Compañera de la pena](https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r) | 3:27 | 2023-10-25 | 2023-11-30 |
+| [compliments & hoopla .mp3](https://open.spotify.com/track/71fzZRtyKoRjWHWR811PTe) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [compliments & hoopla .mp3](https://open.spotify.com/album/32MidnXoYcImqc6ZfBMCOC) | 1:35 | 2025-10-01 |  |
 | [Compromised](https://open.spotify.com/track/3tGQgHuHMQUlfG3SUMujR7) | [Crenoka](https://open.spotify.com/artist/3OOzuCj2DqT9SsgLVjuknP) | [earth capsules](https://open.spotify.com/album/77iqowJ7zGYecT0jakOD8z) | 4:55 | 2022-04-13 | 2022-06-30 |
 | [Connotes Beauty](https://open.spotify.com/track/7IDiphQDYTrR6za5qWU8M5) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Connotes Beauty](https://open.spotify.com/album/2SYILPGpVVbVxVD62OBtRs) | 3:50 | 2021-06-24 | 2021-08-25 |
 | [Consider This](https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB) | [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF), [Matthew Bourne](https://open.spotify.com/artist/2gj26qPHNxw4PByxx0GBZp) | [Hand To Mouth](https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX) | 3:38 | 2025-05-07 |  |
@@ -1144,7 +1145,7 @@
 | [Mind](https://open.spotify.com/track/3wIegWBXJ2COZWXGfNERIS) | [Laksa](https://open.spotify.com/artist/6SitppNJBatzwwW1cmuQ3q) | [Mind](https://open.spotify.com/album/6DRWTHYU2lhICIprZLemcO) | 5:03 | 2023-03-15 | 2023-04-13 |
 | [Mind Era](https://open.spotify.com/track/3b0EPvZqJV2BYe599jrhEd) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 4:32 | 2023-11-15 | 2023-11-30 |
 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 | 2022-04-13 | 2022-06-30 |
-| [Mirabilis](https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Igor Božanić](https://open.spotify.com/artist/5ObKVcjRF7bYuBZqZwzVxH) | [Wondrous is the Silence of My Master OST](https://open.spotify.com/album/6A2rmvDWz9ORqwGDeFEpfH) | 2:11 | 2025-07-30 |  |
+| [Mirabilis](https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Igor Božanić](https://open.spotify.com/artist/5ObKVcjRF7bYuBZqZwzVxH) | [Wondrous is the Silence of My Master OST](https://open.spotify.com/album/6A2rmvDWz9ORqwGDeFEpfH) | 2:11 | 2025-07-30 | 2025-10-02 |
 | [Mirage](https://open.spotify.com/track/6WC8XDBAqxhf1CIB3jpr8z) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha) | [Paloma Vs Virus 005](https://open.spotify.com/album/1jjbwANQ9GMwXs0fTVjugS) | 2:33 | 2021-10-07 | 2021-11-30 |
 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 | 2023-03-15 | 2023-05-11 |
 | [Misava the Arrival](https://open.spotify.com/track/3jLjNanjTm9iBnl0LaMnU5) | [Bantu Spaceship](https://open.spotify.com/artist/2Z2iXWPO3sG1xBSFM6D5to) | [Bantu Spaceship](https://open.spotify.com/album/1ljqpFwuUZQ4kCQqvLFh4V) | 3:02 | 2023-03-22 | 2023-05-11 |

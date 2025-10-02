@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,130 songs - 2 day 12 hr 52 min
+1,131 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Faraan Wali Jacket](https://open.spotify.com/track/3wegjKSitvYzMkMFK7k1uf) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Faraan Wali Jacket](https://open.spotify.com/album/7pYdafq9rcESqXbOO8rhlM) | 4:20 | 2023-01-19 | 2023-02-04 |
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
 | [Farishtay](https://open.spotify.com/track/5AWafAeCTiO3X5uikEne4t) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Farishtay](https://open.spotify.com/album/5UMrdMZ0sBh9U9GevN74l8) | 2:45 | 2024-08-20 | 2025-08-22 |
-| [Favourite](https://open.spotify.com/track/4U9xPDD1kTXyhODtgzXfv3) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv), [Chann Angrez](https://open.spotify.com/artist/0MLdGAgigACEcBszJgvnua) | [Favourite](https://open.spotify.com/album/4od0NZWgJnkxYwF511rdfr) | 2:42 | 2025-09-02 |  |
+| [Favourite](https://open.spotify.com/track/4U9xPDD1kTXyhODtgzXfv3) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv), [Chann Angrez](https://open.spotify.com/artist/0MLdGAgigACEcBszJgvnua) | [Favourite](https://open.spotify.com/album/4od0NZWgJnkxYwF511rdfr) | 2:42 | 2025-09-02 | 2025-10-02 |
 | [Fear of Love](https://open.spotify.com/track/3ijYvTY2qRlaiAn6LMmabp) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shraddha Patray](https://open.spotify.com/artist/19L69xME7li2nHPJBGbvKg), [Prince 810](https://open.spotify.com/artist/5L9ygnSgy5W0Is4m8iRTM1) | [Fear of Love](https://open.spotify.com/album/1NgFiNTVtkJxYsdH9J7j95) | 3:19 | 2024-07-30 | 2024-09-03 |
 | [Feel Safe](https://open.spotify.com/track/4m268S7e5ttPQQbFRM8Ah0) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Feel Safe](https://open.spotify.com/album/6ZR6Il83UooDKFMUqR7QnT) | 2:41 | 2022-08-19 | 2023-02-02 |
 | [Feel Safe](https://open.spotify.com/track/6tAxhowakXIqZ1nxgsz9YX) | [Harpinder Gill](https://open.spotify.com/artist/5PxQ3JnQJ8mKv8lqU48B4U) | [Feel Safe](https://open.spotify.com/album/0rU0CrrpYCBovRgdxfPGf0) | 3:10 | 2022-10-11 | 2023-02-02 |
@@ -659,6 +659,7 @@
 | [Moonglade](https://open.spotify.com/track/4Tiy5veKfyUfSjpHMNqPV3) | [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Moonglade](https://open.spotify.com/album/728QDtU7zh9qh1hJkDIL9k) | 3:06 | 2022-11-17 | 2023-02-02 |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2021-12-02 | 2022-12-16 |
 | [More Beautiful](https://open.spotify.com/track/76aY5JVqZLomyY4jT063KD) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [More Beautiful](https://open.spotify.com/album/17wwh3rnGOdUH26BuarvrO) | 2:30 | 2025-06-18 | 2025-07-10 |
+| [Morni](https://open.spotify.com/track/7fUu37cIAwYkG9qRRH29VH) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Gilloriouus](https://open.spotify.com/album/3oM4aQkvSoHe83Phy2FSq5) | 2:56 | 2025-10-01 |  |
 | [Morni](https://open.spotify.com/track/4QdDTR7XcgHfYhpKmkgYL4) | [Pavvy Virk](https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX) | [Morni](https://open.spotify.com/album/1DTXPbMDvoXGKjRtSkom6j) | 3:20 | 2022-08-31 | 2022-09-03 |
 | [Morniye](https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:32 | 2023-11-28 | 2023-12-12 |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |

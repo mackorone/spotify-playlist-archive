@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 159333,
       "name": "Fairytale of New York",
       "url": "https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 145482,
       "name": "Fairytale of New York",
       "url": "https://open.spotify.com/track/4i9PDb4PZYhf2mHZWdlVxx"
@@ -1072,6 +1072,24 @@
       "duration_ms": 157500,
       "name": "Home for the Holidays (Instrumental Version)",
       "url": "https://open.spotify.com/track/2w2pafEMaKxEmK2K3eZYEo"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus & Jingle Bells",
+        "url": "https://open.spotify.com/album/00cPDyKSf7j1lZKThekCfq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Martins",
+          "url": "https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174566,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/1z58bfw6hdvZTcNUqORPS1"
     },
     {
       "album": {

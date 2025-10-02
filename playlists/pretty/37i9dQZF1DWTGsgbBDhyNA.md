@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Y esa playlist nueva? 👀 Genuinamente las rolitas más virales para andar con madre… o no? por Aldo De Nigris
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,493 likes - 41 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,172 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 39 | [Popurrí De Micky](https://open.spotify.com/track/4yVGBoaGLgOEvVP08wOMIU) | [Paco Barrón y sus Norteños Clan](https://open.spotify.com/artist/1Uz4WPsI4VylKT6lhJiDO5) | [Norteños De Corazon Puro](https://open.spotify.com/album/7mr22MHwV7oa5KIJ3NtLW9) | 5:12 |
 | 40 | [Agüita De Coco](https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/3j5xMGA9BmUE77O512excf) | 3:01 |
 | 41 | [EL GATO MALANDRIN \(PASSION VALLENATA EN VIVO\) \- En vivo](https://open.spotify.com/track/0OLvq5yGkAdhiO4DsoCdsM) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [EL GATO MALANDRIN \(PASSION VALLENATA EN VIVO\) \[En vivo\]](https://open.spotify.com/album/3ZGlIRL1TGzXbJq6bST0K4) | 4:29 |
+| 42 | [Viernes De Peligro](https://open.spotify.com/track/6oPpP5Q9W3x1tliIOMvMso) | [La Nueva Ola de Cumbia](https://open.spotify.com/artist/1i8V0JVW4GJxg5mgcocreK) | [Viernes De Peligro](https://open.spotify.com/album/3cHoXUoQxETiVfKLbLGZkr) | 3:01 |
 
-Snapshot ID: `AAAAAOqTnJczUkSJ7dZiGqCBdW5VTlh6`
+Snapshot ID: `AAAAAF/9mQ3yD3eEMkjiUIAnIsAjHdvE`

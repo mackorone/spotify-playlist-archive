@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [K\-OST Center \(Korean OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 컨피던스맨 KR\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730,419 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,730,304 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Got Me Good](https://open.spotify.com/track/3M2JSpzTrNNyN3dIH1f98P) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Confidence Queen \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/50oy93oxfzJT39vahuxyqj) | 3:03 |
-| 2 | [Refresh!](https://open.spotify.com/track/3IADXVr5gLIYzxifer9zFH) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [To The Moon, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/25G6zBCoaAbZxAORbFImB0) | 2:37 |
-| 3 | [Nowhere](https://open.spotify.com/track/2ds5XzqdfpL4TKyBaTJ822) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Nowhere \(From A Hundred Memories\)](https://open.spotify.com/album/6IYEBlgA94qiGhRu8wqJIe) | 3:55 |
-| 4 | [I will let go](https://open.spotify.com/track/04dgxVUkSV4poDWfeBdfGy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/6sTWqJbo4bY7pyiW25epDb) | 4:35 |
+| 1 | [I will let go](https://open.spotify.com/track/04dgxVUkSV4poDWfeBdfGy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/6sTWqJbo4bY7pyiW25epDb) | 4:35 |
+| 2 | [Got Me Good](https://open.spotify.com/track/3M2JSpzTrNNyN3dIH1f98P) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Confidence Queen \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/50oy93oxfzJT39vahuxyqj) | 3:03 |
+| 3 | [Refresh!](https://open.spotify.com/track/3IADXVr5gLIYzxifer9zFH) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [To The Moon, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/25G6zBCoaAbZxAORbFImB0) | 2:37 |
+| 4 | [Nowhere](https://open.spotify.com/track/2ds5XzqdfpL4TKyBaTJ822) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Nowhere \(From A Hundred Memories\)](https://open.spotify.com/album/6IYEBlgA94qiGhRu8wqJIe) | 3:55 |
 | 5 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 |
 | 6 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2ufbSqJHgI1JBo3LzUB6uM) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Close To You \(From A Hundred Memories\)](https://open.spotify.com/album/7eMDQG5FhkN4IfI7rKasnT) | 3:55 |
 | 7 | [REASON](https://open.spotify.com/track/2M3u74Q1IK5yI3CB9ku3aG) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
 | 100 | [Bird Song](https://open.spotify.com/track/5t4gFAD6xd9WsacZP32uxU) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The potato lab, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4eUdm8UPPfMEKNN0deQY8u) | 3:30 |
 
-Snapshot ID: `AAAAAAPZ0GYxQDWhcY9stF/T5JiZZjao`
+Snapshot ID: `AAAAANVwzF+QE6texDTjpIANQrfznSX0`

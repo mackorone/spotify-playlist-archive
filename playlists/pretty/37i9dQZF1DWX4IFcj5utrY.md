@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: TRESOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,319 likes - 66 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,415 likes - 66 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 65 | [Coke Water](https://open.spotify.com/track/3ELcYge9PNSTfJQcxnCdKb) | [Spirit\-Boyz](https://open.spotify.com/artist/6AJbgTSjqsI3NP6rGcGNbh), [Sedii\_M](https://open.spotify.com/artist/2lHtmiMXL6I6WpJsFvAP8Z), [Malemon](https://open.spotify.com/artist/6cs1bOgbQNCeY9fxkkUcRq) | [Coke Water](https://open.spotify.com/album/4CYUTilHveCYEczzUgtkqZ) | 5:45 |
 | 66 | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/track/34eKUydsaj9GeMTT1ybutO) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/album/4bhZZ9oHQ6wb8Lpke7nQql) | 6:21 |
 
-Snapshot ID: `AAAAABYzn6GIZ6xs2UyePFflCssRCXLD`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

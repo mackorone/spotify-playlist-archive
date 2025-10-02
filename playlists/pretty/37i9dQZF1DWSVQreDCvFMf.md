@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: BGYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,809 likes - 195 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,869 likes - 195 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

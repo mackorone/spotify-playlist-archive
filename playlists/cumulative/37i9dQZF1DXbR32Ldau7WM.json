@@ -13171,6 +13171,24 @@
     },
     {
       "album": {
+        "name": "The Beyond",
+        "url": "https://open.spotify.com/album/3zJgwMN7ztFUOHOsZPxCtY"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "The Beyond",
+      "url": "https://open.spotify.com/track/3NhdX5K3gCxDF69nBWDOTh"
+    },
+    {
+      "album": {
         "name": "#7",
         "url": "https://open.spotify.com/album/0vhO4pPl2Jw4uez4aRbtHY"
       },
@@ -13912,24 +13930,6 @@
       "duration_ms": 326773,
       "name": "Towards the Sun",
       "url": "https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
-        }
-      ],
-      "date_added": "2025-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3NhdX5K3gCxDF69nBWDOTh"
     },
     {
       "album": {

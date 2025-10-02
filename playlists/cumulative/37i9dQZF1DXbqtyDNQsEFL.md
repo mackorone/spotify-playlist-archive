@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze
 
-613 songs - 2 day 8 hr 10 min
+614 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [I Receive Your Light \(feat\. Magpsalms\) \- Remix](https://open.spotify.com/track/2mjArWhZYBBCrn02oS9G0c) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Magpsalms](https://open.spotify.com/artist/2qjtKb2BJ1ZJ9BQL5XNXo3) | [I Receive Your Light \(feat\. Magpsalms\) \[Remix\]](https://open.spotify.com/album/1yTUzr9tTKReKGwgvgMHQ1) | 8:59 | 2023-11-17 | 2024-01-19 |
 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 | 2023-12-05 | 2023-12-11 |
 | [I surrender](https://open.spotify.com/track/2vYX9gNqqhWFfOhVJGnlLd) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [I surrender](https://open.spotify.com/album/0nrwP6PN2SmSa0Ulttccwo) | 2:51 | 2025-07-04 | 2025-07-25 |
+| [I surrender](https://open.spotify.com/track/4OTZiVgPtkJsYAftgOIQEu) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [I surrender](https://open.spotify.com/album/3Nm2FBMLY48THNMIi9IPRs) | 5:26 | 2025-08-08 |  |
 | [I Want To See You](https://open.spotify.com/track/3p6i5Nvr0I68LwbVWkTj7N) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [I Want To See You](https://open.spotify.com/album/69qfCg1up2LPx9iLfwshtL) | 2:50 | 2024-10-25 | 2024-11-30 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-12-15 | 2024-04-19 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-30 | 2024-04-26 |
@@ -562,7 +563,7 @@
 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2022-10-14 | 2022-11-05 |
 | [We Receive](https://open.spotify.com/track/4kGAazr7iKd4ZXOtbR1mW7) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 15:13 | 2022-10-14 | 2022-11-05 |
 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 | 2023-06-16 | 2023-07-28 |
-| [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 |  |
+| [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 | 2025-10-02 |
 | [WENA \(YHWH\)](https://open.spotify.com/track/3Xwi5BhHQZrJ02A5l3iVXB) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [WENA \(YHWH\)](https://open.spotify.com/album/48TQfy14dBov7JsJYMpGV3) | 2:55 | 2025-07-25 | 2025-09-12 |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-25 | 2023-09-08 |
 | [What the Lord Has Done](https://open.spotify.com/track/0uBrewYuraJdPVVla0kaSP) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [What the Lord Has Done](https://open.spotify.com/album/5qjmj4ORlNrBKjRvlYdILX) | 8:23 | 2024-05-03 | 2024-05-24 |

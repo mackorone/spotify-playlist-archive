@@ -2,7 +2,7 @@
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Playlist réalisée avec THÉA \(du titre \#1 au \#20\).
+> Les femmes montent le son\. Playlist réalisée avec Miki \(du titre \#1 au \#16\).
 
 1,704 songs - 3 day 16 hr 45 min
 

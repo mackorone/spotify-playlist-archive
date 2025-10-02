@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 41949,
+  "num_followers": 41943,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/5MBXtk3exQrlbR0n8jsuec"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/2v4wmPnKa2OEXhOeWdNJV2"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
         "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 185906,
       "name": "Don\u2019t Give Up!!",
       "url": "https://open.spotify.com/track/2RdqzMiVozJiZPA89SGKdE"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "\u65b0\u6625\u3089\u3073\u3085\u3063\u3068\uff01",
+      "url": "https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/5MBXtk3exQrlbR0n8jsuec"
       },
       "artists": [
         {
@@ -1208,25 +1208,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 186226,
-      "name": "\u65b0\u6625\u3089\u3073\u3085\u3063\u3068\uff01",
-      "url": "https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
-        "name": "\u30ca\u30df\u30c0\u30e1",
-        "url": "https://open.spotify.com/album/1zYayr9HkFUjZlbv4C4zUZ"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 238404,
-      "name": "\u30ca\u30df\u30c0\u30e1",
-      "url": "https://open.spotify.com/track/7eI11v0S0SpB896efwVkCX"
+      "duration_ms": 244186,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/2v4wmPnKa2OEXhOeWdNJV2"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1243,6 +1227,22 @@
       "duration_ms": 218253,
       "name": "\u624b\u3092\u3064\u306a\u3044\u3067\u6b69\u3053\u3046",
       "url": "https://open.spotify.com/track/0i4m7S9avadyMHkg7yMNCk"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "\u30ca\u30df\u30c0\u30e1",
+        "url": "https://open.spotify.com/album/1zYayr9HkFUjZlbv4C4zUZ"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 238404,
+      "name": "\u30ca\u30df\u30c0\u30e1",
+      "url": "https://open.spotify.com/track/7eI11v0S0SpB896efwVkCX"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/4uthqzojX4HGbgDgI18Nng"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "Flowering palettes",
-      "url": "https://open.spotify.com/track/5g0oEwrd8gQqk2JJ167hNY"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "Here We Go!!",
         "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 201186,
       "name": "\u9752\u6625\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 - Christmas Version",
       "url": "https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/4uthqzojX4HGbgDgI18Nng"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Flowering palettes",
+      "url": "https://open.spotify.com/track/5g0oEwrd8gQqk2JJ167hNY"
     }
   ],
   "unique_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",

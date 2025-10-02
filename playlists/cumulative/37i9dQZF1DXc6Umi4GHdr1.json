@@ -5973,6 +5973,24 @@
     },
     {
       "album": {
+        "name": "Soft Bound",
+        "url": "https://open.spotify.com/album/4SgWULWI4GT4S1zF28onG0"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152648,
+      "name": "Soft Bound",
+      "url": "https://open.spotify.com/track/1vHdne52QZxlHgS2GuDJNq"
+    },
+    {
+      "album": {
         "name": "Sommersby",
         "url": "https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH"
       },
@@ -6765,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "The Rain Comes",
+        "url": "https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160481,
+      "name": "The Rain Comes",
+      "url": "https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG"
+    },
+    {
+      "album": {
         "name": "The Relaxing One",
         "url": "https://open.spotify.com/album/5SCMUBbunDL4RnEdb8wtWp"
       },
@@ -6996,6 +7032,24 @@
       "duration_ms": 212001,
       "name": "Tiffany Falls",
       "url": "https://open.spotify.com/track/64DGZauPKihie7TgNccWD3"
+    },
+    {
+      "album": {
+        "name": "Time and Place",
+        "url": "https://open.spotify.com/album/1WTakpwWY5PKIthddkNPKz"
+      },
+      "artists": [
+        {
+          "name": "Jasper Lynx",
+          "url": "https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Time and Place",
+      "url": "https://open.spotify.com/track/465NurnKJ1EsWgaC22fcPF"
     },
     {
       "album": {
@@ -7486,7 +7540,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 144074,
       "name": "Vi\u00f1a del Mar",
       "url": "https://open.spotify.com/track/157jiCEqa3UihOdwBpQQao"

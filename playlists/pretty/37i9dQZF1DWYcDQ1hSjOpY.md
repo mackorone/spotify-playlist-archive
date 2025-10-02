@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074,741 likes - 348 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,891 likes - 348 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 347 | [From This Day On](https://open.spotify.com/track/2qlCF0JWVeYCuoseeFndmA) | [Visual Flow](https://open.spotify.com/artist/1JWRuM0jwY2GwjWbCoMKCv) | [From This Day On](https://open.spotify.com/album/5dYaoH2nV8huVrzHu9c5XG) | 2:59 |
 | 348 | [Deep Under](https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Deep Under](https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0) | 2:29 |
 
-Snapshot ID: `AAAAAOF6a5XaxkXVTISFRAcp6z5ppzPh`
+Snapshot ID: `AAAAAHBzhYjE3h65dk6aqauynMeKTiB2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,411 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,427 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 27 | [Wir lassen Drachen steigen](https://open.spotify.com/track/0QyVx9G9Q9QoUmCyFTPUK6) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm) | [Wir lassen Drachen steigen \- In den Herbst mit Kalle Klang](https://open.spotify.com/album/76wd7S1ucbQqC307kEWFIr) | 2:43 |
 | 28 | [Danke](https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Kommt, wir wolln Laterne laufen](https://open.spotify.com/album/6zeXEvQUwV55xFB8hSE9nT) | 2:36 |
 | 29 | [Die Kürbisfamilie](https://open.spotify.com/track/4U1hPQsPnTePxMcgc0jSP4) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für den Herbst](https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF) | 2:47 |
-| 30 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
-| 31 | [Hallo Herbst](https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Herbst](https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s) | 2:43 |
+| 30 | [Hallo Herbst](https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Herbst](https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s) | 2:43 |
+| 31 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
 | 32 | [Langsam zieht der Herbst in's Land](https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen noch mehr Kinderlieder a cappella, Vol\. 3](https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD) | 1:38 |
 | 33 | [Was zieh' ich an?](https://open.spotify.com/track/7wjAQJBv8H2xM4FR1hxiJm) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Herbst + Winter](https://open.spotify.com/album/0Av6IM3nN41CuQ6E3VWRsI) | 3:01 |
 | 34 | [Der Herbst ist da](https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 1:49 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 43 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 |
 | 44 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 |
 | 45 | [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 |
-| 46 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
-| 47 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
+| 46 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
+| 47 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
 | 48 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
 | 49 | [Bunte Blätter \(Herbstlied\)](https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Die Herbstzeit ist da: 20 schönste Kinderlieder im Herbst](https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi) | 1:45 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |

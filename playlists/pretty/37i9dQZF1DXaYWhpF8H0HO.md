@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Amanda Caesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,197 likes - 97 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,195 likes - 97 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 7 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 |
 | 8 | [Do I Matter?](https://open.spotify.com/track/3XcmjyiIE4L4BaoKJ9MyUH) | [syauu](https://open.spotify.com/artist/0DPiScXk2cvmh1cjWu9jaT) | [Do I Matter?](https://open.spotify.com/album/4AeuB5Z6ujkNMrUh9jp3WF) | 5:27 |
 | 9 | [Love, Again \(feat\. RIMALDI\)](https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Love, Again \(feat\. RIMALDI\)](https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD) | 3:13 |
-| 10 | [stasis](https://open.spotify.com/track/2wDbO57z9mAGligAmR3j5T) | [brrr](https://open.spotify.com/artist/3vrbcpXGhZhRuD7gihiOnl), [Palel Atmoko](https://open.spotify.com/artist/7pra5IYvQAAK9HBQStt5vM) | [stasis](https://open.spotify.com/album/1RkAMBCqWjmoEzYYRKdtrV) | 4:13 |
+| 10 | [stasis](https://open.spotify.com/track/2wDbO57z9mAGligAmR3j5T) | [Brrr](https://open.spotify.com/artist/6GPnBHfoRjnVmIVfeacB3I) | [stasis](https://open.spotify.com/album/1RkAMBCqWjmoEzYYRKdtrV) | 4:13 |
 | 11 | [forevermore](https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [forevermore](https://open.spotify.com/album/7rbZZAHxa3yL17Gt6eXSjX) | 3:48 |
 | 12 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
 | 13 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 |

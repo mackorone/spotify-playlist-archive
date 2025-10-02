@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-591 songs - 1 day 0 hr 59 min
+596 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-06-23 |
 | [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 | 2025-02-24 |  |
 | [Here On My Own Again](https://open.spotify.com/track/7N051dt6qiLMLbQ7GLsxKz) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Here On My Own Again](https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn) | 2:14 | 2022-06-17 | 2023-04-29 |
-| [Heritage](https://open.spotify.com/track/5QxS9v4y4RueqedgmkBEuT) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Heritage](https://open.spotify.com/album/3ODJMXsZ6UHftFXAVPL0qn) | 2:05 | 2025-05-13 |  |
+| [Heritage](https://open.spotify.com/track/5QxS9v4y4RueqedgmkBEuT) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Heritage](https://open.spotify.com/album/3ODJMXsZ6UHftFXAVPL0qn) | 2:05 | 2025-05-13 | 2025-10-02 |
+| [Holiday](https://open.spotify.com/track/3ggMiNCvIhBfV94eHKXc9K) | [Manuel Maria Rojas](https://open.spotify.com/artist/4g0gAM7jxFZznUqV75EUxN) | [Holiday](https://open.spotify.com/album/42jWJjZTHJc3jN5XOxRbvr) | 2:54 | 2025-10-01 |  |
 | [Hommage a JT](https://open.spotify.com/track/4sPj6HtAEj7j2W302sUmgz) | [Luth](https://open.spotify.com/artist/4gLCaEykpiJdImDlT5O3am) | [Tierra del Fuego](https://open.spotify.com/album/0WV6eh9KvKbrFiNSRHgbS1) | 3:03 | 2022-06-17 | 2023-03-10 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-28 | 2023-06-23 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2022-06-17 | 2024-07-18 |
@@ -249,6 +250,7 @@
 | [Inland dunes](https://open.spotify.com/track/0p5dJ3qKx5iIBtWXZAVNpa) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Inland dunes](https://open.spotify.com/album/0FYLwRW3I9CeWBkYrlF8iV) | 2:11 | 2022-06-17 | 2022-09-09 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 | 2023-06-23 |
 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 | 2024-03-29 |  |
+| [Into the Great Wide Open](https://open.spotify.com/track/6n4uJgCeX4oXACixVgvkmI) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [Into the Great Wide Open](https://open.spotify.com/album/5GhkjZNNEEIHeezbA1wuiX) | 2:11 | 2025-10-01 |  |
 | [Into the Quiet](https://open.spotify.com/track/6oAi4cX60wuvkZnCwIiQo2) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Into the Quiet](https://open.spotify.com/album/13KZ26PPs5g1D2btIOuXUr) | 2:02 | 2022-06-17 | 2022-12-24 |
 | [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 | 2023-06-22 |  |
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-04-28 | 2023-06-23 |
@@ -304,6 +306,7 @@
 | [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 | 2022-06-17 | 2023-11-24 |
 | [Marvel At The Sky](https://open.spotify.com/track/1p0GiIv44pMkVdfHEZhVbM) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Marvel At The Sky](https://open.spotify.com/album/3DK195qjIawfQacLtFPFSC) | 2:03 | 2022-06-17 | 2023-05-20 |
 | [Marylebone](https://open.spotify.com/track/06AYaxQIhxBrj98jEamqOk) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Marylebone](https://open.spotify.com/album/3PSMw5VfGeWMGL1X86N3gf) | 2:33 | 2024-11-26 |  |
+| [Mayfair](https://open.spotify.com/track/6SEltT23t31AVnF3hdsJln) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Mayfair](https://open.spotify.com/album/1lDwtEjm8G0VtmChxdwq7W) | 2:25 | 2025-10-01 |  |
 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-09 |  |
 | [Mediterranean Rain](https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Mediterranean Rain](https://open.spotify.com/album/3Im6URgqUPJSxc7qQpsgXc) | 2:41 | 2022-06-17 | 2024-04-05 |
 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 | 2023-04-28 | 2023-06-23 |
@@ -422,6 +425,7 @@
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-06-17 | 2023-02-25 |
 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 | 2022-06-17 | 2023-01-20 |
 | [Ripples in the sand](https://open.spotify.com/track/5QZVpjifzC8k1h4f37ro4B) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Ripples in the sand](https://open.spotify.com/album/4a6ck1QSXNh1mk1LEyI57L) | 3:06 | 2024-02-02 | 2025-08-19 |
+| [Ritual](https://open.spotify.com/track/6EbFVwLGzMc6Fm8of3HF38) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Ritual](https://open.spotify.com/album/0iPo5n2H4b5yyfiB4YD7Hq) | 2:41 | 2025-10-01 |  |
 | [Romanza](https://open.spotify.com/track/13Clq7TlG1gB7zfz3WomQp) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Romanza](https://open.spotify.com/album/6gTQuC6ZcqHuVmGTWtF3tR) | 2:20 | 2023-01-20 | 2023-03-25 |
 | [Rome Tivoli](https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Rome Tivoli](https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom) | 1:51 | 2022-09-09 | 2023-09-14 |
 | [Romeo](https://open.spotify.com/track/6p6SkdKACD6Yxv4OTF3RRi) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Romeo](https://open.spotify.com/album/3FY0f4yVshMeNhh9VwYZtl) | 2:57 | 2022-10-07 | 2024-04-05 |
@@ -528,6 +532,7 @@
 | [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 | 2024-09-26 |
 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 | 2023-05-19 | 2025-08-19 |
 | [Through Wildflowers](https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Through Wildflowers](https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi) | 2:00 | 2023-06-09 | 2024-05-10 |
+| [Time and Place](https://open.spotify.com/track/465NurnKJ1EsWgaC22fcPF) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [Time and Place](https://open.spotify.com/album/1WTakpwWY5PKIthddkNPKz) | 2:46 | 2025-10-01 |  |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-23 |
 | [To Say It Once Was](https://open.spotify.com/track/3D7rpE2yBwLFS3pqFZD1hX) | [Nova Lark](https://open.spotify.com/artist/6cZcotbb3ld687qdhgRcG9) | [To Say It Once Was](https://open.spotify.com/album/1PfGLgBwkpTLVn8QQBHOk6) | 2:11 | 2025-03-25 |  |
 | [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 | 2022-10-14 | 2025-03-12 |

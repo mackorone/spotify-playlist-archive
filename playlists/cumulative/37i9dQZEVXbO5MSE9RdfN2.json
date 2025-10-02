@@ -9844,7 +9844,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 149766,
       "name": "Doot Doot (6 7) (Bonus Track)",
       "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
@@ -17750,7 +17750,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 263198,
       "name": "Impose",
       "url": "https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII"
@@ -23786,6 +23786,28 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "album": {
+        "name": "misses x brazil",
+        "url": "https://open.spotify.com/album/6wzpYKIA6FEJ6aC6jROZcL"
+      },
+      "artists": [
+        {
+          "name": "skyemane",
+          "url": "https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ"
+        },
+        {
+          "name": "Sapphink",
+          "url": "https://open.spotify.com/artist/3A1vU9TZUxn4li5CKliyoq"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "misses x brazil",
+      "url": "https://open.spotify.com/track/4HN3VOtkYK2fVAlWsYEEaz"
     },
     {
       "album": {
@@ -31652,7 +31674,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 191660,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7tv8zTisovOo3Xb9KAVOpa"

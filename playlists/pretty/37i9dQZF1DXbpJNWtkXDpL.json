@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92201,
+  "num_followers": 92206,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
+        "name": "FLOR marchita",
+        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9rida",
+          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
+        }
+      ],
+      "duration_ms": 209473,
+      "name": "FLOR marchita",
+      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
         "name": "LLORAR!",
         "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "FLOR marchita",
-        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9rida",
-          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
-        }
-      ],
-      "duration_ms": 209473,
-      "name": "FLOR marchita",
-      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "UN D\u00cdA INOLVIDABLE",
-        "url": "https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK"
-      },
-      "artists": [
-        {
-          "name": "PJAMA",
-          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
-        },
-        {
-          "name": "NETO ROXS",
-          "url": "https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ"
-        }
-      ],
-      "duration_ms": 191544,
-      "name": "UN D\u00cdA INOLVIDABLE",
-      "url": "https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "DESAYUNO CONTINENTAL",
         "url": "https://open.spotify.com/album/26gWSCualjNYdFUyS2FGdE"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 119162,
       "name": "rompopito",
       "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "UN D\u00cdA INOLVIDABLE",
+        "url": "https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK"
+      },
+      "artists": [
+        {
+          "name": "PJAMA",
+          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
+        },
+        {
+          "name": "NETO ROXS",
+          "url": "https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ"
+        }
+      ],
+      "duration_ms": 191544,
+      "name": "UN D\u00cdA INOLVIDABLE",
+      "url": "https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI"
     },
     {
       "added_at": "2025-09-11 00:17:05",

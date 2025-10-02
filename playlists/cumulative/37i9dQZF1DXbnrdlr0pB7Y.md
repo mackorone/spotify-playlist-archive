@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-117 songs - 5 hr 58 min
+119 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,12 +72,14 @@
 | [Lejos De Ti](https://open.spotify.com/track/7fpdfABPSZoTSrv6CSYIsw) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Lejos De Ti](https://open.spotify.com/album/66vBj0KWsYEQUthU4gLmHO) | 3:11 | 2023-12-15 |  |
 | [Lisboa Antigua](https://open.spotify.com/track/2YAVQk1lzcWoNfhgSeAbcy) | [Joaquim da Silva](https://open.spotify.com/artist/1ssOJMbsSC24dNCIzuof7r) | [Lisboa Antigua](https://open.spotify.com/album/4VegrkVCRH26FZlHPXN9oL) | 2:37 | 2023-12-15 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2023-12-15 |  |
+| [Maré Suave](https://open.spotify.com/track/6GDKt7pRMFopM771SvTKWc) | [Tania Ramone](https://open.spotify.com/artist/37txy9qJzWczhliucVJQFZ) | [Maré Suave](https://open.spotify.com/album/2vjyoykyeXdpcXmR8Cimmc) | 2:27 | 2025-10-01 |  |
 | [Mate Dulce y Amargo](https://open.spotify.com/track/0u6r9d3mjMfIJ3FF4RW4k9) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Mate Dulce y Amargo](https://open.spotify.com/album/3U0ywmyP4MKnpv6BSaBAjv) | 2:58 | 2023-12-15 |  |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2023-12-15 |  |
 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 | 2023-12-15 |  |
 | [MIA \(Acoustic Cover\)](https://open.spotify.com/track/5J42gkKWho5iHm8JTOO0uE) | [Bruno Elisabetsky](https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ) | [MIA \(Acoustic Cover\)](https://open.spotify.com/album/013OQf5I0OmgLdzZcjhR0k) | 3:20 | 2023-12-15 | 2025-05-29 |
 | [No Te Mentí](https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:04 | 2023-12-15 |  |
 | [No Te Vayas](https://open.spotify.com/track/6J7JikIQ1IqUKeGCnYaK8w) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:45 | 2023-12-15 |  |
+| [Noites na Lapa](https://open.spotify.com/track/2VPARXiSDZVf3FvQzr3csd) | [Márcia e a Galera](https://open.spotify.com/artist/2LKq7PNAkYMWnDNhg23XNP) | [Noites na Lapa](https://open.spotify.com/album/4KQiYHsiJsZv4LrNq2afKq) | 2:33 | 2025-10-01 |  |
 | [Nostalgia](https://open.spotify.com/track/0qHJd9jqgclHWGouSXRcOz) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Nostalgia](https://open.spotify.com/album/38o8v1HxQz6vrJd0yPn1Ep) | 3:15 | 2023-12-15 |  |
 | [Nostalgias De Buenos Aires](https://open.spotify.com/track/0VYl6MeDfICsBCiopYfv0a) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Nostalgias De Buenos Aires](https://open.spotify.com/album/6FacXnHauYiGZk85L6R0LU) | 3:17 | 2023-12-15 |  |
 | [Nueve Meses](https://open.spotify.com/track/4zBSRp31EokfMNXqzjTQCs) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:03 | 2023-12-15 | 2025-02-25 |

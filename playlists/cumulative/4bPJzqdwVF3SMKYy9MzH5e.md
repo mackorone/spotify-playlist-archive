@@ -4,7 +4,7 @@
 
 > 
 
-2,272 songs - 5 day 1 hr 59 min
+2,273 songs - 5 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1633,6 +1633,7 @@
 | [Repo](https://open.spotify.com/track/35iQIXGIxGGNQum4KZaxkF) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Repo](https://open.spotify.com/album/63NTP8ZQgqj3VO0gtJNZoK) | 1:40 | 2021-08-05 |  |
 | [Reshape](https://open.spotify.com/track/0iIoCfiv0dnIDdo4IQOtHP) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 4:39 | 2025-07-17 |  |
 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-08-05 |  |
+| [Restlessness](https://open.spotify.com/track/5xqh7CfTruUxz8Nu5ECNlW) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Skitzofrenia Simulation](https://open.spotify.com/album/1xPlkO690CiBEwodg1HaN7) | 3:28 | 2025-10-01 |  |
 | [Return to Zero Возвращайся Beztebya \- Slowed Reverb](https://open.spotify.com/track/5INzvllYMlajboTg4dcTIw) | [Marc Acardipane](https://open.spotify.com/artist/2hyRTXUyfd56j4siLF4zJx), [angel vox](https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw), [Dayerteq](https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd) | [Return to Zero Возвращайся Beztebya](https://open.spotify.com/album/6V23ydJxx6VErSJvN7AIaK) | 2:16 | 2024-07-07 |  |
 | [Revolutionize](https://open.spotify.com/track/5ZRskCjLCZcdI3FjbZNpAb) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:44 | 2021-08-05 |  |
 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 | 2024-07-02 |  |

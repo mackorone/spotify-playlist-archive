@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 47989,
+  "num_followers": 48034,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 177600,
       "name": "Wrong Places",
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -691,22 +671,22 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         },
         {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 187351,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
+      "duration_ms": 165714,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -723,6 +703,26 @@
       "duration_ms": 156000,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 187351,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "DIANA",
         "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 140481,
       "name": "DIANA",
       "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "Showboy",
-        "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
-      },
-      "artists": [
-        {
-          "name": "Spy Shitta",
-          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 141269,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "Best Couple (feat. Rudeboy)",
         "url": "https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 174418,
       "name": "Best Couple (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "Showboy",
+        "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
+      },
+      "artists": [
+        {
+          "name": "Spy Shitta",
+          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 141269,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
+      },
+      "artists": [
+        {
+          "name": "STUBBORN",
+          "url": "https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 167198,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 153803,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
-      },
-      "artists": [
-        {
-          "name": "STUBBORN",
-          "url": "https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM"
-        },
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        }
-      ],
-      "duration_ms": 167198,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
     },
     {
       "added_at": "2025-09-26 00:01:27",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
-        "name": "ADA",
-        "url": "https://open.spotify.com/album/4Osfrf7ymT1xzP4w0btQpZ"
-      },
-      "artists": [
-        {
-          "name": "Egar Boi",
-          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
-        }
-      ],
-      "duration_ms": 160363,
-      "name": "ADA",
-      "url": "https://open.spotify.com/track/2kakVmaqgHWrVs0hUxLvEH"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
         "name": "Love Like Poison",
         "url": "https://open.spotify.com/album/1Nk1if4shW0e0hJNOlKDap"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 185617,
       "name": "Love Like Poison",
       "url": "https://open.spotify.com/track/087nQXfOCaa5vNrKNMSSvx"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "ADA",
+        "url": "https://open.spotify.com/album/4Osfrf7ymT1xzP4w0btQpZ"
+      },
+      "artists": [
+        {
+          "name": "Egar Boi",
+          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
+        }
+      ],
+      "duration_ms": 160363,
+      "name": "ADA",
+      "url": "https://open.spotify.com/track/2kakVmaqgHWrVs0hUxLvEH"
     },
     {
       "added_at": "2025-09-26 00:01:27",

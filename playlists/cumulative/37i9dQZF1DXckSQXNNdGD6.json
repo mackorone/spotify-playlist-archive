@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto:  Alice Wonder.",
+  "description": "La banda sonora de tu orgullo. Foto:  David Rees.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 157113,
       "name": "2 SHAWTYS",
       "url": "https://open.spotify.com/track/6SE9N1CGodpeFDgLE2Jr36"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/6yqNx1ROZUgdP3YeLj028W"
+      },
+      "artists": [
+        {
+          "name": "Lucia De la Puerta",
+          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/33YIXkbueflRjBkxDAHZwo"
+    },
+    {
+      "album": {
         "name": "Aitana O'Ca\u00f1a",
         "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 160551,
       "name": "ARAKI",
       "url": "https://open.spotify.com/track/2ffjpbNz4sgK23yW6nVk7b"
@@ -506,6 +524,24 @@
       "duration_ms": 170322,
       "name": "Ave Mar\u00eda Put\u00edsima",
       "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
+    },
+    {
+      "album": {
+        "name": "Tus Cosas En Una Caja (Deluxe)",
+        "url": "https://open.spotify.com/album/5QObzw8RDkekcaheeUi8Rn"
+      },
+      "artists": [
+        {
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124695,
+      "name": "Avril Lavigne",
+      "url": "https://open.spotify.com/track/60bTk1SlT5iqTe8Ns7LKaW"
     },
     {
       "album": {
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 156460,
       "name": "Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6"
@@ -1224,6 +1260,28 @@
       "duration_ms": 225000,
       "name": "Disfraz de tigre",
       "url": "https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL"
+    },
+    {
+      "album": {
+        "name": "DISPARA",
+        "url": "https://open.spotify.com/album/70saYIR9vLQvJ0ETXIcCBN"
+      },
+      "artists": [
+        {
+          "name": "mxren",
+          "url": "https://open.spotify.com/artist/7lQK81nWNEGGNMrXmmA7TI"
+        },
+        {
+          "name": "Pupi Poisson",
+          "url": "https://open.spotify.com/artist/2mgr9vzB7VF10t1S5x20yn"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "DISPARA",
+      "url": "https://open.spotify.com/track/6aGG1DZMVvySSJMHc68hN4"
     },
     {
       "album": {
@@ -1614,7 +1672,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 173793,
       "name": "Full Lace y el Tuck",
       "url": "https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd"
@@ -2127,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/4hw56VCaTeBPYbd0Ljs4Js"
+      },
+      "artists": [
+        {
+          "name": "Celia Becks",
+          "url": "https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157045,
+      "name": "Insomnio",
+      "url": "https://open.spotify.com/track/2hFYfcVW8gI3dRUgCUtctM"
+    },
+    {
+      "album": {
         "name": "Intacto",
         "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
       },
@@ -2204,7 +2280,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 185076,
       "name": "JANGUEA",
       "url": "https://open.spotify.com/track/5bWdjAXpm5CZwYczoxktRm"
@@ -2320,7 +2396,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 274887,
       "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
       "url": "https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu"
@@ -2346,6 +2422,24 @@
       "duration_ms": 177400,
       "name": "La Perra de Despe\u00f1aperros (Seg\u00fan Sta. Francisca)",
       "url": "https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N"
+    },
+    {
+      "album": {
+        "name": "la victoria",
+        "url": "https://open.spotify.com/album/1f26pxJqxIsVABKGkg00yO"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196020,
+      "name": "la victoria",
+      "url": "https://open.spotify.com/track/2nVZyNOFeTqPKHDk5NEAUC"
     },
     {
       "album": {
@@ -2560,7 +2654,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 138428,
       "name": "LL\u00c1MAME",
       "url": "https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw"
@@ -2614,7 +2708,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 155749,
       "name": "Lunytunes",
       "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
@@ -2788,7 +2882,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 204521,
       "name": "Me Cago En Tus Muertos - Lentamente",
       "url": "https://open.spotify.com/track/5CGfMbjKQ7TK9sBUPVghh5"
@@ -3132,7 +3226,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 244862,
       "name": "No me Merec\u00edas",
       "url": "https://open.spotify.com/track/5f5rd6CuApKGv2LHGfNooR"
@@ -3190,6 +3284,24 @@
       "duration_ms": 182284,
       "name": "No Siento Nada",
       "url": "https://open.spotify.com/track/26njrrC807IokAXRM08tQN"
+    },
+    {
+      "album": {
+        "name": "No soy Diosa",
+        "url": "https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131772,
+      "name": "No soy Diosa",
+      "url": "https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k"
     },
     {
       "album": {
@@ -3266,7 +3378,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 178285,
       "name": "nuestro",
       "url": "https://open.spotify.com/track/0STAzVvA7i8xHiZUpX8ShC"
@@ -3327,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/1bv6HVNEHgKLlZY0Du9Ajz"
+      },
+      "artists": [
+        {
+          "name": "Laskaar",
+          "url": "https://open.spotify.com/artist/2dR0oV49jNebqozvLZ8wci"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241846,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/73bGv9sy8CVi4wtJvAOjUG"
+    },
+    {
+      "album": {
         "name": "El Grimorio",
         "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
       },
@@ -3371,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "otro verano sin decirte tq",
+        "url": "https://open.spotify.com/album/682gZ7mUn1jP0Bt9rpOfY2"
+      },
+      "artists": [
+        {
+          "name": "Cutter Cute",
+          "url": "https://open.spotify.com/artist/72z72JMenShm382u8BgMLt"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169821,
+      "name": "otro verano sin decirte tq",
+      "url": "https://open.spotify.com/track/3X8eTBMEHnjmZWp6KeNbCM"
+    },
+    {
+      "album": {
         "name": "pa poderme partir",
         "url": "https://open.spotify.com/album/4P6SwjRbU0RNqXN45xb77A"
       },
@@ -3382,7 +3530,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 148140,
       "name": "pa poderme partir",
       "url": "https://open.spotify.com/track/74ky9uyVGlkBaBLfE90bz2"
@@ -4099,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/0iClGLoYQyJtqoYmAUq7dB"
+      },
+      "artists": [
+        {
+          "name": "Kadriana Massri",
+          "url": "https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157793,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/0f9jzpBVwDhaOIHH8SRRUw"
+    },
+    {
+      "album": {
         "name": "Santuario",
         "url": "https://open.spotify.com/album/2kP3unBy9C84B506t97yAe"
       },
@@ -4397,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "SUPERSEXY",
+        "url": "https://open.spotify.com/album/4F8Wj7frMTPcPdVRASJ4BY"
+      },
+      "artists": [
+        {
+          "name": "Nebulossa",
+          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198844,
+      "name": "SUPERSEXY",
+      "url": "https://open.spotify.com/track/4gh4JKvxobKDIJxqstLmyR"
+    },
+    {
+      "album": {
         "name": "Tengo TDH",
         "url": "https://open.spotify.com/album/3BWzL0NpSTpppnWSLXRBmg"
       },
@@ -4596,6 +4780,42 @@
       "duration_ms": 262285,
       "name": "Tu Novia Me Tiene Miedo",
       "url": "https://open.spotify.com/track/3nhk2EbjtSw59eHNcz8v6p"
+    },
+    {
+      "album": {
+        "name": "FAN\u00c1TICA",
+        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Tu VIP",
+      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
+    },
+    {
+      "album": {
+        "name": "MAYO SEASON",
+        "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138080,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-572 songs - 1 day 8 hr 25 min
+574 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 | 2024-01-29 |  |
 | [Is This All](https://open.spotify.com/track/2JMWj3mh5mTA1ADOTiyRpS) | [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [C'est La "V"](https://open.spotify.com/album/3BaaelGfQBnFH8qUSArGRM) | 3:39 | 2024-01-29 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-27 | 2025-06-14 |
-| [Is This Really Love?](https://open.spotify.com/track/752Hm8vLR8rZL5bqHrqnST) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:15 | 2025-06-13 |  |
+| [Is This Really Love?](https://open.spotify.com/track/6NEfCu0Ei1IP2DsQosjFaA) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/6GF0TQYbcWHcZpvt0bTP2D) | 3:15 | 2025-10-01 |  |
+| [Is This Really Love?](https://open.spotify.com/track/752Hm8vLR8rZL5bqHrqnST) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:15 | 2025-06-13 | 2025-10-02 |
 | [It's A Shame](https://open.spotify.com/track/3WANeXpetY3TAi6PTlIMpc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:50 | 2024-01-29 |  |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-28 | 2025-02-24 |
 | [It's ok I'm ok](https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-23 |  |
@@ -364,9 +365,10 @@
 | [Older](https://open.spotify.com/track/4DsOhl0XLVUUkehUNIjVD0) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/2dfjqhmg6d1LDsVcTyzOsJ) | 3:14 | 2024-01-29 | 2024-02-02 |
 | [On My Way Here](https://open.spotify.com/track/4RgSDPl8O7VE6CfzyOdgOV) | [Clay Aiken](https://open.spotify.com/artist/13aBWT8LN4oNWWGFOu96MA) | [On My Way Here](https://open.spotify.com/album/4O3wVJGFsbSUlnvLk26CDx) | 4:27 | 2024-01-29 |  |
 | [One Day \(ft\. Ryan Tedder\)](https://open.spotify.com/track/7rKKh8AGVXuNXgLBpTBTFH) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [YSIV](https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9) | 3:18 | 2024-01-29 |  |
+| [One More Dance](https://open.spotify.com/track/16kpoxQlKVSmgdwvuIsFmY) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/6GF0TQYbcWHcZpvt0bTP2D) | 3:08 | 2025-10-01 |  |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-20 | 2025-04-28 |
 | [One More Dance](https://open.spotify.com/track/424OoPQP2FRcDWY1FXJ8Hw) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:08 | 2025-04-27 | 2025-06-14 |
-| [One More Dance](https://open.spotify.com/track/4rhDZ5qvYYxaSIWLzCX1WL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:08 | 2025-06-13 |  |
+| [One More Dance](https://open.spotify.com/track/4rhDZ5qvYYxaSIWLzCX1WL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:08 | 2025-06-13 | 2025-10-02 |
 | [One More Dance](https://open.spotify.com/track/5eMLKPXYRuJavKplqAS11z) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It](https://open.spotify.com/album/42vTCMQRvUb9UtnjHWSBpr) | 3:08 | 2025-04-07 | 2025-04-15 |
 | [Ordinary Human](https://open.spotify.com/track/0VmdveDdlr2FMGwBljCfxA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Ordinary Human](https://open.spotify.com/album/1UhPPEJiu8RHhupj6aC4kh) | 4:50 | 2024-01-29 |  |
 | [Ordinary Man](https://open.spotify.com/track/3UMfYs13dpc1YKJDvUSFlf) | [Altiyan Childs](https://open.spotify.com/artist/73cuOVlIlH9I4uYQ9oD5Lw) | [Ordinary Man](https://open.spotify.com/album/1S1T8wgZfAiW8Qw9nriA1n) | 3:06 | 2024-01-29 |  |

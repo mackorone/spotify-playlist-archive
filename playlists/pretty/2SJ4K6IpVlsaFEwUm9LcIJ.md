@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,384 likes - 48 songs - 2 hr 38 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,392 likes - 53 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 46 | [take it](https://open.spotify.com/track/4YPOplh4glirQhau0shF5u) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [take it](https://open.spotify.com/album/4SYyFlB9YiIcjYxAQMCfBg) | 3:24 |
 | 47 | [Peel](https://open.spotify.com/track/6TZlGQGbFpPiKEjWxFW5vt) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 3:56 |
 | 48 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
+| 49 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/09S6ar4bvtCkl59mNz6WPP) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 2:45 |
+| 50 | [You Go To My Head](https://open.spotify.com/track/2Y2JjsME65xL6y0T7TzofS) | [Larry Clinton & His Orchestra](https://open.spotify.com/artist/3IVes86uCinTCNTksNrGdX) | [Dipsy Doodle](https://open.spotify.com/album/3v8KHQ4ahFKNHl8tWXth8T) | 3:41 |
+| 51 | [good morning, harrison, it’s time to go](https://open.spotify.com/track/0MtCyA1GNASSRa3dEHFoVa) | [Okkyung Lee](https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ) | [just like any other day \(어느날\) : background music for your mundane activities](https://open.spotify.com/album/7AovEt3AwCjUsoazf8fZlk) | 3:02 |
+| 52 | [We Share The Same Breath](https://open.spotify.com/track/1SlN5pwqGU5M8DECxEamCt) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Summer of Love](https://open.spotify.com/album/5Ye7qabYgs7yFnHTzFsptN) | 4:32 |
+| 53 | [Ceffylau](https://open.spotify.com/track/16c7tL31q18QfNsFi6bXzR) | [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818), [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Clychau Dibon](https://open.spotify.com/album/6sMLaItoTxTwETaIPYrEiv) | 5:23 |
 
-Snapshot ID: `AAANNjFAcuuWlx9Eeq0fWnJEnrZq+Rot`
+Snapshot ID: `AAANO1izsxKHC2y2dQf+Xe21P+7sh/8a`

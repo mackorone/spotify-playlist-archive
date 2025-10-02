@@ -3819,7 +3819,7 @@
       "artists": [
         {
           "name": "Pompi",
-          "url": "https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU"
+          "url": "https://open.spotify.com/artist/4tl382ANaxAOVfjGysbiK8"
         },
         {
           "name": "VOH",
@@ -4572,6 +4572,24 @@
       "duration_ms": 237631,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
+    },
+    {
+      "album": {
+        "name": "I Carry Fire",
+        "url": "https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371305,
+      "name": "I Carry Fire",
+      "url": "https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL"
     },
     {
       "album": {
@@ -10534,7 +10552,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 342873,
       "name": "The Shift I Desire",
       "url": "https://open.spotify.com/track/4x2wvX0rA6erPaVLK2mB2c"

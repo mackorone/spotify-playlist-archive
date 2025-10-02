@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 49,690 likes - 179 songs - 11 hr 24 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 49,651 likes - 179 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 | 80 | [Nothing From Nothing](https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [The Kids & Me](https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s) | 2:36 |
 | 81 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
 | 82 | [I Wanna Be The One](https://open.spotify.com/track/0jUnr5Z6VLlpD4bcgt1R4I) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [One Of Many Nights](https://open.spotify.com/album/2D7ZZTtP8bpa9hgtvYQAZJ) | 5:28 |
-| 83 | [Mussorgsky: Pictures at an Exhibition: IX\. The Hut on Fowl's Legs \(Baba\-Yaga\) \[arr\. for Orchestra\]](https://open.spotify.com/track/54UNUcyp19oMQdyXolYw5i) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Mussorgsky: Pictures at an Exhibition](https://open.spotify.com/album/3LUjM7FNErtddfSNBJssip) | 3:27 |
+| 83 | [Mussorgsky: Pictures at an Exhibition: IX\. The Hut on Fowl's Legs \(Version for Orchestra\)](https://open.spotify.com/track/54UNUcyp19oMQdyXolYw5i) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Mussorgsky: Pictures at an Exhibition](https://open.spotify.com/album/3LUjM7FNErtddfSNBJssip) | 3:27 |
 | 84 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 85 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
 | 86 | [Hypnotique](https://open.spotify.com/track/50EX6KApU1bJEo3MONIOsh) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [A Taste Of India](https://open.spotify.com/album/0THEx7xURkd3lbSjtWTDdP) | 2:46 |

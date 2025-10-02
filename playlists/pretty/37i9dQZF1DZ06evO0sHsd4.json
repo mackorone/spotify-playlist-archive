@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 17539,
+  "num_followers": 17560,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNnMAAAAAAAzbkl25n/+TxaEg92QgU8c",
+  "snapshot_id": "aNsdgAAAAACPkmyENrihC6YUKIIfi5/e",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
         "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 158000,
       "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
       "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
     },
     {
       "added_at": null,

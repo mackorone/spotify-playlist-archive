@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60093,
+  "num_followers": 60096,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
         "name": "Ze Komt Uit Amsterdam",
         "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
+        "name": "Niet Voor Lief",
+        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -915,22 +915,18 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Stapje",
-        "url": "https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4"
+        "name": "Eenzame Nacht",
+        "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
       },
       "artists": [
         {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        },
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Stapje",
-      "url": "https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c"
+      "duration_ms": 160674,
+      "name": "Eenzame Nacht",
+      "url": "https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -955,18 +951,22 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Eenzame Nacht",
-        "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
+        "name": "Stapje",
+        "url": "https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4"
       },
       "artists": [
         {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        },
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
         }
       ],
-      "duration_ms": 160674,
-      "name": "Eenzame Nacht",
-      "url": "https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4"
+      "duration_ms": 133000,
+      "name": "Stapje",
+      "url": "https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Ontspanje",
-        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 160123,
-      "name": "Ontspanje",
-      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 198000,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
+        "name": "Ontspanje",
+        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 160123,
+      "name": "Ontspanje",
+      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Eiland",
-        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 126239,
-      "name": "Eiland",
-      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
         "name": "Beetje Gek",
         "url": "https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 174683,
       "name": "Beetje Gek",
       "url": "https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
+        "name": "Eiland",
+        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 126239,
+      "name": "Eiland",
+      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
     },
     {
       "added_at": "2025-08-13 08:02:17",

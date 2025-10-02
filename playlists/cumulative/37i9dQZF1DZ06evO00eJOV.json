@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Brenda",
+        "url": "https://open.spotify.com/album/4qT0vkaLXb11Sd7PGKM3Dk"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320701,
+      "name": "Izolabud",
+      "url": "https://open.spotify.com/track/69hsioBX8Y0D7kZMq4rqtW"
+    },
+    {
+      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -418,7 +436,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 285160,
       "name": "Kellela Moya",
       "url": "https://open.spotify.com/track/3lOFXc1T0MxWWCjtjtkiaG"

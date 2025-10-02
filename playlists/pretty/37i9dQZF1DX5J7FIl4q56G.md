@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Dayseeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,957 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,888 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 8 | [Nihilist](https://open.spotify.com/track/4jsAmHn1fcFDWsgIrYdKJt) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc), [Todd Jones](https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR) | [Nihilist](https://open.spotify.com/album/4QFihXSxs446lvfBxZtvBF) | 2:46 |
 | 9 | [Seven Serpents](https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Seven Serpents](https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX) | 4:39 |
 | 10 | [Fog To Fog](https://open.spotify.com/track/1XOmonDrGwXHfLqN4Iitvj) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Borderland](https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830) | 5:28 |
-| 11 | [WORLDS PULSE](https://open.spotify.com/track/49cNZg9qPHfrMK1ntkPtqU) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy), [Eddie Berg](https://open.spotify.com/artist/09bYImUxYDkiwTp8DTS6DE) | [WORLDS PULSE](https://open.spotify.com/album/48wJ0fKTfKUw60artW0tPe) | 4:56 |
+| 11 | [WORLDS PULSE](https://open.spotify.com/track/49cNZg9qPHfrMK1ntkPtqU) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy), [Eddie Berg](https://open.spotify.com/artist/2CUS6l4LZguuEIsjzbKtdG) | [WORLDS PULSE](https://open.spotify.com/album/48wJ0fKTfKUw60artW0tPe) | 4:56 |
 | 12 | [Too Little Too Late](https://open.spotify.com/track/6yG7803AOYRgHSAaCY12en) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo), [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw), [Chris Roetter](https://open.spotify.com/artist/5KMPmMeAlZrGgeP5tF1pJk) | [Too Little Too Late](https://open.spotify.com/album/2eQikiT0jojj8RY8hJoSee) | 3:27 |
 | 13 | [Echoes](https://open.spotify.com/track/72mfxZKrn7uUGJ5VIHQctO) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Echoes](https://open.spotify.com/album/51cl9f9wHRoDA0foJmzkMd) | 2:49 |
 | 14 | [Don’t Let Me Down](https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Don’t Let Me Down](https://open.spotify.com/album/2knuzEl2xSGhUOPtuigl4R) | 3:30 |

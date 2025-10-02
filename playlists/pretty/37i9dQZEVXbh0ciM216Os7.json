@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABsEBQ68yE+MTMh+fQc2nZn",
+  "snapshot_id": "AAAAAAAAAAAn/pVSE5y7agshoqQvPkiY",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "Discount Surfboard",
-        "url": "https://open.spotify.com/album/0OTfwpc4YrLbipft0V9EVZ"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 126455,
-      "name": "Discount Surfboard",
-      "url": "https://open.spotify.com/track/0cVlZNk30pJMVDvvr40EAP"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
         "name": "Shame, Shame, Shame",
         "url": "https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 245798,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "Discount Surfboard",
+        "url": "https://open.spotify.com/album/0OTfwpc4YrLbipft0V9EVZ"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 126455,
+      "name": "Discount Surfboard",
+      "url": "https://open.spotify.com/track/0cVlZNk30pJMVDvvr40EAP"
     },
     {
       "added_at": "2025-09-26 04:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/2eIrVnq65F5EwNFm6vyFtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        },
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/2eAyPnMrdMLkuYaUQsWl8K"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
         "name": "Look At 'Em",
         "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 170020,
       "name": "Look At 'Em",
       "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/2eIrVnq65F5EwNFm6vyFtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/2eAyPnMrdMLkuYaUQsWl8K"
     },
     {
       "added_at": "2025-09-26 04:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "MadRaps",
-        "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 130263,
-      "name": "Daddy's Girl",
-      "url": "https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
         "name": "She's the One (with Surfer Girl & Tropidelic)",
         "url": "https://open.spotify.com/album/5wuPyXzlUfPTFDdOIXjoFC"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 194280,
       "name": "She's the One (with Surfer Girl & Tropidelic)",
       "url": "https://open.spotify.com/track/7erVJFuGtHC9p7VvuMqxx4"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "MadRaps",
+        "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 130263,
+      "name": "Daddy's Girl",
+      "url": "https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs"
     },
     {
       "added_at": "2025-09-26 04:00:00",

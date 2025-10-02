@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: yung kai
 
-2,524 songs - 6 day 4 hr 52 min
+2,525 songs - 6 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 | 2025-09-19 |  |
 | [Crest of the Wave](https://open.spotify.com/track/6fmZ2EPMQvJs4JnotTu59h) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Crest of the Wave](https://open.spotify.com/album/665QEichnptAga1F4W5TJK) | 3:46 | 2022-06-17 | 2022-09-17 |
 | [Crooked Line](https://open.spotify.com/track/2OqeiEUDcfNqj7JhR4FCaj) | [Close Talker](https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh) | [Crooked Line](https://open.spotify.com/album/4QSaRvEDiuYAOYrAqZuZPZ) | 6:09 | 2025-04-04 | 2025-07-19 |
+| [Cross Control Patrol](https://open.spotify.com/track/5GhOmSUneOKUaFwEOjWYTC) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Cross Control Patrol](https://open.spotify.com/album/2RZT8iKshF9BlBOrVwXMdE) | 2:39 | 2025-10-01 |  |
 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-04 | 2025-09-19 |
 | [Crosswalk](https://open.spotify.com/track/7o8CauLugNjyHaRI1ko6Fw) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Crosswalk](https://open.spotify.com/album/4a5Y59JwD5YUxVa0xQSqxo) | 4:26 | 2022-04-29 | 2022-07-09 |
 | [Crown](https://open.spotify.com/track/74q9nruImgs45A4xlwckZB) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Happy Birthday](https://open.spotify.com/album/5uQ0e1loxV2LcIIQRw0crF) | 4:34 | 2025-06-06 | 2025-09-19 |
@@ -1122,7 +1123,7 @@
 | [In Flight](https://open.spotify.com/track/6xTZCvS7UHAVeOoNsG4bO5) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [In Flight](https://open.spotify.com/album/0qcpXiVKtiR06HcQUuxufF) | 3:25 | 2022-05-06 | 2022-07-23 |
 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-31 | 2025-03-08 |
 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 | 2024-08-02 | 2024-08-24 |
-| [In My Pocket](https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [In My Pocket](https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv) | 3:58 | 2025-08-22 |  |
+| [In My Pocket](https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [In My Pocket](https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv) | 3:58 | 2025-08-22 | 2025-10-02 |
 | [In Need of Repair](https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [In Need of Repair](https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG) | 3:56 | 2021-12-31 | 2022-02-19 |
 | [In Our Own Way](https://open.spotify.com/track/6fU43kp4WjcxAyqNGj9JUQ) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [So Long Babylon](https://open.spotify.com/album/6wDOrVYuEDl0I7ejxnV0ty) | 3:42 | 2023-09-29 | 2023-11-11 |
 | [In Situ](https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games](https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB) | 2:55 | 2022-04-29 | 2022-07-09 |

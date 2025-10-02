@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Themilo \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 99 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,028 likes - 99 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 20 | [Waiting Room](https://open.spotify.com/track/3rpUOeYQevkZBW4Hmh7yX8) | [HENRICK](https://open.spotify.com/artist/4jB4CGrFtVRO1Wq0XgSsLC) | [Waiting Room](https://open.spotify.com/album/2UUDBEIoowOn48rlvcuFLg) | 4:31 |
 | 21 | [Labyrinth](https://open.spotify.com/track/1NZ8rFMBufSCwwaXpYVG8D) | [Slowwves](https://open.spotify.com/artist/7efZWwJdYjmy1Xu1wLtEbg) | [Perfect Evasion](https://open.spotify.com/album/0Jru9ZNJuqVDFWuRzFRGa9) | 3:06 |
 | 22 | [Feel](https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Feel / mild days](https://open.spotify.com/album/48KQ7NOwA31fMBBhtmrMrr) | 4:05 |
-| 23 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 |
-| 24 | [Cold Memories](https://open.spotify.com/track/0FOvxRu8yGJDZCTnq2URja) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Cold Memories](https://open.spotify.com/album/5YTJMJamSw4YCZ2Iq4dXAS) | 3:58 |
-| 25 | [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 |
+| 23 | [Supernova](https://open.spotify.com/track/6bkIfmlSYL5DoJss2EmEMa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:18 |
+| 24 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 |
+| 25 | [Cold Memories](https://open.spotify.com/track/0FOvxRu8yGJDZCTnq2URja) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Cold Memories](https://open.spotify.com/album/5YTJMJamSw4YCZ2Iq4dXAS) | 3:58 |
 | 26 | [happy birthday](https://open.spotify.com/track/366lKegLicIRxKbllVnsoK) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [happy birthday](https://open.spotify.com/album/42oBAwbmEDu8qlIvJ9JFby) | 2:41 |
 | 27 | [Back to Earth](https://open.spotify.com/track/4kfQcvORqDFubkhA7BxZZl) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Back to Earth](https://open.spotify.com/album/0SN8DQrWn37VboAd6eu0HK) | 4:34 |
 | 28 | [Lacrimosa](https://open.spotify.com/track/14FV4sETGnOcQVTB9FcFsU) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [euyl](https://open.spotify.com/album/2NPGDNO34OSdpF8SUUh3B3) | 6:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 98 | [Kota Lelah](https://open.spotify.com/track/4N4nalAYeIlr70eSbJDKvs) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Sonic Archives](https://open.spotify.com/album/4aJJcG9I4Cj4Q8KTCMzd9K) | 3:14 |
 | 99 | [Gravits](https://open.spotify.com/track/4iVJZk5t7t3E8wYRKW9xhT) | [Crayon Case](https://open.spotify.com/artist/5vjmcREJLxyDVkcb0KjNz9) | [Catch Twenty\-three!!](https://open.spotify.com/album/25SKpGKrZE2E4gAEsLORED) | 4:39 |
 
-Snapshot ID: `AAAAANx7olG0tQRGi1Nn3CBtH0ybhc8M`
+Snapshot ID: `AAAAACE6t/Cyuh7p5pCbli1jfakNfddJ`

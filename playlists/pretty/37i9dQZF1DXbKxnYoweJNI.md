@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 薛詒丹 \(aDAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,889 likes - 139 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,890 likes - 139 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 54 | [冰輪](https://open.spotify.com/track/4aZYUiAQlsFBO7hcN50VvP) | [萬象](https://open.spotify.com/artist/64KqLHNmO5vqmpDEiVZM8U) | [宇宙的孩子](https://open.spotify.com/album/5nJr3F28CRVs1sqdiO1MkI) | 4:46 |
 | 55 | [Crossing the coastline](https://open.spotify.com/track/4t5m2jrajPxkKyMzlCHnjz) | [蘇菲花園樂隊](https://open.spotify.com/artist/3lrOoXaMTvHP5wzei7fNej) | [Crossing the coastline](https://open.spotify.com/album/0GV1EPbuDLO44PsH1qbkuG) | 4:30 |
 | 56 | [BRIGHTER](https://open.spotify.com/track/6df6aXHknUUvjHtdCaTlhJ) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [BRIGHTER](https://open.spotify.com/album/7khVmnxNDQwDlLgD8Jg2Fk) | 2:45 |
-| 57 | [Day n Nite](https://open.spotify.com/track/74ePDBjr0YfCAq03layase) | [T.J](https://open.spotify.com/artist/1WlQFCxYJ2dgsvGjalKx3c), [ChinoBroz \(奇童兄弟\)](https://open.spotify.com/artist/3MX4KjsPDjOYqdZ6Yns196) | [Day n Nite](https://open.spotify.com/album/4P3CO0fhDGlyAzO0VCGycB) | 2:42 |
+| 57 | [Day n Nite](https://open.spotify.com/track/74ePDBjr0YfCAq03layase) | [T.J](https://open.spotify.com/artist/1WlQFCxYJ2dgsvGjalKx3c), [ChinoBroz \(奇童兄弟\)](https://open.spotify.com/artist/3MX4KjsPDjOYqdZ6Yns196) | [Day n Nite](https://open.spotify.com/album/4P3CO0fhDGlyAzO0VCGycB) | 2:39 |
 | 58 | [对不对 \(F It Up\)](https://open.spotify.com/track/4PGdIhXT8XnPRxKMWjtLw7) | [Cloud Wang](https://open.spotify.com/artist/37W2XxtEqQE00I1ZoQ6LSY) | [对不对 \(F It Up\)](https://open.spotify.com/album/4sNpbYiONgRQe7z5WyOHPN) | 2:23 |
 | 59 | [不想回家](https://open.spotify.com/track/06IxFmwPgB0DixPrw0Aiem) | [Shawn Tok](https://open.spotify.com/artist/0GLJLs1XLKTauYlQZspgTl) | [不想回家](https://open.spotify.com/album/0Q9PwMUBzJju9l9V0FAKbQ) | 2:47 |
 | 60 | [教會大小間不是重點](https://open.spotify.com/track/2ZR8htNV6GYn6igqSyrpsh) | [HenrV](https://open.spotify.com/artist/79k6W22oUEOBoquMIvQmh1) | [教會大小間不是重點](https://open.spotify.com/album/26maDCmt1s04lawrzWB2IF) | 2:37 |

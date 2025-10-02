@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 216774,
       "name": "Ang3l Attack!",
       "url": "https://open.spotify.com/track/2MBp3Z0SgeQL2lCsc0WORT"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 380259,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4zHpgtUnq6ukjCBoB3bsuP"
@@ -5147,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Sonne",
+        "url": "https://open.spotify.com/album/4ruRlxBLMfWTxpxj3qz5qo"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266625,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/2Gna1s0f2aYuCZDSw44QYD"
+    },
+    {
+      "album": {
         "name": "Space Train",
         "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
       },
@@ -5374,6 +5392,24 @@
       "duration_ms": 174375,
       "name": "TECHNO DRUG",
       "url": "https://open.spotify.com/track/4eTcsnhvSpCqraE0OQRr5T"
+    },
+    {
+      "album": {
+        "name": "TECHY MF",
+        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "TECHY MF",
+      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
     },
     {
       "album": {

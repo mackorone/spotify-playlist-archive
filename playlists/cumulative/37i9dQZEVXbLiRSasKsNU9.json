@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -27930,7 +27930,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 264000,
       "name": "Galata",
       "url": "https://open.spotify.com/track/0w5mKLexkMJqgcMpjLmqq6"
@@ -69396,7 +69396,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 128306,
       "name": "Sobe Na Moto Roubadona",
       "url": "https://open.spotify.com/track/55X6DSZ3CEWeIQrVxMOR9h"
@@ -85008,6 +85008,28 @@
       "duration_ms": 176040,
       "name": "Yihaa",
       "url": "https://open.spotify.com/track/2CMLgiwaTlemYqc7llxO6i"
+    },
+    {
+      "album": {
+        "name": "Tuna Kiremit\u00e7i ve Arkada\u015flar\u0131",
+        "url": "https://open.spotify.com/album/7L4riKGVWO2FTzpv5Pt4Bc"
+      },
+      "artists": [
+        {
+          "name": "Tuna Kiremit\u00e7i",
+          "url": "https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv"
+        },
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221941,
+      "name": "Yine Sevebilirim",
+      "url": "https://open.spotify.com/track/50Ygo82IfoBCWlo8zBs5Fa"
     },
     {
       "album": {

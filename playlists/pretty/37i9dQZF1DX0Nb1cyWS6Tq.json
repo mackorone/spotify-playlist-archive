@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 922785,
+  "num_followers": 922972,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
     },
     {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Scott 3",
+        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
+      },
+      "artists": [
+        {
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+        }
+      ],
+      "duration_ms": 86333,
+      "name": "30 Century Man",
+      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
+    },
+    {
       "added_at": "2022-07-01 00:50:45",
       "album": {
         "name": "Feel It Break",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Scott 3",
-        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
       },
       "artists": [
         {
-          "name": "Scott Walker",
-          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
         }
       ],
-      "duration_ms": 86333,
-      "name": "30 Century Man",
-      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
+      "duration_ms": 180107,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
     },
     {
       "added_at": "2025-01-09 23:56:12",
@@ -1127,22 +1143,6 @@
       "duration_ms": 252579,
       "name": "Vampyre Girl (2014)",
       "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Stone",
-          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
-        }
-      ],
-      "duration_ms": 180107,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe"
     },
     {
-      "added_at": "2022-03-30 01:50:22",
-      "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
-      },
-      "artists": [
-        {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Deep Ocean Vast Sea",
-      "url": "https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Adrenaline",
@@ -1223,6 +1207,22 @@
       "duration_ms": 220960,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
+    },
+    {
+      "added_at": "2022-03-30 01:50:22",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Deep Ocean Vast Sea",
+      "url": "https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2"
     },
     {
       "added_at": "2021-10-15 04:04:50",

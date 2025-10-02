@@ -25927,6 +25927,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/3SWt53l66wE5SyUfHclnDi"
+      },
+      "artists": [
+        {
+          "name": "LUELLA",
+          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200168,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/6gTnxcDgHr1Io7s4AYNH7P"
+    },
+    {
+      "album": {
         "name": "Hysterical",
         "url": "https://open.spotify.com/album/0ZF5rf7yA51sHwW4OhenYB"
       },

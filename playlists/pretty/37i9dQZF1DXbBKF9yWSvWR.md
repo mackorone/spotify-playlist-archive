@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: tjels
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,189 likes - 77 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,175 likes - 77 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Graceful Fire](https://open.spotify.com/track/3i8SE9MzDHGeKkT01BPjCf) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Graceful Fire](https://open.spotify.com/album/1UPm5Ir7374fgerfHDQHXT) | 4:00 |
 | 2 | [Leave What You Know](https://open.spotify.com/track/3vjphofNUulNuDxlAhLE2N) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Cape Sleep](https://open.spotify.com/artist/59p3YuZWUKjBcwSpeAB9x4), [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave What You Know](https://open.spotify.com/album/7JZ1AZeM2mgg988zDmzAua) | 3:28 |
-| 3 | [Something To Die For](https://open.spotify.com/track/6mQnKSJd8mJnGbqRdVVmuB) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Something To Die For](https://open.spotify.com/album/3UwrZElviuei4CpLzQPyQh) | 3:15 |
-| 4 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
-| 5 | [Not Alone](https://open.spotify.com/track/69n7aUaG1YNWRvyzS71d7g) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Not Alone](https://open.spotify.com/album/1UUSEDU0htapYOkHHJUEV0) | 3:31 |
-| 6 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 7 | [Sorte](https://open.spotify.com/track/0uDa0oNkMH5hksVr2hY5Hw) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Sorte](https://open.spotify.com/album/6CnDZ1G6TWha0k5FOIm2td) | 4:07 |
-| 8 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
-| 9 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 |
-| 10 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
-| 11 | [Caviar](https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Beat Tape III](https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot) | 2:33 |
+| 3 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 4 | [Something To Die For](https://open.spotify.com/track/6mQnKSJd8mJnGbqRdVVmuB) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Something To Die For](https://open.spotify.com/album/3UwrZElviuei4CpLzQPyQh) | 3:15 |
+| 5 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
+| 6 | [Not Alone](https://open.spotify.com/track/69n7aUaG1YNWRvyzS71d7g) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Not Alone](https://open.spotify.com/album/1UUSEDU0htapYOkHHJUEV0) | 3:31 |
+| 7 | [Caviar](https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Beat Tape III](https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot) | 2:33 |
+| 8 | [Sorte](https://open.spotify.com/track/0uDa0oNkMH5hksVr2hY5Hw) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Sorte](https://open.spotify.com/album/6CnDZ1G6TWha0k5FOIm2td) | 4:07 |
+| 9 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
+| 10 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 |
+| 11 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
 | 12 | [Tasks](https://open.spotify.com/track/3o9dDXQ4ce9ZQGqxswroyz) | [M\. Lucky](https://open.spotify.com/artist/78t0BT9DeKdbggUw16Ghvt) | [Tasks](https://open.spotify.com/album/6s2Xqchz15Za7hPEmqgYMv) | 3:03 |
 | 13 | [Aurora](https://open.spotify.com/track/4zkhwKB80K68JoX0QFA3KH) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Aurora](https://open.spotify.com/album/2UHMIxC4iCCziZ0xJAEQ9e) | 3:33 |
 | 14 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 76 | [Simple Life](https://open.spotify.com/track/27LKcnqzk6ckyQylQNUv91) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/7uen16WfzBE3uzKdIgei4y) | 1:33 |
 | 77 | [The Last Ones](https://open.spotify.com/track/0XXx51eE4iUbsCQxl1R3CQ) | [plush baby](https://open.spotify.com/artist/7ijabwu3dmyMBI9bYxUzWW) | [The Last Ones](https://open.spotify.com/album/5In84iZKWtP6wgX48l3IP8) | 3:23 |
 
-Snapshot ID: `AAAAAAkROA2DyGkvRzkEcuidoRYeZVV2`
+Snapshot ID: `AAAAAOAZDkhgiHv7bAqB8bJTSkv1WPz0`

@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 64 | [So Excited](https://open.spotify.com/track/5qlDB1bQrKsgLDfbuVHTRE) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 4:05 |
 | 65 | [Gone Into The Sun](https://open.spotify.com/track/3a4KG9TKdMNx9AMPZW3qwj) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:46 |
 | 66 | [Slow Down](https://open.spotify.com/track/6gkBLLr4ZSKfj8OyEPBrJa) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2), [Glyn Johns](https://open.spotify.com/artist/2KLFXkMKYQNYvYyuRc5JmP) | [Songbird \(A Solo Collection\)](https://open.spotify.com/album/1kcIjjBURni0UFgY1t2XPb) | 3:22 |
-| 67 | [Hey Baby](https://open.spotify.com/track/6KERXzROTPriopMyQoJaww) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:37 |
-| 68 | [Why Hate](https://open.spotify.com/track/19DP1DQrUyBSOwWXVPN7Sz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [WICK](https://open.spotify.com/album/4y5vG1udERB0K1sDyeENa2) | 2:59 |
+| 67 | [Why Hate](https://open.spotify.com/track/19DP1DQrUyBSOwWXVPN7Sz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [WICK](https://open.spotify.com/album/4y5vG1udERB0K1sDyeENa2) | 2:59 |
+| 68 | [Hey Baby](https://open.spotify.com/track/6KERXzROTPriopMyQoJaww) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:37 |
 | 69 | [One in a Million](https://open.spotify.com/track/3NXFCt6RgArTnQmMsSp5a0) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:02 |
 | 70 | [Get Like You Used to Be](https://open.spotify.com/track/4gmWBOmoDfKllMdtpXQd2x) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Preaching the Blues](https://open.spotify.com/album/1KMUEvKi6V8lKnY1LlDFVW) | 3:49 |
 | 71 | [Easy Come, Easy Go \- Remix](https://open.spotify.com/track/01ORoJ8NJWDcqbz0vCPMtv) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Songbird \(A Solo Collection\)](https://open.spotify.com/album/1kcIjjBURni0UFgY1t2XPb) | 4:34 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `Ab9o/gAAAABmQvriBFpDUIfoe7GHGwjA`
+Snapshot ID: `Ab9ulAAAAAA6gUjFJvmF911lYWko87/A`

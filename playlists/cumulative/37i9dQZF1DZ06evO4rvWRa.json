@@ -1253,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "Land of the Heroes",
+      "url": "https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4"
+    },
+    {
+      "album": {
         "name": "Land Of The Heroes (Arabic Version)",
         "url": "https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x"
       },
@@ -2328,7 +2350,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 211304,
       "name": "World of Walker: Rise of the Drones",
       "url": "https://open.spotify.com/track/1TKw1hYnvbe2i55er8Oc9X"

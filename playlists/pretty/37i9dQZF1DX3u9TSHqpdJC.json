@@ -1,28 +1,60 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: JOA. Artwork by Paola Saliby",
-  "num_followers": 230266,
+  "description": "The best new pop music from new, independent artists.  Cover: Izzy Escobar. Artwork by Paola Saliby",
+  "num_followers": 230281,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4FXQ2yPp8+lSzxIFIaxJCkGhtl",
+  "snapshot_id": "AAAAAE4Gm6d/ay9q4fkUMwdNZhcXm0ZL",
   "tracks": [
     {
-      "added_at": "2025-09-24 04:00:18",
+      "added_at": "2025-10-01 12:14:18",
       "album": {
-        "name": "Even If It's a Lie",
-        "url": "https://open.spotify.com/album/7jg2h2Z7dcg5oWXIcADYGB"
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/76EhQqKoadyMKQSo8Nls89"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
         }
       ],
-      "duration_ms": 188906,
-      "name": "Even If It's a Lie",
-      "url": "https://open.spotify.com/track/3lKRNL0H2hSEWby9EaV5s3"
+      "duration_ms": 187994,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5TNyJaau0GUrcdsbq4UqfJ"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "other boys are boring",
+        "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 140518,
+      "name": "other boys are boring",
+      "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 206628,
+      "name": "U-Turn",
+      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
       "added_at": "2025-09-24 04:00:18",
@@ -39,6 +71,150 @@
       "duration_ms": 246469,
       "name": "I'm Not Going Anywhere",
       "url": "https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "No Room For Two",
+        "url": "https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId"
+      },
+      "artists": [
+        {
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Lipstick on the Rearview",
+      "url": "https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 136919,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Talk Is Cheap",
+        "url": "https://open.spotify.com/album/05ALIzk7K7uH7CXf16GFXd"
+      },
+      "artists": [
+        {
+          "name": "ALZZY",
+          "url": "https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7"
+        }
+      ],
+      "duration_ms": 204437,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/40ZK92vFHVqmYJdxHFcWNG"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Can I Come Too?",
+        "url": "https://open.spotify.com/album/5007izIDA5T2I96QI67JaO"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Fire and Ice",
+        "url": "https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 140094,
+      "name": "Fire and Ice",
+      "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Does This Make Me A Bitter Woman? (Deluxe)",
+        "url": "https://open.spotify.com/album/67aB0zwPzsAreTkdTZjarY"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "duration_ms": 132971,
+      "name": "Catching The Next Train",
+      "url": "https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "something to someone",
+        "url": "https://open.spotify.com/album/0nzKi0Unor0IbnvHd4UYQK"
+      },
+      "artists": [
+        {
+          "name": "Layla Scarlet",
+          "url": "https://open.spotify.com/artist/3ct5nvvlBQexQMM9IwBIVe"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "something to someone",
+      "url": "https://open.spotify.com/track/1aJdw3usD56N2pZW9mA9WX"
+    },
+    {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/40sY2frEQlthRUR96TsAMU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Anthony",
+          "url": "https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay"
+        }
+      ],
+      "duration_ms": 149077,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4WmBM8XKGpXqZsmhQC8FBY"
+    },
+    {
+      "added_at": "2025-09-24 04:00:18",
+      "album": {
+        "name": "Even If It's a Lie",
+        "url": "https://open.spotify.com/album/7jg2h2Z7dcg5oWXIcADYGB"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Even If It's a Lie",
+      "url": "https://open.spotify.com/track/3lKRNL0H2hSEWby9EaV5s3"
     },
     {
       "added_at": "2025-09-24 04:00:18",
@@ -559,22 +735,6 @@
       "duration_ms": 207758,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H"
-    },
-    {
-      "added_at": "2025-09-03 04:00:25",
-      "album": {
-        "name": "Sunny in London",
-        "url": "https://open.spotify.com/album/1NV9aMqgGmqLdbVEdUewLI"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Sunny in London",
-      "url": "https://open.spotify.com/track/3fNUY2bjHvsddPdOt5iV6A"
     },
     {
       "added_at": "2025-09-05 05:07:41",
@@ -1459,166 +1619,6 @@
       "duration_ms": 159975,
       "name": "i just want to dance",
       "url": "https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX"
-    },
-    {
-      "added_at": "2025-07-18 16:52:12",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
-      },
-      "artists": [
-        {
-          "name": "Just For Fun",
-          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
-    },
-    {
-      "added_at": "2025-07-18 16:52:12",
-      "album": {
-        "name": "Less is More",
-        "url": "https://open.spotify.com/album/2lcpy0xLuRBRlBTvNWZbSy"
-      },
-      "artists": [
-        {
-          "name": "Meghan Curtin",
-          "url": "https://open.spotify.com/artist/4aMCwH4geSzHn9U4sHXvzB"
-        }
-      ],
-      "duration_ms": 234382,
-      "name": "Less is More",
-      "url": "https://open.spotify.com/track/5pAhmlaJVD65EKlb6fJi2M"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "DESIRE PATH",
-        "url": "https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ"
-      },
-      "artists": [
-        {
-          "name": "Raissa",
-          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
-        }
-      ],
-      "duration_ms": 198741,
-      "name": "HEAVEN IS A DANCE FLOOR",
-      "url": "https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "BIG",
-        "url": "https://open.spotify.com/album/2YTFullXEM5DlxeFdn9qMg"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
-        }
-      ],
-      "duration_ms": 167124,
-      "name": "BIG",
-      "url": "https://open.spotify.com/track/2jKeQXeZ8tdT9zYebSmRgn"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "feel again",
-        "url": "https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4"
-      },
-      "artists": [
-        {
-          "name": "Storm Henshaw",
-          "url": "https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs"
-        }
-      ],
-      "duration_ms": 205530,
-      "name": "feel again",
-      "url": "https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "Malibu Drift",
-        "url": "https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        }
-      ],
-      "duration_ms": 190926,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/5T1XbCkiQlobUQnmXTZ3q6"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "Basis of a Pinky Promise",
-        "url": "https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 170955,
-      "name": "Better in Person",
-      "url": "https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT"
-      },
-      "artists": [
-        {
-          "name": "ALZZY",
-          "url": "https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW"
-    },
-    {
-      "added_at": "2025-07-09 17:24:19",
-      "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/0Yd21xtBNca79TgINoxjLB"
-      },
-      "artists": [
-        {
-          "name": "EMMMA",
-          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
-        }
-      ],
-      "duration_ms": 158510,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/1cCkVOkND8xa4FVXWuRWeK"
-    },
-    {
-      "added_at": "2025-07-02 04:00:05",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/6o9dsd2SA22fHOXSt55d0e"
-      },
-      "artists": [
-        {
-          "name": "Micah McLaurin",
-          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
-        }
-      ],
-      "duration_ms": 214957,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/1oBXsBScq1cOHg9QYxRBcy"
     }
   ],
   "unique_name": "Fresh Finds Pop",

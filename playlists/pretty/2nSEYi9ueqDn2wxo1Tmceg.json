@@ -1,15 +1,135 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 62067,
+  "num_followers": 62014,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQ+6PvaknFWGGKzt35drmPpGwauGSv",
+  "snapshot_id": "AAAQ/sE3ywLt3os8kIcm4S0hTV26uYcw",
   "tracks": [
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 14:00:08",
+      "album": {
+        "name": "New Case",
+        "url": "https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "duration_ms": 166414,
+      "name": "New Case",
+      "url": "https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "Rapture in Blue / Greasy off the Racing Line (Midnight Versions)",
+        "url": "https://open.spotify.com/album/4mNoMzeIi5IoXbrGMgESWH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "Rapture in Blue - Midnight Version",
+      "url": "https://open.spotify.com/track/0COxZNIcu4gUrXlUzLBVUT"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "Hit My Head All Day",
+        "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "Michelangelo Dying",
+        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 274443,
+      "name": "Mothers of Riches",
+      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 185152,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "Rapture in Blue / Greasy off the Racing Line (Midnight Versions)",
+        "url": "https://open.spotify.com/album/4mNoMzeIi5IoXbrGMgESWH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alison Mosshart",
+          "url": "https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9"
+        }
+      ],
+      "duration_ms": 245732,
+      "name": "Greasy off the Racing Line - Midnight Version",
+      "url": "https://open.spotify.com/track/48k6gJDEd2Gt2jeZjC6w07"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
@@ -41,7 +161,23 @@
       "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
+      "album": {
+        "name": "The Cords",
+        "url": "https://open.spotify.com/album/1shf97BXfxZ99LAP1eZikm"
+      },
+      "artists": [
+        {
+          "name": "The Cords",
+          "url": "https://open.spotify.com/artist/0nWOfr0ZQ0uxIbpWwLO8DD"
+        }
+      ],
+      "duration_ms": 100735,
+      "name": "I'm Not Sad",
+      "url": "https://open.spotify.com/track/1En8CBKqljHuYPJjqETcfu"
+    },
+    {
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Lunga",
         "url": "https://open.spotify.com/album/4GJMQvQwwCVhJZn4iWIPuc"
@@ -57,7 +193,7 @@
       "url": "https://open.spotify.com/track/5fxKiTlkEPEDwrPMcWTojo"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "WGB/WMD (David Holmes Remix)",
         "url": "https://open.spotify.com/album/1kLMgnQYdz96B4oCTdOBYv"
@@ -77,7 +213,7 @@
       "url": "https://open.spotify.com/track/6OqpH0YnNw1l9DmYABdeEC"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
@@ -93,7 +229,7 @@
       "url": "https://open.spotify.com/track/35TWPLjC6Iak3kAaA5yldE"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "The Olympics",
         "url": "https://open.spotify.com/album/4s7WwIo5LaShH6h5BtNLUA"
@@ -109,7 +245,7 @@
       "url": "https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Absurd Matter 2",
         "url": "https://open.spotify.com/album/6ohAQFplOfrYtPaWgQT0Gi"
@@ -129,7 +265,7 @@
       "url": "https://open.spotify.com/track/01LG1CgSBq1WrjEQOy6wQl"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Mouth Breather",
         "url": "https://open.spotify.com/album/0wRcUPniehzD0VQ1aki3Xc"
@@ -145,7 +281,7 @@
       "url": "https://open.spotify.com/track/4J2A47cVFzSiYkS8EF85dR"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Long After Midnight",
         "url": "https://open.spotify.com/album/5W1CxIMZcfiq0xg6ZwUPEK"
@@ -161,7 +297,7 @@
       "url": "https://open.spotify.com/track/1CZjmxYbeorwFzl4Ls4tnc"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Bleeds",
         "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
@@ -177,7 +313,7 @@
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Cyborg (Mad Spiders Dub)",
         "url": "https://open.spotify.com/album/4RcjjJ5ZKzgtgE2Dc9h0de"
@@ -197,7 +333,7 @@
       "url": "https://open.spotify.com/track/7kuXgid1Fs8buqKNJNjawG"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Goodbyehouse",
         "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
@@ -213,7 +349,7 @@
       "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz"
@@ -229,7 +365,7 @@
       "url": "https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Change Into One Another",
         "url": "https://open.spotify.com/album/4mOvs3vHLfQEq7jU6o8EyY"
@@ -249,7 +385,7 @@
       "url": "https://open.spotify.com/track/1Pv6l3IZJkbvoDAmOGqylZ"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Half Light",
         "url": "https://open.spotify.com/album/6lbHJh3F9USEwcVt8cRaOR"
@@ -265,7 +401,7 @@
       "url": "https://open.spotify.com/track/4DXcEQZDP777zcifS24AeE"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Bury the Key",
         "url": "https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK"
@@ -281,7 +417,7 @@
       "url": "https://open.spotify.com/track/7GlJ3RRwBQy1w7vmiqxstX"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "When You Said Goodbye",
         "url": "https://open.spotify.com/album/3XVBlo9gaKyjRStoSoRmzt"
@@ -297,7 +433,7 @@
       "url": "https://open.spotify.com/track/1ercXRUViOEcImvn2OorJk"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Stupid Love / Monica",
         "url": "https://open.spotify.com/album/0JyVGQDo5FQu5UPG0Qh559"
@@ -313,7 +449,7 @@
       "url": "https://open.spotify.com/track/0ejzToCE8DzFZcZEjmcfQy"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Slapped By My Life",
         "url": "https://open.spotify.com/album/1RfbYCkmk9RUkG6sdEk2y9"
@@ -329,7 +465,7 @@
       "url": "https://open.spotify.com/track/1fbbToCbUVyJ9GCCgqP5A1"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Valley Ford",
         "url": "https://open.spotify.com/album/5dTUKEFV2FJ8ADlBDUqaak"
@@ -345,7 +481,7 @@
       "url": "https://open.spotify.com/track/2GQquGskOSErzngDBNRtuN"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "i promise (i'm not usually like this)",
         "url": "https://open.spotify.com/album/3ZTFDU9zvftau5DQcgfn32"
@@ -361,7 +497,7 @@
       "url": "https://open.spotify.com/track/6ZYb4guCehSxmnSQj6qQFf"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Isle of Acid",
         "url": "https://open.spotify.com/album/0zprvT5BCvWExLDSOMZvbI"
@@ -381,7 +517,7 @@
       "url": "https://open.spotify.com/track/6KyA7XFoNsxOxR4gpGgUW0"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI"
@@ -401,7 +537,7 @@
       "url": "https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/48OCw6cRFQBaBh0sSqCBlz"
@@ -417,7 +553,7 @@
       "url": "https://open.spotify.com/track/6MAOz21OJgWz7FAe7TgdVP"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Greasy off the Racing Line",
         "url": "https://open.spotify.com/album/7gEMU3rkf8kSz86naYCB67"
@@ -437,7 +573,7 @@
       "url": "https://open.spotify.com/track/6Cpdq6s6JahxwEwLYaIyyB"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "LIVING WITHOUT U",
         "url": "https://open.spotify.com/album/1kls1K8RYllsX1baM4X8kQ"
@@ -453,7 +589,7 @@
       "url": "https://open.spotify.com/track/2krfwDVuO30gcQjZ0houHE"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Blue Rags, Raging Wind (Kerry McCoy Remix)",
         "url": "https://open.spotify.com/album/7wjuwNxwLPNXBn1gtYPbAe"
@@ -485,7 +621,7 @@
       "url": "https://open.spotify.com/track/3guondbWIUF6XQEi9MPW5v"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Grass (demo)",
         "url": "https://open.spotify.com/album/2QxJlJOzJdab2Ifjp5NFxD"
@@ -501,7 +637,7 @@
       "url": "https://open.spotify.com/track/5RKyh74Cc1yW94HogWaCO3"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
@@ -517,7 +653,7 @@
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Layered Presence",
         "url": "https://open.spotify.com/album/5ENxsKDYuThgeNk9vPWf6E"
@@ -533,7 +669,7 @@
       "url": "https://open.spotify.com/track/6YzI5FrWH13mP7acvOfObf"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "The Heat Warps",
         "url": "https://open.spotify.com/album/3x26u06ZE5cyJMzlTvD4So"
@@ -549,7 +685,7 @@
       "url": "https://open.spotify.com/track/3IIZPwg2dxQlXUd1iqnmVf"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "24 Hr Sports",
         "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
@@ -569,7 +705,7 @@
       "url": "https://open.spotify.com/track/6YeREUsdPr4u4wmZ7cuGE6"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Man\u00eda",
         "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
@@ -589,7 +725,7 @@
       "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "International",
         "url": "https://open.spotify.com/album/5CEt8piPRnEk8BAE9gpdAz"
@@ -609,7 +745,7 @@
       "url": "https://open.spotify.com/track/6UYzOKGh4hXae0reTWKK24"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Chords and Candies",
         "url": "https://open.spotify.com/album/6WURvOpbaicOZq26ywdFtg"
@@ -625,7 +761,7 @@
       "url": "https://open.spotify.com/track/2cCW9kvDwbYitj7NN9kpKG"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "It\u2019s Lovely, Come On In",
         "url": "https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v"
@@ -641,7 +777,7 @@
       "url": "https://open.spotify.com/track/7IfarhuPKJeyOotOzlBxfA"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "MUTANT",
         "url": "https://open.spotify.com/album/1u5X9Bc0X2tGkHMqxKyTN3"
@@ -657,7 +793,7 @@
       "url": "https://open.spotify.com/track/42hmqDkNINRRburk6Mej1i"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Ready For The Floor (Mella Dee Remixes)",
         "url": "https://open.spotify.com/album/72lqjoQQucB3zVvw5Biqg6"
@@ -677,7 +813,7 @@
       "url": "https://open.spotify.com/track/0TFQhAJfvLx9EtUnPKFDWq"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Bury the Key",
         "url": "https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK"
@@ -693,7 +829,7 @@
       "url": "https://open.spotify.com/track/2eSSWz5RIwuhLggC3sXNIU"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Poke",
         "url": "https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn"
@@ -709,7 +845,7 @@
       "url": "https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Rebound",
         "url": "https://open.spotify.com/album/39t0icdZ4uRcc1qkU9rvV0"
@@ -725,7 +861,7 @@
       "url": "https://open.spotify.com/track/0LNCoyxJl81QocH8YK5ZCS"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "more than you give",
         "url": "https://open.spotify.com/album/23xdcr0gNA5DPBngf5OXw7"
@@ -741,7 +877,7 @@
       "url": "https://open.spotify.com/track/7KuloMl22WtNyI8v8hBu7U"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Godlike",
         "url": "https://open.spotify.com/album/4vPhHXeb7lRCJEzHOyk4op"
@@ -757,7 +893,7 @@
       "url": "https://open.spotify.com/track/6W75bcmwghS0remcC9GxsT"
     },
     {
-      "added_at": "2025-09-24 11:10:18",
+      "added_at": "2025-10-01 11:39:24",
       "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/61AruJGoX4OdtULaFetM9V"
@@ -771,134 +907,6 @@
       "duration_ms": 223683,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0tIifvM70VYI1K42HCQZDC"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "Paradise 23",
-        "url": "https://open.spotify.com/album/3gXIHdc2tnk1jzRAdVcqwS"
-      },
-      "artists": [
-        {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
-        }
-      ],
-      "duration_ms": 275078,
-      "name": "Paradise 23",
-      "url": "https://open.spotify.com/track/1NStUbov9tibND1ekG5DqY"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "Math Equation",
-        "url": "https://open.spotify.com/album/5XJQpbZe0z4S7NlQjkb30y"
-      },
-      "artists": [
-        {
-          "name": "Austra",
-          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
-        }
-      ],
-      "duration_ms": 252263,
-      "name": "Math Equation",
-      "url": "https://open.spotify.com/track/2r6yEYmV8vu1pjVHmKEr0f"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "Escarbo dimensiones",
-        "url": "https://open.spotify.com/album/6PH5VvCOYmbl73ssw4CZLs"
-      },
-      "artists": [
-        {
-          "name": "Titanic",
-          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
-        },
-        {
-          "name": "I la Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 208542,
-      "name": "Escarbo dimensiones",
-      "url": "https://open.spotify.com/track/2btWEUsQsRFCV6I6Tm6f2s"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "Ready For The Floor (Mella Dee Remixes)",
-        "url": "https://open.spotify.com/album/72lqjoQQucB3zVvw5Biqg6"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
-        }
-      ],
-      "duration_ms": 452500,
-      "name": "Ready For The Floor - Mella Dee Spanglecore Dub",
-      "url": "https://open.spotify.com/track/7nvBGNqo5iq273jxJGBPr0"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz"
-      },
-      "artists": [
-        {
-          "name": "Upchuck",
-          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
-        }
-      ],
-      "duration_ms": 131939,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "The Ghouls",
-        "url": "https://open.spotify.com/album/4Ea1AwnFleVdeGUGnfEa9b"
-      },
-      "artists": [
-        {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
-        }
-      ],
-      "duration_ms": 238176,
-      "name": "The Ghouls",
-      "url": "https://open.spotify.com/track/7u716E5N8na1jdhc0i85lj"
-    },
-    {
-      "added_at": "2025-09-24 11:10:18",
-      "album": {
-        "name": "Songs for Nina and Johanna",
-        "url": "https://open.spotify.com/album/5dWPMGaQndR8OZakwhCZdk"
-      },
-      "artists": [
-        {
-          "name": "James Yorkston",
-          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
-        },
-        {
-          "name": "Nina Persson",
-          "url": "https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Love That Tree",
-      "url": "https://open.spotify.com/track/1AgtggNJS02qxppx0wm7hu"
     }
   ],
   "unique_name": "Domino Sound System",

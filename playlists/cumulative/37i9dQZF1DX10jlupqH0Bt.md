@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-95 songs - 4 hr 32 min
+98 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Cynosure](https://open.spotify.com/track/032YBrJJLqZyXxutvSGSkC) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:37 | 2023-03-10 |  |
 | [Enhance Awareness 852 Hz](https://open.spotify.com/track/27QNGWnlbTO5dHW23NCg6o) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [Enhance Awareness 852 Hz](https://open.spotify.com/album/5VxcIgJzN09qylo26sfwAo) | 2:54 | 2025-07-09 |  |
 | [Expand Horizons](https://open.spotify.com/track/7mThdU8Fe7B8BXVyzKjrhg) | [Quietmind](https://open.spotify.com/artist/47OpVUkgg3v5Il1hY3UpG6) | [Expand Horizons](https://open.spotify.com/album/1PaHi5DwQcvzVAB0p2keCh) | 1:25 | 2023-03-10 | 2023-08-08 |
+| [Field Theory 852 Hz](https://open.spotify.com/track/3QOsPmTY7S9C5ElAESkmdB) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [Field Theory 852 Hz](https://open.spotify.com/album/04L5wKm68aesvRhNNntjxo) | 2:45 | 2025-10-01 |  |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2023-03-10 |  |
 | [Floating Through Solfeggio 852 Hz](https://open.spotify.com/track/4fNNIfCx89oWgl974GAWfH) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:11 | 2023-03-10 |  |
 | [Garden Oasis 852 Hz](https://open.spotify.com/track/3S9p2mXU0RFodEeZH5W6HT) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 3:12 | 2023-03-10 |  |
@@ -73,6 +74,8 @@
 | [Land and Sea 852 Hz](https://open.spotify.com/track/6EHATCMM1ADhB67spZ0M7i) | [Kristen Reid](https://open.spotify.com/artist/72BS8WqVnzZSQ8J0XVMEpE) | [Land and Sea 852 Hz](https://open.spotify.com/album/1SipBNisSIdGPuH9Qal0KT) | 2:25 | 2023-03-10 |  |
 | [Magellan 852 Hz](https://open.spotify.com/track/3V48eSjuO5ZcMRSeaDlHVw) | [Profundum](https://open.spotify.com/artist/3vMoRqV2KfqX5kxbNhBrfN) | [Magellan 852 Hz](https://open.spotify.com/album/7tLpuWFxZP8p8xjIEZtgyP) | 2:33 | 2025-07-09 |  |
 | [Mahaanata 852 Hz](https://open.spotify.com/track/4PaR3RgsVFFpY6gUmXOhHh) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Mahaanata 852 Hz](https://open.spotify.com/album/6OmX3MIam0deV9w15JIMHO) | 2:18 | 2024-05-11 |  |
+| [Mirrors 852 Hz](https://open.spotify.com/track/0JD1rVnAAU2CGvAHpmuCGN) | [Reikiki](https://open.spotify.com/artist/6bZ776Wqn5bbHs6mUnjsj2) | [Mirrors 852 Hz](https://open.spotify.com/album/7c0xjWlGVppHceKwN1KW02) | 2:38 | 2025-10-01 |  |
+| [Moon Flower 852 Hz](https://open.spotify.com/track/1grnIAIqJdu3fXsLiI5Ba6) | [Z Izzard](https://open.spotify.com/artist/4qp4lOUTaF9RMySaLkjcyN) | [Moon Flower 852 Hz](https://open.spotify.com/album/701G4X8qBE6YFFeTl7f066) | 2:40 | 2025-10-01 |  |
 | [Nementia](https://open.spotify.com/track/5boftiqpnYAzkdMUQntgvt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Nementia](https://open.spotify.com/album/1M3sQZ9u9R9MJcD2lmhvJy) | 3:27 | 2023-03-10 |  |
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2023-03-10 | 2024-03-14 |
 | [Orange 852 hz](https://open.spotify.com/track/6raoUNnJwWF5YPbrCLYmHQ) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:32 | 2023-03-10 |  |

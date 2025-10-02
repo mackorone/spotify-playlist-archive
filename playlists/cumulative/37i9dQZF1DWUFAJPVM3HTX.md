@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t?si=zwSiOBQ8T\-GlcY0bXH\-XJw"> FEYI</a>\. Updates every Wednesday.
 
-3,591 songs - 7 day 13 hr 23 min
+3,591 songs - 7 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-10 | 2023-08-04 |
 | [despite me](https://open.spotify.com/track/3WlUBJONyiSprTZ7IrAzRz) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [despite me](https://open.spotify.com/album/0woG7JBmCVLhQ6ViaiyIZZ) | 2:38 | 2023-08-30 | 2023-11-30 |
 | [Destiny](https://open.spotify.com/track/30RhSFeWLZUJ7RSQ3rZUkl) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV) | [Destiny](https://open.spotify.com/album/3O0EiV1Cmvs4aofd2h9JPN) | 2:42 | 2023-05-26 | 2024-01-11 |
-| [Destiny Knows](https://open.spotify.com/track/4DuRUF9iN8g0pl3FMmYqBh) | [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e) | [Destiny Knows](https://open.spotify.com/album/5WxfMpfHgfkDWoAEt4TkTW) | 5:32 | 2025-08-15 |  |
+| [Destiny Knows](https://open.spotify.com/track/4DuRUF9iN8g0pl3FMmYqBh) | [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e) | [Destiny Knows](https://open.spotify.com/album/5WxfMpfHgfkDWoAEt4TkTW) | 4:18 | 2025-08-15 |  |
 | [Destroy You](https://open.spotify.com/track/2MmLXdbPnYzGB3QduD2rCQ) | [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Lundun Lullabies](https://open.spotify.com/album/0GKDBVjiZeKvPUd3baDMof) | 3:20 | 2023-04-12 | 2023-08-04 |
 | [detached](https://open.spotify.com/track/0CrPPpYzxF3NHwPxrfLBZA) | [Jazmine Flowers](https://open.spotify.com/artist/24vkpuyIDXuQ1nGGPChhcA) | [detached](https://open.spotify.com/album/1glpdal2xA9413LyGoGPlx) | 2:44 | 2022-08-26 | 2022-09-22 |
 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 | 2025-06-20 |  |

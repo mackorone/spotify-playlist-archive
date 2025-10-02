@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92028,
+  "num_followers": 92050,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNnMAAAAAACX0/yiBQYrzkL9VE4O90Gs",
+  "snapshot_id": "aNsdgAAAAACSssYqUQPNmyXBAf38LMrq",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zo Stil",
+        "url": "https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 240030,
+      "name": "Zo Stil",
+      "url": "https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 223266,
       "name": "Zoutelande (feat. Geike)",
       "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zo Stil",
-        "url": "https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 240030,
-      "name": "Zo Stil",
-      "url": "https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Misschien Niet De Eeuwigheid",
-      "url": "https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bitterzoet",
         "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 227840,
       "name": "Bitterzoet",
       "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Misschien Niet De Eeuwigheid",
+      "url": "https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD"
     },
     {
       "added_at": null,
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+        "name": "We doen wat we kunnen (feat. Geike)",
+        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
         }
       ],
-      "duration_ms": 434680,
-      "name": "De Mooiste Verliezers",
-      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
+      "duration_ms": 240562,
+      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
+      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We doen wat we kunnen (feat. Geike)",
-        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
         }
       ],
-      "duration_ms": 240562,
-      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
-      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
+      "duration_ms": 434680,
+      "name": "De Mooiste Verliezers",
+      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
     },
     {
       "added_at": null,

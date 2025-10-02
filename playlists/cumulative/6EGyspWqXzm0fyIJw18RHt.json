@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Goths (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1yJuS1MzCnoqG8IKZA6uuf"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324320,
+      "name": "Unicorn Tolerance",
+      "url": "https://open.spotify.com/track/276BJyNe0CW6GPMjPtwcIa"
+    },
+    {
+      "album": {
         "name": "Songs on the Computer",
         "url": "https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH"
       },

@@ -1273,6 +1273,48 @@
     },
     {
       "album": {
+        "name": "Guzaara (From \"Baaghi 4\")",
+        "url": "https://open.spotify.com/album/0oa4u9t0wcigsxTCWvCnVE"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Salamat Ali Matoi",
+          "url": "https://open.spotify.com/artist/4EWD76EQeAcu0I05q25FWG"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        },
+        {
+          "name": "Jagdeep Warring",
+          "url": "https://open.spotify.com/artist/1xjuAKj9neNVWlpiZYNgzY"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244073,
+      "name": "Guzaara (From \"Baaghi 4\")",
+      "url": "https://open.spotify.com/track/3gjTErwpHM5PkRbWMhmNrV"
+    },
+    {
+      "album": {
         "name": "Haan Main Galat (From \"Love Aaj Kal\")",
         "url": "https://open.spotify.com/album/5e0lk4qOylKNYoQKe7nxhC"
       },
@@ -1626,7 +1668,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 251124,
       "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
       "url": "https://open.spotify.com/track/0v716URUxpcG1AhIZmulz7"

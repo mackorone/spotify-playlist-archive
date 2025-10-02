@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: TJ Monterde
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,514 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,079,339 likes - 54 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 42 | [Tibok](https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 5:26 |
 | 43 | [Relapse](https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Relapse](https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S) | 3:32 |
 | 44 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 |
-| 45 | [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 |
-| 46 | [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 |
-| 47 | [Filipina Queen](https://open.spotify.com/track/2Svd6sWbcaj63h5JHEvEyg) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Filipina Queen](https://open.spotify.com/album/3FyqqGezafiSyZDA7BJvTu) | 3:09 |
-| 48 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 |
-| 49 | [tulad ng dati](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [tulad ng dati](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 |
-| 50 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
+| 45 | [Dahan](https://open.spotify.com/track/4l6wJay9VIyQYaMOWecj6N) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Dahan](https://open.spotify.com/album/7CW5E4wuSXw01vBKkSZ9Gh) | 3:10 |
+| 46 | [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 |
+| 47 | [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 |
+| 48 | [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 |
+| 49 | [POGI](https://open.spotify.com/track/1PmTiq3Z2ZExb7r8Xf8dVi) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [POGI](https://open.spotify.com/album/19KMiGDK3ZQWqc4qPFRM8p) | 3:03 |
+| 50 | [Filipina Queen](https://open.spotify.com/track/2Svd6sWbcaj63h5JHEvEyg) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Filipina Queen](https://open.spotify.com/album/3FyqqGezafiSyZDA7BJvTu) | 3:09 |
+| 51 | [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [Cholow](https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 |
+| 52 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 |
+| 53 | [tulad ng dati](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [tulad ng dati](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 |
+| 54 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
 
-Snapshot ID: `AAAAAIy+XDYYQCU2i69ebMslVhvb7+sJ`
+Snapshot ID: `AAAAAHUc0Jp6+cYd55IS6lQiiOZ0LDUH`

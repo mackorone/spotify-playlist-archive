@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 203582,
+  "num_followers": 203618,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Calculated",
-        "url": "https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB"
-      },
-      "artists": [
-        {
-          "name": "Heavens To Betsy",
-          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Sleater-Kinney (Remastered)",
         "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 172880,
       "name": "Be Yr Mama",
       "url": "https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Calculated",
+        "url": "https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB"
+      },
+      "artists": [
+        {
+          "name": "Heavens To Betsy",
+          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
+        }
+      ],
+      "duration_ms": 384666,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Frenching the Bully",
+        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+      },
+      "artists": [
+        {
+          "name": "The Gits",
+          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Oh Me I'm Never",
         "url": "https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 136880,
       "name": "Gimme Brains",
       "url": "https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Frenching the Bully",
-        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
-      },
-      "artists": [
-        {
-          "name": "The Gits",
-          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "Second Skin",
-      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth",
-        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 91600,
-      "name": "Bitch Theme",
-      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Current Affair (feat. Sienna)",
         "url": "https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 98466,
       "name": "Pillow Case Kisser",
       "url": "https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Bodies and Control and Money and Power",
+        "url": "https://open.spotify.com/album/7utZxewdKg098arjQSCuXS"
+      },
+      "artists": [
+        {
+          "name": "Priests",
+          "url": "https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx"
+        }
+      ],
+      "duration_ms": 191851,
+      "name": "And Breeding",
+      "url": "https://open.spotify.com/track/3pYiZe0qoZBmJqqqBmXwFm"
     }
   ],
   "unique_name": "Riot Grrrl",

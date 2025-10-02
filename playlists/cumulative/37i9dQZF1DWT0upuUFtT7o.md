@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Afternoon Bike Ride
 
-3,525 songs - 8 day 3 hr 13 min
+3,526 songs - 8 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1431,6 +1431,7 @@
 | [Hyperbloom](https://open.spotify.com/track/3u9ErXg3TvWGQ9HgzizaJN) | [Maeve](https://open.spotify.com/artist/0tjJosKJDhjhGh2P8NtiK3) | [Hyperbloom](https://open.spotify.com/album/35jymlYHoeg1KC3ECgQqwe) | 2:52 | 2023-10-04 | 2023-11-16 |
 | [Hyperdome](https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Hyperdome](https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE) | 3:13 | 2023-01-11 | 2023-02-09 |
 | [Hypno](https://open.spotify.com/track/32Fwfy9AeuoGx79Wik8N2b) | [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Hypno](https://open.spotify.com/album/6LDxGC0LqKrh2oF2a79Coz) | 2:49 | 2021-12-01 | 2022-01-13 |
+| [Hysteria](https://open.spotify.com/track/6gTnxcDgHr1Io7s4AYNH7P) | [LUELLA](https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9) | [Hysteria](https://open.spotify.com/album/3SWt53l66wE5SyUfHclnDi) | 3:20 | 2025-10-01 |  |
 | [Hysterical](https://open.spotify.com/track/7sm3rjniGkoRTKzLlIakj6) | [Pet Owner](https://open.spotify.com/artist/2MAWOCGirMzh0HfAuhDESM) | [Hysterical](https://open.spotify.com/album/0ZF5rf7yA51sHwW4OhenYB) | 3:31 | 2022-06-08 | 2022-06-30 |
 | [I Am in an Emotional Coma](https://open.spotify.com/track/0MKINi6vsinKPehE6JTh8K) | [Halo Kitsch](https://open.spotify.com/artist/4kjYrogjc9CwlkeA6Sy9mH) | [I Am in an Emotional Coma](https://open.spotify.com/album/1B1WYcpOGClmM6WMjrwyTw) | 3:01 | 2021-12-01 | 2022-01-13 |
 | [I am the Dancer](https://open.spotify.com/track/0WjqLck2q5ZesyxfApXCwg) | [Clinic Stars](https://open.spotify.com/artist/4RUvTFpJ6IZiKQYtQyOnXP) | [Only Hinting](https://open.spotify.com/album/0TxWLDT1r8ET4Olwuu1dib) | 6:24 | 2024-09-25 | 2024-12-05 |

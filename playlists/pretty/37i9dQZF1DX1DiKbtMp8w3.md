@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,429 likes - 211 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,438 likes - 211 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 24 | [C’est la Vie](https://open.spotify.com/track/3pGnZWHOC5CFzr8Wu334oQ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Que ta tête fleurisse toujours](https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u) | 3:28 |
 | 25 | [Apartment](https://open.spotify.com/track/02bYvwUqnJcsxGCYkSoy6n) | [Yoon Soo Il](https://open.spotify.com/artist/12gpNl4LplWrtayipYi5Jl), [윤수일](https://open.spotify.com/artist/2SNwcqsHigPHQNhWCnCeCu) | [Yoon Soo Il 6th Album \(It](https://open.spotify.com/album/3jqr0AELwT0sCrnQUcGjf2) | 3:52 |
 | 26 | [Forest Sea Town on Island](https://open.spotify.com/track/7tGCyaRO25mOfPZCj5GGAD) | [Yoon Sooil](https://open.spotify.com/artist/4EbQDafTmGSL1mVsnlqu99) | [Forest Sea Town on Island](https://open.spotify.com/album/2PKfnGYAqN8qpOSR0vkEEF) | 3:46 |
-| 27 | [황홀한 고백](https://open.spotify.com/track/4nBWyIf1vrfTJr5eP8Z42r) | [윤수일](https://open.spotify.com/artist/2SNwcqsHigPHQNhWCnCeCu) | [골든 힛트송 모음집 \[Best\] \(Best\)](https://open.spotify.com/album/7KvqtGCK1yIFeumwkUSTV4) | 3:17 |
+| 27 | [황홀한 고백](https://open.spotify.com/track/4nBWyIf1vrfTJr5eP8Z42r) | [Yoon Soo\-il](https://open.spotify.com/artist/23CT24aFkdTe2ylP7rn6rp) | [골든 힛트송 모음집 \[Best\] \(Best\)](https://open.spotify.com/album/7KvqtGCK1yIFeumwkUSTV4) | 3:17 |
 | 28 | [60’s Cardin](https://open.spotify.com/track/7fzBV8gzOUbO8doR1utLVA) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Haute Couture](https://open.spotify.com/album/3NsnHek3g4wvCSQQNQwCeg) | 3:18 |
 | 29 | [Good Times](https://open.spotify.com/track/6jtahhWFnTocDmYgyJzS1k) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams 01](https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv) | 3:24 |
 | 30 | [Sunkissed](https://open.spotify.com/track/2vUM4XXl7wHyPmYcZCmesz) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams 01](https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv) | 2:34 |

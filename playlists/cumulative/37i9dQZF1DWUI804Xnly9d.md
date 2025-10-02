@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-600 songs - 1 day 9 hr 31 min
+601 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Do Kadam](https://open.spotify.com/track/5CS1fDgk3HzMcOVXReT0mx) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH) | [Do Kadam](https://open.spotify.com/album/330MWDrYiPvDAkjagR7bzD) | 2:54 | 2024-12-23 | 2025-06-17 |
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-04 | 2024-01-20 |
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
+| [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 | 2025-09-30 |  |
 | [Doorie](https://open.spotify.com/track/3CkXsLQbfU0dDPp10a7FVJ) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [U K D](https://open.spotify.com/artist/2Nmoa6Hzb6eF1egjM76rjK) | [Doorie](https://open.spotify.com/album/28pI0qUgSonCHteYEsLyJ2) | 3:39 | 2024-02-23 | 2024-07-19 |
 | [Dooriyan](https://open.spotify.com/track/215WEhkM0NH81aJjnDjzad) | [Abhishek Rai](https://open.spotify.com/artist/2OiZEUSa2j3zh7iTshyOYK), [Ruthuraj](https://open.spotify.com/artist/3h9sN9KqD82pD4sZ95ICkB) | [Dooriyan](https://open.spotify.com/album/2nuz9KeEBHea4AztcYMMcj) | 4:38 | 2025-02-14 | 2025-03-13 |
 | [Dooriyan](https://open.spotify.com/track/0ppwDEu7J3NdPNIUHtpsUB) | [Lega\-C](https://open.spotify.com/artist/6PFF32ltwmEyLcwX6FD2mG), [Saubhagya](https://open.spotify.com/artist/21efmh0LXU7EX5pTi6Xr1f), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Dooriyan](https://open.spotify.com/album/1inFZC4j9k9thsOvzY6YSI) | 3:20 | 2024-09-05 | 2024-10-01 |
@@ -597,7 +598,7 @@
 | [Ye Sama](https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv) | [Muzaffer](https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm) | [Ye Sama](https://open.spotify.com/album/57VlJwy79d6s3pkCcqsvvn) | 3:23 | 2023-05-17 | 2023-06-24 |
 | [Ye Waadiyan](https://open.spotify.com/track/04vlWhJFQtQ5mVrAm7T4zp) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Ye Waadiyan](https://open.spotify.com/album/08g7QDxP7NRPpmExqCDvDJ) | 2:50 | 2024-10-07 | 2024-10-26 |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 | 2024-02-29 |
-| [Yeh Jo Din](https://open.spotify.com/track/3KszvzmyVCUBFM1YwrCik9) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Yeh Jo Din](https://open.spotify.com/album/4nBP7ughDRWgXEUw0hx8bs) | 2:40 | 2025-01-17 |  |
+| [Yeh Jo Din](https://open.spotify.com/track/3KszvzmyVCUBFM1YwrCik9) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Yeh Jo Din](https://open.spotify.com/album/4nBP7ughDRWgXEUw0hx8bs) | 2:40 | 2025-01-17 | 2025-10-02 |
 | [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 | 2023-12-07 |
 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 | 2023-12-01 | 2025-03-22 |
 | [Yeh Shaam \- Piano Version](https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 3:55 | 2024-01-19 | 2024-06-15 |

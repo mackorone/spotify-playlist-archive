@@ -13593,6 +13593,24 @@
     },
     {
       "album": {
+        "name": "SAKU",
+        "url": "https://open.spotify.com/album/3dnvRymeMXh17lqIYN9H75"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243040,
+      "name": "\u82b1\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/3gmieCgCITvaVwrwbJBr7U"
+    },
+    {
+      "album": {
         "name": "Endless Happy-Ending",
         "url": "https://open.spotify.com/album/6dBgrtQcKpiwavwseEu6Su"
       },

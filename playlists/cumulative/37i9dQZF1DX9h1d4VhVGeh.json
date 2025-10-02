@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Hoda Collection, Vol. 4",
+        "url": "https://open.spotify.com/album/28MaTReQz0UvddQKn2Gc87"
+      },
+      "artists": [
+        {
+          "name": "Hoda",
+          "url": "https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152295,
+      "name": "Bayni Wa Baynak",
+      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+      "album": {
         "name": "\u0628\u0627\u0644\u0623\u062d\u0644\u0627\u0645",
         "url": "https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop"
       },
@@ -920,6 +938,28 @@
       "duration_ms": 294402,
       "name": "Bshi Yom",
       "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
+    },
+    {
+      "album": {
+        "name": "Eella (Music from the Play)",
+        "url": "https://open.spotify.com/album/0jOwn20BQkhAS9vs7VnPMz"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        },
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "Btazkor Bel Layl",
+      "url": "https://open.spotify.com/track/5qa7qeIhhgDQpspgxZs9V5"
     },
     {
       "album": {
@@ -1226,7 +1266,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 272333,
       "name": "Fasl",
       "url": "https://open.spotify.com/track/4QqcuDdCWhKKlnDFJtDTJH"
@@ -1724,7 +1764,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 272404,
       "name": "Khallini Bel Jaw",
       "url": "https://open.spotify.com/track/4YlIyphEnQcSoMMn2WnsHc"
@@ -1746,6 +1786,24 @@
       "duration_ms": 272471,
       "name": "Khallini Bel Jaw",
       "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
+    },
+    {
+      "album": {
+        "name": "Best of Salwa El Katrib, Vol. 1",
+        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
+      },
+      "artists": [
+        {
+          "name": "Salwa El Katrib",
+          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "Khedni Maak Aa Darb Bi'ldi",
+      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
     },
     {
       "album": {
@@ -3322,7 +3380,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 369661,
       "name": "Ya Bay (Live)",
       "url": "https://open.spotify.com/track/1e5Q8Pyr4iFRtMCEB4eCYP"

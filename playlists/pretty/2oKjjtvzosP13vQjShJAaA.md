@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 1,350 likes - 15 songs - 42 min 17 sec
+[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 1,353 likes - 15 songs - 42 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bauchnabel](https://open.spotify.com/track/1OJmySRtkYu44yNzoPAlqn) | [\*maliiik](https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd), [JACE](https://open.spotify.com/artist/3MEdIhw0C1WCzoIPxtifZ2) | [Bauchnabel](https://open.spotify.com/album/2mEGnFcwejIairpqtyNfDC) | 2:36 |
+| 1 | [Bauchnabel](https://open.spotify.com/track/1OJmySRtkYu44yNzoPAlqn) | [\*maliiik](https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd), [Aule](https://open.spotify.com/artist/7bgxLrixeIihZY6ZoSMTGa), [JACE](https://open.spotify.com/artist/3MEdIhw0C1WCzoIPxtifZ2) | [Bauchnabel](https://open.spotify.com/album/2mEGnFcwejIairpqtyNfDC) | 2:36 |
 | 2 | [TYPE](https://open.spotify.com/track/17yIL1ptjYI6q5z2GOc3ew) | [ALYZAH](https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM), [MP FRESHLY](https://open.spotify.com/artist/2bdEzd2yRdFpuoShrO9gri) | [TYPE](https://open.spotify.com/album/2g2X0fL8Dbtj9KEeLndvA6) | 3:12 |
 | 3 | [Taj Mahal](https://open.spotify.com/track/33kAHshXdvhvVW95Wo0b7b) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Taj Mahal](https://open.spotify.com/album/5CE68HsK3o5QLB0eWscRj1) | 3:37 |
 | 4 | [Feenflügel](https://open.spotify.com/track/4IbuQg4jJWfdcBEeHrFYUU) | [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Oga Beats](https://open.spotify.com/artist/3igQRzdkWRLAPjYe1aFVE5) | [Feenflügel / All meine Fehler](https://open.spotify.com/album/69Fq6Ezj1EJJnsOAt8W1ne) | 2:16 |

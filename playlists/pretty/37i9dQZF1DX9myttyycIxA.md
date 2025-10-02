@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Phantastic Ferniture
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,305 likes - 160 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,318 likes - 160 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

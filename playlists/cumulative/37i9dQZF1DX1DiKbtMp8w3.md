@@ -472,7 +472,7 @@
 | [항해\(Far away\)](https://open.spotify.com/track/2mPbK7MvB81iCKbT36634f) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:22 | 2022-10-07 | 2024-04-19 |
 | [헤어진 후에](https://open.spotify.com/track/0bgGtA9CzvzgKoqe15CXYZ) | [Y2K](https://open.spotify.com/artist/7GYXNTimKh0sIDC0xTFfHL) | [YⅡK](https://open.spotify.com/album/3AzdvnDFhnwPUnvD86glOO) | 3:30 | 2025-08-08 |  |
 | [호롱불 Oil Lamp](https://open.spotify.com/track/0XcYZw7nnNXnNAuG0szax9) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [호롱불 Oil Lamp](https://open.spotify.com/album/5pgVYAa5iUAx2KMOtmv1v9) | 4:45 | 2022-10-06 | 2025-08-09 |
-| [황홀한 고백](https://open.spotify.com/track/4nBWyIf1vrfTJr5eP8Z42r) | [윤수일](https://open.spotify.com/artist/2SNwcqsHigPHQNhWCnCeCu) | [골든 힛트송 모음집 \[Best\] \(Best\)](https://open.spotify.com/album/7KvqtGCK1yIFeumwkUSTV4) | 3:17 | 2025-09-02 |  |
+| [황홀한 고백](https://open.spotify.com/track/4nBWyIf1vrfTJr5eP8Z42r) | [Yoon Soo\-il](https://open.spotify.com/artist/23CT24aFkdTe2ylP7rn6rp) | [골든 힛트송 모음집 \[Best\] \(Best\)](https://open.spotify.com/album/7KvqtGCK1yIFeumwkUSTV4) | 3:17 | 2025-09-02 |  |
 | [희야](https://open.spotify.com/track/2eZNE9o1YGOswDH82Eh3Vv) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:22 | 2022-08-25 | 2025-08-09 |
 
 \*This playlist was first scraped on 2022-08-13. Prior content cannot be recovered.

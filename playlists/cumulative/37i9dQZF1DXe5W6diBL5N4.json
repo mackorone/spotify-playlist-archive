@@ -5350,7 +5350,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 255431,
       "name": "A Heart Wandering All Night",
       "url": "https://open.spotify.com/track/7F8KqqBxoTOIB6YUmMnF1E"
@@ -11624,7 +11624,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 234832,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP"
@@ -22368,6 +22368,24 @@
       "duration_ms": 180000,
       "name": "bed",
       "url": "https://open.spotify.com/track/079Yvh4gwk26Ft7dBnKWNt"
+    },
+    {
+      "album": {
+        "name": "bed",
+        "url": "https://open.spotify.com/album/20sSwVzx3X9NBSR4azn70s"
+      },
+      "artists": [
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191367,
+      "name": "bed",
+      "url": "https://open.spotify.com/track/3WjCpwFkASYJ9aVXZadUcA"
     },
     {
       "album": {
@@ -54664,7 +54682,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 254189,
       "name": "Don\u2019t worry (Feat. Cheol-Kyu Lee, Jang Juan)",
       "url": "https://open.spotify.com/track/4OrSgeUEEX9gNErjmUh5OQ"
@@ -60464,7 +60482,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 219386,
       "name": "Enchanted Love",
       "url": "https://open.spotify.com/track/4066caHjemtlLOTrS9ZM8p"
@@ -62024,7 +62042,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 262266,
       "name": "ETERNAL AIRLINE",
       "url": "https://open.spotify.com/track/4hRYW8V4wjnEdQ6jgGa3mo"
@@ -66598,7 +66616,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 260000,
       "name": "Falling Night",
       "url": "https://open.spotify.com/track/7sJaE7dkkoPO28sKcvDpfx"
@@ -71612,7 +71630,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 224493,
       "name": "Fluffy Seed",
       "url": "https://open.spotify.com/track/6DnScO243n4YyRj9ac4q3A"
@@ -112379,6 +112397,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m right here",
+        "url": "https://open.spotify.com/album/3XrsTukJTj9ANLD0eT8coJ"
+      },
+      "artists": [
+        {
+          "name": "Bluepaprika",
+          "url": "https://open.spotify.com/artist/5UsQ1MY9PhBPfYkbb1cC0z"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260235,
+      "name": "I\u2019m right here",
+      "url": "https://open.spotify.com/track/6yTCMjFfKAb4HzoF7DGow6"
+    },
+    {
+      "album": {
         "name": "I\u2019m So Happy For You",
         "url": "https://open.spotify.com/album/0YKwAxrDOIZ4Y3NjxDd4Vf"
       },
@@ -122917,6 +122953,28 @@
     },
     {
       "album": {
+        "name": "Like a lie (Feat. Hollow Young)",
+        "url": "https://open.spotify.com/album/3sKFIKpBV7znYi3HEmTJDr"
+      },
+      "artists": [
+        {
+          "name": "seizetheday",
+          "url": "https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB"
+        },
+        {
+          "name": "Hollow Young",
+          "url": "https://open.spotify.com/artist/2LsV2BYhHlt1wGqVBu8Dwe"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165674,
+      "name": "Like a lie (Feat. Hollow Young)",
+      "url": "https://open.spotify.com/track/0i4ibrQDlwlSrkMeWQGua0"
+    },
+    {
+      "album": {
         "name": "Like a Miracle",
         "url": "https://open.spotify.com/album/1cTU6taR9eLQGgnaYnurhq"
       },
@@ -128810,6 +128868,24 @@
       "duration_ms": 260733,
       "name": "Love from a Real Heart(2023)",
       "url": "https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz"
+    },
+    {
+      "album": {
+        "name": "Love Game\u2764\ufe0f",
+        "url": "https://open.spotify.com/album/3OTJkQvTdUeImiTgp4zXYy"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Love Game\u2764\ufe0f",
+      "url": "https://open.spotify.com/track/7qN4XytpczA1ndx5q050Kp"
     },
     {
       "album": {
@@ -154064,7 +154140,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 199000,
       "name": "Not Turning Back",
       "url": "https://open.spotify.com/track/0fYjITBdiIwMNuoZqkhUbj"
@@ -165328,6 +165404,24 @@
       "duration_ms": 152586,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/7gKaiNKGoAXQaKne3Feaeh"
+    },
+    {
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0hSLLiwB1NwfUTe0iyiuJg"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Sik",
+          "url": "https://open.spotify.com/artist/6KQYNyGaP0jX300OaEdaY0"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/4Q4UBR7EdHxYPug9BMDVVJ"
     },
     {
       "album": {
@@ -179474,6 +179568,24 @@
       "duration_ms": 203360,
       "name": "RUCKUS",
       "url": "https://open.spotify.com/track/6X17eeNgCoYfNPOwHfTsSv"
+    },
+    {
+      "album": {
+        "name": "EXchange4, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
     },
     {
       "album": {
@@ -203638,7 +203750,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 203265,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/5hVsVZ5cXGIdRlMhcXsCOq"
@@ -204182,6 +204294,36 @@
       "duration_ms": 199000,
       "name": "SUN & MOON",
       "url": "https://open.spotify.com/track/5hydYnlC66FvUwY5nYp9sI"
+    },
+    {
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/37LRZ4NJqLIBCGUSjNyUJ6"
+      },
+      "artists": [
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "June One",
+          "url": "https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sun (Feat. June One of Glen Check, GEMINI, Gist)",
+      "url": "https://open.spotify.com/track/42MPUrbKe5RIv0EibEerK0"
     },
     {
       "album": {
@@ -211309,6 +211451,24 @@
     },
     {
       "album": {
+        "name": "SHE SAID",
+        "url": "https://open.spotify.com/album/3bgtif2FElfP9tweCSxF46"
+      },
+      "artists": [
+        {
+          "name": "IOHBOY",
+          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "That\u2019ll Never Sell",
+      "url": "https://open.spotify.com/track/2hMyEXwkTfYOxrZtCsugGS"
+    },
+    {
+      "album": {
         "name": "That\u2019s all",
         "url": "https://open.spotify.com/album/7nrWwUHACD51HLQDf1B3PB"
       },
@@ -215730,7 +215890,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 183428,
       "name": "The Summer We Shared",
       "url": "https://open.spotify.com/track/0BtqyDF7zslNB6aXx1sQZl"
@@ -220518,7 +220678,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 229275,
       "name": "To Our Youth",
       "url": "https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G"
@@ -234059,6 +234219,24 @@
     },
     {
       "album": {
+        "name": "We were like the stars of dawn",
+        "url": "https://open.spotify.com/album/6xh2EwO8xCQPmAnYPdWxsd"
+      },
+      "artists": [
+        {
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200279,
+      "name": "We were like the stars of dawn (Dawn)",
+      "url": "https://open.spotify.com/track/4jVdIOnlemGMLnAAJZjDTx"
+    },
+    {
+      "album": {
         "name": "We Were So Beautiful",
         "url": "https://open.spotify.com/album/0MSJpzMd2t8mB69BTGHvSZ"
       },
@@ -241017,6 +241195,24 @@
     },
     {
       "album": {
+        "name": "Wind that blows",
+        "url": "https://open.spotify.com/album/71Dd0dSSAISVUxvpzhgQDj"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Wind that blows",
+      "url": "https://open.spotify.com/track/71ApV2H6XkyZtrKxB6WIod"
+    },
+    {
+      "album": {
         "name": "[THE SEASONS Vol.\u2161. 3] <AKMU's Long day Long night> Re\u02d0Wake x O3ohn",
         "url": "https://open.spotify.com/album/2sv6G5esKnaiJHmzOgoHuq"
       },
@@ -244480,7 +244676,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-02",
       "duration_ms": 167000,
       "name": "Worry Monster",
       "url": "https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT"
@@ -250662,6 +250858,24 @@
       "duration_ms": 196746,
       "name": "You\u2019re the only one - Male Ver.",
       "url": "https://open.spotify.com/track/09gozpraWpfYgaptYIBDfj"
+    },
+    {
+      "album": {
+        "name": "You\u2019re the Reason",
+        "url": "https://open.spotify.com/album/3xVKf7cBwdVZtz9FR2nzy3"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167826,
+      "name": "You\u2019re the Reason",
+      "url": "https://open.spotify.com/track/48wYje02AVFcCe2tKGZKOe"
     },
     {
       "album": {
