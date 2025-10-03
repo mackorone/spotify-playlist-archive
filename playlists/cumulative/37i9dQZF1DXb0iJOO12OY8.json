@@ -447,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Bra For Meg",
+        "url": "https://open.spotify.com/album/2HxOPVUe7pzIqTNA8eoGcw"
+      },
+      "artists": [
+        {
+          "name": "PandaPanda",
+          "url": "https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5"
+        },
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "Bra For Meg",
+      "url": "https://open.spotify.com/track/79CijW0BLwU5OvmYNmttyo"
+    },
+    {
+      "album": {
         "name": "VENUS",
         "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
@@ -1723,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "La meg leve",
+        "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125091,
+      "name": "La meg leve",
+      "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
+    },
+    {
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -2460,7 +2500,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 145111,
       "name": "Ryker p\u00e5'a igjen",
       "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 115443,
       "name": "TIME",
       "url": "https://open.spotify.com/track/1RFT0A7lSYgLuFq90bGCqR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,581 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,632 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 23 | [Tales of the Future](https://open.spotify.com/track/21aDHnHXtZqnxqLaD0chkG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:46 |
 | 24 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 | 25 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 26 | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
+| 26 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 27 | [Transmission 01](https://open.spotify.com/track/5rbSdmjpfIXrAfSMRIh2eS) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [End of Transmission](https://open.spotify.com/album/73dzZJt3kdrqH4T9luIhKb) | 3:23 |
-| 28 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
+| 28 | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
 | 29 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 |
 | 30 | [24.03](https://open.spotify.com/track/5jgJT45Eeitvo5rrSsu0sv) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:13 |
 | 31 | [Huginn and Muninn](https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Hrafnamynd](https://open.spotify.com/album/0JlfmX8k9AhOG1ZdRvkpbc) | 4:36 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 60 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
 | 61 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 |
 | 62 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
-| 63 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
-| 64 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 63 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 64 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
 | 65 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 |
 | 66 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
 | 67 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |

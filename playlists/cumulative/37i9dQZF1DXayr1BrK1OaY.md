@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-575 songs - 1 day 9 hr 53 min
+576 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [It's over](https://open.spotify.com/track/1KDP4v9OypBwqGqiG23jVC) | [Noche](https://open.spotify.com/artist/0mnOvl550DlpNOKzb0y07F) | [It's over](https://open.spotify.com/album/5Y5Q5z31Pu03K6Y2g4CHvI) | 2:53 | 2025-05-23 | 2025-08-30 |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-04-13 |
 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2021-04-02 | 2024-12-08 |
-| [Just a Memory](https://open.spotify.com/track/3SHfCPmzURx6jznfOmDb9t) | [Emmy Adelle](https://open.spotify.com/artist/6wYMMrkpIsZle8uBBR8pVv) | [Just a Memory](https://open.spotify.com/album/040JO7fThaJlmBQnhLV4hk) | 3:13 | 2025-08-08 | 2025-08-30 |
+| [Just a Memory](https://open.spotify.com/track/3SHfCPmzURx6jznfOmDb9t) | [Emmy Adelle](https://open.spotify.com/artist/6wYMMrkpIsZle8uBBR8pVv) | [Just a Memory](https://open.spotify.com/album/040JO7fThaJlmBQnhLV4hk) | 3:13 | 2025-08-08 |  |
 | [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 | 2023-10-13 | 2024-04-19 |
 | [Just Over](https://open.spotify.com/track/6vOane9RzzOIITCvbHJ6m2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Just Over](https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx) | 2:54 | 2023-01-06 | 2023-10-13 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-06 |  |
@@ -319,6 +319,7 @@
 | [Love Letter](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 | 2022-03-25 | 2024-08-17 |
 | [Love Tonight](https://open.spotify.com/track/4O08MXwFgXuoyjmbz8boTe) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Love Tonight](https://open.spotify.com/album/1E7EGXHRWEh1fD66BIUVE5) | 3:20 | 2024-10-04 | 2025-01-18 |
 | [LOVE U BETTER](https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [LOVE U BETTER](https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b) | 2:40 | 2024-06-17 | 2024-09-07 |
+| [Lying](https://open.spotify.com/track/7Gzepfu9hyKve52N2BGgrI) | [Ubo](https://open.spotify.com/artist/5peplsISsiy24ahC61Z5Wr) | [Lying](https://open.spotify.com/album/4lKdV1d6vnjJo17Gp8Q7Wf) | 3:34 | 2025-09-26 |  |
 | [Maia](https://open.spotify.com/track/2rcD1hgU1oAAunEPEb7l4D) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Maia](https://open.spotify.com/album/4mioEaItYAzYh9chJBuQ5Y) | 5:12 | 2021-09-24 | 2022-06-16 |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-04-02 | 2022-04-12 |
 | [Mandala](https://open.spotify.com/track/3Uc2IHiwx7VHNMzvyTkRtA) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Mandala](https://open.spotify.com/album/0rsqoXduJ6br36z3Pp7Ydy) | 4:49 | 2021-04-28 | 2022-07-29 |
@@ -393,7 +394,7 @@
 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 | 2025-07-04 |  |
 | [Overtones](https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Overtones](https://open.spotify.com/album/4tY6Z1lYShKuvQMt3tMV7k) | 4:29 | 2021-08-14 | 2022-07-29 |
 | [Pain Away](https://open.spotify.com/track/0gLLQYl3itIpb6HiYP277M) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Pain Away](https://open.spotify.com/album/1IKLpQ4FP0zn3Qo45tEioP) | 2:35 | 2024-08-16 | 2024-11-09 |
-| [Pain Away \- Atura Remix](https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Pain Away \(Atura Remix\)](https://open.spotify.com/album/3nUTtQG5mGLqf3dKugipHw) | 3:19 | 2023-12-08 |  |
+| [Pain Away \- Atura Remix](https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Pain Away \(Atura Remix\)](https://open.spotify.com/album/3nUTtQG5mGLqf3dKugipHw) | 3:19 | 2023-12-08 | 2025-10-03 |
 | [Part of Me](https://open.spotify.com/track/5NUVTH9lPD05WyuSGGm3cW) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Part of Me](https://open.spotify.com/album/053hffrVHJMAF68VRoQwXY) | 3:02 | 2024-06-28 | 2025-03-01 |
 | [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-05-06 | 2024-09-03 |
 | [Peace In Silence](https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Peace In Silence](https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx) | 2:10 | 2023-12-15 | 2025-09-07 |

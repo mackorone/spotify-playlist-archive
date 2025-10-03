@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-592 songs - 2 day 7 hr 45 min
+593 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 | 2023-01-13 |
 | [Move It Up \- Original Mix](https://open.spotify.com/track/7CsYDuQ3bJj9Bdk9QtWXLg) | [DJ Romain](https://open.spotify.com/artist/4wFXtrXI9ZLILb0K3uOh2z) | [Move It Up](https://open.spotify.com/album/06kHaeie7vyYUKZK0rNOhB) | 5:40 | 2025-05-19 |  |
 | [Movin shadow \- Doug Gomez remix](https://open.spotify.com/track/2wvkzel8o5FXLjAizeBtkU) | [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs), [Doug Gomez](https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc) | [Movin shadow \(Doug Gomez remix\)](https://open.spotify.com/album/6A1BOJiyrzP6DLQCMOz3UZ) | 8:17 | 2025-09-26 |  |
+| [Movin shadow \- Fred Everything remix](https://open.spotify.com/track/0XkvC8okFYADMe8YYomucL) | [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs), [Fred Everything](https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS) | [Movin shadow \(Fred Everything remix\)](https://open.spotify.com/album/5q1wlRo748FmWvZ4JMtKOX) | 5:52 | 2025-09-26 |  |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 | 2023-07-08 |
 | [Much More \- Original Mix](https://open.spotify.com/track/2lFrVtirJYyPVH6MPWX5Wk) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS), [Fabrizio Monaco](https://open.spotify.com/artist/3fGtx9THfCUB6uv8H0FuaE) | [Much More \(Original Mix\)](https://open.spotify.com/album/00ADXjvPePzFMflFPpYjYa) | 6:47 | 2025-08-30 |  |
 | [Must Be Deep](https://open.spotify.com/track/7GJYxTXdyiK3Et9S4d1A5a) | [Demarkus Lewis](https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl) | [Must Be Deep](https://open.spotify.com/album/6NvIv5dwgd5CQcCUNMz238) | 5:53 | 2024-04-11 | 2024-12-12 |

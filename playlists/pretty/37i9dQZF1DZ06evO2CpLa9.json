@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACl8UexAzgf6WRkciTK1wiB",
+  "snapshot_id": "aNxvAAAAAAA21V/TS4jShCKGws8x6iiw",
   "tracks": [
     {
       "added_at": null,
@@ -191,30 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuidando El Territorio",
-        "url": "https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 186833,
-      "name": "Cuidando El Territorio",
-      "url": "https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
       },
@@ -235,6 +211,30 @@
       "duration_ms": 267796,
       "name": "Todo Va Estar Bien",
       "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuidando El Territorio",
+        "url": "https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 186833,
+      "name": "Cuidando El Territorio",
+      "url": "https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 292000,
       "name": "Mi Decepci\u00f3n",
       "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Hambre",
+      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solamente",
         "url": "https://open.spotify.com/album/5dO3wpokgv43lw96nQBvzG"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 181000,
       "name": "Solamente",
       "url": "https://open.spotify.com/track/1Dg29EgoDnKx3FXxTz2Adz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Hambre",
-      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
     },
     {
       "added_at": null,
@@ -1143,6 +1143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Si Nos Vamos",
+        "url": "https://open.spotify.com/album/49XyV9pc6KkimnDrVzrgdI"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 211361,
+      "name": "Y Si Nos Vamos",
+      "url": "https://open.spotify.com/track/75yIi0f2Uy2i1nBGaVTOiH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Aqu\u00ed Estuvieras",
         "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
       },
@@ -1171,26 +1187,6 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRISTIAN",
-        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "GTO",
-      "url": "https://open.spotify.com/track/5jusHXxUi4wX3uAXc6cHH6"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

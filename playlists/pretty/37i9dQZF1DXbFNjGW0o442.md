@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,860 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,867 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 91 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
 | 92 | [Fuego Sobre Fuego](https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv) | [Las Blacanblus](https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I) | [Suena En Mí](https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr) | 4:10 |
 | 93 | [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 |
-| 94 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 |
-| 95 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
+| 94 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
+| 95 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 |
 | 96 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 |
 | 97 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
 | 98 | [Escapar](https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Escapar](https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR) | 4:01 |

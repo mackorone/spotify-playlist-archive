@@ -4,7 +4,7 @@
 
 > Music from "The Disastrous Life of Saiki K."! /アニメ「斉木楠雄のΨ難」の世界を彩る楽曲をプレイリストで。©麻生周一／集英社・PK学園R
 
-105 songs - 2 hr 25 min
+106 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [サブタイトル5](https://open.spotify.com/track/45S3J0CLotLCC3YJNySWQx) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [テレビアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック2](https://open.spotify.com/album/12oiRo3QQqaGe0nUBSR16L) | 0:06 | 2025-08-15 |  |
 | [ショック](https://open.spotify.com/track/7BDeeUA73TE5s3OGC57ZYp) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [TVアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック](https://open.spotify.com/album/1ToCUp41uNlN9A9tHgFnKJ) | 1:20 | 2025-08-15 |  |
 | [ジャッジメント・ナイツ・オブ・サンダー](https://open.spotify.com/track/6e0cVj8vtLqjkJUkYUnZX3) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [TVアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック](https://open.spotify.com/album/1ToCUp41uNlN9A9tHgFnKJ) | 1:31 | 2025-08-15 |  |
+| [ジャッジメント・ナイツ・オブ・サンダー](https://open.spotify.com/track/5CBMUWc8AGxIOyISDIi21i) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [ジャッジメント・ナイツ・オブ・サンダー](https://open.spotify.com/album/250UPdRUa1ehjskQi3eu28) | 1:33 | 2025-10-02 |  |
 | [ダークリユニオン](https://open.spotify.com/track/54D6N5jBHpTLwUujlCDWyl) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [TVアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック](https://open.spotify.com/album/1ToCUp41uNlN9A9tHgFnKJ) | 1:20 | 2025-08-15 |  |
 | [トキメキの予感](https://open.spotify.com/track/3as5NHoPPdRvbviRZcmFT6) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [テレビアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック2](https://open.spotify.com/album/12oiRo3QQqaGe0nUBSR16L) | 1:51 | 2025-08-15 |  |
 | [ブラッディ・ムーン](https://open.spotify.com/track/0SG2hTflQXAC2ejTWJc4sN) | [海藤瞬 \(CV: 島﨑信長\)](https://open.spotify.com/artist/2YNC8u7KBaMgyiH52DxmZQ) | [TVアニメ「斉木楠雄のΨ難」キャラクターソング「ブラッディ・ムーン」・「エンジェルウインク」](https://open.spotify.com/album/3e9wr1KTM9chc8wOWMQWdM) | 3:48 | 2025-08-15 |  |

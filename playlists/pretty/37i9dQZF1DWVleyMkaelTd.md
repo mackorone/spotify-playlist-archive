@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,826 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,896 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 99 | [Praia de Ipanema](https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Praia de Ipanema](https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1) | 4:01 |
 | 100 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 |
 
-Snapshot ID: `AAAAADaV8HkHtxRWge+jmojxyoTGR+Hc`
+Snapshot ID: `AAAAAHJvOs5dGsEUbTAqa1RdYK0T14UC`

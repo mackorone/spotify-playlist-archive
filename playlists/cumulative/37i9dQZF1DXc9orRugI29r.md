@@ -4,7 +4,7 @@
 
 > LAS CANCIONES MÁS 🔥🔥🔥 Desde Iztapalapa hasta Buenos Aires
 
-954 songs - 2 day 2 hr 40 min
+954 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-15 | 2023-12-19 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 | 2024-01-15 |
 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 | 2025-07-03 | 2025-08-30 |
-| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 | 2025-09-05 |  |
+| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 | 2025-09-05 |  |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-06-30 | 2022-08-09 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 | 2025-01-04 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-11-25 | 2023-04-27 |

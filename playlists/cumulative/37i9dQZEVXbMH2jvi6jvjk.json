@@ -174,6 +174,36 @@
     {
       "album": {
         "name": "10 GRAM",
+        "url": "https://open.spotify.com/album/4W7JaKmGdr8BtMKaEi6lHz"
+      },
+      "artists": [
+        {
+          "name": "REAL K MFANAKOTA",
+          "url": "https://open.spotify.com/artist/3BhtoQNyFgvWovKZzZOtzT"
+        },
+        {
+          "name": "Natiey Lepaka",
+          "url": "https://open.spotify.com/artist/6lY3XPzSDyMhy30hWwgSzD"
+        },
+        {
+          "name": "Nova sa style",
+          "url": "https://open.spotify.com/artist/4I8qIZwLyx6CqE88hHGnjJ"
+        },
+        {
+          "name": "Westboy",
+          "url": "https://open.spotify.com/artist/4feLzuIrjiKM2KirRK56Zz"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272949,
+      "name": "10 GRAM",
+      "url": "https://open.spotify.com/track/0xa7KEhwcvEtWbiLuelUWu"
+    },
+    {
+      "album": {
+        "name": "10 GRAM",
         "url": "https://open.spotify.com/album/5kHEKEs6dL23bcHv1rJdPH"
       },
       "artists": [
@@ -4364,7 +4394,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 228884,
       "name": "Awsukanini",
       "url": "https://open.spotify.com/track/21lD8ZDP6nbEAUtoSQl032"
@@ -4438,7 +4468,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 372375,
       "name": "Ayaphi Amaphoyisa",
       "url": "https://open.spotify.com/track/2ez4Ors2dEJlMvUYWTtHzj"
@@ -19482,7 +19512,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 348490,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5ig0RnKG54l8pB6x6PSzDL"
@@ -23758,7 +23788,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 263000,
       "name": "Ithathe - Shenge Version",
       "url": "https://open.spotify.com/track/3NwDK579thyRXH36kNcXSN"
@@ -24148,7 +24178,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 357966,
       "name": "Izinkinga Zami (feat. SG MusiQ)",
       "url": "https://open.spotify.com/track/45oRgTSNn47SIa0st2CD69"
@@ -29970,7 +30000,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 263840,
       "name": "Makoti (Lekompo Wedding Day)",
       "url": "https://open.spotify.com/track/1qWQSXiLdc93lEvz3SmU2H"
@@ -30008,7 +30038,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 365309,
       "name": "Malacosta (feat. Vulela Maweekend, Mark Khoza & Angekebabuye Mc)",
       "url": "https://open.spotify.com/track/694QCbEzK5oLIu9PoTcuUA"
@@ -34406,7 +34436,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 274207,
       "name": "Ngikheth' utshwala",
       "url": "https://open.spotify.com/track/7GN3vScsmnGJjt8GH93r6p"
@@ -42108,7 +42138,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 224187,
       "name": "Sdudla or Slender",
       "url": "https://open.spotify.com/track/2Ufc72Ojfx9lR30r5srBPB"
@@ -44608,7 +44638,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 327457,
       "name": "Sohlala Sisonke",
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
@@ -50631,6 +50661,24 @@
     },
     {
       "album": {
+        "name": "Ya malembe",
+        "url": "https://open.spotify.com/album/6n6r12TvaMXdzoJaqOQRkY"
+      },
+      "artists": [
+        {
+          "name": "Benny Mayengani",
+          "url": "https://open.spotify.com/artist/2FeMpbAbLWwC1HuxrUdpzI"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278360,
+      "name": "U tani dlayisa",
+      "url": "https://open.spotify.com/track/1ZJLFq3S5p14YDlKi2mKNA"
+    },
+    {
+      "album": {
         "name": "Uyinja",
         "url": "https://open.spotify.com/album/0oCCoXAo3PJn6oTKnoY2Sz"
       },
@@ -54474,7 +54522,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 312293,
       "name": "Wayengenalutho",
       "url": "https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH"
@@ -55166,7 +55214,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
@@ -55474,7 +55522,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -56488,6 +56536,24 @@
       "duration_ms": 156248,
       "name": "XSCAPE",
       "url": "https://open.spotify.com/track/0jNFDcGAXPs5ahngmD5R6n"
+    },
+    {
+      "album": {
+        "name": "Ya malembe",
+        "url": "https://open.spotify.com/album/6n6r12TvaMXdzoJaqOQRkY"
+      },
+      "artists": [
+        {
+          "name": "Benny Mayengani",
+          "url": "https://open.spotify.com/artist/2FeMpbAbLWwC1HuxrUdpzI"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297848,
+      "name": "Ya malembe",
+      "url": "https://open.spotify.com/track/5GIEGdsxcXKbZmHSYdOiy0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-669 songs - 1 day 10 hr 22 min
+670 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-12-16 | 2023-01-13 |
 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 | 2023-01-12 | 2023-03-23 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2023-01-12 | 2023-03-23 |
+| [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2025-10-02 |  |
 | [I Still Love You](https://open.spotify.com/track/2jXJfq2KHFwMfarNigaIWv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:55 | 2022-10-27 | 2023-01-13 |
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-12-01 |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2023-01-12 | 2023-03-09 |

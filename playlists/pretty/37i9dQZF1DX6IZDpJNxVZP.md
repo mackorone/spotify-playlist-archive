@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,791 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,779 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 66 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 |
 | 67 | [Boo Ya!](https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Boo Ya!](https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu) | 2:36 |
 | 68 | [Rock This Halloween](https://open.spotify.com/track/1DQlPXYgSTDUGGb6Qup1JY) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [Rock This Halloween](https://open.spotify.com/album/2lHXNnieXloYVc632CpVPl) | 3:00 |
-| 69 | [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 |
-| 70 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
+| 69 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
+| 70 | [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 |
 | 71 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 |
 | 72 | [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 |
 | 73 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
-| 74 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
-| 75 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
+| 74 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
+| 75 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
 
 Snapshot ID: `AAAAAKshcQ8mHi+R71uT/F8B0NaS/GzR`

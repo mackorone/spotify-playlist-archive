@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-499 songs - 1 day 1 hr 42 min
+500 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cada um Com uma História](https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Cada um Com uma História](https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv) | 6:46 | 2023-03-03 | 2023-04-29 |
 | [Calma](https://open.spotify.com/track/50Gp5YWpRz8Qo0BxmO7okA) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Calma](https://open.spotify.com/album/1c1UsM1NjxmLxlqV9RmPlU) | 3:40 | 2023-09-25 | 2023-10-07 |
 | [Calma](https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr) | [Machini](https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Calma](https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3) | 2:35 | 2022-06-17 | 2022-08-20 |
+| [Calma Filho](https://open.spotify.com/track/73dmTrHDOKT0BA2IK0LPAR) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Calma Filho](https://open.spotify.com/album/6bAGlW13q0y5jvLd6tFGKY) | 4:11 | 2025-10-03 |  |
 | [Caneta e Papel](https://open.spotify.com/track/364egBI3cjDsWSGvhKIrFY) | [Bepê](https://open.spotify.com/artist/7pzwAbIUsONhvIMtwz9o66), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Caneta e Papel](https://open.spotify.com/album/5rFLIptU3S95esJLrHuNB0) | 2:27 | 2023-11-24 | 2023-12-23 |
 | [Cara de Pau](https://open.spotify.com/track/4yOCFy8RwJfch8M3VpPkjY) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN) | [Cara de Pau](https://open.spotify.com/album/3AGoB5wTT6GNFNvdFGqIUM) | 2:43 | 2024-06-07 | 2024-06-29 |
 | [Carta pra Deus](https://open.spotify.com/track/6OeBK3dJroqoXOHZLitRpW) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Carta pra Deus](https://open.spotify.com/album/02VhIWlMpu9QwldivpcXWn) | 3:04 | 2022-12-06 | 2024-04-13 |
@@ -375,7 +376,7 @@
 | [Pés Descalços](https://open.spotify.com/track/1mqXptxIywQXMnCXAQqexs) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Pés Descalços](https://open.spotify.com/album/2t1XM0tpDYOTnWKLmnF4wD) | 3:12 | 2025-06-13 |  |
 | [Qual Sua Dor](https://open.spotify.com/track/01PJfKc1lNs1uIQV4drX9V) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Erick Mc](https://open.spotify.com/artist/0zn9oySXWKtlJG4ve7NgrA) | [Qual Sua Dor](https://open.spotify.com/album/47SKnflX6FLrj9zAAG7Xme) | 3:30 | 2022-03-22 | 2022-06-18 |
 | [Quando Eu Oro](https://open.spotify.com/track/7G5Fm1W2Dff5Yxh479fLoG) | [Educky](https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy), [Izza D](https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu) | [Quando Eu Oro](https://open.spotify.com/album/72K8kXBI35lTVyf5TcVw2S) | 2:38 | 2024-04-19 | 2024-09-20 |
-| [Quebrantado \- Remix](https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Fabi Silva](https://open.spotify.com/artist/7gPmWG4AxJq98Ofj6F98S0), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quebrantado \(Remix\)](https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP) | 3:48 | 2023-10-06 |  |
+| [Quebrantado \- Remix](https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Fabi Silva](https://open.spotify.com/artist/7gPmWG4AxJq98Ofj6F98S0), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quebrantado \(Remix\)](https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP) | 3:48 | 2023-10-06 | 2025-10-03 |
 | [Quem Mandou?](https://open.spotify.com/track/2J40FjoqZ732umKZMrBZSQ) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN) | [Quem Mandou?](https://open.spotify.com/album/5LA7jgwJIm6XLC5u0Uzs09) | 2:29 | 2023-04-28 | 2023-05-13 |
 | [Quero Voltar](https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quero Voltar](https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4) | 2:54 | 2024-10-07 |  |
 | [Rap Gospel \(Xerox\)](https://open.spotify.com/track/5SNBTz3Eldj1PFvmWddefo) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Rap Gospel \(Xerox\)](https://open.spotify.com/album/6VZUM34kovN64NFZVNI5Ip) | 1:50 | 2023-09-01 | 2023-09-16 |

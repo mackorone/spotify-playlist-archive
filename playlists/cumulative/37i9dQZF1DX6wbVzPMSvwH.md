@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-202 songs - 12 hr 42 min
+203 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-02-01 |  |
 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 | 2022-12-13 | 2023-11-16 |
 | [Sampai Kapan](https://open.spotify.com/track/2yhr89m0E7V16xOB3fRdF1) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:58 | 2022-12-13 | 2023-06-08 |
+| [Satu Kali](https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:44 | 2025-10-03 |  |
 | [Satu Mimpiku](https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [The Groove](https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa) | [Kuingin](https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG) | 4:19 | 2024-07-05 |  |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-13 |  |
 | [Selalu Bersama](https://open.spotify.com/track/4E0Ib1Xfhr15mQU6BNShSp) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Selalu Bersama](https://open.spotify.com/album/0nZF3NgXbl8qj7exGx9AtP) | 3:25 | 2022-12-13 | 2023-12-07 |

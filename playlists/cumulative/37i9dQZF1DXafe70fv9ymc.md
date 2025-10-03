@@ -4,7 +4,7 @@
 
 > NSFW
 
-161 songs - 8 hr 9 min
+162 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Love Me Slowly](https://open.spotify.com/track/6TyZaUTAQqncq94k5g461a) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 4:29 | 2024-10-12 |  |
 | [Loyalty](https://open.spotify.com/track/1q2jsuLItn7MCCvaPoLOdu) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:40 | 2024-02-09 | 2024-07-13 |
 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 | 2024-02-09 | 2024-06-28 |
+| [MENU](https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [MENU](https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt) | 2:39 | 2025-10-03 |  |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 |  |
 | [Mid Tempo](https://open.spotify.com/track/1z8yTKgKZA5kCbC8LsBPui) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Mid Tempo](https://open.spotify.com/album/30T55hfm5N2EBSq4xYtCJV) | 2:34 | 2025-05-09 | 2025-08-01 |
 | [Mo](https://open.spotify.com/track/1dE9i3dl3lgZJIF5DwsBkj) | [H3riQ](https://open.spotify.com/artist/1M2yyejVWWdV0rhGqKWgjz) | [Mo](https://open.spotify.com/album/5MilKSjkEUGyt5TgYomB8u) | 3:22 | 2024-03-01 | 2024-04-26 |

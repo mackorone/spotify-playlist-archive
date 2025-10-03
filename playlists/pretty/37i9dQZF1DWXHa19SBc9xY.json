@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 117106,
+  "num_followers": 117133,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 281034,
+      "name": "Tangerina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
+    },
+    {
+      "added_at": "2025-09-19 14:11:35",
+      "album": {
         "name": "Algum Ritmo",
         "url": "https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 154137,
       "name": "Idiota Raiz (Deixa Ir)",
       "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
-    },
-    {
-      "added_at": "2025-09-19 14:11:35",
-      "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 281034,
-      "name": "Tangerina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
     },
     {
       "added_at": "2025-09-19 14:11:35",
@@ -295,18 +295,22 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+        "name": "Andar Leve",
+        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+      "duration_ms": 165408,
+      "name": "Andar Leve",
+      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
     },
     {
       "added_at": "2025-09-19 14:11:35",
@@ -327,22 +331,18 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
-        "name": "Andar Leve",
-        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
       "artists": [
         {
-          "name": "TNS",
-          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 165408,
-      "name": "Andar Leve",
-      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2025-09-19 14:11:35",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
-        "name": "Apesar de Querer",
-        "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
+        "name": "15b",
+        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
       },
       "artists": [
         {
@@ -1396,13 +1396,13 @@
           "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         },
         {
-          "name": "Abacaxepa",
-          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Apesar de Querer",
-      "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
+      "duration_ms": 163566,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
     },
     {
       "added_at": "2025-09-19 14:11:35",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
+        "name": "Apesar de Querer",
+        "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
       },
       "artists": [
         {
@@ -1480,13 +1480,13 @@
           "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         },
         {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
         }
       ],
-      "duration_ms": 163566,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
+      "duration_ms": 244000,
+      "name": "Apesar de Querer",
+      "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
     },
     {
       "added_at": "2025-09-19 14:11:35",

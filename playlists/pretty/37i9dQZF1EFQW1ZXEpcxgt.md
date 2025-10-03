@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 78 | [Don't Come Around \(feat\. Kendall Morgan\)](https://open.spotify.com/track/4E4rmyjWo1BNduBxUcAf62) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Kendall Morgan](https://open.spotify.com/artist/31T99HEreO5nDrKT4H84Gl) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 3:10 |
 | 79 | [Yikes \- From 'SCOOB!' The Album](https://open.spotify.com/track/4cVGYn2wNj8KNS0VyZ3cb3) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Yikes](https://open.spotify.com/album/0Hj7q0gpsJ1SRZpOFxAeHf) | 2:09 |
 | 80 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
-| 81 | [Testify](https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:51 |
-| 82 | [Little Light](https://open.spotify.com/track/6SHau4eC5m5Eo5Gwti5upF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:00 |
+| 81 | [Little Light](https://open.spotify.com/track/6SHau4eC5m5Eo5Gwti5upF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:00 |
+| 82 | [Testify](https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:51 |
 | 83 | [Do It Now](https://open.spotify.com/track/2zt4Gi5XBwK51LykiGUKBt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Intermission I & II](https://open.spotify.com/album/0m8NYS3Trz6HLZnMAaFYiH) | 3:29 |
 | 84 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 |
 | 85 | [Vans On \- Explicit Edit](https://open.spotify.com/track/0XdSXNkZ16iDnuDPiiB5aq) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [Leaving Home EP](https://open.spotify.com/album/5nIrQ7v6eerzwqcsappkxE) | 2:58 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 132 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 133 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Ab9uxgAAAABh+ZeA57Wf+MYI0B9zUPv+`
+Snapshot ID: `Ab90NAAAAADbijPucDmsi+EUUDcBUEBy`

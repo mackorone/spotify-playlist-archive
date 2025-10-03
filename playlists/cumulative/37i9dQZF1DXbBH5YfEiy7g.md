@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: Mpumi Mtsweni
+> Praise and Worship your way with the best South African Gospel music\.  Cover: Canaan Nyathi
 
-190 songs - 20 hr 15 min
+191 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Oska Ntsheba Wa Nnyatsa \- Live](https://open.spotify.com/track/1hbQcA8MJScNJGPEGOeQDX) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 4:54 | 2024-10-11 |  |
 | [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-10-11 | 2025-04-11 |
 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 | 2024-10-04 |  |
-| [Phakama \- Live](https://open.spotify.com/track/7zfWPFtYijR2StQfCkTpdY) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI) | [Phakama \(Live\)](https://open.spotify.com/album/2V7SDIi43gD6YUcnR1OEUI) | 5:01 | 2025-09-05 |  |
+| [Phakama \- Live](https://open.spotify.com/track/7zfWPFtYijR2StQfCkTpdY) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI) | [Phakama \(Live\)](https://open.spotify.com/album/2V7SDIi43gD6YUcnR1OEUI) | 5:01 | 2025-09-05 | 2025-10-03 |
 | [Philisa](https://open.spotify.com/track/1sdWnOwub4AZKqwtzLd9Sb) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Moya Movement](https://open.spotify.com/album/1k7Juh1VvEk0tkqMjEQWTb) | 5:31 | 2025-08-01 | 2025-08-06 |
 | [Phindukhulume \- Live](https://open.spotify.com/track/0BiiuyivAWS0ipgH98pSto) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 20 \- Part 2: The Alumni \(Live\)](https://open.spotify.com/album/0Pkah6jXv0075edSio9Qgf) | 3:51 | 2024-10-11 |  |
 | [Praise Medley 2.0](https://open.spotify.com/track/1OCyrtQVxOCRHSGTxPAo27) | [Eternal Glory Worship](https://open.spotify.com/artist/6voEVpE79uGDjCM1j7qLJg) | [Praise Medley 2.0](https://open.spotify.com/album/57HwaO1HGu40UtFLTUHqs6) | 7:53 | 2025-04-18 |  |
@@ -149,6 +149,7 @@
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
+| [Track 10](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |
 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 | 2024-10-04 |  |

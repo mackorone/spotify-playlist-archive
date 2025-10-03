@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > Høsten er her! 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,693 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,775 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
 | 2 | [Propaganda](https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ) | [Briskeby](https://open.spotify.com/artist/0vwcghB4GeosdKQs0SOizP), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Propaganda](https://open.spotify.com/album/5NDlSfC0GVT5DRBSJkNX6b) | 3:13 |
 | 3 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
-| 4 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
-| 5 | [Min](https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ) | 2:25 |
+| 4 | [Min](https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ) | 2:25 |
+| 5 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 6 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 7 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 |
 | 8 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 |
-| 9 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
-| 10 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
+| 9 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
+| 10 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
 | 11 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
 | 12 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 | 13 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 |
@@ -92,6 +92,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 82 | [Huset](https://open.spotify.com/track/7kT02nWlZ2zI0LpD2YwJKI) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Huset](https://open.spotify.com/album/2wj2qHQLxK5lohVw6ibQt5) | 3:04 |
 | 83 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 |
 | 84 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 |
-| 85 | [Aldri så vondt](https://open.spotify.com/track/0Gaq0ZNS9kQwgNCmWS6ER7) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Aldri så vondt](https://open.spotify.com/album/5IWoalOQ3l7YMopQ9qyc3j) | 3:13 |
 
-Snapshot ID: `AAAAAHtRTjx5yzwBmNm+IkAKxkRZ+lRK`
+Snapshot ID: `AAAAAE/0KmJfM5oNPKX/wDK2BdFEYQCQ`

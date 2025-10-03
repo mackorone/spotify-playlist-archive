@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0dYNsffN16lSLauaeIPhy7"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163001,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/13UTiKaRrV0yUvSQ284uzs"
+    },
+    {
+      "album": {
         "name": "BERETTA",
         "url": "https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh"
       },
@@ -686,7 +704,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 195653,
       "name": "Elbe",
       "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
@@ -2599,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "LASS MICH NICHT LOS",
+        "url": "https://open.spotify.com/album/0ZfaOo0ihI1eNdOLpiDbDT"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "LASS MICH NICHT LOS",
+      "url": "https://open.spotify.com/track/3JxhB5TRGsTI1a1mnnQvfH"
+    },
+    {
+      "album": {
         "name": "Lautlos",
         "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
       },
@@ -3132,6 +3168,24 @@
       "duration_ms": 136914,
       "name": "Meine Augen",
       "url": "https://open.spotify.com/track/5MnpPgnUEiJMMa5WzbLOWe"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/63mqkFwL6GiyvqXAweVeHT"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4PFe51A35tfRKVzAl5Jzig"
     },
     {
       "album": {
@@ -4607,6 +4661,32 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -4764,7 +4844,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 167311,
       "name": "Verschwendete Zeit",
       "url": "https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi"
@@ -4996,7 +5076,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 150880,
       "name": "Wegen dir",
       "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"

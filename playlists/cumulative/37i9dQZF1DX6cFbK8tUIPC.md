@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-389 songs - 1 day 0 hr 42 min
+391 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 3:18 | 2021-12-03 | 2022-08-27 |
 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 | 2023-08-08 | 2023-08-26 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-08-18 |  |
-| [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 | 2024-08-18 |  |
+| [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 | 2024-08-18 | 2025-10-03 |
 | [Found](https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [Found](https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1) | 5:11 | 2022-09-16 |  |
 | [Frances](https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:52 | 2024-08-18 |  |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-08-18 | 2025-07-15 |
@@ -151,6 +151,7 @@
 | [God's A Different Sword](https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 3:19 | 2025-09-23 |  |
 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 | 2025-09-23 |  |
 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 | 2023-08-08 | 2025-02-23 |
+| [Hand Me Downs](https://open.spotify.com/track/2dwaytdyZoyu2fNOdUi8sR) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Hand Me Downs](https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq) | 3:29 | 2025-10-02 |  |
 | [Handle](https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Handle](https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6) | 3:25 | 2022-10-13 | 2023-08-09 |
 | [Hang Me Like Jesus](https://open.spotify.com/track/0wwfjg7kbwGuL3X0JdtHn6) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Hang Me Like Jesus](https://open.spotify.com/album/5DWrSAe8BOlwOQ15q3Io60) | 4:24 | 2022-10-13 | 2023-08-09 |
 | [Happy Just to Know](https://open.spotify.com/track/1yNHCiegeHW0uC5sN1AnTl) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:24 | 2022-06-22 | 2022-09-24 |
@@ -163,6 +164,7 @@
 | [Hearts On Fire](https://open.spotify.com/track/5siZIfq3OhVtW8VjYYOrhL) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Hearts On Fire](https://open.spotify.com/album/69BFhYrz5Synd1tbPnD9e8) | 3:33 | 2022-09-09 | 2022-10-14 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-03 |  |
 | [Heaven in the Right Light](https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Heaven in the Right Light](https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA) | 3:40 | 2024-08-18 | 2025-09-24 |
+| [Hello Sunshine](https://open.spotify.com/track/7KQuq61c48KrQ2kMIvrCuC) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Between You and Me](https://open.spotify.com/album/1C9cwCoi45V5snbeDJY3wJ) | 5:25 | 2025-10-02 |  |
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-09-23 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2021-12-03 |  |
 | [Home](https://open.spotify.com/track/1y6NrtYewc9g3XDkOdDwTQ) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [What To Expect When You're Expecting Soundtrack](https://open.spotify.com/album/2kAEABNjhDS3t4xIOO85fI) | 5:03 | 2023-09-21 | 2023-11-05 |
@@ -335,7 +337,7 @@
 | [Tarifa](https://open.spotify.com/track/54ZUSQxX61JRea6BhiwdxV) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Tarifa](https://open.spotify.com/album/21JPaeH4HiAXgaxZe82q9c) | 5:14 | 2023-08-08 | 2024-08-19 |
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-23 | 2024-09-07 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-12-03 | 2022-08-16 |
-| [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-08-25 |  |
+| [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-08-25 | 2025-10-03 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-08-08 |  |
 | [the bottom of the well](https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the bottom of the well](https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy) | 4:15 | 2021-12-03 | 2022-08-27 |
 | [The Commons](https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d) | 5:24 | 2024-10-03 |  |

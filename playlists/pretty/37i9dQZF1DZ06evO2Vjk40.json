@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 699638,
+  "num_followers": 699758,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAQVmnHmWBUWlSZN3EKVhwc",
+  "snapshot_id": "aNxvAAAAAACtrYONpWuqGL2qIlqTFMqK",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Scarecrow In The Garden",
-      "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 196706,
       "name": "Only Thing That\u2019s Gone",
       "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Scarecrow In The Garden",
+      "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
     },
     {
       "added_at": null,

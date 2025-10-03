@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,083 likes - 128 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,127 likes - 128 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 12 | [Waves and Sand Sizzle](https://open.spotify.com/track/5IYby2NCqCoc8hGUosxTjY) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Gentle Majestic Ocean Waves](https://open.spotify.com/album/5gffSIi6opT8ifjzrmsQZq) | 3:15 |
 | 13 | [Ocean Calmness](https://open.spotify.com/track/3PRHjxciZrPsj9IVyv6sbF) | [Aqua Mori](https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X) | [Ocean Calmness](https://open.spotify.com/album/3XU2dLIkoFYTqIlpZOKpqA) | 2:06 |
 | 14 | [Somnolent Sea \- Ocean](https://open.spotify.com/track/6TCHKBGVGYMNx55r5SQnA4) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Earth's Gentle Whisper \(Nature\)](https://open.spotify.com/album/6MkMYudGBe4kTQSlX55ajz) | 3:24 |
-| 15 | [Shipwreck Point](https://open.spotify.com/track/1SN4KuesD23b4mfPrm53vV) | [Beauty of Nature](https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct) | [Beach Waves](https://open.spotify.com/album/5tEQ9IoL6MCAHS43Iepe3b) | 2:28 |
+| 15 | [Shipwreck Point](https://open.spotify.com/track/1SN4KuesD23b4mfPrm53vV) | [Beauxology](https://open.spotify.com/artist/3U6v2kqGNIId0drPj45ppf) | [Beach Waves](https://open.spotify.com/album/5tEQ9IoL6MCAHS43Iepe3b) | 2:28 |
 | 16 | [Dark Blue Waves](https://open.spotify.com/track/2lre6qQ75iYsyvmwlORmBQ) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Dark Blue Waves](https://open.spotify.com/album/4pCi31FZoYt4MMgMFfRlQi) | 2:38 |
 | 17 | [Pouring Sea](https://open.spotify.com/track/2XxYa30X2WQtPXfaP13NDo) | [Aussie Main](https://open.spotify.com/artist/111w4d9SpTVkOaZzTHSBtL) | [Pouring Sea](https://open.spotify.com/album/61k8zMMCTh0YhghMgfqlt6) | 2:00 |
 | 18 | [coastal calm](https://open.spotify.com/track/47u4dZTPBWifFkYXWJvlAK) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [misted shores](https://open.spotify.com/album/6fTudCTGvkFn1XK5kEmayT) | 3:01 |

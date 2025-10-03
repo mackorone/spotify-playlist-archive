@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/590uTQ3KQ6WDRCCoJnVcIW.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 59 songs - 5 hr 34 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 60 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/590uTQ3KQ6WDRCCoJnVcIW.md) - [plain]
 | 57 | [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 |
 | 58 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 |
 | 59 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
+| 60 | [Lately \- Enamour Remix](https://open.spotify.com/track/1epW8YONDcgYdExSr1Ha6k) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:22 |
 
-Snapshot ID: `AAAAV817MLCC2Cs6LZJY9J/r5jAWMqFq`
+Snapshot ID: `AAAAWOhBIfk+rAtkM5XwrRO+ZPeI2Gj7`

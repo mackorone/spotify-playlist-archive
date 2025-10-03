@@ -1564,10 +1564,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 200975,
       "name": "Happen",
       "url": "https://open.spotify.com/track/3lieXczavxShuM9SDEtPnD"
+    },
+    {
+      "album": {
+        "name": "Happen",
+        "url": "https://open.spotify.com/album/01bVPQv63SRYWBYysr2wEN"
+      },
+      "artists": [
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200975,
+      "name": "Happen",
+      "url": "https://open.spotify.com/track/5TEiqjqNPhFQy1mcKApduO"
     },
     {
       "album": {

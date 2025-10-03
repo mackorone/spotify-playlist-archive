@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Butter II",
+        "url": "https://open.spotify.com/album/5Yj8eDOb1zGxatLjpi8611"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/4r2UrMXc7NVIhYvTeA3eiS"
+    },
+    {
+      "album": {
         "name": "Nader Khalil",
         "url": "https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG"
       },
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 142344,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/1HDMb8Yku3jIMMSH81PT4W"
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 188000,
       "name": "Outro",
       "url": "https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0"
@@ -7136,6 +7154,28 @@
       "duration_ms": 374466,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
+    },
+    {
+      "album": {
+        "name": "ya sirri",
+        "url": "https://open.spotify.com/album/5xzNDEQHzMiI3xFN6lt7RQ"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        },
+        {
+          "name": "Input/Output",
+          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185749,
+      "name": "ya sirri",
+      "url": "https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy"
     },
     {
       "album": {

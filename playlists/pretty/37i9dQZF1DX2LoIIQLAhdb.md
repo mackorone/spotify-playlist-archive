@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Favé x Genezio
+> Le R&B français, nouvelle ère\. Photo : Rsko
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,462 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,469 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [BLS \#2 \- Pas d'hasard](https://open.spotify.com/track/1qtN08oH1mGxlsj25TJaGe) | [YNV](https://open.spotify.com/artist/1WGh6BLnwr51kSSHAEOSKp) | [BLS \#2 \- Pas d'hasard](https://open.spotify.com/album/3BdB4iV5cjSkN0dWyu3g18) | 2:32 |
 | 40 | [C.V](https://open.spotify.com/track/6fCi9uLMhHznHnmD44aCQn) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Toxic Girl Music](https://open.spotify.com/album/05hVRGL2FyNmNZbZ7p4D0m) | 2:33 |
 
-Snapshot ID: `AAAAAKe5MRux8afbbc19Gfp6T1iLAZZx`
+Snapshot ID: `AAAAAEmMwKsPbMIbzcrUFHAE201DWUOH`

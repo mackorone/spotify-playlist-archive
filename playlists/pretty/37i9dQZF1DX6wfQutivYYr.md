@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Ernia sulla cover della playlist più grande in Italia 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730,418 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,730,426 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 |
 
-Snapshot ID: `AAAAAF3zovVtRphZuM8vsheurWra6u57`
+Snapshot ID: `AAAAAC6TaayStuD3v0f8YQriX7nvxfBa`

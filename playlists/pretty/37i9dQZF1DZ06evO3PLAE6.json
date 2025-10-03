@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAXsOcsLZvbw8C34BLMGokA",
+  "snapshot_id": "aNxvAAAAAAAa+6PRZqKXbI40Uy/GSaaT",
   "tracks": [
     {
       "added_at": null,
@@ -590,11 +590,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
+      "duration_ms": 178200,
+      "name": "The Divorce Song",
+      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
     },
     {
       "added_at": null,
@@ -658,15 +662,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 178200,
-      "name": "The Divorce Song",
-      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,

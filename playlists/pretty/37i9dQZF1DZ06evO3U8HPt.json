@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 21853,
+  "num_followers": 21890,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAD3f08cEum22ACp8O7jWdnd",
+  "snapshot_id": "aNxvAAAAAADM0RccAWLME9gYEFAlSrh8",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buzzes Like Neon",
-        "url": "https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23"
+        "name": "Wish I Didn't Know Now",
+        "url": "https://open.spotify.com/album/0rPZBEzGKgrKRXC8wSwViY"
       },
       "artists": [
-        {
-          "name": "Adam Hood",
-          "url": "https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk"
-        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 208175,
-      "name": "Buzzes Like Neon",
-      "url": "https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk"
+      "duration_ms": 266760,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU"
     },
     {
       "added_at": null,
@@ -475,6 +471,26 @@
       "duration_ms": 186453,
       "name": "better be tough",
       "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buzzes Like Neon",
+        "url": "https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23"
+      },
+      "artists": [
+        {
+          "name": "Adam Hood",
+          "url": "https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 208175,
+      "name": "Buzzes Like Neon",
+      "url": "https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk"
     }
   ],
   "unique_name": "This Is Ella Langley",

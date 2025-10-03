@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-543 songs - 1 day 8 hr 18 min
+546 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2024-11-28 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-10-20 | 2024-04-19 |
 | [Hold On \(with Gone Gone Beyond\)](https://open.spotify.com/track/1Zt5xYz9Fnsoa5rkbSPJWe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5) | [Hold On \(with Gone Gone Beyond\)](https://open.spotify.com/album/0MuMD4B9QNIapJlfNXMaod) | 3:27 | 2022-10-20 | 2022-12-14 |
-| [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-08-07 |  |
+| [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-08-07 | 2025-10-03 |
 | [Homesick](https://open.spotify.com/track/6l1xPzvHui1ZLGYXQCdmDQ) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1), [Ryan Bean](https://open.spotify.com/artist/3tzRWfsVpfVoiNjK80yI5q) | [Homesick](https://open.spotify.com/album/1nld0N5LlEdEK3LXl8kflm) | 3:22 | 2024-03-07 | 2025-02-07 |
 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 | 2025-08-07 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/4DDD2P6dJurAgk3IYWqK3p) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Please Clap Your Hands](https://open.spotify.com/album/4yt5JKsDA1F6XIKt0vrNpd) | 3:24 | 2022-12-13 | 2023-01-27 |
@@ -263,6 +263,7 @@
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2024-11-07 |  |
 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 | 2024-11-28 | 2025-07-11 |
 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 | 2022-10-20 | 2024-11-08 |
+| [Living](https://open.spotify.com/track/41RCdAt1hvIfBOg5gsdCdz) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Living](https://open.spotify.com/album/3C4N0csezUXLqo5aEsR4Ae) | 3:01 | 2025-10-02 |  |
 | [Long Long Long \- Acoustic](https://open.spotify.com/track/13ukC82r00OfvNbu7z6A2a) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Long Long Long \(Acoustic\)](https://open.spotify.com/album/29OKnedaN7Zt91PRiM12lV) | 3:46 | 2023-08-01 | 2023-12-30 |
 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 | 2025-08-07 |  |
 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 | 2022-10-20 | 2024-11-08 |
@@ -311,8 +312,9 @@
 | [Nobody Knows \(Acoustic\)](https://open.spotify.com/track/42pQzfx4pTUbTWNnUY2xw8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [Nobody Knows \(Acoustic\)](https://open.spotify.com/album/16Cx5MBA4HTIPnhBA6VhO3) | 2:15 | 2022-10-20 | 2022-12-14 |
 | [North Marine Drive](https://open.spotify.com/track/1Z6hLIXSRczR1GiEXGcqZt) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [North Marine Drive](https://open.spotify.com/album/4FjsXGxYbYGobkIspixnlw) | 3:30 | 2025-07-10 | 2025-08-12 |
 | [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-10-20 | 2022-12-14 |
+| [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Plea](https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg) | 3:30 | 2025-10-02 |  |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2024-01-24 |
-| [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/track/4PC50SVpunelqtTeXUAG41) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [東川亜希子](https://open.spotify.com/artist/26wUFJYN45UPECKEFcocoq) | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/album/5fYd5VD8XTRV9nQenYzmKf) | 3:01 | 2025-09-04 |  |
+| [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/track/4PC50SVpunelqtTeXUAG41) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [東川亜希子](https://open.spotify.com/artist/26wUFJYN45UPECKEFcocoq) | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/album/5fYd5VD8XTRV9nQenYzmKf) | 3:01 | 2025-09-04 | 2025-10-03 |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-09 | 2023-03-22 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-12-13 | 2023-02-10 |
 | [Old Man](https://open.spotify.com/track/56LNNaTpa4fNuduLV6S0zs) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Old Man](https://open.spotify.com/album/7DbA9Ybpa35tJY2Z9RmLGg) | 3:28 | 2022-10-20 | 2022-11-02 |
@@ -501,8 +503,9 @@
 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 | 2025-09-19 |
 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 | 2024-02-06 | 2024-11-08 |
 | [きみといっしょ](https://open.spotify.com/track/5fEF7RXefUrSj6cHI2RFMX) | [宗藤竜太](https://open.spotify.com/artist/0SbD2ebnqKRmC6FrmC8VHS) | [きみといっしょ](https://open.spotify.com/album/1OhwpPbEkZToBKMzKKasb4) | 3:27 | 2024-02-20 | 2024-03-08 |
+| [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 | 2025-10-02 |  |
 | [さいなら](https://open.spotify.com/track/647oMB0in42klUaC4cDcFI) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [さいなら](https://open.spotify.com/album/6GlJfGrISS0My3OtiunCH7) | 2:39 | 2025-03-20 | 2025-04-04 |
-| [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 | 2025-07-10 |  |
+| [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 | 2025-07-10 | 2025-10-03 |
 | [ふしぎ](https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Chance](https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp) | 2:57 | 2024-11-28 | 2025-01-10 |
 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2022-11-10 |  |
 | [ウイスキー](https://open.spotify.com/track/28h2vtVlD77ejdc24Hgdo0) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [ウイスキー](https://open.spotify.com/album/67tBkU5Tx4le2QoZFbLNwK) | 2:58 | 2025-08-07 | 2025-08-20 |

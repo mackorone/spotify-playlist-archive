@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,597 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,648 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
 | 60 | [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 |
 
-Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`
+Snapshot ID: `AAAAAEQeRuGUdqx2DoHpNbexOd790hmw`

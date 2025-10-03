@@ -1,13 +1,33 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26138,
+  "num_followers": 26140,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABkAkUTJvzUI6TI4LjpK5CX/VDIr66s",
+  "snapshot_id": "AABkCjYnJo3Tyxe1sh1ed2ZZSgXE+xyV",
   "tracks": [
+    {
+      "added_at": "2025-10-02 12:56:20",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/58cxAbrMTpEgeY7utobTz5"
+      },
+      "artists": [
+        {
+          "name": "You Liang",
+          "url": "https://open.spotify.com/artist/3MuacvIl1Wu7iFfw7UeEsl"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/0B7WfgmOfqilnSvkrPfyrM"
+    },
     {
       "added_at": "2025-09-27 19:23:02",
       "album": {
@@ -31,22 +51,6 @@
       "duration_ms": 227735,
       "name": "\u2060\u2060Butterflies",
       "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2025-09-27 19:23:02",
-      "album": {
-        "name": "Awake Again",
-        "url": "https://open.spotify.com/album/3zs8j1YMoQ4BmIPUpS30pB"
-      },
-      "artists": [
-        {
-          "name": "Daddy Plays Disco",
-          "url": "https://open.spotify.com/artist/2B0wc5Evd3ULefDQiFIlGs"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "Awake Again",
-      "url": "https://open.spotify.com/track/1BbPKZh9VKkSlVvwEdMdd2"
     },
     {
       "added_at": "2025-09-27 19:23:02",
@@ -87,6 +91,22 @@
       "duration_ms": 268015,
       "name": "Ten Seconds Before Sunrise",
       "url": "https://open.spotify.com/track/1zQ9ZnIglXUhATAAvtUjti"
+    },
+    {
+      "added_at": "2025-09-27 19:23:02",
+      "album": {
+        "name": "Awake Again",
+        "url": "https://open.spotify.com/album/3zs8j1YMoQ4BmIPUpS30pB"
+      },
+      "artists": [
+        {
+          "name": "Daddy Plays Disco",
+          "url": "https://open.spotify.com/artist/2B0wc5Evd3ULefDQiFIlGs"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Awake Again",
+      "url": "https://open.spotify.com/track/1BbPKZh9VKkSlVvwEdMdd2"
     },
     {
       "added_at": "2025-09-27 19:23:02",
@@ -439,22 +459,6 @@
     {
       "added_at": "2025-09-27 19:23:02",
       "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/4ZlatWPrfdNw05jjulaggS"
-      },
-      "artists": [
-        {
-          "name": "Janus Lauvring",
-          "url": "https://open.spotify.com/artist/4vGPGP5aNDcpwAcqf70JpO"
-        }
-      ],
-      "duration_ms": 167014,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/0jccedAwqgrnCgzhB9aOp2"
-    },
-    {
-      "added_at": "2025-09-27 19:23:02",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/5n5x8zf52YN7jzHKsP2dnG"
       },
@@ -555,6 +559,38 @@
       "duration_ms": 176086,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2e3dBn6jKVP2AGAG74mh6c"
+    },
+    {
+      "added_at": "2025-10-02 18:58:50",
+      "album": {
+        "name": "Feel the Rhythm (In Your Veins)",
+        "url": "https://open.spotify.com/album/6eifAEpffGRMVcbFyMxmu6"
+      },
+      "artists": [
+        {
+          "name": "Nightly DNA",
+          "url": "https://open.spotify.com/artist/2SR3OjJgkzyRcmGgvWS74E"
+        }
+      ],
+      "duration_ms": 94522,
+      "name": "Feel the Rhythm (In Your Veins)",
+      "url": "https://open.spotify.com/track/2L9PDY2LvaOCvu8w7GWnTI"
+    },
+    {
+      "added_at": "2025-10-02 18:57:50",
+      "album": {
+        "name": "Making Money",
+        "url": "https://open.spotify.com/album/5AMMlq5Z5hi0TER0rauifq"
+      },
+      "artists": [
+        {
+          "name": "ZenoPop",
+          "url": "https://open.spotify.com/artist/1vZJUfflRQ49EXSgR4mSuT"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Making Money",
+      "url": "https://open.spotify.com/track/1ddKDQQ3I7cTuLLsvzZiro"
     },
     {
       "added_at": "2025-09-27 19:23:02",

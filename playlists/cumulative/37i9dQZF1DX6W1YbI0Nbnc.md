@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: 鄧麗欣\)
 
-309 songs - 19 hr 16 min
+312 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Back in the Game](https://open.spotify.com/track/1lx0nTrol5vUiG65MleoEi) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Back in the Game](https://open.spotify.com/album/5uLE642bTtgVSubD20bh21) | 3:37 | 2024-04-02 |  |
 | [Be around](https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around](https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp) | 2:52 | 2023-07-04 | 2025-01-08 |
 | [Before Bed](https://open.spotify.com/track/6PQLLy6iTTAAghxUrDBwly) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [God in My Dreams](https://open.spotify.com/album/0nRE05u9tCYROuOaH1GOvh) | 4:00 | 2022-05-03 | 2022-08-03 |
-| [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-05-06 |  |
+| [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-05-06 | 2025-10-03 |
 | [But I'm Not Lonely](https://open.spotify.com/track/1YU243lVfy5OSUpPRc08qU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 2:49 | 2022-01-04 | 2022-03-08 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-04-05 | 2022-05-04 |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-04-02 |  |
@@ -102,6 +102,7 @@
 | [u owe me $$](https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [u owe me $$](https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC) | 2:37 | 2022-08-02 | 2022-12-01 |
 | [What Am I Living For?](https://open.spotify.com/track/3E57cdzOQQmS2UTdCI1Oiz) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [What Am I Living For?](https://open.spotify.com/album/683hVWbcmRGo878DimrQ1X) | 2:52 | 2022-01-04 | 2022-05-04 |
 | [Where's Wally \(Day Version\)](https://open.spotify.com/track/6gMEdTwtla0u63r5Sv5icE) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Where's Wally \(Day Version\)](https://open.spotify.com/album/4LzV60BDgEN0Z184L9m0uX) | 3:07 | 2021-12-07 | 2022-01-05 |
+| [Will you answer me?](https://open.spotify.com/track/5KtfSChXZpCJs2DGAQsR0x) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Will you answer me?](https://open.spotify.com/album/2tnI7S4FpHhZrS47mndVwx) | 3:33 | 2025-10-02 |  |
 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 | 2022-03-07 | 2022-05-04 |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-11-30 |  |
 | [· · 一](https://open.spotify.com/track/5TPsJ7t6JPtEkrpF8Ywq2W) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/60Gux8lIYWssy6HpIJ0a2s) | 4:36 | 2023-03-24 | 2024-04-19 |
@@ -242,6 +243,7 @@
 | [末日](https://open.spotify.com/track/1x591BetVMT2xOu0Oijxle) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Cinema of Love](https://open.spotify.com/album/1XXS5wwMFifcaYijzfRXiu) | 3:59 | 2022-11-30 | 2025-03-05 |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-03 | 2023-11-30 |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-02 | 2022-12-01 |
+| [梗頸四](https://open.spotify.com/track/4yjrXZ7hAVTReFzPezyv2A) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [梗頸四](https://open.spotify.com/album/79QAdBGqeJc2a53OWusxOH) | 3:30 | 2025-10-02 |  |
 | [極夜後](https://open.spotify.com/track/2IrgjCGcxyYGwpr3CvpAcB) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [極夜後](https://open.spotify.com/album/31gdsPRodjQvgoD8o1dzt1) | 4:35 | 2023-11-07 | 2023-11-30 |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2022-01-04 | 2022-12-01 |
 | [樹之呼吸](https://open.spotify.com/track/4HpLKQ2YjAyvOKf1Azyker) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Rage in Peace](https://open.spotify.com/album/0O4LuYlUBi5TluPnj5Gtr7) | 2:33 | 2024-12-04 | 2025-01-08 |
@@ -269,6 +271,7 @@
 | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv) | 3:11 | 2022-03-07 | 2025-03-05 |
 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 | 2022-01-04 |  |
 | [理性與任性之間](https://open.spotify.com/track/6MQUW2zTODCTtiIGoMKDXt) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 5:07 | 2024-12-04 | 2025-01-08 |
+| [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:53 | 2025-10-02 |  |
 | [當你睡著的時候](https://open.spotify.com/track/5cq3lcOJi4CU14LmSJL8Lv) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [當你睡著的時候](https://open.spotify.com/album/6dilfUvZmJlag4W2UGv424) | 3:44 | 2022-08-02 | 2022-12-01 |
 | [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 | 2022-11-01 | 2022-12-01 |
 | [白眉](https://open.spotify.com/track/3FuSyEAn9fzwEPhvmhEfX9) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [白眉](https://open.spotify.com/album/1BbprjvYJTKGPSzm6zewqc) | 3:58 | 2022-03-07 | 2022-05-04 |

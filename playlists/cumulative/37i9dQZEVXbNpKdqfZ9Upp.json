@@ -5184,7 +5184,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 169396,
       "name": "Ayayay",
       "url": "https://open.spotify.com/track/2bcpAh7D4BHjXo9ZGPLIdU"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -17339,6 +17339,24 @@
     },
     {
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
@@ -18806,7 +18824,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 135024,
       "name": "Elecciones Victor M",
       "url": "https://open.spotify.com/track/5K9ujU6oMzV5UxyHKhaWok"
@@ -19644,7 +19662,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
@@ -22790,7 +22808,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 225080,
       "name": "Fuera del Planeta - Remix",
       "url": "https://open.spotify.com/track/56innU0z9irTs1uEVbbrBA"
@@ -24446,7 +24464,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 255625,
       "name": "Gyal Guayna De Espalda",
       "url": "https://open.spotify.com/track/3DNTc0lLlNLhQtQa56UAwe"
@@ -29826,7 +29844,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
@@ -38524,6 +38542,10 @@
         {
           "name": "DJ JUAN",
           "url": "https://open.spotify.com/artist/0iPVlUddVxi8XrL3Ju8GAw"
+        },
+        {
+          "name": "Mc Luizinho",
+          "url": "https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP"
         }
       ],
       "date_added": "2025-09-20",
@@ -51552,7 +51574,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 162778,
       "name": "Se Va",
       "url": "https://open.spotify.com/track/1gWRs7Zo6THoIoor5O3eHn"
@@ -64786,7 +64808,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -68302,7 +68324,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

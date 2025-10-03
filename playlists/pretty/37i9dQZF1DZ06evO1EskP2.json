@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABIRqroiHjUgk0zIoHzJKYN",
+  "snapshot_id": "aNxvAAAAAACb0v/slPCenSsrLnrt2lBA",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW"
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
       "duration_ms": 284680,
       "name": "Right Love, Wrong Time",
       "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 249653,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/69xu7QEf8ZNTDZl6BL961r"
     }
   ],
   "unique_name": "This Is Anuhea",

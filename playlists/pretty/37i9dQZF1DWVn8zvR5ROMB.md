@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Thomas Rhett, Marshmello with Hudson Westbrook, HARDY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,991 likes - 98 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,101 likes - 98 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

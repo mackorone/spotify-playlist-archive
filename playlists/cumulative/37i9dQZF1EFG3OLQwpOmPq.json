@@ -1430,6 +1430,28 @@
     {
       "album": {
         "name": "Not Your Baby",
+        "url": "https://open.spotify.com/album/0B1wGRdnLlKE7VSY1YBbZ9"
+      },
+      "artists": [
+        {
+          "name": "Luca Lush",
+          "url": "https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ"
+        },
+        {
+          "name": "Cappa",
+          "url": "https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214857,
+      "name": "Not Your Baby",
+      "url": "https://open.spotify.com/track/2pYVojuPedrHHmbjiL2V7e"
+    },
+    {
+      "album": {
+        "name": "Not Your Baby",
         "url": "https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8"
       },
       "artists": [
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 214857,
       "name": "Not Your Baby",
       "url": "https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj"

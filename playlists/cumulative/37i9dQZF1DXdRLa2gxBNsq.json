@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 342700,
       "name": "Balas De Goma",
       "url": "https://open.spotify.com/track/4GzRTJ4YSPPERl82pRChGT"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 194192,
       "name": "El Mes\u00edas",
       "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
@@ -2014,6 +2014,24 @@
       "duration_ms": 184000,
       "name": "El Rey de la Ci\u00e9naga",
       "url": "https://open.spotify.com/track/6WwCGsJbvA6gcXRNEc04YO"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica M\u00e1quina",
+        "url": "https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7"
+      },
+      "artists": [
+        {
+          "name": "Medalla",
+          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "El Trabajo No Dignifica",
+      "url": "https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP"
     },
     {
       "album": {
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 180444,
       "name": "Esta es una Noche de Rock & Roll",
       "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
@@ -3007,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Inm\u00f3late",
+        "url": "https://open.spotify.com/album/1zPwf6jHSioyPJsp8B5ctW"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154809,
+      "name": "Inm\u00f3late",
+      "url": "https://open.spotify.com/track/5L8W5dNxbuA97CjdhDo2kr"
+    },
+    {
+      "album": {
         "name": "Insolente",
         "url": "https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8"
       },
@@ -3088,7 +3124,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 224398,
       "name": "Jarama Valley",
       "url": "https://open.spotify.com/track/1hcshlMHRfPHhl7nXc66bw"
@@ -3630,7 +3666,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 128032,
       "name": "Loco (Remastered (2025))",
       "url": "https://open.spotify.com/track/3ZQML8Ygu9spcXoDs9nB1h"
@@ -3738,7 +3774,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 188250,
       "name": "Los de las Paguitas Sois Vosotros",
       "url": "https://open.spotify.com/track/3BtvmKUSPhwGzjKOlZtiyI"
@@ -3864,7 +3900,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 216967,
       "name": "Manifiesto del Partido de la Gente del Bar",
       "url": "https://open.spotify.com/track/30B2sMwYzEkO7O30R4Ke2v"
@@ -4226,6 +4262,32 @@
       "duration_ms": 111573,
       "name": "Murciana",
       "url": "https://open.spotify.com/track/1P23A8i7pYRCbsrJrsbvSt"
+    },
+    {
+      "album": {
+        "name": "Muros de Cristal",
+        "url": "https://open.spotify.com/album/7F7ydT9NEri6TwG0UOKboQ"
+      },
+      "artists": [
+        {
+          "name": "Inkandescencia",
+          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
+        },
+        {
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+        },
+        {
+          "name": "Agust\u00edn Crespo",
+          "url": "https://open.spotify.com/artist/6yrr7lgOZHpz8oBQSf2MqE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290369,
+      "name": "Muros de Cristal",
+      "url": "https://open.spotify.com/track/23JPltf9ba5dDctQQhuXHW"
     },
     {
       "album": {
@@ -5478,7 +5540,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 227746,
       "name": "Res de Nou",
       "url": "https://open.spotify.com/track/7pzdAfGVuCPkltHztUFFUu"
@@ -5887,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Soy un NiNi",
+        "url": "https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD"
+      },
+      "artists": [
+        {
+          "name": "Tribu",
+          "url": "https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183100,
+      "name": "Soy un NiNi",
+      "url": "https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK"
+    },
+    {
+      "album": {
         "name": "Spiz Amarillo",
         "url": "https://open.spotify.com/album/1FBI4i2Iod7eFGY8s2ffmV"
       },
@@ -5988,7 +6068,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 161221,
       "name": "Tambores de guerra",
       "url": "https://open.spotify.com/track/7vPfVBzi7OBp0ieSXJS3te"

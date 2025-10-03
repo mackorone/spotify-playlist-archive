@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Repion.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: La Paloma.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 158400,
       "name": "COMERTE",
       "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 206400,
       "name": "Conjuro",
       "url": "https://open.spotify.com/track/26LaaTWcUwJLVwCzCmszWY"
@@ -1560,6 +1560,24 @@
       "duration_ms": 178693,
       "name": "Curso Avanzado de Perra",
       "url": "https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Ser\u00e1 Vivir en el Campo",
+        "url": "https://open.spotify.com/album/55LlQx11YMyPb6jd4BhpMO"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175840,
+      "name": "C\u00f3mo Ser\u00e1 Vivir en el Campo",
+      "url": "https://open.spotify.com/track/6D87OewwdEhhSUWij4jUKp"
     },
     {
       "album": {
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 163001,
       "name": "Decid\u00ed Desaparecer",
       "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 191691,
       "name": "Joven Ciudad",
       "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 152762,
       "name": "La Vida Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
@@ -4925,6 +4943,28 @@
     },
     {
       "album": {
+        "name": "Mi Olla Descontrola",
+        "url": "https://open.spotify.com/album/7mFGdxjpXcFHQm0VxKCkcp"
+      },
+      "artists": [
+        {
+          "name": "Amygdala",
+          "url": "https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM"
+        },
+        {
+          "name": "Buenri",
+          "url": "https://open.spotify.com/artist/7ygvCv8sBXDF3YQSdANkeJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221903,
+      "name": "Mi Olla Descontrola",
+      "url": "https://open.spotify.com/track/00PJtECM4rHNDng7DOpOfK"
+    },
+    {
+      "album": {
         "name": "Mi Perro",
         "url": "https://open.spotify.com/album/7hJnwsHC1uYoQ8aL6kIGVZ"
       },
@@ -5304,6 +5344,28 @@
       "duration_ms": 211730,
       "name": "Ni\u00f1os Perdidos",
       "url": "https://open.spotify.com/track/1UqcUWFQdHsdkOuBLStzem"
+    },
+    {
+      "album": {
+        "name": "No dejar\u00e9 de abrazarte",
+        "url": "https://open.spotify.com/album/3DSbalh1h4whx7z8Hrw3br"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172774,
+      "name": "No dejar\u00e9 de abrazarte",
+      "url": "https://open.spotify.com/track/1oICrICUMPDOMRatYykwOf"
     },
     {
       "album": {
@@ -5940,6 +6002,24 @@
       "duration_ms": 227340,
       "name": "Paseo de vuelta",
       "url": "https://open.spotify.com/track/7yQVptuLX94BXU1tEvXBlK"
+    },
+    {
+      "album": {
+        "name": "Paso Lento",
+        "url": "https://open.spotify.com/album/66I99d5XF2ryXHxZ2vMrFU"
+      },
+      "artists": [
+        {
+          "name": "Bum Motion Club",
+          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165743,
+      "name": "Paso Lento",
+      "url": "https://open.spotify.com/track/6KLsADnIfbebak4IXVhNJU"
     },
     {
       "album": {
@@ -6636,7 +6716,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 123309,
       "name": "Rob Gordon",
       "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
@@ -6752,6 +6832,24 @@
       "duration_ms": 207771,
       "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
       "url": "https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY"
+    },
+    {
+      "album": {
+        "name": "Sale El Sol",
+        "url": "https://open.spotify.com/album/07Y07bcpTjF3DXowlf9zrD"
+      },
+      "artists": [
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221216,
+      "name": "Sale El Sol",
+      "url": "https://open.spotify.com/track/0BQFZPFrkAs2UQR1THPqtI"
     },
     {
       "album": {
@@ -7058,7 +7156,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 145003,
       "name": "Sitcom",
       "url": "https://open.spotify.com/track/36rZJV3ioGnEPzq72aCZMe"
@@ -7218,6 +7316,24 @@
       "duration_ms": 151431,
       "name": "Subcampe\u00f3n",
       "url": "https://open.spotify.com/track/4h6ByEnmpCr88TTFpMhyBo"
+    },
+    {
+      "album": {
+        "name": "Suena ABBA cuando enciendes el motor",
+        "url": "https://open.spotify.com/album/0jDWkzqnSB2EysZMI57kCt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141875,
+      "name": "Suena ABBA cuando enciendes el motor",
+      "url": "https://open.spotify.com/track/5o5gREn2fF6DIa4GHMviDO"
     },
     {
       "album": {
@@ -7976,6 +8092,28 @@
       "duration_ms": 119767,
       "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
       "url": "https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ"
+    },
+    {
+      "album": {
+        "name": "Ultra Dante",
+        "url": "https://open.spotify.com/album/7a2bOBvyJJ43kVONqV1yHG"
+      },
+      "artists": [
+        {
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
+        },
+        {
+          "name": "Lucca",
+          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162730,
+      "name": "Ultra Dante",
+      "url": "https://open.spotify.com/track/69qmmFFBTvX7gY7m52jh7f"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4318,
+  "num_followers": 4320,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAD08xzKCwEy5Xs8ugnPqdHX",
+  "snapshot_id": "aNxvAAAAAAByG+VARGig2FEfmx5WIwyD",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run For Cover Subscription Singles Series #3",
-        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 265238,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+        "name": "Run For Cover Subscription Singles Series #3",
+        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
+      "duration_ms": 265238,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Dent",
-      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Studio 4 Acoustic Session",
         "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 228928,
       "name": "Carry You Over",
       "url": "https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
     },
     {
       "added_at": null,

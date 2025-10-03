@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 74438,
+  "num_followers": 74450,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAADsqviCjwoOfVzLQ2QoI0MX",
+  "snapshot_id": "aNxvAAAAAABbDQzdAxm51khMXuozFVCK",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "SIRENA",
-      "url": "https://open.spotify.com/track/0Ap4GNJxy2n1Z0tJcXU9GE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 175720,
       "name": "Como Tu Quieras",
       "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "SIRENA",
+      "url": "https://open.spotify.com/track/0Ap4GNJxy2n1Z0tJcXU9GE"
     },
     {
       "added_at": null,
@@ -483,30 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KATY PERRY (feat. Sheeno)",
-        "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
       },
       "artists": [
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Sheeno",
-          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         }
       ],
-      "duration_ms": 155909,
-      "name": "KATY PERRY (feat. Sheeno)",
-      "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
+      "duration_ms": 185290,
+      "name": "Nos Pertenecemos",
+      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
     },
     {
       "added_at": null,
@@ -531,18 +519,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
+        "name": "KATY PERRY (feat. Sheeno)",
+        "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
       },
       "artists": [
         {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         }
       ],
-      "duration_ms": 185290,
-      "name": "Nos Pertenecemos",
-      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
+      "duration_ms": 155909,
+      "name": "KATY PERRY (feat. Sheeno)",
+      "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EVOLUXION",
         "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
       },
@@ -855,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+        "name": "De Moda",
+        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
       },
       "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+      "duration_ms": 124377,
+      "name": "Chilling",
+      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 134894,
       "name": "Amigos Para Qu\u00e9",
       "url": "https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Moda",
-        "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
-      },
-      "artists": [
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 124377,
-      "name": "Chilling",
-      "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
     }
   ],
   "unique_name": "This Is DannyLux",

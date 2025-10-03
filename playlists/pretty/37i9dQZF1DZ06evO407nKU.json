@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54849,
+  "num_followers": 54862,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAADWYf1OZybSOR0lv9kfjVCW",
+  "snapshot_id": "aNxvAAAAAADTwumUh/Ihlpn+CWxNq3GW",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Lo Que Yo Sentia",
-      "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 157222,
       "name": "Tres Botes",
       "url": "https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Lo Que Yo Sentia",
+      "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chica Traviesa",
         "url": "https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+      "duration_ms": 197007,
+      "name": "Nuestro Adios",
+      "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Nuestro Adios",
-      "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Me Ag\u00fcit\u00f3",
-        "url": "https://open.spotify.com/album/51YMAnkG9rMuNXXejqCFNB"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 203072,
-      "name": "Se Me Ag\u00fcit\u00f3",
-      "url": "https://open.spotify.com/track/26ejebTudwx94xrQxrdNgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 236493,
       "name": "La Pura Verdad",
       "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Me Ag\u00fcit\u00f3",
+        "url": "https://open.spotify.com/album/51YMAnkG9rMuNXXejqCFNB"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 203072,
+      "name": "Se Me Ag\u00fcit\u00f3",
+      "url": "https://open.spotify.com/track/26ejebTudwx94xrQxrdNgh"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
       "duration_ms": 243885,
       "name": "Conv\u00e9nceme (En Vivo)",
       "url": "https://open.spotify.com/track/4rrY9i7GRZrBi4bcBaC2BU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 256105,
+      "name": "La Bruta (En Vivo)",
+      "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
     },
     {
       "added_at": null,
@@ -699,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bruta (En Vivo)",
-        "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 256105,
-      "name": "La Bruta (En Vivo)",
-      "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 259628,
-      "name": "Nomas Este Rey",
-      "url": "https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 259628,
+      "name": "Nomas Este Rey",
+      "url": "https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn"
     },
     {
       "added_at": null,

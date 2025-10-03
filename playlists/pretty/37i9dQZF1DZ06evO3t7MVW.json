@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91355,
+  "num_followers": 91366,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAC0KAc51zQeQ4XNE3wfjV6S",
+  "snapshot_id": "aNxvAAAAAAALQtGoaHuq8RgxrLPradmV",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Railroad Shelter (with Stick Figure)",
         "url": "https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 245059,
       "name": "Railroad Shelter (with Stick Figure)",
       "url": "https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 359506,
+      "name": "Livin' It",
+      "url": "https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes From The Soul",
         "url": "https://open.spotify.com/album/1Yj99B7hugPMgtJHMyPNte"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 230813,
       "name": "Under Arrest",
       "url": "https://open.spotify.com/track/3z5vTjTWPIzyujnDVDySMT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 359506,
-      "name": "Livin' It",
-      "url": "https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL"
     },
     {
       "added_at": null,

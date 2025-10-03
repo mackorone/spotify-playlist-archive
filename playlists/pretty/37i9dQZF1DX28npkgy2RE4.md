@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,502 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,464 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,9 +134,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 124 | [It Is What It Is](https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Green to Gold](https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo) | 3:57 |
 | 125 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
 | 126 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 |
-| 127 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 |
-| 128 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 |
-| 129 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
+| 127 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
+| 128 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 |
+| 129 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 |
 | 130 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 131 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 |
 | 132 | [Magic](https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 3:50 |

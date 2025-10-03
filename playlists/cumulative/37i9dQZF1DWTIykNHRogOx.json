@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Zaho de Sagazan",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Aux enfants de demain",
+        "url": "https://open.spotify.com/album/1u4Nqs64gvChknGAcpsq0F"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224305,
+      "name": "Aux enfants de demain",
+      "url": "https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN"
+    },
+    {
+      "album": {
         "name": "Bande annonce",
         "url": "https://open.spotify.com/album/3madmQA8hvMj3qZ18ud76H"
       },
@@ -252,6 +270,24 @@
       "duration_ms": 154125,
       "name": "Bande annonce",
       "url": "https://open.spotify.com/track/3LzDVM9VIu8EjyimQcrENP"
+    },
+    {
+      "album": {
+        "name": "Berger",
+        "url": "https://open.spotify.com/album/6CHomIIo3zZ5lx6Vyc1r9r"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Berger",
+      "url": "https://open.spotify.com/track/4jZa91Syrxgfkc1Vu0WFV0"
     },
     {
       "album": {
@@ -732,7 +768,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 187750,
       "name": "Dispara\u00eetre - Version piano",
       "url": "https://open.spotify.com/track/0oLPNB6Aw1WapxGdtxWUXu"
@@ -1269,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "j'aime pas les goodbye",
+        "url": "https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs"
+      },
+      "artists": [
+        {
+          "name": "Nina Battisti",
+          "url": "https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123800,
+      "name": "j'aime pas les goodbye",
+      "url": "https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV"
+    },
+    {
+      "album": {
         "name": "J'connais des gens",
         "url": "https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ"
       },
@@ -1392,7 +1446,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 162300,
       "name": "Je sais pas \u00eatre seule",
       "url": "https://open.spotify.com/track/3FcFUaNTx17En4eVR7ygvB"
@@ -1540,7 +1594,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 216333,
       "name": "L'inconnu en personne - Radio Edit",
       "url": "https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz"
@@ -2063,6 +2117,28 @@
     },
     {
       "album": {
+        "name": "Le printemps",
+        "url": "https://open.spotify.com/album/3ilAK0ebYgeH95fevozMPP"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        },
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186146,
+      "name": "Le printemps",
+      "url": "https://open.spotify.com/track/4gfVA7TLcyZFXAZfIbOibg"
+    },
+    {
+      "album": {
         "name": "Le retour des beaux jours",
         "url": "https://open.spotify.com/album/45IfEOM2tJVHxpNiC9uOmG"
       },
@@ -2414,6 +2490,24 @@
       "duration_ms": 174986,
       "name": "Les ogres",
       "url": "https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV"
+    },
+    {
+      "album": {
+        "name": "Les passantes",
+        "url": "https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Les passantes",
+      "url": "https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc"
     },
     {
       "album": {
@@ -2926,7 +3020,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 244346,
       "name": "On peut comme \u00e7a",
       "url": "https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6"
@@ -3554,7 +3648,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 224893,
       "name": "Si beau",
       "url": "https://open.spotify.com/track/0CVnlbUnDN61gX1NkCxwtM"
@@ -3572,7 +3666,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 219266,
       "name": "Solo dans mon lit double",
       "url": "https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d"
@@ -3738,6 +3832,24 @@
       "duration_ms": 252413,
       "name": "Tout sera pardonn\u00e9",
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP"
     },
     {
       "album": {

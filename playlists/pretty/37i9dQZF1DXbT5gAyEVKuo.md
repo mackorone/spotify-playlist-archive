@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Common Hymnal
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,341 likes - 75 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,369 likes - 75 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

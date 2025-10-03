@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,376 likes - 37 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,378 likes - 38 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 8 | [No Transitory](https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:16 |
 | 9 | [Pulmonary Archery](https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:22 |
 | 10 | [Born and Raised](https://open.spotify.com/track/2cMOVqd7pTOoj3yUHuxbj7) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:00 |
-| 11 | [To a Friend](https://open.spotify.com/track/2m56Yr1W7LKKHGVTqGT9SY) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:16 |
+| 11 | [To a Friend](https://open.spotify.com/track/5I3zGzt9AKeNLBgjw25kDL) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 3:16 |
 | 12 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 |
 | 13 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 |
 | 14 | [Blue Spade](https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:31 |
@@ -44,6 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 34 | [Tonight, I'm Going to Wash the Hippy](https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 5:47 |
 | 35 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 |
 | 36 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 |
-| 37 | [Mistaken Information](https://open.spotify.com/track/4O8blCM7QOTY09cAzkfp6W) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:48 |
+| 37 | [Reverse the Curse](https://open.spotify.com/track/5quzpeYK7lXAYpcioucm6d) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil \(LIVE in London, UK 2025\)](https://open.spotify.com/album/5E1UnuDMTYTIhtTt57Q36b) | 3:54 |
+| 38 | [Mistaken Information](https://open.spotify.com/track/4O8blCM7QOTY09cAzkfp6W) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:48 |
 
-Snapshot ID: `aNsdgAAAAACSEuEdoinmVjPEojJhkb4q`
+Snapshot ID: `aNxvAAAAAABPhMMBKJ6EYWhz4IkvCVs+`

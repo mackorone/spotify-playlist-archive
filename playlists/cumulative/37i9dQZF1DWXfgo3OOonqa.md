@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,044 songs - 3 day 15 hr 37 min
+2,049 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Hasta La Vista](https://open.spotify.com/track/3VlZUWS05jwIjwQHDjVjJl) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Hasta La Vista](https://open.spotify.com/album/4oEKZ3gDIwbtlalClxc2HB) | 2:32 | 2022-12-01 | 2023-01-20 |
 | [HATA](https://open.spotify.com/track/1f3OXHrLzmDMD90LTyW1j6) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [HATA](https://open.spotify.com/album/7MQJYvaa5KA13y1dDB29sr) | 1:49 | 2025-04-17 | 2025-06-27 |
 | [HATAR ATT ÄLSKA](https://open.spotify.com/track/7s54OXLlVK01An33n1pEoJ) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [HATAR ATT ÄLSKA](https://open.spotify.com/album/5gRQvgCTd4iBmhqFQed3Tv) | 1:23 | 2024-03-21 | 2024-05-10 |
+| [Hatkärlek](https://open.spotify.com/track/2MnUjcTRzfZSHLTf4idZgz) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [](https://open.spotify.com/album/null) | 2:44 | 2025-10-02 |  |
 | [Hattrick](https://open.spotify.com/track/2G0a0hEvKs38FSyhX2BmpF) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Hattrick](https://open.spotify.com/album/06GomdPQxAm5WE1Epeks0E) | 2:33 | 2022-06-09 | 2022-06-23 |
 | [HBB](https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HBB](https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF) | 2:26 | 2024-10-10 | 2025-03-14 |
 | [Heady](https://open.spotify.com/track/06UrJVwbBaCLZGbEm5EfLz) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:26 | 2023-05-24 | 2023-06-16 |
@@ -1069,6 +1070,7 @@
 | [LEMONADE](https://open.spotify.com/track/0bi9Yk7VNi4yCqxmwJLNDo) | [J Wes](https://open.spotify.com/artist/1V3qwdq9cJOcIURCrLtUbi) | [LEMONADE](https://open.spotify.com/album/7uS8dpMq3wiHH6e0d8DKKr) | 2:15 | 2023-01-26 | 2023-02-17 |
 | [Lemonade](https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lemonade](https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH) | 2:26 | 2024-01-17 | 2024-07-27 |
 | [Lenad](https://open.spotify.com/track/31T9RWkdgq9RGZgjC0JIpC) | [O’Melly](https://open.spotify.com/artist/4DkJGLzJj2E2FACgUyHdbl), [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Lenad](https://open.spotify.com/album/6j5SHilqlDuI4CY4Jftpyd) | 3:25 | 2022-09-29 | 2022-10-21 |
+| [Lev & lär](https://open.spotify.com/track/2Uis31BB86Avr2yzmTkUmQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Lev & lär](https://open.spotify.com/album/0fSZx43BoNeo3z8ChoGyiS) | 2:14 | 2025-10-02 |  |
 | [Lev länge](https://open.spotify.com/track/3OedaGJ03QNHAutglQuf4B) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Lev länge](https://open.spotify.com/album/6ff1k8e17lvBGXTcqPtJg0) | 2:59 | 2023-04-20 | 2023-05-26 |
 | [Leva och dö](https://open.spotify.com/track/7GbwZJrl7qM9IKp8NET7GQ) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [Leva och dö](https://open.spotify.com/album/0p9zOgZMYz5Oa3IjG0BHt6) | 3:02 | 2022-05-26 | 2022-06-17 |
 | [LEVER](https://open.spotify.com/track/4C9TKgAruVWesmidZzf5I3) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [LEVER](https://open.spotify.com/album/2qFEPsA4gBLcEyWm8XNkXS) | 2:19 | 2023-06-08 | 2023-07-21 |
@@ -1177,6 +1179,7 @@
 | [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 | 2022-12-29 | 2023-03-18 |
 | [MALMO VICE](https://open.spotify.com/track/0YE3Z93vvvv6gl8NM1BSGj) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMO VICE](https://open.spotify.com/album/7xnOMx2EiUCYSmNQkFxT4h) | 2:00 | 2023-06-08 | 2023-06-10 |
 | [MALMÖ VICE](https://open.spotify.com/track/3WLhDaUAF3x04PlSZ5WrE8) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MALMÖ VICE](https://open.spotify.com/album/0wKqrQ6O629YIg207gdbVy) | 2:00 | 2023-06-08 | 2023-08-04 |
+| [Mama](https://open.spotify.com/track/4ZxtZdrci2m0gODoRIbVzc) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Mama](https://open.spotify.com/album/4b6z4aF15XG89yRgmfkgcI) | 2:01 | 2025-10-02 |  |
 | [MAMA](https://open.spotify.com/track/7qCpmvYY5q7AiQtYoyQb9N) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [MAMA](https://open.spotify.com/album/5tTZeNTXoHd4LXRvr4BvM3) | 2:28 | 2025-04-10 | 2025-07-08 |
 | [Mama](https://open.spotify.com/track/1iUJ4F2csgFZhaVGLWYIXI) | [Planoche](https://open.spotify.com/artist/5U453aPh0nAFKtH5rTCodp) | [Mama](https://open.spotify.com/album/6wnHtZfjfGhu3zDPkHmyaU) | 2:59 | 2023-03-30 | 2023-04-28 |
 | [Mama Mia](https://open.spotify.com/track/0VaX1H7phU8m9uZP2Uuexz) | [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [Mama Mia](https://open.spotify.com/album/41nekZTDuRLk2L7WbZrMPU) | 2:09 | 2023-07-06 | 2023-07-28 |
@@ -1285,6 +1288,7 @@
 | [MON FRÉRE](https://open.spotify.com/track/2C05qOxNv5SCtsgwOMOmgb) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [MON FRÉRE](https://open.spotify.com/album/6ptfYBuCBnjD0Ct1qkdPgz) | 1:33 | 2023-02-13 | 2023-03-10 |
 | [MONACO](https://open.spotify.com/track/5JvQGmoHTGGuXTlbyZq0U0) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [MONACO](https://open.spotify.com/album/0EepVQhwDeJqt4EPR7VHZ1) | 2:25 | 2022-08-18 | 2022-10-21 |
 | [Monclizzy](https://open.spotify.com/track/7dLYoUk6Rfz41Z4aZn2MTz) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Monclizzy](https://open.spotify.com/album/5SAc6HzxnyXApU21bFru1q) | 1:44 | 2022-11-17 | 2023-02-09 |
+| [Money](https://open.spotify.com/track/3zpx5UzFYcmm5DFnqYhZ79) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [](https://open.spotify.com/album/null) | 2:35 | 2025-10-02 |  |
 | [Money Mitch](https://open.spotify.com/track/7KoNMmXBQuENQHuLauIYJa) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Money Mitch](https://open.spotify.com/album/3CeZ7kTuFLcNyMI4h4fL3x) | 2:11 | 2023-03-30 | 2023-06-02 |
 | [MONEY TALKS](https://open.spotify.com/track/6pUnTyUta8NreXEufzl2ii) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [MONEY TALKS](https://open.spotify.com/album/5BucMLq6Qu6oP7iaM5VZxB) | 2:18 | 2023-05-18 | 2023-07-20 |
 | [Monster Under Sängen](https://open.spotify.com/track/5P5BS16fZQlzTAa9BV3DzF) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [Monster Under Sängen](https://open.spotify.com/album/1LWPXEEHx8ILVqnIPzNSIc) | 3:04 | 2022-10-06 | 2022-10-21 |
@@ -1835,6 +1839,7 @@
 | [Toxic Som Mig](https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:31 | 2024-04-18 | 2024-08-02 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2023-02-24 |
+| [Track 2](https://open.spotify.com/track/2dRc7qcRcEqzJlCuPRfkMV) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 | 2025-04-24 | 2025-07-08 |
 | [Trafikfara](https://open.spotify.com/track/0wAWvTep02Pzkc2kGJhWpN) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Trafikfara](https://open.spotify.com/album/1h4xtwLx9dbwkHm3IvGTCD) | 2:12 | 2023-03-16 | 2023-05-12 |
 | [Tragiskt](https://open.spotify.com/track/1P2xQUXFfI0wFPiCOfFmQu) | [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv), [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [Tragiskt](https://open.spotify.com/album/7qe775N3IIC6b9gLEWQYos) | 2:19 | 2025-09-04 |  |

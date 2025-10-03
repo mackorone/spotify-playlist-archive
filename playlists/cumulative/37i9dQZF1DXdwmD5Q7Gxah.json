@@ -30477,6 +30477,24 @@
     },
     {
       "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354139,
+      "name": "Islands of Men",
+      "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
+    },
+    {
+      "album": {
         "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
       },
@@ -56850,7 +56868,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
@@ -57722,6 +57740,24 @@
       "duration_ms": 179633,
       "name": "the car",
       "url": "https://open.spotify.com/track/32XLmgI34ifOm9UAzq3RFS"
+    },
+    {
+      "album": {
+        "name": "The Coward Forgets His Nightmare",
+        "url": "https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "The Coward Forgets His Nightmare",
+      "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
     },
     {
       "album": {
@@ -62456,7 +62492,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

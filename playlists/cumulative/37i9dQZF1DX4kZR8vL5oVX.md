@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Miki \(du titre \#1 au \#16\).
 
-1,704 songs - 3 day 16 hr 45 min
+1,705 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1180,7 +1180,7 @@
 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 | 2023-10-03 | 2023-11-08 |
 | [Parler de nous](https://open.spotify.com/track/4lnKexqvLyET91kj0sPdQT) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Train de vie](https://open.spotify.com/album/3iHDgAAhrLAQGb0tTs9a25) | 3:13 | 2023-11-29 | 2024-03-06 |
 | [Paroles en l'air](https://open.spotify.com/track/3qFExy82VxQ3qD705bBOn6) | [Miae](https://open.spotify.com/artist/5UpoX7o43QsRBiV1ckJ7uc) | [Paroles en l'air](https://open.spotify.com/album/3VOHeLnCxYnFtnDCnEGCVf) | 2:20 | 2023-10-03 | 2023-11-08 |
-| [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-08-05 |  |
+| [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-08-05 | 2025-10-03 |
 | [Particulière](https://open.spotify.com/track/08JcUKpP6YqbYuSZxBHz7R) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Particulière](https://open.spotify.com/album/56GnbazzHQ5v2V4ZRwSloh) | 2:48 | 2023-04-04 | 2023-05-03 |
 | [Partout](https://open.spotify.com/track/02sGdgawjvohUO5otZVLJC) | [Loïse](https://open.spotify.com/artist/3nmiCKhHVrYLvdhBs37t4c) | [Partout](https://open.spotify.com/album/17Ame1SOeGU7yk5IO1UDkx) | 2:58 | 2022-03-07 | 2022-04-06 |
 | [PARTOUT OÙ JE VAIS](https://open.spotify.com/track/58cFRhvTGwoVBNsCdDcNAZ) | [Sally](https://open.spotify.com/artist/2rX5le9Bn1XdQwPsXA8aPP) | [PARTOUT OÙ JE VAIS](https://open.spotify.com/album/2sHhSNmscfQC890SMtw4WC) | 2:24 | 2022-03-07 | 2022-04-06 |
@@ -1700,6 +1700,7 @@
 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-02-28 | 2023-04-05 |
 | [Ça me va](https://open.spotify.com/track/50buPmiBu8HJrykNSPKofs) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:09 | 2023-11-29 | 2024-01-10 |
 | [Ça me va \- Soft Spleen Version](https://open.spotify.com/track/4dg3vGuNUPeqNBgPunflqx) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va \(Soft Spleen Version\)](https://open.spotify.com/album/7CpRFQzzPqM2XyxT3asQzS) | 2:44 | 2023-10-03 | 2023-11-08 |
+| [ça pik un peu quand même](https://open.spotify.com/track/5pbOI0KItebrpL6UeQKs7A) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5iYukIto4dPaIxDVzgiq2p) | 2:17 | 2025-10-03 |  |
 | [Ça sent pas bon](https://open.spotify.com/track/4k2i59FDiNy3Wb16fmmUU6) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Ça sent pas bon](https://open.spotify.com/album/2IUWYKMdPRpKZZE93UmrLW) | 2:17 | 2025-09-30 |  |
 | [échec et mat](https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4) | 2:48 | 2024-08-06 | 2025-01-08 |
 | [échec et mat](https://open.spotify.com/track/7HfO0Xvf0bojGkaJVWHOKO) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [échec et mat](https://open.spotify.com/album/4N4ZcwPmsiyCYOAMcc1pqD) | 2:48 | 2024-12-03 | 2025-01-08 |

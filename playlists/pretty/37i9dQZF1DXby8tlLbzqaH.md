@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 
 > White noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,775 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,016 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 17 | [Gentle Ferry Noise](https://open.spotify.com/track/0bnzSHrNY8rbvSFbAABsFZ) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Arctic Wind Tunnel](https://open.spotify.com/album/6NmbzbRqFWlQ0UcltKf3iI) | 2:06 |
 | 18 | [Your White Noise](https://open.spotify.com/track/1fgeb3eEwjdFDOa5OmeEUH) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [My White Noise](https://open.spotify.com/album/7MmViEsPhKqmO2JAc8CGm7) | 2:26 |
 | 19 | [Window Seat Sleep](https://open.spotify.com/track/7LP4Wszs1E6P7J3Y2qXANq) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 3:44 |
-| 20 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Dreamlux](https://open.spotify.com/artist/608c6CqBFogFms9icxSr2F) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
+| 20 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Drealux](https://open.spotify.com/artist/1LgofD2ZhZ1hhF8VshT01U) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
 | 21 | [Dreams & Calmness](https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Dreams & Calmness](https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39) | 2:39 |
 | 22 | [Every Night White Noise](https://open.spotify.com/track/5nMbf1TCIXxtgWjcCT7pzs) | [The Noisy Outdoors](https://open.spotify.com/artist/6ipASreqbHk6a7aR2xo9BW) | [Every Night White Noise](https://open.spotify.com/album/6ZKRu38HcgmoIaJwj61XgD) | 2:41 |
 | 23 | [Deep Phase Noise 1](https://open.spotify.com/track/5MOWBRtP53q5yNOtHaMVTh) | [Milli Hughes](https://open.spotify.com/artist/5qq6C4dNld3AWHbh2WaNAR) | [Deep Phase Noise](https://open.spotify.com/album/2jiaVZwVTy1c1lmu1ifoud) | 2:23 |

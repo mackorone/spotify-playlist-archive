@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: Olamide & Victony
 
-561 songs - 1 day 2 hr 29 min
+562 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2022-06-09 | 2022-12-08 |
 | [B.T.S {Burst Their Speakers}](https://open.spotify.com/track/0B9MUEcDmz5oWvDLPO9QXP) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [B.T.S {Burst Their Speakers}](https://open.spotify.com/album/1cuXQbiNsRvtSHpHnn302x) | 2:23 | 2025-08-01 | 2025-08-29 |
 | [Ba$tard, Don't Be Silly](https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:51 | 2024-06-21 | 2025-03-01 |
-| [Babcock](https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Babcock](https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L) | 2:23 | 2025-04-11 |  |
+| [Babcock](https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Babcock](https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L) | 2:23 | 2025-04-11 | 2025-10-03 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-12 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 | 2023-03-25 |
 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 | 2023-09-08 | 2023-09-27 |
@@ -213,6 +213,7 @@
 | [Formula](https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Formula](https://open.spotify.com/album/4fdqH5RYucjH0vlQkiINeQ) | 2:42 | 2024-07-19 | 2024-07-27 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 | 2025-07-18 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-14 |  |
+| [Fuji Fusion](https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [K1 De Ultimate](https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT) | [](https://open.spotify.com/album/null) | 3:15 | 2025-10-03 |  |
 | [Fuji Garbage](https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Chief Dr\. Sikiru Ayinde Barrister \(MFR\)](https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg) | [Fuji Garbage](https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T) | 2:41 | 2024-12-06 | 2025-06-13 |
 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 | 2024-09-09 |  |
 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-09-05 |  |

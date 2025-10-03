@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 24 | [Rent Free \- feat\. GRACEY](https://open.spotify.com/track/5SG2y67BbtCQm6KwcNi6E4) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5) | 2:44 |
 | 25 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 |
 | 26 | [Purpose](https://open.spotify.com/track/6APLWNdNt72jjkLfB1dYey) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:50 |
-| 27 | [If You Loved Me](https://open.spotify.com/track/3ExAXzgV1cbwQHLcxGwLx4) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me](https://open.spotify.com/album/2tpHEjm8uJht1p5q0AQhzD) | 2:58 |
-| 28 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 27 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 28 | [If You Loved Me](https://open.spotify.com/track/3ExAXzgV1cbwQHLcxGwLx4) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me](https://open.spotify.com/album/2tpHEjm8uJht1p5q0AQhzD) | 2:58 |
 | 29 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 |
 | 30 | [Got You Covered](https://open.spotify.com/track/0yyxb5ORtu0n5KaHVAI674) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Got You Covered](https://open.spotify.com/album/75ZE1CYqgrmZXXDpjRq2HR) | 2:56 |
 | 31 | [Now Or Never](https://open.spotify.com/track/0OmiVCvlnnC0hTLekt8dPJ) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Back To Life](https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY) | 3:27 |
@@ -67,8 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 57 | [I’ll Be Here For You](https://open.spotify.com/track/2j1SimCZFJOQzOVA1R9SPT) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:38 |
 | 58 | [Stupid Dog](https://open.spotify.com/track/3R9xeYBlGNDYFmaNHgGamd) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 2:10 |
 | 59 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 |
-| 60 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
-| 61 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
-| 62 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
+| 60 | [Baby Steps](https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
+| 61 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
+| 62 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
+| 63 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
 
-Snapshot ID: `Ab9ulAAAAACa6q/0r52DDl1V84kgwOLU`
+Snapshot ID: `Ab90XAAAAADa0vEgrp5BDj//sJzzi9Yx`

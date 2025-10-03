@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: TUANA
+> viral, trend ve yükselenler\.  Kapak: Lvbel C5
 
 218 songs - 11 hr 14 min
 

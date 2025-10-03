@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653 likes - 236 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 236 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 83 | [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 |
 | 84 | [the way i used to](https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:15 |
 | 85 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
-| 86 | [tlit21c](https://open.spotify.com/track/1ZlnsAT3J7vmf0xuOMHD9V) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 1:06 |
-| 87 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 |
+| 86 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 |
+| 87 | [tlit21c](https://open.spotify.com/track/1ZlnsAT3J7vmf0xuOMHD9V) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 1:06 |
 | 88 | [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 |
 | 89 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 |
 | 90 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 106 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 |
 | 107 | [Bad Luck Looks Good On Me](https://open.spotify.com/track/3Blrv2JhHEPT5JFzVAelll) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:47 |
 | 108 | [Emotional](https://open.spotify.com/track/6GeivZDEHYIGULXr7lOtrx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:40 |
-| 109 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 |
-| 110 | [k bye](https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 2:09 |
+| 109 | [k bye](https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 2:09 |
+| 110 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 |
 | 111 | [omw](https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:51 |
 | 112 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
 | 113 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 235 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 236 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Ab9u0AAAAAAFgkgQLhPKACUbCu6cdRyA`
+Snapshot ID: `Ab90XAAAAABEjLY3izeqG1VZGf0bNmth`

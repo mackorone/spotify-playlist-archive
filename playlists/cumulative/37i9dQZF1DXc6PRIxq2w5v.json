@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Calma Filho",
+        "url": "https://open.spotify.com/album/6bAGlW13q0y5jvLd6tFGKY"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251470,
+      "name": "Calma Filho",
+      "url": "https://open.spotify.com/track/73dmTrHDOKT0BA2IK0LPAR"
+    },
+    {
+      "album": {
         "name": "Caneta e Papel",
         "url": "https://open.spotify.com/album/5rFLIptU3S95esJLrHuNB0"
       },
@@ -8162,7 +8180,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 228888,
       "name": "Quebrantado - Remix",
       "url": "https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN"

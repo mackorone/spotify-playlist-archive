@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27347,
+  "num_followers": 27350,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACWopFvLakRQ2fQAG8XbAfO",
+  "snapshot_id": "aNxvAAAAAAANXbwy5QwGSXUGpf+VPK1r",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Burning In My Soul",
+      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 246627,
       "name": "No Body (feat. Matt Maher)",
       "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Burning In My Soul",
-      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Miracles (Live)",
         "url": "https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 931610,
       "name": "Son Of Heaven",
       "url": "https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
         {
@@ -832,25 +816,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 239256,
-      "name": "Lord of My Life",
-      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": null,
@@ -875,6 +843,38 @@
       "duration_ms": 291057,
       "name": "Hosanna! (Will You Rise?)",
       "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 239256,
+      "name": "Lord of My Life",
+      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
     },
     {
       "added_at": null,
@@ -907,34 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
-        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
-      },
-      "artists": [
-        {
-          "name": "Rich Mullins",
-          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 157615,
-      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -963,6 +935,34 @@
       "duration_ms": 255320,
       "name": "Holy, Holy, Holy (God With Us)",
       "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
+      },
+      "artists": [
+        {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 157615,
+      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
     },
     {
       "added_at": null,

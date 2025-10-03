@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rafi Muhammad, Andien",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Traffic Jam",
   "name": "JIVVA",
   "tracks": [
     {
@@ -256,6 +256,24 @@
       "duration_ms": 246580,
       "name": "Bagaimana?",
       "url": "https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD"
+    },
+    {
+      "album": {
+        "name": "Balada Ibukota",
+        "url": "https://open.spotify.com/album/2yrrZUTQincnscYbyorV3j"
+      },
+      "artists": [
+        {
+          "name": "Gavendri",
+          "url": "https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174153,
+      "name": "Balada Ibukota",
+      "url": "https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD"
     },
     {
       "album": {
@@ -602,6 +620,24 @@
       "duration_ms": 211586,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/2V5NrnoZajhUP5pVZZVjs9"
+    },
+    {
+      "album": {
+        "name": "DERAU",
+        "url": "https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN"
+      },
+      "artists": [
+        {
+          "name": "Jugo Djarot",
+          "url": "https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DERAU",
+      "url": "https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2"
     },
     {
       "album": {
@@ -1229,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Ibukota",
+        "url": "https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS"
+      },
+      "artists": [
+        {
+          "name": "Traffic Jam",
+          "url": "https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Ibukota",
+      "url": "https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf"
+    },
+    {
+      "album": {
         "name": "Issa Goodbye",
         "url": "https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx"
       },
@@ -1436,7 +1490,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 130123,
       "name": "Kembali",
       "url": "https://open.spotify.com/track/6h2lCqV5ewEUZrZ0YrYlFO"
@@ -1621,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Long As",
+        "url": "https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a"
+      },
+      "artists": [
+        {
+          "name": "SAILORMONEY",
+          "url": "https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Long As",
+      "url": "https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB"
+    },
+    {
+      "album": {
         "name": "Looking for Love in Wrong Places",
         "url": "https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp"
       },
@@ -1744,7 +1816,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 153612,
       "name": "Man for Me",
       "url": "https://open.spotify.com/track/7zq0xgNwLdwFacF2gFLPGy"
@@ -1834,7 +1906,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 189857,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21"
@@ -1870,7 +1942,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 215731,
       "name": "Nuansa Biru",
       "url": "https://open.spotify.com/track/30ITGq0XWFoa8lq7vCThBO"
@@ -1982,7 +2054,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 281312,
       "name": "Pelita",
       "url": "https://open.spotify.com/track/11hmwvnvArUrTTkoClKwuw"

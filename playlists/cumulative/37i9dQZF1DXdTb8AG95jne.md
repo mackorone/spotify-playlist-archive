@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OuiOui\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Yerin Baek\(백예린\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,113 songs - 2 day 19 hr 29 min
+1,116 songs - 2 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 | 2021-12-21 | 2024-11-07 |
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [By Your Side](https://open.spotify.com/track/67u5UiXuljYrr34iFGoXG6) | [Baeksik](https://open.spotify.com/artist/6ZBi6tKlLbqzIQJinKMKWz) | [By Your Side](https://open.spotify.com/album/5mxJr0QIIZmMPbw4J5cgMQ) | 3:21 | 2025-09-18 |  |
-| [Bye my night](https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Bye my night](https://open.spotify.com/album/4kMdU0vmbR1L8ffVa97Zng) | 3:54 | 2025-08-18 |  |
+| [Bye my night](https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Bye my night](https://open.spotify.com/album/4kMdU0vmbR1L8ffVa97Zng) | 3:54 | 2025-08-18 | 2025-10-03 |
 | [c a c t u s s m u g g l e r](https://open.spotify.com/track/0kAVuSxArLGBy450zdfYPv) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-OXYGEN](https://open.spotify.com/album/5lehCVJHqa65UdRdXrmu3h) | 5:25 | 2024-04-30 | 2024-05-10 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2024-05-01 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 | 2023-04-19 |
@@ -145,7 +145,7 @@
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 | 2023-06-02 |
 | [Caroline](https://open.spotify.com/track/6KMvV8gTiD4ZY3kQCNNdaP) | [hemming](https://open.spotify.com/artist/62jIpWzkUFaVRfHvE2XEXu) | [Caroline](https://open.spotify.com/album/3As3FgZcrGsiY9oaRy546s) | 4:15 | 2025-10-02 |  |
 | [Casa Rosa](https://open.spotify.com/track/76oUoDKvvleVKKF2vlyNfH) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Casa Rosa](https://open.spotify.com/album/0kBeimZ6up4vSX9G6U1i4S) | 2:38 | 2024-04-30 | 2024-05-10 |
-| [CATGIRL](https://open.spotify.com/track/2C1mEP1LRWbL3kPNdzzoyp) | [LeSon](https://open.spotify.com/artist/6f03Hcv4DvUzPXRrmB2OiQ) | [CATGIRL](https://open.spotify.com/album/3sdM8IdoxJ7hDpFAGk8FdB) | 3:18 | 2025-08-26 |  |
+| [CATGIRL](https://open.spotify.com/track/2C1mEP1LRWbL3kPNdzzoyp) | [LeSon](https://open.spotify.com/artist/6f03Hcv4DvUzPXRrmB2OiQ) | [CATGIRL](https://open.spotify.com/album/3sdM8IdoxJ7hDpFAGk8FdB) | 3:18 | 2025-08-26 | 2025-10-03 |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
 | [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 | 2025-03-14 | 2025-04-11 |
 | [Cherokee](https://open.spotify.com/track/2mFr5op7xdgUkTXheBce9Z) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Cherokee](https://open.spotify.com/album/6d2s6jYP5yKb00vXIReqS7) | 3:22 | 2024-04-30 | 2024-05-10 |
@@ -271,6 +271,7 @@
 | [Epilogue \(feat.Meego\)](https://open.spotify.com/track/2JZStRToumDOLnGVD9uVq0) | [TAPEDECK](https://open.spotify.com/artist/4erEXjpCkVrmV1a2n1pjaC), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Epilogue \(feat\. Meego\)](https://open.spotify.com/album/1u8rkzn2L1TtnU8z1hUNtx) | 3:14 | 2022-03-31 | 2022-04-17 |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2025-02-13 |
 | [Escape!](https://open.spotify.com/track/5VsXPHSJvB0H4SBZHFiJyO) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:35 | 2022-05-11 | 2022-06-02 |
+| [ETERNAL AIRLINE](https://open.spotify.com/track/4hRYW8V4wjnEdQ6jgGa3mo) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [ETERNAL AIRLINE](https://open.spotify.com/album/0cri4YtU3TAvtFX8bUXdZZ) | 4:22 | 2025-10-02 |  |
 | [Even days \(2021\)](https://open.spotify.com/track/1SnY6KbNW8va17sBnIQnkG) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Even days \(2021\)](https://open.spotify.com/album/369MzvVXsUmYVgoSjTZpJ1) | 4:06 | 2021-12-21 | 2022-04-16 |
 | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX) | 3:04 | 2025-04-09 | 2025-04-11 |
 | [Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2024-04-04 | 2024-11-07 |
@@ -607,6 +608,7 @@
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-12 | 2022-09-06 |
 | [Minerva](https://open.spotify.com/track/2DmSpel2RpctQjgHHWif0v) | [Odaeri](https://open.spotify.com/artist/5TpUdda9mtU7SmskHGDHvu) | [국풍'13](https://open.spotify.com/album/49N9tX1vYthZr7u4T7FbPu) | 6:00 | 2025-07-23 | 2025-08-01 |
 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 | 2022-07-05 |
+| [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-10-02 |  |
 | [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 | 2024-05-10 |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |
@@ -933,7 +935,7 @@
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-15 |
 | [The Clockwork Whirl](https://open.spotify.com/track/41zMQtyFKnSrevslXxQpxN) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [The Clockwork Whirl](https://open.spotify.com/album/5zod3cJbuUbfQfUmUVS1YE) | 3:15 | 2025-05-23 | 2025-05-31 |
 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2024-10-30 | 2025-01-10 |
-| [The Days of Green](https://open.spotify.com/track/1QDgDQ7U9nqVxSu3SbBTWB) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Seasonal Interlude No.1](https://open.spotify.com/album/0Z9pQJlOeSmhVdm7JHSmto) | 3:19 | 2025-08-26 |  |
+| [The Days of Green](https://open.spotify.com/track/1QDgDQ7U9nqVxSu3SbBTWB) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Seasonal Interlude No.1](https://open.spotify.com/album/0Z9pQJlOeSmhVdm7JHSmto) | 3:19 | 2025-08-26 | 2025-10-03 |
 | [The gloomy star is setting \(feat\. gonamjun\)](https://open.spotify.com/track/5Nqg5lO7LhrnMZ22sRKr8v) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [gonamjun](https://open.spotify.com/artist/7eIZPLvyKwliDbQUeQjjA8) | [The gloomy star is setting](https://open.spotify.com/album/4gC1vHvKEdzrTXRr5txIn9) | 3:44 | 2025-01-22 | 2025-04-10 |
 | [The hand that's out to you](https://open.spotify.com/track/4VKosqBYXQACTfXQ5cGL88) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [The hand that's out to you](https://open.spotify.com/album/3Zlaon3fpaAjhwzZLYbIYv) | 3:02 | 2023-04-18 | 2023-05-05 |
 | [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 | 2023-01-11 | 2023-01-26 |
@@ -1017,6 +1019,7 @@
 | [we never turn cold](https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [we never turn cold](https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5) | 4:55 | 2024-12-06 | 2025-02-18 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-25 | 2023-02-15 |
 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 | 2024-06-13 |
+| [We were like the stars of dawn \(Dawn\)](https://open.spotify.com/track/4jVdIOnlemGMLnAAJZjDTx) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [We were like the stars of dawn](https://open.spotify.com/album/6xh2EwO8xCQPmAnYPdWxsd) | 3:20 | 2025-10-02 |  |
 | [we'll we'll we'll](https://open.spotify.com/track/20lNlljp0TirKpHHmx5bdG) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [OUR Ocean](https://open.spotify.com/album/2zWRj9NgN35Im7JHxG3tGR) | 2:38 | 2024-08-05 | 2024-08-11 |
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekend Plan](https://open.spotify.com/track/6MEqLi6sAO1dNhvsIu8EBB) | [시문](https://open.spotify.com/artist/1av7TcuRUTFY08RJlMd7gt), [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Weekend Plan](https://open.spotify.com/album/03MCtdcLL9qyior3POGFaC) | 2:52 | 2025-03-14 | 2025-04-10 |

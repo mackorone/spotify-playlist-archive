@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,325 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,418 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Who's There?](https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:00 |
+| 1 | [Who's There?](https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9) | [Nevium](https://open.spotify.com/artist/18h6bUDAke6kPNEuB3VcMM) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:00 |
 | 2 | [Halloween Forest, Wind, Spooky Sounds](https://open.spotify.com/track/34a6vjzt60Ah3Hmg0hwWi6) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Halloween Soundscapes](https://open.spotify.com/album/2SNBvjiN8MlijC6IADnOTl) | 3:20 |
-| 3 | [Halloween Night in the Forest](https://open.spotify.com/track/1Jfouo7BPAseH72MXYNS9n) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:04 |
+| 3 | [Halloween Night in the Forest](https://open.spotify.com/track/1Jfouo7BPAseH72MXYNS9n) | [Nevium](https://open.spotify.com/artist/18h6bUDAke6kPNEuB3VcMM) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:04 |
 | 4 | [Caution Ahead](https://open.spotify.com/track/2IhA6RgoxINW74as1QFRxl) | [Terrorizers](https://open.spotify.com/artist/67qQXzVrcWEE1cA9OwQpPL) | [Halloween Madness](https://open.spotify.com/album/0QOVszoGgMjfkl02eM2oIm) | 5:23 |
 | 5 | [Scary Night](https://open.spotify.com/track/43feua08DY9JNyC6cVVOME) | [Dr Dark Noise](https://open.spotify.com/artist/6l6ExhNwsH5l2GPAfYBtNP) | [Halloween Ambience](https://open.spotify.com/album/4xmU4hVsK2KKnxfAfMRIC2) | 3:08 |
 | 6 | [Abandoned Asylum Terrors](https://open.spotify.com/track/054msJtOkAhIhtiS2iab34) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Scary Halloween Sounds](https://open.spotify.com/album/5i1xFxHwnH40tevnEFQa8C) | 3:16 |

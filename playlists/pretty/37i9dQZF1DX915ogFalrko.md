@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,044 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,027 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 99 | [Move on Up](https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS) | [The Dynamics](https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn) | [Disco Reggae](https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx) | 4:52 |
 | 100 | [Vacances](https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Matahari](https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV) | 4:21 |
 
-Snapshot ID: `AAAAAOpKUdBDoytl+s+KZjHJhm+A21ce`
+Snapshot ID: `AAAAANe+CWTZht0Ou2zgVykYa8gTWm70`

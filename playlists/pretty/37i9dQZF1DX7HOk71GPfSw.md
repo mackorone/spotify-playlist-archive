@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaive scores a golazo ⚽⚽⚽⚽⚽⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,187 likes - 200 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,264 likes - 200 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 13 | [PARTY THRU THE NIGHT](https://open.spotify.com/track/6ZA3IdYr7VedrzR1t9qm2c) | [BBY GOOSE](https://open.spotify.com/artist/6ECQtn213gfr2RnbL6x7pa) | [PARTY THRU THE NIGHT](https://open.spotify.com/album/3lty5O4LcqYPJ9eFKKHlM5) | 3:36 |
 | 14 | [Appalachia](https://open.spotify.com/track/1eh7N11Wxib2KZ5w8eKJ94) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Appalachia](https://open.spotify.com/album/3yTGd142wMD28wd17gzdpO) | 2:18 |
 | 15 | [techno s3x!](https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [techno s3x!](https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc) | 2:25 |
-| 16 | [Freaks \(w/ DEV\)](https://open.spotify.com/track/46cdEl9gJxePB1IHT0ng1p) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Freaks \(w/ DEV\)](https://open.spotify.com/album/2zlKhUN6HkQl8a8bpL41eT) | 2:00 |
+| 16 | [Freaks](https://open.spotify.com/track/46cdEl9gJxePB1IHT0ng1p) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Freaks](https://open.spotify.com/album/2zlKhUN6HkQl8a8bpL41eT) | 2:00 |
 | 17 | [Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:44 |
 | 18 | [BLACK BOOK](https://open.spotify.com/track/1TOS4IewluiIsDcSTBo74J) | [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA) | [BLACK BOOK](https://open.spotify.com/album/6FdYwB0ZwNIZhbZFbDaLh5) | 3:12 |
 | 19 | [Jump \(m\-flo Remix\)](https://open.spotify.com/track/4EN6FnYP9Aaax2kYqvKh8i) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [Jump \(m\-flo Remix\)](https://open.spotify.com/album/2EJMuuf8X9ArNU1x1tlBan) | 4:29 |

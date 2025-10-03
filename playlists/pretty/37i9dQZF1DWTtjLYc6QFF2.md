@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: KLER
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,300 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,302 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 5 | [кхтс](https://open.spotify.com/track/5n9X8EX631Bt7zRJ0UXzBe) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [кхтс](https://open.spotify.com/album/0D8lIfd0CWbWeOsZMg0twI) | 3:02 |
 | 6 | [Ввечері](https://open.spotify.com/track/1IjpNQqnyNzg98FPu3dZTU) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Ввечері](https://open.spotify.com/album/5RPe3f34Y2Ume0GKGcYAa6) | 2:54 |
 | 7 | [Не знаю](https://open.spotify.com/track/1e6GrEKeOu89nwjMzXCmu4) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не знаю](https://open.spotify.com/album/7cnEHAu2hTg4FSa90LAuM5) | 3:30 |
-| 8 | [А хто хейтить](https://open.spotify.com/track/4WJWo3nKXdTrk3FXhKsh4k) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [А хто хейтить](https://open.spotify.com/album/4K4Sh0hessVSUqG5karoJw) | 2:39 |
+| 8 | [А хто хейтить \- OST «10 Блогерят»](https://open.spotify.com/track/4WJWo3nKXdTrk3FXhKsh4k) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [А хто хейтить \(OST «10 Блогерят»\)](https://open.spotify.com/album/4K4Sh0hessVSUqG5karoJw) | 2:39 |
 | 9 | [Принцеса](https://open.spotify.com/track/08PPxO6VxUG3GBvv4rqafQ) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Лабра Дудлі](https://open.spotify.com/artist/6SKL2QTqSFypGMaQbacibM), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Принцеса](https://open.spotify.com/album/4VJO30kapvFkWVpwVzA1GE) | 3:27 |
 | 10 | [За обрієм](https://open.spotify.com/track/38oIBuG7cGYmXJbQoQsPa1) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [За обрієм](https://open.spotify.com/album/2BBFE6B2emRvpfZ7mDdBvw) | 3:17 |
 | 11 | [Ментально нестабільна](https://open.spotify.com/track/2CDiSwfi6ykTSkzhnNwQFY) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Ментально нестабільна](https://open.spotify.com/album/23JsJ4Jrp2G9vV5N72rrnM) | 2:12 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 28 | [Дай мені знак](https://open.spotify.com/track/44jYInLZBlUjzsifxv0x2a) | [EMUNA](https://open.spotify.com/artist/0qYZR1phmP5pcky0m9f3r7) | [Дай мені знак](https://open.spotify.com/album/6WSMOB7S7OIveD7PnRqnyC) | 3:02 |
 | 29 | [Зорепад](https://open.spotify.com/track/58YZlzfxOVDydOvMljFI0U) | [Diana Glebova](https://open.spotify.com/artist/556qm8KkZ0yvO1c2yhimzh) | [Зорепад](https://open.spotify.com/album/19aEp721qXzCsCE407PxiO) | 3:22 |
 | 30 | [Дивний спокій](https://open.spotify.com/track/29Pa0G0nrVe7ags8SGXz30) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Дивний спокій](https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4) | 4:05 |
-| 31 | [Море моє](https://open.spotify.com/track/3hR8IeAWOLrinmEq8PhgQA) | [Kulshenka](https://open.spotify.com/artist/4kUHhXm6tx1lMi1RdqDQgu), [SESTRA BLYZNYUCHKA](https://open.spotify.com/artist/1sRcwY9gyTNujy59h3eLP8) | [Море моє](https://open.spotify.com/album/7GHg64f9vwPb78zcPS3VvS) | 3:51 |
+| 31 | [Море моє](https://open.spotify.com/track/3hR8IeAWOLrinmEq8PhgQA) | [Kulshenka](https://open.spotify.com/artist/4kUHhXm6tx1lMi1RdqDQgu), [SESTRA BLYZNYUCHKA](https://open.spotify.com/artist/07wX92iwQAz5vXfU9GGcJO) | [Море моє](https://open.spotify.com/album/7GHg64f9vwPb78zcPS3VvS) | 3:51 |
 | 32 | [Вівторок](https://open.spotify.com/track/1FRuacaKSIjBqIvhLciVVA) | [KARINÈ](https://open.spotify.com/artist/6v2SNCaSjFbvN935XsOnAB) | [Вівторок](https://open.spotify.com/album/5MY6ysChGZUVxnYMlVDYoh) | 3:49 |
 | 33 | [Салют](https://open.spotify.com/track/1JtNbH4NkbR5gXJNQ7gRYo) | [AYA NÓVA](https://open.spotify.com/artist/2I2msOrpiAsvgm4L6CJ3eP) | [Салют](https://open.spotify.com/album/4eddKJsyu1NIi29tmVarp4) | 1:55 |
 | 34 | [Лети](https://open.spotify.com/track/4gusYxzexqdLLRaht28p5s) | [PROSTO DI](https://open.spotify.com/artist/6KcA2WblPqOV9JwipPnMxX) | [Лети](https://open.spotify.com/album/4KqA2xJglliXUfJHXKoD8p) | 2:53 |

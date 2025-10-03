@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-767 songs - 1 day 14 hr 31 min
+768 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Loner](https://open.spotify.com/track/0ogKCKUg5bZs21RfNTTOqj) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Loner](https://open.spotify.com/album/6mAchaerPlZme2dUKJnkcL) | 2:09 | 2025-05-29 |  |
 | [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 |  |
 | [Look No Further](https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Grace Luisa](https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD) | [Look No Further](https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb) | 2:41 | 2024-09-06 |  |
+| [LOOP](https://open.spotify.com/track/0oSO3wFPQw7FMygbB2kmQq) | [LANCELOT](https://open.spotify.com/artist/0gBkizQxXDLQMCA5nC0n00), [Acigode](https://open.spotify.com/artist/5IULZnKTP4kyJp4T9AT86B), [SXYGX](https://open.spotify.com/artist/4ymc4WQ8tgyS7lKqIR8sOU) | [LOOP](https://open.spotify.com/album/79lkxDktHnhJknVDDY7TXb) | 1:58 | 2025-10-02 |  |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 | 2023-08-10 |
 | [Lost](https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2) | [Lost](https://open.spotify.com/album/24P0Q4kK2uSvzWOIRu5oKD) | 2:52 | 2023-01-20 | 2023-04-28 |
 | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Lost](https://open.spotify.com/album/1LOfcHJVo5BMjcn0qQmRz7) | 2:37 | 2023-08-08 | 2024-01-25 |

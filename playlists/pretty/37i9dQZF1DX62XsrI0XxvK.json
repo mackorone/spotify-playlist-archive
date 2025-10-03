@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rafi Muhammad, Andien",
-  "num_followers": 13422,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Traffic Jam",
+  "num_followers": 13426,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLcCj7gj+loqr4cQw4fpXsW0Q3j",
+  "snapshot_id": "AAAAADIIog6cAJI5qXwsKwRXGhtpZLvA",
   "tracks": [
+    {
+      "added_at": "2025-10-02 17:00:33",
+      "album": {
+        "name": "Ibukota",
+        "url": "https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS"
+      },
+      "artists": [
+        {
+          "name": "Traffic Jam",
+          "url": "https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Ibukota",
+      "url": "https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf"
+    },
     {
       "added_at": "2025-09-25 17:05:13",
       "album": {
@@ -27,6 +43,54 @@
       "duration_ms": 239984,
       "name": "Untukmu",
       "url": "https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH"
+    },
+    {
+      "added_at": "2025-10-02 17:00:33",
+      "album": {
+        "name": "Long As",
+        "url": "https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a"
+      },
+      "artists": [
+        {
+          "name": "SAILORMONEY",
+          "url": "https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "Long As",
+      "url": "https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB"
+    },
+    {
+      "added_at": "2025-10-02 17:00:33",
+      "album": {
+        "name": "Balada Ibukota",
+        "url": "https://open.spotify.com/album/2yrrZUTQincnscYbyorV3j"
+      },
+      "artists": [
+        {
+          "name": "Gavendri",
+          "url": "https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w"
+        }
+      ],
+      "duration_ms": 174153,
+      "name": "Balada Ibukota",
+      "url": "https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD"
+    },
+    {
+      "added_at": "2025-10-02 17:00:33",
+      "album": {
+        "name": "DERAU",
+        "url": "https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN"
+      },
+      "artists": [
+        {
+          "name": "Jugo Djarot",
+          "url": "https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "DERAU",
+      "url": "https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2"
     },
     {
       "added_at": "2025-09-25 17:05:13",
@@ -633,22 +697,6 @@
       "url": "https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN"
     },
     {
-      "added_at": "2025-06-12 18:01:31",
-      "album": {
-        "name": "CTRL+N",
-        "url": "https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc"
-      },
-      "artists": [
-        {
-          "name": "Lalu Carlos",
-          "url": "https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS"
-        }
-      ],
-      "duration_ms": 189857,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21"
-    },
-    {
       "added_at": "2025-06-13 00:04:34",
       "album": {
         "name": "Here, I Said 'Thank You'",
@@ -663,22 +711,6 @@
       "duration_ms": 136888,
       "name": "Here, I Said 'Thank You'",
       "url": "https://open.spotify.com/track/5Cgy50FxnAM37H2PPrVfSi"
-    },
-    {
-      "added_at": "2025-06-12 18:01:31",
-      "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/3QlLunPGsRXTsgxJqtMiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rezo Mesah",
-          "url": "https://open.spotify.com/artist/128s9ZuaXrvQ7DjwRn4kpU"
-        }
-      ],
-      "duration_ms": 130123,
-      "name": "Kembali",
-      "url": "https://open.spotify.com/track/6h2lCqV5ewEUZrZ0YrYlFO"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -907,22 +939,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Man for Me",
-        "url": "https://open.spotify.com/album/1yA8bE3pLEMjHuzcHTmdXr"
-      },
-      "artists": [
-        {
-          "name": "Almira Zaky",
-          "url": "https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy"
-        }
-      ],
-      "duration_ms": 153612,
-      "name": "Man for Me",
-      "url": "https://open.spotify.com/track/7zq0xgNwLdwFacF2gFLPGy"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Merangkai",
         "url": "https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Pelita",
-        "url": "https://open.spotify.com/album/2XfMU1K2vxSDZFl8VmSXl0"
-      },
-      "artists": [
-        {
-          "name": "Adityaa Bagus",
-          "url": "https://open.spotify.com/artist/3zbVjekhcWIMb4lgWywjWL"
-        }
-      ],
-      "duration_ms": 281312,
-      "name": "Pelita",
-      "url": "https://open.spotify.com/track/11hmwvnvArUrTTkoClKwuw"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Kasitau",
         "url": "https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 264193,
       "name": "Bangkit (Apa Yang Kau Takutkan?)",
       "url": "https://open.spotify.com/track/5fltq57JdvtjPOz9V13N3a"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Nuansa Biru",
-        "url": "https://open.spotify.com/album/75SF4HGHWxSx6tBc9T8fde"
-      },
-      "artists": [
-        {
-          "name": "Tarasinta",
-          "url": "https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL"
-        }
-      ],
-      "duration_ms": 215731,
-      "name": "Nuansa Biru",
-      "url": "https://open.spotify.com/track/30ITGq0XWFoa8lq7vCThBO"
     },
     {
       "added_at": "2025-06-05 17:05:22",

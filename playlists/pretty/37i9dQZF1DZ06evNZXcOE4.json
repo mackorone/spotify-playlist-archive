@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 44283,
+  "num_followers": 44289,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAX8h3z+D3Pd5FKSMNDg76f",
+  "snapshot_id": "aNxvAAAAAAAB6l2SxSK+9NEZQT+LhMuZ",
   "tracks": [
     {
       "added_at": null,
@@ -44,7 +44,7 @@
       "added_at": null,
       "album": {
         "name": "Ritual De Lo Habitual",
-        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+        "url": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 214706,
+      "duration_ms": 213293,
       "name": "Been Caught Stealing",
-      "url": "https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt"
+      "url": "https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Ain't No Right",
-      "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
+      "duration_ms": 500266,
+      "name": "Then She Did...",
+      "url": "https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 500266,
-      "name": "Then She Did...",
-      "url": "https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V"
+      "duration_ms": 214533,
+      "name": "Ain't No Right",
+      "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
     },
     {
       "added_at": null,

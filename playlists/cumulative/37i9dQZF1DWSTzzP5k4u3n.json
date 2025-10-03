@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Aika loppuu",
+        "url": "https://open.spotify.com/album/4vUoF09PxElLpcCRBXeW7e"
+      },
+      "artists": [
+        {
+          "name": "Venkulit",
+          "url": "https://open.spotify.com/artist/6iTidGnUAg4NMXtPtUJ49v"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250775,
+      "name": "Aika loppuu",
+      "url": "https://open.spotify.com/track/2m03FQ7x7YGGHZoiy558Ta"
+    },
+    {
+      "album": {
         "name": "Aina sinulle",
         "url": "https://open.spotify.com/album/5giDeA0EdcwVJGkuTg5ijH"
       },
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 207457,
       "name": "Lintu auringon",
       "url": "https://open.spotify.com/track/7dVym1ENmNNzN1XIeXQpDn"
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 188091,
       "name": "Me lennettiin kohti aamua",
       "url": "https://open.spotify.com/track/16oUMrsZTOpmKKylMMwT6D"
@@ -7217,6 +7235,24 @@
     },
     {
       "album": {
+        "name": "Satu peikoista",
+        "url": "https://open.spotify.com/album/0D77k8aHK7BxBYwT3goIo2"
+      },
+      "artists": [
+        {
+          "name": "Suski",
+          "url": "https://open.spotify.com/artist/3eAFW1Pf7062zlPtfaEbPE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354711,
+      "name": "Satu peikoista",
+      "url": "https://open.spotify.com/track/4MksHrlGvTndcGcTAFxOiY"
+    },
+    {
+      "album": {
         "name": "Satumaa",
         "url": "https://open.spotify.com/album/3dOpKJatWBd1Ng8kYF3f34"
       },
@@ -8187,6 +8223,24 @@
     },
     {
       "album": {
+        "name": "Talkoop\u00e4iv\u00e4 / Muuttoauto",
+        "url": "https://open.spotify.com/album/66h5aXff5uhg3jdukCdTI0"
+      },
+      "artists": [
+        {
+          "name": "1Tipe",
+          "url": "https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206424,
+      "name": "Talkoop\u00e4iv\u00e4",
+      "url": "https://open.spotify.com/track/5hDQG8MFf8XBMc1uEB8cDy"
+    },
+    {
+      "album": {
         "name": "Talonmies",
         "url": "https://open.spotify.com/album/17car5zOLWtLiRBSYdHInr"
       },
@@ -8742,7 +8796,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 227509,
       "name": "Tyson",
       "url": "https://open.spotify.com/track/4FhUEtaa09Xqhqk44gnrJh"

@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Junior Simba
+> The home for alternative electronic music\. Cover: KETTAMA
 
 1,280 songs - 3 day 15 hr 4 min
 

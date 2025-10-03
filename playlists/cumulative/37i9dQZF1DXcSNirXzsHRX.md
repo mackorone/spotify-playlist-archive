@@ -4,7 +4,7 @@
 
 > Den bedste rock playliste i Danmark!
 
-187 songs - 12 hr 29 min
+188 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Skin From Bones](https://open.spotify.com/track/1R7IwHP908OjMlRy6u6byr) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Skin From Bones](https://open.spotify.com/album/5sOEmkQ0IoI8cQATzsi6yj) | 3:20 | 2025-02-27 | 2025-04-04 |
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-09-06 | 2024-09-14 |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 | 2025-04-18 |
-| [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 | 2025-08-14 |  |
+| [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 | 2025-08-14 | 2025-10-03 |
 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 | 2025-02-06 | 2025-04-04 |
 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 | 2024-10-24 | 2024-11-08 |
 | [Still Dancing](https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Still Dancing](https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC) | 3:46 | 2025-02-28 | 2025-04-25 |
@@ -175,6 +175,7 @@
 | [Time Is A Destroyer](https://open.spotify.com/track/2cTYJ0NFVc6a2R3UGfta3s) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Time Is A Destroyer](https://open.spotify.com/album/0sGXZMXEeXv32bKQ3AWh4t) | 2:31 | 2025-09-25 |  |
 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 | 2025-05-15 | 2025-06-27 |
 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 | 2024-12-19 | 2025-04-18 |
+| [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-02 |  |
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-15 |
 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 | 2025-09-04 | 2025-09-19 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-12-30 |

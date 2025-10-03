@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 891144,
+  "num_followers": 891313,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAeBeerWDI7EW/ixwN4ROVj",
+  "snapshot_id": "aNxvAAAAAACNXIgHnZkuYKUilpXxy01i",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can I Get an Outlaw",
+        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Can I Get an Outlaw",
+      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 191053,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can I Get an Outlaw",
-        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Can I Get an Outlaw",
-      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
     },
     {
       "added_at": null,

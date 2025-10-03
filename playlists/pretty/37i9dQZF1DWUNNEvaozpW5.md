@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Iván Ferreiro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,515 likes - 120 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,357 likes - 120 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 119 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 |
 | 120 | [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 |
 
-Snapshot ID: `AAAAAIWtDnpgt6kAxS4gVNSx6X6ySuH7`
+Snapshot ID: `AAAAAOQqag6sptUq7IxL8BY9KvGt/OpF`

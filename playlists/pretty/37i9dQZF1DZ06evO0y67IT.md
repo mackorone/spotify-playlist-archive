@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,984 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Walls](https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Hawthorne Heights / Emery](https://open.spotify.com/album/0R46evZSMibVrQooZN69xg) | 3:44 |
 | 50 | [Control Alt Delete](https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:13 |
 
-Snapshot ID: `aNsdgAAAAADx6b44ExwMRGrw3LmT4ABk`
+Snapshot ID: `aNxvAAAAAAC/65iHVKi4cKvoyiO2fw5a`

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Victoria Niro
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Drevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,010 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,036 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 |
-| 2 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
-| 3 | [Смарагдове небо](https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Смарагдове небо](https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw) | 3:06 |
+| 1 | [Смарагдове небо](https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Смарагдове небо](https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw) | 3:06 |
+| 2 | [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 |
+| 3 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
 | 4 | [Афини](https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Афини](https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs) | 3:22 |
 | 5 | [If you know what I mean](https://open.spotify.com/track/7y1U60VT1D3itIOfJZ3G6P) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [If you know what I mean](https://open.spotify.com/album/1nEbOt8a41lArbvwO3zKna) | 3:37 |
 | 6 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 |
 | 50 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 
-Snapshot ID: `AAAAAAncB8bMn6C0tfRvsykM5CQCkqsu`
+Snapshot ID: `AAAAALZGIFOzPsLzvnSA0XE0IZnGgx59`

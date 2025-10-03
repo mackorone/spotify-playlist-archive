@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,061 likes - 47 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,066 likes - 47 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 11 | [Plano do Senhor \- Ao Vivo](https://open.spotify.com/track/7oe0KG1ZEDkoM9gKD05HxU) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F) | 7:28 |
 | 12 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
 | 13 | [Quien Te Ve Adorando](https://open.spotify.com/track/6FQ3i3v5WTwVm97tRv63P4) | [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Quien Te Ve Adorando](https://open.spotify.com/album/7CHPIAMOakdmehtu9cIyQE) | 5:59 |
-| 14 | [Sonhador \(Ao Vivo\)](https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Sonhador \(Ao Vivo\)](https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb) | 3:53 |
+| 14 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 15 | [Deus do Amanhã \- Ao Vivo](https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY), [Pablo Gabriel](https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F) | 5:49 |
-| 16 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 16 | [Sonhador \(Ao Vivo\)](https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Sonhador \(Ao Vivo\)](https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb) | 3:53 |
 | 17 | [Frente a Frente Com Deus](https://open.spotify.com/track/0krbH7EB28cDn1KDqK4E3g) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 4:38 |
 | 18 | [Acredite](https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Acredite](https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7) | 5:04 |
 | 19 | [Eliseu \- Ao Vivo](https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F) | 9:03 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 46 | [La Paloma](https://open.spotify.com/track/4eGqQrzZnq85k876sjVJkO) | [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [La Paloma](https://open.spotify.com/album/16MAWdvY4cAKki9UB4X9W6) | 11:56 |
 | 47 | [Plano Original / Citação: Sossegai](https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:49 |
 
-Snapshot ID: `aNsdgAAAAACV3UHIvHWIR72XGhRDuF2O`
+Snapshot ID: `aNxvAAAAAAD/ljy3hL51JVXI05xn6OpP`

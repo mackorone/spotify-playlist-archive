@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYM2TpfSdxV.md) - [plain]
 
 > Ruido blanco para ayudarte a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,608 likes - 200 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,761 likes - 200 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYM2TpfSdxV.md) - [plain]
 | 78 | [White Noise \- Sleep Through the Night](https://open.spotify.com/track/1hrph1qE2yeclQUqzKT8HN) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Sleep Through the Night](https://open.spotify.com/album/0QJdY7Fk0QhTPwPBmP1EmS) | 3:24 |
 | 79 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |
 | 80 | [Soothing Field Noise](https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:33 |
-| 81 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Dreamlux](https://open.spotify.com/artist/608c6CqBFogFms9icxSr2F) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
+| 81 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Drealux](https://open.spotify.com/artist/1LgofD2ZhZ1hhF8VshT01U) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
 | 82 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
 | 83 | [Scandinavian Air](https://open.spotify.com/track/7c0H5pm4XvkhYyyxk4Ifm3) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Scandinavian Air](https://open.spotify.com/album/1tIESKGMhbQcXshU8z8rYz) | 2:29 |
 | 84 | [Resting with White Noise](https://open.spotify.com/track/146Y0ZLNuP29oSaR6wWeNd) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Resting with White Noise](https://open.spotify.com/album/0tgBgtBWPbU2km6b9wdiyO) | 4:00 |

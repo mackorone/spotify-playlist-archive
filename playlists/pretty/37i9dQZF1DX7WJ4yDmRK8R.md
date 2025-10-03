@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Panteon Rococo en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,496 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,502 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 20 | [Johnny Quest Thinks We're Sellouts](https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Losing Streak](https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np) | 2:49 |
 | 21 | [Too Much Too Young \- 2015 Remaster](https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 6:06 |
 | 22 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
-| 23 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 |
-| 24 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
+| 23 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
+| 24 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 |
 | 25 | [La Última Carta](https://open.spotify.com/track/2A66FBk36QAMcOychXojNS) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq) | 3:32 |
 | 26 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
 | 27 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 50 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
 | 51 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
 | 52 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
-| 53 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
-| 54 | [180 Degrees](https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:10 |
+| 53 | [180 Degrees](https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:10 |
+| 54 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
 | 55 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 56 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
 | 57 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 85 | [Skinhead](https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Godfather Of Ska Anthology](https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp) | 4:40 |
 | 86 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 87 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
-| 88 | [Hello Again](https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA) | [South Central Skankers](https://open.spotify.com/artist/5aehZQpUqnfjIkjRogoRiq) | [Once Upon a Time](https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm) | 2:44 |
-| 89 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 |
-| 90 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
+| 88 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 |
+| 89 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
+| 90 | [Hello Again](https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA) | [South Central Skankers](https://open.spotify.com/artist/5aehZQpUqnfjIkjRogoRiq) | [Once Upon a Time](https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm) | 2:44 |
 | 91 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
 | 92 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
 | 93 | [Fat Randy](https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:03 |

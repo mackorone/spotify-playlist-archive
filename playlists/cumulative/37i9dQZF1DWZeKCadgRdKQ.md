@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-986 songs - 2 day 0 hr 58 min
+988 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Early Morning](https://open.spotify.com/track/2FWsxzejovIykc5XSuBU76) | [Magnus Hartman](https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl) | [Early Morning](https://open.spotify.com/album/33IACGqrKQKz2vGTmcuYAn) | 2:28 | 2025-02-28 |  |
 | [Earthly](https://open.spotify.com/track/2zrJqwjnIsLHKTs9N9I8It) | [Night Songs](https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF) | [Earthly](https://open.spotify.com/album/17nHjd2zoRMuar9b7ktzhb) | 2:23 | 2024-07-26 | 2024-11-07 |
 | [Easy Living](https://open.spotify.com/track/56ziZBtbpDajlj96pxEWsF) | [Nelson Robert](https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp) | [Easy Living](https://open.spotify.com/album/0vlaaxzxRCr9dWLAnRNv9J) | 2:15 | 2025-02-07 |  |
-| [Echoed Memory](https://open.spotify.com/track/4oNCXU6RZG6qpVDAfZUoEh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Echoed Memory](https://open.spotify.com/album/4YPcKVNUkNycSD4tdfsWDh) | 2:08 | 2023-04-21 |  |
+| [Echoed Memory](https://open.spotify.com/track/4oNCXU6RZG6qpVDAfZUoEh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Echoed Memory](https://open.spotify.com/album/4YPcKVNUkNycSD4tdfsWDh) | 2:08 | 2023-04-21 | 2025-10-03 |
 | [Echoes](https://open.spotify.com/track/7w7PBFjwBt01imdfarXDmf) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Echoes](https://open.spotify.com/album/01XSMp72dKTduhYTRR42am) | 2:50 | 2024-12-18 | 2025-03-15 |
 | [Echoes In The Night](https://open.spotify.com/track/0Y12GuKnIa7ObO8s6E0D9X) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Wild Flowers](https://open.spotify.com/album/1ZC2UZU31y5NrgkCiAkUUO) | 2:58 | 2022-10-21 | 2024-05-12 |
 | [Eclipses](https://open.spotify.com/track/7kgPqo0QdBTtMOI6SlLnLS) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Eclipses](https://open.spotify.com/album/4VcspTT9a2grd3wZxS7shE) | 2:19 | 2025-01-21 | 2025-06-13 |
@@ -266,6 +266,7 @@
 | [Entropy](https://open.spotify.com/track/7IQiA0AS6H75uULh09EoHp) | [Antonio Roberto](https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc) | [Entropy](https://open.spotify.com/album/0TUnPJbHP1krkbxOoTzFr9) | 2:03 | 2024-08-02 |  |
 | [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2019-07-31 | 2021-09-14 |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-02-10 | 2024-11-07 |
+| [Equivalence](https://open.spotify.com/track/2tDjsli7vCql7vIzu5Gq3W) | [All the World](https://open.spotify.com/artist/35PSTSmNbbdeF2CQi8HRVG) | [Equivalence](https://open.spotify.com/album/6nBBbzZ0cCk2e9fqJeUCu4) | 2:24 | 2025-10-01 |  |
 | [Escapade](https://open.spotify.com/track/6GcJticUpjHVl4ZrL97jhG) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Escapade](https://open.spotify.com/album/20jPQhCIdrpSdrHfS1xNnG) | 2:24 | 2025-06-23 |  |
 | [Escape](https://open.spotify.com/track/3B5CmP4afMVgLJeDvc6ivW) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:25 | 2019-06-19\* | 2021-09-03 |
 | [Escaping Time](https://open.spotify.com/track/7JrSIPcfkWhDzxWII8Jz7V) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 3:20 | 2020-01-03 | 2022-10-15 |
@@ -291,7 +292,7 @@
 | [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 | 2022-05-05 | 2023-09-26 |
 | [Everything](https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/7CyISiIyKSbgIQZr8JaqoS) | 5:37 | 2019-05-26\* | 2019-06-27 |
 | [Evolve](https://open.spotify.com/track/48vpR7k8UWYVy6cA5vTOhO) | [Halcyon](https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1) | [Evolve](https://open.spotify.com/album/7c2Y78GxcbtJrEEgwaf7HP) | 2:38 | 2025-02-14 |  |
-| [evolving](https://open.spotify.com/track/5zPBHnZgwfTOV53AYv6gG8) | [Fauxwale](https://open.spotify.com/artist/4XBbDzk88f8EnPyfNg4i2E) | [evolving](https://open.spotify.com/album/2zUaR8Go89uNoAJGTXgRUW) | 2:07 | 2024-12-18 |  |
+| [evolving](https://open.spotify.com/track/5zPBHnZgwfTOV53AYv6gG8) | [Fauxwale](https://open.spotify.com/artist/4XBbDzk88f8EnPyfNg4i2E) | [evolving](https://open.spotify.com/album/2zUaR8Go89uNoAJGTXgRUW) | 2:07 | 2024-12-18 | 2025-10-03 |
 | [Exosphere](https://open.spotify.com/track/431I900NutfaxXESiSSEIf) | [Savione](https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg) | [Exosphere](https://open.spotify.com/album/6Hfedf5OTptBYdMev05Ata) | 2:28 | 2025-04-23 |  |
 | [Extension](https://open.spotify.com/track/7cpZLMamKPbJnV3hMAof98) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Extension](https://open.spotify.com/album/5dZ9B7wDetwuHLmxHsEeJS) | 2:30 | 2023-09-22 | 2024-09-03 |
 | [Fading In](https://open.spotify.com/track/6vcxeAeNm3N9KnX1XJ6btV) | [Subtle Realms](https://open.spotify.com/artist/5VmH0IT0jOTTDj41AtVrPs) | [Fading In](https://open.spotify.com/album/3fSfKMTw8fK0YVDhb9Z2CS) | 2:54 | 2025-04-23 |  |
@@ -512,6 +513,7 @@
 | [Lumière of Thought](https://open.spotify.com/track/087fiERuN3uJp0AOIBUk9P) | [Otto Virell](https://open.spotify.com/artist/15kzKp5uDZ67nTHjj3atAk) | [Lumière of Thought](https://open.spotify.com/album/0Y6ZXSvBgz9cZVK84AvHFk) | 2:48 | 2025-07-16 |  |
 | [Lunar Eclipse](https://open.spotify.com/track/0n2X57zaddr0ODIxUb64Sx) | [Marc Torch](https://open.spotify.com/artist/6OTnWg2Dt9yZfEHwOnZspu) | [Lunar Eclipse](https://open.spotify.com/album/3wthMvGFuHwqfVLhO2EHnX) | 2:36 | 2020-06-19 | 2022-10-15 |
 | [Lunar Rainbow](https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Lunar Rainbow](https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V) | 2:27 | 2024-03-14 |  |
+| [Lunar Tones](https://open.spotify.com/track/42uuyjwxaXjNPduURmzMaw) | [Napolia](https://open.spotify.com/artist/7yyohycQq12ZbZJZOISJ83) | [Lunar Tones](https://open.spotify.com/album/4rp9CdDBfAImLYPfrwHzj0) | 2:27 | 2025-10-01 |  |
 | [Lupina's Dream](https://open.spotify.com/track/748B3pk3bq8jYTd7FSJYZ9) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Lupina's Dream](https://open.spotify.com/album/4SuTIAc2hUucNu2E8mOK5T) | 3:29 | 2021-04-14 | 2024-05-12 |
 | [Malibu](https://open.spotify.com/track/3RlwtjeKhemCfiPvwMFozS) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:30 | 2019-09-14 | 2024-03-27 |
 | [Mars](https://open.spotify.com/track/2hqrlnqY2lbaRRsc7SM2cU) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Mars](https://open.spotify.com/album/28gs93hKCxdd7r6amWFIXX) | 2:27 | 2019-06-19\* | 2021-09-14 |
@@ -680,7 +682,7 @@
 | [ready, steady, go](https://open.spotify.com/track/4mQEVCbtbQuiOYouVR0fcs) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [ready, steady, go](https://open.spotify.com/album/3zV10Z85H6yfal6jvR0w2Z) | 2:27 | 2023-01-09 | 2024-08-21 |
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2021-08-26 | 2024-05-12 |
 | [Red Gold Yesterday](https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:18 | 2019-05-26\* | 2020-08-07 |
-| [Reflection](https://open.spotify.com/track/4LkTkQK2xkU5S4uWN5LWI4) | [June Wysh](https://open.spotify.com/artist/0WPOnxr3VJ9tgP8WzA5yhR) | [Reflection](https://open.spotify.com/album/4vz1CjpZZN9CIz3P1ESHK4) | 2:12 | 2023-10-06 |  |
+| [Reflection](https://open.spotify.com/track/4LkTkQK2xkU5S4uWN5LWI4) | [June Wysh](https://open.spotify.com/artist/0WPOnxr3VJ9tgP8WzA5yhR) | [Reflection](https://open.spotify.com/album/4vz1CjpZZN9CIz3P1ESHK4) | 2:12 | 2023-10-06 | 2025-10-03 |
 | [Reflective Thinking](https://open.spotify.com/track/7cEEeWFouyKqCHqs1XAPJF) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Reflective Thinking](https://open.spotify.com/album/3lhs85PFftF1QPtyhg3vQw) | 3:07 | 2024-05-11 | 2025-04-24 |
 | [Relativity](https://open.spotify.com/track/67nD0mOPtbTm5lhBsBhXqV) | [Apollo Vision](https://open.spotify.com/artist/0S54IVxCmJNc6FN8wLIC5v) | [Relativity](https://open.spotify.com/album/1OEiVFSqZIrwAqlfvgDaSJ) | 2:09 | 2024-06-11 | 2025-04-02 |
 | [Relentless](https://open.spotify.com/track/6b1iYDiid8sZVQzwrF438y) | [Silver Falls](https://open.spotify.com/artist/0RwvR8waN1JIhu7xsJIZdR) | [Relentless](https://open.spotify.com/album/21HRbFxgdYeTeNSwgEglyZ) | 2:43 | 2023-05-05 | 2024-11-22 |

@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u611b\u7121\u58de",
+        "url": "https://open.spotify.com/album/3PryVGWt6DxzNgo6Arp2Zp"
+      },
+      "artists": [
+        {
+          "name": "Jason Chan",
+          "url": "https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241360,
+      "name": "\u4e0d\u611b\u7121\u58de",
+      "url": "https://open.spotify.com/track/7J1h0k91omGKLV0H64A8FG"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u6253\u70ca\u73c8\u7432\u5c4b",
         "url": "https://open.spotify.com/album/1HrPW5BCJfoKx3J3bXK4z8"
       },

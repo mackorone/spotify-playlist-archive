@@ -2,9 +2,9 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: Fireboy DML & Pheelz
+> The hottest Afropop records on the planet.
 
-699 songs - 1 day 11 hr 35 min
+700 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [All I Want](https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [All I Want](https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe) | 2:55 | 2024-02-23 | 2024-03-01 |
 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 | 2023-10-13 | 2023-12-08 |
 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 | 2025-08-08 | 2025-09-13 |
-| [All My Enemies Are Suffering \- Remix](https://open.spotify.com/track/5f6xLGLRabIPSELmp5jnSk) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [All My Enemies Are Suffering \(Remix\)](https://open.spotify.com/album/63ZioCpNnXpzC4M58w6S6f) | 3:14 | 2025-09-12 |  |
+| [All My Enemies Are Suffering \- Remix](https://open.spotify.com/track/5f6xLGLRabIPSELmp5jnSk) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [All My Enemies Are Suffering \(Remix\)](https://open.spotify.com/album/63ZioCpNnXpzC4M58w6S6f) | 3:14 | 2025-09-12 | 2025-10-03 |
 | [All Night](https://open.spotify.com/track/1MQaVZyTK4Fqm8OZy3wE6q) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:23 | 2022-06-09 | 2022-06-17 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-05 | 2023-10-05 |
 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 | 2023-06-02 | 2023-07-28 |
@@ -82,6 +82,7 @@
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-01-27 | 2023-03-18 |
 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-07-21 | 2022-11-13 |
 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 | 2025-03-28 | 2025-04-11 |
+| [Believe](https://open.spotify.com/track/16ilarx3v35s8fwqrIp01v) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Believe](https://open.spotify.com/album/7w4K2sfwhVBFGfmJAiQJf2) | 2:48 | 2025-10-03 |  |
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-20 | 2023-07-28 |
 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 | 2024-02-02 |
 | [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 | 2025-04-11 | 2025-07-05 |

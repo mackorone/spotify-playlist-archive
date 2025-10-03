@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/2XJrLMBNy1Ln56nHrW1Uic"
       },
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"

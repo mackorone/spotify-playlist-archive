@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: Fireboy DML & Pheelz
+> The hottest Afropop records on the planet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,630 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,702 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
-| 2 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 |
+| 2 | [Believe](https://open.spotify.com/track/16ilarx3v35s8fwqrIp01v) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Believe](https://open.spotify.com/album/7w4K2sfwhVBFGfmJAiQJf2) | 2:48 |
 | 3 | [BMF ​\(f​eat​\. Byron Messia, Fireboy DML​\)](https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:09 |
 | 4 | [Casanova](https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Casanova](https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx) | 2:15 |
-| 5 | [All My Enemies Are Suffering \- Remix](https://open.spotify.com/track/5f6xLGLRabIPSELmp5jnSk) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [All My Enemies Are Suffering \(Remix\)](https://open.spotify.com/album/63ZioCpNnXpzC4M58w6S6f) | 3:14 |
+| 5 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 |
 | 6 | [On a Kentro \(feat\. L.A.X\)](https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:41 |
 | 7 | [Body on Me](https://open.spotify.com/track/2QY6QCg5eIvolpRyxB9Idc) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Martina's Son](https://open.spotify.com/album/1TNktqLIRzvohgrVCRObq2) | 3:30 |
 | 8 | [One Condition](https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [One Condition](https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD) | 3:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [Over The Moon](https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Over The Moon](https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD) | 2:45 |
 | 70 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 
-Snapshot ID: `AAAAAPLSeU73OO93mmso0TQrkBc+OWdW`
+Snapshot ID: `AAAAAPrtFImciuziXx1gQ6cr39dGgRmg`

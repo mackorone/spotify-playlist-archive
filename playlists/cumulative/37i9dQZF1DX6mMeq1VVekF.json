@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Dijon",
+  "description": "No tags, no labels - just free form. Cover: Ossi Grace",
   "name": "Free Form",
   "tracks": [
     {
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 139706,
       "name": "Didn't Wanna Know",
       "url": "https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b"
@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 135081,
       "name": "IT'S UP",
       "url": "https://open.spotify.com/track/3ZTg8yL0YzvVLB1fyvvZhp"
@@ -9025,6 +9025,24 @@
     },
     {
       "album": {
+        "name": "the beginning of the end",
+        "url": "https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171810,
+      "name": "the beginning of the end",
+      "url": "https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n"
+    },
+    {
+      "album": {
         "name": "The Curb",
         "url": "https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV"
       },
@@ -10248,6 +10266,24 @@
       "duration_ms": 158739,
       "name": "Whatcha Mean",
       "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
+    },
+    {
+      "album": {
+        "name": "Where You Belong",
+        "url": "https://open.spotify.com/album/0BPWoaOgpCKdkKfVIBLe07"
+      },
+      "artists": [
+        {
+          "name": "Ossi Grace",
+          "url": "https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312195,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/5I4Z9SwVg7q2YmldDQhBxq"
     },
     {
       "album": {

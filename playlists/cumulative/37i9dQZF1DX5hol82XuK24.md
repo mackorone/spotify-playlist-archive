@@ -4,13 +4,14 @@
 
 > Are you afraid of the dark?
 
-413 songs - 1 day 4 hr 8 min
+414 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [33 & golden](https://open.spotify.com/track/7uCrOs58TqlOEHrEoQkBta) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:05 | 2023-07-25 | 2024-11-16 |
 | [6 In The Morning](https://open.spotify.com/track/1iL1mld9Q9YZgIVQCVJ0JB) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [6 In The Morning](https://open.spotify.com/album/2dDroSoRtp3FeUeVSvqUry) | 5:19 | 2023-03-22 | 2024-06-02 |
 | [A Wolf At the Door](https://open.spotify.com/track/3OHevW2cUT176DXWV0lHg9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:21 | 2023-10-30 | 2023-11-04 |
+| [Abandon](https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ) | 2:40 | 2025-10-02 |  |
 | [Acts From Under And Above: Scared Song](https://open.spotify.com/track/1ydfMG73G3bPMz2sHojlIF) | [Meredith Monk](https://open.spotify.com/artist/1WN9bXZmI41JB1tCmrSC3M) | [Do You Be](https://open.spotify.com/album/4aiBF5WbiV0wdyyfg4AJxi) | 6:07 | 2024-10-28 | 2024-11-05 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-11-01 | 2025-03-06 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-01-27 | 2024-04-19 |
@@ -314,7 +315,7 @@
 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 | 2021-11-01 | 2024-10-21 |
 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 | 2021-11-01 |  |
 | [Smokescreen](https://open.spotify.com/track/3BI3yIp1aa5yzMNpyTmNyX) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:58 | 2023-10-30 | 2023-11-04 |
-| [Sombre Two](https://open.spotify.com/track/5nWz8hDOfQ9p4VagLZ4wxS) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 2:16 | 2023-03-22 |  |
+| [Sombre Two](https://open.spotify.com/track/5nWz8hDOfQ9p4VagLZ4wxS) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 2:16 | 2023-03-22 | 2025-10-03 |
 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 | 2021-11-01 | 2023-11-04 |
 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 | 2023-07-25 |  |
 | [Something Better](https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Something Better](https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr) | 5:40 | 2022-09-13 |  |

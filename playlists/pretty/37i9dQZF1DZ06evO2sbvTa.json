@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAA7i/pnoAbRdECVeiIwkBom",
+  "snapshot_id": "aNxvAAAAAAAEQ2ZI0GY/Djz5w7L4A58a",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Lane Juugin",
+        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 266489,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 176007,
+      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
+      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Lottery 3",
         "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
       },
@@ -583,78 +639,6 @@
       "duration_ms": 178312,
       "name": "Fake Gold",
       "url": "https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 176007,
-      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
-      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Lane Juugin",
-        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 266489,
-      "name": "Made It",
-      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Street Lottery 3",
-        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 154463,
-      "name": "Doin Numbers",
-      "url": "https://open.spotify.com/track/0TaphaE3VkrM9uVLfwYJCV"
     },
     {
       "added_at": null,
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 220448,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/1xID1flNH2PurcvgPbhdRY"
+      "duration_ms": 154463,
+      "name": "Doin Numbers",
+      "url": "https://open.spotify.com/track/0TaphaE3VkrM9uVLfwYJCV"
     },
     {
       "added_at": null,
@@ -808,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 187325,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi"
+      "duration_ms": 220448,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/1xID1flNH2PurcvgPbhdRY"
     },
     {
       "added_at": null,
@@ -884,9 +868,9 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 194143,
-      "name": "For My Hutlers",
-      "url": "https://open.spotify.com/track/5rNSTZgFHGCe69wlUXMZMF"
+      "duration_ms": 187325,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi"
     },
     {
       "added_at": null,
@@ -907,6 +891,30 @@
       "duration_ms": 185077,
       "name": "Imma Ball Forever",
       "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Astronaut Status",
+        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Birds Take a Bath",
+      "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
     },
     {
       "added_at": null,
@@ -935,26 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronaut Status",
-        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
+        "name": "Street Lottery 3",
+        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
       },
       "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 264946,
-      "name": "Birds Take a Bath",
-      "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
+      "duration_ms": 194143,
+      "name": "For My Hutlers",
+      "url": "https://open.spotify.com/track/5rNSTZgFHGCe69wlUXMZMF"
     },
     {
       "added_at": null,
@@ -986,11 +986,15 @@
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
         }
       ],
-      "duration_ms": 197244,
-      "name": "Trap It Out",
-      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
+      "duration_ms": 192000,
+      "name": "Number Game",
+      "url": "https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ"
     },
     {
       "added_at": null,

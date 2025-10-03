@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia, Die\-On, Tel Kel
 
-850 songs - 1 day 19 hr 2 min
+851 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,6 +812,7 @@
 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 | 2022-07-01 | 2023-04-09 |
 | [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 | 2023-12-01 | 2024-04-06 |
 | [Vibe](https://open.spotify.com/track/7jEXxhZQ57fVKiYErtaTqV) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Vibe](https://open.spotify.com/album/6RyzurbjqKEOjsEXcKK7Ok) | 3:16 | 2022-10-21 | 2022-12-10 |
+| [Vices & Porcelaine](https://open.spotify.com/track/0wDx57Ws1FDqx25TQppbAk) | [Irdens Exantus](https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Vices & Porcelaine](https://open.spotify.com/album/1JkKPj8IbapEiE9oUFdcEF) | 4:30 | 2025-10-02 |  |
 | [Victory lap](https://open.spotify.com/track/2sGRVzSHwvjDJPe7bnSyNu) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:54 | 2023-11-03 | 2023-11-13 |
 | [Vilain](https://open.spotify.com/track/2oZtcoMK8mr22MK7IdiiR0) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Backstage](https://open.spotify.com/album/49ar9sLxIGvyuACExV498g) | 3:32 | 2023-11-03 | 2023-11-13 |
 | [VIP](https://open.spotify.com/track/0XIsyR3ya9PkDvvB0y3gsP) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [VIP](https://open.spotify.com/album/4Z25aW3UYcbXW4KaWVPyP2) | 2:31 | 2023-05-19 | 2023-06-03 |

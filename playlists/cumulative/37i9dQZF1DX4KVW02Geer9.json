@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "Always Be (feat. Kaya Thomas-Dyke)",
+      "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
+    },
+    {
+      "album": {
         "name": "The Smooth Sounds of Tres Leches, LHCC Mart Vol. 1",
         "url": "https://open.spotify.com/album/2Dn0m6g80esmI4HJ9URGOR"
       },
@@ -522,7 +544,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 246379,
       "name": "As Esta\u00e7\u014des",
       "url": "https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX"
@@ -580,7 +602,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 416893,
       "name": "Back in the Day",
       "url": "https://open.spotify.com/track/1UgQp5TpSBaRqs0Mfngv9D"
@@ -878,7 +900,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 256799,
       "name": "Birth of the Yamato",
       "url": "https://open.spotify.com/track/4qYlmxXfbURWTu2VAsoAwM"
@@ -1102,6 +1124,32 @@
       "duration_ms": 220750,
       "name": "BOND",
       "url": "https://open.spotify.com/track/7zE8C7e3EVT6ov5PFhNg7Z"
+    },
+    {
+      "album": {
+        "name": "Boom Bapped",
+        "url": "https://open.spotify.com/album/0FE3Rqy68csgCH6JuxlJOP"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Ben LaMar Gay",
+          "url": "https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Boom Bapped",
+      "url": "https://open.spotify.com/track/3NrL92X3eh3yiRdfvXJhMm"
     },
     {
       "album": {
@@ -1542,7 +1590,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 255252,
       "name": "Cinnamon Sugar",
       "url": "https://open.spotify.com/track/4xqXQ0uxRxluGxOYG7aa9C"
@@ -1950,7 +1998,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 333240,
       "name": "DB Song",
       "url": "https://open.spotify.com/track/4JhpaRVJY50w2Apd7iYDFu"
@@ -2182,7 +2230,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
@@ -3224,7 +3272,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 305971,
       "name": "Her Love Is All I Need",
       "url": "https://open.spotify.com/track/1TNF3fW0OFZKCjd3ou32zz"
@@ -3311,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "HOURS:AFTER",
+        "url": "https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230044,
+      "name": "HOURS:AFTER",
+      "url": "https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE"
+    },
+    {
+      "album": {
         "name": "How I Became a Madman",
         "url": "https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw"
       },
@@ -3326,7 +3392,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 413929,
       "name": "How I Became a Madman",
       "url": "https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a"
@@ -4746,7 +4812,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 216265,
       "name": "MAGIC DANCE",
       "url": "https://open.spotify.com/track/5JbX3yCeWW9xcdExxG2lCG"
@@ -4822,7 +4888,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 247000,
       "name": "Mars",
       "url": "https://open.spotify.com/track/5LULbeod05LJzH66EVzFe7"
@@ -5320,7 +5386,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 283500,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
@@ -7162,7 +7228,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 210296,
       "name": "Summertime Blue",
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
@@ -7453,6 +7519,32 @@
     },
     {
       "album": {
+        "name": "THE FALL",
+        "url": "https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200989,
+      "name": "THE FALL",
+      "url": "https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/4I6RCXzrd9M1cI9anoJu1c"
       },
@@ -7522,7 +7614,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 104994,
       "name": "the main theme",
       "url": "https://open.spotify.com/track/4YyDUHjomA04mG9E9ImiHV"
@@ -8807,6 +8899,24 @@
     },
     {
       "album": {
+        "name": "The Little Cycle",
+        "url": "https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85031,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/0pMIhFwuHZzOukiQv9t1N4"
+    },
+    {
+      "album": {
         "name": "\u00ccd\u00edl\u00e9 (Kindred Debar) (feat. lou bleu)",
         "url": "https://open.spotify.com/album/3eqYYyMpMCLzmUFrv2yqq8"
       },
@@ -8942,7 +9052,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 251445,
       "name": "\u5076\u7136\u306e\u4e00\u81f4",
       "url": "https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1"
@@ -9026,7 +9136,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 194572,
       "name": "\u671d",
       "url": "https://open.spotify.com/track/5KUzNgtrmfP7Gai6YwC34x"

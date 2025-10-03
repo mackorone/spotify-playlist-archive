@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,932 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,934 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 27 | [Four Years](https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 4:15 |
 | 28 | [Double Cross](https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:25 |
 | 29 | [Steven](https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:20 |
-| 30 | [WASTED](https://open.spotify.com/track/25AM10uMejVS9eCNUeu7X1) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Pressure](https://open.spotify.com/album/4OfHCsxvjTUu4mSVducvtH) | 2:25 |
-| 31 | [Between the Mountains and the Sea](https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 4:53 |
+| 30 | [Between the Mountains and the Sea](https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 4:53 |
+| 31 | [WASTED](https://open.spotify.com/track/25AM10uMejVS9eCNUeu7X1) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Pressure](https://open.spotify.com/album/4OfHCsxvjTUu4mSVducvtH) | 2:25 |
 | 32 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/6RTH6uELdnpz9zrPleN1BP) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:34 |
 | 33 | [Fireworks at Dawn](https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 2:09 |
 | 34 | [Dreaming A Reality](https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:54 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 40 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:59 |
 | 41 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/72nAyk2uMbRcix2oI2oEM5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:12 |
 | 42 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 |
-| 43 | [Negative Space](https://open.spotify.com/track/4PPK137xAYDvZuHLbZ3XKh) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 1:21 |
-| 44 | [Elevator to the Gallows](https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:44 |
+| 43 | [The Fire](https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:44 |
+| 44 | [Negative Space](https://open.spotify.com/track/4PPK137xAYDvZuHLbZ3XKh) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 1:21 |
 | 45 | [Death by Water](https://open.spotify.com/track/6v2q6EnJqTD71x31OFMvXS) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:49 |
-| 46 | [The Fire](https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:44 |
-| 47 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 |
-| 48 | [First Breath, Last Breath](https://open.spotify.com/track/2ohUJ8Kc80bf6cJQ4isUdc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:54 |
+| 46 | [Elevator to the Gallows](https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:44 |
+| 47 | [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 |
+| 48 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 |
 | 49 | [Shoulder To The Wheel](https://open.spotify.com/track/62gUFv2kvpLqRNTzCRZh38) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Shoulder To The Wheel / Lady In A Blue Dress](https://open.spotify.com/album/3TMRiU1ZypbVVdKRvFekVv) | 3:21 |
-| 50 | [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 |
+| 50 | [First Breath, Last Breath](https://open.spotify.com/track/2ohUJ8Kc80bf6cJQ4isUdc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:54 |
 
-Snapshot ID: `aNsdgAAAAAD9i6yhquHyPkiQc2jzqCRB`
+Snapshot ID: `aNxvAAAAAADZR8daa+5feoUci39B8aVT`

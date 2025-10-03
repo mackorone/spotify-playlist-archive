@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,599 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,619 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

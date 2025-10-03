@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,512 likes - 125 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,627 likes - 125 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,16 +120,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 110 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
 | 111 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
 | 112 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 |
-| 113 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 |
-| 114 | [El Final de Nuestra Historia](https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:36 |
+| 113 | [El Final de Nuestra Historia](https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:36 |
+| 114 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 |
 | 115 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 |
 | 116 | [Rumba Frenesi](https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2) | [Alberto Pedraza](https://open.spotify.com/artist/54RMaVyxUKrZlSCkvMtU4G) | [Video Cumbias Pa' Bailar 2](https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie) | 5:09 |
 | 117 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
-| 118 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
-| 119 | [Te Vas](https://open.spotify.com/track/4ZfkD5eY1AzczRM3m7q8Ur) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Te Vas](https://open.spotify.com/album/4TzvdAhRLDZxqmOF6ezlMi) | 4:05 |
+| 118 | [Te Vas](https://open.spotify.com/track/4ZfkD5eY1AzczRM3m7q8Ur) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Te Vas](https://open.spotify.com/album/4TzvdAhRLDZxqmOF6ezlMi) | 4:05 |
+| 119 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 120 | [Las Palmitas del Ecuador](https://open.spotify.com/track/0rJ2dL2qhBg1WerWMUZQfK) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU) | 5:16 |
-| 121 | [Enbrujo De Cumbia](https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb) | [Bohio](https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt) | [Del Barrio Para El Barrio \(Vol\. 1\)](https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy) | 3:19 |
-| 122 | [Rumba Cha Cha](https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:44 |
+| 121 | [Rumba Cha Cha](https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:44 |
+| 122 | [Enbrujo De Cumbia](https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb) | [Bohio](https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt) | [Del Barrio Para El Barrio \(Vol\. 1\)](https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy) | 3:19 |
 | 123 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 |
 | 124 | [Alma De Acero](https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:44 |
 | 125 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |

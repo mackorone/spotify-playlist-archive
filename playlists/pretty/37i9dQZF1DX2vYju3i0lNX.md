@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,298 likes - 500 songs - 1 day 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,358 likes - 500 songs - 1 day 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -476,7 +476,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 466 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 |
 | 467 | [It's Easier Than You Might Think](https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [It's Easier Than You Might Think](https://open.spotify.com/album/7sfucyoyWUtYk5RUOPYQBj) | 2:40 |
 | 468 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 |
-| 469 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
+| 469 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
 | 470 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 |
 | 471 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 |
 | 472 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 |

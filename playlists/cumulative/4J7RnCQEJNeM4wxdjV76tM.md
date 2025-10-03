@@ -4,7 +4,7 @@
 
 > ⋆.
 
-636 songs - 1 day 10 hr 47 min
+638 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Heartless](https://open.spotify.com/track/5LjyYOewMVX59gPXvHKdxo) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Heartless](https://open.spotify.com/album/5y30KHVGp4rVHme0Fq17Df) | 2:40 | 2022-06-16 |  |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-10-30 |  |
 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 | 2024-08-14 |  |
+| [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2025-10-02 |  |
 | [Hell Above](https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:43 | 2023-10-10 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-10-27 |  |
 | [Hellcats & Trackhawks](https://open.spotify.com/track/53tv6ZbyeAwfAUwFaxYbfO) | [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Only The Family \- Lil Durk Presents: Loyal Bros](https://open.spotify.com/album/7HCh4HQHDNZkXphOzb6ugT) | 2:26 | 2022-09-16 |  |
@@ -309,6 +310,7 @@
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2024-03-13 |  |
 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 | 2023-09-22 |  |
 | [Kirb in my cup](https://open.spotify.com/track/7jb5XsfhW5ZWsMBGO6eHE5) | [dedwrite](https://open.spotify.com/artist/475Cbg3KjcioXssl8x3AGP) | [Kirb in my cup](https://open.spotify.com/album/6hPysz861kQamIehN1LVZ4) | 1:23 | 2022-11-02 |  |
+| [Kiss Kiss \(feat\. T\-Pain\)](https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:10 | 2025-10-02 |  |
 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 | 2025-05-09 |  |
 | [Kisses in the Wind](https://open.spotify.com/track/3E0SSAO2XJvhdSl7d4eCCc) | [Fakezz](https://open.spotify.com/artist/2TqjhRWJTSgjClcJ3PYCfO) | [Kisses in the Wind](https://open.spotify.com/album/1o4GqfoLG7sQQLgxyAckOb) | 2:25 | 2023-07-06 |  |
 | [Know Better](https://open.spotify.com/track/2NqNiE4UpYtk2Z1BbnL6fg) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Know Better](https://open.spotify.com/album/17y5Z2AOTQoz3KBHfZrGGJ) | 2:59 | 2022-10-27 |  |

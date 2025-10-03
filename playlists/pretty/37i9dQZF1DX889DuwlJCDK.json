@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u304a\u3044\u3057\u304f\u308b\u30e1\u30ed\u30f3\u30d1\u30f3",
-  "num_followers": 20811,
+  "num_followers": 20823,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-10-01 09:54:26",
       "album": {
-        "name": "BRANDY SENKI",
-        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "\u6625",
-      "url": "https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj"
-    },
-    {
-      "added_at": "2025-10-01 09:54:26",
-      "album": {
         "name": "WORLD END LOVESONG",
         "url": "https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 232193,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T"
+    },
+    {
+      "added_at": "2025-10-01 09:54:26",
+      "album": {
+        "name": "BRANDY SENKI",
+        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "\u6625",
+      "url": "https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj"
     },
     {
       "added_at": "2025-10-01 09:54:26",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-10-01 09:54:26",
       "album": {
-        "name": "\u6307\u9aea",
-        "url": "https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr"
-      },
-      "artists": [
-        {
-          "name": "ChoQMay",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "\u6307\u9aea",
-      "url": "https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5"
-    },
-    {
-      "added_at": "2025-10-01 09:54:26",
-      "album": {
         "name": "\u30cd\u30aa\u30f3\u30c6\u30c8\u30e9",
         "url": "https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf"
       },
@@ -1543,6 +1527,38 @@
       "duration_ms": 204736,
       "name": "aquarium",
       "url": "https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A"
+    },
+    {
+      "added_at": "2025-10-01 09:54:26",
+      "album": {
+        "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
+        "url": "https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "duration_ms": 144306,
+      "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
+      "url": "https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP"
+    },
+    {
+      "added_at": "2025-10-01 09:54:26",
+      "album": {
+        "name": "\u6307\u9aea",
+        "url": "https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "\u6307\u9aea",
+      "url": "https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5"
     },
     {
       "added_at": "2025-10-01 09:54:26",
@@ -1567,22 +1583,6 @@
       "duration_ms": 132154,
       "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3"
-    },
-    {
-      "added_at": "2025-10-01 09:54:26",
-      "album": {
-        "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
-        "url": "https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD"
-      },
-      "artists": [
-        {
-          "name": "\u30ac\u30e9\u30af\u30bf",
-          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
-        }
-      ],
-      "duration_ms": 144306,
-      "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
-      "url": "https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP"
     },
     {
       "added_at": "2025-10-01 09:54:26",

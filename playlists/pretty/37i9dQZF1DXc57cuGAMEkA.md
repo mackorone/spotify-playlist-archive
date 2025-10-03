@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック。Doja Cat, Olivia Dean, Tate McRae, Ado, Zara Larsson and more!
+> 洋楽を中心に今週の新曲をチェック。 YOASOBI, Kali Uchis, マカロニえんぴつ, yama, Jason Derulo,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,428 likes - 84 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,677 likes - 84 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 83 | [Focus \(Garnet\)](https://open.spotify.com/track/7AcqvH3gImgoXDv5nSfDqa) | [INSTANT ALTER](https://open.spotify.com/artist/4fKUw2uU0uGJJUe523yzIf), [Natasha Agrama](https://open.spotify.com/artist/5IPHEpzQLhUPfrqt4BatR5), [Emilio Modeste](https://open.spotify.com/artist/3nzBo4Edo33cChnzfyraEG) | [INSTANT ALTER](https://open.spotify.com/album/3q93i67uCjzL6XzBrMANuP) | 4:50 |
 | 84 | [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Plea](https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg) | 3:30 |
 
-Snapshot ID: `AAAAAOhOlphscVv4YVNPGhOSutJ5iSRs`
+Snapshot ID: `AAAAACrYjZByheAY47zXXfh8wxu+a35Y`

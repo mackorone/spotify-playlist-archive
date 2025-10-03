@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Brray y DIA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,645 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,619 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 5 | [EXPECTATIVAS](https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EXPECTATIVAS](https://open.spotify.com/album/172ipzW34GEnl38MHofXcf) | 3:22 |
 | 6 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 7 | [VOLVAMOS](https://open.spotify.com/track/7ctl83AJyICG9RrWqcOuQ8) | [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy) | [LCPUCR](https://open.spotify.com/album/1dMUoEEycgxB4s1ySFNab7) | 2:40 |
-| 8 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 |
+| 8 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 |
 | 9 | [Cartier](https://open.spotify.com/track/4BOg2ccj24y4HKF8tbR3Vj) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Cartier](https://open.spotify.com/album/3f59YESZOcAgpdMgMAWbLG) | 2:43 |
 | 10 | [4LIFE](https://open.spotify.com/track/0we0zgeUB9ARtEYfFcBhGp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:32 |
 | 11 | [MAMI IA](https://open.spotify.com/track/6mXDxIHfBHpTL1NlmZYpHk) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [MAMI IA](https://open.spotify.com/album/4ux4ZdF7io9F3rDUse7Xqy) | 2:30 |

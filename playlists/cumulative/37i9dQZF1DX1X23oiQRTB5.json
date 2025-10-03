@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 174153,
       "name": "Collabo",
       "url": "https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u"
@@ -3197,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "JAMAIS TOI",
+        "url": "https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167312,
+      "name": "JAMAIS TOI",
+      "url": "https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -3230,7 +3248,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 172600,
       "name": "Jerrican (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB"
@@ -3932,6 +3950,24 @@
       "duration_ms": 155240,
       "name": "Les jolies filles",
       "url": "https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0"
+    },
+    {
+      "album": {
+        "name": "Lewis Hamilton",
+        "url": "https://open.spotify.com/album/6Z6Vx66Nr9xpM2BG74QNjo"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Lewis Hamilton",
+      "url": "https://open.spotify.com/track/2VdkdHuHydyPqyroff0xwl"
     },
     {
       "album": {
@@ -5034,7 +5070,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 164705,
       "name": "No stress",
       "url": "https://open.spotify.com/track/7jPBHQ9vRgMxjRcREZKKGI"
@@ -6232,6 +6268,28 @@
       "duration_ms": 145680,
       "name": "Saison 2",
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
+    },
+    {
+      "album": {
+        "name": "SALE \u00c9TAT",
+        "url": "https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202204,
+      "name": "SALE \u00c9TAT",
+      "url": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
     },
     {
       "album": {

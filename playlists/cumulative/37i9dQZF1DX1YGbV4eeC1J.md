@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Kusah
+> What is your love language? Say it in Swahili\.  Cover: Diamond Platnumz
 
-318 songs - 17 hr 52 min
+319 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,10 +164,11 @@
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-05-26 | 2022-11-18 |
 | [Moyo](https://open.spotify.com/track/4p7r68fFE5bXHgcTrlokp0) | [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Moyo](https://open.spotify.com/album/2uwXA4cezt9I7b9oNeE0Un) | 3:02 | 2025-02-20 | 2025-08-15 |
+| [Msumari](https://open.spotify.com/track/0LIWMtd93zoCGx2TdzMJCx) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Msumari](https://open.spotify.com/album/4zOv6utTtdWh8xx0Jb7R8C) | 3:42 | 2025-10-02 |  |
 | [Mtamu](https://open.spotify.com/track/39zxgTFeHYMp7Ajx92amxm) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Mtasubiri \(feat\. Zuchu\)](https://open.spotify.com/track/3qaaPsFYzSb7OGUeXClpND) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 3:26 | 2024-03-14 | 2024-03-22 |
 | [Mtima](https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Mtima](https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K) | 3:44 | 2023-07-13 | 2023-11-10 |
-| [Mtoto](https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Mtoto](https://open.spotify.com/album/4f2P52GDpccJmGPVQBu4bW) | 3:19 | 2025-04-24 |  |
+| [Mtoto](https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Mtoto](https://open.spotify.com/album/4f2P52GDpccJmGPVQBu4bW) | 3:19 | 2025-04-24 | 2025-10-03 |
 | [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-15 | 2025-08-15 |
 | [MVUA](https://open.spotify.com/track/3WtzLuNn57NdACSZchtit3) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MVUA](https://open.spotify.com/album/2IqvrWY8WnDmcy5kaj3zbl) | 3:18 | 2025-07-24 |  |
 | [Mwambieni](https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Mwambieni](https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ) | 3:00 | 2022-05-26 | 2023-03-10 |

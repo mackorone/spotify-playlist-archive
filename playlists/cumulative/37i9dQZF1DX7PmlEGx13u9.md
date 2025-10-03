@@ -2,9 +2,9 @@
 
 ### [Certi: R&B](https://open.spotify.com/playlist/37i9dQZF1DX7PmlEGx13u9)
 
-> Certified R&B hits\. Cover: Jaz Karis, Joshua Baraka
+> Certified R&B hits\. Cover: Bryson Tiller
 
-194 songs - 10 hr 12 min
+195 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 | 2024-07-27 |
 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2025-05-22 | 2025-09-06 |
 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 | 2023-10-13 | 2024-04-19 |
+| [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2025-10-02 |  |
 | [In 2 Deep](https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [In 2 Deep](https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8) | 2:15 | 2024-02-09 | 2025-09-06 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2023-10-13 | 2024-03-01 |
 | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 | 2025-09-05 |  |
@@ -135,7 +136,7 @@
 | [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 |  |
 | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/track/1hMQH0ZPAgfyRWRhpQYtEW) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF) | 3:46 | 2024-07-26 | 2024-11-22 |
 | [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 | 2024-03-22 | 2024-04-19 |
-| [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 | 2025-04-11 |  |
+| [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 | 2025-04-11 | 2025-10-03 |
 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 | 2024-02-23 | 2024-03-19 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-10-13 | 2024-11-22 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-10-13 | 2025-04-11 |

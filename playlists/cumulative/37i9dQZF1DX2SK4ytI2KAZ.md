@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-661 songs - 1 day 12 hr 15 min
+662 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-02-17 |  |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-06-27 | 2024-04-19 |
 | [Kilby Girl](https://open.spotify.com/track/3fsaxdtRDMEvZu1XC3FN2i) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/0tIHVQTSqQB3DW6Nt7amsA) | 4:42 | 2021-03-10 |  |
+| [KILL THE GHOST](https://open.spotify.com/track/3Irxv6FNc0sqF8WJbqJi8m) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [KILL THE GHOST](https://open.spotify.com/album/3BMM3Kv5iUtKkvjxLDkMzN) | 3:02 | 2025-10-02 |  |
 | [Killer Whales](https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:42 | 2021-03-10 | 2023-03-29 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 |  |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-19 | 2024-09-25 |
@@ -634,7 +635,7 @@
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-05-31 | 2023-09-22 |
 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 | 2023-10-13 | 2024-04-19 |
 | [WHAT LOVE?](https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [WHAT LOVE?](https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR) | 3:15 | 2023-10-13 | 2024-01-13 |
-| [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 | 2024-02-16 |  |
+| [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 | 2024-02-16 | 2025-10-03 |
 | [WHAT THE HELL](https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:52 | 2024-07-05 |  |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2021-03-10 | 2022-05-05 |
 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 | 2024-03-10 | 2025-02-01 |

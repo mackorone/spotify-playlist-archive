@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,785 likes - 303 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,787 likes - 303 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 82 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
 | 83 | [Double Down](https://open.spotify.com/track/25BIuLc3xxqGyg2kAAiFZ6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:22 |
 | 84 | [420 in London](https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [420 in London](https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh) | 3:39 |
-| 85 | [CHAMPAGNE ROSÉ \(feat\. Madonna & Cardi B\)](https://open.spotify.com/track/2i4WKnGYntsN4jEvDjkKBE) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 4:06 |
-| 86 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
+| 85 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
+| 86 | [CHAMPAGNE ROSÉ \(feat\. Madonna & Cardi B\)](https://open.spotify.com/track/2i4WKnGYntsN4jEvDjkKBE) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 4:06 |
 | 87 | [Antidote](https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:42 |
 | 88 | [Stutter](https://open.spotify.com/track/7jgBTiVeF54ccOHGTBkibB) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:11 |
 | 89 | [November Rain](https://open.spotify.com/track/58ZdT5NQIAkeSWUxNneBg8) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:13 |
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 180 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
 | 181 | [On You](https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 1:59 |
 | 182 | [Push Up](https://open.spotify.com/track/3oypEAkR7cV0tG8Fds2mPS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:02 |
-| 183 | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/track/2ZSQWhxpNwAbHG3n3V5Ol1) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/album/0Vu6i6ro4Gc5KWG93ieeac) | 3:19 |
-| 184 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 |
+| 183 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 |
+| 184 | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/track/2ZSQWhxpNwAbHG3n3V5Ol1) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/album/0Vu6i6ro4Gc5KWG93ieeac) | 3:19 |
 | 185 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
 | 186 | [Mexico \(feat\. Tory Lanez\)](https://open.spotify.com/track/73b59IQwUF3FPDM9SIrepP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Shadow of a Doubt](https://open.spotify.com/album/46wJVfjbcZBGZ6Zabex3y9) | 4:12 |
 | 187 | [Copy Me](https://open.spotify.com/track/4oFgLUoVJX3Y9W6RCpvcpD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 302 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 303 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ab9ungAAAACbYawAidXRca7Non4tTGv1`
+Snapshot ID: `Ab90XAAAAABd3rigo5Jp4WgzPcNDF1t+`

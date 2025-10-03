@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... El Malilla en portada.",
-  "num_followers": 289262,
+  "num_followers": 289289,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
+        "name": "Tunechi (with Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Tunechi (with Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
-        "name": "Tunechi (with Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Tunechi (with Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
     },
     {
       "added_at": "2025-09-19 06:00:28",

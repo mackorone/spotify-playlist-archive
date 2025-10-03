@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,610 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,761 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [BIG TIME](https://open.spotify.com/track/22nBwtL9r1UumgwqbiIc4D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG TIME](https://open.spotify.com/album/4KcENTAXETG5BOW9spdGp4) | 3:10 |
 | 50 | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X) | 2:06 |
 
-Snapshot ID: `AAAAANPhzQaM251zqctt8gdKc4eb7j4i`
+Snapshot ID: `AAAAAIU8+nEaC4WaIf/zh1Peg9/vxTPO`

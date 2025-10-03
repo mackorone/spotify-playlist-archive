@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 173512,
+  "num_followers": 173526,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAADmhWIPWbLs+sCO1ezKvCVQ",
+  "snapshot_id": "aNxvAAAAAADw0v1PEB77YwhgnustJorW",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFRO",
         "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
       },
@@ -831,18 +847,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+        "name": "Bonita (Remix)",
+        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
       },
       "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 322906,
+      "name": "Bonita - Remix",
+      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
     },
     {
       "added_at": null,
@@ -895,86 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonita (Remix)",
-        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 322906,
-      "name": "Bonita - Remix",
-      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/61SktdmRAfMcOEv4eQBqwf"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Porsche Carrera",
-      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/61SktdmRAfMcOEv4eQBqwf"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Porsche Carrera",
+      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Cero",
+        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "En Cero",
+      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sr. Santos II Sue\u00f1os de Grandeza",
         "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 293156,
       "name": "Wells Fargo",
       "url": "https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Cero",
-        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "En Cero",
-      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
     },
     {
       "added_at": null,

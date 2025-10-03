@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 755668,
+  "num_followers": 755675,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABSD/CUpP2Z1KUwugETZ4wF",
+  "snapshot_id": "aNxvAAAAAABVDmB+WvePjBm9Bq2PcNmQ",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uniendo Fronteras",
-        "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Mi Fantas\u00eda",
-      "url": "https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ejemplo",
         "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 175053,
       "name": "El Ejemplo",
       "url": "https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uniendo Fronteras",
+        "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Mi Fantas\u00eda",
+      "url": "https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Mi Sangre Prisionera",
+      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pacto De Sangre",
         "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 180746,
       "name": "Carrera Contra La Muerte",
       "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Mi Sangre Prisionera",
-      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incansables",
-        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Cuando Se Llega A Viejo",
-      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ejemplo",
         "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 207866,
       "name": "Como Aceite Y Como El Agua",
       "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incansables",
+        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Cuando Se Llega A Viejo",
+      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Del Sur",
-        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "La Reina Del Sur",
-      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historias Que Contar",
         "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 205506,
       "name": "Le Compr\u00e9 La Muerte A Mi Hijo",
       "url": "https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reina Del Sur",
+        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "La Reina Del Sur",
+      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-100 songs - 5 hr 10 min
+101 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Falling In Reverse Beta \(94\-123hz\)](https://open.spotify.com/track/3d6H12ch1MGJr5AiIHpQCb) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Falling In Reverse Beta](https://open.spotify.com/album/14YM7tbOJdyvq0NE05ny87) | 2:40 | 2024-08-27 |  |
 | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9) | 3:06 | 2023-04-06 |  |
 | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/track/7mHB1qn2vxK3F2rEjI6pRs) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/album/5dcWi2kfONurAxDPTkB72V) | 2:24 | 2024-08-27 |  |
+| [Inner Study 110Hz \- 115Hz](https://open.spotify.com/track/0PyiofNb4rNdW6ks6nrlDn) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Inner Study 110Hz \- 115Hz](https://open.spotify.com/album/1Hv7msekzlXAux7IewbSM6) | 2:05 | 2025-10-01 |  |
 | [Lost In Translation Beta \(64\-74hz\)](https://open.spotify.com/track/3Jl5YrehEmurX8z4tfbbuy) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Lost In Translation Beta](https://open.spotify.com/album/3EPAePiqH5B7VYUVBiHtCH) | 3:00 | 2024-07-12 |  |
 | [Memory \(98.7Hz \- 117.6Hz\)](https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:52 | 2022-09-06 | 2023-10-06 |
 | [Mind De\-Fog Beta \(60\-86hz\)](https://open.spotify.com/track/4ZBXBQXj6osE90oH4522b8) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Mind De\-Fog Beta \(60\-86hz\)](https://open.spotify.com/album/2zHTPvYwFmRavdW8nPzUy8) | 2:40 | 2025-03-13 |  |

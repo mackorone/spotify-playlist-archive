@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-505 songs - 1 day 6 hr 3 min
+506 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 | 2023-02-11 | 2024-01-29 |
 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 | 2022-01-14 |  |
 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 | 2024-01-12 | 2025-08-08 |
-| [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 | 2022-05-13 |  |
+| [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 | 2022-05-13 | 2025-10-03 |
 | [Grande migration](https://open.spotify.com/track/4akBNRfIRwNawhhojfXGWo) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Grande migration](https://open.spotify.com/album/1fyIMqskJbbSyvpfgZTE0z) | 5:12 | 2022-04-22 | 2022-07-27 |
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-10-02 | 2025-10-02 |
 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-09-13 | 2024-04-19 |
@@ -474,6 +474,7 @@
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2021-12-17 |  |
 | [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 | 2024-09-27 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |
+| [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 | 2025-10-02 |  |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2023-10-11 |
 | [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 | 2025-06-13 |  |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 | 2024-04-19 |

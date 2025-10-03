@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4207486,
+  "num_followers": 4207689,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAB5sYcYPWRhovuE9jAEBtaU",
+  "snapshot_id": "aNxvAAAAAAAsiP4cLvU2g//2UjontVAR",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "If I Knew",
+      "url": "https://open.spotify.com/track/7lXOqE38eCr979gp27O5wr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lazarus",
         "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "If I Knew",
-      "url": "https://open.spotify.com/track/7lXOqE38eCr979gp27O5wr"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonde do Brun\u00e3o",
-        "url": "https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 57230,
-      "name": "Bonde do Brun\u00e3o",
-      "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 63060,
       "name": "Silk Sonic Intro",
       "url": "https://open.spotify.com/track/4K09vJ27xCOreumtSuU6Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonde do Brun\u00e3o",
+        "url": "https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 57230,
+      "name": "Bonde do Brun\u00e3o",
+      "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
     },
     {
       "added_at": null,

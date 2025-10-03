@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 
 > Sounds of the city to help you drift off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,460 likes - 137 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,493 likes - 137 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,9 +123,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 | 113 | [Wet City Ambience](https://open.spotify.com/track/1VQYbxq9LfUW99S8vrId5j) | [Daily Life Sounds](https://open.spotify.com/artist/7bmcgO5uw1tRqkxQYZbErC) | [Wet City Ambience](https://open.spotify.com/album/2Nk9yKMEPfuPpwq2NSJvRM) | 2:32 |
 | 114 | [It´s Raining In San Fran](https://open.spotify.com/track/6ypJhds3zf6kl1LotpDpZh) | [Sleep Sound Library](https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV) | [It´s Raining In San Fran](https://open.spotify.com/album/5iMnRADNKwf9V6PVZNJfKO) | 2:28 |
 | 115 | [Bustling City Sounds](https://open.spotify.com/track/3C7RU5aQ3vXkryUvUH7JCo) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [City & Coffeeshop Ambience](https://open.spotify.com/album/13Lig8HE7AoEY3Yy36qfOh) | 2:48 |
-| 116 | [Williamsburg Park I](https://open.spotify.com/track/6jlbLCUpYYtdaP9QiNJvBw) | [Williamsburg Walker](https://open.spotify.com/artist/5XMyTUGqQluIoSCwXnZhRL) | [Williamsburg Park](https://open.spotify.com/album/1ZYJHFQNO0S6obemWNhDrl) | 3:49 |
+| 116 | [Williamsburg Park I](https://open.spotify.com/track/6jlbLCUpYYtdaP9QiNJvBw) | [William R\. Walker](https://open.spotify.com/artist/08naVjWqOcpcZInrTpQ8bu) | [Williamsburg Park](https://open.spotify.com/album/1ZYJHFQNO0S6obemWNhDrl) | 3:49 |
 | 117 | [City Soundscapes](https://open.spotify.com/track/5FJAZhPPsqi3tI2MZ9hHoC) | [Sleep Sounds Ambient Noises](https://open.spotify.com/artist/1zL2evr0Tl2KJcHaLUbwc5), [City Sounds for Sleeping](https://open.spotify.com/artist/77CCIcHndGI4XjqVuS6JSg), [City Traffic White Noise](https://open.spotify.com/artist/6jO7NZyUKHcAldcPsG2otT) | [City Sounds](https://open.spotify.com/album/4cmKWIQGkxZGyI8qlgHZqx) | 2:08 |
-| 118 | [Williamsburg Park II](https://open.spotify.com/track/3pGIES3WpoJs1vOAPP88Lu) | [Williamsburg Walker](https://open.spotify.com/artist/5XMyTUGqQluIoSCwXnZhRL) | [Williamsburg Park](https://open.spotify.com/album/1ZYJHFQNO0S6obemWNhDrl) | 6:21 |
+| 118 | [Williamsburg Park II](https://open.spotify.com/track/3pGIES3WpoJs1vOAPP88Lu) | [William R\. Walker](https://open.spotify.com/artist/08naVjWqOcpcZInrTpQ8bu) | [Williamsburg Park](https://open.spotify.com/album/1ZYJHFQNO0S6obemWNhDrl) | 6:21 |
 | 119 | [Street Life](https://open.spotify.com/track/5jszS05MESy1q9XD9Ik6Xi) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Street Life](https://open.spotify.com/album/1AwghlhNSvSBxDTISLIwbo) | 2:04 |
 | 120 | [Alley City Drip Drop](https://open.spotify.com/track/0eZGTJWfuEh3GUWTdgsICk) | [Doug Carrlas](https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5) | [Alley City Nights](https://open.spotify.com/album/4OXCEpjOFc9O7KfTLAepZZ) | 3:14 |
 | 121 | [Aoyama Slow Afternoon](https://open.spotify.com/track/2UXG87JK2pN475pB0jmohH) | [Nihon Vibe](https://open.spotify.com/artist/4k0E2NjvoXbfDDhRFrZX4C) | [Aoyama Placid](https://open.spotify.com/album/4jhmF4HP3bavuugPev6zmg) | 2:58 |

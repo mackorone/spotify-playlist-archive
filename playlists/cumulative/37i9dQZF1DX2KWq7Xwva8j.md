@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: Barry B.
+> El futuro ya está aquí\. Foto: céro.
 
-304 songs - 14 hr 46 min
+305 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 | 2023-03-01 | 2024-02-07 |
 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 | 2022-06-06 | 2023-02-08 |
 | [DAME LO MIO](https://open.spotify.com/track/6O1fqHndsqDfVYP4VEEuiY) | [C de Cama](https://open.spotify.com/artist/5sK9Bieh35VgebRY9dm7jg) | [DAME LO MIO](https://open.spotify.com/album/4JzRFMvSKawgIOWEWfnwX7) | 2:23 | 2021-12-31 | 2022-03-01 |
+| [DARRY RING](https://open.spotify.com/track/1SvHtMM1KWiH9HLf5NjtAO) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [DARRY RING](https://open.spotify.com/album/17tIbvyzZZwS4eG3f1a6PI) | 2:16 | 2025-10-02 |  |
 | [De Cero](https://open.spotify.com/track/5r8IK44DM54gjzDxEuz9M2) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [De Cero](https://open.spotify.com/album/2wWpHMRFRLT2pYTqL8wcoJ) | 3:21 | 2022-02-24 | 2022-09-23 |
 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 | 2023-02-07 | 2025-03-04 |
 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 | 2022-09-16 | 2023-09-16 |

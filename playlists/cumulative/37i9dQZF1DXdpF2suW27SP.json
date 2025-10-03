@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Waze, Arag\u00e3o, Mariana Pereira, Uzzy, LEO2745 & DreNaz entram na zona. ",
+  "description": "Papillon entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -4050,7 +4050,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 191604,
       "name": "Como 1 Rei",
       "url": "https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI"
@@ -4440,6 +4440,40 @@
       "duration_ms": 174315,
       "name": "Crescer",
       "url": "https://open.spotify.com/track/3x8FZY9ujqOSMes0RAojdM"
+    },
+    {
+      "album": {
+        "name": "Cromada",
+        "url": "https://open.spotify.com/album/4SRzovR2tR7Y6XIGwqLlM4"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        },
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/7sMiAzj6PJ8f5yBFoJZgb4"
+        },
+        {
+          "name": "Michell",
+          "url": "https://open.spotify.com/artist/7mQvIzU4Q5g6FNera2Sh3C"
+        },
+        {
+          "name": "7ANNAN",
+          "url": "https://open.spotify.com/artist/56H3nUk9sLcPWYoJjirahV"
+        },
+        {
+          "name": "Devil 2625",
+          "url": "https://open.spotify.com/artist/4KT891H9oYU11BxBkcndMY"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264046,
+      "name": "Cromada",
+      "url": "https://open.spotify.com/track/4wULWdHIUcLHnIUtKH2qCU"
     },
     {
       "album": {
@@ -17826,6 +17860,24 @@
       "duration_ms": 227272,
       "name": "ZONA VIP",
       "url": "https://open.spotify.com/track/1N5QYK8cHKeP8jNTacR5xX"
+    },
+    {
+      "album": {
+        "name": "\u00a1 +1 !",
+        "url": "https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234284,
+      "name": "\u00a1 +1 !",
+      "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"
     },
     {
       "album": {

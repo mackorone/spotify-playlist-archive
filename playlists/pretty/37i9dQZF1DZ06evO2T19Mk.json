@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 591002,
+  "num_followers": 591029,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABd74ztAyAkfIFlp0Yr0i9A",
+  "snapshot_id": "aNxvAAAAAAAJJJMbrNtq1G7UuiHbv9E8",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+      "duration_ms": 230400,
+      "name": "The Last Of The Real Ones",
+      "url": "https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
       "duration_ms": 244960,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "The Last Of The Real Ones",
-      "url": "https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl"
     },
     {
       "added_at": null,
@@ -272,21 +256,17 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Just One Yesterday",
-      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
+      "duration_ms": 203413,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
     },
     {
       "added_at": null,
@@ -307,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
-      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -339,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
       "artists": [
         {
@@ -348,9 +312,29 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
+      "duration_ms": 234493,
+      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
+      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Just One Yesterday",
+      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
     },
     {
       "added_at": null,
@@ -371,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -399,6 +367,22 @@
       "duration_ms": 211333,
       "name": "Bang The Doldrums",
       "url": "https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 291299,
       "name": "So Much (For) Stardust",
       "url": "https://open.spotify.com/track/2svOhUXIy2932LBNEFdNcq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Stay Frosty Royal Milk Tea",
-      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 222231,
       "name": "What a Time To Be Alive",
       "url": "https://open.spotify.com/track/6eyaiauoVhwiUuZjTcayXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Stay Frosty Royal Milk Tea",
+      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believers Never Die - Greatest Hits",
         "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka"
     },
     {
       "added_at": null,

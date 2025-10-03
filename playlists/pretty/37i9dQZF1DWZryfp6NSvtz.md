@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,701 likes - 107 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,751 likes - 107 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 |
 | 24 | [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 |
 | 25 | [crocodile eyes](https://open.spotify.com/track/0juY9UEu2358SkPnowjG2j) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [crocodile eyes](https://open.spotify.com/album/6s5FJuKHpzclX49BR3ZCQZ) | 1:44 |
-| 26 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
+| 26 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
 | 27 | [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Die About It \(Deluxe\)](https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G) | 3:04 |
 | 28 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
 | 29 | [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 |

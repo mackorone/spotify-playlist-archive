@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,903 likes - 700 songs - 1 day 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,899 likes - 700 songs - 1 day 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,7 +259,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 249 | [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 |
 | 250 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 |
 | 251 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
-| 252 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 252 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 253 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 |
 | 254 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 |
 | 255 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 |
@@ -370,7 +370,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 360 | [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 |
 | 361 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/01Y1rFJpmKXucS9yNdwin0) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:10 |
 | 362 | [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 |
-| 363 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
+| 363 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
 | 364 | [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 |
 | 365 | [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 |
 | 366 | [A Swim in Pine Lake](https://open.spotify.com/track/0jufuLT8UYZLQu2yaaS52B) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [A Swim in Pine Lake](https://open.spotify.com/album/7qlQWrxfurEmYnOt8ITdjK) | 3:21 |
@@ -450,7 +450,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 440 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 |
 | 441 | [I gotta run](https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [I gotta run](https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG) | 3:08 |
 | 442 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 |
-| 443 | [Someone To Watch Over Me](https://open.spotify.com/track/42yJPYOs9v9OikUdrJyHTj) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Cheek To Cheek](https://open.spotify.com/album/2sZ4ZE5wxjfxqzGMKh1Jde) | 3:43 |
+| 443 | [Someone To Watch Over Me](https://open.spotify.com/track/42yJPYOs9v9OikUdrJyHTj) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Cheek To Cheek](https://open.spotify.com/album/2sZ4ZE5wxjfxqzGMKh1Jde) | 3:43 |
 | 444 | [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 |
 | 445 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 |
 | 446 | [Here It Is](https://open.spotify.com/track/5Y09UPBhAV1diMYpsTtVD9) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Here It Is](https://open.spotify.com/album/4v0eJPx0AOAzFXMv1S9x0g) | 3:08 |

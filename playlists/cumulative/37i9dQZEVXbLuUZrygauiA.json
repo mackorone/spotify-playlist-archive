@@ -13875,6 +13875,24 @@
     },
     {
       "album": {
+        "name": "Cullinan Tombochio",
+        "url": "https://open.spotify.com/album/1Mh4grTyHuqQB4INpCBRbT"
+      },
+      "artists": [
+        {
+          "name": "Culichi",
+          "url": "https://open.spotify.com/artist/1vBuhw8fFJhsNCynOAKaXZ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163213,
+      "name": "Cullinan Tombochio",
+      "url": "https://open.spotify.com/track/4XE8walntFFrAish7FNcci"
+    },
+    {
+      "album": {
         "name": "CUMBIA 85 (Yahir Saldivar Remix)",
         "url": "https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D"
       },
@@ -46842,7 +46860,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
@@ -50966,7 +50984,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 254000,
       "name": "Sabanas Blancas",
       "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
@@ -63970,7 +63988,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

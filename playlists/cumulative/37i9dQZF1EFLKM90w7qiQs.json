@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Perrie",
+        "url": "https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167821,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn"
+    },
+    {
+      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },

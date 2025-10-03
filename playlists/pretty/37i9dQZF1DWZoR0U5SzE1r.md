@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Darlene Zschech
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,387 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,616 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 47 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
 | 48 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 |
 | 49 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 |
-| 50 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
-| 51 | [Revelation Song](https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf) | 6:01 |
+| 50 | [Revelation Song](https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf) | 6:01 |
+| 51 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
 | 52 | [Famous For \(I Believe\)](https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 4:02 |
 | 53 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
 | 54 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
 | 55 | [We Believe](https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Restart](https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl) | 4:21 |
 | 56 | [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 |
-| 57 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
-| 58 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
+| 57 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 |
+| 58 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
 | 59 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 |
 | 60 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
 | 61 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |

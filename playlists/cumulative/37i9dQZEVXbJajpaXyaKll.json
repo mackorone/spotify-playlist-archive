@@ -3103,6 +3103,32 @@
     },
     {
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/53rr44xMgpHX1ms9PXU1DB"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Veron",
+          "url": "https://open.spotify.com/artist/152jt6UfYTS3t9pER05HbR"
+        },
+        {
+          "name": "Jere Gin\u00e9s",
+          "url": "https://open.spotify.com/artist/78BWOaOD3mQs2gVxnBmhMB"
+        },
+        {
+          "name": "Laury Villalba",
+          "url": "https://open.spotify.com/artist/6UilTyxAHljNetiz37hU2t"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157949,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3v0UmsFXejrhPlyEP2omVa"
+    },
+    {
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -6854,7 +6880,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -11020,7 +11046,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 151270,
       "name": "Eu T\u00f4 Fazendo uma M\u00e1gica",
       "url": "https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz"
@@ -12406,7 +12432,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 217560,
       "name": "Fuegos de Octubre",
       "url": "https://open.spotify.com/track/0N8d0AOyQUaNqwVemcwtCD"
@@ -12596,6 +12622,24 @@
       "duration_ms": 398222,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Genio Atrapado",
+      "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
     },
     {
       "album": {
@@ -18022,7 +18066,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -32488,7 +32532,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 128000,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/2QlBGi84n6EiW0MOTh62KY"
@@ -34222,7 +34266,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 116860,
       "name": "Vamos a Jugar en el Sol",
       "url": "https://open.spotify.com/track/4b5K32iwvHjBYyKv438FHB"
@@ -35080,7 +35124,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -35392,7 +35436,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"

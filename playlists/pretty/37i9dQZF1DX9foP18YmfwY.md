@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,980 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,031 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 27 | [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 |
 | 28 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
 | 29 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
-| 30 | [Quem Como Deus? \- AoVivo](https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Quem Como Deus? \(AoVivo\)](https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye) | 6:06 |
+| 30 | [Quem Como Deus? \- Ao Vivo](https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Quem Como Deus? \(Ao Vivo\)](https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye) | 6:06 |
 | 31 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 |
 | 32 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 |
 | 33 | [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 |

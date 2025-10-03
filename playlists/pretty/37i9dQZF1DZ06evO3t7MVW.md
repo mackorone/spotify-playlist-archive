@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,355 likes - 45 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,366 likes - 45 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 7 | [Sound of the Sea](https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:25 |
 | 8 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
 | 9 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
-| 10 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:13 |
-| 11 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 |
+| 10 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 |
+| 11 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:13 |
 | 12 | [What a Feeling](https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [What a Feeling](https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov) | 3:49 |
 | 13 | [Easy Runaway](https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:45 |
 | 14 | [Breathe](https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:52 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 40 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 |
 | 41 | [Natural Mystic](https://open.spotify.com/track/6zRTifE3Ianv6ClqYTIwQC) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Natural Mystic](https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe) | 3:15 |
 | 42 | [Higher \(with Slightly Stoopid\)](https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:14 |
-| 43 | [Under Arrest](https://open.spotify.com/track/3z5vTjTWPIzyujnDVDySMT) | [Alific](https://open.spotify.com/artist/4Kv7Splj4TPpJdZkkNd78K), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Echoes From The Soul](https://open.spotify.com/album/1Yj99B7hugPMgtJHMyPNte) | 3:50 |
-| 44 | [Livin' It](https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:59 |
+| 43 | [Livin' It](https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:59 |
+| 44 | [Under Arrest](https://open.spotify.com/track/3z5vTjTWPIzyujnDVDySMT) | [Alific](https://open.spotify.com/artist/4Kv7Splj4TPpJdZkkNd78K), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Echoes From The Soul](https://open.spotify.com/album/1Yj99B7hugPMgtJHMyPNte) | 3:50 |
 | 45 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:25 |
 
-Snapshot ID: `aNsdgAAAAAC0KAc51zQeQ4XNE3wfjV6S`
+Snapshot ID: `aNxvAAAAAAALQtGoaHuq8RgxrLPradmV`

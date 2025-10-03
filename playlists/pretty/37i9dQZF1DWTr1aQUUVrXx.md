@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,028 likes - 205 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,084 likes - 205 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,14 +155,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 | 145 | [You've Changed](https://open.spotify.com/track/03M7H0z2xqFrcHhohJUGoC) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [You've Changed](https://open.spotify.com/album/6HIB5zDrojpmjIoErkmfCi) | 2:42 |
 | 146 | [Solace](https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Solace](https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ) | 2:56 |
 | 147 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 |
-| 148 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 |
+| 148 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 |
 | 149 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 |
 | 150 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 |
 | 151 | [I’m just on the road](https://open.spotify.com/track/5R6016N0exIZeQj0xAzI5k) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [I’m just on the road](https://open.spotify.com/album/45FXaj9wvYxVsEKRqEz3Ub) | 2:37 |
 | 152 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 |
 | 153 | [The bag with cash](https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [The bag with cash](https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv) | 3:32 |
 | 154 | [Buachaille Etive Mor](https://open.spotify.com/track/3xp6Mjv32lpul7WO4ZE94n) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Lost in the Highlands](https://open.spotify.com/album/3pYq97dv4T7e9Gtgp6keBF) | 3:15 |
-| 155 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 155 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 156 | [Velvet Lounge Reverie](https://open.spotify.com/track/5ubFgdUwUuPtaNlMq0rgD6) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Velvet Lounge Reverie](https://open.spotify.com/album/3WQaiEOLo1bjvZwOUdqCAx) | 3:07 |
 | 157 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 |
 | 158 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 |

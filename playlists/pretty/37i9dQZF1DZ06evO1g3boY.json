@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173247,
+  "num_followers": 173257,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABK2pDCnDDRwXb/LHEODl2w",
+  "snapshot_id": "aNxvAAAAAAAX4R/pmLigFt+Y3KA5Lm9k",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 294049,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 A \u00daltima Rima",
         "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 275555,
       "name": "Leandro Roque",
       "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 294049,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+      },
+      "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
-      },
-      "artists": [
-        {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 180448,
-      "name": "Melhor Rem\u00e9dio",
-      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
         "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
       },
@@ -1115,6 +1115,26 @@
       "duration_ms": 231533,
       "name": "S\u00f3 Isso",
       "url": "https://open.spotify.com/track/0zUF40Gv49uGEhQnf5vBRu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "9nha / Eu Gosto Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
     },
     {
       "added_at": null,
@@ -1151,26 +1171,6 @@
       "duration_ms": 216000,
       "name": "Antes Que a Bala Perdida Me Ache",
       "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "9nha / Eu Gosto Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
     }
   ],
   "unique_name": "This Is Emicida",

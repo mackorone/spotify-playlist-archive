@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,955 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,968 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 81 | [Safari Bird Calls](https://open.spotify.com/track/5XC0e5O32qEFsAsEOeeg9x) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/4fWw1JF0Mtke2CkcCmrm1S) | 3:20 |
 | 82 | [In The Wild](https://open.spotify.com/track/402u8vEl017GWUpTxYwbxT) | [Zebric](https://open.spotify.com/artist/1I4n7zzunfZwuEo8bPB7VZ) | [In The Wild](https://open.spotify.com/album/6VjivM6ZIYQcZbVQ3hjtsP) | 2:04 |
 | 83 | [Alive in the Jungle](https://open.spotify.com/track/45lw3z8FeUxEZgEaLPXHx9) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Alive in the Jungle](https://open.spotify.com/album/00KplVJavSuMak3v3QDfxo) | 2:57 |
-| 84 | [Rainy Day in the Jungle of Kauai](https://open.spotify.com/track/2U0N3cNFuhJU0b8En0BEwR) | [Beauty of Nature](https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct) | [Rainy Day in the Jungle of Kauai](https://open.spotify.com/album/4IhenzeIt8p9Y3vkmRz0rD) | 2:12 |
+| 84 | [Rainy Day in the Jungle of Kauai](https://open.spotify.com/track/2U0N3cNFuhJU0b8En0BEwR) | [Beauxology](https://open.spotify.com/artist/3U6v2kqGNIId0drPj45ppf) | [Rainy Day in the Jungle of Kauai](https://open.spotify.com/album/4IhenzeIt8p9Y3vkmRz0rD) | 2:12 |
 | 85 | [Distant ocean, birds and insects in the forest](https://open.spotify.com/track/6VtOLJbtuy3bBULJvnd8pQ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Distant ocean, birds and insects in the forest](https://open.spotify.com/album/2x2JL6cGSi0wtg9y6bmav1) | 4:34 |
 | 86 | [Fugue of the Forest](https://open.spotify.com/track/0Do11qV3N7Wo1ZPoGjkE27) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Peaceful Nature Melodies](https://open.spotify.com/album/0TFmJQQqxdHlLcGz5MNnZE) | 3:32 |
 | 87 | [Whispering Trees in the Wild](https://open.spotify.com/track/45TgpexaojOZb4zok0pJaD) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Whispering Trees in the Wild](https://open.spotify.com/album/48ApjSa0knz7AVh9xKFPL5) | 2:05 |

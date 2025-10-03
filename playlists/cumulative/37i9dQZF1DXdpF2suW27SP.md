@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Waze, Aragão, Mariana Pereira, Uzzy, LEO2745 & DreNaz entram na zona.
+> Papillon entra na zona.
 
-867 songs - 1 day 21 hr 47 min
+869 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [COMEKIÉ](https://open.spotify.com/track/4gyWu8AItixWLu0ZeYbskJ) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [COMEKIÉ](https://open.spotify.com/album/0pUJBfF8R8sXPRL4aYVzaK) | 2:51 | 2024-04-18 | 2024-05-17 |
 | [Comentário](https://open.spotify.com/track/2WyVgaeftsSxbp6lCGzp5O) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Real Punch](https://open.spotify.com/artist/2Cjyfjlqv9jMyaNP2HZc9c) | [Comentário](https://open.spotify.com/album/4eI4p2PWOh7EO5vQJvd3Bh) | 2:52 | 2023-09-28 | 2023-11-11 |
 | [Comigo](https://open.spotify.com/track/5RYHFC0Y0Lmx3ZG77MyXtP) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cuarto Minguante](https://open.spotify.com/album/3PO9tUNp8shqt9fK8b8qq6) | 3:40 | 2025-05-29 | 2025-09-13 |
-| [Como 1 Rei](https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:11 | 2024-11-08 |  |
+| [Como 1 Rei](https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:11 | 2024-11-08 | 2025-10-03 |
 | [Como Assim?!](https://open.spotify.com/track/0alpWGyujEH5aIOiOtIfBh) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Queen Marcy](https://open.spotify.com/artist/1FpZb8gVHsR9NtEjEidlnT) | [SAY GOODNIGHT TO THE BAD GUYS](https://open.spotify.com/album/3iNvV3UvpZnhVWuoNgrKzT) | 3:25 | 2023-03-24 | 2023-05-26 |
 | [Como Seria? / Amor Sóbrio](https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [ALTA COSTURA](https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ) | 3:03 | 2025-01-10 |  |
 | [Como É Que 'Tás](https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Como É Que 'Tás](https://open.spotify.com/album/0Ttu6SVIqBpNUhZSAyeSpW) | 1:59 | 2024-09-26 | 2025-03-07 |
@@ -223,6 +223,7 @@
 | [Covarde](https://open.spotify.com/track/46eQeBAfMd4YHmSqPRUMvh) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC), [Lazuli](https://open.spotify.com/artist/66etU7E31IbAKJRY8pcSYs) | [Covarde](https://open.spotify.com/album/224guiXJQfduoP2O1Qm999) | 2:58 | 2025-03-28 | 2025-05-02 |
 | [Crazy](https://open.spotify.com/track/25dgItFGOL1v8BVXKoOX4w) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [10/10](https://open.spotify.com/album/2aNvcfyPkWMeQcE5f2OMJI) | 2:06 | 2024-11-22 | 2025-01-03 |
 | [Crescer](https://open.spotify.com/track/3x8FZY9ujqOSMes0RAojdM) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Crescer](https://open.spotify.com/album/0HPPQF8it2UPEaveY7AafK) | 2:54 | 2025-06-26 | 2025-07-11 |
+| [Cromada](https://open.spotify.com/track/4wULWdHIUcLHnIUtKH2qCU) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Giovanni](https://open.spotify.com/artist/7sMiAzj6PJ8f5yBFoJZgb4), [Michell](https://open.spotify.com/artist/7mQvIzU4Q5g6FNera2Sh3C), [7ANNAN](https://open.spotify.com/artist/56H3nUk9sLcPWYoJjirahV), [Devil 2625](https://open.spotify.com/artist/4KT891H9oYU11BxBkcndMY) | [Cromada](https://open.spotify.com/album/4SRzovR2tR7Y6XIGwqLlM4) | 4:24 | 2025-10-02 |  |
 | [CRXSHOUT](https://open.spotify.com/track/69pXXXmx0zGxOoD5ajGUo9) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [CRXSHOUT](https://open.spotify.com/album/0EA5EIacxUlGeEmofHl9S7) | 3:15 | 2024-12-06 | 2025-01-03 |
 | [Cuki Paradise](https://open.spotify.com/track/57xRuxkedeDWV1OviJNwga) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Página cinzenta](https://open.spotify.com/album/7aemIH6CSfaqRcKiTaPkzP) | 2:11 | 2025-04-03 | 2025-08-08 |
 | [Cumplicidade](https://open.spotify.com/track/3gNxVHXDa1miBYUIIuUR5v) | [Dero Vibez](https://open.spotify.com/artist/3IanMX1UeovArtHM4j4D7z) | [Cumplicidade](https://open.spotify.com/album/5mmjWtOfDkjYUQlLjgP1LM) | 2:40 | 2025-02-21 | 2025-04-04 |
@@ -864,6 +865,7 @@
 | [Zaza](https://open.spotify.com/track/6z5v6mkzlQSwhVxWLBdPkR) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [SUAVEYOUKNOW](https://open.spotify.com/artist/1yFyrQDjGdTw0bo1YZdSmZ) | [Zaza](https://open.spotify.com/album/3uQP0b2GQjsBpM5kZoOghZ) | 2:12 | 2024-05-16 | 2024-06-14 |
 | [Zero Sentimentos](https://open.spotify.com/track/0uwRg1k8wUQiCeSsztoGDE) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Zero Sentimentos](https://open.spotify.com/album/45XnSpBKMBfhda0PX0drw0) | 3:30 | 2024-04-18 | 2024-06-07 |
 | [ZONA VIP](https://open.spotify.com/track/1N5QYK8cHKeP8jNTacR5xX) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [ZONA VIP](https://open.spotify.com/album/3zqgPrVEwFEdAl4hs6ekNI) | 3:47 | 2024-03-08 | 2024-04-19 |
+| [¡ +1 !](https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [¡ +1 !](https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx) | 3:54 | 2025-10-02 |  |
 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 | 2025-06-26 |  |
 | [À Vontade](https://open.spotify.com/track/6tt9gbrs55be5KgeBqd7co) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [Modo Superstar](https://open.spotify.com/album/3knxREXKQ0Ku1vFMmd2JgR) | 2:23 | 2024-03-01 | 2024-09-13 |
 | [Água do Crime](https://open.spotify.com/track/25UEoprN5VsvSzdFX3wBO5) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Água do Crime](https://open.spotify.com/album/1dHxlHBIODoGqxsf7hYMK6) | 3:24 | 2024-11-25 | 2025-01-03 |

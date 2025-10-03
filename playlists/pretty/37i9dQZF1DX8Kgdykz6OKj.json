@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1519185,
+  "num_followers": 1519506,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
+        "name": "Clin D'oeil",
+        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+      },
+      "artists": [
+        {
+          "name": "Jazz Liberatorz",
+          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
+      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
         "name": "Scarecrows",
         "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Clin D'oeil",
-        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
       },
       "artists": [
         {
-          "name": "Jazz Liberatorz",
-          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
         }
       ],
-      "duration_ms": 328573,
-      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
-      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -631,22 +647,6 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Shameful Game, Pt. 2",
-        "url": "https://open.spotify.com/album/5Z6Ia5OGj1PJnLLLZMwTO5"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 142986,
-      "name": "Shameful Game, Pt. 2",
-      "url": "https://open.spotify.com/track/0WCKUJ180VjZYtLqrGYNci"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Madvillainy Demos",
         "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
       },
@@ -967,78 +947,22 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle"
+        "name": "Shameful Game, Pt. 2",
+        "url": "https://open.spotify.com/album/5Z6Ia5OGj1PJnLLLZMwTO5"
       },
       "artists": [
         {
-          "name": "Droogie Otis",
-          "url": "https://open.spotify.com/artist/77yuxx0zDXOjRffgQ1ooXm"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         },
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 205612,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
-        "name": "my friend",
-        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Sector 202",
-          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
-        }
-      ],
-      "duration_ms": 244404,
-      "name": "my friend",
-      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
-        "name": "Jagged Tooth Crook",
-        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "IAMDDB",
-          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
-        },
-        {
-          "name": "KinKai",
-          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
-        }
-      ],
-      "duration_ms": 224374,
-      "name": "Feeling High",
-      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+      "duration_ms": 142986,
+      "name": "Shameful Game, Pt. 2",
+      "url": "https://open.spotify.com/track/0WCKUJ180VjZYtLqrGYNci"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1071,6 +995,58 @@
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "Jagged Tooth Crook",
+        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+        }
+      ],
+      "duration_ms": 224374,
+      "name": "Feeling High",
+      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle"
+      },
+      "artists": [
+        {
+          "name": "Droogie Otis",
+          "url": "https://open.spotify.com/artist/77yuxx0zDXOjRffgQ1ooXm"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 205612,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1111,18 +1087,26 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "THE FIFTH",
-        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
+        "name": "my friend",
+        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Sector 202",
+          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
         }
       ],
-      "duration_ms": 200612,
-      "name": "RULAZ",
-      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
+      "duration_ms": 244404,
+      "name": "my friend",
+      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1159,6 +1143,22 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "THE FIFTH",
+        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 200612,
+      "name": "RULAZ",
+      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Double Standards (feat. Sampha)",
         "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Life Is A Jungle",
-        "url": "https://open.spotify.com/album/5DJD5CKsnWLTnWdCs8isPu"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 89718,
-      "name": "Life Is A Jungle",
-      "url": "https://open.spotify.com/track/4cSCzhrX0PJRFMQii1Os64"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "Life Is A Jungle",
+        "url": "https://open.spotify.com/album/5DJD5CKsnWLTnWdCs8isPu"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 89718,
+      "name": "Life Is A Jungle",
+      "url": "https://open.spotify.com/track/4cSCzhrX0PJRFMQii1Os64"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 213940,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Doom",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 136785,
       "name": "Doom",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 213940,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     }
   ],
   "unique_name": "Jazz Rap",

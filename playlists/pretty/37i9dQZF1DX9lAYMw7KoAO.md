@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=ZT9AqBbPT9G5ll5jf4WxSw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,972 likes - 50 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,218 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 |
 | 50 | [Uyena \- Live](https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi \(Live\)](https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY) | 5:47 |
 
-Snapshot ID: `AAAAADDkKbAGdrxWLBNKE3g7CjW0Ptdu`
+Snapshot ID: `AAAAAMCzkV3I6om1zzd/XfNk/IRxGtBT`

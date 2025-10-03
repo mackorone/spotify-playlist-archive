@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Wish I Didn't Know Now",
+        "url": "https://open.spotify.com/album/0rPZBEzGKgrKRXC8wSwViY"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266760,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU"
+    },
+    {
+      "album": {
         "name": "hungover",
         "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
       },

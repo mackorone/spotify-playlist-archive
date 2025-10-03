@@ -4,7 +4,7 @@
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 19 min
+107 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Familia](https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 | 2024-03-11 | 2024-07-13 |
 | [Fotos y Recuerdos](https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fotos y Recuerdos](https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo) | 3:18 | 2024-10-25 | 2025-07-27 |
 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 | 2023-11-10 |  |
-| [GTO](https://open.spotify.com/track/5jusHXxUi4wX3uAXc6cHH6) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:37 | 2025-08-09 |  |
+| [GTO](https://open.spotify.com/track/5jusHXxUi4wX3uAXc6cHH6) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:37 | 2025-08-09 | 2025-10-03 |
 | [GTO](https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:23 | 2024-11-02 | 2025-01-22 |
 | [Hambre](https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:13 | 2023-11-10 |  |
 | [Infiel](https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Infiel](https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS) | 3:42 | 2023-11-10 | 2025-04-16 |
@@ -110,6 +110,7 @@
 | [UNA RAYA MÁS](https://open.spotify.com/track/6xXbyR2OEM4GlnvKH1t45Z) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [UNA RAYA MÁS](https://open.spotify.com/album/2dR6j7w98qJLlzEHRuQKOh) | 3:34 | 2024-04-07 | 2024-09-08 |
 | [Veladora](https://open.spotify.com/track/30yDSVehKwPgcOJRqzSdqb) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Veladora](https://open.spotify.com/album/5HrGdWT7IY9w69hOU7iZxM) | 3:19 | 2023-11-10 | 2023-12-14 |
 | [Vuelo](https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Vuelo](https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC) | 3:28 | 2023-11-10 | 2024-11-14 |
+| [Y Si Nos Vamos](https://open.spotify.com/track/75yIi0f2Uy2i1nBGaVTOiH) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Y Si Nos Vamos](https://open.spotify.com/album/49XyV9pc6KkimnDrVzrgdI) | 3:31 | 2025-10-03 |  |
 | [Ya Saben La Clave](https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 2:19 | 2024-12-01 | 2025-03-13 |
 | [Ya Saben La Clave](https://open.spotify.com/track/5EpIInk8tqRhzX2RVlDP6N) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ya Saben La Clave](https://open.spotify.com/album/2FHXwhkoUQ8I7BFUMrvne4) | 2:19 | 2024-11-03 | 2024-12-01 |
 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 | 2024-06-17 | 2024-08-21 |

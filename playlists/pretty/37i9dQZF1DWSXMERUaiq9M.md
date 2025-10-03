@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > The sound of a new generation\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,460 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,703 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |
 | 2 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
-| 3 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
+| 3 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 4 | [Instant Moments](https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT) | [Divasi](https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY) | [Instant Moments](https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu) | 2:40 |
-| 5 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
+| 5 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 6 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 7 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 8 | [Pool \- Gravagerz Version](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version\)](https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 99 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 | 100 | [Chiggy Chiggy](https://open.spotify.com/track/7vbb2B8iAtsbKShPYotwT5) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Chiggy Chiggy](https://open.spotify.com/album/4Fbhsl1yzuvuE7P76yAbKb) | 2:31 |
 
-Snapshot ID: `AAAAAKBdk+ZS+Fc/TmXWiEUlXnzUvORS`
+Snapshot ID: `AAAAAFSpIQyY9zBG5jZqijX/xfj67p6R`

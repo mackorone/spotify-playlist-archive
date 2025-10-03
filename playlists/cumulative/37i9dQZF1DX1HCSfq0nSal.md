@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Yung Beef, Xiyo, Fernandezz, Quevedo
 
-848 songs - 1 day 22 hr 46 min
+848 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2022-01-07 | 2022-04-14 |
 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 | 2022-05-26 | 2022-11-30 |
 | [Nota](https://open.spotify.com/track/3HPaGfBzwJGMKv6fPxWgPi) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 4:35 | 2025-03-25 | 2025-04-17 |
-| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 | 2025-09-08 |  |
+| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 | 2025-09-08 |  |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-03 | 2022-03-04 |
 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 | 2025-04-04 | 2025-05-20 |
 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 | 2024-10-30 | 2024-12-03 |

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124932,
+  "num_followers": 124927,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUo3RKtX3Tqysxw2Q6FYr6WcaRbW7d",
+  "snapshot_id": "AAAUpBzznpYYT9lyUa4QbxWHUFmUoST0",
   "tracks": [
+    {
+      "added_at": "2025-10-02 14:40:08",
+      "album": {
+        "name": "2NITEE / GONE",
+        "url": "https://open.spotify.com/album/0PJu9ZzT3wXY5EEOAMnEAa"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "2NITEE",
+      "url": "https://open.spotify.com/track/2QCsOTuZFLqrNrQ21OREdk"
+    },
     {
       "added_at": "2025-10-01 14:17:46",
       "album": {

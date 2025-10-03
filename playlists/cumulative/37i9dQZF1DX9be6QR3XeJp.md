@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: mustbejohn
+> Discover your new favourite artists from UK&IE\. Cover: 1111
 
-329 songs - 17 hr 40 min
+331 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 | 2024-09-05 |  |
 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 | 2022-06-30 |  |
 | [Come And See](https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 5:27 | 2024-09-12 |  |
+| [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 | 2025-10-02 |  |
 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/0mFflI3yK2y3SJybiAMgLr) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 4:09 | 2022-02-18 |  |
 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/4Unohs1Js8HlyFeKBrNeL5) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4FfY3r1VbpH6E0sAyq4Hc9) | 4:09 | 2023-10-26 | 2024-04-19 |
 | [Crawl](https://open.spotify.com/track/4enPTcEhKS40yyfvUEUntA) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [Crawl](https://open.spotify.com/album/3SMtJBpLi1vw0WdZM3s2Xl) | 3:41 | 2024-11-15 |  |
@@ -326,6 +327,7 @@
 | [What I'd Do For You](https://open.spotify.com/track/1RxYDWodpkiYA4apEOuDdS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:01 | 2022-02-18 |  |
 | [When I Feel Sane](https://open.spotify.com/track/7LtQ2SQIRVlDDYuZSOerd2) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 3:32 | 2023-10-02 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2022-02-18 |  |
+| [Wicked & Crisp](https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Wicked & Crisp](https://open.spotify.com/album/6gOj7SCGjeLMSfK3g6aNtf) | 2:59 | 2025-10-02 |  |
 | [Wicked & Wild](https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Wicked & Wild](https://open.spotify.com/album/3SZloThQF14yc3MzUEouP6) | 2:06 | 2022-02-18 |  |
 | [Wicked & Wild](https://open.spotify.com/track/2myNRoPh3Nh8V07gEEchGt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:06 | 2022-11-18 | 2024-04-19 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-03-31 |  |

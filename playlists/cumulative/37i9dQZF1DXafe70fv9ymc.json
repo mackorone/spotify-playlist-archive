@@ -1633,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "MENU",
+        "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "MENU",
+      "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
+    },
+    {
+      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },

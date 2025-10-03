@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,879 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,002 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 | 11 | [Wide Skies \(Noise\)](https://open.spotify.com/track/2t59Nh57fvHOwfiV7aZwTn) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calm Sleep \(Noise\)](https://open.spotify.com/album/7FtankGXHvGLTAfWz5zDpc) | 2:32 |
 | 12 | [In a state of White Noise Sleep](https://open.spotify.com/track/6RS9yHVAFYXf2yspUgQkDH) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [White Noise Pillow](https://open.spotify.com/album/2LbHdOqiVJHFVh1nZbqda5) | 4:04 |
 | 13 | [White Tonality](https://open.spotify.com/track/3BAUrjO1MvnrTPtEGje79S) | [Blazerod](https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS) | [White Tonality](https://open.spotify.com/album/69U1JNZagRXGoegXk8DaYN) | 2:57 |
-| 14 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Dreamlux](https://open.spotify.com/artist/608c6CqBFogFms9icxSr2F) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
+| 14 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Drealux](https://open.spotify.com/artist/1LgofD2ZhZ1hhF8VshT01U) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
 | 15 | [Cabin Noise Melody](https://open.spotify.com/track/4TVbi0QfkzKCvLeIIPfKqb) | [Minorie HD](https://open.spotify.com/artist/4s3zLaJUhGoYhcFHwlnIgw) | [Cabin Noise Melody](https://open.spotify.com/album/11uCdzSWLtGVOjm0Vk4AZh) | 2:01 |
 | 16 | [Gentle Ferry Noise](https://open.spotify.com/track/0bnzSHrNY8rbvSFbAABsFZ) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Arctic Wind Tunnel](https://open.spotify.com/album/6NmbzbRqFWlQ0UcltKf3iI) | 2:06 |
 | 17 | [White Noise \- 1.800 Hz \- Cutoff](https://open.spotify.com/track/3y6JIOusVP01VSAiGbFRXn) | [Low White Noise Mode](https://open.spotify.com/artist/31fNSvoD2B7BhKMvdgd1Pn) | [Dulled Focus Mode](https://open.spotify.com/album/0d1wauU81HwxvV9GtEOKNo) | 2:04 |

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MHCZIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MHHqoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Octopus (100.000 H\u00e4nde)",
         "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Shadows & Soul",
         "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Kan Je Me Zien",
         "url": "https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "27 Anos Nacional",
         "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
@@ -157,27 +157,7 @@
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Predador de Perereca",
-        "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
-      },
-      "artists": [
-        {
-          "name": "BLOW RECORDS",
-          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
-        },
-        {
-          "name": "Mc Jhey",
-          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
-        }
-      ],
-      "duration_ms": 186084,
-      "name": "Predador de Perereca",
-      "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Do You Mind (Crazy Cousins Remix)",
         "url": "https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx"
@@ -197,7 +177,27 @@
       "url": "https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Predador de Perereca",
+        "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
+      },
+      "artists": [
+        {
+          "name": "BLOW RECORDS",
+          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "duration_ms": 186084,
+      "name": "Predador de Perereca",
+      "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Go Shawty",
         "url": "https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw"
@@ -241,39 +241,7 @@
       "url": "https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Unbind",
-        "url": "https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO"
-      },
-      "artists": [
-        {
-          "name": "Eloi Youssef",
-          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
-        }
-      ],
-      "duration_ms": 207033,
-      "name": "Unbind",
-      "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Maak Dough",
-        "url": "https://open.spotify.com/album/0JV4821CvGhCvLWxAJjfZD"
-      },
-      "artists": [
-        {
-          "name": "YoungMusic",
-          "url": "https://open.spotify.com/artist/4LTQXG3zSiabE83uFMUjYM"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Maak Dough",
-      "url": "https://open.spotify.com/track/1loSVlIuBCzzR5x8I1hyYT"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Buut Vrij",
         "url": "https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu"
@@ -289,7 +257,39 @@
       "url": "https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Unbind",
+        "url": "https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO"
+      },
+      "artists": [
+        {
+          "name": "Eloi Youssef",
+          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
+        }
+      ],
+      "duration_ms": 207033,
+      "name": "Unbind",
+      "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Maak Dough",
+        "url": "https://open.spotify.com/album/0JV4821CvGhCvLWxAJjfZD"
+      },
+      "artists": [
+        {
+          "name": "YoungMusic",
+          "url": "https://open.spotify.com/artist/4LTQXG3zSiabE83uFMUjYM"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Maak Dough",
+      "url": "https://open.spotify.com/track/1loSVlIuBCzzR5x8I1hyYT"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Round My Mind",
         "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
@@ -305,7 +305,23 @@
       "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "FaSHioN",
+      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Beste Zangers 2025 (Laetitia Gerards)",
         "url": "https://open.spotify.com/album/2J5shpOI1GJ60UxgFnFaSz"
@@ -325,23 +341,7 @@
       "url": "https://open.spotify.com/track/4LrtvXtrchPWZogs7A0MNc"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "COLOR OUTSIDE THE LINES",
-        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "FaSHioN",
-      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Sar Zaman\u0131m\u0131z\u0131 Geriye",
         "url": "https://open.spotify.com/album/4Hbsjy5vfXCQG1YeNvXJQL"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/5BuvzVuw5Y6h6dXseOJZSn"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Nog Even Blijven",
         "url": "https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Boccaccio",
         "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Making Love to Morgan Wallen",
         "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
@@ -413,39 +413,7 @@
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "COLOR OUTSIDE THE LINES",
-        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Lang Leve De Liefde",
-        "url": "https://open.spotify.com/album/10JieUGwi4xX0Je8SeWldV"
-      },
-      "artists": [
-        {
-          "name": "Menno Aben",
-          "url": "https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL"
-        }
-      ],
-      "duration_ms": 148472,
-      "name": "Lang Leve De Liefde",
-      "url": "https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -477,39 +445,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
-      },
-      "artists": [
-        {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
-        }
-      ],
-      "duration_ms": 192092,
-      "name": "Lekker Ding, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -529,7 +465,199 @@
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Als Het Donker Wordt",
+        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
+      },
+      "artists": [
+        {
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Als Het Donker Wordt",
+      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Lang Leve De Liefde",
+        "url": "https://open.spotify.com/album/10JieUGwi4xX0Je8SeWldV"
+      },
+      "artists": [
+        {
+          "name": "Menno Aben",
+          "url": "https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL"
+        }
+      ],
+      "duration_ms": 148472,
+      "name": "Lang Leve De Liefde",
+      "url": "https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "MONTAGEM RUGADA",
+        "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
+      },
+      "artists": [
+        {
+          "name": "cape",
+          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
+        },
+        {
+          "name": "JXNDRO",
+          "url": "https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "duration_ms": 92384,
+      "name": "MONTAGEM RUGADA",
+      "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "duration_ms": 192092,
+      "name": "Lekker Ding, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Vol avontuur",
+        "url": "https://open.spotify.com/album/1txxR6AhJym8skXydiLFci"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 150734,
+      "name": "Vol avontuur",
+      "url": "https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Dark Smile",
+        "url": "https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "IMHAPPY",
+          "url": "https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB"
+        }
+      ],
+      "duration_ms": 216705,
+      "name": "Dark Smile",
+      "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/1AuUkxpb1PbSbNfBsRoDOs"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5MsH0uY10wkMaPm6s9HtTP"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Vader & zoon",
+        "url": "https://open.spotify.com/album/1oXomN9t2CCXIAHbGbMlvQ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Berge",
+          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
+        }
+      ],
+      "duration_ms": 131140,
+      "name": "Vader & zoon",
+      "url": "https://open.spotify.com/track/1pyBvrqSmFtD3yUnXNTlJh"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Franchement !",
         "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
@@ -557,103 +685,7 @@
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/1AuUkxpb1PbSbNfBsRoDOs"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/5MsH0uY10wkMaPm6s9HtTP"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Vader & zoon",
-        "url": "https://open.spotify.com/album/1oXomN9t2CCXIAHbGbMlvQ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Berge",
-          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
-        },
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
-        }
-      ],
-      "duration_ms": 131140,
-      "name": "Vader & zoon",
-      "url": "https://open.spotify.com/track/1pyBvrqSmFtD3yUnXNTlJh"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Dark Smile",
-        "url": "https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc"
-      },
-      "artists": [
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        },
-        {
-          "name": "IMHAPPY",
-          "url": "https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB"
-        }
-      ],
-      "duration_ms": 216705,
-      "name": "Dark Smile",
-      "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "MONTAGEM RUGADA",
-        "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
-      },
-      "artists": [
-        {
-          "name": "cape",
-          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
-        },
-        {
-          "name": "JXNDRO",
-          "url": "https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        }
-      ],
-      "duration_ms": 92384,
-      "name": "MONTAGEM RUGADA",
-      "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Annie",
-        "url": "https://open.spotify.com/album/4ib2gF1REV9lhSSRsfUA6E"
-      },
-      "artists": [
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 117805,
-      "name": "Annie",
-      "url": "https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -669,79 +701,7 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Als Het Donker Wordt",
-        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
-      },
-      "artists": [
-        {
-          "name": "Pip Lieke Lucas",
-          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Als Het Donker Wordt",
-      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "ENCORE / VIANO",
-        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
-      },
-      "artists": [
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 111764,
-      "name": "VIANO",
-      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/2s2nXj6HRFPBZIISfgtMMV"
-      },
-      "artists": [
-        {
-          "name": "Meadow",
-          "url": "https://open.spotify.com/artist/4QfmOKKELtLGMqLh3jpmN8"
-        },
-        {
-          "name": "Junior Songfestival",
-          "url": "https://open.spotify.com/artist/3gmrmjvDMHwDrfsVvp3zrP"
-        }
-      ],
-      "duration_ms": 152850,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/2sm1BbFffVV3OtVorIvDXj"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
-      },
-      "artists": [
-        {
-          "name": "Paul Keen",
-          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Bad Bitches Luisteren Def",
         "url": "https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI"
@@ -757,47 +717,23 @@
       "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
-        "name": "Beste Zangers 2025 (Typhoon)",
-        "url": "https://open.spotify.com/album/0A3YNxnWuerVQNyTnPJxKu"
+        "name": "Annie",
+        "url": "https://open.spotify.com/album/4ib2gF1REV9lhSSRsfUA6E"
       },
       "artists": [
         {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
         }
       ],
-      "duration_ms": 178709,
-      "name": "Allerlaatste Liefdesliedje",
-      "url": "https://open.spotify.com/track/4qo6pcDIyyK61kTCRhZcBq"
+      "duration_ms": 117805,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Beste Zangers 2025 (Jacqueline Govaert)",
-        "url": "https://open.spotify.com/album/5CcZuAwDutprNV8t18k5vG"
-      },
-      "artists": [
-        {
-          "name": "Jacqueline Govaert",
-          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 197482,
-      "name": "Zonder Handen Rijden",
-      "url": "https://open.spotify.com/track/4MGaN2oL0pbwdRTZM9vOSk"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
@@ -817,7 +753,27 @@
       "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "ENCORE / VIANO",
+        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 111764,
+      "name": "VIANO",
+      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -837,23 +793,27 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
-        "name": "Vol avontuur",
-        "url": "https://open.spotify.com/album/1txxR6AhJym8skXydiLFci"
+        "name": "Beste Zangers 2025 (Typhoon)",
+        "url": "https://open.spotify.com/album/0A3YNxnWuerVQNyTnPJxKu"
       },
       "artists": [
         {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
         }
       ],
-      "duration_ms": 150734,
-      "name": "Vol avontuur",
-      "url": "https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ"
+      "duration_ms": 178709,
+      "name": "Allerlaatste Liefdesliedje",
+      "url": "https://open.spotify.com/track/4qo6pcDIyyK61kTCRhZcBq"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Baila de Gasolina",
         "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
@@ -869,7 +829,47 @@
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/2s2nXj6HRFPBZIISfgtMMV"
+      },
+      "artists": [
+        {
+          "name": "Meadow",
+          "url": "https://open.spotify.com/artist/4QfmOKKELtLGMqLh3jpmN8"
+        },
+        {
+          "name": "Junior Songfestival",
+          "url": "https://open.spotify.com/artist/3gmrmjvDMHwDrfsVvp3zrP"
+        }
+      ],
+      "duration_ms": 152850,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/2sm1BbFffVV3OtVorIvDXj"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Overdosis",
         "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
@@ -885,7 +885,23 @@
       "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
+      "album": {
+        "name": "The Last Airbender (VIP)",
+        "url": "https://open.spotify.com/album/35W2Oe7zayEFWvV7zM7GY1"
+      },
+      "artists": [
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        }
+      ],
+      "duration_ms": 150420,
+      "name": "The Last Airbender (VIP)",
+      "url": "https://open.spotify.com/track/56kwLMu6fi4WxztnHRRAUk"
+    },
+    {
+      "added_at": "2025-10-02 17:35:19",
       "album": {
         "name": "Voorbestemd",
         "url": "https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK"
@@ -905,44 +921,24 @@
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
     },
     {
-      "added_at": "2025-10-01 15:21:07",
+      "added_at": "2025-10-02 17:35:19",
       "album": {
-        "name": "Ma Tnsani (Yalla Habibi)",
-        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+        "name": "Beste Zangers 2025 (Jacqueline Govaert)",
+        "url": "https://open.spotify.com/album/5CcZuAwDutprNV8t18k5vG"
       },
       "artists": [
         {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
         },
         {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Ma Tnsani (Yalla Habibi)",
-      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
-    },
-    {
-      "added_at": "2025-10-01 15:21:07",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Manta",
-          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
+      "duration_ms": 197482,
+      "name": "Zonder Handen Rijden",
+      "url": "https://open.spotify.com/track/4MGaN2oL0pbwdRTZM9vOSk"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

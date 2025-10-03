@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Rainbow Kitten Surprise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,895 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,501 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 79 | [Burnin' Up](https://open.spotify.com/track/3UANpPF53vX9a37CfyJELS) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Burnin' Up](https://open.spotify.com/album/4gugYVVz2tMZt5duf7yhsI) | 3:34 |
 | 80 | [Sacrifice](https://open.spotify.com/track/6vU1HxvZ59dp8CNziQOP2S) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Start Again](https://open.spotify.com/album/2AGCv5fNiNdsxyHBhm7fiA) | 2:47 |
 | 81 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 |
-| 82 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
+| 82 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
 | 83 | [All My Friends Are So Depressed](https://open.spotify.com/track/1B96kEGScLcBqZNlKycVsR) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [All My Friends Are So Depressed](https://open.spotify.com/album/3NEtccNr2fy3ntFY7RUQoN) | 2:42 |
 | 84 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
 | 85 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 |

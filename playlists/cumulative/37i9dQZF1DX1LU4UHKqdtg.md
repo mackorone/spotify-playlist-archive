@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: izna
 
-1,581 songs - 3 day 11 hr 53 min
+1,582 songs - 3 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 | 2023-07-07 | 2023-08-19 |
 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 | 2024-03-19 | 2024-04-19 |
 | [BBB](https://open.spotify.com/track/3GvSGqmMKcTMrJZ7PftHq6) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3EfFYYLERgVflC4sKSOgkP) | 2:46 | 2024-04-18 | 2024-05-08 |
-| [BBB \(feat\. CHUU\)](https://open.spotify.com/track/7teSwvY24pM0s7UpCm8QkJ) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [BBB](https://open.spotify.com/album/2NR8lgTAAD0RLX6deLR8hR) | 2:58 | 2025-08-19 |  |
+| [BBB \(feat\. CHUU\)](https://open.spotify.com/track/7teSwvY24pM0s7UpCm8QkJ) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [BBB](https://open.spotify.com/album/2NR8lgTAAD0RLX6deLR8hR) | 2:58 | 2025-08-19 | 2025-10-03 |
 | [BBB \- Japanese ver\. \-](https://open.spotify.com/track/3gxK3qULU1oGMBBzbcb94c) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [ON THE VIOLET](https://open.spotify.com/album/3mSt4t8JUxngS6ftaqEdio) | 2:46 | 2024-07-17 | 2024-09-20 |
 | [Be Alright](https://open.spotify.com/track/5kcWOS5jxkScla3hmY8K94) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Alright](https://open.spotify.com/album/44iqPAjVuw1qlHaFAsjtMw) | 3:38 | 2024-11-29 | 2025-02-15 |
 | [Be Alright](https://open.spotify.com/track/0OnWu3G0i9Kg4Mqha5QvvH) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Be Alright](https://open.spotify.com/album/6DWLBLfRNofRfjgKozFKKV) | 2:51 | 2025-07-15 |  |
@@ -452,6 +452,7 @@
 | [Fiore](https://open.spotify.com/track/4oIaItu2ULn7YZvHV80NuF) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Fiore](https://open.spotify.com/album/3byddB2VZ8Bmrih7qSwT3k) | 3:08 | 2022-07-28 | 2022-08-23 |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-29 | 2022-12-16 |
 | [Fire To The Fuse](https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [Fire To The Fuse](https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL) | 3:44 | 2022-11-10 | 2023-02-01 |
+| [First Luv](https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [First Luv](https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4) | 2:56 | 2025-10-02 |  |
 | [Fizzled](https://open.spotify.com/track/70bB2mVy2OOOy2AhI9NyNK) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Fizzled](https://open.spotify.com/album/0jWIcdOR33k2u0cQeRd8sc) | 3:28 | 2023-09-14 | 2023-09-27 |
 | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/track/5tw1Ob0E4iRY8pjvgFk7oU) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/album/4eXphk6GWepEqGb9HsE0sk) | 2:14 | 2024-11-15 | 2025-02-07 |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-08-29 | 2022-11-02 |

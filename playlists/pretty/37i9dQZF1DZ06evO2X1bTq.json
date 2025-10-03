@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1254753,
+  "num_followers": 1254856,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAD9wwagiUsot9rYWKpwiyoM",
+  "snapshot_id": "aNxvAAAAAABoUSDxno/NogGjEvLaHDzW",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 294000,
       "name": "The Unforgettable Fire - Remastered 2009",
       "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
     },
     {
       "added_at": null,

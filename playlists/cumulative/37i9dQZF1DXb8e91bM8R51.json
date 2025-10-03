@@ -4067,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200860,
+      "name": "I'll Take Care of You (feat. Yebba)",
+      "url": "https://open.spotify.com/track/0tyusV99fK1l3x73AhciJI"
+    },
+    {
+      "album": {
         "name": "I'm the Man (with O.T. Genasis)",
         "url": "https://open.spotify.com/album/2mLjObRQAapXuH9MaouvyV"
       },
@@ -7554,7 +7576,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 177553,
       "name": "Super",
       "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"

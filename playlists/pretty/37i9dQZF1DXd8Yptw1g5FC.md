@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Tan Taşçı ve haftanın en iyi çıkışları!
+> Dedublüman ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,096 likes - 120 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,171 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 86 | [KİM](https://open.spotify.com/track/4vpbEmHJ0g8UMLfQnD949m) | [Cooper06](https://open.spotify.com/artist/75RLvQwd2RYFBAGMINGres) | [KİM](https://open.spotify.com/album/23LT2YvArlEpvhE4yrFIk8) | 2:46 |
 | 87 | [Karşılıksız Sevda](https://open.spotify.com/track/6p36y8IIj6eqR5YXGjYsUQ) | [Ufukta Delilik Var](https://open.spotify.com/artist/3JkzOdrZ8IHEBlPL1eZJmr) | [Karşılıksız Sevda](https://open.spotify.com/album/4pneY3q9GET92iLr7n6Ns3) | 3:24 |
 | 88 | [Beni Görüp](https://open.spotify.com/track/1SWGBabxkpl5k9TOAvSA2N) | [Fatma Aydoğan](https://open.spotify.com/artist/4jdsLmV5iC9cgEf0lnMvs8) | [Beni Görüp](https://open.spotify.com/album/4P9CJzMVEqmhIJWAW00O7G) | 4:18 |
-| 89 | [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:24 |
+| 89 | [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:20 |
 | 90 | [İçiyorum Durmadan](https://open.spotify.com/track/7iZuow06AJ9DMNX91LTzoA) | [ases](https://open.spotify.com/artist/6fBEahbQ0OEj1AX4DGyAyl) | [İçiyorum Durmadan](https://open.spotify.com/album/5KjjiMhDHl1XYv5H7g42vR) | 2:48 |
 | 91 | [Uyu Anam](https://open.spotify.com/track/4I1aqrkHjSbdfHxz9Zs8bV) | [Mengelez](https://open.spotify.com/artist/0YmKSLAY5SI1foE3K14u4g) | [Uyu Anam](https://open.spotify.com/album/4KqeEqlAXW8rv5rp6pLXBP) | 2:32 |
 | 92 | [PRETTY BABY](https://open.spotify.com/track/5IfIFcm36p2ASIGIAWy6ZY) | [Rabona](https://open.spotify.com/artist/1mwuHzE5NvoLLinPmLpOau) | [PRETTY BABY](https://open.spotify.com/album/4JTr0JeatyV3BdkH4ExxV1) | 2:17 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 119 | [Sleepless](https://open.spotify.com/track/5M0N5xRJeQ3GJrgiWOBfbk) | [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Sleepless](https://open.spotify.com/album/23bVjN3uG76zef0QFU5WaS) | 2:19 |
 | 120 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
 
-Snapshot ID: `AAAAANtYeJ69JzF2G1qS0y17SGVoMJLg`
+Snapshot ID: `AAAAAP6PbUcFzjyXFSxbrpo2XEu52N0C`

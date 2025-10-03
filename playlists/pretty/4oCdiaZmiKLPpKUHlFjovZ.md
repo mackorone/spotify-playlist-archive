@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Peezy, P\-Lo &amp; Rio Da Yung Og.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 35,319 likes - 93 songs - 4 hr 24 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 35,241 likes - 93 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

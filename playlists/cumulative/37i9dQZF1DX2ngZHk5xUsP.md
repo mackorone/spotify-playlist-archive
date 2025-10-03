@@ -4,7 +4,7 @@
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-107 songs - 7 hr 34 min
+108 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Di Atas Normal](https://open.spotify.com/track/2icjHMLGHCyFngdm7zYr34) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Di Atas Normal](https://open.spotify.com/album/5iuLwZKk0Hi0VnPuFzBQbl) | 3:29 | 2023-04-27 | 2025-09-27 |
 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 | 2023-03-16 |  |
 | [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 | 2023-03-16 |  |
-| [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 | 2023-03-16 |  |
+| [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 | 2023-03-16 | 2025-10-03 |
 | [Gadog \(Feat\. Edo Wallad\)](https://open.spotify.com/track/5c3Ym8TiEBm4UiwRB0HMgg) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA), [Edo Wallad](https://open.spotify.com/artist/0D04cY5W2BAhQu8WBaI2uc) | [Spin Your Wheels](https://open.spotify.com/album/57RqFaTMTeyPNl1BgBl7Y7) | 3:14 | 2023-03-16 | 2025-09-27 |
 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 | 2025-09-26 |  |
 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 | 2024-05-31 |  |
@@ -83,6 +83,7 @@
 | [Representasi](https://open.spotify.com/track/46QJytZHZONUQcqQVT3cMl) | [Topi Jerami](https://open.spotify.com/artist/6ZRpCV3WWjGXBhOgIvZqIA) | [Get In...](https://open.spotify.com/album/5odymU3r3v9fqnmrew7Leg) | 0:58 | 2023-03-16 | 2025-09-27 |
 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 | 2023-03-16 |  |
 | [SANTAIKAN SAJA](https://open.spotify.com/track/43pbB3WIe5C6aY65XTgfB1) | [Elcaff](https://open.spotify.com/artist/4FgJjHIh89lNEQdraaVbgx), [Ebith Beat A](https://open.spotify.com/artist/2PWNcj7gOPhtuNaltDU53D), [Manshur Angklung](https://open.spotify.com/artist/0JUo0aLjp9xWAO4Z9zZJNl), [DJ SuLFuric](https://open.spotify.com/artist/4O8IrS26zJUkZ7MgDDwtt5) | [SANTAIKAN SAJA](https://open.spotify.com/album/0zZx1FZxft5ZnJuxnOTcZ6) | 4:03 | 2024-02-08 | 2025-09-27 |
+| [Satu Kali](https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:44 | 2025-10-03 |  |
 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 | 2023-05-02 | 2025-09-27 |
 | [Segar](https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Jeruk Segar](https://open.spotify.com/album/2eyvObKjsKZx7Fe3VIPbxe) | 3:00 | 2023-06-08 | 2025-09-27 |
 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 | 2024-05-31 |  |

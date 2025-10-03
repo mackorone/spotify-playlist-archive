@@ -4,12 +4,13 @@
 
 > Rustig aan, ff ademen jij.
 
-44 songs - 1 hr 58 min
+45 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Doezoe Cash](https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [100 Doezoe Cash](https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb) | 3:14 | 2025-06-27 |  |
 | [4 Vingers](https://open.spotify.com/track/6oUk08VpowMAGNpDjbbWpa) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [4 Vingers](https://open.spotify.com/album/79Wf5T5dpeG2sSfdt843lS) | 2:27 | 2025-06-27 |  |
+| [50KG](https://open.spotify.com/track/2RfClfmY59U946jZ8I7XHc) | [Klemma](https://open.spotify.com/artist/1iL5mkCy8kbG1shtgGQY6i), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pergio](https://open.spotify.com/artist/4gUzXRDRTdIogRLkgLhyVW) | [50KG](https://open.spotify.com/album/3mjBldTBjTxrcBBjTGNqc0) | 2:04 | 2025-10-02 |  |
 | [AaAAaa](https://open.spotify.com/track/03ylxisG0KM0VlvyGLSSxu) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:26 | 2025-06-27 |  |
 | [Accepteren](https://open.spotify.com/track/6X2PJ1oPEf4GUcmyBuPOwm) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Levensles](https://open.spotify.com/album/4sBPiyibzraYzKn7MwPm2p) | 3:20 | 2025-06-27 |  |
 | [All Ice](https://open.spotify.com/track/3UgOeRwPmEoiwg2ejvUxQp) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 2:39 | 2025-06-27 | 2025-09-16 |
@@ -40,7 +41,7 @@
 | [Praten Over Rits](https://open.spotify.com/track/1mT7TOHeODI7zO6uPdoUso) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Praten Over Rits](https://open.spotify.com/album/2atk9xXL35RdoKHgMYLug0) | 3:17 | 2025-06-27 |  |
 | [Predator](https://open.spotify.com/track/0GIjjiXik7G0QuLmweZboU) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Predator](https://open.spotify.com/album/10M07vhXJQjwntUT6N7Fhi) | 2:22 | 2025-06-27 |  |
 | [Range Sessie](https://open.spotify.com/track/6JEdbFSIuOI4P67EwomHu8) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu) | 3:41 | 2025-06-27 |  |
-| [RATATA](https://open.spotify.com/track/1aQ3ZES9ITvoMrPdYJ0acT) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [93](https://open.spotify.com/album/5tEjoImmdtJeQVYQx9Ogy4) | 2:50 | 2025-06-27 |  |
+| [RATATA](https://open.spotify.com/track/1aQ3ZES9ITvoMrPdYJ0acT) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [93](https://open.spotify.com/album/5tEjoImmdtJeQVYQx9Ogy4) | 2:50 | 2025-06-27 | 2025-10-03 |
 | [Ready 4 War](https://open.spotify.com/track/4ZT0SLVKbIL3M5HreJTyLI) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Ready 4 War](https://open.spotify.com/album/4Jyi5of9SsyQmpXmhF6z3S) | 2:25 | 2025-06-27 |  |
 | [Smalle Wegen](https://open.spotify.com/track/6eL0xjEi0wuliOHy4VEhu7) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1) | [Smalle Wegen](https://open.spotify.com/album/7zeehn9vOJGj1iUwiZbM0H) | 2:33 | 2025-06-27 |  |
 | [Soldier](https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Soldier](https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv) | 2:34 | 2025-06-27 |  |

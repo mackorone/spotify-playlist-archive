@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61834,
+  "num_followers": 61830,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAANR0ImLCQi1KX+urrCYb3Qm6Z3oc",
   "tracks": [
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Boss Tenor (RVG Remasters / Remastered 2006)",
+        "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "My Romance - Remastered 2006",
+      "url": "https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn"
+    },
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 324200,
       "name": "Skating In Central Park",
       "url": "https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "Boss Tenor (RVG Remasters / Remastered 2006)",
-        "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "My Romance - Remastered 2006",
-      "url": "https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "My Sweetest You",
-        "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Leroy Quartet",
-          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
-        }
-      ],
-      "duration_ms": 187004,
-      "name": "My Sweetest You",
-      "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/0cbgMntTRsvEASZAdPCrFo"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "The Great Ennui",
-        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
+        "name": "My Sweetest You",
+        "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
       "artists": [
         {
-          "name": "Tadd Norman",
-          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
         }
       ],
-      "duration_ms": 201153,
-      "name": "The Great Ennui",
-      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
+      "duration_ms": 187004,
+      "name": "My Sweetest You",
+      "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -303,6 +287,22 @@
       "duration_ms": 287373,
       "name": "Emily",
       "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "The Great Ennui",
+        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "duration_ms": 201153,
+      "name": "The Great Ennui",
+      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Fair Weather",
-        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -419,6 +419,34 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Straight Road",
+        "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 285969,
+      "name": "A Flower Is a Lovesome Thing",
+      "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -451,34 +479,6 @@
       "duration_ms": 244866,
       "name": "Sous Le Ciel De Paris",
       "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "Straight Road",
-        "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 285969,
-      "name": "A Flower Is a Lovesome Thing",
-      "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
         "name": "The Original Quartet With Chet Baker",
         "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Solo Guitar",
-        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
-      },
-      "artists": [
-        {
-          "name": "Ted Greene",
-          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Send In The Clowns",
-      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Solo Guitar",
+        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
+      },
+      "artists": [
+        {
+          "name": "Ted Greene",
+          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Send In The Clowns",
+      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
+      },
+      "artists": [
+        {
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -899,38 +915,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
-      },
-      "artists": [
-        {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Bob Acri",
         "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "And Suddenly There Was Love",
-        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
       "artists": [
         {
-          "name": "Jonah Aardekker",
-          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
         }
       ],
-      "duration_ms": 267142,
-      "name": "And Suddenly There Was Love",
-      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -979,18 +963,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
+        "name": "And Suddenly There Was Love",
+        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
       },
       "artists": [
         {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+          "name": "Jonah Aardekker",
+          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
         }
       ],
-      "duration_ms": 249453,
-      "name": "Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
+      "duration_ms": 267142,
+      "name": "And Suddenly There Was Love",
+      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1007,6 +991,22 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "duration_ms": 249453,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
-      },
-      "artists": [
-        {
-          "name": "Andy Sheppard Quartet",
-          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
+      },
+      "artists": [
+        {
+          "name": "Andy Sheppard Quartet",
+          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Surprises",
-      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
-    },
-    {
-      "added_at": "2025-09-29 06:51:08",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2025-09-29 06:51:08",
       "album": {
-        "name": "Plays Ballads",
-        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         }
       ],
-      "duration_ms": 385219,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
+      "duration_ms": 387733,
+      "name": "Surprises",
+      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
     },
     {
       "added_at": "2025-09-29 06:51:08",
@@ -1231,6 +1215,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2025-09-29 06:51:08",
+      "album": {
+        "name": "Plays Ballads",
+        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 385219,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2025-09-29 06:51:08",

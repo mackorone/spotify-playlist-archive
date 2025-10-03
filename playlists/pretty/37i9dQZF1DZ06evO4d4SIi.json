@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 51660,
+  "num_followers": 51706,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACUlFp+9zXjmU149I8hFKAL",
+  "snapshot_id": "aNxvAAAAAAAF22MiqtwHXu3MlFXkFM6S",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know You Like That",
-        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 176450,
-      "name": "Know You Like That",
-      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 188266,
       "name": "Part Of It",
       "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know You Like That",
+        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 176450,
+      "name": "Know You Like That",
+      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
     },
     {
       "added_at": null,

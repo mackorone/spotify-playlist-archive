@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 137666,
       "name": "Pra Ae",
       "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 158750,
       "name": "Reaching Waves",
       "url": "https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td"
@@ -3221,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Where the sun goes down (Nature Edit)",
+        "url": "https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM"
+      },
+      "artists": [
+        {
+          "name": "Aurelin",
+          "url": "https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Where the sun goes down (Nature Edit)",
+      "url": "https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4"
+    },
+    {
+      "album": {
         "name": "Wind of Serenity",
         "url": "https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn"
       },
@@ -3236,6 +3254,24 @@
       "duration_ms": 160171,
       "name": "Wind of Serenity",
       "url": "https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil"
+    },
+    {
+      "album": {
+        "name": "Winds for Serenity",
+        "url": "https://open.spotify.com/album/1vZaQoGogZ3sf3AJRrUM7w"
+      },
+      "artists": [
+        {
+          "name": "Willow Ward",
+          "url": "https://open.spotify.com/artist/6x28OJxhDL0xICscyvqkxA"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195371,
+      "name": "Winds for Serenity",
+      "url": "https://open.spotify.com/track/737MJBBOR64E9U7JX25Qol"
     },
     {
       "album": {

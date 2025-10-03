@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-360 songs - 17 hr 0 min
+361 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,13 +88,14 @@
 | [Dreamer's Lagoon](https://open.spotify.com/track/2ThXAQ9aRCJEBi3uwL6szQ) | [Infinity Drifter](https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B) | [Dreamer's Lagoon](https://open.spotify.com/album/0lUTIBDFnQAtBaK24GrjgR) | 3:34 | 2025-05-28 |  |
 | [Drift Into Bliss](https://open.spotify.com/track/6zmTz7l8hkKEvRbB2FOv3o) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drift Into Bliss](https://open.spotify.com/album/08Jdy5GrKftQxxM8GXSuKx) | 3:32 | 2024-10-24 |  |
 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-18 |  |
-| [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-01 |  |
+| [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-01 | 2025-10-03 |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-01-24 | 2024-08-23 |
 | [Early Morning Drizzle](https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Drizzle Meditation](https://open.spotify.com/album/5mx1V4QPaVfevxhDPiL3eI) | 3:19 | 2023-04-24 | 2025-04-02 |
 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 | 2023-01-24 | 2023-12-14 |
 | [Echoes of the Cosmos 432Hz](https://open.spotify.com/track/5aiYzJRBGhVLK7p8LOdj7v) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Echoes of the Cosmos 432Hz](https://open.spotify.com/album/2ini0RSh7ifKoruvboT8E2) | 2:24 | 2024-08-22 |  |
 | [Eileanan](https://open.spotify.com/track/0RF2PYLqYLIHhUXRBhj3rY) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Eileanan](https://open.spotify.com/album/61OZWMQSih7G253a5ediFD) | 2:34 | 2024-03-05 |  |
 | [Ekatā / Unity](https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Unity](https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2) | 2:57 | 2023-10-26 |  |
+| [Emerald](https://open.spotify.com/track/4Zu4GsdQ99Ji9nrTOLFLWy) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Emerald](https://open.spotify.com/album/0Qj3NmEMG2Q2KIshcah0eL) | 3:35 | 2025-10-01 |  |
 | [Endless Horizon](https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Endless Horizon](https://open.spotify.com/album/6cOF3lmkr9yfcMZWdENcEt) | 2:59 | 2023-10-26 |  |
 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-22 |  |
 | [Equanimity](https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Equanimity](https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7) | 2:26 | 2025-04-11 |  |

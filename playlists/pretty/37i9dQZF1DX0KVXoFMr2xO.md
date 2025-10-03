@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,328 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,326 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Halloween Forest, Wind, Spooky Sounds](https://open.spotify.com/track/34a6vjzt60Ah3Hmg0hwWi6) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Halloween Soundscapes](https://open.spotify.com/album/2SNBvjiN8MlijC6IADnOTl) | 3:20 |
-| 2 | [Who's There?](https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:00 |
+| 2 | [Who's There?](https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9) | [Nevium](https://open.spotify.com/artist/18h6bUDAke6kPNEuB3VcMM) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:00 |
 | 3 | [Caution Ahead](https://open.spotify.com/track/2IhA6RgoxINW74as1QFRxl) | [Terrorizers](https://open.spotify.com/artist/67qQXzVrcWEE1cA9OwQpPL) | [Halloween Madness](https://open.spotify.com/album/0QOVszoGgMjfkl02eM2oIm) | 5:23 |
 | 4 | [Mysterious Halloween Mansion Sounds](https://open.spotify.com/track/5ZfPXUJQ7wndAtPpRhl7aY) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Halloween Soundscapes](https://open.spotify.com/album/2SNBvjiN8MlijC6IADnOTl) | 3:20 |
 | 5 | [Scary Spirits](https://open.spotify.com/track/5Ulwio7QImhKXPN7hExRND) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Haunted Halloween Sounds](https://open.spotify.com/album/5mOVPp87jBaFRXTDqpQ6Hv) | 2:45 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 91 | [The Glitches](https://open.spotify.com/track/5CK9TldlQMQas582nVUHZU) | [Dark Dark Night](https://open.spotify.com/artist/2pfCaY4iv4rCELaEJrAPao) | [Scary Moments](https://open.spotify.com/album/3SYaFklowfZf9pRD1PI39O) | 5:44 |
 | 92 | [Halloween Party](https://open.spotify.com/track/15asDn8RMTDAEo40H6XdJU) | [Asia Ann Deep](https://open.spotify.com/artist/3PybJpOx0gEVTUDL4G6dXQ) | [Creepy Sound Effects](https://open.spotify.com/album/0Z4ChW6Fo8SwWc0g5sgi0o) | 2:35 |
 | 93 | [Haunted Hill House](https://open.spotify.com/track/3QTd101OyKznUcslcZE0wL) | [Pragius](https://open.spotify.com/artist/2LliWMVzJrsQmsRfEn8NVJ) | [Creepy Ambience](https://open.spotify.com/album/32LgDWdMoovNxQDvj5z1Ln) | 3:52 |
-| 94 | [Halloween Night in the Forest](https://open.spotify.com/track/1Jfouo7BPAseH72MXYNS9n) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:04 |
+| 94 | [Halloween Night in the Forest](https://open.spotify.com/track/1Jfouo7BPAseH72MXYNS9n) | [Nevium](https://open.spotify.com/artist/18h6bUDAke6kPNEuB3VcMM) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:04 |
 | 95 | [Creepy Sound Effects \(Halloween\)](https://open.spotify.com/track/5NZFx4TSzcVy47d9CZ0Gzr) | [Scary Halloween Sounds](https://open.spotify.com/artist/03diemJmgU97kswAF7s8e6) | [Scary Halloween Sounds \- Halloween Music](https://open.spotify.com/album/0PmxDAWxIoit477d8jk7Kc) | 4:08 |
 | 96 | [Scary Night](https://open.spotify.com/track/43feua08DY9JNyC6cVVOME) | [Dr Dark Noise](https://open.spotify.com/artist/6l6ExhNwsH5l2GPAfYBtNP) | [Halloween Ambience](https://open.spotify.com/album/4xmU4hVsK2KKnxfAfMRIC2) | 3:08 |
 | 97 | [Ghosts in the Yard](https://open.spotify.com/track/4lYnKyvUnRUPYtEVvsC4Hw) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Haunted Halloween Sounds](https://open.spotify.com/album/5mOVPp87jBaFRXTDqpQ6Hv) | 2:45 |

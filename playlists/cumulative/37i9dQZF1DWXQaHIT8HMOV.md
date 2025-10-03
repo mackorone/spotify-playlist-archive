@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka & Jaz Karis
+> Homegrown Ugandan gems in one playlist\. Cover: Pia Pounds
 
-478 songs - 1 day 0 hr 27 min
+479 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nikushike](https://open.spotify.com/track/0VF8j5uoRE5l929BeZkhJB) | [Kamalaika](https://open.spotify.com/artist/7dRpsd01zNedZeSEZWkpIu) | [Nikushike](https://open.spotify.com/album/00P9EnFEe19TeSyjhVe9kP) | 3:33 | 2023-10-20 | 2024-02-03 |
 | [Njagala Vibe](https://open.spotify.com/track/04k1NR5oYy8bZzwTnlah1r) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 3:02 | 2024-03-15 | 2024-04-06 |
+| [Nkisusamu](https://open.spotify.com/track/3QUyCTyxXSB4egQhLa45gZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Nkisusamu](https://open.spotify.com/album/3TsSnRHtcCmg5MJa56HV0t) | 2:58 | 2025-10-02 |  |
 | [Nkuchekele](https://open.spotify.com/track/5hL3C8ThGlO0uqcXmpM8EH) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:03 | 2024-03-15 | 2024-04-06 |
 | [Nkujjukira](https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkujjukira](https://open.spotify.com/album/57ag105JslVN8kfhARNrL3) | 3:05 | 2023-08-18 | 2024-05-04 |
 | [Nkuwe](https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Kin Bella](https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2) | [Nkuwe](https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C) | 3:41 | 2023-03-24 | 2023-06-07 |
@@ -438,7 +439,7 @@
 | [Togenda](https://open.spotify.com/track/0xhNGZYyHEbsK5MkiuvRsK) | [KabiKabi](https://open.spotify.com/artist/5DrRCNTpS5z6OYS8BRg147) | [Morphed](https://open.spotify.com/album/3FxaHwvCvsfjHLJ8croNDf) | 3:26 | 2024-07-04 | 2024-11-16 |
 | [Tok Tok](https://open.spotify.com/track/3ec8B63feV7XSlJ2qgKJK1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Pesh Fisher](https://open.spotify.com/artist/26iiAIe5xTwPLOEtVcb1zV) | [Tok Tok](https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh) | 2:36 | 2023-03-03 | 2023-04-28 |
 | [Tompa](https://open.spotify.com/track/6MopLDu0gQs38srcOJyWqv) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [K&K](https://open.spotify.com/artist/0u1iQxzpvXUIc2U6uQttEn) | [Tompa](https://open.spotify.com/album/1NsrqpQKmh3uWkHV1pt3Q9) | 2:55 | 2024-06-07 | 2025-07-11 |
-| [Tonsaana](https://open.spotify.com/track/1k2YVfpR3EoV1PpD6hGx1T) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Tonsaana](https://open.spotify.com/album/1djPO5uShTNZQOI7JvAIFN) | 4:04 | 2025-08-21 |  |
+| [Tonsaana](https://open.spotify.com/track/1k2YVfpR3EoV1PpD6hGx1T) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Tonsaana](https://open.spotify.com/album/1djPO5uShTNZQOI7JvAIFN) | 4:04 | 2025-08-21 | 2025-10-03 |
 | [Toora Love](https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Toora Love](https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE) | 3:06 | 2022-11-25 | 2022-12-25 |
 | [Touch & Continue](https://open.spotify.com/track/6mPq6tpr6ajrKOzPpHMXUr) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Touch & Continue \(Producer Edition\)](https://open.spotify.com/album/5nTlbq8N82xG6fk33PxmWm) | 2:44 | 2024-03-15 | 2024-04-06 |
 | [Towaga](https://open.spotify.com/track/1tnng1avGX947WavDejvbT) | [Bad Sparksy](https://open.spotify.com/artist/6PepBSUCzpxoiKCx9sfrdP) | [Towaga](https://open.spotify.com/album/09yJGNEry9NhmcYnETl8nl) | 3:25 | 2024-08-08 | 2024-12-14 |

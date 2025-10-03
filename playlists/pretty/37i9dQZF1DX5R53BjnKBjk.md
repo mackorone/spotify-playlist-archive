@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,011 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,010 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 51 | [De repente você](https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN) | [Marta Maria](https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H) | [De repente você](https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC) | 2:40 |
 | 52 | [Meu Mantra pra Te Esquecer](https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Meu Mantra pra Te Esquecer](https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn) | 3:53 |
 | 53 | [Esse Jogo](https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI) | [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [Esse Jogo](https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt) | 2:24 |
-| 54 | [Fora de Série](https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R) | [Mari Blue](https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb) | [Fora de Série](https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30) | 3:18 |
-| 55 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 |
+| 54 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 |
+| 55 | [Fora de Série](https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R) | [Mari Blue](https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb) | [Fora de Série](https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30) | 3:18 |
 | 56 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 |
 | 57 | [Ô Lulu](https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [Ô Lulu](https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP) | 3:04 |
 | 58 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 |

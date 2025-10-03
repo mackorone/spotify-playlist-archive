@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,415 likes - 78 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,411 likes - 78 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 20 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 |
 | 21 | [Suzy Snowflake](https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Suzy Snowflake](https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki) | 2:48 |
 | 22 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 |
-| 23 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
+| 23 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 24 | [Fireplace and Fairy Lights](https://open.spotify.com/track/5GoW1GgYspUGFC7G751xpH) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Fireplace and Fairy Lights](https://open.spotify.com/album/02Reef7Ut8s5zJ04wXCdo2) | 2:39 |
 | 25 | [Winter Lights on Christmas Eve](https://open.spotify.com/track/2WdZKwHQmVh9Z6mViudQf2) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Winter Lights on Christmas Eve](https://open.spotify.com/album/7a1wXo2JMcZo92VCZJkjVl) | 3:11 |
 | 26 | [Frosty The Snowman](https://open.spotify.com/track/4z3fcWQdyZEs6lULJ87TI0) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 3:21 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 63 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
 | 64 | [Tannenbaum Walk](https://open.spotify.com/track/5eXwU6uL1hlsgtMjpt9Tv0) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [Tannenbaum Walk](https://open.spotify.com/album/0cbyMLrn0YrSgtz8l5CTTY) | 3:47 |
 | 65 | [O Come All Ye Faithful](https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 2:40 |
-| 66 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
+| 66 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
 | 67 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 68 | [I Wonder as I Wander](https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:57 |
 | 69 | [The Sussex carol](https://open.spotify.com/track/2LVzktB1XdBMjfUIgvsWmq) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [The Sussex carol](https://open.spotify.com/album/6eEeB3BkpWLJaFU6wILJtb) | 1:12 |

@@ -2,7 +2,7 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Favé x Genezio
+> Le R&B français, nouvelle ère\. Photo : Rsko
 
 546 songs - 1 day 1 hr 51 min
 

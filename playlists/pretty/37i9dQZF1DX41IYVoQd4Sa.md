@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,675 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,681 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 49 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 50 | [אני אתה אני](https://open.spotify.com/track/13AhCOHUBRLxSM8bP49T67) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [שירים, כאבי לב](https://open.spotify.com/album/28wYNOpaaiB1ryhzxe0yjn) | 2:32 |
 
-Snapshot ID: `AAAAAAibZ1l5WojBrIn5goIa5OaLeZv7`
+Snapshot ID: `AAAAADLZSn45Y80HlyosQRo3bMfLXmsP`

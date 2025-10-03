@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-439 songs - 21 hr 57 min
+440 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [konfetti](https://open.spotify.com/track/1qL6kHMI4KPCzG08xXQY1d) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [konfetti](https://open.spotify.com/album/3l1hJrenFvmlaFVfKCGeuo) | 2:41 | 2024-08-22 | 2024-09-13 |
 | [Kort Fortalt](https://open.spotify.com/track/0n6xZDTwRiQBGtKaNYE320) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [Kort Fortalt](https://open.spotify.com/album/1CvNDnXkrSekpKgi1J7CXc) | 2:34 | 2025-04-30 | 2025-07-04 |
 | [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-08-29 | 2024-09-13 |
+| [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 | 2025-10-02 |  |
 | [Language Of Love](https://open.spotify.com/track/5DXEoQhgxXds4gwNgTQfHP) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Language Of Love](https://open.spotify.com/album/6UWP1g39NtTOVHmv7c0gTP) | 2:40 | 2025-03-20 | 2025-07-04 |
 | [Last Forever](https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Last Forever](https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg) | 3:43 | 2025-09-04 |  |
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-06-27 | 2025-03-28 |

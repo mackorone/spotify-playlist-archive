@@ -2179,7 +2179,7 @@
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 534026,
+      "duration_ms": 534027,
       "name": "Judah - Live",
       "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
     },
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 732531,
       "name": "ORUN SI (OPEN HEAVENS)",
       "url": "https://open.spotify.com/track/20H0O1lG1btliyXHzvHXcW"
@@ -4192,10 +4192,28 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 369509,
       "name": "The Name of The Lord - Live",
       "url": "https://open.spotify.com/track/1O9nZfEj56LnR8JCCZcX3N"
+    },
+    {
+      "album": {
+        "name": "The Pledge (Live)",
+        "url": "https://open.spotify.com/album/7Mz7eRC4XJfUodPpsv1ene"
+      },
+      "artists": [
+        {
+          "name": "Kemelord",
+          "url": "https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558000,
+      "name": "The Pledge - Live",
+      "url": "https://open.spotify.com/track/0YWItlYRReDb0f6HAlgchV"
     },
     {
       "album": {
@@ -4470,6 +4488,24 @@
       "duration_ms": 336000,
       "name": "Uzo - Live",
       "url": "https://open.spotify.com/track/3iQ8YBHQDvcYXa8MUFzb6i"
+    },
+    {
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/4OXhCRAq0wk40VNBvB9uh1"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417390,
+      "name": "Victory - Live",
+      "url": "https://open.spotify.com/track/22knwcDjpzGLrWb1QoMTq4"
     },
     {
       "album": {

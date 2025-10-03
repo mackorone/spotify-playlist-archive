@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "The Most Important Jazz Album Of 1964/65",
+        "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "Whatever Possess'd Me",
+      "url": "https://open.spotify.com/track/3gpRA8ENMOuqxWyzlUZiVJ"
+    },
+    {
+      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },

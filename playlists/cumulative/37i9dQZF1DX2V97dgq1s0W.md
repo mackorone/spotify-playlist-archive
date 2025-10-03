@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Bellah
+> The best voices in R&B\. Cover: Lianne La Havas
 
-516 songs - 1 day 3 hr 17 min
+520 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-05-14 | 2023-11-17 |
 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 | 2025-06-12 |  |
 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 | 2025-01-24 | 2025-07-25 |
+| [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 | 2025-10-02 |  |
 | [Disaster](https://open.spotify.com/track/4DEgSzgOIA0PlALY6iv3NI) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Forest Fire](https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL) | 3:23 | 2024-10-24 | 2025-05-09 |
 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 | 2023-07-21 | 2023-09-23 |
 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 | 2025-04-11 |  |
@@ -237,6 +238,7 @@
 | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv) | 3:57 | 2023-11-17 | 2024-01-26 |
 | [June 15th](https://open.spotify.com/track/6LikRE4RwaYvfm79UwEU3X) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [June 15th](https://open.spotify.com/album/3NZoQUV5mWoXx9CrCZvulx) | 2:43 | 2023-05-14 | 2023-08-19 |
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-19 |  |
+| [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-02 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2023-02-23 | 2023-05-15 |
 | [Khayaal](https://open.spotify.com/track/4Yf5yQGD3pMKhhQJn85kpR) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Khayaal](https://open.spotify.com/album/4OW44suWx0p3UR6n3QGTfm) | 2:39 | 2023-02-23 | 2023-05-15 |
 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel Abbott](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 | 2025-04-25 | 2025-06-27 |
@@ -298,7 +300,7 @@
 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 | 2023-08-25 | 2024-09-06 |
 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 | 2025-05-01 | 2025-09-06 |
 | [Moonlight](https://open.spotify.com/track/2wUnNvShBARNL6a6HwIPr4) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 3:50 | 2025-09-26 |  |
-| [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-05-09 |  |
+| [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-05-09 | 2025-10-03 |
 | [Motion Sickness](https://open.spotify.com/track/6efGBx7ImAe7IabZmALSOG) | [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Motion Sickness](https://open.spotify.com/album/7kWSwxp6LBxZESeiOBVuqn) | 3:01 | 2024-05-20 | 2025-01-17 |
 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 | 2025-07-24 |  |
 | [Murder](https://open.spotify.com/track/19OgWOJ9fckycODdY7L23X) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [Murder](https://open.spotify.com/album/6e6vJim2z4DY53x24S4j5w) | 2:55 | 2025-09-11 |  |
@@ -477,7 +479,7 @@
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-22 | 2025-09-06 |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 |  |
-| [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 |  |
+| [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-10-03 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-08-28 |  |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-19 | 2025-01-31 |
 | [Try and fit in](https://open.spotify.com/track/73zDIHFRM1Uw0wvH4ck35c) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 1:56 | 2023-09-29 | 2024-01-26 |
@@ -488,7 +490,9 @@
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2023-11-17 | 2024-02-28 |
 | [Unravel](https://open.spotify.com/track/06cTLhOXxkVVKGKXuOuCJ2) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 2:40 | 2024-03-19 | 2024-04-19 |
 | [Uptown](https://open.spotify.com/track/5noIlg392n8MvtJdZrQYLB) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Uptown](https://open.spotify.com/album/3DL2QS5GIpBAAGY24ciW2y) | 3:15 | 2023-09-22 | 2023-11-24 |
-| [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 | 2025-08-14 |  |
+| [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 | 2025-08-14 | 2025-10-03 |
+| [Useless \(Without You\) \- Begging Remix](https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Useless \(Without You\) \[Begging Remix\]](https://open.spotify.com/album/0bqXDEj0z7zFICu38GyvEt) | 3:07 | 2025-10-02 |  |
+| [Vacancy](https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U) | 3:03 | 2025-10-02 |  |
 | [Villain](https://open.spotify.com/track/3n4qXxdaubi3pQaMYRWK9S) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [Villain](https://open.spotify.com/album/6J1aRRFw6FyBV071gYsvqk) | 2:26 | 2023-05-14 | 2023-07-22 |
 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-05-31 | 2024-11-08 |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-06-09 |

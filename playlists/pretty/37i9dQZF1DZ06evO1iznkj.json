@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 182934,
+  "num_followers": 183025,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABW8nyCrt6jSJyTtVIt6Akt",
+  "snapshot_id": "aNxvAAAAAADHoH4QMtwxbt0u1gUV+6fq",
   "tracks": [
     {
       "added_at": null,
@@ -263,18 +263,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown 2",
-        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
       "artists": [
         {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 151539,
-      "name": "Who You Foolin",
-      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
+      "duration_ms": 247054,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
     },
     {
       "added_at": null,
@@ -315,26 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harder Than Ever",
-        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+        "name": "Drip or Drown 2",
+        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 247054,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
+      "duration_ms": 151539,
+      "name": "Who You Foolin",
+      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
     },
     {
       "added_at": null,
@@ -479,26 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness (feat. Asake & Gunna)",
-        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+        "name": "Drip or Drown",
+        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
       },
       "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 174743,
-      "name": "Happiness (feat. Asake & Gunna)",
-      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+      "duration_ms": 126168,
+      "name": "Drip or Drown",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
     },
     {
       "added_at": null,
@@ -523,18 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown",
-        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
+        "name": "Happiness (feat. Asake & Gunna)",
+        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
       "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 126168,
-      "name": "Drip or Drown",
-      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
+      "duration_ms": 174743,
+      "name": "Happiness (feat. Asake & Gunna)",
+      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
       "added_at": null,

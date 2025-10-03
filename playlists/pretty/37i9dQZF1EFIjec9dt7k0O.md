@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,967 likes - 215 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,969 likes - 215 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 149 | [The Haves](https://open.spotify.com/track/7qKRueZZIBzHdepFiZPKMK) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 5:07 |
 | 150 | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/7KYqKoxZ2Z0cEItblj352Q) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
 | 151 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 |
-| 152 | [Immortal \(feat\. Mike McCready\)](https://open.spotify.com/track/2daoDEsF06ULueoH2eGhIg) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Mike McCready](https://open.spotify.com/artist/7njqqUBXHc5fpyXmUlfOUL) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 3:03 |
-| 153 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 152 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 153 | [Immortal \(feat\. Mike McCready\)](https://open.spotify.com/track/2daoDEsF06ULueoH2eGhIg) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Mike McCready](https://open.spotify.com/artist/7njqqUBXHc5fpyXmUlfOUL) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 3:03 |
 | 154 | [Sinkin' In](https://open.spotify.com/track/5xiRvuO2vgFNDwd6FmSoTd) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise](https://open.spotify.com/album/0Nt9OVNsmAcsEYXULP0ZBD) | 3:38 |
 | 155 | [Cowboys](https://open.spotify.com/track/4pQx11xYo2rNP5HdOoaLgt) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:58 |
 | 156 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 214 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 215 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `Ab9ungAAAABwRDCpyEUTLr8S0vxXFY8K`
+Snapshot ID: `Ab90XAAAAADF+Ah19e2VO8u+pA+lcLDj`

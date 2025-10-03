@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133099,
+  "num_followers": 133096,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAA68tkZkov3f+tZuq1odhny",
+  "snapshot_id": "aNxvAAAAAABwDQwHc1CdJpXHzNO7nplT",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Quem Merecia",
         "url": "https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 350914,
       "name": "Eu Quem Merecia",
       "url": "https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": null,
@@ -95,6 +95,38 @@
       "duration_ms": 260620,
       "name": "Cicatrizes",
       "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 264103,
+      "name": "Quando Eu Chorar",
+      "url": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": null,
@@ -139,38 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 264103,
-      "name": "Quando Eu Chorar",
-      "url": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea \u00e9 Precioso",
         "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 262896,
       "name": "Voc\u00ea \u00e9 Precioso",
       "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288809,
+      "name": "Advogado Fiel",
+      "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
     },
     {
       "added_at": null,
@@ -211,22 +227,6 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288809,
-      "name": "Advogado Fiel",
-      "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incompar\u00e1vel",
-        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 206332,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/5aZMrryYfsOa0GV95kjPO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Messias (Ao Vivo)",
         "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 489442,
       "name": "Messias - Ao Vivo",
       "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 206332,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/5aZMrryYfsOa0GV95kjPO2"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
+      "duration_ms": 287602,
+      "name": "Com os Olhos da F\u00e9",
+      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 287602,
-      "name": "Com os Olhos da F\u00e9",
-      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siga em Frente",
+        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 214041,
+      "name": "Cante Aleluia",
+      "url": "https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recompensa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 231754,
       "name": "Recompensa (Ao Vivo)",
       "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siga em Frente",
-        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 214041,
-      "name": "Cante Aleluia",
-      "url": "https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82"
     },
     {
       "added_at": null,

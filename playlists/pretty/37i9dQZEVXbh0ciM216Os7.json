@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAn/pVSE5y7agshoqQvPkiY",
+  "snapshot_id": "AAAAAAAAAADHzKczrSYv0fjqtK0yZK+i",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 254729,
-      "name": "Relaxin'",
-      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
         "name": "Dali Aint Dead",
         "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
       },
@@ -239,6 +223,46 @@
       "duration_ms": 102295,
       "name": "Push Me Around",
       "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 254729,
+      "name": "Relaxin'",
+      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "Circles (VIP Mix)",
+        "url": "https://open.spotify.com/album/1lUSwojfHrx1Pcbgfwvqe4"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "PEACH MARTINE",
+          "url": "https://open.spotify.com/artist/4xX9jZuIg4O1Cc59vjt0EP"
+        },
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "duration_ms": 170997,
+      "name": "Circles (VIP Mix)",
+      "url": "https://open.spotify.com/track/0X9QsL3XTL3B4foiEyNhOd"
     },
     {
       "added_at": "2025-09-26 04:00:00",
@@ -271,30 +295,6 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "Circles (VIP Mix)",
-        "url": "https://open.spotify.com/album/1lUSwojfHrx1Pcbgfwvqe4"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "PEACH MARTINE",
-          "url": "https://open.spotify.com/artist/4xX9jZuIg4O1Cc59vjt0EP"
-        },
-        {
-          "name": "secs on the beach",
-          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
-        }
-      ],
-      "duration_ms": 170997,
-      "name": "Circles (VIP Mix)",
-      "url": "https://open.spotify.com/track/0X9QsL3XTL3B4foiEyNhOd"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
-        "name": "Trip Tape III",
-        "url": "https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Camouflage",
-      "url": "https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV"
     },
     {
       "added_at": "2025-09-26 04:00:00",
@@ -351,26 +335,18 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "Look At 'Em",
-        "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
+        "name": "Trip Tape III",
+        "url": "https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM"
       },
       "artists": [
         {
-          "name": "Erick Sermon",
-          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 170020,
-      "name": "Look At 'Em",
-      "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
+      "duration_ms": 145426,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV"
     },
     {
       "added_at": "2025-09-26 04:00:00",
@@ -391,6 +367,30 @@
       "duration_ms": 220493,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/2eAyPnMrdMLkuYaUQsWl8K"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "Look At 'Em",
+        "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 170020,
+      "name": "Look At 'Em",
+      "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
     },
     {
       "added_at": "2025-09-26 04:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-09-26 04:00:00",
       "album": {
-        "name": "Sequent",
-        "url": "https://open.spotify.com/album/3b0vHemWnf2PWtQiykanff"
-      },
-      "artists": [
-        {
-          "name": "Jamie Leeming",
-          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Storm 5",
-      "url": "https://open.spotify.com/track/5si9oG5RFC1ytjGrhRHMMV"
-    },
-    {
-      "added_at": "2025-09-26 04:00:00",
-      "album": {
         "name": "Magic City",
         "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 263292,
       "name": "Married To The Game",
       "url": "https://open.spotify.com/track/009kSF6acuUtsbexfRIhU9"
+    },
+    {
+      "added_at": "2025-09-26 04:00:00",
+      "album": {
+        "name": "Sequent",
+        "url": "https://open.spotify.com/album/3b0vHemWnf2PWtQiykanff"
+      },
+      "artists": [
+        {
+          "name": "Jamie Leeming",
+          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Storm 5",
+      "url": "https://open.spotify.com/track/5si9oG5RFC1ytjGrhRHMMV"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

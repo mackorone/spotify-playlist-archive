@@ -951,6 +951,28 @@
     },
     {
       "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+    },
+    {
+      "album": {
         "name": "Cad\u00ea Voc\u00ea",
         "url": "https://open.spotify.com/album/2WfDm5tqsrSVe0h82I7TpP"
       },
@@ -5270,7 +5292,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"

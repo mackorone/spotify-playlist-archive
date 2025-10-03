@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,772 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,817 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 90 | [El Corrido de Miguel Rivera \- En Vivo](https://open.spotify.com/track/5hX714XFVzo8n6pUtIovFc) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Especial de Día de Muertos \(En Vivo\)](https://open.spotify.com/album/7rMipwOaDCAanINiqam8M8) | 3:39 |
 | 91 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 |
 | 92 | [Décimas a la Calaca](https://open.spotify.com/track/66q3eL0U5UM3TK8rAwRoh1) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo), [Orquesta Sinfónica del Instituto Politécnico Nacional](https://open.spotify.com/artist/5N2IZwiKhnhblhOdER1hjP) | [De Jolgorios y Velorios](https://open.spotify.com/album/68iNCGhPq5hSPdfa6UMEHO) | 2:38 |
-| 93 | [Cerró Sus Ojitos Cleto](https://open.spotify.com/track/0AZdulPK1zZU0kcEhf3HFF) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:31 |
-| 94 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
+| 93 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
+| 94 | [Cerró Sus Ojitos Cleto](https://open.spotify.com/track/0AZdulPK1zZU0kcEhf3HFF) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:31 |
 | 95 | [Amor eterno](https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:00 |
 | 96 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
 | 97 | [Rincón Brujo](https://open.spotify.com/track/28h5wciGoXUmgMPEEc0VeW) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:37 |

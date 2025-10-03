@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. El Malilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,262 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,289 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 75 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
 | 76 | [Es Mi Gusto](https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq) | 3:35 |
 | 77 | [GOMIN0LA](https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [GOMIN0LA](https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq) | 2:49 |
-| 78 | [Lunetas](https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Lunetas](https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93) | 2:56 |
-| 79 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 |
+| 78 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 |
+| 79 | [Lunetas](https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Lunetas](https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93) | 2:56 |
 | 80 | [La P\-90](https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [La P\-90](https://open.spotify.com/album/3f35t7f5GYuB54jTLW29We) | 1:55 |
 | 81 | [David De Los Acme](https://open.spotify.com/track/1C4notkddInnKftLi0idAW) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Corridos a Lo Maximo](https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv) | 3:26 |
 | 82 | [2pa2 \(Remix\)](https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [2pa2 \(Remix\)](https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD) | 3:34 |

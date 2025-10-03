@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,159 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,159 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 28 | [Qué Más Da](https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Qué Más Da](https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi) | 3:15 |
 | 29 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 |
 | 30 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 |
-| 31 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 |
-| 32 | [Cheve](https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Cheve](https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP) | 2:54 |
+| 31 | [Cheve](https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Cheve](https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP) | 2:54 |
+| 32 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 |
 | 33 | [Ahora que no estás sola](https://open.spotify.com/track/3xX0lqj85gpSmYejtSgEMa) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Ahora que no estás sola](https://open.spotify.com/album/2hgwzjPzM2slgYWbNgPQLD) | 2:55 |
 | 34 | [Scirocco](https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 3:31 |
 | 35 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 45 | [Savana](https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Savana](https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo) | 2:48 |
 | 46 | [Lo Sientes Tú?](https://open.spotify.com/track/7xX6nwgmvLgKtWTKwDrI2c) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Sientes Tú?](https://open.spotify.com/album/36Flbad50gwniOiAgA97ff) | 3:01 |
 | 47 | [Vente](https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:29 |
-| 48 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 |
-| 49 | [TSUNAMI](https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [TSUNAMI](https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE) | 2:46 |
-| 50 | [Quisiste Dejar](https://open.spotify.com/track/0rTDhdwW4qzdfcF9QQCh1F) | [SAG](https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Quisiste Dejar](https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ) | 2:30 |
+| 48 | [Quisiste Dejar](https://open.spotify.com/track/0rTDhdwW4qzdfcF9QQCh1F) | [SAG](https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Quisiste Dejar](https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ) | 2:30 |
+| 49 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 |
+| 50 | [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 |
 
-Snapshot ID: `aNsdgAAAAADfgfHUUsZ8bxSqd3yJ+y4l`
+Snapshot ID: `aNxvAAAAAAA+dWMYvV/e1cpNpXUxWOse`

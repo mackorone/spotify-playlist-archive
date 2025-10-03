@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-187 songs - 8 hr 43 min
+188 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-08-22 |  |
 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-05-28 | 2025-07-25 |
 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 | 2024-02-09 | 2024-02-12 |
-| [Baby, You're the One \(Whole Again\)](https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq) | [Salvatore Mancuso](https://open.spotify.com/artist/4LVJtOjpXBAj6kRVQQultK), [Max Niklas](https://open.spotify.com/artist/2odc9r3Utp0yWZkPcexIdi) | [Baby, You're the One \(Whole Again\)](https://open.spotify.com/album/6E5nsoVzcVSwx4L47mhMcA) | 2:11 | 2024-09-16 |  |
+| [Baby, You're the One \(Whole Again\)](https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq) | [Salvatore Mancuso](https://open.spotify.com/artist/4LVJtOjpXBAj6kRVQQultK), [Max Niklas](https://open.spotify.com/artist/2odc9r3Utp0yWZkPcexIdi) | [Baby, You're the One \(Whole Again\)](https://open.spotify.com/album/6E5nsoVzcVSwx4L47mhMcA) | 2:11 | 2024-09-16 | 2025-10-03 |
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2023-12-01 | 2024-04-19 |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-09-01 | 2023-10-21 |
 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 | 2024-04-04 |  |
@@ -123,6 +123,7 @@
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-10-10 |  |
 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 | 2024-09-05 |  |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-03 |  |
+| [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 | 2025-10-02 |  |
 | [Not Alone \(feat\. Diana Goldberg\)](https://open.spotify.com/track/1CLUWfqSXSvkjrE62Agg3e) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Not Alone \(feat\. Diana Goldberg\)](https://open.spotify.com/album/4qFbF1VvWyXUl2kK2MfDDU) | 2:45 | 2024-10-24 | 2025-02-07 |
 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 | 2024-06-17 | 2024-07-01 |
 | [One to Make Her Happy](https://open.spotify.com/track/3U0qZ6OQl4YbPYa6Ks48oD) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [One to Make Her Happy](https://open.spotify.com/album/2jehLd2YXhvP1k8R7BiqK7) | 2:42 | 2023-12-01 | 2024-02-03 |

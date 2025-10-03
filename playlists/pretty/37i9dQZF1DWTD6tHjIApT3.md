@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: CUTIE STREET
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,439 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,462 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 66 | [ときはなて！](https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ときはなて！](https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9) | 3:45 |
 | 67 | [ゆうれいになりたい](https://open.spotify.com/track/6FqSRGfhCdkLy0pP9NVeqz) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ゆうれいになりたい](https://open.spotify.com/album/3i96Y2T24u6UxrX7uFps7T) | 3:58 |
 | 68 | [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 |
-| 69 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
+| 69 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
 | 70 | [八月の花火](https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [八月の花火](https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr) | 4:06 |
 | 71 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
-| 72 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
+| 72 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
 | 73 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
 | 74 | [声命 \- Seimei](https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [声命 \- Seimei](https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA) | 2:57 |
 | 75 | [一途な女の子。](https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [一途な女の子。](https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB) | 2:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 92 | [遠雷](https://open.spotify.com/track/14NMsBNiuQw1eHFxNG9ybL) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [遠雷](https://open.spotify.com/album/71ccrOc4WR86wuyeDu5dWB) | 3:45 |
 | 93 | [BEACON](https://open.spotify.com/track/6BucNQue6J7q8SAh7R28RB) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [BEACON](https://open.spotify.com/album/7FJfCBUrEQ75IofC8BJ20n) | 3:35 |
 | 94 | [たゆたうままに](https://open.spotify.com/track/0CChuQNcBctCFFC17znqRd) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [たゆたうままに](https://open.spotify.com/album/0UMRde9b3pNBHXTXUKDS3K) | 3:58 |
-| 95 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
-| 96 | [On Your Marks](https://open.spotify.com/track/108CYp22He0dl3r50jdW4F) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [On Your Marks](https://open.spotify.com/album/12EuI81Qrwh0JEQ8g6Z9xw) | 6:13 |
+| 95 | [On Your Marks](https://open.spotify.com/track/108CYp22He0dl3r50jdW4F) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [On Your Marks](https://open.spotify.com/album/12EuI81Qrwh0JEQ8g6Z9xw) | 6:13 |
+| 96 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
 | 97 | [マスカレード](https://open.spotify.com/track/2UKRKiW6GkDCVU2kBXdvVd) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [マスカレード](https://open.spotify.com/album/0KG3mfBsEtIPo0CvHZA4rc) | 3:34 |
 | 98 | [Eclipse](https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Eclipse](https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt) | 3:55 |
 | 99 | [月蝕](https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [月蝕](https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC) | 3:17 |
-| 100 | [コエ](https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [コエ](https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD) | 5:01 |
+| 100 | [HEART](https://open.spotify.com/track/7Dsjb5W7ffV0Kc4fohXzRV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/5xdFcnfl7eG8uGWqxnCN6L) | 5:06 |
 
 Snapshot ID: `AAAAAPdnQfZqGUljivOamAZqqsntiQiF`

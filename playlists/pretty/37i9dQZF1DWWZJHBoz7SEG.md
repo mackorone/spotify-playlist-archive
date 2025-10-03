@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Adiós Zzzeptiembre, hola ROCKTUBRE en compañía de Panteón Rococo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,338 likes - 86 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,375 likes - 86 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

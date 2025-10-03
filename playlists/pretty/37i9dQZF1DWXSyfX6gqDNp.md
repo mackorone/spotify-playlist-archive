@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,947 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,974 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 52 | [All Or Nothing At All](https://open.spotify.com/track/6f9Rtjg4i6dczqNnLwDlyl) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [All Or Nothing At All](https://open.spotify.com/album/1zjHNjfAn2SnYsmDiK48Ef) | 4:50 |
 | 53 | [September Wind](https://open.spotify.com/track/6AWJW2j6yLLsn0f4mfm78t) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [September Wind](https://open.spotify.com/album/45WFC6dvpwiqGN4pTXrfMl) | 6:22 |
 | 54 | [All Good](https://open.spotify.com/track/0NJL3lxVCJKyoiExs8GiTG) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [All Good](https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX) | 3:25 |
-| 55 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
+| 55 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
 | 56 | [La Balade Bleu](https://open.spotify.com/track/4kFHtdSchgDFLKAnV3n2KX) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [La Balade Bleu](https://open.spotify.com/album/6XFrb3dkvb3mVhtI5XP9LG) | 3:02 |
 | 57 | [Think about that](https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Think about that](https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9) | 2:46 |
 | 58 | [A Quiet Evening](https://open.spotify.com/track/5d48CiZU7yOueQjMqUqSyo) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [A Quiet Evening](https://open.spotify.com/album/0ZXkvs145XXIm2mup3rED3) | 5:06 |

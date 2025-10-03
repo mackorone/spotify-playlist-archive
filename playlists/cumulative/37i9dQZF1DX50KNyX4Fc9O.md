@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Charley
 
-2,210 songs - 4 day 17 hr 58 min
+2,211 songs - 4 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1693,6 +1693,7 @@
 | [Sober](https://open.spotify.com/track/7zdb638L9029cS2v2PyHZY) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Sober](https://open.spotify.com/album/3TnYDTkVNfMDas18U22SEH) | 3:50 | 2024-06-27 | 2024-08-02 |
 | [SOBER](https://open.spotify.com/track/673krmlD3UUTMrn8coVoyg) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [SOBER](https://open.spotify.com/album/34EGXNAdQcDnduc5tkpGpm) | 2:50 | 2024-04-04 | 2024-04-19 |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-09-13 | 2024-11-15 |
+| [Softly](https://open.spotify.com/track/7vVVjc2PIBZz0Xma2mdFNW) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Softly](https://open.spotify.com/album/4ZVxT9a32tUaiXWmvR2vfb) | 2:58 | 2025-09-25 |  |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-03-21 | 2024-04-05 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-14 | 2023-11-09 |
 | [Somebody](https://open.spotify.com/track/5q6oXQDVTL8UIugmeIiFG8) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Somebody](https://open.spotify.com/album/2y2Pv5krOWu0R6mQ4SWBCr) | 2:27 | 2024-08-22 | 2024-09-13 |

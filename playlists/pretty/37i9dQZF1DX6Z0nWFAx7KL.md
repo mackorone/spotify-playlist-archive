@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,196 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,190 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 59 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 |
 | 60 | [Vibration](https://open.spotify.com/track/2XDcMSaXSlXKtQLF5E45N1) | [Armando Martinez](https://open.spotify.com/artist/5qjYRdvFJgnx6zGjOsBst3) | [Vibration](https://open.spotify.com/album/3GDTnkcgIrBOA1HZvdqb6Y) | 4:01 |
 
-Snapshot ID: `AAAAAOWaT0SjPkJCZb+d6PfOSCajU9C/`
+Snapshot ID: `AAAAAM6MFl3RYDl7GdSm7oBIYDyuKdVJ`

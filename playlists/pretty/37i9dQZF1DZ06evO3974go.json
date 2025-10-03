@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20511,
+  "num_followers": 20512,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACc5UeJriMUvoXwi/r2wq/e",
+  "snapshot_id": "aNxvAAAAAABzfMfnSnaSeZXKqRMCf8Uv",
   "tracks": [
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Cry",
-        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+        "name": "I'm Sayin' (feat. Rich Homie Quan)",
+        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
       },
       "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Song Cry",
-      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
+      "duration_ms": 202200,
+      "name": "I'm Sayin' (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
     },
     {
       "added_at": null,
@@ -891,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Sayin' (feat. Rich Homie Quan)",
-        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
       },
       "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 202200,
-      "name": "I'm Sayin' (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "added_at": null,

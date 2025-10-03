@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 
 > Sonic the Hedgehog here! Start your engines! Fast beats, retro vibes, and a little bit of chaos—This playlist is a high\-octane ride through pure sound and speed\. Buckle up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,905 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,364 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 | 39 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 40 | [Hard Knock Life](https://open.spotify.com/track/2YIjojA9bKEcD4ScEiBg2q) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/7dgrVFl513aFBvMqu3KHsQ) | 3:58 |
 
-Snapshot ID: `AAAAAGBoGNInv3UuQAslhD2/IXf/Wrqs`
+Snapshot ID: `AAAAAB+iOsG9p2/+7HFH4hYLjFTb/zQZ`

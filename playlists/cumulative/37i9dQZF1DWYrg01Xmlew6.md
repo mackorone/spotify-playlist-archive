@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Dipinto e Frezza in cover.
 
-521 songs - 23 hr 49 min
+522 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [RISPETTO](https://open.spotify.com/track/4reyq1uCEFqfnq6tFltw3y) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [RISPETTO](https://open.spotify.com/album/2Vn0jyCkXdw5wO1lm9WY6y) | 2:20 | 2024-12-19 | 2025-02-27 |
 | [RNAR SPUORCH](https://open.spotify.com/track/758gBjpv9urbcYbo0n5lGM) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr) | [RNAR SPUORCH](https://open.spotify.com/album/16ldGPgb034QKbjtGSbeRI) | 2:50 | 2024-09-12 | 2024-09-27 |
 | [Rolex \(feat\. Lele Blade\)](https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:02 | 2024-01-16 | 2024-02-16 |
+| [RONDÒ VENEZIANO](https://open.spotify.com/track/2az5KwfoErtiWeCGoHwcmW) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [RONDÒ VENEZIANO](https://open.spotify.com/album/3KSJAsWDTepE3ouqherxnQ) | 1:55 | 2025-10-02 |  |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-22 | 2023-12-13 |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-05-18 |  |
 | [Royalty](https://open.spotify.com/track/21kRy3Z2XAL80IOabWrOnx) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [Royalty \(Stirpe Nova, Vol.2\)](https://open.spotify.com/album/0eNJ6p3SIEa9o6PxJV35Bn) | 2:57 | 2023-05-11 | 2023-06-02 |

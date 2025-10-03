@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3058,
+  "num_followers": 3059,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABfX3xyGrr6CHXVyqReYr/s",
+  "snapshot_id": "aNxvAAAAAAAXW8Sa355c5K3aFoxhS4c8",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Lonely Lonely",
+      "url": "https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Lonely Lonely",
-      "url": "https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -459,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Memories are Here to Stay",
-      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Energy of Love",
         "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
@@ -503,30 +471,6 @@
       "duration_ms": 340866,
       "name": "Everyone's a Star",
       "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 89091,
-      "name": "The Intruders Medley Introduction - Live",
-      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
     },
     {
       "added_at": null,
@@ -556,9 +500,49 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 208386,
-      "name": "To Be Happy Is the Real Thing",
-      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
+      "duration_ms": 197106,
+      "name": "Memories are Here to Stay",
+      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 89091,
+      "name": "The Intruders Medley Introduction - Live",
+      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 395093,
       "name": "Rainy Days and Mondays",
       "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "To Be Happy Is the Real Thing",
+      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
+      "duration_ms": 130946,
+      "name": "Let Me In Your Mind",
+      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+      "duration_ms": 157066,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 130946,
-      "name": "Let Me In Your Mind",
-      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
+      "duration_ms": 169213,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
     }
   ],
   "unique_name": "This Is The Intruders",

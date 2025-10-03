@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,455 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,481 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chilly Winds Don't Blow \- Bolden\. Remix](https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Chilly Winds Don't Blow \(Bolden\. Remix\)](https://open.spotify.com/album/6t9jA8KDGRoewxzCWVn4O2) | 3:20 |
 | 2 | [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 |
 | 3 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
-| 4 | [Sinnerman \- Sofi Tukker Remix](https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sinnerman \(Sofi Tukker Remix\)](https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj) | 3:52 |
-| 5 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:08 |
+| 4 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:08 |
+| 5 | [Sinnerman \- Sofi Tukker Remix](https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sinnerman \(Sofi Tukker Remix\)](https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj) | 3:52 |
 | 6 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 |
 | 7 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
-| 8 | [Love Me Or Leave Me](https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:04 |
-| 9 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Broadway\-Blues\-Ballads](https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J) | 2:46 |
+| 8 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Broadway\-Blues\-Ballads](https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J) | 2:46 |
+| 9 | [Love Me Or Leave Me](https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:04 |
 | 10 | [I Loves You, Porgy \- 2014 \- Remaster](https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone and Her Friends \(Remastered 2014\)](https://open.spotify.com/album/2CeiAmKMUqcHfNU9Lv3yuQ) | 4:08 |
 | 11 | [The More I See You \- Remastered](https://open.spotify.com/track/5qjeRPh4CVuaF9qs9KC2yT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 2:41 |
 | 12 | [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [Save Me](https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:22 |
 | 50 | [In the Dark](https://open.spotify.com/track/1EJNVmLt3wnssius7WVE2l) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:56 |
 
-Snapshot ID: `aNsdgAAAAADcPHfZcxSmuPpP+mkrQoM+`
+Snapshot ID: `aNxvAAAAAAAt71/os/mjWRQ6GFYfegvb`

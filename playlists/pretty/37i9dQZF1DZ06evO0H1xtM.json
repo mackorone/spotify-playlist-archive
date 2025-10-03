@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 356148,
+  "num_followers": 356315,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAuVAstxXdHkDGeEVcE6gl1",
+  "snapshot_id": "aNxvAAAAAADKDPlOQ1jQfAJFr5L0PG3V",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
+        "name": "Don't Stop The Magic",
+        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 163057,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
+      "duration_ms": 182634,
+      "name": "El Pickles",
+      "url": "https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG"
     },
     {
       "added_at": null,
@@ -691,22 +687,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop The Magic",
-        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 182634,
-      "name": "El Pickles",
-      "url": "https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG"
+      "duration_ms": 163057,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Subiendo De Nivel",
+        "url": "https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 110828,
+      "name": "Tu No Eres Lo Que Quer\u00eda",
+      "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diablos",
         "url": "https://open.spotify.com/album/04Vo5Ym1DvutxZm8PuVj4G"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 190092,
       "name": "Diablos",
       "url": "https://open.spotify.com/track/6sSXi0TxT2Mnz3IfH8ACxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Subiendo De Nivel",
-        "url": "https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 110828,
-      "name": "Tu No Eres Lo Que Quer\u00eda",
-      "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
     },
     {
       "added_at": null,

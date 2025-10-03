@@ -2,7 +2,7 @@
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Tan Taşçı ve haftanın en iyi çıkışları!
+> Dedublüman ve haftanın en iyi çıkışları!
 
 3,442 songs - 7 day 6 hr 12 min
 
@@ -3385,7 +3385,7 @@
 | [Öderim Bedeli](https://open.spotify.com/track/0n8GP4FDvBpuHy5C4HF0Hz) | [Öykü Gürman](https://open.spotify.com/artist/173BBRCDf7unNOeNIeP0OV) | [Öderim Bedeli](https://open.spotify.com/album/0GhlCYb0h5QFJBscaCCsGo) | 2:44 | 2025-08-07 | 2025-08-15 |
 | [Ödün Verdim](https://open.spotify.com/track/05YMxstcaa2rSscdb6aW0y) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4), [Lavin](https://open.spotify.com/artist/5jPL1Qieqd9VrUwGFAndFg) | [Ödün Verdim](https://open.spotify.com/album/2dZJpSBmTxs1JVuOdtYmmb) | 3:02 | 2025-06-26 | 2025-07-04 |
 | [Öfkemin Esiri](https://open.spotify.com/track/6WOPjlggMQWbK2LplRS17z) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Paradigma](https://open.spotify.com/album/5JEDimXEOMyW9q6NJwzpAq) | 3:33 | 2025-08-14 | 2025-08-22 |
-| [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:24 | 2025-09-25 |  |
+| [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:20 | 2025-09-25 |  |
 | [Ölebilirim](https://open.spotify.com/track/4mWTUFTTyp8u7Dq2yDJ6IL) | [Bora Duran](https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI) | [Ölebilirim](https://open.spotify.com/album/25HlWpBWmgR0aVpgYDMyYw) | 3:17 | 2025-06-05 | 2025-06-13 |
 | [ölmek için zaman yok](https://open.spotify.com/track/6AqNG6Vjei0cyq86ingSTc) | [The Nova](https://open.spotify.com/artist/4UDP9ZOfvXvjwg8GslPUFy), [Colt NS](https://open.spotify.com/artist/5LwtZHjbGBwDx83IwoV2fI) | [ölmek için zaman yok](https://open.spotify.com/album/1R8GGqPVgZ5EWL5n6D0cvD) | 2:13 | 2025-04-17 | 2025-04-25 |
 | [ölmez](https://open.spotify.com/track/0770UleolDIix9WTXjy7X5) | [Ravend](https://open.spotify.com/artist/0HYSrLdpldAsePdvuhxSLx) | [ölmez](https://open.spotify.com/album/1IFsJ7UEwyblz16VIDBa15) | 1:34 | 2025-02-27 | 2025-03-07 |

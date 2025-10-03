@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227774,
+  "num_followers": 227784,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAA6C2QoFAJlbNyE4s4xGhzh",
+  "snapshot_id": "aNxvAAAAAADnJug/wbL6HIVy/wsUFdhX",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait For A Minute",
-        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Wait For A Minute",
-      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
         "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 213307,
       "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
       "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait For A Minute",
+        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Wait For A Minute",
+      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
     },
     {
       "added_at": null,
@@ -819,22 +819,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel California (Deluxe)",
-        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
       "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         }
       ],
-      "duration_ms": 243373,
-      "name": "For The Road",
-      "url": "https://open.spotify.com/track/0OtheRYyJGITOx0jq6pDEJ"
+      "duration_ms": 198186,
+      "name": "Krabby Step (with Tyga & Lil Mosey)",
+      "url": "https://open.spotify.com/track/54VtNjzhAyLvPxuJlw0Z3q"
     },
     {
       "added_at": null,
@@ -871,26 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+        "name": "Hotel California (Deluxe)",
+        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
       "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 198186,
-      "name": "Krabby Step (with Tyga & Lil Mosey)",
-      "url": "https://open.spotify.com/track/54VtNjzhAyLvPxuJlw0Z3q"
+      "duration_ms": 243373,
+      "name": "For The Road",
+      "url": "https://open.spotify.com/track/0OtheRYyJGITOx0jq6pDEJ"
     },
     {
       "added_at": null,

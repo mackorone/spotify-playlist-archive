@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,399 songs - 3 day 19 hr 29 min
+2,400 songs - 3 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [hangover](https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [hangover](https://open.spotify.com/album/6k7G39ATeXkoPjsU3rAEZ8) | 1:49 | 2022-04-15 | 2022-09-17 |
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2022-04-15 | 2022-08-19 |
 | [Happy Camper](https://open.spotify.com/track/65Aih3UTZ71FYy1IFX9yai) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Happy Camper](https://open.spotify.com/album/0dGweGrhJHrI7b2aZzrlbP) | 2:00 | 2023-06-06 | 2023-12-08 |
+| [Happy Celebration](https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Happy Celebration](https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh) | 3:10 | 2025-10-02 |  |
 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 | 2023-12-08 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2024-05-14 |
 | [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 |  |
@@ -931,7 +932,7 @@
 | [High Street Blues](https://open.spotify.com/track/75W3NDn1Nt8F5sfx6G97oA) | [Dalston Druids](https://open.spotify.com/artist/10uf2ZQLyXKVtyRffUIZAq) | [High Street Blues](https://open.spotify.com/album/5KOU1DWiAOwrGK3UkXx4Z1) | 2:41 | 2022-04-15 | 2022-04-22 |
 | [highway one](https://open.spotify.com/track/2tQXKumBH3TcShaJcCC6X0) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [highway one](https://open.spotify.com/album/47pqF590k2anGL5Jl0HuRs) | 2:11 | 2025-04-11 | 2025-06-06 |
 | [Highway to Shell](https://open.spotify.com/track/1h9AZqUiuQWbnpbUiR3olP) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Highway to Shell](https://open.spotify.com/album/61ClakUBMQ1Efqa4wolbNs) | 2:20 | 2023-01-13 | 2025-03-08 |
-| [himmel](https://open.spotify.com/track/2VWHhJTO59NfIjfHVOa3cg) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [himmel](https://open.spotify.com/album/3GlZhEcYa47UQqWyCyozW3) | 2:48 | 2025-09-18 |  |
+| [himmel](https://open.spotify.com/track/2VWHhJTO59NfIjfHVOa3cg) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [himmel](https://open.spotify.com/album/3GlZhEcYa47UQqWyCyozW3) | 2:48 | 2025-09-18 | 2025-10-03 |
 | [hinode](https://open.spotify.com/track/0hXCVcGMmVBrSpZjVSkMcQ) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [jibun](https://open.spotify.com/artist/22kLc50HOBzYluhCniwkNs) | [no collision](https://open.spotify.com/album/5MvMlfLZdH5wmmUD2UtpjD) | 2:03 | 2022-06-17 | 2022-08-12 |
 | [Hinode](https://open.spotify.com/track/0kAXBA7ZLIK6TxHPqCbDRu) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Hinode](https://open.spotify.com/album/5yJDZPiyHZAjvOoQkryexl) | 1:42 | 2024-07-26 | 2024-08-11 |
 | [Hip2Hip](https://open.spotify.com/track/4ippc5Br0DAG0aCCM5koqG) | [Conson](https://open.spotify.com/artist/38UPBZIZ83p8qJjAIyWJ3l) | [Hip2Hip](https://open.spotify.com/album/58qiQ91wlTpB6sVptjv6hc) | 2:15 | 2024-12-20 | 2025-02-28 |

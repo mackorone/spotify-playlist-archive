@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22406,
+  "num_followers": 22407,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACxm9OyYAngm+Nzdwx6HtRd",
+  "snapshot_id": "aNxvAAAAAAC7rCPbB10zC2SPcMLb+O7A",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enquanto a Igreja Ora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Enquanto a Igreja Ora (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 275853,
       "name": "Grande Dia",
       "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enquanto a Igreja Ora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Enquanto a Igreja Ora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 325720,
       "name": "Vencer ou Vencer (Ao Vivo)",
       "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 333067,
+      "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Job",
         "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 324893,
       "name": "Job",
       "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 333067,
-      "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 250636,
-      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+      "duration_ms": 302927,
+      "name": "Vida aos Sepulcros (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
     }
   ],
   "unique_name": "This Is Midian Lima",

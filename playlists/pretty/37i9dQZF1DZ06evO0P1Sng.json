@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8224,
+  "num_followers": 8223,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACuV+lCFBBzZgSXlrp2PYU4",
+  "snapshot_id": "aNxvAAAAAABh3ncA19U6ZzjuSzFr5ZXX",
   "tracks": [
     {
       "added_at": null,
@@ -1063,30 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 198454,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
         "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 171500,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 198454,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,
@@ -1203,38 +1203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donas do Jogo",
-        "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Donas do Jogo",
-      "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas No Topo",
         "url": "https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4"
       },
@@ -1279,38 +1247,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eles N\u00e3o Ligam Pra Gente",
-        "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
+        "name": "Donas do Jogo",
+        "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
       "artists": [
         {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Ducon",
-          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Diomedes Chinaski",
-          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Eles N\u00e3o Ligam Pra Gente",
-      "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
+      "duration_ms": 244000,
+      "name": "Donas do Jogo",
+      "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
     },
     {
       "added_at": null,
@@ -1359,6 +1323,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eles N\u00e3o Ligam Pra Gente",
+        "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Diomedes Chinaski",
+          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Eles N\u00e3o Ligam Pra Gente",
+      "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -1383,30 +1383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arquivos",
-        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
-      },
-      "artists": [
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Arquivos",
-      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
         "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 214772,
       "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
       "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arquivos",
+        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Arquivos",
+      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
     },
     {
       "added_at": null,

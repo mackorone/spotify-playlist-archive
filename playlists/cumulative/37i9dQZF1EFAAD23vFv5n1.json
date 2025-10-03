@@ -3057,6 +3057,28 @@
     },
     {
       "album": {
+        "name": "INTERNET",
+        "url": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222025,
+      "name": "Tonight gospel (feat. Mecna)",
+      "url": "https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks"
+    },
+    {
+      "album": {
         "name": "Infinito +1",
         "url": "https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8"
       },

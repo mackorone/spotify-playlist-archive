@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Single people dey suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,034 likes - 79 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,080 likes - 79 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 78 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 |
 | 79 | [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 |
 
-Snapshot ID: `AAAAADQG35+mHcVX+2d8BB63cmtjPtVE`
+Snapshot ID: `AAAAACNTUDGhZ/UemeIuJnSIjTjY05hU`

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック。Doja Cat, Olivia Dean, Tate McRae, Ado, Zara Larsson and more!
+> 洋楽を中心に今週の新曲をチェック。 YOASOBI, Kali Uchis, マカロニえんぴつ, yama, Jason Derulo,  and more!
 
 11,149 songs - 25 day 21 hr 47 min
 

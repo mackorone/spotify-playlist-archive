@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Young Thug, Polo G and Cardi B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,869,801 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,865,802 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |
 | 50 | [Bunna Summa](https://open.spotify.com/track/43FkWr8JNh12rKfXNBFR1H) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa \(Ice Cream Summer Deluxe\)](https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM) | 2:27 |
 
-Snapshot ID: `AAAAADfZntYWXk2ZXGNwas01BGFwOB25`
+Snapshot ID: `AAAAAAx0WSgxqkqS8INL5Ag7/Ajsn2g3`

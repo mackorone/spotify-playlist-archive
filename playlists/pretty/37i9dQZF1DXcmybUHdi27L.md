@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > This summer? We outside 🥂
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,591 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,592 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

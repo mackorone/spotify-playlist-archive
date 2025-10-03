@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Pozer
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Tkandz
 
 2,174 songs - 4 day 11 hr 58 min
 

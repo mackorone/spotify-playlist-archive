@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 10 hr 23 min
+191 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 | 2021-12-27 |  |
 | [Growing Up](https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [Growing Up](https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm) | 3:53 | 2024-11-03 |  |
 | [Gut Feeling \(feat\. H.E.R.\)](https://open.spotify.com/track/1dxy88oPzmIN9QAyCNfXmW) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:56 | 2021-12-27 |  |
-| [Happen](https://open.spotify.com/track/3lieXczavxShuM9SDEtPnD) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/356K0xUK0Y8SiSBwybol9s) | 3:20 | 2021-12-27 |  |
+| [Happen](https://open.spotify.com/track/3lieXczavxShuM9SDEtPnD) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/356K0xUK0Y8SiSBwybol9s) | 3:20 | 2021-12-27 | 2025-10-03 |
+| [Happen](https://open.spotify.com/track/5TEiqjqNPhFQy1mcKApduO) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/01bVPQv63SRYWBYysr2wEN) | 3:20 | 2025-10-02 |  |
 | [Hawaiian Mazes](https://open.spotify.com/track/6IwqOnORFD7Jssoyor6Ngf) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:03 | 2021-12-27 |  |
 | [Healing Hurts](https://open.spotify.com/track/1b0KbkFk1LvwkWhOJfmevW) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:42 | 2022-01-27 |  |
 | [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/0kJhWsLsNECbtcPhFnWx8J) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Remixes\)](https://open.spotify.com/album/6exRK88Bmb2ocwHW8hT07l) | 3:28 | 2021-12-27 | 2022-04-25 |

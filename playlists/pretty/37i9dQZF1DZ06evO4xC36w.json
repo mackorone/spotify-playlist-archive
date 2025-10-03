@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 981308,
+  "num_followers": 981438,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAADGXiiCan4g2puFmiCXyWgu",
+  "snapshot_id": "aNxvAAAAAAAKRNbyTZ40keKla8PvpOaw",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+        "name": "Lo Mejor De Joan Sebastian",
+        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+      "duration_ms": 187315,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De Joan Sebastian",
-        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 187315,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
         "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
     },
     {
       "added_at": null,

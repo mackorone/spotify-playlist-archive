@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest alternative rock songs through the decades\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,054 likes - 200 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,204 likes - 200 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 195 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 |
 | 196 | [Just](https://open.spotify.com/track/4aSAA0QQSUUX3YUiXsdtbn) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/6Lmj92VLXz7Z5xcsjXBMSC) | 3:54 |
 | 197 | [Rebellion \(Lies\)](https://open.spotify.com/track/7CMUAZJn2qHs3JHflKRjSO) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/0Lu28wC62eXM4kr8DfUIKc) | 5:10 |
-| 198 | [Obstacle 1](https://open.spotify.com/track/7wvtiQ3o8ELEmk2NjSSPpX) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights: The Tenth Anniversary Edition \(Remastered\)](https://open.spotify.com/album/0YOTy70NrfSFvKAbzLY9GF) | 4:11 |
-| 199 | [Cannonball](https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx) | 3:33 |
+| 198 | [Cannonball](https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx) | 3:33 |
+| 199 | [Pumped up Kicks](https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz) | 3:59 |
 | 200 | [Live Forever](https://open.spotify.com/track/6etTGUYDxGHcqHYI4xBr1w) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/4wXjHwpYza7sCw1vKKSfOm) | 4:36 |
 
 Snapshot ID: `AAAAAPEQNfOO0jy1csx0ZqNtt5RrcdIC`

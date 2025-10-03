@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 330 songs - 19 hr 40 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 333 songs - 19 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -338,5 +338,8 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 328 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 |
 | 329 | [Brother Down](https://open.spotify.com/track/32WrsvD69H6sSLCPQo5WNy) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:24 |
 | 330 | [gata only \- dscvr remix version](https://open.spotify.com/track/6Ityh22buy1fmGkkLwqTai) | [Shinichi Hayato](https://open.spotify.com/artist/3iDImQ3ghuEgYCvvvHenFj) | [gata only \(dscvr remix version\)](https://open.spotify.com/album/2b4ltDEtnPd4Y9DNUUPPJS) | 1:02 |
+| 331 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
+| 332 | [MONTAGEM UNFOUND 2 \- Slowed](https://open.spotify.com/track/213q21omFjVGHe09HPtowq) | [DJ FallThox](https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN), [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K) | [MONTAGEM UNFOUND 2](https://open.spotify.com/album/5tk8LYvJPWmP989IfZU3dn) | 1:58 |
+| 333 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 |
 
-Snapshot ID: `AAADef+Jm/qQQQTuZ99Cl94I5fUz78aS`
+Snapshot ID: `AAADfl5NRSnJDX/de14EIsbaCLfNN21z`

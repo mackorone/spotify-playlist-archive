@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: WIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,838 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,852 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 25 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
 | 26 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
 | 27 | [God Los](https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [God Los](https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS) | 3:43 |
-| 28 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
-| 29 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
-| 30 | [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 |
+| 28 | [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 |
+| 29 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
+| 30 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 31 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
 | 32 | [Aerobics](https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Aerobics](https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM) | 2:47 |
 | 33 | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re) | 3:38 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 45 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
 | 46 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
 | 47 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
-| 48 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
-| 49 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
+| 48 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
+| 49 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
 | 50 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
 
 Snapshot ID: `AAAAAJsNtdsobWkMPLwaZJHEZJYx3V/M`

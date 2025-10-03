@@ -2,7 +2,7 @@
 
 ### [獨立最前線](https://open.spotify.com/playlist/37i9dQZF1DXbKxnYoweJNI)
 
-> 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 薛詒丹 \(aDAN\)
+> 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: deca joins
 
 3,138 songs - 7 day 15 hr 4 min
 

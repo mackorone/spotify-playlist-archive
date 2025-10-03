@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover: Joshua Baraka & Jaz Karis
 
-482 songs - 1 day 1 hr 19 min
+483 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 | 2025-05-16 |  |
 | [Bad lil' mama](https://open.spotify.com/track/7lcQAePZOtddt0vO5mC1Ot) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Bad lil' mama](https://open.spotify.com/album/2MuBIBSkLoaHNSVoHbol11) | 2:56 | 2025-09-19 |  |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 | 2023-02-04 |
-| [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 |  |
+| [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 | 2025-10-03 |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2023-06-23 |
 | [Baki Pekee Yako](https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baki Pekee Yako](https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr) | 3:58 | 2024-05-10 | 2025-07-18 |
 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 | 2023-06-02 | 2024-06-14 |
@@ -477,6 +477,7 @@
 | [with u](https://open.spotify.com/track/5hyte9fMz1uZvfj1Vgz2rY) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [IV](https://open.spotify.com/album/1cs2NpUBHmIyG4eJTOyxYp) | 2:41 | 2022-07-22 | 2022-08-13 |
 | [Witness](https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Dues](https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr) | 3:16 | 2023-06-16 | 2023-09-22 |
 | [WONDERING WHY](https://open.spotify.com/track/4aZJ0ku97zr2ywC6ZXxRwj) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [À Nu](https://open.spotify.com/album/1aJEZXVCfXrggxd5CrHMo8) | 2:47 | 2024-06-14 | 2025-06-28 |
+| [Worry](https://open.spotify.com/track/58NnjSYSMcKogUfZZFFlZK) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Worry](https://open.spotify.com/album/4UCilTZFzFDYB6WEHl8vaT) | 2:49 | 2025-10-03 |  |
 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 | 2022-09-01 | 2022-11-05 |
 | [Would You Like That](https://open.spotify.com/track/7l3TCgaa7no82h2jc4jML5) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Would You Like That](https://open.spotify.com/album/186IK7qexy8GehSPPOW5PF) | 2:28 | 2022-10-13 | 2023-03-18 |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2022-06-10 |

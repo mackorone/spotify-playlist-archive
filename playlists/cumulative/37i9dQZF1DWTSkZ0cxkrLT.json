@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 292000,
       "name": "Es Broma, En Serio",
       "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 260906,
       "name": "Las Cosas Tienen Movimiento",
       "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
@@ -2995,6 +2995,28 @@
     },
     {
       "album": {
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/5salltxm1Mde42pNmg2uDY"
+      },
+      "artists": [
+        {
+          "name": "Ceci Mendez",
+          "url": "https://open.spotify.com/artist/1BXbbnZe7M9bYBAHyqEn9g"
+        },
+        {
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/5ZSxLDgPAclH5IqYWYXyYD"
+    },
+    {
+      "album": {
         "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -3918,6 +3940,28 @@
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
+    },
+    {
+      "album": {
+        "name": "Vos",
+        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198157,
+      "name": "Vos",
+      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
     },
     {
       "album": {

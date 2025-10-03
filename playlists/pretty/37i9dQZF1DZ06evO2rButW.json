@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 753455,
+  "num_followers": 753561,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAASirXppVmxPdus+WITZkbr",
+  "snapshot_id": "aNxvAAAAAAB6hyBxHN8hiZ4LeQq4UTe7",
   "tracks": [
     {
       "added_at": null,
@@ -151,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
       "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+      "duration_ms": 224650,
+      "name": "Callej\u00f3n de los Secretos",
+      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
     },
     {
       "added_at": null,
@@ -183,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
       },
       "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 224650,
-      "name": "Callej\u00f3n de los Secretos",
-      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
     },
     {
       "added_at": null,

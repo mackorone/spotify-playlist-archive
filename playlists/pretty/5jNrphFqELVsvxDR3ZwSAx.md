@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 49,651 likes - 179 songs - 11 hr 24 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 49,614 likes - 179 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

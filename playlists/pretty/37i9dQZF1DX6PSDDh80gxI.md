@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > LA SUA BOCCA NON HA IL TUO SAPORE ED ORAAA BERE NON MI PIACE PIÙ \(eddie brock in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,301 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,255 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 69 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |
 | 70 | [Chissà \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Chissà](https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA) | 2:59 |
 
-Snapshot ID: `AAAAAFgjR0A85LB2Arb4Ed+PFROWDYar`
+Snapshot ID: `AAAAADXkvCJl211AQmvkSV9x9wnqS0E5`

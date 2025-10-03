@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6061,
+  "num_followers": 6066,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACV3UHIvHWIR72XGhRDuF2O",
+  "snapshot_id": "aNxvAAAAAAD/ljy3hL51JVXI05xn6OpP",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 233093,
-      "name": "Sonhador (Ao Vivo)",
-      "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": null,
@@ -303,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Sonhador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+      "duration_ms": 233093,
+      "name": "Sonhador (Ao Vivo)",
+      "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
     },
     {
       "added_at": null,

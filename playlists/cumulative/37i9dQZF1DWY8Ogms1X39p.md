@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-309 songs - 17 hr 25 min
+310 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-12-13 | 2023-09-14 |
 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2025-01-07 |  |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-26 | 2025-07-09 |
+| [EGP](https://open.spotify.com/track/6uOGcTA9RS4lV0B6kjTSBJ) | [Sundanis](https://open.spotify.com/artist/7aL9PiYEeYQWnBL8iDPHDs) | [EGP](https://open.spotify.com/album/78RZnl53aFY6nw9vAvpWih) | 3:29 | 2025-10-02 |  |
 | [Eiyo](https://open.spotify.com/track/6GET8ozoRxl8i77Otvv2og) | [Bacill](https://open.spotify.com/artist/4GRTMyYeNNUobvNDVsNu9r), [M2mx](https://open.spotify.com/artist/1LtotlEzGV5JNEWx5MfDDO) | [Eiyo](https://open.spotify.com/album/1zmXW34KKaz6ELhIfjIFU5) | 3:02 | 2025-08-03 | 2025-09-08 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-21 | 2025-06-24 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 | 2024-08-30 |

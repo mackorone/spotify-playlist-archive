@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: TUANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,951 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,982 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 61 | [Bak Bak Bak](https://open.spotify.com/track/3CmQsVcON97TdBaAusZxb2) | [Ebru Keskin](https://open.spotify.com/artist/4uWefYpEJkOi45d95aMokX) | [Bak Bak Bak](https://open.spotify.com/album/44HvmZFN1bkkkhgCfv6Vzt) | 1:49 |
 | 62 | [Paramparça](https://open.spotify.com/track/6ZEG5B2ohnIUi2gOjhyITV) | [Aliyah](https://open.spotify.com/artist/2kkeivLGN3OVvEsbAwY6J0) | [Paramparça](https://open.spotify.com/album/6bo9liCKl01tVrV6tVfeH5) | 3:44 |
 | 63 | [Beni Görüp](https://open.spotify.com/track/1SWGBabxkpl5k9TOAvSA2N) | [Fatma Aydoğan](https://open.spotify.com/artist/4jdsLmV5iC9cgEf0lnMvs8) | [Beni Görüp](https://open.spotify.com/album/4P9CJzMVEqmhIJWAW00O7G) | 4:18 |
-| 64 | [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:24 |
+| 64 | [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:20 |
 | 65 | [Yallah](https://open.spotify.com/track/0wgl4oTwi7ZeKjXZ9ZyZTu) | [Esra akyıldız](https://open.spotify.com/artist/6kT8ihXAvHIFIy3O4evbz4) | [Yallah](https://open.spotify.com/album/5n29o3d7IW3vS3FNjOkmOJ) | 2:37 |
 | 66 | [Kalmadı Sabrım](https://open.spotify.com/track/3gWYZh1ssyxTtn8FSqhuNA) | [Olga Napoli](https://open.spotify.com/artist/1jemWjbLlw8M91pdKWdBZC) | [Kalmadı Sabrım](https://open.spotify.com/album/5P57WHieYr8eJG5SVzDAgq) | 2:40 |
 | 67 | [Time Comes](https://open.spotify.com/track/1G2OUV7ka61VGYhnWpwe2v) | [Zeynep Erbay](https://open.spotify.com/artist/584BtJGKoe10AgSJsKq8nX) | [Time Comes](https://open.spotify.com/album/4HnjOlbGKznLwuRBiSOZqW) | 3:52 |

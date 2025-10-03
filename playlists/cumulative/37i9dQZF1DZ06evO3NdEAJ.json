@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Bueno",
+        "url": "https://open.spotify.com/album/7HOt4qsVcjMDIjF01YQsPw"
+      },
+      "artists": [
+        {
+          "name": "La Cultura Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189538,
+      "name": "Qu\u00e9 Bueno",
+      "url": "https://open.spotify.com/track/2EzbDeeupuIGDUWb7rB92D"
+    },
+    {
+      "album": {
         "name": "ROBOT",
         "url": "https://open.spotify.com/album/1ffcgZehqaCzpuu85BHshW"
       },
@@ -1338,7 +1360,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 162560,
       "name": "Si A\u00fan Pudieras Venir",
       "url": "https://open.spotify.com/track/4GYDxV6VEjQVrHBCSUlduV"

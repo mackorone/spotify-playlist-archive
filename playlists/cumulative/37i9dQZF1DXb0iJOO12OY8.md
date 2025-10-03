@@ -4,7 +4,7 @@
 
 > 🤝
 
-180 songs - 8 hr 27 min
+182 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bless Meg](https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bless Meg](https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq) | 2:24 | 2024-11-07 | 2025-04-02 |
 | [BLÅST](https://open.spotify.com/track/0mShuzpXpvDkAdwy3qEDeQ) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [BLÅST](https://open.spotify.com/album/6FBMQBfSe6ShJpDo6OxEye) | 2:48 | 2025-09-04 |  |
 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 | 2024-06-27 | 2024-08-16 |
+| [Bra For Meg](https://open.spotify.com/track/79CijW0BLwU5OvmYNmttyo) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5), [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Bra For Meg](https://open.spotify.com/album/2HxOPVUe7pzIqTNA8eoGcw) | 2:15 | 2025-10-02 |  |
 | [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 | 2025-05-12 |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-20 |
 | [Chit Chat](https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [Chit Chat](https://open.spotify.com/album/2Fw6u9hJvOOkcm0GJQdqhI) | 2:32 | 2025-06-26 | 2025-08-08 |
@@ -95,6 +96,7 @@
 | [konfetti](https://open.spotify.com/track/1qL6kHMI4KPCzG08xXQY1d) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [konfetti](https://open.spotify.com/album/3l1hJrenFvmlaFVfKCGeuo) | 2:41 | 2024-08-22 | 2024-09-06 |
 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 | 2024-09-12 | 2024-10-25 |
 | [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-09-05 | 2024-11-04 |
+| [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 | 2025-10-02 |  |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-09-19 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2024-09-30 |
 | [Let's Go](https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Let's Go](https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY) | 2:28 | 2024-09-05 | 2025-03-20 |
@@ -132,7 +134,7 @@
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-12-08 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 |  |
 | [Run It Up](https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Run It Up](https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1) | 2:27 | 2024-10-17 |  |
-| [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-31 |  |
+| [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-31 | 2025-10-03 |
 | [Røde Rubin](https://open.spotify.com/track/0Pdi9usvND947TMv869DmN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Røde Rubin](https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI) | 2:36 | 2024-06-27 | 2024-09-24 |
 | [SAHBI \- Remix](https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [SAHBI \(Remix\)](https://open.spotify.com/album/2jNGBfhHe5C5CtHUqHEKy0) | 2:49 | 2024-11-07 | 2024-12-20 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-08-07 | 2025-09-28 |
@@ -165,7 +167,7 @@
 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 | 2024-06-27 | 2025-03-02 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-27 | 2024-08-16 |
 | [Tilbake](https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Tilbake](https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y) | 2:07 | 2025-01-16 | 2025-05-12 |
-| [TIME](https://open.spotify.com/track/1RFT0A7lSYgLuFq90bGCqR) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [TIME](https://open.spotify.com/album/1nyjZWbJqcmuFo9eNGiXqx) | 1:55 | 2025-08-14 |  |
+| [TIME](https://open.spotify.com/track/1RFT0A7lSYgLuFq90bGCqR) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [TIME](https://open.spotify.com/album/1nyjZWbJqcmuFo9eNGiXqx) | 1:55 | 2025-08-14 | 2025-10-03 |
 | [Tinnitus](https://open.spotify.com/track/1Vg8nVA7saUhI7DhJ2OuRQ) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Tinnitus](https://open.spotify.com/album/0rqpGmci0z8C9AGQQzwYB2) | 1:46 | 2025-05-15 | 2025-06-20 |
 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2025-05-29 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-27 | 2025-07-01 |

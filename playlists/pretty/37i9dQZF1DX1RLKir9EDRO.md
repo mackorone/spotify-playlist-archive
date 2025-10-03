@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: sıla argun Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,170 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,175 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 72 | [Uykumdan Beni Uyandır](https://open.spotify.com/track/3XGUFoQjXVp14aDw5xvmWg) | [portreler](https://open.spotify.com/artist/6R2nUUyDTdGWj8HOB8Knrv) | [Uykumdan Beni Uyandır](https://open.spotify.com/album/2UXuyzGxJ8umvY7jDageqX) | 5:23 |
 | 73 | [ilk](https://open.spotify.com/track/5bqa2T8pBDYO7zimJHONCJ) | [Mert Üçkardeş](https://open.spotify.com/artist/0YyvO3CyEqiwVmNBKtAwj8) | [ilk](https://open.spotify.com/album/0ooHVswDJnvGsT5TbI8CY9) | 3:20 |
 
-Snapshot ID: `AAAAAPytBjhwrRnskNt5c+Dyncc25Odc`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

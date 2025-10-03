@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
-  "num_followers": 134477,
+  "description": "Net die beste Afrikaanse musiek! Omslag: Ivan Roux",
+  "num_followers": 134537,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3xQDK+YGvibKtCbyiGRvHJIQS2",
+  "snapshot_id": "AAAAAGoTuqpNNTJHjnAgRG3AvRgew4is",
   "tracks": [
     {
       "added_at": "2025-09-25 22:00:24",
       "album": {
-        "name": "Sarie Marais",
-        "url": "https://open.spotify.com/album/5sjp9cjRMXHQQzZzkqomlf"
+        "name": "Anders",
+        "url": "https://open.spotify.com/album/0OQz7VerEPNrOkDDSxm2Uc"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Sarie Marais",
-      "url": "https://open.spotify.com/track/0oNC8qRsiWTKxhmUzol4Lw"
+      "duration_ms": 168823,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/7zRwT0qN0bcJ3YZ8i0BJBW"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
-      "added_at": "2025-09-11 22:00:22",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 216992,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ"
-    },
-    {
       "added_at": "2025-08-14 22:00:43",
       "album": {
         "name": "Plaas Dorp Toe",
@@ -73,20 +57,20 @@
       "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
     },
     {
-      "added_at": "2025-08-28 22:00:24",
+      "added_at": "2025-09-25 22:00:24",
       "album": {
-        "name": "Ek Kannie",
-        "url": "https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn"
+        "name": "Sarie Marais",
+        "url": "https://open.spotify.com/album/5sjp9cjRMXHQQzZzkqomlf"
       },
       "artists": [
         {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 198832,
-      "name": "Ek Kannie",
-      "url": "https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF"
+      "duration_ms": 196173,
+      "name": "Sarie Marais",
+      "url": "https://open.spotify.com/track/0oNC8qRsiWTKxhmUzol4Lw"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -121,36 +105,20 @@
       "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
     },
     {
-      "added_at": "2025-08-14 22:00:43",
+      "added_at": "2025-09-11 22:00:22",
       "album": {
-        "name": "Pakkie Mal Berou (Marlboro)",
-        "url": "https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 166935,
-      "name": "Pakkie Mal Berou (Marlboro)",
-      "url": "https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+      "duration_ms": 216992,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -169,20 +137,36 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
-      "added_at": "2025-09-18 22:00:35",
+      "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Kom Klop Weer",
-        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
       "artists": [
         {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 175147,
-      "name": "Kom Klop Weer",
-      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2025-08-28 22:00:24",
+      "album": {
+        "name": "Ek Kannie",
+        "url": "https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 198832,
+      "name": "Ek Kannie",
+      "url": "https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -225,20 +209,20 @@
       "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
     },
     {
-      "added_at": "2025-09-18 22:00:35",
+      "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Praat Duits",
-        "url": "https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh"
+        "name": "Pakkie Mal Berou (Marlboro)",
+        "url": "https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 207078,
-      "name": "Praat Duits",
-      "url": "https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR"
+      "duration_ms": 166935,
+      "name": "Pakkie Mal Berou (Marlboro)",
+      "url": "https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -273,20 +257,20 @@
       "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
     },
     {
-      "added_at": "2025-09-25 22:00:24",
+      "added_at": "2025-09-18 22:00:35",
       "album": {
-        "name": "Anders",
-        "url": "https://open.spotify.com/album/0OQz7VerEPNrOkDDSxm2Uc"
+        "name": "Kom Klop Weer",
+        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
       },
       "artists": [
         {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
         }
       ],
-      "duration_ms": 168823,
-      "name": "Anders",
-      "url": "https://open.spotify.com/track/7zRwT0qN0bcJ3YZ8i0BJBW"
+      "duration_ms": 175147,
+      "name": "Kom Klop Weer",
+      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -323,26 +307,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Winter In Die Kaap",
-        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        },
-        {
-          "name": "Bella",
-          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
-        }
-      ],
-      "duration_ms": 206271,
-      "name": "Winter In Die Kaap",
-      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Wil Jy Bly",
         "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
       },
@@ -355,6 +319,22 @@
       "duration_ms": 187391,
       "name": "Wil Jy Bly",
       "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
+    },
+    {
+      "added_at": "2025-09-18 22:00:35",
+      "album": {
+        "name": "Praat Duits",
+        "url": "https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Praat Duits",
+      "url": "https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -371,22 +351,6 @@
       "duration_ms": 192567,
       "name": "Vlerke",
       "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
-    },
-    {
-      "added_at": "2025-09-18 22:00:35",
-      "album": {
-        "name": "Ek Sal Nie Bang Wees Nie",
-        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Ek Sal Nie Bang Wees Nie",
-      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -407,22 +371,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Die Boer Hier Binne My",
-        "url": "https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 200886,
-      "name": "Die Boer Hier Binne My",
-      "url": "https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Klein Bietjie",
         "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
       },
@@ -439,6 +387,38 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Die Boer Hier Binne My",
+        "url": "https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 200886,
+      "name": "Die Boer Hier Binne My",
+      "url": "https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Hart Breek",
         "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Winter In Die Kaap",
+        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        },
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "Winter In Die Kaap",
+      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -507,18 +507,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Omdat Jy Mag",
-        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
+        "name": "As Ek Dalk (feat. Eloff)",
+        "url": "https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        },
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Madelein",
-      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
+      "duration_ms": 189183,
+      "name": "As Ek Dalk (feat. Eloff)",
+      "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
     },
     {
       "added_at": "2025-09-04 22:00:22",
@@ -539,22 +543,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "As Ek Dalk (feat. Eloff)",
-        "url": "https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs"
+        "name": "Omdat Jy Mag",
+        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
       },
       "artists": [
         {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        },
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 189183,
-      "name": "As Ek Dalk (feat. Eloff)",
-      "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
+      "duration_ms": 213000,
+      "name": "Madelein",
+      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -591,8 +591,8 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Heito Potato",
-        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+        "name": "Klomp Keer Lekker",
+        "url": "https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 217342,
-      "name": "Heito Potato",
-      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+      "duration_ms": 185625,
+      "name": "Klomp Keer Lekker",
+      "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
     },
     {
       "added_at": "2025-09-25 22:00:24",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Klomp Keer Lekker",
-        "url": "https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Klomp Keer Lekker",
-      "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Liewe Jinne!",
         "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 196208,
       "name": "Carina",
       "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
+    },
+    {
+      "added_at": "2025-09-18 22:00:35",
+      "album": {
+        "name": "Ek Sal Nie Bang Wees Nie",
+        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Ek Sal Nie Bang Wees Nie",
+      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
     },
     {
       "added_at": "2025-08-14 22:00:43",

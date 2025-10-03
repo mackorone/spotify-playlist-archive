@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-418 songs - 22 hr 21 min
+420 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 | 2025-05-16 |
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
 | [Ain’t The Feeling](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feeling](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 | 2025-09-18 |  |
-| [Aj aj aj](https://open.spotify.com/track/58d0Vr4RlIysOjy7KLDfOd) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx) | [Aj aj aj](https://open.spotify.com/album/0c0eCmaKMewlC0AsZCKeZp) | 3:40 | 2025-09-25 |  |
+| [Aj aj aj](https://open.spotify.com/track/58d0Vr4RlIysOjy7KLDfOd) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx) | [Aj aj aj](https://open.spotify.com/album/0c0eCmaKMewlC0AsZCKeZp) | 3:40 | 2025-09-25 | 2025-10-03 |
 | [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 | 2025-04-11 | 2025-08-08 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-09-26 |
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-28 | 2024-09-13 |
@@ -233,6 +233,7 @@
 | [Känner du som jag](https://open.spotify.com/track/5kUFLSWuw22NJ6JDHOloGQ) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Känner du som jag](https://open.spotify.com/album/4ZF61pqBugl8Ep78uBeq7h) | 2:46 | 2025-06-19 | 2025-06-27 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |
 | [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
+| [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 |  |
 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 |  |
 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 | 2025-09-05 |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
@@ -390,7 +391,7 @@
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 | 2024-09-21 |
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 |  |
 | [Tjejerna](https://open.spotify.com/track/0933FD1xHrm3KGjkz1cMl5) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Tjejerna](https://open.spotify.com/album/4v8as5ZYEZakizcgP0iVWW) | 3:05 | 2025-06-05 | 2025-06-13 |
-| [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 |  |
+| [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |
@@ -417,6 +418,7 @@
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 | 2025-04-11 |
+| [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 | 2025-10-02 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 | 2025-04-18 |
 | [Willing To Wait](https://open.spotify.com/track/2cM1WarAAfBSUy3jPnhfRK) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Willing To Wait](https://open.spotify.com/album/42hStPTLaxE3Uvp0PB3qdb) | 2:20 | 2024-11-08 | 2025-01-19 |
 | [Yine Aşık Oldum Sana](https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk) | [Bahoz & Baran](https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6) | [Yine Aşık Oldum Sana](https://open.spotify.com/album/73gHXKxN8SoaX6UAIUXjq4) | 2:35 | 2024-11-08 | 2024-12-13 |

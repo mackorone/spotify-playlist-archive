@@ -1,15 +1,31 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33412,
+  "num_followers": 33402,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOUka525I75EKe0RBuOptvDXQ0ms",
+  "snapshot_id": "AAAAAAO+QrxEOTsOGx13f39CH2mKgNl0",
   "tracks": [
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Let's Get This Over With",
+        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Let's Get This Over With",
+      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "Rolling on a Dime",
-        "url": "https://open.spotify.com/album/19kvlZcYGKC7AieVWT6HtI"
-      },
-      "artists": [
-        {
-          "name": "Quinty's",
-          "url": "https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl"
-        }
-      ],
-      "duration_ms": 187470,
-      "name": "Rolling on a Dime",
-      "url": "https://open.spotify.com/track/6PomA1h11dVqihNpfNigIE"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Easy Life",
         "url": "https://open.spotify.com/album/206v7teAzPoMfY23O9DUwW"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1YvVadVHxdfV12W5r0sah9"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "All Behind",
         "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
@@ -73,23 +73,27 @@
       "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "In The Middle Of It",
-        "url": "https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE"
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/6WVZ1hVOIvNLNbIGFQnbuD"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        },
+        {
+          "name": "Leadbeaters",
+          "url": "https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf"
         }
       ],
-      "duration_ms": 240381,
-      "name": "In The Middle Of It",
-      "url": "https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW"
+      "duration_ms": 154000,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/2U3123BdoHk8xWsd8w5kFR"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Price to Pay",
         "url": "https://open.spotify.com/album/3IsElk3HJh226iGNeTPxIH"
@@ -105,39 +109,39 @@
       "url": "https://open.spotify.com/track/16QL1ZjC623wP84nkfMU1T"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "Buckle Down",
-        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
+        "name": "Wanderings",
+        "url": "https://open.spotify.com/album/28DGp5jcVGfb33fUl8ou2L"
       },
       "artists": [
         {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 166957,
-      "name": "Buckle Down",
-      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
+      "duration_ms": 213853,
+      "name": "Wanderings",
+      "url": "https://open.spotify.com/track/1yXyhyBswAdt1JHqGgzXa2"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Rolling on a Dime",
+        "url": "https://open.spotify.com/album/19kvlZcYGKC7AieVWT6HtI"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Quinty's",
+          "url": "https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 187470,
+      "name": "Rolling on a Dime",
+      "url": "https://open.spotify.com/track/6PomA1h11dVqihNpfNigIE"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "LEO",
         "url": "https://open.spotify.com/album/0iwv7taqBBnXTqPI4p1fYg"
@@ -153,7 +157,7 @@
       "url": "https://open.spotify.com/track/2AHfDqdnzfXBwLoKFoWsmg"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "For Once",
         "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
@@ -169,7 +173,71 @@
       "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Buckle Down",
+        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 166957,
+      "name": "Buckle Down",
+      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Half Of It",
+        "url": "https://open.spotify.com/album/49R2nthDOLABxJWdqr91H7"
+      },
+      "artists": [
+        {
+          "name": "Jaimi Faulkner",
+          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
+        }
+      ],
+      "duration_ms": 293990,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/3hPOKGzIXE8Zn2uCllmviN"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "In The Middle Of It",
+        "url": "https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 240381,
+      "name": "In The Middle Of It",
+      "url": "https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
@@ -189,23 +257,71 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "Half Of It",
-        "url": "https://open.spotify.com/album/49R2nthDOLABxJWdqr91H7"
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
       },
       "artists": [
         {
-          "name": "Jaimi Faulkner",
-          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 293990,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/3hPOKGzIXE8Zn2uCllmviN"
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Til The Sun Goes Down",
+        "url": "https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 169634,
+      "name": "O.D.",
+      "url": "https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
@@ -225,39 +341,7 @@
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
@@ -273,23 +357,7 @@
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "Til The Sun Goes Down",
-        "url": "https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 169634,
-      "name": "O.D.",
-      "url": "https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
@@ -309,23 +377,7 @@
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Blindfaller",
         "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
@@ -341,7 +393,7 @@
       "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
@@ -357,7 +409,7 @@
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Wanna Be Loved",
         "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
@@ -389,7 +441,7 @@
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "I WANT MY LOVED ONES TO GO WITH ME",
         "url": "https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Elderberry Wine",
         "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
@@ -425,7 +477,7 @@
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
@@ -457,7 +509,7 @@
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "It Takes A Woman",
         "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
@@ -473,7 +525,7 @@
       "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "The Man He Sees in Me",
         "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
@@ -489,7 +541,7 @@
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "New Country (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
@@ -529,7 +581,7 @@
       "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
@@ -549,7 +601,7 @@
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Like It Always Was",
         "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
@@ -565,7 +617,7 @@
       "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
@@ -581,7 +633,7 @@
       "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Can A Heart Take",
         "url": "https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Every Town",
         "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
@@ -645,7 +697,7 @@
       "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Moondog",
         "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
@@ -661,7 +713,7 @@
       "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
@@ -701,7 +753,7 @@
       "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
@@ -717,7 +769,7 @@
       "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
@@ -733,7 +785,7 @@
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
@@ -749,7 +801,7 @@
       "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Castaways",
         "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
@@ -769,7 +821,7 @@
       "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Sugar in the Tank",
         "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
@@ -789,7 +841,7 @@
       "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
     },
     {
-      "added_at": "2025-09-25 22:00:14",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Everlastingly",
         "url": "https://open.spotify.com/album/09qQhI75Wea2oUagJtYNJe"
@@ -803,58 +855,6 @@
       "duration_ms": 194175,
       "name": "Everlastingly",
       "url": "https://open.spotify.com/track/4adqsG2XY26kxpZlQSLyY4"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "One Deep River",
-        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 257346,
-      "name": "One Deep River",
-      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Granite Mills",
-      "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
-    },
-    {
-      "added_at": "2025-09-25 22:00:14",
-      "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     }
   ],
   "unique_name": "Country & Americana",

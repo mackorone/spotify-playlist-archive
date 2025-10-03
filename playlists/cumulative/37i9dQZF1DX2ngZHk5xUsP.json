@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 359000,
       "name": "False Alarm",
       "url": "https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs"
@@ -1412,6 +1412,24 @@
       "duration_ms": 243600,
       "name": "SANTAIKAN SAJA",
       "url": "https://open.spotify.com/track/43pbB3WIe5C6aY65XTgfB1"
+    },
+    {
+      "album": {
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Satu Kali",
+      "url": "https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H"
     },
     {
       "album": {

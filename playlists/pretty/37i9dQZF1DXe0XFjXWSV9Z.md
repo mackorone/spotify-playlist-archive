@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,059 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,069 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 94 | [Sonaja y Tambor](https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA) | [Salterio Marsupial](https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI), [Líber Terán](https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p) | [Sonaja y Tambor](https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL) | 3:57 |
 | 95 | [Paso Palante](https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Paso Palante](https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu) | 4:05 |
 | 96 | [Cumbia OceaÌnica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 |
-| 97 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
-| 98 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 |
+| 97 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 |
+| 98 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
 | 99 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 |
 | 100 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 |
 

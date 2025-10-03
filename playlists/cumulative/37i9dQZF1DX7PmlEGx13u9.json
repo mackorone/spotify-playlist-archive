@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-22",
-  "description": "Certified R&B hits. Cover: Jaz Karis, Joshua Baraka",
+  "description": "Certified R&B hits. Cover: Bryson Tiller",
   "name": "Certi: R&B",
   "tracks": [
     {
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
+    },
+    {
+      "album": {
         "name": "In 2 Deep",
         "url": "https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8"
       },
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 178948,
       "name": "Out Of Luck (feat. Mariah the Scientist)",
       "url": "https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c"

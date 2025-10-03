@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,678 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,743 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,12 +132,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 122 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 |
 | 123 | [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 |
 | 124 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 |
-| 125 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 125 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 126 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 |
 | 127 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 |
 | 128 | [My Midnight Velvet](https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [My Midnight Velvet](https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH) | 3:38 |
 | 129 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 |
-| 130 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
+| 130 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
 | 131 | [Dreams About Change](https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Dreams About Change](https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf) | 3:17 |
 | 132 | [Ducks for cover](https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Ducks for cover](https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz) | 2:40 |
 | 133 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 |

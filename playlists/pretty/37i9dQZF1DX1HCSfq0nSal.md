@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Yung Beef, Xiyo, Fernandezz, Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,746 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,679 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 25 | [RU MOR](https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC) | 2:26 |
 | 26 | [Killa](https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Killa](https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u) | 3:08 |
 | 27 | [Modales](https://open.spotify.com/track/0XJVGqlwUheL7ZIqlYRyKr) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 3:34 |
-| 28 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 |
+| 28 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 |
 | 29 | [Primer Lugar](https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Primer Lugar](https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe) | 4:05 |
 | 30 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
 | 31 | [Party Privado \(feat\. Raul Clyde\)](https://open.spotify.com/track/5HYNvdGdepoSArZ1fW1x8v) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk) | [Party Privado \(feat\. Raul Clyde\)](https://open.spotify.com/album/32bV0HDZujzyxjNFW1zFrY) | 4:15 |

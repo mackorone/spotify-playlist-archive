@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 76112,
+  "num_followers": 76172,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,30 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Blue Haze",
-        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
+        "name": "The Best Of Art Tatum",
+        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
       "artists": [
         {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "John Simmons",
+          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
+        },
+        {
+          "name": "Alvin Stoller",
+          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Tune-Up",
-      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
+      "duration_ms": 367600,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -479,30 +491,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "The Best Of Art Tatum",
-        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        },
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "John Simmons",
-          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
-        },
-        {
-          "name": "Alvin Stoller",
-          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
         }
       ],
-      "duration_ms": 367600,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+      "duration_ms": 233333,
+      "name": "Tune-Up",
+      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
     },
     {
       "added_at": "2025-09-10 12:53:12",

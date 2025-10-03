@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,975 likes - 200 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,126 likes - 200 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 126 | [My Mistakes](https://open.spotify.com/track/7s4oZhKqHTi77Qx4RPIOmx) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [My Mistakes](https://open.spotify.com/album/4Uv6cZ7LsTVkPzQb9U1XIW) | 3:54 |
 | 127 | [Velvet Lounge Reverie](https://open.spotify.com/track/5ubFgdUwUuPtaNlMq0rgD6) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Velvet Lounge Reverie](https://open.spotify.com/album/3WQaiEOLo1bjvZwOUdqCAx) | 3:07 |
 | 128 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 |
-| 129 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
+| 129 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
 | 130 | [Make It Rain](https://open.spotify.com/track/6VJYqWMZzlammTuuPSJC09) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Make It Rain](https://open.spotify.com/album/35eoTArdoBLU6DD4d9wplC) | 2:29 |
 | 131 | [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 |
 | 132 | [A Rainy Night](https://open.spotify.com/track/3Ny1CmI8hRfDpwi1tyJut3) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [A Rainy Night](https://open.spotify.com/album/4obwJxbE1hcOa94R8ydLTk) | 3:25 |
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 161 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 |
 | 162 | [I Should Care](https://open.spotify.com/track/0Fuv0sclTFK36rSTMhklUi) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [I Should Care](https://open.spotify.com/album/3FHi9xLPL0jYEcz1c6it1A) | 2:54 |
 | 163 | [Largo](https://open.spotify.com/track/33TmnZLYZnX5zdY29lUkvi) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Largo](https://open.spotify.com/album/3X8HJ1U5is918lfD248uwD) | 3:00 |
-| 164 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
+| 164 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
 | 165 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 |
 | 166 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 |
 | 167 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 |

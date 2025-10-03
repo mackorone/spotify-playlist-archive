@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: TJ Monterde
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,339 likes - 54 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,079,044 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 48 | [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 |
 | 49 | [POGI](https://open.spotify.com/track/1PmTiq3Z2ZExb7r8Xf8dVi) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [POGI](https://open.spotify.com/album/19KMiGDK3ZQWqc4qPFRM8p) | 3:03 |
 | 50 | [Filipina Queen](https://open.spotify.com/track/2Svd6sWbcaj63h5JHEvEyg) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Filipina Queen](https://open.spotify.com/album/3FyqqGezafiSyZDA7BJvTu) | 3:09 |
-| 51 | [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [Cholow](https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 |
-| 52 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 |
-| 53 | [tulad ng dati](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [tulad ng dati](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 |
-| 54 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
+| 51 | [ANTOXIC](https://open.spotify.com/track/5QttlrC4uyjZt15VI4LulN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 4:10 |
+| 52 | [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [Cholow](https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 |
+| 53 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 |
+| 54 | [Gabi\-Gabi](https://open.spotify.com/track/0VD8nNbhZwthMjutmj4O5X) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Gabi\-Gabi](https://open.spotify.com/album/4T6XW4vmK6Zlcw2mP2tNdl) | 4:25 |
+| 55 | [tulad ng dati](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [tulad ng dati](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 |
+| 56 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
 
-Snapshot ID: `AAAAAHUc0Jp6+cYd55IS6lQiiOZ0LDUH`
+Snapshot ID: `AAAAALiv+Fsvrd3k1KpTRf2bCVszjjNo`

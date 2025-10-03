@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 121 | [My Only \- Australian Version](https://open.spotify.com/track/01VFBMQLUpPQNToSqz2eIW) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:32 |
 | 122 | [Universe](https://open.spotify.com/track/4fQdAobfVctSk2ktC3zCS4) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills EP](https://open.spotify.com/album/1G9NhKyIZ3aFL3eoLr1C5s) | 3:25 |
 | 123 | [Miracles](https://open.spotify.com/track/4PHMdyklCcSlTCOvW4sJN5) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:24 |
-| 124 | [Tucan](https://open.spotify.com/track/4iWxyU3bl4KBozjH4fuVkR) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:57 |
-| 125 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
+| 124 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
+| 125 | [Tucan](https://open.spotify.com/track/4iWxyU3bl4KBozjH4fuVkR) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:57 |
 | 126 | [Can't Help Myself](https://open.spotify.com/track/7IwihaZkKuKGB4UkzL4TPY) | [The V Motion Project](https://open.spotify.com/artist/0hrAoynZTWGkQTuFrmguc8) | [Can't Help Myself](https://open.spotify.com/album/3tF2Cjls2RsgUG4szvpCZz) | 2:57 |
 | 127 | [It's Nice to Feel This Way Again](https://open.spotify.com/track/59tXrequSEaYqew4Ho1BR5) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:25 |
 | 128 | [Death Goes to Disco](https://open.spotify.com/track/6pahHXIyqb8ZHHxiggzcKu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:34 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab9ulAAAAADovlIQ7Sg2vWnnpz3jnMJM`
+Snapshot ID: `Ab90ZgAAAAD6jxahgOSzCVeGKaIgbKLj`

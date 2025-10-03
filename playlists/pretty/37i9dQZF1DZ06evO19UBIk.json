@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 683365,
+  "num_followers": 683416,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACMg074hHvOZQg/d5rngw9A",
+  "snapshot_id": "aNxvAAAAAABnIi+Iy2Wj3SL+Bv5fWZiT",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 30893,
-      "name": "Yachting (Hyper)",
-      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 255600,
       "name": "The Spy",
       "url": "https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 201106,
-      "name": "The Unknown Soldier",
-      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
+      "duration_ms": 234440,
+      "name": "Not to Touch the Earth",
+      "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 234440,
-      "name": "Not to Touch the Earth",
-      "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
+      "duration_ms": 201106,
+      "name": "The Unknown Soldier",
+      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
     },
     {
       "added_at": null,

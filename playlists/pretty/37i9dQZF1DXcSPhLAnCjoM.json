@@ -1,35 +1,15 @@
 {
-  "description": "\"Soleil Bleu\", de Bleu Soleil et LUIZA, est le Grand Hit de la semaine.",
-  "num_followers": 1025658,
+  "description": "\"Viens on essaie\" de Vitaa et Julien Dor\u00e9 est le Grand Hit de la semaine",
+  "num_followers": 1025637,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIp5Pyi4Z3wVh5CWVEQB7SRKGp3",
+  "snapshot_id": "AAAAAFAqa3qNewXWvN9ikdhaykJl9MXr",
   "tracks": [
     {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Soleil Bleu",
-        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Soleil",
-          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
-        },
-        {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Soleil Bleu",
-      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Viens on essaie",
         "url": "https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY"
@@ -49,23 +29,59 @@
       "url": "https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
+        "name": "Soleil Bleu",
+        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
       "artists": [
         {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
-      "duration_ms": 189725,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
+      "duration_ms": 246000,
+      "name": "Soleil Bleu",
+      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "DO YOU LOVE ME ?",
+        "url": "https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 169615,
+      "name": "DO YOU LOVE ME ?",
+      "url": "https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Mille fois",
+        "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Mille fois",
+      "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Coeur maladroit",
         "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
@@ -81,7 +97,39 @@
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "L'amour fou",
+        "url": "https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "L'amour fou",
+      "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY"
@@ -101,55 +149,7 @@
       "url": "https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "L'amour fou",
-        "url": "https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "L'amour fou",
-      "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "99 Nights (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Autrement",
         "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
@@ -165,43 +165,7 @@
       "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Mille fois",
-        "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Mille fois",
-      "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "M'envoler",
-        "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        },
-        {
-          "name": "Carla",
-          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "M'envoler",
-      "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "H\u00e9l\u00e9",
         "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
@@ -217,151 +181,7 @@
       "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "DO YOU LOVE ME ?",
-        "url": "https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 169615,
-      "name": "DO YOU LOVE ME ?",
-      "url": "https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Nous",
-        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 155290,
-      "name": "Nous",
-      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "les filles, les meufs",
-        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
-      },
-      "artists": [
-        {
-          "name": "marguerite",
-          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "les filles, les meufs",
-      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "No Name - Single Version",
-      "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Tant pis pour elle",
-        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 158185,
-      "name": "Tant pis pour elle",
-      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Un dimanche avec toi",
-      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "HORS DU TEMPS",
-        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "HORS DU TEMPS",
-      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "L'horizon",
-      "url": "https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Reflet",
-        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 168394,
-      "name": "Reflet",
-      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "\u00c0 qui le tour",
         "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
@@ -381,7 +201,151 @@
       "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "L'horizon",
+      "url": "https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Tant pis pour elle",
+        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 158185,
+      "name": "Tant pis pour elle",
+      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Nous",
+        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 155290,
+      "name": "Nous",
+      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "les filles, les meufs",
+        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "les filles, les meufs",
+      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "No Name - Single Version",
+      "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Dis-moi oui",
+        "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 236119,
+      "name": "Dis-moi oui",
+      "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "HORS DU TEMPS",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "HORS DU TEMPS",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Mon sang",
+        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Cette vie",
+      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "\u00c0 tes c\u00f4t\u00e9s",
         "url": "https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1"
@@ -401,7 +365,39 @@
       "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "MINUIT UNE",
+        "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Pourquoi tu restes",
+      "url": "https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 168394,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Toi jamais",
         "url": "https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ"
@@ -417,7 +413,39 @@
       "url": "https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168046,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Gamin des sables",
         "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
@@ -433,7 +461,23 @@
       "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Un dimanche avec toi",
+      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Bouquet final",
         "url": "https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA"
@@ -449,23 +493,7 @@
       "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Un, Dos, Tres",
-        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Un, Dos, Tres",
-      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Falbala",
         "url": "https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL"
@@ -481,23 +509,27 @@
       "url": "https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "Ma faute",
-        "url": "https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT"
+        "name": "M'envoler",
+        "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
       },
       "artists": [
         {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
         }
       ],
-      "duration_ms": 199376,
-      "name": "Ma faute",
-      "url": "https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU"
+      "duration_ms": 189786,
+      "name": "M'envoler",
+      "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Les \u00e9toiles",
         "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
@@ -513,7 +545,39 @@
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Ma faute",
+        "url": "https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Ma faute",
+      "url": "https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
+      "album": {
+        "name": "Caf\u00e9 froid",
+        "url": "https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G"
+      },
+      "artists": [
+        {
+          "name": "Chiloo",
+          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Caf\u00e9 froid",
+      "url": "https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6"
+    },
+    {
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
@@ -529,7 +593,7 @@
       "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "APPELLE TA COPINE",
         "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
@@ -545,7 +609,7 @@
       "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Fille lacrymale",
         "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
@@ -561,7 +625,7 @@
       "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Courage (Edit)",
         "url": "https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n"
@@ -577,55 +641,7 @@
       "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "L'amour",
-        "url": "https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "L'amour",
-      "url": "https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "Je pars mais je reste",
-        "url": "https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu"
-      },
-      "artists": [
-        {
-          "name": "Charles Dor\u00e9",
-          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Je pars mais je reste",
-      "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "maman",
-        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 180195,
-      "name": "maman",
-      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
         "name": "Allons Voir",
         "url": "https://open.spotify.com/album/14J8yvy5eUlDnxN266550W"
@@ -641,36 +657,20 @@
       "url": "https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW"
     },
     {
-      "added_at": "2025-09-25 22:00:17",
+      "added_at": "2025-10-02 22:00:43",
       "album": {
-        "name": "Sains et saufs",
-        "url": "https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ"
+        "name": "Je pars mais je reste",
+        "url": "https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu"
       },
       "artists": [
         {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Sains et saufs",
-      "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
-    },
-    {
-      "added_at": "2025-09-25 22:00:17",
-      "album": {
-        "name": "MINUIT UNE",
-        "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
-      },
-      "artists": [
-        {
-          "name": "Amel Bent",
-          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
-        }
-      ],
-      "duration_ms": 167653,
-      "name": "Pourquoi tu restes",
-      "url": "https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M"
+      "duration_ms": 200106,
+      "name": "Je pars mais je reste",
+      "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
     }
   ],
   "unique_name": "Grand Hit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Cameron Whitcomb, Tate McRae, Patrick Watson, Rochelle Jordan, Cœur de Pirate and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,884 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,873 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 69 | [Icarus](https://open.spotify.com/track/5oypXoPkWAQ9fDJ6ghK49l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whomp Whack Thunder](https://open.spotify.com/album/2aR3LbCAYgpurZIgyjBlOs) | 4:20 |
 | 70 | [CANADIAN IDOL](https://open.spotify.com/track/1eMzy8NGcys3TLBnIkvxen) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [LILITH](https://open.spotify.com/album/7ksSlnjT2R7LZimAojlRH0) | 2:31 |
 | 71 | [Arte Como Amante](https://open.spotify.com/track/6BXNHgJ3S22nkho8kaZuIy) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Arte Como Amante](https://open.spotify.com/album/2Yr7RV0myc2RAjJ9ruNGRG) | 4:26 |
-| 72 | [Freaks \(w/ DEV\)](https://open.spotify.com/track/46cdEl9gJxePB1IHT0ng1p) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Freaks \(w/ DEV\)](https://open.spotify.com/album/2zlKhUN6HkQl8a8bpL41eT) | 2:00 |
+| 72 | [Freaks](https://open.spotify.com/track/46cdEl9gJxePB1IHT0ng1p) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Freaks](https://open.spotify.com/album/2zlKhUN6HkQl8a8bpL41eT) | 2:00 |
 | 73 | [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 |
 | 74 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
 | 75 | [Light Night Mountains All That](https://open.spotify.com/track/7F6UQyVvrmYAVyxxUF2MhT) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Light Night Mountains All That](https://open.spotify.com/album/70luuxMCnRdkfUwiEr6nKg) | 5:58 |

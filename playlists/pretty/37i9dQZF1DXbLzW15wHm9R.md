@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Superman
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,279 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,320 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 3 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 | 4 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 5 | [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 |
-| 6 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
+| 6 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
 | 7 | [Jinu’s Lament](https://open.spotify.com/track/4QtSWwLs2zvA0MdHmiN0gr) | [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70) | [KPop Demon Hunters \(Soundtrack from the Netflix Film / Deluxe Version\)](https://open.spotify.com/album/50O9cXkFsQs8z0RV0UOvvl) | 0:46 |
 | 8 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 |
 | 9 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |

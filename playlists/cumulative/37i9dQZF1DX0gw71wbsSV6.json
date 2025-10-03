@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Annabelle",
+        "url": "https://open.spotify.com/album/4Lb1ip97KpMT1OZjc1Q9i8"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129642,
+      "name": "Annabelle",
+      "url": "https://open.spotify.com/track/1tyv2KT1wqkJVuGlBf3KBE"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -1454,6 +1472,24 @@
       "duration_ms": 234400,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc"
+    },
+    {
+      "album": {
+        "name": "Ditinggal Begitu Saja",
+        "url": "https://open.spotify.com/album/52UIvUCYfWuAn1yMLOiUIs"
+      },
+      "artists": [
+        {
+          "name": "Danilla",
+          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Ditinggal Begitu Saja",
+      "url": "https://open.spotify.com/track/1uZHecyT15sI7RxrxnLKZX"
     },
     {
       "album": {
@@ -2740,7 +2776,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
@@ -3624,7 +3660,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"

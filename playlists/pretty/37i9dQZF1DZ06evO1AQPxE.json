@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 193555,
+  "num_followers": 193574,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAB8bFEnsnw8hPF0QoNcy2aT",
+  "snapshot_id": "aNxvAAAAAABWBXKX2I5CLgOPK9Efa7pG",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 255058,
+      "name": "RIVER ROAD",
+      "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 152533,
       "name": "Comic Sans (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 255058,
-      "name": "RIVER ROAD",
-      "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
     },
     {
       "added_at": null,

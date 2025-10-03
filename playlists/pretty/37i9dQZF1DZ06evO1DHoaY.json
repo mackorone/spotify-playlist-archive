@@ -1,29 +1,13 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2065859,
+  "num_followers": 2065895,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABWbf5eu3hsd/UHinco2Xha",
+  "snapshot_id": "aNxvAAAAAACY6CiJoNhjAr8uWIKJD8RE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
     {
       "added_at": null,
       "album": {
@@ -331,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iron Lion Zion",
-        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 202432,
-      "name": "Iron Lion Zion - 7\" Mix",
-      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 271023,
       "name": "Coming In From The Cold",
       "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iron Lion Zion",
+        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 202432,
+      "name": "Iron Lion Zion - 7\" Mix",
+      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "Bad Card",
+      "url": "https://open.spotify.com/track/2Zw5FtdFtvKWg4h44GOv3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "So Much Things To Say",
-      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 191866,
       "name": "Crazy Baldhead",
       "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 283066,
       "name": "Who The Cap Fit",
       "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Ambush In The Night",
-      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 216533,
       "name": "War",
       "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Ambush In The Night",
+      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Them Belly Full (But We Hungry)",
-      "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 213920,
       "name": "Positive Vibration",
       "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Them Belly Full (But We Hungry)",
+      "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Oikonomopoulos",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Konstantinos Pantelidis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Dos' Mou Ligo Oxygono",
+        "url": "https://open.spotify.com/album/6BHT3AJg58nznGsFDKZbv9"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Pantelidis",
+          "url": "https://open.spotify.com/artist/3PNijcYHdpSwu3up3IWR4U"
+        },
+        {
+          "name": "Pantelis Pantelidis",
+          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217439,
+      "name": "Dos' Mou Ligo Oxygono",
+      "url": "https://open.spotify.com/track/4HY0zeEgOg19YTG8f02NjJ"
+    },
+    {
+      "album": {
         "name": "Dromo Epikindino",
         "url": "https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp"
       },
@@ -640,7 +662,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 205384,
       "name": "Dysi Kai Anatoli",
       "url": "https://open.spotify.com/track/1SlEspnD2trG8pZSiUCy94"
@@ -2868,7 +2890,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 216857,
       "name": "Se Thelo Gia Mena",
       "url": "https://open.spotify.com/track/7Fbmh0X62mRwtFQA9oZI7L"
@@ -2974,6 +2996,24 @@
       "duration_ms": 149381,
       "name": "Sikose To Tilefono",
       "url": "https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy"
+    },
+    {
+      "album": {
+        "name": "Unplugged 2025",
+        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Simera - Unplugged",
+      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
     },
     {
       "album": {

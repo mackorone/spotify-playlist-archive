@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,083 songs - 2 day 12 hr 34 min
+1,084 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2NITE](https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [2NITE](https://open.spotify.com/album/3utDd56IEEsiwsFweMkqfB) | 3:19 | 2023-01-05 | 2023-03-18 |
 | [2Nite](https://open.spotify.com/track/0VeY3NqMDTymaHmFoQWAZq) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:47 | 2022-11-19 | 2022-11-22 |
 | [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-24 | 2022-11-20 |
+| [2NITEE](https://open.spotify.com/track/2QCsOTuZFLqrNrQ21OREdk) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [2NITEE / GONE](https://open.spotify.com/album/0PJu9ZzT3wXY5EEOAMnEAa) | 2:54 | 2025-10-02 |  |
 | [4D](https://open.spotify.com/track/2v4bGopODBEOQqWzg31R2s) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Ryan Coss](https://open.spotify.com/artist/22TzutcnmM3B1e7mWLY0f7) | [4D](https://open.spotify.com/album/7dPYE1Uoic9mBMFgwcqPaR) | 2:56 | 2024-01-08 | 2024-04-02 |
 | [505](https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Guilt Chip](https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P) | [505](https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at) | 3:00 | 2022-05-30 | 2022-08-11 |
 | [99 Octane](https://open.spotify.com/track/58HDy7QoiDCFZG9sxTxRfN) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Monstercat x Hospital Records](https://open.spotify.com/album/15NgKtJaUrVVJ7UwvtWtiO) | 2:59 | 2025-01-31 | 2025-05-01 |

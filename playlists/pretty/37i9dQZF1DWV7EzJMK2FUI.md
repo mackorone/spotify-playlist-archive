@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,041,221 likes - 497 songs - 1 day 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,042,078 likes - 497 songs - 1 day 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -483,7 +483,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 473 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 |
 | 474 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 |
 | 475 | [Faded Moment](https://open.spotify.com/track/4Q0ZXubqmxlZEKSDXQwe7O) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Faded Moment](https://open.spotify.com/album/0q3q8lgUdNuIx63NpBzlIm) | 2:38 |
-| 476 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
+| 476 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
 | 477 | [Brother Rabbit](https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Brother Rabbit](https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18) | 2:57 |
 | 478 | [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 |
 | 479 | [Story of My Dream](https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1) | [Almost Here](https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs) | [Story of My Dream](https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79) | 2:57 |

@@ -5328,7 +5328,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Just a Memory",
       "url": "https://open.spotify.com/track/3SHfCPmzURx6jznfOmDb9t"
@@ -6372,6 +6372,24 @@
       "duration_ms": 160014,
       "name": "LOVE U BETTER",
       "url": "https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez"
+    },
+    {
+      "album": {
+        "name": "Lying",
+        "url": "https://open.spotify.com/album/4lKdV1d6vnjJo17Gp8Q7Wf"
+      },
+      "artists": [
+        {
+          "name": "Ubo",
+          "url": "https://open.spotify.com/artist/5peplsISsiy24ahC61Z5Wr"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "Lying",
+      "url": "https://open.spotify.com/track/7Gzepfu9hyKve52N2BGgrI"
     },
     {
       "album": {
@@ -7902,7 +7920,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 199071,
       "name": "Pain Away - Atura Remix",
       "url": "https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL"

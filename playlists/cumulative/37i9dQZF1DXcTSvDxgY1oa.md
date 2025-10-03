@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Syot
 
-260 songs - 14 hr 1 min
+261 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [And sleeple$$ night$](https://open.spotify.com/track/7f801V8AjQlIzPs685kvYC) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [And sleeple$$ night$](https://open.spotify.com/album/7KvvAU1rN3AfhaqlA6zH9V) | 2:17 | 2025-05-07 | 2025-05-09 |
 | [Autofellatio](https://open.spotify.com/track/5g2gu1yzJ3jYQuIdEfWD3P) | [Fellatio](https://open.spotify.com/artist/6ZZjX94x3t55GigdSiidr4) | [Autofellatio](https://open.spotify.com/album/6obAqJ7a59OwnG9TcYnusf) | 2:44 | 2025-05-07 |  |
 | [Aşkım Benim](https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK) | [Kemal](https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5) | [Aşkım Benim](https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI) | 3:08 | 2025-05-07 |  |
-| [Bad Place](https://open.spotify.com/track/2NTGyJVScavdp5xZdaAkRo) | [Miss Starling](https://open.spotify.com/artist/2znAhxI4cVeGBd7e3G2t1E) | [Bad Place](https://open.spotify.com/album/5hwSOQb58sNwwH38TZtreH) | 3:10 | 2025-05-07 |  |
+| [Bad Place](https://open.spotify.com/track/2NTGyJVScavdp5xZdaAkRo) | [Miss Starling](https://open.spotify.com/artist/2znAhxI4cVeGBd7e3G2t1E) | [Bad Place](https://open.spotify.com/album/5hwSOQb58sNwwH38TZtreH) | 3:10 | 2025-05-07 | 2025-10-03 |
 | [Be Gone Now](https://open.spotify.com/track/07VxsgaKq3CK358NFjfRWP) | [Fit](https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf) | [Be Gone Now](https://open.spotify.com/album/1wsFs3qIxbQ6t6XIqDqCVQ) | 3:19 | 2025-05-07 |  |
 | [Belong](https://open.spotify.com/track/23herECwL0FJOKSvAO3Ens) | [Navigate](https://open.spotify.com/artist/5fyf5Kv3KCEOH2dWsHVWqZ), [Vincent Tesoro](https://open.spotify.com/artist/40E45BI9Qpg3gzcHe4NgPX) | [Nothing Ever Happens Around Here](https://open.spotify.com/album/6SDfF97SR7lQQWE50Nq3Qj) | 2:15 | 2024-07-01 | 2025-05-08 |
 | [Best Of You](https://open.spotify.com/track/7KzSKuXnthKDtGYg7ect4H) | [M.J.H\. Thompson](https://open.spotify.com/artist/4TNkOQJXNDKpFwVKjxMPf7), [Volksorkest](https://open.spotify.com/artist/4MPHOJhPo3RfssSblZ7Wl2) | [Best Of You](https://open.spotify.com/album/6m0TUbG4smeIIud4CxRROT) | 2:49 | 2025-07-16 |  |
@@ -222,6 +222,7 @@
 | [Take Me Somewhere Nice](https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV) | [32elephants](https://open.spotify.com/artist/1Gn8d7ZMm7DysJLkJj3NR3) | [Take Me Somewhere Nice](https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W) | 2:55 | 2024-07-01 | 2025-05-08 |
 | [Tanjiro](https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB) | [FAMKE](https://open.spotify.com/artist/554ztB5FNpDfdPmHYf59w3) | [Tanjiro](https://open.spotify.com/album/5IDIwsUx4ts2YqG3z8ftDY) | 2:21 | 2025-05-07 |  |
 | [That Day \- Live At Wisseloord Studios](https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ), [3SOME](https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh) | [That Day \(Live At Wisseloord Studios\)](https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa) | 3:29 | 2024-07-01 | 2024-09-17 |
+| [The Dream](https://open.spotify.com/track/2lhjOcISaIQCcm1dQh6eJ5) | [The Pekkers](https://open.spotify.com/artist/22D5gB31snumzOzjp48D1R) | [The Dream](https://open.spotify.com/album/5vCQ1Tsf1XSPwQ7Z1ODLIQ) | 3:03 | 2025-09-30 |  |
 | [the grand scheme of things](https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [the grand scheme of things](https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe) | 3:56 | 2024-07-01 | 2025-05-08 |
 | [The Hanging Clown](https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ) | [Outahead](https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ) | [The Hanging Clown](https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4) | 2:57 | 2024-07-01 | 2024-09-17 |
 | [The Immortal Gerard](https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [The Immortal Gerard](https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J) | 4:11 | 2025-09-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1651678,
+  "num_followers": 1651743,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABCN/6k+igvPrexSOCSyv6z",
+  "snapshot_id": "aNxvAAAAAADdNmFF6wlhXgxDz/bNIiX2",
   "tracks": [
     {
       "added_at": null,
@@ -883,18 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends Never Die (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
       "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 208360,
-      "name": "All Life Long",
-      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
+      "duration_ms": 166400,
+      "name": "Nuketown (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
     },
     {
       "added_at": null,
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "STOKELEY",
-        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
       },
       "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Nuketown (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
+      "duration_ms": 208360,
+      "name": "All Life Long",
+      "url": "https://open.spotify.com/track/7mSNtdW0ibJwhaoI2y6RAv"
     }
   ],
   "unique_name": "This Is Juice WRLD",

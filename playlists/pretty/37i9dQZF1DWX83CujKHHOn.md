@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,322,930 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,323,000 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 144 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 |
 | 145 | [Let Me Down Slowly](https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Let Me Down Slowly](https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps) | 2:49 |
 | 146 | [All I Want](https://open.spotify.com/track/1XczdQt6RKNkEQfPqUsi3q) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [The Kodaline EP](https://open.spotify.com/album/13UF27he6juTSHhQHHjnL1) | 5:06 |
-| 147 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Eternal Love](https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp) | 4:14 |
-| 148 | [Never Be Alone](https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR) | 3:35 |
+| 147 | [Never Be Alone](https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR) | 3:35 |
+| 148 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Eternal Love](https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp) | 4:14 |
 | 149 | [Sad Song \(feat\. Elena Coats\)](https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [Somewhere Somehow](https://open.spotify.com/album/1d5UvO6jHEchSbMIV0qrTM) | 3:46 |
 | 150 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 |
 

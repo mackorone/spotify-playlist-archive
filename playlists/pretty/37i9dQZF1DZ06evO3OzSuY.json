@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24784,
+  "num_followers": 24786,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAB90VPUV09gVF/1+U7H0Kjb",
+  "snapshot_id": "aNxvAAAAAADe12CKN9HAhACfhA84t9/D",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Channel Play It Loud",
-        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Remember Me - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 230207,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disney Channel Play It Loud",
+        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Remember Me - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Soul",
         "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 268973,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 146186,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
     }
   ],
   "unique_name": "This Is Zendaya",

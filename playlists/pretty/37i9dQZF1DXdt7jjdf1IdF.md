@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,719 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,728 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 | 35 | [Ragu](https://open.spotify.com/track/6pSRXKAwftu2a7KOjRlbz3) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Ragu](https://open.spotify.com/album/3FWd0eQDsSRsU2TK0ZYL8s) | 4:12 |
 | 36 | [Could It Be](https://open.spotify.com/track/2EJqk0IabX2xVZHOl3YuXu) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:41 |
 
-Snapshot ID: `AAAAAFmj1Nkve09LtEdyfq4ZUKuN6Sdz`
+Snapshot ID: `AAAAACInTyFE00+MOmWcNGbodp4+/QRl`

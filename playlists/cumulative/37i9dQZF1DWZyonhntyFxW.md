@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: مروان موسى
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: عفروتو
 
-431 songs - 21 hr 3 min
+433 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 | 2022-05-10 | 2023-03-07 |
 | [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 | 2022-08-08 | 2022-12-07 |
 | [BŃŅIT](https://open.spotify.com/track/3d7rmWQj2AaH81tdD2qrRB) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:31 | 2024-08-15 | 2024-11-30 |
+| [CA$HETA](https://open.spotify.com/track/5nJlh46X5vg65P4tLhKWtT) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [CA$HETA](https://open.spotify.com/album/578xeeJvGaezmhcHQLM7Ex) | 1:29 | 2025-10-02 |  |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-09-28 |
 | [CAP MERCEDES](https://open.spotify.com/track/1e6lP3m32MeLVEtZ2W1tnI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [CAP MERCEDES](https://open.spotify.com/album/5Xw5WVvVrPJTU96wj5gHgV) | 2:46 | 2023-07-26 | 2023-08-18 |
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 | 2023-05-23 |
@@ -100,6 +101,7 @@
 | [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 | 2024-01-29 |  |
 | [CRISTIANO](https://open.spotify.com/track/70o1xXReo9Y5N0OPKxHB8v) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [EVO](https://open.spotify.com/artist/3zg3iSMFyA6Jl24iLbQIlx) | [EL\- RAYES x CR7](https://open.spotify.com/album/22l5F8L05DBTaQ6IjDIgJV) | 2:26 | 2024-01-25 | 2024-02-07 |
 | [Daftar A7mar](https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Alfy](https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:06 | 2022-08-08 | 2022-10-11 |
+| [DALMA](https://open.spotify.com/track/55AFKSZFskLXl6M9XVnos8) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FOR REAL](https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r) | 2:35 | 2025-10-02 |  |
 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 | 2023-02-13 | 2023-08-18 |
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 | 2024-03-12 |
 | [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 | 2023-09-02 | 2024-01-10 |
@@ -112,7 +114,7 @@
 | [EH EL ARF DAH](https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EH EL ARF DAH](https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM) | 2:11 | 2025-04-24 | 2025-08-03 |
 | [EH KMAN](https://open.spotify.com/track/57V1F5F6CopBU6RJf0r86w) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [MOSLSL TURK \- SEZON 2](https://open.spotify.com/album/7EUJk4ifsTNRzfboCG03rb) | 2:42 | 2025-08-01 | 2025-08-22 |
 | [EHHHHH](https://open.spotify.com/track/5vcHeEj1lW0mC5H2HEPksO) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [ZAY MANA](https://open.spotify.com/album/0f0HgWxt0FZ8PpyTg0CgQb) | 2:01 | 2025-06-04 | 2025-08-22 |
-| [EL 3A2LA AHM SHE2](https://open.spotify.com/track/1twLzMoB8D5MX7AifTfKfT) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [EL 3A2LA AHM SHE2](https://open.spotify.com/album/2zobtain7jVZTXUKgZLDhb) | 2:21 | 2025-09-18 |  |
+| [EL 3A2LA AHM SHE2](https://open.spotify.com/track/1twLzMoB8D5MX7AifTfKfT) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [EL 3A2LA AHM SHE2](https://open.spotify.com/album/2zobtain7jVZTXUKgZLDhb) | 2:21 | 2025-09-18 | 2025-10-03 |
 | [El 3asefa](https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v) | 2:29 | 2023-05-11 | 2023-06-04 |
 | [El 3asefa](https://open.spotify.com/track/665TwdtuLDvcosWE631uEL) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/6lH9q9RdXfuewaVEu2et8A) | 2:35 | 2023-06-03 | 2023-06-28 |
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-13 | 2023-07-11 |
@@ -313,7 +315,7 @@
 | [Santos](https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santos](https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb) | 3:04 | 2022-05-10 | 2022-11-08 |
 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 | 2023-05-25 | 2023-08-18 |
 | [Sebny Ala Dool](https://open.spotify.com/track/3fNOATr4zA4bKAhY7bdgNO) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sebny Ala Dool](https://open.spotify.com/album/1nHjpICY29mjtgv3ZlrGVN) | 2:44 | 2025-06-10 |  |
-| [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 | 2024-09-11 |  |
+| [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 | 2024-09-11 | 2025-10-03 |
 | [Serag Mohema](https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Serag Mohema](https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g) | 2:44 | 2023-09-29 | 2023-12-09 |
 | [Shaklak Metday2](https://open.spotify.com/track/4O77Bi6jPFQd0cfVCI8hfu) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Shaklak Metday2](https://open.spotify.com/album/3p7p6pzKRIpYJcjQi52dus) | 2:29 | 2024-10-24 | 2025-08-03 |
 | [SHAR X KHEIR](https://open.spotify.com/track/7qWTw6jwB1a3nljQAtgIWS) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [SHAR X KHEIR](https://open.spotify.com/album/7EcOiSUdG1WiUGm6c0rQOz) | 2:13 | 2025-06-04 |  |

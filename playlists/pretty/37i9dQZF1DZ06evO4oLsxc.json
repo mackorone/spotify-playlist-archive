@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 945,
+  "num_followers": 948,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAGgDX4T79j8/b1a/EM/xzA",
+  "snapshot_id": "aNxvAAAAAAC71v0J9wpFYJ8K482WzZSr",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 252653,
-      "name": "Numero Uno",
-      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
+      "duration_ms": 213394,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 213394,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj"
+      "duration_ms": 252653,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
     },
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "'99",
+      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "'99",
-      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 188186,
       "name": "Mount Shasta",
       "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Are We Going?",
         "url": "https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 226786,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,

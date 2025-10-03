@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,021 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,043 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 14 | [Girlfriend Is Better \- 2005 Remaster](https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:43 |
 | 15 | [The Lady Don't Mind \- 2005 Remaster](https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:58 |
 | 16 | [This Must Be the Place \(Naive Melody\) \- Live](https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:57 |
-| 17 | [Born Under Punches \(The Heat Goes On\) \- 2005 Remaster](https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 5:49 |
-| 18 | [\(Nothing But\) Flowers \- 2005 Remaster](https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Naked](https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m) | 5:32 |
+| 17 | [\(Nothing But\) Flowers \- 2005 Remaster](https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Naked](https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m) | 5:32 |
+| 18 | [Born Under Punches \(The Heat Goes On\) \- 2005 Remaster](https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 5:49 |
 | 19 | [Sugar on My Tongue \- 2024 Remaster](https://open.spotify.com/track/7kGecZXX5u2DZ68RSnbdYR) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 2:36 |
 | 20 | [Moon Rocks \- 2005 Remaster](https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:45 |
 | 21 | [Heaven \- Live](https://open.spotify.com/track/0Q2b6AxWV5tD117XktdQxl) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 |
 | 50 | [With Our Love](https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:31 |
 
-Snapshot ID: `aNsdgAAAAACyEAPRrPnEUNw3rDJ/DLrc`
+Snapshot ID: `aNxvAAAAAACOiiwjJOzZlQmk3HHnqoMc`

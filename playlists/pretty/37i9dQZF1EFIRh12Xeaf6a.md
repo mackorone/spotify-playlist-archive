@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,157 likes - 276 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,159 likes - 276 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 192 | [You're Just What I Was Looking For Today](https://open.spotify.com/track/7Cv0mask9BAzdrdpyRsT1l) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Spare Parts](https://open.spotify.com/album/3kKjyQSagLmDnPn93mWBsC) | 3:50 |
 | 193 | [My Lovin' Eyes \- Re\-Recorded Version](https://open.spotify.com/track/0YBaCpel1nmXxUHU9BjjIq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [100 Minutes With Carole King](https://open.spotify.com/album/5ga2nqmQ62J9PaDQhXQ0f2) | 3:01 |
 | 194 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
-| 195 | [Just a Little Girl](https://open.spotify.com/track/3Y6H909lnm9lKTvRrt74dU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 2:57 |
-| 196 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
+| 195 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
+| 196 | [Just a Little Girl](https://open.spotify.com/track/3Y6H909lnm9lKTvRrt74dU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 2:57 |
 | 197 | [Long Way To Be Happy](https://open.spotify.com/track/6rS2B0RwdfPLcMWHuugcoY) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 |
 | 198 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
 | 199 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab9ungAAAABp9maJ3B1nrHdPnOkQ8Uo9`
+Snapshot ID: `Ab90XAAAAAAsO7qlR9h9EQBwWPIouowM`

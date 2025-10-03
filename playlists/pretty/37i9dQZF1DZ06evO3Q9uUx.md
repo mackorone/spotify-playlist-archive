@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,712 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,721 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 47 | [back it up](https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 2:17 |
 | 48 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 |
 | 49 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
-| 50 | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ) | 4:43 |
+| 50 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 |
 
-Snapshot ID: `aNsdgAAAAABN7aYnc9hyNBF5bHOQeqUH`
+Snapshot ID: `aNxvAAAAAADb2r/QPISYxpd7MY0eviEN`

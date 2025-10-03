@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,502 likes - 192 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,511 likes - 192 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 120 | [Peace](https://open.spotify.com/track/4TpsLl4wCmBEHQbauSJEMx) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [Peace](https://open.spotify.com/album/4GnHzeFBvSZYHKpeUTEVIe) | 3:22 |
 | 121 | [Overcome with emotion](https://open.spotify.com/track/5ZhZ2RGjOsFOUC57CyCUiJ) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Overcome with emotion](https://open.spotify.com/album/7kx9y7Z1NKaropXnE8tPmr) | 3:14 |
 | 122 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 |
-| 123 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
+| 123 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
 | 124 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 |
 | 125 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 |
 | 126 | [I Lost My Mind](https://open.spotify.com/track/1nlLLyn3EFdCac5ASvTzhk) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [I Lost My Mind](https://open.spotify.com/album/5NgHQAPanHdL35m7kXyIuA) | 3:55 |
@@ -196,7 +196,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 186 | [The Touch of Your Lips](https://open.spotify.com/track/0jXJ9u642pUSnPNchzYadK) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Under A Bridge and Dreaming](https://open.spotify.com/album/0ak7vmwVnS5VKDUqLYtUWB) | 2:36 |
 | 187 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 |
 | 188 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 |
-| 189 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
+| 189 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
 | 190 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 |
 | 191 | [I Concentrate on You](https://open.spotify.com/track/5UkdF1wkOtQ95CvA1zjfDb) | [Little Tree Jazz Trio](https://open.spotify.com/artist/5YALVnyvdEeiMXh49ygjdZ) | [I Concentrate on You](https://open.spotify.com/album/56ypgwwjAwiv39zy2NiqnN) | 6:32 |
 | 192 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 |

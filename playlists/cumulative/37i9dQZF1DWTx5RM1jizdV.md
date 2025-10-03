@@ -4,12 +4,14 @@
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-19 songs - 1 hr 12 min
+21 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3年E組ヌルヌル音頭](https://open.spotify.com/track/0kwKxogKc98AMwEAUkums3) | [3年E組ヌル担\(渚&業&寺坂&中村\)](https://open.spotify.com/artist/6ZMRzsKL9geY0Py4Cd6ZaG) | [QUESTION](https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr) | 2:57 | 2025-08-21 |  |
+| [ENDER](https://open.spotify.com/track/2FMwLbed4YtLgB8MwfbSJ6) | [GENIC](https://open.spotify.com/artist/1vpKcfxN3KfVmbyddl9sYT) | [ENDER](https://open.spotify.com/album/1tDnsQ4qohcSZAikateDZR) | 3:46 | 2025-10-02 |  |
 | [Hello, shooting\-star](https://open.spotify.com/track/2Vv7OUb0VgufsPc53l8xZs) | [moumoon](https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF) | [Hello,shooting\-star](https://open.spotify.com/album/656whZvaXTOHvs95llmtXR) | 4:38 | 2025-08-21 |  |
+| [Infinity karat](https://open.spotify.com/track/0EcZVK4nEnQshCO1vN1F2A) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Infinity karat](https://open.spotify.com/album/72lwdVn2vzvqAbLmvgFaBf) | 3:53 | 2025-10-02 |  |
 | [NuruNuru Rap](https://open.spotify.com/track/6M6CXOajkcVjIOPxVWA2dv) | [MC\-KORO](https://open.spotify.com/artist/404BuZoyEUBOMaQCg1ufQZ) | [青春サツバツ論](https://open.spotify.com/album/3arlRorn9ipIUsI1LY7ACQ) | 3:32 | 2025-08-21 |  |
 | [QUESTION](https://open.spotify.com/track/4MorYttxU39XKVoRlCopyz) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [QUESTION](https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr) | 4:26 | 2025-08-21 |  |
 | [ころたいそう](https://open.spotify.com/track/0r9r6v283cb47Db0CqvWFo) | [殺おにいさん\(殺せんせー/CV.福山潤\)](https://open.spotify.com/artist/3Trm2QQQnDlxtxDRmo2ex6) | [自力本願レボリューション](https://open.spotify.com/album/3lChV8Q6Rs3d3Atxqc9T96) | 4:31 | 2025-08-21 |  |

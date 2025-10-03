@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,644 likes - 700 songs - 1 day 17 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,708 likes - 700 songs - 1 day 17 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 53 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 |
 | 54 | [Young And Foolish](https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:54 |
 | 55 | [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 |
-| 56 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
+| 56 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
 | 57 | [To the Moon and Back](https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [To the Moon and Back](https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN) | 3:27 |
 | 58 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 |
 | 59 | [Another Fairytale](https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Another Fairytale](https://open.spotify.com/album/5uCV7xBcsS9iJXd6UPKUr6) | 2:33 |
@@ -313,7 +313,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 303 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 |
 | 304 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 |
 | 305 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
-| 306 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 306 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 307 | [April Calling](https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [April Calling](https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo) | 3:50 |
 | 308 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 |
 | 309 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 |
@@ -426,7 +426,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 416 | [Moody Promenade](https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moody Promenade](https://open.spotify.com/album/2fHHkpZFQAjV1lCrC2AY4U) | 2:57 |
 | 417 | [Lazy Steps](https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lazy Steps](https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj) | 3:48 |
 | 418 | [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 |
-| 419 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
+| 419 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
 | 420 | [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 |
 | 421 | [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 |
 | 422 | [A Swim in Pine Lake](https://open.spotify.com/track/0jufuLT8UYZLQu2yaaS52B) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [A Swim in Pine Lake](https://open.spotify.com/album/7qlQWrxfurEmYnOt8ITdjK) | 3:21 |
@@ -709,4 +709,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 699 | [Just one more day](https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Just one more day](https://open.spotify.com/album/5ExGiez4mIo8Np2B8Rf9bq) | 2:47 |
 | 700 | [Journee](https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Journee](https://open.spotify.com/album/2NFTbliyRp1FhC7gmJRzLa) | 3:38 |
 
-Snapshot ID: `AAAAACiePzPfvl5G7aj1kn9+9SSRNPYB`
+Snapshot ID: `AAAAAFFBqoMzgva7l9HrChqbBMicP5ae`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥 Desde Iztapalapa hasta Buenos Aires
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,317 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,302 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 14 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 15 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
 | 16 | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/track/0UX4OC4mTZdFhmq0cnv7VX) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/album/69ECapQFcIbJLnusOe8Xje) | 2:30 |
-| 17 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 |
+| 17 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 |
 | 18 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |
 | 19 | [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 |
 | 20 | [No Te Vayas Sin Saber](https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [No Te Vayas Sin Saber](https://open.spotify.com/album/7EP6fqNBUnJcjNirm8UwOJ) | 3:44 |

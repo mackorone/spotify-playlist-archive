@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 12363,
+  "num_followers": 12365,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAADTHZs66fFlWRTRa78hXuGW",
+  "snapshot_id": "aNxvAAAAAAAEinGNVBBBo2WCh3hrT59h",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Alegres De Ter\u00e1n",
-        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "Lucecita De Mi Alma",
-      "url": "https://open.spotify.com/track/0PRtOcjYNqHuWavzXchHjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 151293,
       "name": "Prisionero de Tus Brazos",
       "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Alegres De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "Lucecita De Mi Alma",
+      "url": "https://open.spotify.com/track/0PRtOcjYNqHuWavzXchHjp"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
-        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Los Tequileros",
-      "url": "https://open.spotify.com/track/7lF1c6A1FD17D4gisIY2Cu"
+      "duration_ms": 190266,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
+        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 170173,
-      "name": "Una Sola Ca\u00edda - Ranchera",
-      "url": "https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj"
+      "duration_ms": 219000,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/7lF1c6A1FD17D4gisIY2Cu"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 146026,
       "name": "Tu Nuevo Cari\u00f1ito",
       "url": "https://open.spotify.com/track/4S44UwAoCh9kdT9macDuGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Una Sola Ca\u00edda - Ranchera",
+      "url": "https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 197453,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "La Mula Bronca",
+      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
         "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
       },
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as de Oro",
-        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+        "name": "Pensando en Tu Dia Vol. 3",
+        "url": "https://open.spotify.com/album/6keKSJlgpHyjPRjUci7qjO"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 170306,
-      "name": "La Mula Bronca",
-      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
+      "duration_ms": 170826,
+      "name": "Cari\u00f1o Sin Condicion",
+      "url": "https://open.spotify.com/track/3EYKM9dXqvnnTpqEt4PnRG"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 167800,
       "name": "La Mosca",
       "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensando en Tu Dia Vol. 3",
-        "url": "https://open.spotify.com/album/6keKSJlgpHyjPRjUci7qjO"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Cari\u00f1o Sin Condicion",
-      "url": "https://open.spotify.com/track/3EYKM9dXqvnnTpqEt4PnRG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Mrs\. GREEN APPLE
 
-1,289 songs - 3 day 1 hr 34 min
+1,290 songs - 3 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-26 | 2024-07-10 |
 | [MINT](https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [MINT](https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3) | 2:21 | 2025-08-05 |  |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-01-17 |
-| [Mirage \(OP Theme to Call of the Night Season 2\)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Mirage](https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G) | 2:18 | 2025-07-08 |  |
+| [Mirage \(OP Theme to Call of the Night Season 2\)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Mirage](https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G) | 2:18 | 2025-07-08 | 2025-10-03 |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-04 | 2024-07-10 |
 | [Mirror feat\. JJJ](https://open.spotify.com/track/4Lr07uoYjnqSuKkYfEzceC) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Mirror feat\. JJJ](https://open.spotify.com/album/5zfe2KcqmYnUgB9nE7skjN) | 3:04 | 2024-05-21 | 2024-05-29 |
 | [Miss Luxury](https://open.spotify.com/track/2pPZuMAbrKIxxRCYhhOojm) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-12 | 2025-04-02 |
@@ -1098,6 +1098,7 @@
 | [後悔史](https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [後悔史](https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW) | 4:20 | 2025-05-20 | 2025-06-04 |
 | [徘徊](https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [徘徊](https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH) | 3:11 | 2025-04-15 | 2025-06-11 |
 | [微熱魔](https://open.spotify.com/track/7guT1V4QGvfUafWOX8NiYI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [微熱魔](https://open.spotify.com/album/79tn2ImqRFgvcJtLlOtdl2) | 3:36 | 2025-04-22 | 2025-06-18 |
+| [心](https://open.spotify.com/track/2IYIeMVCYIZUyzG1td1GW5) | [アルステイク](https://open.spotify.com/artist/63b2Lkt14DQTxSCU8CTP4U) | [kasabuta](https://open.spotify.com/album/6XYdsvdFjzF0MXgxaELyWu) | 3:24 | 2025-10-01 |  |
 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 | 2024-04-09 | 2024-05-08 |
 | [忘れたい](https://open.spotify.com/track/7njSOHd2xt61IJppN3IlCT) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [忘れたい](https://open.spotify.com/album/5ZHm5pMkxoQ7zZkMQQl9fs) | 5:24 | 2024-07-16 | 2024-08-14 |
 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 | 2024-07-16 | 2024-10-23 |

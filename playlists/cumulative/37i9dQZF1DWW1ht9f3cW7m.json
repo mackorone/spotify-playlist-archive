@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 270549,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/5Pcc7dUxSWJBMkdbR3mu2O"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 209093,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/7Ln3mdryazFwsIsFHc8WBd"
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Clinging To The Sides",
+        "url": "https://open.spotify.com/album/0FRHDn9NhgaCFA8IHMVxta"
+      },
+      "artists": [
+        {
+          "name": "Harriet Dagnall",
+          "url": "https://open.spotify.com/artist/18pxBfaTMWeMRYnlmr0h3t"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212827,
+      "name": "Clinging To The Sides",
+      "url": "https://open.spotify.com/track/61CmJ6dcAOK66g5wgbH7cc"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/58VP6rmlhHURxxgamHwkyG"
       },
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 195803,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI"
@@ -3799,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "Left In Vienna",
+        "url": "https://open.spotify.com/album/1uwmyJScITgzTmRrRAQAhw"
+      },
+      "artists": [
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Left In Vienna",
+      "url": "https://open.spotify.com/track/6Zg86kepmSGu3p7hrJe94W"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU"
       },
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186751,
       "name": "missing everything",
       "url": "https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8"
@@ -4538,6 +4574,24 @@
       "duration_ms": 201853,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz"
+    },
+    {
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/2Fug7sEPUUHvAmpMbOqOoJ"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218998,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/0c2ro5OrQWif5Bijw9Ax0a"
     },
     {
       "album": {
@@ -5197,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Rewind My Mind",
+        "url": "https://open.spotify.com/album/39kOdZZvfTHk1Lw23fruwq"
+      },
+      "artists": [
+        {
+          "name": "Drive Thru",
+          "url": "https://open.spotify.com/artist/3LQ7g2ERCrpEw16q34HcF8"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Rewind My Mind",
+      "url": "https://open.spotify.com/track/2QZ1QG2X8n0ssLnVF0AEKS"
+    },
+    {
+      "album": {
         "name": "Becoming You",
         "url": "https://open.spotify.com/album/5A4g0BOkNk9FnMSPchF8Zi"
       },
@@ -5572,6 +5644,24 @@
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "album": {
+        "name": "She's So Strange",
+        "url": "https://open.spotify.com/album/5pZJFK4Az5OlmrCeYodoyM"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "She's So Strange",
+      "url": "https://open.spotify.com/track/2P4ql5cAr3wNyCNqBIHvfJ"
     },
     {
       "album": {
@@ -6458,7 +6548,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 173333,
       "name": "Undone",
       "url": "https://open.spotify.com/track/65BrgAAALZ0ySJzJhHwwus"
@@ -6512,7 +6602,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 185543,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/647hupSAtNWgvOz4cceZMc"
@@ -6664,6 +6754,24 @@
     {
       "album": {
         "name": "Wannabe",
+        "url": "https://open.spotify.com/album/6nKLsWYaiEy1PeF27P0kcB"
+      },
+      "artists": [
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139452,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/4nBr3MtBEAAXWU9HBPmxFs"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
         "url": "https://open.spotify.com/album/67DYnzxx4D2I1PbIjGR7Tz"
       },
       "artists": [
@@ -6692,7 +6800,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 199896,
       "name": "WANTCHU",
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
@@ -6934,6 +7042,24 @@
       "duration_ms": 224986,
       "name": "Why Won't We",
       "url": "https://open.spotify.com/track/6293vQ1jOawXNqDhHZvFP5"
+    },
+    {
+      "album": {
+        "name": "WISH I COULD CHANGE THE WEATHER",
+        "url": "https://open.spotify.com/album/1Q6DV9JGIofmpGofNimRzK"
+      },
+      "artists": [
+        {
+          "name": "HARVEY HILTON",
+          "url": "https://open.spotify.com/artist/6IW2t8HKJEwygZ5YmgG0bJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257384,
+      "name": "WISH I COULD CHANGE THE WEATHER",
+      "url": "https://open.spotify.com/track/6wnbwHELabGWmIgujSghzu"
     },
     {
       "album": {

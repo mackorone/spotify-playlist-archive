@@ -2,7 +2,7 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Sarz
+> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: D\-Block Europe
 
 1,626 songs - 3 day 9 hr 51 min
 

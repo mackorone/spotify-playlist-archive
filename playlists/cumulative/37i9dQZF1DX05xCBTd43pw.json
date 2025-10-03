@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Joya Marleen",
+  "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
   "name": "Swiss Made",
   "tracks": [
     {
@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "I've Got Everything",
+        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181891,
+      "name": "I've Got Everything",
+      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
+    },
+    {
+      "album": {
         "name": "If You Call",
         "url": "https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol"
       },
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 186363,
       "name": "If You Don't Know",
       "url": "https://open.spotify.com/track/28ioSzI3RJhjSikfQywNyX"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 193294,
       "name": "kissing you at midnight",
       "url": "https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7"
@@ -7648,7 +7666,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 206773,
       "name": "Zweiazwenzgi",
       "url": "https://open.spotify.com/track/62fsYBNcYg9jGxF4Yk1Iqq"

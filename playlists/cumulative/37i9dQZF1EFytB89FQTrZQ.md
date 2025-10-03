@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-555 songs - 1 day 7 hr 36 min
+556 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,8 +299,9 @@
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-16 | 2025-09-29 |
 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 | 2022-11-18 |  |
 | [Mine](https://open.spotify.com/track/4QU75MocpRSTXdltSNTnzy) | [Alexander Norman](https://open.spotify.com/artist/5W0RMG8qbEDxyJjQ2TCkMY), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [Mine](https://open.spotify.com/album/5QiOaZ0bMBNsVMq1oJFfbL) | 2:48 | 2023-12-13 | 2025-06-28 |
-| [Miss You](https://open.spotify.com/track/1tomxvQYn0z7vtXA9v2haW) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 3:40 | 2025-09-28 |  |
+| [Miss You](https://open.spotify.com/track/1tomxvQYn0z7vtXA9v2haW) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 3:40 | 2025-09-28 | 2025-10-03 |
 | [Miss You](https://open.spotify.com/track/4XuJ0BRSM4JRcMuLCxOmux) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Miss You](https://open.spotify.com/album/3d2Ys2ZfDiqHOxcuXJzOW7) | 3:40 | 2025-09-19 | 2025-09-29 |
+| [Miss You](https://open.spotify.com/track/7jA1sltKKILdF8eE4n8y9g) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 3:40 | 2025-10-02 |  |
 | [Mistakes](https://open.spotify.com/track/7sFWHYHbk3S5jKIG3rXjPd) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [EST\. 1989](https://open.spotify.com/album/7uua9VeRYOlEooVGZR53Is) | 3:06 | 2022-09-08 |  |
 | [Money](https://open.spotify.com/track/7MaFzoiWh1RYRY17R8HoTw) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5wfam3DHsK7cduTO0VCHQB) | 3:22 | 2023-09-25 | 2023-12-24 |
 | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/track/0GaSolMcA26ZUpOqpWeNt9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/album/049oFpZ37qrysrGET84wH3) | 3:25 | 2022-09-08 | 2023-09-26 |

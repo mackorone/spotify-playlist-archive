@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "EGP",
+        "url": "https://open.spotify.com/album/78RZnl53aFY6nw9vAvpWih"
+      },
+      "artists": [
+        {
+          "name": "Sundanis",
+          "url": "https://open.spotify.com/artist/7aL9PiYEeYQWnBL8iDPHDs"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "EGP",
+      "url": "https://open.spotify.com/track/6uOGcTA9RS4lV0B6kjTSBJ"
+    },
+    {
+      "album": {
         "name": "Eiyo",
         "url": "https://open.spotify.com/album/1zmXW34KKaz6ELhIfjIFU5"
       },

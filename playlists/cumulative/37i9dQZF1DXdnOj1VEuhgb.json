@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: \u0130mpala x Kayra",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Keskin",
   "name": "NKVT",
   "tracks": [
     {
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 125806,
       "name": "A\u015eKIM ALLAH KURTARSIN",
       "url": "https://open.spotify.com/track/7pOzz5RxPcBCrXSdlIIFwJ"
@@ -4757,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "gelemez",
+        "url": "https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "gelemez",
+      "url": "https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE"
+    },
+    {
+      "album": {
         "name": "GELME \u0130STEMEM",
         "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
       },
@@ -5670,7 +5688,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 188235,
       "name": "Hayalperest",
       "url": "https://open.spotify.com/track/1koxsrD5dOfeVUSJ3gaKac"
@@ -5750,6 +5768,24 @@
       "duration_ms": 97722,
       "name": "HAYRAN KALICAN",
       "url": "https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "HEDEF",
+      "url": "https://open.spotify.com/track/7cEo6tHNiOwErTOte8F7bF"
     },
     {
       "album": {
@@ -6992,7 +7028,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 146979,
       "name": "Kadehimi Bo\u015f B\u0131rakma",
       "url": "https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr"
@@ -7595,6 +7631,28 @@
     },
     {
       "album": {
+        "name": "S2000",
+        "url": "https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ"
+      },
+      "artists": [
+        {
+          "name": "\u015eam",
+          "url": "https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti"
+        },
+        {
+          "name": "La\u00e7in",
+          "url": "https://open.spotify.com/artist/5UIqKlp3KqK3eszxgKdGVh"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121310,
+      "name": "Kendine \u0130yi Bak",
+      "url": "https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI"
+    },
+    {
+      "album": {
         "name": "Kennedy'i Ben Vurdum",
         "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
       },
@@ -8124,6 +8182,24 @@
       "duration_ms": 185094,
       "name": "Kumbarac\u0131 Yoku\u015fu",
       "url": "https://open.spotify.com/track/0MxIwEv262WuuyYSf8HEsq"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Kumdan Kaleler",
+      "url": "https://open.spotify.com/track/6nqu4vwfGUHiIgaGjydWvR"
     },
     {
       "album": {
@@ -10128,7 +10204,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 158000,
       "name": "NO MANIFEST",
       "url": "https://open.spotify.com/track/6FTkMvqFonFr7Gw9eNJlpE"
@@ -10368,7 +10444,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 219680,
       "name": "Onlar Anlamaz",
       "url": "https://open.spotify.com/track/5jy4DQwRy5MUYtWYoyz3m5"
@@ -12557,6 +12633,24 @@
     },
     {
       "album": {
+        "name": "SON",
+        "url": "https://open.spotify.com/album/7wyy2xEHw9Wl5xZoQ6Qd80"
+      },
+      "artists": [
+        {
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160563,
+      "name": "SON",
+      "url": "https://open.spotify.com/track/0pYQmBtGKPpzKvJgStaIvO"
+    },
+    {
+      "album": {
         "name": "SONBAHAR",
         "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
       },
@@ -13294,6 +13388,28 @@
       "duration_ms": 132244,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn"
+    },
+    {
+      "album": {
+        "name": "T\u0130KTOK",
+        "url": "https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116124,
+      "name": "T\u0130KTOK",
+      "url": "https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5"
     },
     {
       "album": {
@@ -14044,7 +14160,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 130285,
       "name": "YALAN D\u00dcNYA",
       "url": "https://open.spotify.com/track/64929UpSVDlOYFlXiZJKgu"

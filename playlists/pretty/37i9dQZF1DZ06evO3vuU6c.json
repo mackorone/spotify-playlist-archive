@@ -1,41 +1,13 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1432758,
+  "num_followers": 1432819,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACMmMV9tPmtzaDPF+HoHKWh",
+  "snapshot_id": "aNxvAAAAAAAl6+PIB8K9lmXdHNbqswlc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
-        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "LSD",
-          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Genius (feat. Sia, Diplo, and Labrinth)",
-      "url": "https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB"
-    },
     {
       "added_at": null,
       "album": {
@@ -199,6 +171,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Genius (feat. Sia, Diplo, and Labrinth)",
+      "url": "https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -211,6 +211,26 @@
       "duration_ms": 252320,
       "name": "Helium",
       "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Cheap Thrills (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
     },
     {
       "added_at": null,
@@ -235,26 +255,6 @@
       "duration_ms": 211428,
       "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Cheap Thrills (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colour The Small One",
+        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drinking From The Sun",
         "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colour The Small One",
-        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Breathe Me",
-      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flames",
-        "url": "https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 265025,
       "name": "Beautiful Pain",
       "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
     },
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STREET X STREET (LAFC)",
-        "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "DJ Flict",
-          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "STREET X STREET",
-      "url": "https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Courage to Change",
         "url": "https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 201123,
       "name": "I Forgive You - (Chromeo Remix) [radio edit]",
       "url": "https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STREET X STREET (LAFC)",
+        "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "DJ Flict",
+          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "STREET X STREET",
+      "url": "https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65"
     },
     {
       "added_at": null,

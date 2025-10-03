@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,555 likes - 90 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,659 likes - 90 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 | 89 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 90 | [NEIN SCHATZ](https://open.spotify.com/track/7Bkw8mQs8oYUV9udjdgXG9) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [GDA](https://open.spotify.com/artist/2qWlUlfE7zEJM20ec5Dk9T) | [NEIN SCHATZ](https://open.spotify.com/album/4hAvJZ4l3nHHLIH1t6JB0L) | 2:21 |
 
-Snapshot ID: `AAAAAJTe4E0rxcVYis8r/aRE6wWKXxt9`
+Snapshot ID: `AAAAADCDX/oCS3vIvaxa2sswe7IFAxM9`

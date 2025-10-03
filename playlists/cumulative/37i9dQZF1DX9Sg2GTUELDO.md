@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Feanna Wong 黄淑蔓
+> 感受女聲力量。Cover: Serrini
 
-575 songs - 1 day 10 hr 14 min
+577 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 | 2024-06-27 | 2025-09-12 |
 | [美男子與香煙](https://open.spotify.com/track/28sJE8yhRUr1SSHR7utdnK) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [美男子與香煙](https://open.spotify.com/album/38QLzHHL798PIKIYWOG8bG) | 4:27 | 2024-06-27 | 2025-09-12 |
 | [翅膀](https://open.spotify.com/track/3T1fExpXW8lklebKd2Zec7) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA), [周吉佩](https://open.spotify.com/artist/3u0ZiCEVJbNoeMF1yvhp2a), [蕭凱恩](https://open.spotify.com/artist/5H5nVOdKXhQAD5QZL1D55K) | [翅膀](https://open.spotify.com/album/1gg7BI1wdSxL9jBdtA6Czh) | 3:09 | 2024-07-25 | 2025-09-12 |
+| [老殘遊戲](https://open.spotify.com/track/5jbVrArLeVzmQBlXMRGcNO) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [老殘遊戲](https://open.spotify.com/album/3G8iheGItD71E1Do29puEu) | 2:54 | 2025-10-02 |  |
 | [臉紅時我想看穿你的心臟](https://open.spotify.com/track/74zDfZprw49eIQbe31bPME) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [臉紅時我想看穿你的心臟](https://open.spotify.com/album/0XoBprUMG2iCYBwcN05J82) | 3:48 | 2024-06-27 | 2025-09-12 |
 | [自動修正](https://open.spotify.com/track/3SeddBccVwPXTqXnpvAljQ) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [STAGES](https://open.spotify.com/album/1I5E0z1lY6qOJvo2aYDmp3) | 3:49 | 2024-06-27 | 2025-09-12 |
 | [自動登入](https://open.spotify.com/track/2bIqhrGfrgj58kVUoaVQ0z) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [自動登入](https://open.spotify.com/album/5wnW7wsyxrLCuacnsunotQ) | 2:49 | 2024-06-27 | 2025-09-12 |
@@ -565,6 +566,7 @@
 | [間歇性休眠](https://open.spotify.com/track/6NTpMNt4qi3icnZq9Wh5WE) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [間歇性休眠](https://open.spotify.com/album/2N8gg8nxAPMrAJOJkCnM0H) | 4:41 | 2024-06-27 | 2025-09-12 |
 | [關我蛋治](https://open.spotify.com/track/6DRatWcrhtv1ba4xeV01Bi) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [關我蛋治](https://open.spotify.com/album/6o5YClIb0rr2h6a189V9iK) | 3:16 | 2024-06-27 | 2025-09-12 |
 | [阿姐今年已經30歲](https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [阿姐今年已經30歲](https://open.spotify.com/album/2OFMhoYXMpQZlZTEJeJcZX) | 3:40 | 2024-08-15 | 2024-09-06 |
+| [限量版](https://open.spotify.com/track/3sq56ILg4hSfVoz1Ypkaqy) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [限量版](https://open.spotify.com/album/0VgmIDyEqPnJGcCHLrdShB) | 4:12 | 2025-10-02 |  |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2024-06-27 | 2025-09-12 |
 | [隨時隨地](https://open.spotify.com/track/57xZ5hMWJ4ZWXI6POeYpuD) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [隨時隨地](https://open.spotify.com/album/2KhS7gyEFOmvcbJmHZkZ8b) | 4:06 | 2025-08-01 |  |
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 | 2025-09-12 |

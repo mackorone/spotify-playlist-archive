@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 
 > Dark noise to keep you sharp and focused during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,870 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,955 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 | 66 | [Gloomy Noise](https://open.spotify.com/track/6mxPuJkPOu7PAqrO0meeCC) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Gloomy Noise](https://open.spotify.com/album/3lxF9kGz4d59CMkLwa7kZy) | 4:31 |
 | 67 | [Relaxing Black Noise](https://open.spotify.com/track/5CzMujCQaMoo8gTC4VR7Md) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Healing Black Noise](https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni) | 2:08 |
 | 68 | [Dreamy Black Noise](https://open.spotify.com/track/1RLdr8NMS74dJBLRKvSSID) | [LBE Sound Factory](https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc) | [Soothing Black Noise](https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc) | 2:33 |
-| 69 | [Black Noise Sleep Mask](https://open.spotify.com/track/0wivDTfoaWQ51FwMmv6SFr) | [Dreamlux](https://open.spotify.com/artist/608c6CqBFogFms9icxSr2F) | [Black Noise Sleep Mask](https://open.spotify.com/album/5lDB1Z7IHoWT0rJ37TMohW) | 5:18 |
+| 69 | [Black Noise Sleep Mask](https://open.spotify.com/track/0wivDTfoaWQ51FwMmv6SFr) | [Drealux](https://open.spotify.com/artist/1LgofD2ZhZ1hhF8VshT01U) | [Black Noise Sleep Mask](https://open.spotify.com/album/5lDB1Z7IHoWT0rJ37TMohW) | 5:18 |
 | 70 | [Cosy Black Noise](https://open.spotify.com/track/09ws3AFzlKocLXqU1i493W) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 2:49 |
 | 71 | [Calm Black Noise](https://open.spotify.com/track/7feU46h5FCm1tp8cb2G8hA) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Calm Black Noise](https://open.spotify.com/album/5PhceYewMWBfTm07czylXP) | 3:04 |
 | 72 | [The Abyss](https://open.spotify.com/track/646yViBui3Ogdf9F4wuCln) | [Ethereal Skies](https://open.spotify.com/artist/2BK676olrtJINcTJBtgTGs) | [Black Noise Requiem](https://open.spotify.com/album/4X1WG8eDASlKaUnk8P8mNF) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-228 songs - 13 hr 53 min
+230 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Het park](https://open.spotify.com/track/2kKW77CdWhsDrNNVnkOTTb) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Subliem gebaar](https://open.spotify.com/album/74d18jk8XwTHMRYXpQOxrT) | 4:59 | 2023-02-10 | 2023-04-26 |
 | [Het Regende Zon](https://open.spotify.com/track/6SDQYfdsaLlOoRRUPyv3Ix) | [Ellen Ten Damme](https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv) | [Het Regende Zon](https://open.spotify.com/album/7HA5p6GD27rnBOxb06MtfG) | 3:23 | 2023-02-10 | 2023-03-09 |
 | [Het Werd Zomer](https://open.spotify.com/track/7J7fNdedcP2urV48omGkHu) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Tussen Zomer En Winter \(Expanded Edition\)](https://open.spotify.com/album/6C1i4zs6YQtinLbZh9pz9u) | 4:07 | 2023-02-10 | 2023-09-15 |
+| [Hoe Je Naar Me Keek](https://open.spotify.com/track/64QB4SM5uV6FvUTQXoqTdE) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Hoe Je Naar Me Keek](https://open.spotify.com/album/7Ik6SeYQjwMUlaBwe2op2D) | 2:43 | 2025-10-02 |  |
 | [Hou Van Mij](https://open.spotify.com/track/0p8NKK6n6wrvgPf0AUho6h) | [Bökkers](https://open.spotify.com/artist/4r9YVlVbFPpqo0vcCaKIE6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Hou Van Mij](https://open.spotify.com/album/4FnEHt85qGmedL41l7zErJ) | 3:13 | 2023-02-10 | 2025-03-14 |
 | [Hou Vol](https://open.spotify.com/track/5o90I3Cz1RhjnIkMkHKlyQ) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hou Vol](https://open.spotify.com/album/3yfUzi4ZtDytrnzKkHrcE3) | 3:38 | 2025-05-22 |  |
 | [Houten Pak](https://open.spotify.com/track/2E2Uc9dF8dlsRmM6EA51hj) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Man In Nood](https://open.spotify.com/album/4shvyUUcdrdIwd0lIlIXCU) | 3:03 | 2024-03-04 | 2024-04-12 |
@@ -116,6 +117,7 @@
 | [Kaartenhuis](https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Kaartenhuis](https://open.spotify.com/album/34TIrIc7Hxk0nkK5qEMesa) | 3:55 | 2025-05-08 |  |
 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 | 2025-09-10 |  |
 | [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 | 2023-02-10 | 2025-10-01 |
+| [Kijk Niet Achterom](https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X) | [Babette Van Veen](https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax), [Soy Kroon](https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT) | [Kijk Niet Achterom](https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT) | 3:58 | 2025-10-02 |  |
 | [Kijk Niet Achterom](https://open.spotify.com/track/0QL7jSoLircjh2hLC0SYAi) | [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Kijk Niet Achterom](https://open.spotify.com/album/53sBljvd4P6foQ3p9RZZ46) | 3:49 | 2023-02-10 | 2023-09-15 |
 | [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2023-02-10 | 2024-03-20 |
 | [Kom Hier](https://open.spotify.com/track/6NFDCjTgNVlhVCeNGTAuYh) | [Manuëla Kemp](https://open.spotify.com/artist/0zpaARjlrBqGeMtzn2Y6XI) | [Slapeloze nachten](https://open.spotify.com/album/2OaBag8Hc7E3UnerZNY7xD) | 4:07 | 2025-01-24 |  |

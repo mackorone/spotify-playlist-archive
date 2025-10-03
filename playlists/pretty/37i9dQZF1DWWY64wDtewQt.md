@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,754,862 likes - 100 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,759,799 likes - 100 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 55 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
 | 56 | [Ela Joga na Hora](https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb) | 2:12 |
 | 57 | [UH VEI VEI](https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1) | [KREZUS](https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq) | [UH VEI VEI](https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y) | 1:30 |
-| 58 | [MONTAGEM VOZES TALENTINHO \- Super Slowed](https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT) | [heapper](https://open.spotify.com/artist/7I9nmXtGIFw9XUxNG36Q7N), [DJ JUAN](https://open.spotify.com/artist/0iPVlUddVxi8XrL3Ju8GAw) | [MONTAGEM VOZES TALENTINHO](https://open.spotify.com/album/2UPwhike9Qp0u3p0OaUzcP) | 1:41 |
+| 58 | [MONTAGEM VOZES TALENTINHO \- Super Slowed](https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT) | [heapper](https://open.spotify.com/artist/7I9nmXtGIFw9XUxNG36Q7N), [DJ JUAN](https://open.spotify.com/artist/0iPVlUddVxi8XrL3Ju8GAw), [Mc Luizinho](https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP) | [MONTAGEM VOZES TALENTINHO](https://open.spotify.com/album/2UPwhike9Qp0u3p0OaUzcP) | 1:41 |
 | 59 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 60 | [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 |
 | 61 | [SLAVA FUNK!](https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme) | [MVSTERIOUS](https://open.spotify.com/artist/5mU6enX6pYYKEs0zfRkm1R), [Hxmr](https://open.spotify.com/artist/6VzAVLJ85EjjG002V4j7ka), [yngastrobeatz.](https://open.spotify.com/artist/5sZrMlmLdssEPC5EsdPMhm), [EVO](https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY) | [EVOLUTION FUNK VOL\. II](https://open.spotify.com/album/25S0wOuNrX6LWULW6UKT6H) | 1:53 |

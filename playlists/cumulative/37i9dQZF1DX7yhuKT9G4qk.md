@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-136 songs - 7 hr 46 min
+138 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Gray](https://open.spotify.com/track/2RAMTRT08DatjsIPSZGNPt) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [AIJIA](https://open.spotify.com/artist/4WEbpTYLZLppuqyqYHmz1p) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 2:49 | 2025-07-16 |  |
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2025-07-16 |  |
 | [Hard Times](https://open.spotify.com/track/1g5wpr9Q32hIjWs7ZpADQD) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hard Times](https://open.spotify.com/album/5asmEKZBkydwiCuyvkXsVu) | 3:23 | 2025-07-16 | 2025-09-19 |
-| [Heard a Voice](https://open.spotify.com/track/6KCHw7Hbkuo043ZyCNIaFQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7ffFxuWnm5TAnLyG6RPOZJ) | 3:11 | 2025-07-16 |  |
+| [Heard a Voice](https://open.spotify.com/track/6KCHw7Hbkuo043ZyCNIaFQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7ffFxuWnm5TAnLyG6RPOZJ) | 3:11 | 2025-07-16 | 2025-10-03 |
 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 | 2025-07-16 | 2025-09-16 |
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2025-07-16 |  |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-07-16 |  |
@@ -113,6 +113,7 @@
 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 | 2025-08-28 |  |
 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2025-07-16 |  |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-07-16 |  |
+| [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-02 |  |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2025-07-16 | 2025-09-19 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2025-07-16 |  |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-16 |  |
@@ -125,7 +126,8 @@
 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2025-07-16 |  |
 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 | 2025-07-16 |  |
 | [Through The Echoes](https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 3:41 | 2025-07-16 |  |
-| [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 |  |
+| [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 | 2025-10-03 |
+| [Track 5](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2025-07-16 | 2025-09-19 |
 | [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 | 2025-07-16 |  |
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 | 2025-08-29 |

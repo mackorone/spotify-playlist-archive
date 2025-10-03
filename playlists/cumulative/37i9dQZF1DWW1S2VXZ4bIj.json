@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 237045,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 181562,
       "name": "SIDE TO SIDE (feat. MABELZ PiXXiE)",
       "url": "https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 211960,
       "name": "SPEED DEMON",
       "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
@@ -8421,6 +8421,24 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32... (Prom Queen)",
+        "url": "https://open.spotify.com/album/1pPcSFRFqmxBmHcSplLu1l"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222608,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32... (Prom Queen)",
+      "url": "https://open.spotify.com/track/42EpiyqCD8SlqEy8sdPv3S"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32",
         "url": "https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY"
       },
@@ -9133,6 +9151,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e23\u0e32\u0e04\u0e07\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e19\u0e43\u0e19\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/0bwvJiWoIL0SO401EM31iw"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "\u0e40\u0e23\u0e32\u0e04\u0e07\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e19\u0e43\u0e19\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/44TVeXBI8SdrkgWf0lUkB0"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e01\u0e48\u0e2d\u0e19 (If I Could)",
         "url": "https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ"
       },
@@ -9228,6 +9264,24 @@
       "duration_ms": 212112,
       "name": "\u0e40\u0e25\u0e34\u0e01\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (Devoted)",
       "url": "https://open.spotify.com/track/1Mad9GFYbl6Hy8ZuhmLObt"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/05ejCa7HbTwxrYxrI5kc4I"
+      },
+      "artists": [
+        {
+          "name": "Goy Arachaporn",
+          "url": "https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/06GChUTuWdu4jC4NtIR4Ey"
     },
     {
       "album": {

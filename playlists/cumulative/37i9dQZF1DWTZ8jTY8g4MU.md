@@ -4,7 +4,7 @@
 
 > شيلات تشيل الليلة\. الغلاف: بدر العزي
 
-275 songs - 18 hr 13 min
+276 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [أدعج عيون](https://open.spotify.com/track/3L0rLqS7wCn0qi7D5kgEQ0) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أدعج عيون](https://open.spotify.com/album/5cOcNb7qAXUcskBBe2tk6i) | 3:34 | 2022-08-31 | 2024-02-02 |
 | [أقفيت عني](https://open.spotify.com/track/3NqFypg1KvwHt1yh2jjquf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/23sa1SHSAO6y29snCLu9El) | 3:20 | 2022-08-31 | 2023-02-23 |
 | [أقفيت عني](https://open.spotify.com/track/3P8qR9m8eKjCQlGlwXLhpw) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [أقفيت عني](https://open.spotify.com/album/5YUPTs3mlHy1mFDNqudmex) | 3:20 | 2022-03-30 | 2022-11-02 |
-| [أكبر توهيقه](https://open.spotify.com/track/0pAkD4nxOCAD0RYurYMVlc) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [أكبر توهيقه](https://open.spotify.com/album/11uEePUdxgosMvb7inUpiQ) | 3:35 | 2024-12-19 |  |
+| [أكبر توهيقه](https://open.spotify.com/track/0pAkD4nxOCAD0RYurYMVlc) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [أكبر توهيقه](https://open.spotify.com/album/11uEePUdxgosMvb7inUpiQ) | 3:35 | 2024-12-19 | 2025-10-03 |
 | [أنت الغالي](https://open.spotify.com/track/69FcfNqBwMxHItFoYBlm9K) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أنت الغالي](https://open.spotify.com/album/3mwXiTSRW8MYjwfHbNcMkK) | 3:10 | 2023-06-28 | 2024-06-27 |
 | [أنت وحدك](https://open.spotify.com/track/1lvE0CEkI7ui3gIEbEIzvT) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [أنت وحدك](https://open.spotify.com/album/2aIITWEKMUYVbuy0RmzQWr) | 4:07 | 2023-12-29 | 2024-12-20 |
 | [أنتي أكبر](https://open.spotify.com/track/3Ngmwqv8rqOjWR8ktSGM7i) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [أنتي أكبر](https://open.spotify.com/album/22faS5AhJIdNOTwFa7NSID) | 4:21 | 2022-03-30 | 2022-11-02 |
@@ -86,6 +86,7 @@
 | [النوم طيرته عتيبه](https://open.spotify.com/track/3xufOBSM1hZMsPro29IUAI) | [مهنا العتيبي](https://open.spotify.com/artist/4RZtWzM5Vl8Azd2p4jSTEt) | [النوم طيرته عتيبه](https://open.spotify.com/album/1fBabOhLoifhAgHgzQUeqn) | 6:46 | 2024-06-26 |  |
 | [الوصل مقطوع](https://open.spotify.com/track/2fPCXvO40Yl12NPsE6xsVC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/1ymFv5EHkfSK52jso4HnxB) | 4:39 | 2022-08-31 | 2023-02-23 |
 | [الوصل مقطوع](https://open.spotify.com/track/3uw7nWTOV3QvBH176qsGWI) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/0ZV54R8Vib8NUqVMfchB2j) | 4:39 | 2022-03-30 | 2022-11-03 |
+| [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/track/5Crm6RSC6yDBtw9Nh6nBAL) | [King of Yemeni art](https://open.spotify.com/artist/4gNcnuUGj2JZ2k1uBunuex) | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/album/2jTRLzhssOQOVm4pCKvVSR) | 7:20 | 2025-10-02 |  |
 | [امر تدلل](https://open.spotify.com/track/6PaTGersLXEns3SZCWw4fU) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [امر تدلل](https://open.spotify.com/album/2SkzGMdkdB7xT7vwDXOc4N) | 3:44 | 2023-07-11 | 2024-09-21 |
 | [انا المخطي](https://open.spotify.com/track/2swUzeYPuT4sM5fOF3fWhF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/3BSglbJHaNmKZLmkAJRU11) | 3:32 | 2022-03-30 | 2022-11-02 |
 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 | 2023-04-23 |

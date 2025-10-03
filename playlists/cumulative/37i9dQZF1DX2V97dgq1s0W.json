@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Bellah",
+  "description": "The best voices in R&B. Cover: Lianne La Havas",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -1938,6 +1938,24 @@
       "duration_ms": 208379,
       "name": "Different Ways",
       "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
+    },
+    {
+      "album": {
+        "name": "Disarray",
+        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310853,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
       "album": {
@@ -4439,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -5616,7 +5652,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 212559,
       "name": "More Light (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
@@ -9194,7 +9230,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 177272,
       "name": "Tracy Beaker",
       "url": "https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu"
@@ -9400,10 +9436,50 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 166894,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+    },
+    {
+      "album": {
+        "name": "Useless (Without You) [Begging Remix]",
+        "url": "https://open.spotify.com/album/0bqXDEj0z7zFICu38GyvEt"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Useless (Without You) - Begging Remix",
+      "url": "https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH"
+    },
+    {
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
     },
     {
       "album": {

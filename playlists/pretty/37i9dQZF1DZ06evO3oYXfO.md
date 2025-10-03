@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,602 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,665 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [The Sign of the Southern Cross](https://open.spotify.com/track/778byl7ugZPdNhASJv9o6b) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 7:47 |
 | 50 | [Megalomania \(2009 Remaster\)](https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 9:41 |
 
-Snapshot ID: `aNsdgAAAAADQ91220fXwH2p5ZvHFmEtb`
+Snapshot ID: `aNxvAAAAAACI4T+1OBZjitgFErFzt0s4`

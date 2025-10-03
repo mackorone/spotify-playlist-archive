@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29480,
+  "num_followers": 29486,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACclOc52W7f4OYDhm1c8BCV",
+  "snapshot_id": "aNxvAAAAAAAWz/NbJqAQX5oyWPWqffCG",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 178989,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/7fQGfzF4ZEtyczeU7zXb1d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 157386,
       "name": "Sense & Sensibility",
       "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/7fQGfzF4ZEtyczeU7zXb1d"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 187276,
-      "name": "Sour Days",
-      "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+      "duration_ms": 187276,
+      "name": "Sour Days",
+      "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
     },
     {
       "added_at": null,
@@ -667,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 112733,
       "name": "Fazil's Friend",
       "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 138002,
       "name": "Biftek Supernova",
       "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
     },
     {
       "added_at": null,

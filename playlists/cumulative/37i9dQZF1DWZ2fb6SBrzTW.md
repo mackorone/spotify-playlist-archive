@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-515 songs - 1 day 2 hr 2 min
+516 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 | 2024-06-28 |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 | 2024-03-09 |
 | [Pause](https://open.spotify.com/track/7qL5oEcwbPl9PNIFZSNLeP) | [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Pause](https://open.spotify.com/album/0sa6xFYCA07CmjYS1Tf5jS) | 3:14 | 2022-05-26 | 2022-07-29 |
+| [PAWON](https://open.spotify.com/track/5u3NyEPys96WH7JZRqVakY) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [PAWON](https://open.spotify.com/album/1GhQOWkePNuNvvTOOd2dSB) | 2:07 | 2025-10-03 |  |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 | 2024-06-03 |
 | [Peace of Mind](https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peace of Mind](https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01) | 2:51 | 2023-06-30 | 2024-08-26 |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-10 | 2023-10-18 |
@@ -418,7 +419,7 @@
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 | 2022-12-14 |
 | [Shako](https://open.spotify.com/track/4UlaNm4IdWyYGwxZB56G2P) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Shako](https://open.spotify.com/album/2BjbcRSIlUI8kewCEjZ5qP) | 2:52 | 2021-09-03 | 2022-07-28 |
 | [Shalaye](https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shalaye](https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR) | 2:25 | 2024-11-15 | 2024-12-19 |
-| [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 |  |
+| [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2025-10-03 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 | 2023-03-19 |
 | [Shey Normal](https://open.spotify.com/track/4yOgsbtRZQsiOkhu4AdJyD) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Shey Normal](https://open.spotify.com/album/7Frp4ja9CkYK68S4bECDgA) | 1:59 | 2023-05-19 | 2023-05-27 |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 | 2024-10-19 |

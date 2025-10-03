@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: Syot ",
-  "num_followers": 1934,
+  "num_followers": 1936,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Don't Lie",
+        "url": "https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg"
+      },
+      "artists": [
+        {
+          "name": "Ruby Mus",
+          "url": "https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5"
+        }
+      ],
+      "duration_ms": 123090,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/0EAlSRLB5OFIlkb7gQ0uNG"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1YYGYLfJqSYH34dgrxPkkt"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 168414,
       "name": "Strange Blood",
       "url": "https://open.spotify.com/track/42UOL729KAxmuoWfNnvykG"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Don't Lie",
-        "url": "https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg"
-      },
-      "artists": [
-        {
-          "name": "Ruby Mus",
-          "url": "https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5"
-        }
-      ],
-      "duration_ms": 123090,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/0EAlSRLB5OFIlkb7gQ0uNG"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "The Sailor's Warning",
-        "url": "https://open.spotify.com/album/4VUpMJnr9jgHbzpXevbIsN"
-      },
-      "artists": [
-        {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
-        }
-      ],
-      "duration_ms": 127148,
-      "name": "The Sailor's Warning",
-      "url": "https://open.spotify.com/track/3bgmoyCHa6v3bMMsgK1rWh"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Graceful Fire",
         "url": "https://open.spotify.com/album/1UPm5Ir7374fgerfHDQHXT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 240137,
       "name": "Graceful Fire",
       "url": "https://open.spotify.com/track/3i8SE9MzDHGeKkT01BPjCf"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "The Sailor's Warning",
+        "url": "https://open.spotify.com/album/4VUpMJnr9jgHbzpXevbIsN"
+      },
+      "artists": [
+        {
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+        }
+      ],
+      "duration_ms": 127148,
+      "name": "The Sailor's Warning",
+      "url": "https://open.spotify.com/track/3bgmoyCHa6v3bMMsgK1rWh"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -459,22 +459,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Knikkers",
-        "url": "https://open.spotify.com/album/367Xb6s15PiAHgxL3rjlN0"
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/0eVsCtQAuxLdQNvnDCcgm9"
       },
       "artists": [
         {
-          "name": "Mick Spek",
-          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
-        },
-        {
-          "name": "Doe Gewoon",
-          "url": "https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg"
+          "name": "BERTHAJU",
+          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
         }
       ],
-      "duration_ms": 131500,
-      "name": "Knikkers",
-      "url": "https://open.spotify.com/track/6Yv20dLCAkTC1p4SWLpqaW"
+      "duration_ms": 285263,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -495,6 +491,26 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Knikkers",
+        "url": "https://open.spotify.com/album/367Xb6s15PiAHgxL3rjlN0"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        },
+        {
+          "name": "Doe Gewoon",
+          "url": "https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Knikkers",
+      "url": "https://open.spotify.com/track/6Yv20dLCAkTC1p4SWLpqaW"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Vallen Pt. I",
         "url": "https://open.spotify.com/album/1fZcCvaGUMYyBXYjlGFX4k"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/0eVsCtQAuxLdQNvnDCcgm9"
+        "name": "Girls to the Front",
+        "url": "https://open.spotify.com/album/0zCrbCPdiTRUkLLT5z0HmB"
       },
       "artists": [
         {
-          "name": "BERTHAJU",
-          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
+          "name": "C\u2019est Qui",
+          "url": "https://open.spotify.com/artist/4cRXQa0vnWYuylmWS79lqT"
         }
       ],
-      "duration_ms": 285263,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw"
+      "duration_ms": 132671,
+      "name": "Filthy Hands",
+      "url": "https://open.spotify.com/track/52aY4b5OXg0Icy9Lj5Oc7h"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -539,22 +555,6 @@
       "duration_ms": 126829,
       "name": "Nightmare$",
       "url": "https://open.spotify.com/track/7kbbzpV34lJ2ESBrluZcTL"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Girls to the Front",
-        "url": "https://open.spotify.com/album/0zCrbCPdiTRUkLLT5z0HmB"
-      },
-      "artists": [
-        {
-          "name": "C\u2019est Qui",
-          "url": "https://open.spotify.com/artist/4cRXQa0vnWYuylmWS79lqT"
-        }
-      ],
-      "duration_ms": 132671,
-      "name": "Filthy Hands",
-      "url": "https://open.spotify.com/track/52aY4b5OXg0Icy9Lj5Oc7h"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
+      },
+      "artists": [
+        {
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
+        }
+      ],
+      "duration_ms": 230599,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/18FVsSUcmtFoJ2hoJrXhTD"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 199763,
       "name": "Be Gone Now",
       "url": "https://open.spotify.com/track/07VxsgaKq3CK358NFjfRWP"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Iemand Anders",
-        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
-      },
-      "artists": [
-        {
-          "name": "REINDIER",
-          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
-        }
-      ],
-      "duration_ms": 230599,
-      "name": "Iemand Anders",
-      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Burn It",
-        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
-      },
-      "artists": [
-        {
-          "name": "Bad Luck Baby",
-          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
-        }
-      ],
-      "duration_ms": 229953,
-      "name": "Chew",
-      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "vissenkom",
         "url": "https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 220452,
       "name": "vissenkom",
       "url": "https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
+      },
+      "artists": [
+        {
+          "name": "Bad Luck Baby",
+          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Chew",
+      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Low Fire",
+        "url": "https://open.spotify.com/album/7t5PZLfWVbr5mYP1Xwlluh"
+      },
+      "artists": [
+        {
+          "name": "Mazis",
+          "url": "https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg"
+        }
+      ],
+      "duration_ms": 260010,
+      "name": "Low Fire",
+      "url": "https://open.spotify.com/track/39XFyZJzw07vyuQqKgKsFA"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Feel The Pain",
         "url": "https://open.spotify.com/album/0qSeZDreT0DBBghTv3gEiq"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 159416,
       "name": "Feel The Pain",
       "url": "https://open.spotify.com/track/4JYzuJltpHHRQAhEtvC0zs"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Low Fire",
-        "url": "https://open.spotify.com/album/7t5PZLfWVbr5mYP1Xwlluh"
-      },
-      "artists": [
-        {
-          "name": "Mazis",
-          "url": "https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg"
-        }
-      ],
-      "duration_ms": 260010,
-      "name": "Low Fire",
-      "url": "https://open.spotify.com/track/39XFyZJzw07vyuQqKgKsFA"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Kaonashi",
+        "url": "https://open.spotify.com/album/6fYeOWxW0YiAy9VcOsubcX"
+      },
+      "artists": [
+        {
+          "name": "Gallamesh",
+          "url": "https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Kaonashi",
+      "url": "https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Best Of You",
         "url": "https://open.spotify.com/album/6m0TUbG4smeIIud4CxRROT"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Kaonashi",
-        "url": "https://open.spotify.com/album/6fYeOWxW0YiAy9VcOsubcX"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
       },
       "artists": [
         {
-          "name": "Gallamesh",
-          "url": "https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV"
+          "name": "Luke Christoffel",
+          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Kaonashi",
-      "url": "https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o"
+      "duration_ms": 192342,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1115,22 +1131,6 @@
       "duration_ms": 177652,
       "name": "Bust a Move",
       "url": "https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
-      },
-      "artists": [
-        {
-          "name": "Luke Christoffel",
-          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
-        }
-      ],
-      "duration_ms": 192342,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/2YOVFeQhCUQgCPEyhkDLfU"
+        "name": "bubble",
+        "url": "https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9"
       },
       "artists": [
         {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+          "name": "SERVICE",
+          "url": "https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/1Wm68cRdZHZclVWgowByub"
+      "duration_ms": 186612,
+      "name": "bubble",
+      "url": "https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "bubble",
-        "url": "https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9"
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/2YOVFeQhCUQgCPEyhkDLfU"
       },
       "artists": [
         {
-          "name": "SERVICE",
-          "url": "https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY"
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
         }
       ],
-      "duration_ms": 186612,
-      "name": "bubble",
-      "url": "https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2"
+      "duration_ms": 138386,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/1Wm68cRdZHZclVWgowByub"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Sight Inside",
-        "url": "https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra"
-      },
-      "artists": [
-        {
-          "name": "FAST DE",
-          "url": "https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Miss Trutti Finally Found Her Gem",
-      "url": "https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Laura",
         "url": "https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 251026,
       "name": "Odo",
       "url": "https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "Sight Inside",
+        "url": "https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra"
+      },
+      "artists": [
+        {
+          "name": "FAST DE",
+          "url": "https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Miss Trutti Finally Found Her Gem",
+      "url": "https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "I Won't Back Down",
-        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ploeger",
-          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
         "name": "Party Purse",
         "url": "https://open.spotify.com/album/4wgLw5jJ79T24RYZv7kMpW"
       },
@@ -1383,34 +1367,34 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Moulin Rouge",
-        "url": "https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys"
+        "name": "I Won't Back Down",
+        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
       },
       "artists": [
         {
-          "name": "Yael Daila",
-          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
+          "name": "Lisa Ploeger",
+          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
         }
       ],
-      "duration_ms": 191196,
-      "name": "Moulin Rouge",
-      "url": "https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ"
+      "duration_ms": 199266,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
     },
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "WINDKRACHT TIEN",
-        "url": "https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y"
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
       },
       "artists": [
         {
-          "name": "Thor Kissing",
-          "url": "https://open.spotify.com/artist/6aYMaD2LzJWHYmR6bxeM0v"
+          "name": "Rockpool Dramas",
+          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
         }
       ],
-      "duration_ms": 151764,
-      "name": "HAMERTJE TIK",
-      "url": "https://open.spotify.com/track/0OIITNnEeplZ0wxSSYYVn0"
+      "duration_ms": 190733,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1447,6 +1431,38 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys"
+      },
+      "artists": [
+        {
+          "name": "Yael Daila",
+          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
+        }
+      ],
+      "duration_ms": 191196,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
+        "name": "WINDKRACHT TIEN",
+        "url": "https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y"
+      },
+      "artists": [
+        {
+          "name": "Thor Kissing",
+          "url": "https://open.spotify.com/artist/6aYMaD2LzJWHYmR6bxeM0v"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "HAMERTJE TIK",
+      "url": "https://open.spotify.com/track/0OIITNnEeplZ0wxSSYYVn0"
+    },
+    {
+      "added_at": "2025-09-30 08:00:36",
+      "album": {
         "name": "Learning To Live Without You",
         "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 203624,
       "name": "Learning To Live Without You",
       "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
-    },
-    {
-      "added_at": "2025-09-30 08:00:36",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
-      },
-      "artists": [
-        {
-          "name": "Rockpool Dramas",
-          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
     },
     {
       "added_at": "2025-09-30 08:00:36",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2025-09-30 08:00:36",
       "album": {
-        "name": "Bad Place",
-        "url": "https://open.spotify.com/album/5hwSOQb58sNwwH38TZtreH"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5vCQ1Tsf1XSPwQ7Z1ODLIQ"
       },
       "artists": [
         {
-          "name": "Miss Starling",
-          "url": "https://open.spotify.com/artist/2znAhxI4cVeGBd7e3G2t1E"
+          "name": "The Pekkers",
+          "url": "https://open.spotify.com/artist/22D5gB31snumzOzjp48D1R"
         }
       ],
-      "duration_ms": 190989,
-      "name": "Bad Place",
-      "url": "https://open.spotify.com/track/2NTGyJVScavdp5xZdaAkRo"
+      "duration_ms": 183197,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/2lhjOcISaIQCcm1dQh6eJ5"
     }
   ],
   "unique_name": "Popronde 2025",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,545 likes - 212 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,580 likes - 212 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Get Along Without You Very Well](https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Get Along Without You Very Well](https://open.spotify.com/album/5vuJzfoymsh3VnwGiN09X7) | 5:25 |
-| 2 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
+| 2 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
 | 3 | [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 |
 | 4 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 |
 | 5 | [Flow](https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [Flow](https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil) | 3:43 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 109 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 |
 | 110 | [I’m on break](https://open.spotify.com/track/0jfJ3aLp2fGnPRMbd4Se26) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [I’m on break](https://open.spotify.com/album/4dbCv4JQcIKYHDQDkaCcjm) | 2:39 |
 | 111 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 |
-| 112 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 112 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 113 | [The Only One Was Me](https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [The Only One Was Me](https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W) | 4:17 |
 | 114 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 |
 | 115 | [Gone With The Wind](https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Gone With The Wind](https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa) | 3:41 |

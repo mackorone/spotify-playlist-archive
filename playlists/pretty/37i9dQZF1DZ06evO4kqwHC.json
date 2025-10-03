@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1092338,
+  "num_followers": 1092391,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAB2qwXwJ3/joie4FDXImLLg",
+  "snapshot_id": "aNxvAAAAAACs6t8yIHoOGJ0mUoKX4eOx",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 196573,
-      "name": "No Way Back",
-      "url": "https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6"
+      "duration_ms": 227560,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 227560,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA"
+      "duration_ms": 196573,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 253840,
-      "name": "Waiting On A War",
-      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
+      "duration_ms": 253840,
+      "name": "Waiting On A War",
+      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
     },
     {
       "added_at": null,

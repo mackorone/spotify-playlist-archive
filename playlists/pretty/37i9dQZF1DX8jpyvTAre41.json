@@ -1,13 +1,81 @@
 {
   "description": "The best rock songs of the moment. Cover: ROMES",
-  "num_followers": 194830,
+  "num_followers": 194805,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALs8ma3Qtkr008z1NXb0BZZJ/UuH",
+  "snapshot_id": "AAAAAHl5BWTQX9IJn/j4bbGbSc6AhH2C",
   "tracks": [
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "This World Still Fucking Sucks",
+        "url": "https://open.spotify.com/album/0M0PbTP6aYO0jYw4DIgRnA"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 213694,
+      "name": "Petrichor - Live",
+      "url": "https://open.spotify.com/track/0xTGuilelKhqLx53nixGPL"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "Day Drunk",
+        "url": "https://open.spotify.com/album/6mJ01xFH66KbeTLkg3zTel"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "duration_ms": 108191,
+      "name": "Day Drunk",
+      "url": "https://open.spotify.com/track/5qwpqGXExrlKvt00FNp5PU"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        },
+        {
+          "name": "New Medicine",
+          "url": "https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
+    },
     {
       "added_at": "2025-09-26 00:01:29",
       "album": {
@@ -23,6 +91,86 @@
       "duration_ms": 218000,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/6P3ulqMerWlqHoITMV3Qbk"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 18",
+      "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "Castaway (Demo)",
+        "url": "https://open.spotify.com/album/5iryZx6gMDImSdkxCM5c3B"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Castaway - Demo",
+      "url": "https://open.spotify.com/track/2VnEyXzfafwIJHbPQAPKsn"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/7kXpOiNcLA1Y7iMWi3HTXZ"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5JOMPIPaH3cEHoQFyyrZNN"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "Force a Metamorphosis",
+        "url": "https://open.spotify.com/album/2bHKHttoFF9shbPXhLBL5u"
+      },
+      "artists": [
+        {
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
+        }
+      ],
+      "duration_ms": 176485,
+      "name": "Force a Metamorphosis",
+      "url": "https://open.spotify.com/track/0ylLpY8VEtpEeuamGWHuYE"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "When The Fire is Hot",
+        "url": "https://open.spotify.com/album/4EP8Ogo588fO0h8NCOgnZu"
+      },
+      "artists": [
+        {
+          "name": "Helix",
+          "url": "https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG"
+        }
+      ],
+      "duration_ms": 258814,
+      "name": "When The Fire is Hot",
+      "url": "https://open.spotify.com/track/5UPL6le13wwd6fy0mZDq6C"
     },
     {
       "added_at": "2025-09-26 00:01:29",
@@ -442,6 +590,10 @@
         {
           "name": "Nine Inch Nails",
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
       "duration_ms": 350856,
@@ -1317,106 +1469,6 @@
       "url": "https://open.spotify.com/track/3DEC7gXUckxTQluqTjMG77"
     },
     {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Lions",
-        "url": "https://open.spotify.com/album/2Ainv5Ws97y4YTUC29EsDa"
-      },
-      "artists": [
-        {
-          "name": "The Penske File",
-          "url": "https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Lions",
-      "url": "https://open.spotify.com/track/2UmPr4aXRMBAIFlphNqUxc"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/1yrvfMs5sJOdR6uty4FcBF"
-      },
-      "artists": [
-        {
-          "name": "Art d'Ecco",
-          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
-        }
-      ],
-      "duration_ms": 197945,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/5Scg9DoX2EDQrPe1YxwKvG"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Keep On Breaking My Heart",
-        "url": "https://open.spotify.com/album/2MEkJW4X9GJVirLPYsq8eQ"
-      },
-      "artists": [
-        {
-          "name": "Yukon Blonde",
-          "url": "https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN"
-        }
-      ],
-      "duration_ms": 233689,
-      "name": "Keep On Breaking My Heart",
-      "url": "https://open.spotify.com/track/4e3JiIBS5WngRiEnjUcxWh"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Storm the Gates",
-        "url": "https://open.spotify.com/album/74DmLEK7UGbOY7RJCoa6ij"
-      },
-      "artists": [
-        {
-          "name": "Harm & Ease",
-          "url": "https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE"
-        },
-        {
-          "name": "Black Pontiac",
-          "url": "https://open.spotify.com/artist/7p24SkpCc94fUK8rPK3JHm"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Storm the Gates",
-      "url": "https://open.spotify.com/track/26EzIUtcJYnbKg3JqevAmd"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "the middle",
-        "url": "https://open.spotify.com/album/2WlczGZGOWDR3igZva0zKs"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 194516,
-      "name": "the middle",
-      "url": "https://open.spotify.com/track/6B78WUX5itO7nSEx4ZjUp8"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "GOD IS AN ANIMAL",
-        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 235745,
-      "name": "GOD IS AN ANIMAL",
-      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
-    },
-    {
       "added_at": "2025-08-15 00:01:35",
       "album": {
         "name": "So Far So Fake",
@@ -1447,22 +1499,6 @@
       "duration_ms": 168232,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/2mVWbrAIn4CEvz9b6tkdsf"
-    },
-    {
-      "added_at": "2025-08-08 04:00:56",
-      "album": {
-        "name": "lost americana",
-        "url": "https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 302897,
-      "name": "outlaw overture",
-      "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },
     {
       "added_at": "2025-08-08 04:00:56",
@@ -1499,26 +1535,6 @@
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2025-08-08 04:00:56",
-      "album": {
-        "name": "Bowery (feat. Kings of Leon)",
-        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 215720,
-      "name": "Bowery (feat. Kings of Leon)",
-      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "added_at": "2025-08-08 04:00:56",
@@ -1599,22 +1615,6 @@
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/6B8FMz3hpOEthM4xK8fZE8"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 123950,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/6ESC79zhktiwcijTphwKLh"
     },
     {
       "added_at": "2025-08-01 04:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: おいしくるメロンパン
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,811 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,823 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,18 +93,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 83 | [脳内告白](https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [脳内告白](https://open.spotify.com/album/0OlNMPJ26VakgAwc4J7TwG) | 2:57 |
 | 84 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 |
 | 85 | [Hey!Calling](https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Hey!Calling](https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC) | 3:57 |
-| 86 | [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 |
-| 87 | [Supersonic](https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [WORLD END LOVESONG](https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV) | 3:52 |
+| 86 | [Supersonic](https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [WORLD END LOVESONG](https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV) | 3:52 |
+| 87 | [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 |
 | 88 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 |
 | 89 | [月面接吻](https://open.spotify.com/track/1BVaTJoYRHVUFaLMyZYzCX) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [月面接吻](https://open.spotify.com/album/7zi4AejuS2PqMs084hmcjB) | 4:54 |
 | 90 | [妄想eden](https://open.spotify.com/track/5ht8Bi9PhI6V68U48mlEbb) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [WELCOME TO YOUR LIFE](https://open.spotify.com/album/3RyDtT6C2tg7JF5FcnILWq) | 3:44 |
 | 91 | [ラプソディ](https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [ラプソディ](https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I) | 3:41 |
 | 92 | [死ぬほどあいたいから、だからあいに行くよ](https://open.spotify.com/track/2Iz75qsbWrWMsV381lqmhy) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [more than love](https://open.spotify.com/album/3lwIqSagsvVt30wjgHJVE8) | 3:45 |
 | 93 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 |
-| 94 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 |
-| 95 | [aquarium](https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ネオンテトラ](https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf) | 3:24 |
-| 96 | [デッドエンド](https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy), [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn), [ざらばんし](https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij) | [デッドエンド](https://open.spotify.com/album/50hmckAxnEiUNUA2rx2Fxh) | 2:12 |
-| 97 | [ルックアットミー](https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ルックアットミー](https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD) | 2:24 |
+| 94 | [aquarium](https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ネオンテトラ](https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf) | 3:24 |
+| 95 | [ルックアットミー](https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ルックアットミー](https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD) | 2:24 |
+| 96 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 |
+| 97 | [デッドエンド](https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy), [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn), [ざらばんし](https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij) | [デッドエンド](https://open.spotify.com/album/50hmckAxnEiUNUA2rx2Fxh) | 2:12 |
 | 98 | [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 |
 | 99 | [宇宙からのラブレター](https://open.spotify.com/track/41UT0vsxsQPwE5Zg4iRxDj) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/1g806y0pTlf7ToZ0Vdq2Nm) | 4:09 |
 | 100 | [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 |

@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Maya Amolo
 
-289 songs - 16 hr 15 min
+290 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 | 2024-03-07 | 2025-02-21 |
 | [Aki Sioni](https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:03 | 2024-12-19 |  |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2021-12-28 |  |
-| [All Your Blues](https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:35 | 2023-11-30 |  |
+| [All Your Blues](https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:35 | 2023-11-30 | 2025-10-03 |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 | 2024-05-17 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2025-02-13 | 2025-02-21 |
 | [Amua](https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc) | [Nuru](https://open.spotify.com/artist/5IMf5cDbiOoO8qWptlG6Z7) | [Amua](https://open.spotify.com/album/10NNo1CeChuHcDVz8V5kRA) | 3:05 | 2021-12-28 | 2023-07-14 |
@@ -98,6 +98,7 @@
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 | 2024-01-27 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 | 2024-02-16 |
+| [Hooptie Dreaming](https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [9](https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk) | 3:20 | 2025-10-02 |  |
 | [How Do I Love You?](https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [How Do I Love You?](https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE) | 3:49 | 2025-08-14 |  |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2024-11-29 |
 | [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |

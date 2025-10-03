@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Konstantinos Argiros, Noizy
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Giorgos Sabanis
 
-202 songs - 10 hr 24 min
+203 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [La Luna](https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [La Luna](https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI) | 3:05 | 2024-07-04 | 2025-03-14 |
 | [LALALALA](https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [LALALALA \- Remix](https://open.spotify.com/track/7i1PClgbxW5GQCIxFuS9eW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [LALALALA \(Remix\)](https://open.spotify.com/album/57OtUZC55GBD6G7c3JQY3P) | 2:44 | 2024-07-18 | 2025-02-21 |
-| [Leei](https://open.spotify.com/track/3vcgEQxI67g0OVEsZtDmx1) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Leei](https://open.spotify.com/album/3FT0KZ5IDynY9l4AxG7hah) | 2:43 | 2025-03-13 |  |
+| [Leei](https://open.spotify.com/track/3vcgEQxI67g0OVEsZtDmx1) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Leei](https://open.spotify.com/album/3FT0KZ5IDynY9l4AxG7hah) | 2:43 | 2025-03-13 | 2025-10-03 |
 | [LOCO](https://open.spotify.com/track/74EtbjC2q4S5bRvYIfowWY) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [LOCO](https://open.spotify.com/album/28URYDcEbC2mTOfVJm4zt5) | 2:20 | 2024-06-27 | 2024-07-12 |
 | [Logia](https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Logia](https://open.spotify.com/album/67ZfumS9xEJSvImcnUxCev) | 2:38 | 2024-10-24 | 2025-06-06 |
 | [LOLA](https://open.spotify.com/track/08ZOiOkRA8HPwrz9hsum1n) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 | 2025-04-24 |  |
@@ -161,6 +161,7 @@
 | [Pirotehnimata \- Playmen Remix](https://open.spotify.com/track/0MCyMfoKFcYfyguoKGiQsM) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c) | [Party All The Time](https://open.spotify.com/album/1kKUHmU1lLQTerGmxyA04Z) | 4:47 | 2024-07-04 | 2024-10-18 |
 | [Poso To Thes](https://open.spotify.com/track/5baHSxndWxkNxWt5tkiY8N) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [Poso To Thes](https://open.spotify.com/album/4CKGz5ZZfTwQdIekLRk6yT) | 2:33 | 2024-12-05 | 2025-07-04 |
 | [Prin Se Gnoriso \(Ta Kakos Kimena\)](https://open.spotify.com/track/2K7m2F5LNwVsTYRJKC9puI) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Dj Timo](https://open.spotify.com/artist/0otJf0seHzZGe4RjhqZRko), [V\. Geo](https://open.spotify.com/artist/2nyiQLqtnXWP0D3s5FI7UP) | [Prin Se Gnoriso \(Ta Kakos Kimena\)](https://open.spotify.com/album/2qYJvewvmb3vuFxZ2prWxO) | 3:20 | 2024-06-27 | 2024-12-13 |
+| [Pros To Paron](https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Pros To Paron](https://open.spotify.com/album/15IOPCi4iTsg9G6lenc11f) | 3:16 | 2025-10-02 |  |
 | [Protagonistes](https://open.spotify.com/track/7eU0GAZD508EQ2JLHyyYRv) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Dionisis Shinas](https://open.spotify.com/artist/6FffkdwR4hVKiG143YFJPb), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Protagonistes](https://open.spotify.com/album/4jjCaQ5iLFYCpzZWrmCyKf) | 3:39 | 2024-11-21 | 2025-02-21 |
 | [Provlimata](https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:24 | 2025-05-08 |  |
 | [PSEMATA](https://open.spotify.com/track/4afbrAtKTYLT2J0QBo70It) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [PSEMATA](https://open.spotify.com/album/3dji683GDv39BHlufBg38p) | 3:35 | 2024-09-26 | 2025-04-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Kalipsxau",
+  "description": "Les hits zouk du moment. Photo : L\u00c9A CHURROS x Maud Elka",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 214971,
       "name": "4 Kamp\u00e9",
       "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 179659,
       "name": "Aller-retour",
       "url": "https://open.spotify.com/track/53DQPXHsNXlE7xnNmt3WwI"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 164819,
       "name": "CARDIO",
       "url": "https://open.spotify.com/track/4jGQosmehonskWfrEEzxN4"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 211666,
       "name": "Changer",
       "url": "https://open.spotify.com/track/19fT3Mo3tLcIwMBZ4W9ANM"
@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "DONNE MOI TOUT",
+        "url": "https://open.spotify.com/album/3lWXAEb4dAMNqPl2CFUw53"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "DONNE-MOI TOUT",
+      "url": "https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM"
+    },
+    {
+      "album": {
         "name": "IS THIS LOVE",
         "url": "https://open.spotify.com/album/2dMPaQp3cHOS7tnhR1lHKX"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 178536,
       "name": "Fan",
       "url": "https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs"
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 168000,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/46Lz1XVVL5xrKkUHD1DKLF"
@@ -1878,6 +1896,28 @@
       "duration_ms": 228427,
       "name": "Goumin",
       "url": "https://open.spotify.com/track/6UMDlX8OqZYZduZrGLdcfi"
+    },
+    {
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/6J4LB3z5ox0vl0O1AJY7W3"
+      },
+      "artists": [
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "GRAV\u00c9",
+      "url": "https://open.spotify.com/track/70puvfYeWuVer3WfhkWg2E"
     },
     {
       "album": {
@@ -2917,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "M'en Aller",
+        "url": "https://open.spotify.com/album/2I84m5gBW8jck2PEHrkIn9"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "M'en Aller",
+      "url": "https://open.spotify.com/track/4yMKFwzdBXs7sH9zvOVeAA"
+    },
+    {
+      "album": {
         "name": "Ma dose",
         "url": "https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z"
       },
@@ -3823,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "On Ti Kos\u00e9 Pos\u00e9",
+        "url": "https://open.spotify.com/album/0diTvlZKmfkNM061CuystB"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl GALIPO",
+          "url": "https://open.spotify.com/artist/6rW55fOMEJYi4Gb8PPbU9p"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180616,
+      "name": "On Ti Kos\u00e9 Pos\u00e9",
+      "url": "https://open.spotify.com/track/5BSTdR9vkOlsj8V9wqsaTJ"
+    },
+    {
+      "album": {
         "name": "Eclosion",
         "url": "https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu"
       },
@@ -4690,6 +4770,24 @@
       "duration_ms": 195000,
       "name": "Sans ranc\u0153ur",
       "url": "https://open.spotify.com/track/7HMYc94izcZHDneK2UMp8s"
+    },
+    {
+      "album": {
+        "name": "FUTURE KARNIVAL",
+        "url": "https://open.spotify.com/album/2wGqLtTq3uHRmjPHoknJCt"
+      },
+      "artists": [
+        {
+          "name": "Malcolm",
+          "url": "https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176280,
+      "name": "SENKL\u00d2D",
+      "url": "https://open.spotify.com/track/5vVYrbfPtTVRnsi9pRwi4u"
     },
     {
       "album": {
@@ -5690,6 +5788,28 @@
       "duration_ms": 213600,
       "name": "Tout \u00e7a",
       "url": "https://open.spotify.com/track/3FpcnvaYqXB9QgvvoY76Ib"
+    },
+    {
+      "album": {
+        "name": "Toute ma vie",
+        "url": "https://open.spotify.com/album/5sOH6iZp5nhaCLxeWjoBY4"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173414,
+      "name": "Toute ma vie",
+      "url": "https://open.spotify.com/track/6OARgpwlVE5qZJMm0jNWBz"
     },
     {
       "album": {

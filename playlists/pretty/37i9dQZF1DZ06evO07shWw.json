@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABsbQ8a1bNnv/akfL+8c6TF",
+  "snapshot_id": "aNxvAAAAAAD60/O+lDXpgMqpPAbwBpqN",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like (Deluxe)",
+        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Feeling Things",
+      "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Comeback (Deluxe)",
         "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 193561,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like (Deluxe)",
-        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Feeling Things",
-      "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 183591,
       "name": "Here for It (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": null,

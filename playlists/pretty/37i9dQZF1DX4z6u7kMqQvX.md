@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,015 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,016 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 78 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 |
 | 79 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
 | 80 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
-| 81 | [Secret Love](https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Secret Love](https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO) | 3:48 |
-| 82 | [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 |
+| 81 | [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 |
+| 82 | [Secret Love](https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Secret Love](https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO) | 3:48 |
 | 83 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [TODO LO QUE HICIMOS.](https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK) | 3:37 |
 | 84 | [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 |
 | 85 | [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 |

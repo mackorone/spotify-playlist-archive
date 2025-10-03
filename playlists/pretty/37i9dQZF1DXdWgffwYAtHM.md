@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Creator do mês: <a href="spotify:show:3Z980PbVrz8cf0StzZTFU4">MONÓLOGOS ♡</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 10 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,802 likes - 10 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

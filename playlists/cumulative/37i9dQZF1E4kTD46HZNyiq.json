@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, The Wild Wind, LAVE and more",
+  "description": "With Rhineland, Laureline, The Wild Wind and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 210218,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 204556,
       "name": "Call Me a Fool",
       "url": "https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj"
@@ -6146,7 +6146,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 216250,
       "name": "Dream",
       "url": "https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg"
@@ -6866,7 +6866,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 167750,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A"
@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye"
@@ -8948,7 +8948,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M"
@@ -9110,7 +9110,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 215823,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6roiPaka61jSTdVIH5B35F"
@@ -10876,7 +10876,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 228260,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
@@ -11330,7 +11330,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
@@ -11550,7 +11550,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -13167,6 +13167,24 @@
     },
     {
       "album": {
+        "name": "Heard It in a Dream, Love",
+        "url": "https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI"
+      },
+      "artists": [
+        {
+          "name": "Rhineland",
+          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Leave Me a Light On",
+      "url": "https://open.spotify.com/track/2XpOLR4v8XSzv3E2rQ7ly7"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3NdU0EaQ6muBuhnIGKQZJR"
       },
@@ -13748,7 +13766,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -14362,6 +14380,24 @@
     {
       "album": {
         "name": "Wash",
+        "url": "https://open.spotify.com/album/2ksP3jQicVWUzWPpX0c27N"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282354,
+      "name": "Loving Like You Lost",
+      "url": "https://open.spotify.com/track/0bSE852Jyc3H1koMeCOjaG"
+    },
+    {
+      "album": {
+        "name": "Wash",
         "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
       },
       "artists": [
@@ -14696,7 +14732,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 234844,
       "name": "Many Worlds",
       "url": "https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002"
@@ -14862,7 +14898,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 230138,
       "name": "Maybe, One Day",
       "url": "https://open.spotify.com/track/7lDD6klBmwKuoqmql1RuE2"
@@ -15114,7 +15150,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -16300,7 +16336,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 241160,
       "name": "No Vacancy",
       "url": "https://open.spotify.com/track/7vO0kj8IiweKoPDorOz1ii"
@@ -18110,7 +18146,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 187250,
       "name": "Plans",
       "url": "https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF"
@@ -21518,7 +21554,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3GI0wyLTnmq8RgeosaG54Z"
@@ -22450,7 +22486,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 240746,
       "name": "The Hotel",
       "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
@@ -22508,6 +22544,24 @@
       "duration_ms": 298285,
       "name": "THE LINE",
       "url": "https://open.spotify.com/track/0yWDtjaoFyKrkGxbPsiVA3"
+    },
+    {
+      "album": {
+        "name": "night, love you.",
+        "url": "https://open.spotify.com/album/7kM5N8LhfPhz8BWronkeub"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "the movies",
+      "url": "https://open.spotify.com/track/1NrcGaE2wOg1lYtNIxLa07"
     },
     {
       "album": {

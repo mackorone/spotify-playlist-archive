@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Soleil Bleu\", de Bleu Soleil et LUIZA, est le Grand Hit de la semaine.",
+  "description": "\"Viens on essaie\" de Vitaa et Julien Dor\u00e9 est le Grand Hit de la semaine",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 froid",
+        "url": "https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G"
+      },
+      "artists": [
+        {
+          "name": "Chiloo",
+          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Caf\u00e9 froid",
+      "url": "https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6"
+    },
+    {
+      "album": {
         "name": "Sentiments Heureux",
         "url": "https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5"
       },
@@ -656,6 +674,24 @@
       "duration_ms": 154346,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt"
+    },
+    {
+      "album": {
+        "name": "Mon sang",
+        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Cette vie",
+      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
     },
     {
       "album": {
@@ -1236,6 +1272,24 @@
       "duration_ms": 172720,
       "name": "Dis Moi Tout",
       "url": "https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e"
+    },
+    {
+      "album": {
+        "name": "Dis-moi oui",
+        "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236119,
+      "name": "Dis-moi oui",
+      "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
     },
     {
       "album": {
@@ -2446,7 +2500,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 191320,
       "name": "L'amour",
       "url": "https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O"
@@ -3488,7 +3542,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 180195,
       "name": "maman",
       "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
@@ -3864,6 +3918,24 @@
       "duration_ms": 154454,
       "name": "Origami",
       "url": "https://open.spotify.com/track/2aZzYnRRP6RNa6VVW1sNCl"
+    },
+    {
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb"
     },
     {
       "album": {
@@ -4420,7 +4492,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 221600,
       "name": "Sains et saufs",
       "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
@@ -5084,7 +5156,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 154106,
       "name": "Un, Dos, Tres",
       "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"

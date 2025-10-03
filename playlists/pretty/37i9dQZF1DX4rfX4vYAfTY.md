@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rfX4vYAfTY.md) - [plain]
 
 > Enjoy the BOYNEXTDOOR world tour \[KNOCK ON Vol.1\] LIVE SET including the voices of them on stage! \(보이넥스트도어의 무대 멘트와 목소리가 포함된 \[KNOCK ON Vol.1\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,115 likes - 25 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,113 likes - 25 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

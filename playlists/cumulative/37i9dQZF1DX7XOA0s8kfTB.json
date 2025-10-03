@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 159279,
       "name": "Mirage of the mind",
       "url": "https://open.spotify.com/track/2lp8TyBhONuPg1OYjbC92l"
@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "\u78a7\u3044if",
+        "url": "https://open.spotify.com/album/7GND1Ea9u4vIRlC27NJf6i"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159218,
+      "name": "\u78a7\u3044if",
+      "url": "https://open.spotify.com/track/1E5HELkofxLwkULCOuHmcf"
+    },
+    {
+      "album": {
         "name": "\u7a7a\u306e\u7bb1 (\u4e95\u82b9\u4ec1\u83dc\u3001\u6cb3\u539f\u6728\u6843\u9999)",
         "url": "https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml"
       },
@@ -722,6 +740,24 @@
       "duration_ms": 187107,
       "name": "\u8584\u91c7\u30c7\u30a3\u30b9\u30d7\u30ec\u30a4",
       "url": "https://open.spotify.com/track/5JwzDohzOAaz4ybdjc7p2Z"
+    },
+    {
+      "album": {
+        "name": "\u8703\u6c17\u697c\u30cb\u554f\u30d5",
+        "url": "https://open.spotify.com/album/0vFY5rEEBYBKDcMsLUq3yF"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159279,
+      "name": "\u8703\u6c17\u697c\u30cb\u554f\u30d5",
+      "url": "https://open.spotify.com/track/0NbuhWCqo1JO1NhpuIJBIv"
     },
     {
       "album": {

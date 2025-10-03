@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1815,
+  "num_followers": 1813,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAC/ysPB2rXrL+nh0AQk8fbF",
+  "snapshot_id": "aNxvAAAAAACR7AFuJOmKXNnE3VIO0Uqk",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beijo na Boca",
+        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "MC Pel\u00e9",
+          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
+        }
+      ],
+      "duration_ms": 125307,
+      "name": "Beijo na Boca",
+      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puta Que Pariu",
         "url": "https://open.spotify.com/album/515WImJFOyl2duvuIV1lo6"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 151951,
       "name": "Puta Que Pariu",
       "url": "https://open.spotify.com/track/4NDvt31QU8VSXjfEk7O64A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beijo na Boca",
-        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "MC Pel\u00e9",
-          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
-        }
-      ],
-      "duration_ms": 125307,
-      "name": "Beijo na Boca",
-      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
     },
     {
       "added_at": null,
@@ -747,18 +747,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
       "artists": [
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "Dj Mack",
+          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+      "duration_ms": 132923,
+      "name": "Fiel \u00e0 Cachorrada",
+      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
     },
     {
       "added_at": null,
@@ -787,26 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
       },
       "artists": [
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "Dj Mack",
-          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
         }
       ],
-      "duration_ms": 132923,
-      "name": "Fiel \u00e0 Cachorrada",
-      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -851,22 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
       "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
+      "duration_ms": 168960,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -891,26 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
       "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
     },
     {
       "added_at": null,
@@ -1042,11 +1042,15 @@
         {
           "name": "Nicoby",
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+      "duration_ms": 170000,
+      "name": "Avenida Brasil",
+      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
     },
     {
       "added_at": null,
@@ -1122,15 +1126,35 @@
         {
           "name": "Nicoby",
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Avenida Brasil",
-      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        },
+        {
+          "name": "Dj Bk Original",
+          "url": "https://open.spotify.com/artist/7kfSjxZlJ8jaBNnO6KWiPy"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "No Baile do Serr\u00e3o",
+      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
     },
     {
       "added_at": null,
@@ -1155,54 +1179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+        "name": "Balan\u00e7a Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        },
-        {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Papo de Arrependida",
-      "url": "https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibe da Faixa Rosa",
-        "url": "https://open.spotify.com/album/3o2KdzGjZ5bz1We2IvVd4C"
-      },
-      "artists": [
-        {
-          "name": "Xmns",
-          "url": "https://open.spotify.com/artist/2lUetCfZtIF8BkCnl4DEfi"
+          "name": "Gu Original",
+          "url": "https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Xenon",
-          "url": "https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg"
         }
       ],
-      "duration_ms": 153678,
-      "name": "Vibe da Faixa Rosa",
-      "url": "https://open.spotify.com/track/0ebW1CJ4tYRx3VHfqbWzUh"
+      "duration_ms": 204444,
+      "name": "Balan\u00e7a Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
     },
     {
       "added_at": null,

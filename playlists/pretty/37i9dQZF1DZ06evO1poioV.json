@@ -1,29 +1,13 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 118197,
+  "num_followers": 118213,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACMJZ4KCTdPJ/DGgbCX6xnY",
+  "snapshot_id": "aNxvAAAAAADrgaIv30NgKaa9WkPzBCDN",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
-    },
     {
       "added_at": null,
       "album": {
@@ -195,6 +179,22 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Letter To The Past",
+      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i"
       },
@@ -963,34 +979,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Letter To The Past",
-      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 283586,
-      "name": "Fulton County Jane Doe",
-      "url": "https://open.spotify.com/track/67QNn7OMBtCRnLPG8ZUv62"
+      "duration_ms": 345026,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

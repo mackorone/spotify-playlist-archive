@@ -804,7 +804,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 191706,
       "name": "Heard a Voice",
       "url": "https://open.spotify.com/track/6KCHw7Hbkuo043ZyCNIaFQ"
@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "LOVED",
+        "url": "https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax"
       },
@@ -2194,10 +2212,28 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 204085,
       "name": "To Tomorrow",
       "url": "https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Stefan Sands",
+          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL"
     },
     {
       "album": {

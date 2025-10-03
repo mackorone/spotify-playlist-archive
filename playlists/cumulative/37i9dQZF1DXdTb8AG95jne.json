@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OuiOui) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Yerin Baek(\ubc31\uc608\ub9b0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 234703,
       "name": "Bye my night",
       "url": "https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1"
@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 198500,
       "name": "CATGIRL",
       "url": "https://open.spotify.com/track/2C1mEP1LRWbL3kPNdzzoyp"
@@ -4912,6 +4912,24 @@
       "duration_ms": 215825,
       "name": "Escape!",
       "url": "https://open.spotify.com/track/5VsXPHSJvB0H4SBZHFiJyO"
+    },
+    {
+      "album": {
+        "name": "ETERNAL AIRLINE",
+        "url": "https://open.spotify.com/album/0cri4YtU3TAvtFX8bUXdZZ"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "ETERNAL AIRLINE",
+      "url": "https://open.spotify.com/track/4hRYW8V4wjnEdQ6jgGa3mo"
     },
     {
       "album": {
@@ -11263,6 +11281,24 @@
     },
     {
       "album": {
+        "name": "Flash and Core",
+        "url": "https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di"
+    },
+    {
+      "album": {
         "name": "MISHMASH",
         "url": "https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY"
       },
@@ -17366,7 +17402,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 199797,
       "name": "The Days of Green",
       "url": "https://open.spotify.com/track/1QDgDQ7U9nqVxSu3SbBTWB"
@@ -18916,6 +18952,24 @@
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
+    },
+    {
+      "album": {
+        "name": "We were like the stars of dawn",
+        "url": "https://open.spotify.com/album/6xh2EwO8xCQPmAnYPdWxsd"
+      },
+      "artists": [
+        {
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200279,
+      "name": "We were like the stars of dawn (Dawn)",
+      "url": "https://open.spotify.com/track/4jVdIOnlemGMLnAAJZjDTx"
     },
     {
       "album": {

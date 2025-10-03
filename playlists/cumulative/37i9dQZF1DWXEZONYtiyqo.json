@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Misha Miller",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 204705,
       "name": "A\u0219a Ceva",
       "url": "https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4"
@@ -3111,6 +3111,28 @@
     },
     {
       "album": {
+        "name": "Lacrimi din soare",
+        "url": "https://open.spotify.com/album/7zCYAFXYL3TgZZDSOVrLKV"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Lacrimi din soare",
+      "url": "https://open.spotify.com/track/3lO7CADYgSd4OvW3k3UH2M"
+    },
+    {
+      "album": {
         "name": "Lacrimi din stilou",
         "url": "https://open.spotify.com/album/6QulNIzMOxSbjdoW7GFfpX"
       },
@@ -3340,7 +3362,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 170666,
       "name": "Lume, Lume",
       "url": "https://open.spotify.com/track/4cIvBXueYjHnD27zCLFKLh"
@@ -6041,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Ultimul revers",
+        "url": "https://open.spotify.com/album/3hJrv3Ogk1Y9f8f6O47eBy"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220769,
+      "name": "Ultimul revers",
+      "url": "https://open.spotify.com/track/3JzXQZ8vOr9pQhoWYJpbX7"
+    },
+    {
+      "album": {
         "name": "Ultimul s\u0103rut",
         "url": "https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ"
       },
@@ -6256,7 +6296,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 121919,
       "name": "Vis\u0103tori",
       "url": "https://open.spotify.com/track/1nC5wge0KIJ1xkY8VwXHS5"

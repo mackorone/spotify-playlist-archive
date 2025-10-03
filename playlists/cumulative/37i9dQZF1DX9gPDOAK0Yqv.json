@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 200314,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/3Y1ivgzPagSbzOPbwJ3Zow"
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 176390,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI"
@@ -6819,6 +6819,24 @@
     },
     {
       "album": {
+        "name": "I Do It Right",
+        "url": "https://open.spotify.com/album/34OBS6neHo43VrEyh9wBHi"
+      },
+      "artists": [
+        {
+          "name": "FENIK",
+          "url": "https://open.spotify.com/artist/3xA33zcSOXlZUcK6n8MxiM"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199849,
+      "name": "I Do It Right",
+      "url": "https://open.spotify.com/track/3kwj6e92oXphxn9AQEMMlI"
+    },
+    {
+      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/2Lf4zPNQ2h4Yeq3sZTq72P"
       },
@@ -8414,6 +8432,24 @@
       "duration_ms": 314880,
       "name": "Living Lust",
       "url": "https://open.spotify.com/track/1kOUsiiEmYlQzkocXK7udr"
+    },
+    {
+      "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/32nCfEz3pfMCHivEIgcZfR"
+      },
+      "artists": [
+        {
+          "name": "TOROK",
+          "url": "https://open.spotify.com/artist/2ARonuUOZXqEOon2NgKi2H"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4j8VJ6qInCVMGuujtqGYZp"
     },
     {
       "album": {
@@ -10178,6 +10214,28 @@
       "duration_ms": 219768,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/4hAI7unBkmTmkXqM3Brf1d"
+      },
+      "artists": [
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        },
+        {
+          "name": "Madalen Duke",
+          "url": "https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220982,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3MvVPX7NSuylvlRc9Q6KEL"
     },
     {
       "album": {
@@ -12630,7 +12688,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 192626,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
@@ -14138,6 +14196,28 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "album": {
+        "name": "Ten Seconds Before Sunrise",
+        "url": "https://open.spotify.com/album/3lkQEM1oxcSx9povZBD0O3"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268015,
+      "name": "Ten Seconds Before Sunrise",
+      "url": "https://open.spotify.com/track/1zQ9ZnIglXUhATAAvtUjti"
     },
     {
       "album": {
@@ -16658,7 +16738,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 221538,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4ynRYz5CzTeSqsOPZOKWEQ"

@@ -4,7 +4,7 @@
 
 > 
 
-59 songs - 5 hr 34 min
+60 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Insomnia \- Monster Mix](https://open.spotify.com/track/4WAQc8xXKNinvCyV7SFt8D) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Sister Bliss](https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5), [Goetz](https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv) | [Forever Faithless \- The Greatest Hits](https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL) | 8:41 | 2022-04-01 |  |
 | [It's Better When We Fake It](https://open.spotify.com/track/2YYTIL5bM9f72CZiVhMki8) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [It's Better When We Fake It](https://open.spotify.com/album/6C5zGGKbqzWO6N2dn9LbEC) | 6:58 | 2023-08-02 |  |
 | [Kammy \(like i do\)](https://open.spotify.com/track/1tOEEEM8DFyZq3CxSHeq5f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:58 | 2023-10-10 |  |
+| [Lately \- Enamour Remix](https://open.spotify.com/track/1epW8YONDcgYdExSr1Ha6k) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:22 | 2025-10-02 |  |
 | [Lightbringers](https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:10 | 2023-07-01 |  |
 | [Long Gone Memory \- Extended Mix](https://open.spotify.com/track/1xNLf29EoICgDn4mLXhrC0) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Arlissa](https://open.spotify.com/artist/4tEua1nRjRrMX0PZUrCZ3H) | [Long Gone Memory](https://open.spotify.com/album/74V5FlrXUKRxi42tPdCA8I) | 4:13 | 2021-01-10 |  |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-10 |  |

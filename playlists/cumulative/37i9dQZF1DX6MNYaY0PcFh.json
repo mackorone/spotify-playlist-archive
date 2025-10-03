@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: JayaHadADream",
+  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: 1111",
   "name": "New UK Garage",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 147580,
       "name": "2 Spirits",
       "url": "https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 144510,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 162352,
       "name": "Ghost (feat. AntsLive)",
       "url": "https://open.spotify.com/track/3jLxP4i0VaHSw0hYDcnoKQ"
@@ -3410,6 +3410,32 @@
       "duration_ms": 193432,
       "name": "lose my head",
       "url": "https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
     },
     {
       "album": {
@@ -4888,7 +4914,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 207761,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/6VbNlMkN6iQnNapUxKuL54"
@@ -5364,7 +5390,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 193022,
       "name": "Straight From The Underground",
       "url": "https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP"
@@ -5560,7 +5586,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 214285,
       "name": "Take No Chat",
       "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
@@ -5688,7 +5714,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 143649,
       "name": "The Bank",
       "url": "https://open.spotify.com/track/01ryrVHG1DYeHcNJSmbRKY"
@@ -5984,7 +6010,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 212571,
       "name": "U KNEW",
       "url": "https://open.spotify.com/track/7hxV8cTz7q0BpcINmEl0q9"
@@ -6286,6 +6312,24 @@
       "duration_ms": 196874,
       "name": "Who do u?",
       "url": "https://open.spotify.com/track/5oWfXmdrVX0AMwEdJ8iSBf"
+    },
+    {
+      "album": {
+        "name": "Wicked & Crisp",
+        "url": "https://open.spotify.com/album/6gOj7SCGjeLMSfK3g6aNtf"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Wicked & Crisp",
+      "url": "https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW"
     },
     {
       "album": {

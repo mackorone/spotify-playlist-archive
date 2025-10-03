@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Goy Arachaporn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,400 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,411 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

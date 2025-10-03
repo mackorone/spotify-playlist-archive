@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 184875,
       "name": "Adhoora",
       "url": "https://open.spotify.com/track/2WCVskDkODHmUpvYG8xdzl"
@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Haule Haule",
+        "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243884,
+      "name": "Haule Haule",
+      "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
+    },
+    {
+      "album": {
         "name": "Hosh Kaha Hai",
         "url": "https://open.spotify.com/album/2prcAaNvy2SY0NS7kqT3Gr"
       },
@@ -3108,7 +3126,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 215538,
       "name": "Janaab-e-Aali (From \"WAR 2\")",
       "url": "https://open.spotify.com/track/6uhYB10loCLY9v66e0FCCe"
@@ -5304,6 +5322,32 @@
       "duration_ms": 278679,
       "name": "Rabba Ishq Na Hove 2.0 (From \"ANDAAZ 2\")",
       "url": "https://open.spotify.com/track/7GO636QXhwxGtaT2SrrX0T"
+    },
+    {
+      "album": {
+        "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
+        "url": "https://open.spotify.com/album/7Japg1kffbMOq1GfTltSL4"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238857,
+      "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
+      "url": "https://open.spotify.com/track/0gC8FmyakSWHe8gKCZ3uPZ"
     },
     {
       "album": {

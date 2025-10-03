@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6794,
+  "num_followers": 6791,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAD1ASBoosHsh5fuc6XrKs44",
+  "snapshot_id": "aNxvAAAAAAAvroBJKrClZL32h6smepPv",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168800,
-      "name": "Te Ves Bien Buena",
-      "url": "https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY"
+      "duration_ms": 131065,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/0rUJIMZaR2B0T2TwLkBkvm"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 131065,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/0rUJIMZaR2B0T2TwLkBkvm"
+      "duration_ms": 168800,
+      "name": "Te Ves Bien Buena",
+      "url": "https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY"
     },
     {
       "added_at": null,
@@ -323,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 204026,
-      "name": "Hueso No Ma",
-      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -371,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 204026,
+      "name": "Hueso No Ma",
+      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
     },
     {
       "added_at": null,
@@ -403,6 +403,26 @@
       "duration_ms": 177586,
       "name": "Camar\u00f3n Pelao",
       "url": "https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
     },
     {
       "added_at": null,
@@ -439,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
@@ -452,25 +488,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 191000,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs"
+      "duration_ms": 217000,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
     },
     {
       "added_at": null,
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Rock y Banda",
-      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
@@ -539,38 +539,6 @@
       "duration_ms": 200426,
       "name": "La Banda Rock",
       "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'Yo (29 Aniversario)",
-        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "Pa'Yo (29 Aniversario)",
-      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
     },
     {
       "added_at": null,
@@ -607,6 +575,38 @@
       "duration_ms": 149084,
       "name": "La V\u00edbora Peligrosa",
       "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'Yo (29 Aniversario)",
+        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "Pa'Yo (29 Aniversario)",
+      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
     },
     {
       "added_at": null,

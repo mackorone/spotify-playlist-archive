@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8\u30fb\u30ca\u30a4\u30c4\u30fb\u30aa\u30d6\u30fb\u30b5\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/250UPdRUa1ehjskQi3eu28"
+      },
+      "artists": [
+        {
+          "name": "\u6589\u6728\u30c3\u30af\u30e9\u30d0\u30fc",
+          "url": "https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93136,
+      "name": "\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8\u30fb\u30ca\u30a4\u30c4\u30fb\u30aa\u30d6\u30fb\u30b5\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/5CBMUWc8AGxIOyISDIi21i"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u6589\u6728\u6960\u96c4\u306e\u03a8\u96e3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/1ToCUp41uNlN9A9tHgFnKJ"
       },

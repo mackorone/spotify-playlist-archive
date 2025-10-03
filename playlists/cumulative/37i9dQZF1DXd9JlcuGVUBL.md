@@ -4,7 +4,7 @@
 
 > Die beste country musiek\. Omslag: Ichnus
 
-258 songs - 14 hr 18 min
+259 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [An Hour in Heaven](https://open.spotify.com/track/5Z2NvvvmssE2RZMLbcBFjj) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN) | [An Hour in Heaven](https://open.spotify.com/album/7IxLfyhN3i0g3DmbMm9hoX) | 2:21 | 2024-11-08 | 2024-11-16 |
 | [Another Someone Like You](https://open.spotify.com/track/53ql7zfQKjeSznu6Y1xeTY) | [Alan Ladd](https://open.spotify.com/artist/2VB7SManCCWGijsFW4kaOx), [Rocking Horse](https://open.spotify.com/artist/3BXcquYnU1qZCRbE7IczLn) | [Certified SA Country Legends](https://open.spotify.com/album/4x2iSYpOlGiQKIYbMNDeyF) | 3:05 | 2025-05-01 | 2025-05-10 |
 | [Around You](https://open.spotify.com/track/2xBD9IFDSEHKYBJnOVINeL) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Around You](https://open.spotify.com/album/2DjVglDAwN9ThKCqlwmGry) | 3:54 | 2025-01-30 | 2025-02-28 |
-| [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 | 2025-06-26 |  |
+| [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 | 2025-06-26 | 2025-10-03 |
 | [At fifty years](https://open.spotify.com/track/6tSOpeiaHghF4qTr7WPQ0Q) | [Lion Jay](https://open.spotify.com/artist/5HlRrR2lWajSDstA7bJvGU) | [At fifty years](https://open.spotify.com/album/2nDOrIu0Rt1mqGKfZytHKL) | 3:47 | 2025-04-17 | 2025-04-25 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-29 | 2024-07-05 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-30 | 2024-07-27 |
@@ -261,6 +261,7 @@
 | [Worst Way](https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:40 | 2025-01-02 |  |
 | [Wranglers](https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wranglers](https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN) | 2:58 | 2024-05-02 | 2024-11-09 |
 | [Wrong side of town](https://open.spotify.com/track/051jHFqpoMy8L56sXzX77m) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Wrong side of town](https://open.spotify.com/album/3uZ2eGbEzF7gHTnlY8B7Fb) | 3:32 | 2024-10-10 | 2024-10-19 |
+| [Wys My Jou Beloftes](https://open.spotify.com/track/3FORl4fewosAIBfuLCGIht) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Wys My Jou Beloftes](https://open.spotify.com/album/29HC456ycUp936DIw0etj8) | 3:09 | 2025-10-02 |  |
 | [Yes, I Know](https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Yes, I Know](https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn) | 3:43 | 2025-05-22 | 2025-07-04 |
 | [You Do You](https://open.spotify.com/track/74jY5B5WMUemuNPolWOKTq) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [You Do You](https://open.spotify.com/album/35Z5A8JksOQabtYl8rYcfu) | 2:48 | 2024-11-07 | 2024-11-30 |
 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 | 2025-05-09 |  |

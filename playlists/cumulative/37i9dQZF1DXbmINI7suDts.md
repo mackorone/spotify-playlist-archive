@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Jon Muq
+> Get your spirits up and manage your mood any time of the day\. Cover: Joshua Baraka & Jaz Karis
 
-164 songs - 9 hr 8 min
+165 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 | 2025-09-05 |
 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 |  |
 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 | 2023-11-16 |  |
+| [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-10-02 |  |
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 | 2023-12-09 |
 | [Fire Deh Deh](https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7) | [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Fire Deh Deh](https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm) | 3:25 | 2022-12-16 | 2023-08-12 |
 | [Forgot About This](https://open.spotify.com/track/62oPZHSDurMtZZgFEWC0dK) | [VICt](https://open.spotify.com/artist/4qPkLQyOqMb9VvaJNQhXfk) | [Forgot About This](https://open.spotify.com/album/2RogHtIbvAYTE9bEygQoHM) | 3:00 | 2025-04-24 |  |
@@ -88,7 +89,7 @@
 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 | 2023-03-31 | 2024-04-19 |
 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 | 2022-11-17 | 2024-05-17 |
 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-09 | 2025-08-29 |
-| [Melo](https://open.spotify.com/track/6MEWQJnMXo3GnMUUcRsCr1) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 2:54 | 2023-08-25 |  |
+| [Melo](https://open.spotify.com/track/6MEWQJnMXo3GnMUUcRsCr1) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 2:54 | 2023-08-25 | 2025-10-03 |
 | [Moyo \- Acoustic](https://open.spotify.com/track/6YZf3C5fcEVVzfywVEHhsZ) | [Jack Dope](https://open.spotify.com/artist/28bgZfBMxceqhwKq389vbG), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Moyo \(Acoustic\)](https://open.spotify.com/album/4vUkJcpljy6ZTJjRTwHy5g) | 3:32 | 2023-08-25 | 2025-07-19 |
 | [Mpeke](https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Mpeke](https://open.spotify.com/album/4YW3EZJ9G89tB7MVQCLN34) | 3:45 | 2025-03-27 |  |
 | [Mpulira](https://open.spotify.com/track/2Stgu3JrecN6iC1qDEvOOk) | [Iryn Namubiru](https://open.spotify.com/artist/3wL9WpeM5kjkIw3CxIRIDf) | [Mpulira](https://open.spotify.com/album/0AdUYa3CWWfdYWSNMrexxl) | 4:18 | 2022-06-06 | 2023-02-11 |

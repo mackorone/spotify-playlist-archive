@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,386 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,222 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 91 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
 | 92 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 |
 | 93 | [Circles](https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB) | 2:46 |
-| 94 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
-| 95 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP) | 2:37 |
+| 94 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP) | 2:37 |
+| 95 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
 | 96 | [New Rose](https://open.spotify.com/track/6sC3btkeaVA9IEhe0qbifj) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5XK8FpKFOJVp65F9pkuIO9) | 2:44 |
 | 97 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
 | 98 | [White Riot](https://open.spotify.com/track/1piPrS1PYdle0bHhSPl3io) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(US Version\)](https://open.spotify.com/album/4I1PslhlP1HcRlVHml2voJ) | 1:58 |

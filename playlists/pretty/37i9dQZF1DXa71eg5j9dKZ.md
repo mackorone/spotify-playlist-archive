@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Junior Simba
+> The home for alternative electronic music\. Cover: KETTAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,751 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,734 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Man Down](https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Man Down](https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd) | 2:29 |
 | 100 | [Are You The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are You The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
 
-Snapshot ID: `AAAAAKNphy6Skp/L602pGRgiYW0jAxj7`
+Snapshot ID: `AAAAAEB4h3RZ/dTPfgIIlyWH7NFhR+g4`

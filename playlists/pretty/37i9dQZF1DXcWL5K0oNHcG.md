@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,695 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,692 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [VESPER](https://open.spotify.com/track/14y0d4eiZ6wo3o2t6nTmd5) | [Estratos](https://open.spotify.com/artist/2jY5T2Q4DlioTyq5U0EivZ), [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [VESPER](https://open.spotify.com/album/6ilm0dyRzS0haXCDdoTWW6) | 2:35 |
 | 50 | [YUMI](https://open.spotify.com/track/1ojz67o1bat1RRjYWIUrws) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [YUMI](https://open.spotify.com/album/1wz86niXEGhLEkpbiqVrTa) | 2:39 |
 
-Snapshot ID: `AAAAAPm9fsrJEd0rvu1s6pyychWo+u25`
+Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`

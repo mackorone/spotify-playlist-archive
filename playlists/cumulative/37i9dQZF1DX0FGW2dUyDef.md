@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Poizi
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Amo988
 
 207 songs - 10 hr 17 min
 

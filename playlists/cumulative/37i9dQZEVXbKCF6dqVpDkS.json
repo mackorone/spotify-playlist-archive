@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/0RAiNFjiSU0EfJXooHq5nq"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 163996,
       "name": "Altijd Voor Je Zijn",
       "url": "https://open.spotify.com/track/6uZ2FDCDThzvlInOswLVQW"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -9664,7 +9664,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
@@ -9686,7 +9686,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
@@ -36398,7 +36398,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -36416,7 +36416,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -38920,6 +38920,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Vol avontuur",
+        "url": "https://open.spotify.com/album/1txxR6AhJym8skXydiLFci"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150734,
+      "name": "Vol avontuur",
+      "url": "https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ"
     },
     {
       "album": {
@@ -41638,6 +41656,32 @@
     {
       "album": {
         "name": "Ze Komt Uit Amsterdam",
+        "url": "https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Ze Komt Uit Amsterdam",
+      "url": "https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF"
+    },
+    {
+      "album": {
+        "name": "Ze Komt Uit Amsterdam",
         "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
       },
       "artists": [
@@ -41656,7 +41700,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"

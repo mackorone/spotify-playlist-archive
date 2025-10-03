@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,152,370 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,152,479 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 95 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 |
 | 96 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 |
 | 97 | [Murderer](https://open.spotify.com/track/0j3k5lalAmEHaXJeytoMB6) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/2jLNKZ0HQJ4OJOprvVkDvV) | 3:53 |
-| 98 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
-| 99 | [Cool Down The Pace](https://open.spotify.com/track/069XwdkglfN94CvwUZvBxv) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 5:15 |
+| 98 | [Cool Down The Pace](https://open.spotify.com/track/069XwdkglfN94CvwUZvBxv) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 5:15 |
+| 99 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
 | 100 | [Red Red Wine](https://open.spotify.com/track/1DLe77IuTY32Lj3Kh50Uzi) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:02 |
 
 Snapshot ID: `AAAAABu+XjFQroHtiuGSSTSBelDADKoy`

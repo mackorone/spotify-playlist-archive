@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "All of you",
+        "url": "https://open.spotify.com/album/3Fh67YsENMejX61GsFfDdp"
+      },
+      "artists": [
+        {
+          "name": "LeinaDaniels",
+          "url": "https://open.spotify.com/artist/3gBAWrSR275eGBBNvLK2ov"
+        },
+        {
+          "name": "Princewill Agbazue",
+          "url": "https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "All of you",
+      "url": "https://open.spotify.com/track/19SZutSmac9w9A2Z3EjL6k"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
       },
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 170814,
       "name": "Case",
       "url": "https://open.spotify.com/track/7pNwawEu8kYP8HoBNwH0vP"
@@ -4392,6 +4414,24 @@
       "duration_ms": 207080,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/2FBtwybtYP2GrBVNaeV7HS"
+    },
+    {
+      "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/1Ksfz3ws1FGDssmFc9gvrl"
+      },
+      "artists": [
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/6cRZ4f3sng13Zr2jrYjORD"
     },
     {
       "album": {
@@ -8868,7 +8908,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 148690,
       "name": "rest",
       "url": "https://open.spotify.com/track/5XW9gsqgXeqWNHhr3y9V7a"

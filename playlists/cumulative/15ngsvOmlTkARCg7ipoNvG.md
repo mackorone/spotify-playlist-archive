@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,022 songs - 1 day 16 hr 50 min
+2,023 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [Home Is Near Again](https://open.spotify.com/track/6zPqdayNDgtrRiNCMKZ04E) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:03 | 2022-03-11 |  |
 | [Home Is Where I Belong](https://open.spotify.com/track/4yS3lS7dak3t1rvpMVoRD6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 | 2024-01-30 |
 | [Home Is Where You Are](https://open.spotify.com/track/51JQh51G4URZYMgROLqCyC) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Home Is Where You Are](https://open.spotify.com/album/5o9mRVnbDfwCgxVoZVj4mW) | 1:17 | 2022-01-16 | 2024-01-30 |
+| [Home With Love Again](https://open.spotify.com/track/2bAlKURhFMH4t51hDLfpR1) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Home With Love Again](https://open.spotify.com/album/5Y9RWq5ITMplbjCVAGyVka) | 1:00 | 2025-10-02 |  |
 | [Home With You](https://open.spotify.com/track/2lP0C2HdTs9AtXmrdt7D41) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Cello Songs](https://open.spotify.com/album/4qk2Cg1Gu9xJvDjyu9Mf6u) | 1:04 | 2022-02-18 | 2024-02-13 |
 | [Hope](https://open.spotify.com/track/0Sbs7D0nJ8ooHZNHywdy7X) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Hope And Love](https://open.spotify.com/album/6HL9vMR76QDapjg6W9lZDm) | 1:00 | 2024-10-23 |  |
 | [Hope](https://open.spotify.com/track/4rJpaLxW4D9WD5CHTprinQ) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Hope](https://open.spotify.com/album/3p3HAfox0gdHD2ytaSQ4mx) | 3:45 | 2022-01-12 | 2022-10-21 |

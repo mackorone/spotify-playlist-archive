@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,285 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,372 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 26 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
 | 27 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
 | 28 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
-| 29 | [Freight train](https://open.spotify.com/track/5UlokrsKgBObpODBXwTW0B) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:46 |
+| 29 | [Freight Train](https://open.spotify.com/track/5UlokrsKgBObpODBXwTW0B) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:46 |
 | 30 | [Send in the Clowns](https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judith](https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry) | 4:00 |
 | 31 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 |
 | 32 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |

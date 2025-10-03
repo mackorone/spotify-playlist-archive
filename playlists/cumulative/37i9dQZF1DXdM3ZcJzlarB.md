@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 CCINNI
 
-325 songs - 1 day 7 hr 8 min
+326 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Lost Cosmonaut](https://open.spotify.com/track/6GXwg3PikKgwpeXo3LVolR) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:11 | 2020-09-04 | 2022-07-29 |
 | [Love \- Mixed](https://open.spotify.com/track/0WmOlBPDRr8gROqyRr3065) | [Hernan Martinez \(AR\)](https://open.spotify.com/artist/5YYQbfMoQLnDWwc9977eNU) | [MetroDance Fractals Diciembre 14/12/2023 MDF008 \(DJ Mix\)](https://open.spotify.com/album/7saroFReXC5yLRYatL4A9D) | 6:08 | 2024-01-05 | 2025-07-01 |
 | [Love Is Coming Back](https://open.spotify.com/track/65AafJRMh7LGHKTjoINJ0L) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Love Is Coming Back](https://open.spotify.com/album/2A2s937laepTt5CYvrZQ1d) | 4:27 | 2023-11-17 | 2024-03-02 |
+| [Love is Coming Back \- BRVNOV Remix](https://open.spotify.com/track/49WjGZXppw5ejKUXFSg0Xo) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [BRVNOV](https://open.spotify.com/artist/2Zqh0XNf046KOzyQxqiwU0) | [Love is Coming Back \(BRVNOV Remix\)](https://open.spotify.com/album/3QLRHM1A5qVKeTfyJDgFOp) | 6:32 | 2025-10-03 |  |
 | [Luhi](https://open.spotify.com/track/50GkG5QNOhLHI9JWgJ7T8x) | [Agustina Antonini](https://open.spotify.com/artist/5B1u6sQPjittSiQlTpggVx), [CamelVIP](https://open.spotify.com/artist/7eoCdH9Q2zwsyZrggvXNWE) | [Luhi](https://open.spotify.com/album/5YfythCvFWal3AqRlDzn2B) | 7:54 | 2025-03-28 |  |
 | [Lullaby of the Seraphim](https://open.spotify.com/track/6wOP3IG5mrLCh4DH0K3VjF) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Lullaby of the Seraphim EP](https://open.spotify.com/album/5V8Z4wZ8RdRL5Omdr1xFBE) | 3:56 | 2023-11-17 | 2025-06-27 |
 | [Manada](https://open.spotify.com/track/7cPTErYBnaeCq4BRMOCoqB) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Oh My Pop!](https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J) | [Manada](https://open.spotify.com/album/7KNYpYrWUDEH7KGzveOOYi) | 2:44 | 2025-06-27 |  |
@@ -195,7 +196,7 @@
 | [Morgana](https://open.spotify.com/track/424ldVhdV9Lbsz6fVC9770) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [Morgana / Toscana / Kaskazi](https://open.spotify.com/album/0OUjGfG79USzj6a3CN4utE) | 9:12 | 2020-09-04 | 2023-11-18 |
 | [Morgana](https://open.spotify.com/track/6X0OQT0i0cUrrk5LEfJowc) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [Morgana / Toscana / Kaskazi](https://open.spotify.com/album/1xbCeOhci5mBshpP8dbmvg) | 9:12 | 2020-09-04 | 2023-11-11 |
 | [Mormont](https://open.spotify.com/track/5EpcBzEWCGOKXW0X5f45zV) | [Ale Russo](https://open.spotify.com/artist/0A8f47i7flodKdZlcfNggE) | [Mormont / Under The Moon](https://open.spotify.com/album/6zl9lrSab9NKNlbWPJBYYP) | 7:52 | 2020-09-04 | 2023-11-18 |
-| [Move It](https://open.spotify.com/track/67yeBOn7nvDWkjOAZORrzS) | [Nico Falla](https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1), [Martin Angrisano \(ARG\)](https://open.spotify.com/artist/4qqTKHcPAqB75sw7TwUB9Y) | [Move It EP](https://open.spotify.com/album/7jeFF0jRs6uDtnJSpR866Y) | 2:50 | 2025-06-06 |  |
+| [Move It](https://open.spotify.com/track/67yeBOn7nvDWkjOAZORrzS) | [Nico Falla](https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1), [Martin Angrisano \(ARG\)](https://open.spotify.com/artist/4qqTKHcPAqB75sw7TwUB9Y) | [Move It EP](https://open.spotify.com/album/7jeFF0jRs6uDtnJSpR866Y) | 2:50 | 2025-06-06 | 2025-10-03 |
 | [Mushrooms \- VegaZ SL Remix \- Mixed](https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X) | [goodkidd](https://open.spotify.com/artist/3TsQkwBefRbM07sSS8fpSR), [Gastón Rodríguez \(AR\)](https://open.spotify.com/artist/1AK2nEhsVnIzaV74hVsAtm), [VegaZ SL](https://open.spotify.com/artist/35TmmeuoCIFr1xEP8DazE0) | [Noche Galactica, Vol\. 11 \(DJ Mix\)](https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD) | 5:15 | 2025-06-27 |  |
 | [My Love \(Soul\)](https://open.spotify.com/track/2CDGL4qBBR3E2UaFaRLCB8) | [Sol Vietto](https://open.spotify.com/artist/19NMbL7lyVMUILzd1GAtWL) | [My Love](https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD) | 4:11 | 2023-11-17 | 2025-03-20 |
 | [My Own Game](https://open.spotify.com/track/7ehsDztBOjFPBNcAiA6qPC) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [My Own Game](https://open.spotify.com/album/3jmfC10RYxScBCWYHjFQrh) | 4:25 | 2025-02-28 | 2025-09-26 |

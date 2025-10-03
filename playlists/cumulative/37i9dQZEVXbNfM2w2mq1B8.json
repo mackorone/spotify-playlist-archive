@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -7038,7 +7038,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 193440,
       "name": "Da Si Plashtal",
       "url": "https://open.spotify.com/track/1u8eHkUmd6VCRTVZQ7JKX1"
@@ -8944,7 +8944,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 213493,
       "name": "Doseshtay se sam",
       "url": "https://open.spotify.com/track/0FpscyomAHJAkvHjYbpqwE"
@@ -9816,7 +9816,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 213705,
       "name": "Edno (feat. Boris Dali)",
       "url": "https://open.spotify.com/track/0fMT05PbFMD2jtsSl6JMps"
@@ -14706,7 +14706,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 199333,
       "name": "Huligani",
       "url": "https://open.spotify.com/track/7KhJMKLSxQWG98iMhCiYqX"
@@ -16814,7 +16814,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -20886,7 +20886,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -22488,7 +22488,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -31562,7 +31562,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 185379,
       "name": "S\u2018Agapao",
       "url": "https://open.spotify.com/track/78STrusGDYuWx92lZW4yHi"
@@ -34342,7 +34342,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 168947,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/3d2IqDTT73zxsmlztbfloA"
@@ -36408,7 +36408,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -38301,6 +38301,32 @@
     },
     {
       "album": {
+        "name": "\u0412\u0415\u0427\u0415 \u0417\u041d\u0410\u041c",
+        "url": "https://open.spotify.com/album/0rJyOvrvXy29TV2edmgKgy"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        },
+        {
+          "name": "Theodosii Spassov",
+          "url": "https://open.spotify.com/artist/6jTwlLo8MHnoD1CsKlIYdD"
+        },
+        {
+          "name": "Stundji",
+          "url": "https://open.spotify.com/artist/0J91CPNDEugushVo8caqNk"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "\u0412\u0415\u0427\u0415 \u0417\u041d\u0410\u041c",
+      "url": "https://open.spotify.com/track/5gm4VlJBkH5sllpzVR9ys5"
+    },
+    {
+      "album": {
         "name": "\"\u0410\u041b\u0411\u0423\u041c\"",
         "url": "https://open.spotify.com/album/08oZcyXVOtXVBLWFv3osRR"
       },
@@ -39040,7 +39066,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "\u0414\u0443\u043c \u0442\u0430\u043a",
       "url": "https://open.spotify.com/track/2KJCqTUX8ZkDHChSpSxk5W"
@@ -40052,7 +40078,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 188181,
       "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/0dBBOeVLEIysM0EqCbO7dJ"
@@ -40622,7 +40648,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "\u041c\u0430\u043c\u0430 \u043d\u0435 \u0434\u0430\u0432\u0430",
       "url": "https://open.spotify.com/track/2l0H1o8guCuGekEgyaE8Of"
@@ -40840,7 +40866,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 177241,
       "name": "\u041c\u043e\u0438\u0442\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/3Lmhgyi0LpjSfNxVhWkhRG"
@@ -40920,7 +40946,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
       "url": "https://open.spotify.com/track/3AyQkHqh5cENWthtwRL6oS"
@@ -41416,7 +41442,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 205347,
       "name": "\u041d\u0435, \u043c\u0435\u0440\u0441\u0438",
       "url": "https://open.spotify.com/track/0EhBV7ykbCJLABMSQGlpkk"

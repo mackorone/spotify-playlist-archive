@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,172 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,167 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 32 | [Lila Alelí](https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lila Alelí](https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv) | 3:25 |
 | 33 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 |
 | 34 | [Un buen día](https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Un buen día](https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su) | 3:26 |
-| 35 | [Lo entendí](https://open.spotify.com/track/5T8utqGqalHzha7gcCtQat) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Lo entendí](https://open.spotify.com/album/6fCjoc8ljBufvYMCNRAHnZ) | 3:37 |
-| 36 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
+| 35 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
+| 36 | [Lo entendí](https://open.spotify.com/track/5T8utqGqalHzha7gcCtQat) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Lo entendí](https://open.spotify.com/album/6fCjoc8ljBufvYMCNRAHnZ) | 3:37 |
 | 37 | [dejarte ir](https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [dejarte ir](https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI) | 3:17 |
-| 38 | [Quiero Más De Ti](https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [Quiero Más De Ti](https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG) | 2:51 |
-| 39 | [Fondo](https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Lo Que Mi Corazón Desea Mis Ojos Lo Ven](https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP) | 3:32 |
+| 38 | [Fondo](https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Lo Que Mi Corazón Desea Mis Ojos Lo Ven](https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP) | 3:32 |
+| 39 | [Quiero Más De Ti](https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [Quiero Más De Ti](https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG) | 2:51 |
 | 40 | [Pastillas Pa Dormir](https://open.spotify.com/track/4q0nJgk3gCtBZInE3UNWuE) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Pastillas Pa Dormir](https://open.spotify.com/album/5eSkjglgh218yOdKOyKU9r) | 3:05 |
 | 41 | [Sed de Acción \- Re\-versión](https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Sed de Acción Con Carolina Ross \(Re\-versión\)](https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN) | 3:33 |
 | 42 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 71 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
 | 72 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
 | 73 | [Truco Viejo](https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Truco Viejo](https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY) | 2:54 |
-| 74 | [mi hogar](https://open.spotify.com/track/4ZoAZqjWWfEesw1iBXssdZ) | [Alanra](https://open.spotify.com/artist/1FOjkxoIJqxqgBSmu0n6ie), [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [mi hogar](https://open.spotify.com/album/2wh5aEvc9n9Xby8m6UNa9q) | 2:30 |
-| 75 | [Límite](https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Límite](https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1) | 3:12 |
+| 74 | [Límite](https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Límite](https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1) | 3:12 |
+| 75 | [mi hogar](https://open.spotify.com/track/4ZoAZqjWWfEesw1iBXssdZ) | [Alanra](https://open.spotify.com/artist/1FOjkxoIJqxqgBSmu0n6ie), [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [mi hogar](https://open.spotify.com/album/2wh5aEvc9n9Xby8m6UNa9q) | 2:30 |
 
 Snapshot ID: `AAAAADoL+MWbiwdBGBpQYc8T5aXgN2aC`

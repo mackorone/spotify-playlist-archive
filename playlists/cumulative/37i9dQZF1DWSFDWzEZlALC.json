@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kraftklub, Domiziana",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 149008,
       "name": "10 Stunden",
       "url": "https://open.spotify.com/track/0BWcXgz1HMHc4BizRMF5Zs"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 177546,
       "name": "2 Teile",
       "url": "https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 148921,
       "name": "24h",
       "url": "https://open.spotify.com/track/3HM9AnMuan4N9nWUsgxMjP"
@@ -1400,6 +1400,24 @@
       "duration_ms": 181714,
       "name": "Alleine",
       "url": "https://open.spotify.com/track/2G7JyHa497orziosrX1662"
+    },
+    {
+      "album": {
+        "name": "Alles bisschen viel grade",
+        "url": "https://open.spotify.com/album/2SedsQ5dNhP6pcuOwRsu0r"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "Alles bisschen viel grade",
+      "url": "https://open.spotify.com/track/5zA0pTPsMhgaFDzKeZv5VD"
     },
     {
       "album": {
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 172500,
       "name": "aus dem Takt",
       "url": "https://open.spotify.com/track/0kLIJuhdf3ylloA84Z1tXS"
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 165463,
       "name": "Einfach sein",
       "url": "https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU"
@@ -7235,6 +7253,28 @@
     },
     {
       "album": {
+        "name": "Fahrradhelm",
+        "url": "https://open.spotify.com/album/3LropUGvbWOjsVmhVOLfdm"
+      },
+      "artists": [
+        {
+          "name": "Schlotte",
+          "url": "https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv"
+        },
+        {
+          "name": "laurin",
+          "url": "https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Fahrradhelm",
+      "url": "https://open.spotify.com/track/2aL6f0KucBCC7OPJu1gWeI"
+    },
+    {
+      "album": {
         "name": "Fahrradstra\u00dfe",
         "url": "https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l"
       },
@@ -8048,7 +8088,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 139500,
       "name": "Frei",
       "url": "https://open.spotify.com/track/4BguFKjpssDGdARiq5vVmn"
@@ -12375,6 +12415,24 @@
     },
     {
       "album": {
+        "name": "Kalt gemacht",
+        "url": "https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185630,
+      "name": "Kalt gemacht",
+      "url": "https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6"
       },
@@ -13160,6 +13218,24 @@
       "duration_ms": 146973,
       "name": "Kleine Tattoos",
       "url": "https://open.spotify.com/track/2ysCPFIglN1r2pHKAzLU53"
+    },
+    {
+      "album": {
+        "name": "Anlehnen",
+        "url": "https://open.spotify.com/album/6aMShdKE0qI3uvTvqwljpL"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131858,
+      "name": "Kleiner Herbst",
+      "url": "https://open.spotify.com/track/3M4X1K2aZlY43ahioolPkV"
     },
     {
       "album": {
@@ -15150,7 +15226,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 171484,
       "name": "Mann der vielen Worte",
       "url": "https://open.spotify.com/track/6pZmxevZKecO2CWwJ5HbqY"
@@ -16540,7 +16616,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 138308,
       "name": "nicht gefragt",
       "url": "https://open.spotify.com/track/0JHjZJm015P2Qtj780ddI8"
@@ -16772,6 +16848,24 @@
       "duration_ms": 156798,
       "name": "nie vorbei",
       "url": "https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI"
+    },
+    {
+      "album": {
+        "name": "Nie Wieder",
+        "url": "https://open.spotify.com/album/3wPyAB4tQPq0n9RBUHpqyW"
+      },
+      "artists": [
+        {
+          "name": "ramonski",
+          "url": "https://open.spotify.com/artist/5c68xeIPEWsKVqod15NMi2"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173058,
+      "name": "Nie Wieder",
+      "url": "https://open.spotify.com/track/3SGjzy8TqMiNzuEij7CNMQ"
     },
     {
       "album": {
@@ -17028,7 +17122,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 136312,
       "name": "Nur bei mir",
       "url": "https://open.spotify.com/track/3YcZKKhe100rWxpzSr9KiP"
@@ -20271,6 +20365,24 @@
     },
     {
       "album": {
+        "name": "sex am see",
+        "url": "https://open.spotify.com/album/5GUl7esVTYvb890aE6AGF3"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "sex am see",
+      "url": "https://open.spotify.com/track/4kRayQLHWaBYxNIZLYJeul"
+    },
+    {
+      "album": {
         "name": "Shirt & Handtuch",
         "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
       },
@@ -20304,6 +20416,24 @@
       "duration_ms": 179960,
       "name": "Shots",
       "url": "https://open.spotify.com/track/3SZ0pzEWeUTMvF2b9e5ak6"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166567,
+      "name": "Shoutout",
+      "url": "https://open.spotify.com/track/4uaj1cSrmvtBXjh0NUsIOo"
     },
     {
       "album": {
@@ -24431,6 +24561,24 @@
     },
     {
       "album": {
+        "name": "Warten",
+        "url": "https://open.spotify.com/album/5uQ6VcUR868bPpQgtuqgqe"
+      },
+      "artists": [
+        {
+          "name": "LYAS",
+          "url": "https://open.spotify.com/artist/2mPebAIY8nz5NmweVNGuoT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165479,
+      "name": "Warten",
+      "url": "https://open.spotify.com/track/6QdDL4nQ46G9DAbOXFPuRH"
+    },
+    {
+      "album": {
         "name": "Warum",
         "url": "https://open.spotify.com/album/7onfetixabgBWIJYVpj867"
       },
@@ -25958,6 +26106,24 @@
       "duration_ms": 135666,
       "name": "Wo sind die Sterne hin",
       "url": "https://open.spotify.com/track/5o4bu8v2nQKArl2lynZO3G"
+    },
+    {
+      "album": {
+        "name": "Woran liegts?",
+        "url": "https://open.spotify.com/album/6fO8xpodayYBAUW0W6B0MB"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Woran liegts?",
+      "url": "https://open.spotify.com/track/3DqHHnYGVHWqwRDue9COax"
     },
     {
       "album": {

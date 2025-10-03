@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,768 likes - 50 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,776 likes - 50 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 47 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 | 48 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
 | 49 | [Raag Jhinjhoti Alaap Jod](https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 19:54 |
-| 50 | [Shiva Shankara](https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Aditya Srinivasan](https://open.spotify.com/artist/1uOca0AYJrCRaEsf3lEwZx) | [Shiva Shankara](https://open.spotify.com/album/07yZ6g1QTLfys8PHs6Dd1l) | 10:18 |
+| 50 | [Rag Ramkali](https://open.spotify.com/track/6ReCvtUGG9S1mVohS9kVXk) | [Budhaditya Mukherjee](https://open.spotify.com/artist/5M9yKSeW6TbTmuNZ1bz80y), [Pandit Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Rag Ramkali & Rag Jhinjoti](https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i) | 30:23 |
 
 Snapshot ID: `AAAAAGnNuNe7G6CWorDar0tH7yyCfGa4`

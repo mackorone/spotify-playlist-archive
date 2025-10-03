@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "CELINE DION",
+        "url": "https://open.spotify.com/album/1hj1CYfh0mOLzUxkxwl7n8"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "CELINE DION",
+      "url": "https://open.spotify.com/track/0D1vNTcDR3SuZtPFUoTGej"
+    },
+    {
+      "album": {
         "name": "Certified Loner (No Competition)",
         "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
       },
@@ -5626,7 +5644,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
@@ -5794,6 +5812,28 @@
       "duration_ms": 140973,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6NfV8y0AyagUxnv1WTA5O2"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "K1 De Ultimate",
+          "url": "https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195997,
+      "name": "Fuji Fusion",
+      "url": "https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ"
     },
     {
       "album": {
@@ -10476,7 +10516,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 190819,
       "name": "No Less",
       "url": "https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6"

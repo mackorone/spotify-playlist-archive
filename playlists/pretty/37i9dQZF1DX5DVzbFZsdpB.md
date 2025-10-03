@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > cocteau twinks with jade and ethan is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 10 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 10 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

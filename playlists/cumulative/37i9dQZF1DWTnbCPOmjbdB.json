@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Hi Hania",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Bletka",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 165000,
       "name": "Ale ja",
       "url": "https://open.spotify.com/track/4D2RsHcxiLCnvJWtkGomyl"
+    },
+    {
+      "album": {
+        "name": "Alea iacta est",
+        "url": "https://open.spotify.com/album/1HvVSDmAZq9FYHv0WiufYV"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183655,
+      "name": "Alea iacta est",
+      "url": "https://open.spotify.com/track/7kAfj9rZaOQ8qylQPSx64O"
     },
     {
       "album": {
@@ -552,7 +570,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 170256,
       "name": "Ba\u0142aganiara",
       "url": "https://open.spotify.com/track/7xM5ProCo7fjxnKMR8j82n"
@@ -1496,6 +1514,32 @@
       "duration_ms": 157771,
       "name": "Co ja robi\u0119 tu",
       "url": "https://open.spotify.com/track/1SaUfQNBUXlf6clnOKBrfe"
+    },
+    {
+      "album": {
+        "name": "CO JA WIEM / SUMNLIKETHAT",
+        "url": "https://open.spotify.com/album/30AFYuXV2w2QKBkRe3ZNtw"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "po prostu Kajtek",
+          "url": "https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3"
+        },
+        {
+          "name": "Boron",
+          "url": "https://open.spotify.com/artist/3NavsjV5gXD16H8LRmSecq"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151546,
+      "name": "CO JA WIEM",
+      "url": "https://open.spotify.com/track/6yFBubbTWWUI5Le58Mtwhg"
     },
     {
       "album": {
@@ -2946,6 +2990,24 @@
       "duration_ms": 163706,
       "name": "Fejk",
       "url": "https://open.spotify.com/track/6kOltQg127HZyszhQTAC9q"
+    },
+    {
+      "album": {
+        "name": "FIKU MIKU",
+        "url": "https://open.spotify.com/album/5uUpFJdEbRcsap5IoBd1GJ"
+      },
+      "artists": [
+        {
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FIKU MIKU",
+      "url": "https://open.spotify.com/track/5JUs80EV0MeJ3s2atMaPjr"
     },
     {
       "album": {
@@ -4480,7 +4542,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 168661,
       "name": "Kwiaty",
       "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
@@ -4966,6 +5028,24 @@
       "duration_ms": 125732,
       "name": "Lloret de Mar",
       "url": "https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf"
+    },
+    {
+      "album": {
+        "name": "Los",
+        "url": "https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Los",
+      "url": "https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj"
     },
     {
       "album": {
@@ -6184,7 +6264,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 178977,
       "name": "Na Spokojnie",
       "url": "https://open.spotify.com/track/2UGaY7tgXk5gPJXOk0G8zT"
@@ -6210,7 +6290,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 163812,
       "name": "NA START",
       "url": "https://open.spotify.com/track/3Y1SCNK4FH9QmE6Wc1RZIi"
@@ -6254,6 +6334,28 @@
       "duration_ms": 168750,
       "name": "Na zawsze",
       "url": "https://open.spotify.com/track/5YhfT2ZwPSNU00ZV7phIGk"
+    },
+    {
+      "album": {
+        "name": "NA ZAWSZE",
+        "url": "https://open.spotify.com/album/0DwYjAVAPZ4FQr2rwCPDJl"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        },
+        {
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174324,
+      "name": "NA ZAWSZE",
+      "url": "https://open.spotify.com/track/1aEK2wSHYk6zZMjgpouM3Q"
     },
     {
       "album": {
@@ -9363,6 +9465,36 @@
     },
     {
       "album": {
+        "name": "SEN",
+        "url": "https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS"
+      },
+      "artists": [
+        {
+          "name": "nocotyania",
+          "url": "https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl"
+        },
+        {
+          "name": "Paulina Chmura",
+          "url": "https://open.spotify.com/artist/4nq9i2sLDlG3BrVvEvwnH7"
+        },
+        {
+          "name": "20tune",
+          "url": "https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ"
+        },
+        {
+          "name": "SZAJUR",
+          "url": "https://open.spotify.com/artist/253rVwZnTeAXcpYSFwy13A"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "SEN",
+      "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
+    },
+    {
+      "album": {
         "name": "BABYGIRL",
         "url": "https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q"
       },
@@ -10436,7 +10568,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 227108,
       "name": "To Co Czuj\u0119",
       "url": "https://open.spotify.com/track/4QupzyaLcfkyfRvXBdj7DY"
@@ -11528,7 +11660,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 213311,
       "name": "Wszystko",
       "url": "https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz"

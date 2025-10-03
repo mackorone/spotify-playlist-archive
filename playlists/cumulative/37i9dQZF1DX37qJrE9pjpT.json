@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Fid Q",
+  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Rapcha",
   "name": "Bongo Bars",
   "tracks": [
     {
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 183040,
       "name": "Dusko",
       "url": "https://open.spotify.com/track/5IkgD8ZvA2kpbEzZ045mzA"
@@ -2162,6 +2162,24 @@
       "duration_ms": 188219,
       "name": "Like We",
       "url": "https://open.spotify.com/track/5yXMrWOLyf9GufnP59zCzl"
+    },
+    {
+      "album": {
+        "name": "Lissa 3",
+        "url": "https://open.spotify.com/album/5r6vsZFp0hKCcuBYrvBKYv"
+      },
+      "artists": [
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285750,
+      "name": "Lissa 3",
+      "url": "https://open.spotify.com/track/0ClTnUhuMz9h4tcwkxN31m"
     },
     {
       "album": {
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 138109,
       "name": "Ni Uyo Mimi",
       "url": "https://open.spotify.com/track/3GSp57VwUujmnV92im3UaG"
@@ -5084,6 +5102,24 @@
       "duration_ms": 255432,
       "name": "Tunawaka",
       "url": "https://open.spotify.com/track/5410D9GERkTOPJtAiw1hHH"
+    },
+    {
+      "album": {
+        "name": "Masaki Theory",
+        "url": "https://open.spotify.com/album/6HlK11ZARqGpN8VaTwlS0R"
+      },
+      "artists": [
+        {
+          "name": "Brian Simba",
+          "url": "https://open.spotify.com/artist/3KkDDUwNW0ijwIhfKyEEui"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188448,
+      "name": "Tungi",
+      "url": "https://open.spotify.com/track/3l4N95nLy5SLrmA8alVE7l"
     },
     {
       "album": {

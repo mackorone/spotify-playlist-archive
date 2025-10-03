@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: \[Alexandros\]
 
-2,580 songs - 6 day 17 hr 16 min
+2,582 songs - 6 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,6 +1299,7 @@
 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 | 2023-04-04 | 2023-05-17 |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2023-12-12 | 2024-06-26 |
 | [What's a Pop?](https://open.spotify.com/track/7hZdB03NoTbe82MTsN1cj8) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [心海](https://open.spotify.com/album/3xdOc3tCggVAGBVHRzqK6Q) | 4:10 | 2023-09-26 | 2023-11-16 |
+| [What's for dinner today?](https://open.spotify.com/track/4NKJxYKXxlAhJqQRNdl43e) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [What's for dinner today?](https://open.spotify.com/album/7gfEUykZUfEDznPHXr3gxF) | 3:29 | 2025-10-02 |  |
 | [When dawn comes, we](https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [happiness](https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf) | 4:47 | 2023-07-18 | 2023-08-30 |
 | [When it blooms cherry blossoms](https://open.spotify.com/track/5fMpRSSZ8K8eJZYeuAHm2J) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [When it blooms cherry blossoms](https://open.spotify.com/album/2awYDLo0fNo5lk7DQ9at45) | 4:16 | 2025-02-25 | 2025-03-26 |
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 | 2023-06-21 |
@@ -1361,7 +1362,7 @@
 | [Zensekai no kasu Domoe Kanpai](https://open.spotify.com/track/5kp5UA4nCokjxkneqnUYQ8) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Zensekai no kasu Domoe Kanpai / Natsu No Band Renshu](https://open.spotify.com/album/1Htd3ldV6ts57pI78PHLrT) | 3:07 | 2024-11-19 | 2024-12-18 |
 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:55 | 2023-09-28 | 2023-10-11 |
 | [Zeshou Fanfare](https://open.spotify.com/track/3bseqoatDj2jFpuuce3Xgw) | [Dramatic Alaska](https://open.spotify.com/artist/3bWD87dw5iBrQPXFThIRDf) | [Zeshou Fanfare](https://open.spotify.com/album/3heMXEIxWJc984HTUhuQCq) | 3:21 | 2025-01-28 | 2025-02-05 |
-| [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 | 2025-08-26 |  |
+| [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 | 2025-08-26 | 2025-10-03 |
 | [⚡️](https://open.spotify.com/track/2l2JbsZwpWVsAMiScxTBfA) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [⚡️](https://open.spotify.com/album/1GF6yKJM4ovwW2zJUCMwgg) | 4:15 | 2024-07-16 | 2024-10-09 |
 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 | 2024-02-20 | 2024-05-08 |
 | [【go!go!vanillas】 J\-Rock ON!! Special Interview Podcast　](https://open.spotify.com/episode/2DFwxqlEZNsTN3e1GkOcb3) | [J\-Rock ON!! Special Interview Podcast](https://open.spotify.com/show/4OrQx0FOAXAa47xitpMFN9) | [J\-Rock ON!! Special Interview Podcast](https://open.spotify.com/album/4OrQx0FOAXAa47xitpMFN9) | 28:36 | 2024-06-18 | 2024-06-26 |
@@ -1387,7 +1388,7 @@
 | [いたい](https://open.spotify.com/track/6MSosUtVQ7O4uZBF9EPAZg) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [いたい](https://open.spotify.com/album/2DtTw78HZaP7aGhYsaJzhG) | 3:16 | 2025-06-12 | 2025-07-02 |
 | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1) | 5:43 | 2024-07-23 | 2024-10-02 |
 | [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 | 2025-09-16 | 2025-09-24 |
-| [いつか何もない世界で](https://open.spotify.com/track/2wZux5EsJfcZF5kgJPtsrq) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [いつか何もない世界で](https://open.spotify.com/album/3zWwbZxKb5GsQPKZ0CAerN) | 2:47 | 2025-09-04 |  |
+| [いつか何もない世界で](https://open.spotify.com/track/2wZux5EsJfcZF5kgJPtsrq) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [いつか何もない世界で](https://open.spotify.com/album/3zWwbZxKb5GsQPKZ0CAerN) | 2:47 | 2025-09-04 | 2025-10-03 |
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-25 | 2023-08-23 |
 | [いつだってHIGH！](https://open.spotify.com/track/0S65NmiWdRiC8VccYXjHeu) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [いつだってHIGH！](https://open.spotify.com/album/3lK8aLe2R4JAlW5z4Kehlf) | 3:30 | 2023-12-12 | 2024-01-24 |
 | [いつも、エンドレス](https://open.spotify.com/track/6bxUT3WHGWwPGFx60j847d) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [いつも、エンドレス](https://open.spotify.com/album/0vzfZObnp6pOHsX3yZyxo3) | 4:27 | 2023-01-17 | 2023-01-25 |
@@ -2053,6 +2054,7 @@
 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 | 2024-04-02 | 2024-05-15 |
 | [劇情](https://open.spotify.com/track/0fCjIIB8HbVsxI1G5Fi3qo) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [劇情](https://open.spotify.com/album/4hGjzGQASbMgJZkL1Mk1ly) | 3:54 | 2024-08-27 | 2024-09-11 |
 | [包帯](https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [包帯](https://open.spotify.com/album/7FSz65qsiE1PoCfgl1HL1Y) | 3:35 | 2024-09-03 | 2025-01-15 |
+| [化け物](https://open.spotify.com/track/2E2vLhJXZPFEsy83jhqU7s) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [化け物](https://open.spotify.com/album/4J7pgtevvLL5ckPVAWIVmr) | 3:55 | 2025-10-02 |  |
 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 | 2023-01-13 | 2023-03-29 |
 | [匿名奇謀](https://open.spotify.com/track/56VGFy1ykmlUfGulaXaGo0) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [匿名奇謀](https://open.spotify.com/album/7n1ooVetm2k8AUgQZF1jSu) | 3:34 | 2024-01-04 | 2024-01-24 |
 | [千両役者 \(ALBUM ver.\)](https://open.spotify.com/track/7Bo66ZWgFGwRUmsVrW6lT1) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:59 | 2023-11-28 | 2023-12-06 |

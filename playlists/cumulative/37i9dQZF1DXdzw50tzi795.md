@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: NONT TANONT, Jeff Satur
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PURPEECH
 
 193 songs - 12 hr 31 min
 
@@ -59,7 +59,7 @@
 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 | 2025-09-11 |  |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-10-10 |  |
 | [กลับมาเพื่อบอกลา \(Just To Let Me Know\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(Just To Let Me Know\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-01-26 | 2025-01-17 |
-| [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-16 | 2025-05-09 |
+| [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-16 |  |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-01-26 | 2024-06-01 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-01-26 | 2025-01-16 |
 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 | 2025-02-27 |  |
@@ -189,7 +189,7 @@
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-05-06 | 2024-12-07 |
 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 | 2024-05-30 | 2024-09-20 |
 | [แอบเก็บความในใจไว้ภายในแว่นเรย์แบนสีดำ](https://open.spotify.com/track/6sowsQcSP7ThATfccaEk1S) | [TaitosmitH](https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60) | [แอบเก็บความในใจไว้ภายในแว่นเรย์แบนสีดำ \- Single](https://open.spotify.com/album/59g2gOFybbppLJRcsRec7C) | 5:32 | 2024-04-11 | 2024-05-17 |
-| [โลกทั้งใบ](https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [โลกทั้งใบ](https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21) | 3:42 | 2025-08-07 |  |
+| [โลกทั้งใบ](https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [โลกทั้งใบ](https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21) | 3:42 | 2025-08-07 | 2025-10-03 |
 | [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-03-27 | 2024-08-28 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-10 | 2024-06-01 |
 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 | 2024-04-11 | 2025-07-15 |

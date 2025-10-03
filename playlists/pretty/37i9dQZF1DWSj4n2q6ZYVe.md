@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,815 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,232 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

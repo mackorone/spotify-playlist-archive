@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Kusah",
+  "description": "What is your love language? Say it in Swahili.  Cover: Diamond Platnumz",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Msumari",
+        "url": "https://open.spotify.com/album/4zOv6utTtdWh8xx0Jb7R8C"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222223,
+      "name": "Msumari",
+      "url": "https://open.spotify.com/track/0LIWMtd93zoCGx2TdzMJCx"
+    },
+    {
+      "album": {
         "name": "Swahili Kid",
         "url": "https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 199134,
       "name": "Mtoto",
       "url": "https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc"

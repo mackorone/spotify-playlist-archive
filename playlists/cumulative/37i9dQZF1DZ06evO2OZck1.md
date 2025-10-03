@@ -4,7 +4,7 @@
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 45 min
+69 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [ドラ１独走](https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [放生会](https://open.spotify.com/album/37asoWjHlM134Da94j5kAc) | 3:03 | 2024-06-09 |  |
 | [東京タワー \(feat\. 新しい学校のリーダーズ\)](https://open.spotify.com/track/7xonsALuZYHHgBwMAq0XM7) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [東京SNG](https://open.spotify.com/album/4ycnJWLJHmGBnMo1HDEq9g) | 3:19 | 2024-11-23 |  |
 | [狙いうち \- 50th anniversary special cover](https://open.spotify.com/track/11WB6KDgJNqrTRexgM7n2g) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [マ人間](https://open.spotify.com/album/2N4sRKgyRb8eKvFfIO5IQI) | 2:17 | 2024-01-10 | 2024-01-21 |
-| [青春永遠 \- TV Size Edit](https://open.spotify.com/track/3XkgvntDEDgIYmgeIwIYQn) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠 \(TV Size Edit\)](https://open.spotify.com/album/3H97bzx9tAiiLYYzbLCecx) | 1:32 | 2025-07-10 |  |
+| [青春永遠](https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠](https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF) | 4:25 | 2025-10-03 |  |
+| [青春永遠 \- TV Size Edit](https://open.spotify.com/track/3XkgvntDEDgIYmgeIwIYQn) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠 \(TV Size Edit\)](https://open.spotify.com/album/3H97bzx9tAiiLYYzbLCecx) | 1:32 | 2025-07-10 | 2025-10-03 |
 
 \*This playlist was first scraped on 2023-12-27. Prior content cannot be recovered.

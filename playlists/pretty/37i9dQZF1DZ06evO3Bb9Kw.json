@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173660,
+  "num_followers": 173655,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAD45veIot2XqwOyzjutbBey",
+  "snapshot_id": "aNxvAAAAAAAzlhG7VWc/Ka1D4NxVcr7M",
   "tracks": [
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Makin' Plans",
-      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
+      "duration_ms": 193560,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Makin' Plans",
+      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Locomotive",
-      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
+      "duration_ms": 214786,
+      "name": "It All Comes Out in the Wash",
+      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
     },
     {
       "added_at": null,
@@ -903,38 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "It All Comes Out in the Wash",
-      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Shitty Day",
         "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 264456,
       "name": "Hello Shitty Day",
       "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
     },
     {
       "added_at": null,

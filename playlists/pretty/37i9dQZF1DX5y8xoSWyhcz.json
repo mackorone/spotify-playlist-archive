@@ -1,13 +1,125 @@
 {
   "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).",
-  "num_followers": 230719,
+  "num_followers": 230706,
   "original_name": "indie pop & chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5uuDAszV7K0FbEfcoh3gHkkVxn",
+  "snapshot_id": "AAAAAMU2kxxZH9oVesMyfIEI8Gel0AvW",
   "tracks": [
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "cohete",
+        "url": "https://open.spotify.com/album/18Gy88oYgwb0ddL7hPhcuh"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "cohete",
+      "url": "https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "Mid July",
+        "url": "https://open.spotify.com/album/6Ghj66uOHT1AIQaMzBMZnf"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Mid July",
+      "url": "https://open.spotify.com/track/6PsnCUm3Gx4IEB7YaQiyMm"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "Virgin Heartbreak",
+        "url": "https://open.spotify.com/album/4VQhoUApuK9q2M6mRzA2bH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 216396,
+      "name": "Virgin Heartbreak",
+      "url": "https://open.spotify.com/track/3AgUWDWeQLOepfIETZynmA"
+    },
+    {
+      "added_at": "2025-09-19 17:44:46",
+      "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "About Leaving",
+        "url": "https://open.spotify.com/album/1Rt8TSTk30TJjNhVetXpBb"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 215913,
+      "name": "About Leaving",
+      "url": "https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P"
+    },
+    {
+      "added_at": "2025-10-03 00:01:12",
+      "album": {
+        "name": "Arrow (Ghost No. 2)",
+        "url": "https://open.spotify.com/album/5ya4cxw29HpXaNLnqf5X1P"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205089,
+      "name": "Arrow - Ghost No. 2",
+      "url": "https://open.spotify.com/track/7jOavbFQ8G7fef5e7f4eE4"
+    },
     {
       "added_at": "2025-09-26 00:01:27",
       "album": {
@@ -43,22 +155,6 @@
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
-        "name": "Virgin Heartbreak",
-        "url": "https://open.spotify.com/album/4VQhoUApuK9q2M6mRzA2bH"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 216396,
-      "name": "Virgin Heartbreak",
-      "url": "https://open.spotify.com/track/3AgUWDWeQLOepfIETZynmA"
     },
     {
       "added_at": "2025-09-19 17:44:46",
@@ -111,22 +207,6 @@
       "duration_ms": 143826,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/6O066SuknbFTwYD3F6bpiD"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
       "added_at": "2025-09-19 17:44:46",
@@ -1511,54 +1591,6 @@
     {
       "added_at": "2025-09-19 17:44:46",
       "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 167148,
-      "name": "passenger side",
-      "url": "https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Forgive & Forget",
-        "url": "https://open.spotify.com/album/7t37CKgF9GtNTdkFExxegB"
-      },
-      "artists": [
-        {
-          "name": "mathijs.iv",
-          "url": "https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Forgive & Forget",
-      "url": "https://open.spotify.com/track/0Rxwr5KJUwAq5SMPtMTq0g"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
         "name": "No Way To Relax When You Are On Fire",
         "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
       },
@@ -1735,338 +1767,6 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Downtown Guy",
-        "url": "https://open.spotify.com/album/7HKdr3NqliLM4EiD3twPC9"
-      },
-      "artists": [
-        {
-          "name": "Seago",
-          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "Downtown Guy",
-      "url": "https://open.spotify.com/track/7xFJjEjyXFC9zSMB9q8vFC"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Shotput",
-        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 170698,
-      "name": "Shotput",
-      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "trophy wife",
-        "url": "https://open.spotify.com/album/2iJc8FbBbIw0Vpx84dL0xv"
-      },
-      "artists": [
-        {
-          "name": "Molly Annelle",
-          "url": "https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz"
-        }
-      ],
-      "duration_ms": 169953,
-      "name": "trophy wife",
-      "url": "https://open.spotify.com/track/0PhejYk9QZijuKAvBI43x9"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "I liked it",
-        "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 147969,
-      "name": "I liked it",
-      "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Ever Seen",
-        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Ever Seen",
-      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Heat Island Effect",
-        "url": "https://open.spotify.com/album/6soBeAi4xMhfhHKW9QAz0U"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 191469,
-      "name": "Heat Island Effect",
-      "url": "https://open.spotify.com/track/47dZbpbyo0Oh9ew33xHraE"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "nowhere to be found",
-        "url": "https://open.spotify.com/album/7Md72T44krozhp9I3kk0Vb"
-      },
-      "artists": [
-        {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
-        },
-        {
-          "name": "Erwan",
-          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
-        }
-      ],
-      "duration_ms": 264420,
-      "name": "nowhere to be found",
-      "url": "https://open.spotify.com/track/3kp4slLJYxaKUrQsKJqu8y"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "MOLITOR 24",
-        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Molitor",
-          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "clean hands dirty water",
-        "url": "https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 187618,
-      "name": "getting over you",
-      "url": "https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "medium plaisir",
-        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "Ce n'est pas de la chance",
-      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Feu de garde",
-        "url": "https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 201597,
-      "name": "La terre",
-      "url": "https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "LIMBO",
-        "url": "https://open.spotify.com/album/7zRAnRLCMzizB4xRSpIDf2"
-      },
-      "artists": [
-        {
-          "name": "Blair Lee",
-          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
-        }
-      ],
-      "duration_ms": 208710,
-      "name": "Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/3Y1sbQyG9oB78IMasWoi4y"
     }
   ],
   "unique_name": "indie pop & chill",

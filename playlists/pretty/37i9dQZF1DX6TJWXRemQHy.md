@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,643 likes - 94 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,676 likes - 94 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 | 93 | [Ajna](https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Ajna](https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J) | 2:27 |
 | 94 | [Quiet Lush Rain](https://open.spotify.com/track/3VAHipvMGgtJpv12QPKeUH) | [Lux Swanson](https://open.spotify.com/artist/6wRBJycGUQxAsqIKNaq9zK) | [Quiet Lush Rain](https://open.spotify.com/album/1j7KgD9TpBIGVX2MOfnWr4) | 2:33 |
 
-Snapshot ID: `AAAAADVCEc/jbtbBiypYPOuigrTlAi6m`
+Snapshot ID: `AAAAAM7rg/uIJG41hcFFVV+z239fOtsS`

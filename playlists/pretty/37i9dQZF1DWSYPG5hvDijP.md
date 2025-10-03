@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Young Aytee
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,245 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,288 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 67 | [Raasta](https://open.spotify.com/track/25COgtI7OKK7haEFivECgE) | [Kedabeatchi](https://open.spotify.com/artist/6BhLw4NULjXXUj2g9ELgwr), [Youngsari](https://open.spotify.com/artist/0GgTb77gX5MDTIeZpdZwzm) | [Raasta](https://open.spotify.com/album/3Fk0H2ShrSTjEUX2BTmrgy) | 2:38 |
 | 68 | [Parivar](https://open.spotify.com/track/0BtKd8mZ2RNGyq1inII4qJ) | [Fat Krrent](https://open.spotify.com/artist/4E98XpRcPeJB8ICcqoyj3N), [Yung\_chef](https://open.spotify.com/artist/2GFpaIZLseRsCZxAfA7iR3) | [Parivar](https://open.spotify.com/album/3pyaMhic1rhMXMnsxmYeYM) | 2:55 |
 | 69 | [Time Lapse](https://open.spotify.com/track/0zNJQYTKvWfbHAKuvibtt1) | [Flowid](https://open.spotify.com/artist/32RGwSbrlR274i3uVjZ0jx), [Kartikey Jaiswal](https://open.spotify.com/artist/4FSpqDVbe1A3VyQYn9RVw2), [SHIVAS](https://open.spotify.com/artist/6Pe1ZDgx5jqfp85W4rslrX) | [Time Lapse](https://open.spotify.com/album/7b5PN8YV08gu8T8IW9iDCB) | 2:28 |
-| 70 | [Get Ready To Fight\-Khauf Hai](https://open.spotify.com/track/7JFSdJ5XCR7Od8FdPHH4bh) | [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Suyyash\-Siddharth](https://open.spotify.com/artist/4WZHbT7aX4auI6MpRw0JGC), [Gopi Sidhu](https://open.spotify.com/artist/3jRWOuXzN9mPnTMNJZPPEd), [Star Boy Loc](https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv) | [Baaghi 4](https://open.spotify.com/album/3S7prbLe2cHnA7HwfGCGsu) | 3:10 |
+| 70 | [Get Ready To Fight\-Khauf Hai](https://open.spotify.com/track/7JFSdJ5XCR7Od8FdPHH4bh) | [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Suyyash\-Siddharth](https://open.spotify.com/artist/4WZHbT7aX4auI6MpRw0JGC), [Gopi Sidhu](https://open.spotify.com/artist/3jRWOuXzN9mPnTMNJZPPEd), [Star Boy Loc](https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv), [Krishna Beuraa](https://open.spotify.com/artist/3cY5ariKFsYqoHm8n2ccvD) | [Baaghi 4](https://open.spotify.com/album/3S7prbLe2cHnA7HwfGCGsu) | 3:10 |
 | 71 | [Higher](https://open.spotify.com/track/6cX7ZjpMQyarhZ4OA1JJwA) | [HEMANSHI](https://open.spotify.com/artist/2xdamRjIF9E9zAI11rT0Vx), [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8) | [Higher](https://open.spotify.com/album/0zN3L2bPcrGNkWOMMrZKgc) | 2:53 |
 | 72 | [Gunaah](https://open.spotify.com/track/4Tl8O5ESzIvLFPS1gxlNVq) | [VIN SANE](https://open.spotify.com/artist/7JA01ocHUy1AzOKCusVy0U), [VEDA](https://open.spotify.com/artist/7hOEf9JJzHaMqtnpw7r1QF) | [Gunaah](https://open.spotify.com/album/0SUdV0MiuBaBe5GsfazEAh) | 2:28 |
 | 73 | [Faayeda](https://open.spotify.com/track/7rQKLYam9dtOG3xbPUD9jj) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Faayeda](https://open.spotify.com/album/2qWs5639lfmZ45AwUXSWsN) | 3:17 |

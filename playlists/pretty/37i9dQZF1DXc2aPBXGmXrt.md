@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,259,518 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,259,841 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 49 | [Lifetime](https://open.spotify.com/track/3kZLeZr4StCy1tlOBRJrUH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp) | 3:27 |
 | 50 | [Heartbreaker](https://open.spotify.com/track/21pCToQdqcPi879auxjxKe) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:22 |
 
-Snapshot ID: `AAAAAFwt4XTfOicQlapGy7uHKjRJExUi`
+Snapshot ID: `AAAAALyIm81AQA5frc1FBiJQVNobr5zm`

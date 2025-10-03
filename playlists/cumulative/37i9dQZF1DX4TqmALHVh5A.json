@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : D'accord Simon",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Blas\u00e9",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 171400,
       "name": "A l'envers",
       "url": "https://open.spotify.com/track/6sHyC8rtNTwKFqbYLYQRqz"
+    },
+    {
+      "album": {
+        "name": "A moiti\u00e9 dans la f\u00eate",
+        "url": "https://open.spotify.com/album/5gmLS69GBaMZ4IhK7Wvybb"
+      },
+      "artists": [
+        {
+          "name": "Barbet",
+          "url": "https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185184,
+      "name": "A moiti\u00e9 dans la f\u00eate",
+      "url": "https://open.spotify.com/track/2mVsxBYV36Vkr6iRtyWUos"
     },
     {
       "album": {
@@ -218,7 +236,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 229668,
       "name": "Allons Voir",
       "url": "https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW"
@@ -723,6 +741,28 @@
     },
     {
       "album": {
+        "name": "c'est toi qui me dis",
+        "url": "https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH"
+      },
+      "artists": [
+        {
+          "name": "kissed",
+          "url": "https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi"
+        },
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191001,
+      "name": "c'est toi qui me dis",
+      "url": "https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl"
+    },
+    {
+      "album": {
         "name": "Californie",
         "url": "https://open.spotify.com/album/1lBRedKhEOs13Zr8ZOb1Ax"
       },
@@ -734,7 +774,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 143589,
       "name": "Californie",
       "url": "https://open.spotify.com/track/5cWBcAnMNCBVV0UAIO6tRj"
@@ -1314,7 +1354,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 199062,
       "name": "Dans quelques ann\u00e9es",
       "url": "https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE"
@@ -2327,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "j'aimerais que tout s'arr\u00eate",
+        "url": "https://open.spotify.com/album/6bLSMoJsFHkaYw1NwwQ7Oh"
+      },
+      "artists": [
+        {
+          "name": "nous \u00e9tions une arm\u00e9e",
+          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220164,
+      "name": "j'aimerais que tout s'arr\u00eate",
+      "url": "https://open.spotify.com/track/5waQwkBRFAzndEEf09b3Hx"
+    },
+    {
+      "album": {
         "name": "J'aimerais tellement",
         "url": "https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH"
       },
@@ -2472,6 +2530,24 @@
       "duration_ms": 187756,
       "name": "je dirai rien",
       "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
+    },
+    {
+      "album": {
+        "name": "Je dors tout le temps (Non machines)",
+        "url": "https://open.spotify.com/album/55jAihIR44EIeRiFursXLa"
+      },
+      "artists": [
+        {
+          "name": "Ojos",
+          "url": "https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152240,
+      "name": "Je dors tout le temps (Non machines)",
+      "url": "https://open.spotify.com/track/26xGOvJsKi4Nvtbv8VvsUj"
     },
     {
       "album": {
@@ -2821,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "L'Enfant Prodigue",
+        "url": "https://open.spotify.com/album/1ePbYNze00m4BbU9mvr3Bg"
+      },
+      "artists": [
+        {
+          "name": "Axel Bauer",
+          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228145,
+      "name": "L'Enfant Prodigue",
+      "url": "https://open.spotify.com/track/004TaDTThFHEwZAO7jhCOQ"
+    },
+    {
+      "album": {
         "name": "LOVECITY",
         "url": "https://open.spotify.com/album/2IAzTOiNRzzJ9Srz17zWKf"
       },
@@ -3078,6 +3172,24 @@
       "duration_ms": 191677,
       "name": "Le Funambule",
       "url": "https://open.spotify.com/track/2TlyaM4NmDpoawFPsTH1KZ"
+    },
+    {
+      "album": {
+        "name": "Labyrinthe",
+        "url": "https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262706,
+      "name": "Le Labyrinthe",
+      "url": "https://open.spotify.com/track/45hOGbJg68LAc6plyrSXru"
     },
     {
       "album": {
@@ -3846,7 +3958,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 166102,
       "name": "Nana",
       "url": "https://open.spotify.com/track/0SZQ1yYJCgS3P7ivXysJuO"
@@ -4496,7 +4608,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 145326,
       "name": "P\u00e9tasse en col\u00e8re",
       "url": "https://open.spotify.com/track/5ri0ZiGJ9V5eUnsh7eYkKK"

@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: WurtS
 
-214 songs - 13 hr 24 min
+216 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ambiguous \[PROGRESS\]](https://open.spotify.com/track/185dbbLRrRN72d4o3zQ6HG) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [GRND THE BEST PROGRESS](https://open.spotify.com/album/3Bl0VpVgm2XJHZaPYgD7d5) | 4:32 | 2025-02-28 | 2025-03-24 |
 | [Another Complex](https://open.spotify.com/track/6FZSpjDp4A6AZE0mIPUHio) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [Another Complex](https://open.spotify.com/album/4sqKDhjSQHH4hPYPim5pMY) | 4:27 | 2023-10-17 | 2023-11-02 |
 | [Apocalypse](https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Apocalypse](https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d) | 4:12 | 2023-09-21 | 2023-10-04 |
+| [Ash](https://open.spotify.com/track/4qtsre9aOoal3I6NAeFt3R) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Ash](https://open.spotify.com/album/71cUaoyUkhZro6ksPiyt7u) | 3:24 | 2025-10-02 |  |
 | [Aufheben](https://open.spotify.com/track/6MUrRnnRRJBozvU9fq8Ipm) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Aufheben](https://open.spotify.com/album/1wumlbuZd1SLWIQLE6UbPA) | 2:52 | 2025-04-08 | 2025-07-23 |
 | [Bloody Liar](https://open.spotify.com/track/4i28PHh1RaifHQSq77Dd4X) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Bloody Liar](https://open.spotify.com/album/1oU9RnBIPknsbhA6timxeh) | 3:43 | 2025-01-14 | 2025-02-26 |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2023-08-03 | 2024-04-19 |
@@ -102,7 +103,7 @@
 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/6Hns4ZGJBGnqQtNBKg5QvI) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/album/3l9BFzZXjw05UJa0BcfVxC) | 4:40 | 2023-10-03 | 2023-11-11 |
 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/1Rd3Rg6Ad7Lxv5TeWLWy5d) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Naino Zouga Guchiwo Kobosumonode](https://open.spotify.com/album/2fHkGXswIaHWRU0Y3KOIVw) | 4:40 | 2023-11-07 | 2023-12-30 |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-08 |  |
-| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-07-22 |  |
+| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-07-22 | 2025-10-03 |
 | [THE DAY](https://open.spotify.com/track/3wWPWoE2b7enVy5SIqMqm9) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [BUTTERFLY EFFECT](https://open.spotify.com/album/1iDYx5sNkNoJwgGXEGcfSy) | 4:01 | 2025-09-01 |  |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2023-08-03 | 2024-04-19 |
 | [the WORLD](https://open.spotify.com/track/2pe0UjA7U2F01djWeOtvS3) | [Nightmare](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [the WORLD Ruler](https://open.spotify.com/album/6fkESSJokXRGeL4JTZdMjB) | 3:48 | 2023-08-03 | 2023-10-04 |
@@ -115,11 +116,12 @@
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2023-08-03 | 2024-04-19 |
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2024-04-16 |  |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-02-13 | 2024-07-08 |
+| [What if](https://open.spotify.com/track/06DiWtZyEmlSBPe1U5OPQw) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [What if](https://open.spotify.com/album/1JSs7r2tllydj8LfzdGhWD) | 2:39 | 2025-10-02 |  |
 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 | 2024-09-19 | 2025-01-15 |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-16 | 2024-04-19 |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2023-08-03 | 2024-04-19 |
 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 | 2024-01-30 | 2025-02-13 |
-| [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:50 | 2025-08-05 |  |
+| [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:50 | 2025-08-05 | 2025-10-03 |
 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 | 2023-10-03 | 2024-01-27 |
 | [かるガルEveryday!!](https://open.spotify.com/track/1EQP2YR8wYmdPV8xGQPT0e) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [かるガルEveryday!!](https://open.spotify.com/album/75MYeX009enXEyIK8rFFjw) | 2:42 | 2025-07-29 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-08-03 | 2024-07-03 |

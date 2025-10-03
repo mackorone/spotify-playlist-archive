@@ -4,7 +4,7 @@
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Yan Ting
 
-118 songs - 7 hr 30 min
+119 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [三生有幸](https://open.spotify.com/track/5GnB3Nz0WfhOZK50PtAcma) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [三生有幸](https://open.spotify.com/album/0GNN3DUnDHMoKiPEwykUfc) | 3:37 | 2025-08-13 |  |
 | [上場](https://open.spotify.com/track/2YW5h2bLFx6By14PYREraE) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [上場](https://open.spotify.com/album/6xaJgc8x6FguanA1WNuDcc) | 3:40 | 2025-08-13 |  |
 | [不可愛教主](https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [不可愛教主](https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH) | 3:49 | 2022-07-07 | 2025-08-14 |
+| [不愛無壞](https://open.spotify.com/track/7J1h0k91omGKLV0H64A8FG) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [不愛無壞](https://open.spotify.com/album/3PryVGWt6DxzNgo6Arp2Zp) | 4:01 | 2025-10-02 |  |
 | [不打烊珈琲屋](https://open.spotify.com/track/7KL8beadxLE9818kgIIWMU) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [不打烊珈琲屋](https://open.spotify.com/album/1HrPW5BCJfoKx3J3bXK4z8) | 3:08 | 2025-08-13 |  |
 | [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 | 2024-08-13 | 2025-08-14 |
 | [世界與你無關 \- Acoustic Version](https://open.spotify.com/track/6OMVP0bYGhLGTp1Mvl3iOH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關 \(Acoustic Version\)](https://open.spotify.com/album/4Vv0pIpYXxmlrXNBSbXuZq) | 4:05 | 2022-07-07 | 2025-08-14 |

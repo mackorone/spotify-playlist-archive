@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "My Greatest Joy",
+        "url": "https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187525,
+      "name": "My Greatest Joy",
+      "url": "https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0"
+    },
+    {
+      "album": {
         "name": "Dante Bowe",
         "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
       },

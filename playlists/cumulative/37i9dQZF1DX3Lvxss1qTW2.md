@@ -4,7 +4,7 @@
 
 > The future hits of today.
 
-524 songs - 1 day 0 hr 11 min
+525 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Ginger](https://open.spotify.com/track/3bBVesR6p4ItmBsAK2A4zS) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [No Stress](https://open.spotify.com/album/6aw16ejuQ5mvvuvGbEMjo2) | 2:19 | 2025-02-21 | 2025-05-24 |
 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-18 |  |
 | [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 | 2025-09-05 |
-| [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 | 2025-05-23 |  |
+| [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 | 2025-05-23 | 2025-10-03 |
 | [Glass Heart](https://open.spotify.com/track/1FNhsxcVa8o07FFSWCPVTC) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Glass Heart](https://open.spotify.com/album/6wzK9H8bkUJifhE2Gzr0Wu) | 2:39 | 2025-09-05 | 2025-09-23 |
 | [Glory Days](https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [What Would You Do Without Me](https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM) | 2:37 | 2024-06-28 | 2024-08-26 |
 | [Go Harder](https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Go Harder](https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj) | 2:20 | 2024-06-28 | 2024-07-12 |
@@ -406,6 +406,7 @@
 | [Roadman](https://open.spotify.com/track/1vAvrkdedqfcFVm6cLfZBe) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [Roadman](https://open.spotify.com/album/6rKbU1FqqhFtgr3N0l7Y8g) | 3:31 | 2024-11-29 | 2025-03-29 |
 | [Roma](https://open.spotify.com/track/0tYVKrdMhSACnQTlCBzKAi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Behind Closed Doors](https://open.spotify.com/album/7IcAWl0SNTImQwHcG8w98o) | 2:28 | 2025-05-30 | 2025-06-10 |
 | [ronju](https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [INÓ](https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw) | 3:18 | 2024-11-08 | 2024-11-29 |
+| [Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Rover](https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha) | 2:34 | 2025-10-03 |  |
 | [Run am ASAP](https://open.spotify.com/track/2fBzzTpsouicnbnkQYyDYj) | [ASAPtheDJ](https://open.spotify.com/artist/0On72ZC3ETA5VgAqzGwA4P), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Run am ASAP](https://open.spotify.com/album/3Kc9RdfIzsxYvwcfM2g0AL) | 2:49 | 2025-09-19 |  |
 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 | 2025-09-19 |  |
 | [Sabali](https://open.spotify.com/track/4j7nohR8s3Q8XjDrC5hQZ0) | [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ), [Smeez](https://open.spotify.com/artist/0mNkY84ZAQz0n72YKF2mWC), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Sabali](https://open.spotify.com/album/4booSk06CGweIlV8M9mvvn) | 6:43 | 2024-10-04 | 2024-11-29 |

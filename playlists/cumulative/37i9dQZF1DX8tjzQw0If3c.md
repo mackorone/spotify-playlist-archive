@@ -4,7 +4,7 @@
 
 > Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from Singapore & Malaysia!
 
-236 songs - 12 hr 56 min
+237 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Easy](https://open.spotify.com/track/74FylcapPWWlk7TIJ48S6i) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:36 | 2025-09-08 |  |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 | 2025-04-16 |
 | [Easy Girl Easy Boy](https://open.spotify.com/track/16J7AI5bo2CO088Qr8Dw9A) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy Girl Easy Boy](https://open.spotify.com/album/763KgVE9H9LEnNIo2BPIwa) | 3:24 | 2024-06-27 | 2024-12-05 |
+| [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [](https://open.spotify.com/album/null) | 3:18 | 2025-10-02 |  |
 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 | 2024-06-27 | 2025-04-16 |
 | [Emas](https://open.spotify.com/track/5ETZyQalxrY6NrYr5477HB) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Emas](https://open.spotify.com/album/1lpXnPeJRDNjeLSfHgd1JE) | 3:35 | 2025-04-15 |  |
 | [Empty Seat](https://open.spotify.com/track/5SWI4mExFgJYxc3lmKqhHe) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:49 | 2024-12-04 | 2025-04-16 |

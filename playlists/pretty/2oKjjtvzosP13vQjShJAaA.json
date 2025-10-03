@@ -1,13 +1,29 @@
 {
   "description": "w\u00f6chentliche handverlesene empfehlungen des archivs. no industry bs",
-  "num_followers": 1353,
+  "num_followers": 1356,
   "original_name": "die hip hop empfehlung",
   "owner": {
     "name": "hiphoparchiv",
     "url": "https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q"
   },
-  "snapshot_id": "AAAA+HesmvcxoeogJ3qfngy08iIGfnyn",
+  "snapshot_id": "AAABCBWXZKPGMD2eBAK5/ycN4KmQMqXf",
   "tracks": [
+    {
+      "added_at": "2025-10-02 22:10:46",
+      "album": {
+        "name": "Norderney / Geister",
+        "url": "https://open.spotify.com/album/1PXm7yS2vZqHurUpKeUl4i"
+      },
+      "artists": [
+        {
+          "name": "beslik",
+          "url": "https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Geister",
+      "url": "https://open.spotify.com/track/0xNIAFbDIco16rDzxrw4qI"
+    },
     {
       "added_at": "2025-09-26 11:25:21",
       "album": {
@@ -31,6 +47,26 @@
       "duration_ms": 156491,
       "name": "Bauchnabel",
       "url": "https://open.spotify.com/track/1OJmySRtkYu44yNzoPAlqn"
+    },
+    {
+      "added_at": "2025-10-02 22:09:23",
+      "album": {
+        "name": "Ich Ich Ich Ich Ich",
+        "url": "https://open.spotify.com/album/3YcClxr3mtpd99r2j83CUs"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        },
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Ich Ich Ich Ich Ich",
+      "url": "https://open.spotify.com/track/0pBZFyyLFV48OwbYQiy3sM"
     },
     {
       "added_at": "2025-09-26 11:24:52",
@@ -73,6 +109,30 @@
       "url": "https://open.spotify.com/track/33kAHshXdvhvVW95Wo0b7b"
     },
     {
+      "added_at": "2025-10-02 22:08:59",
+      "album": {
+        "name": "... und das Meer",
+        "url": "https://open.spotify.com/album/05PasfMJYoCxJAiyisF0Uu"
+      },
+      "artists": [
+        {
+          "name": "Tacho",
+          "url": "https://open.spotify.com/artist/5L6EaWyD6Cq59iXs81fvbq"
+        },
+        {
+          "name": "Richard Milli",
+          "url": "https://open.spotify.com/artist/3wsQdjHPiS9qom68YR0o96"
+        },
+        {
+          "name": "Shogoon",
+          "url": "https://open.spotify.com/artist/0e8x2Drjf0wa8Q5loiYhlx"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Glimma Twinz",
+      "url": "https://open.spotify.com/track/5MAEjGjqMKMgGQymYggvKB"
+    },
+    {
       "added_at": "2025-09-26 11:25:35",
       "album": {
         "name": "Feenfl\u00fcgel / All meine Fehler",
@@ -109,28 +169,36 @@
       "url": "https://open.spotify.com/track/3nkHcygCsciG18s2cnK25a"
     },
     {
-      "added_at": "2025-09-23 13:18:35",
+      "added_at": "2025-10-02 22:12:59",
       "album": {
-        "name": "Ozean im Cup",
-        "url": "https://open.spotify.com/album/32u9puiTAyO9O9KEReH5Po"
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/72wT4Jzqk847duVsMqfluJ"
       },
       "artists": [
         {
-          "name": "Da Playaz",
-          "url": "https://open.spotify.com/artist/7c4KTyZM7icu8bSlWHRhPL"
-        },
-        {
-          "name": "Pierre Sonality",
-          "url": "https://open.spotify.com/artist/0niBEgx0rRNWoTXgiJIiwA"
-        },
-        {
-          "name": "Young Krillin",
-          "url": "https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ"
+          "name": "ACE TEE",
+          "url": "https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm"
         }
       ],
-      "duration_ms": 163806,
-      "name": "Ozean im Cup",
-      "url": "https://open.spotify.com/track/7wierJUd6Khkyzld6ZRUZy"
+      "duration_ms": 128161,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/72oK96eyMnh3DRMXivcuZN"
+    },
+    {
+      "added_at": "2025-10-02 22:11:48",
+      "album": {
+        "name": "O'Malley",
+        "url": "https://open.spotify.com/album/51lGGvzx0aLxaWgi9Wv5Eb"
+      },
+      "artists": [
+        {
+          "name": "OG LU",
+          "url": "https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W"
+        }
+      ],
+      "duration_ms": 168099,
+      "name": "O'Malley",
+      "url": "https://open.spotify.com/track/7vKz49V3aeZLaJY5x4yf4G"
     },
     {
       "added_at": "2025-09-26 11:24:36",
@@ -173,86 +241,6 @@
       "url": "https://open.spotify.com/track/0qRPDL38VW47xzHCu42vnA"
     },
     {
-      "added_at": "2025-09-26 11:23:19",
-      "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "AAAHH MEN!",
-      "url": "https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD"
-    },
-    {
-      "added_at": "2025-09-26 11:23:37",
-      "album": {
-        "name": "SALZWASSER AUF EX 2",
-        "url": "https://open.spotify.com/album/4q6u3x0Qv1e8eL5GFpFg5e"
-      },
-      "artists": [
-        {
-          "name": "Sportler99",
-          "url": "https://open.spotify.com/artist/4DthJq5NYLsrYWMSd4wvTS"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "JAPAN",
-      "url": "https://open.spotify.com/track/1AeR3rStemLPheeD9XgNRc"
-    },
-    {
-      "added_at": "2025-09-26 11:24:24",
-      "album": {
-        "name": "Heilig",
-        "url": "https://open.spotify.com/album/0Y75BSmtjqJd6LzMAqb81a"
-      },
-      "artists": [
-        {
-          "name": "Yaw Herra",
-          "url": "https://open.spotify.com/artist/0fXGcMbfHhutkOn5CFtD97"
-        },
-        {
-          "name": "JUWEEL",
-          "url": "https://open.spotify.com/artist/302MG7K7EDeQ4TWbHUabXT"
-        },
-        {
-          "name": "Beatciple",
-          "url": "https://open.spotify.com/artist/7dVXx8I59MkeNuaoH4Ihm4"
-        },
-        {
-          "name": "Cr7z",
-          "url": "https://open.spotify.com/artist/0xgb3TcXgLOuMkZ0EnDwkw"
-        }
-      ],
-      "duration_ms": 169784,
-      "name": "Heilig",
-      "url": "https://open.spotify.com/track/7AcYwAqWknMRJlqWDk5bAR"
-    },
-    {
-      "added_at": "2025-09-26 11:23:58",
-      "album": {
-        "name": "Bikini Bottom",
-        "url": "https://open.spotify.com/album/6NOBqllqNGewp8PANRskIR"
-      },
-      "artists": [
-        {
-          "name": "Yung FSK18",
-          "url": "https://open.spotify.com/artist/0t8tTBP2yAifrjJyjYtdox"
-        },
-        {
-          "name": "Rattenjunge",
-          "url": "https://open.spotify.com/artist/017TgU3yOc91SygyOe1yt4"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/79gkxrmYfkmomhEnlaWWyg"
-    },
-    {
       "added_at": "2025-09-26 11:26:18",
       "album": {
         "name": "Geschichte eines Schweigens",
@@ -269,40 +257,44 @@
       "url": "https://open.spotify.com/track/5jSJGYKTZU4siC7rjt5zKt"
     },
     {
-      "added_at": "2025-09-26 11:24:11",
+      "added_at": "2025-10-02 22:10:41",
       "album": {
-        "name": "Ehrensalve",
-        "url": "https://open.spotify.com/album/2ivoziQ7dnJYGUPhj9a5kG"
+        "name": "Norderney / Geister",
+        "url": "https://open.spotify.com/album/1PXm7yS2vZqHurUpKeUl4i"
       },
       "artists": [
         {
-          "name": "Lakmann",
-          "url": "https://open.spotify.com/artist/31oskUgmqCnxk6jfx8yqzR"
+          "name": "beslik",
+          "url": "https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr"
         }
       ],
-      "duration_ms": 170266,
-      "name": "Ehrensalve",
-      "url": "https://open.spotify.com/track/7njm97rzxOCIHSXOUD6Fxw"
+      "duration_ms": 87032,
+      "name": "Norderney",
+      "url": "https://open.spotify.com/track/1g4LiUwPhF9rUsmNqqeMIO"
     },
     {
-      "added_at": "2025-09-26 11:25:39",
+      "added_at": "2025-10-02 22:12:50",
       "album": {
-        "name": "Feenfl\u00fcgel / All meine Fehler",
-        "url": "https://open.spotify.com/album/69Fq6Ezj1EJJnsOAt8W1ne"
+        "name": "L\u00d6WENM\u00c4HNE",
+        "url": "https://open.spotify.com/album/7764Kilb6eokjf41hZgIoz"
       },
       "artists": [
         {
-          "name": "Megaloh",
-          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
+          "name": "Shanel",
+          "url": "https://open.spotify.com/artist/3rPpO9jnRDBjZuw7ZWgxMx"
         },
         {
-          "name": "Oga Beats",
-          "url": "https://open.spotify.com/artist/3igQRzdkWRLAPjYe1aFVE5"
+          "name": "Roey Marquis II.",
+          "url": "https://open.spotify.com/artist/1GOHkyyq5aoNMZoiCRirwT"
+        },
+        {
+          "name": "Jonesmann",
+          "url": "https://open.spotify.com/artist/4jL4ODsLknRn6VMl4R2gUC"
         }
       ],
-      "duration_ms": 191893,
-      "name": "All meine Fehler",
-      "url": "https://open.spotify.com/track/6t00wk6ZzyXFLT6nzjZT1c"
+      "duration_ms": 212647,
+      "name": "Block Poesie",
+      "url": "https://open.spotify.com/track/0GIdBNxeRW4vmnTXMAPHyf"
     },
     {
       "added_at": "2025-09-19 07:32:40",

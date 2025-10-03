@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t?si=zwSiOBQ8T\-GlcY0bXH\-XJw"> FEYI</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,560 likes - 530 songs - 1 day 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,603 likes - 530 songs - 1 day 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 125 | [Barbados](https://open.spotify.com/track/5yHtwDeh3SMpjzkqNvcvrL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Nic Nac](https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [NO HArD FEELINGS](https://open.spotify.com/album/4QNno1ha0uOT41LYqdteGN) | 2:32 |
 | 126 | [STOPNGO](https://open.spotify.com/track/4r7QQJ6Y6kqiXblYhXqzuZ) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [jsilos](https://open.spotify.com/artist/2Rx5EPyAB29CPxWpQqMBVB) | [STOPNGO](https://open.spotify.com/album/5GEFNM9pSLfg3L80Wo1sqg) | 3:01 |
 | 127 | [SLIDIN](https://open.spotify.com/track/2cyvSVk5DJk7fdAR73hdaa) | [JEMS!](https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m) | [SLIDIN](https://open.spotify.com/album/1NyfbNIwwCjM0LgYbFoTWc) | 1:41 |
-| 128 | [Finally feat\. Alé Araya](https://open.spotify.com/track/60PUwPvrM3wAeR4a9KGRVm) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Finally feat\. Alé Araya](https://open.spotify.com/album/7CFNhyabHnUtW20pJIbVxV) | 2:53 |
+| 128 | [Finally](https://open.spotify.com/track/60PUwPvrM3wAeR4a9KGRVm) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Finally](https://open.spotify.com/album/7CFNhyabHnUtW20pJIbVxV) | 2:53 |
 | 129 | [way you want it](https://open.spotify.com/track/3JveaiLXIDccSZ2vxulKKu) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Richard Saunders](https://open.spotify.com/artist/6NxhqqHlwIyEBuLpdO0kZB) | [way you want it](https://open.spotify.com/album/3m7JWBVup9Hkzi4E8kKoZa) | 2:23 |
 | 130 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 |
 | 131 | [Phone A Friend](https://open.spotify.com/track/2pAZAQPlMHDmDcu4pWZKSC) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Phone A Friend](https://open.spotify.com/album/4I9rUhdvRQDQM55pKdZ7uF) | 2:18 |

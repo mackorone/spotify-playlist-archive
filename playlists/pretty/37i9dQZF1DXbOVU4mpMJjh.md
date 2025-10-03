@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,843 likes - 788 songs - 2 day 0 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,750 likes - 788 songs - 2 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,7 +306,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 296 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 |
 | 297 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 |
 | 298 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 |
-| 299 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 299 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 300 | [Take My Heart](https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Take My Heart](https://open.spotify.com/album/3NM7Y1p5b0X1WfXSHAiPJ1) | 3:31 |
 | 301 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 |
 | 302 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 |
@@ -316,7 +316,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 306 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 |
 | 307 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 |
 | 308 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 |
-| 309 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
+| 309 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
 | 310 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 |
 | 311 | [My Mistakes](https://open.spotify.com/track/7s4oZhKqHTi77Qx4RPIOmx) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [My Mistakes](https://open.spotify.com/album/4Uv6cZ7LsTVkPzQb9U1XIW) | 3:54 |
 | 312 | [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 |
@@ -753,7 +753,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 743 | [First Star](https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [First Star](https://open.spotify.com/album/2kLWiGv7G7zsRillIELLMx) | 5:21 |
 | 744 | [Fascination](https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Fascination](https://open.spotify.com/album/4dKHTNMNgrQmHOtYLvFn8M) | 4:23 |
 | 745 | [Angel Eyes](https://open.spotify.com/track/4Z3UHUWnGLHD0qhf6gSjCO) | [The Gold Lounge Band](https://open.spotify.com/artist/48Nj97YVTWCC0YVPT4T8oz) | [Blues in the Closet](https://open.spotify.com/album/6ib4xbdkzivzXm1VpJs38T) | 5:37 |
-| 746 | [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 |
+| 746 | [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 |
 | 747 | [Nothing But Elegant](https://open.spotify.com/track/58Q2Hb5b9P952cBon5gwnA) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Nothing But Elegant](https://open.spotify.com/album/37zUfQAczCkASpy7gHJWDH) | 3:27 |
 | 748 | [Ladybird](https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:53 |
 | 749 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 |

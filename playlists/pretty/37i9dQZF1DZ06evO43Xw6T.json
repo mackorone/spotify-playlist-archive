@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 173342,
+  "num_followers": 173400,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACyJyOiFlDPIwm1/IflkMtS",
+  "snapshot_id": "aNxvAAAAAAAGf3aw8o3CRra7Tjjdqxvr",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Mamoncita del Insta",
+        "url": "https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 193193,
+      "name": "La Mamoncita del Insta",
+      "url": "https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REGALO DE DIOS",
         "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 181503,
       "name": "Sad Loqueron",
       "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Mamoncita del Insta",
-        "url": "https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 193193,
-      "name": "La Mamoncita del Insta",
-      "url": "https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneo",
-        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "6 Veces",
-      "url": "https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "6 Veces",
+      "url": "https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK"
     },
     {
       "added_at": null,
@@ -950,15 +950,11 @@
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 153600,
-      "name": "DOSIS DE AMOR",
-      "url": "https://open.spotify.com/track/0WC20El0j1vhgQoPCLp6Xo"
+      "duration_ms": 216525,
+      "name": "PICASSO",
+      "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
     },
     {
       "added_at": null,
@@ -1034,11 +1030,15 @@
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 216525,
-      "name": "PICASSO",
-      "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
+      "duration_ms": 153600,
+      "name": "DOSIS DE AMOR",
+      "url": "https://open.spotify.com/track/0WC20El0j1vhgQoPCLp6Xo"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

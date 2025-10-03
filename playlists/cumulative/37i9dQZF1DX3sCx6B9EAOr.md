@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-876 songs - 1 day 23 hr 9 min
+877 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Actually Pt.2](https://open.spotify.com/track/0c5RmqhJFkkPSO4DtejqzY) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 3:39 | 2021-12-07 | 2022-07-28 |
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2021-12-07 | 2022-07-07 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-09-21 |  |
-| [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-07 |  |
+| [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-07 | 2025-10-03 |
 | [After We Ride](https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [After ‘We Ride’](https://open.spotify.com/album/2W8nXNoRaD7zm1IljosJAa) | 3:22 | 2021-12-07 | 2022-07-28 |
 | [Ah puh](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:20 | 2021-12-07 | 2022-07-29 |
 | [aint nobody can say what tmr will be](https://open.spotify.com/track/77viJapSv6naKV8LUqxDZX) | [Bluepaprika](https://open.spotify.com/artist/5UsQ1MY9PhBPfYkbb1cC0z) | [aint nobody can say what tmr will be](https://open.spotify.com/album/61s3tb0aAFnaiJTTKaHsZj) | 3:16 | 2022-03-24 | 2022-04-02 |
@@ -875,6 +875,7 @@
 | [돌덩이](https://open.spotify.com/track/6A9QEWYXpXLMeJLRjGsIJ1) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5C4yOEsxV7n42RnBanLO2u) | 3:29 | 2022-03-24 | 2022-04-21 |
 | [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2022-03-24 | 2022-04-20 |
 | [빙빙마마](https://open.spotify.com/track/5FkpfK3O4lPoUBGBwfz8Qk) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [L + \- 2](https://open.spotify.com/album/5eCPfDLMPmD3TKKpdtL989) | 3:56 | 2022-03-24 | 2022-04-13 |
+| [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc) | 3:24 | 2025-09-22 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2021-12-29 | 2023-06-04 |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2023-06-19 | 2024-04-19 |
 | [오늘 조금 취해서 그래](https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [오늘 조금 취해서 그래](https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD) | 2:45 | 2021-12-07 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,888 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,916 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 47 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
 | 48 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 |
 | 49 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
-| 50 | [Make Em Say \(feat\. Latto\)](https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 3:22 |
+| 50 | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC) | 3:27 |
 
-Snapshot ID: `aNsdgAAAAAA9YcuNvfh7+Db0M+97Qdqp`
+Snapshot ID: `aNxvAAAAAABQdNhJ7Ice9Jw6jLycazO6`

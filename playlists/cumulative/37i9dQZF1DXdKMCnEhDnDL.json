@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163969,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
+    },
+    {
+      "album": {
         "name": "Achterop",
         "url": "https://open.spotify.com/album/2tgx3JQhnAX4QbyBKki3fT"
       },
@@ -781,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Amour",
+        "url": "https://open.spotify.com/album/2IuNeXrj4UdP0UEB8NLtlH"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Amour",
+      "url": "https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw"
+    },
+    {
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 160645,
       "name": "Blindelings",
       "url": "https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m"
@@ -1281,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Buut Vrij",
+        "url": "https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158961,
+      "name": "Buut Vrij",
+      "url": "https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV"
       },
@@ -1310,7 +1364,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 160281,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
@@ -6978,7 +7032,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186455,
       "name": "Vas-y (Ga Maar)",
       "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Ka\u00efn",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Vincent Valli\u00e8res",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "C\u0153urs m\u00e9t\u00e9ores",
+        "url": "https://open.spotify.com/album/2TflqhF0BxpFCMszw7CPlc"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194280,
+      "name": "C\u0153urs m\u00e9t\u00e9ores",
+      "url": "https://open.spotify.com/track/0iVJSnag003e8swPiOW75G"
+    },
+    {
+      "album": {
         "name": "dans le silence",
         "url": "https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo"
       },
@@ -1135,6 +1153,60 @@
     },
     {
       "album": {
+        "name": "Fi\u00e8vre des andes",
+        "url": "https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189418,
+      "name": "Fi\u00e8vre des andes",
+      "url": "https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ"
+    },
+    {
+      "album": {
+        "name": "FMLP",
+        "url": "https://open.spotify.com/album/5qzkcGjQiSdjk5MPw7SEzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "FMLP",
+      "url": "https://open.spotify.com/track/6ChkBaOFS8J3oxFdF1iG8G"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "JF Pauz\u00e9",
+          "url": "https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288232,
+      "name": "Fond d'pichet sale de sangria",
+      "url": "https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3"
+    },
+    {
+      "album": {
         "name": "Seul au cin\u00e9ma",
         "url": "https://open.spotify.com/album/4dzhB8gNl7a3fM1zk9t496"
       },
@@ -1222,7 +1294,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 185360,
       "name": "Gazon mouill\u00e9",
       "url": "https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw"
@@ -1435,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "J'ai besoin de cette chance",
+        "url": "https://open.spotify.com/album/2t4yc3Lrqr7BH2a4b1SodF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9ane Le May",
+          "url": "https://open.spotify.com/artist/2NGzDvmw2CBYLEUuLKPiKe"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211486,
+      "name": "J'ai besoin de cette chance",
+      "url": "https://open.spotify.com/track/55f3bjbsl6ih6M3wm4TcvB"
+    },
+    {
+      "album": {
         "name": "L'all\u00e9e des melons",
         "url": "https://open.spotify.com/album/4XO9f1PjgzgFVUZg1TkldK"
       },
@@ -1580,7 +1670,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 216159,
       "name": "Je t'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
@@ -1718,6 +1808,24 @@
       "duration_ms": 157627,
       "name": "L'amour est ma devise",
       "url": "https://open.spotify.com/track/2QOYRsXR5mHlkZOpqQeokD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "L'amour est un jeu",
+      "url": "https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa"
     },
     {
       "album": {
@@ -2028,7 +2136,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 132560,
       "name": "Le go\u00fbt des mangues",
       "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
@@ -2216,7 +2324,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 300360,
       "name": "Les chemins de travers",
       "url": "https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j"
@@ -2238,6 +2346,24 @@
       "duration_ms": 206079,
       "name": "Les ent\u00eat\u00e9.e.s",
       "url": "https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N"
+    },
+    {
+      "album": {
+        "name": "Les joues us\u00e9es",
+        "url": "https://open.spotify.com/album/595WyOfWzcRZKwv88ik3kO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198181,
+      "name": "Les joues us\u00e9es",
+      "url": "https://open.spotify.com/track/3VyPjqDCcayoaFS2vMaSOE"
     },
     {
       "album": {
@@ -2826,7 +2952,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 179000,
       "name": "Pomme",
       "url": "https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q"
@@ -3036,7 +3162,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 158778,
       "name": "Qu\u00e9bec Blues",
       "url": "https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h"
@@ -3148,6 +3274,24 @@
       "duration_ms": 200160,
       "name": "R\u00e9volution (la chanson) - Radio \u00c9dith",
       "url": "https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG"
+    },
+    {
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/6Pctlav5tWkidNJ9nOvYiU"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/626vFZjPFRPHnjAha24UKW"
     },
     {
       "album": {
@@ -3487,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Tell me",
+        "url": "https://open.spotify.com/album/08gNtnN523VmVAszVth4n1"
+      },
+      "artists": [
+        {
+          "name": "Billie du Page",
+          "url": "https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160520,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5ZKbEHSvrAqZZpkzJ10ipr"
+    },
+    {
+      "album": {
         "name": "Tenir debout",
         "url": "https://open.spotify.com/album/125ZnohcXIhDHR9q9T1Z35"
       },
@@ -3582,7 +3744,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 182106,
       "name": "Tout ce que je dis",
       "url": "https://open.spotify.com/track/4R0wdkiNyVehGsv4uMc58S"
@@ -3600,7 +3762,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 123419,
       "name": "tout est cass\u00e9",
       "url": "https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB"

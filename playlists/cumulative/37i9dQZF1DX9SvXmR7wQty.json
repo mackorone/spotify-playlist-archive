@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: C\u0153ur De Pirate",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Robert Robert",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 142122,
       "name": "Adriano",
       "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186000,
       "name": "AIR FORCE BLANCHE",
       "url": "https://open.spotify.com/track/1vdXYpwDTZFgVc1inmirQ7"
@@ -5446,7 +5446,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 178786,
       "name": "BANGER",
       "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
@@ -8264,7 +8264,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 159719,
       "name": "C'est Fort",
       "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
@@ -10442,7 +10442,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 160190,
       "name": "Chez nous ici",
       "url": "https://open.spotify.com/track/23pDoQ06saUoin9oh1Gc5W"
@@ -12374,7 +12374,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 172507,
       "name": "COMME \u00c7A",
       "url": "https://open.spotify.com/track/3aRl5Oi4fcLuPRzUxqY3jU"
@@ -12702,7 +12702,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 158667,
       "name": "Connect\u00e9s",
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
@@ -12926,7 +12926,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 179840,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
@@ -13584,7 +13584,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 230813,
       "name": "Crime ensoleill\u00e9",
       "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
@@ -14010,6 +14010,24 @@
       "duration_ms": 213906,
       "name": "C\u0153ur d\u2019occasion",
       "url": "https://open.spotify.com/track/2Vj2541Xsl2v3Zs3lBF7vU"
+    },
+    {
+      "album": {
+        "name": "C\u0153urs m\u00e9t\u00e9ores",
+        "url": "https://open.spotify.com/album/2TflqhF0BxpFCMszw7CPlc"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194280,
+      "name": "C\u0153urs m\u00e9t\u00e9ores",
+      "url": "https://open.spotify.com/track/0iVJSnag003e8swPiOW75G"
     },
     {
       "album": {
@@ -14558,6 +14576,24 @@
       "duration_ms": 150032,
       "name": "Dans la temp\u00eate",
       "url": "https://open.spotify.com/track/0oDgk7tWYXUxap3yrlW41T"
+    },
+    {
+      "album": {
+        "name": "Dans la vie",
+        "url": "https://open.spotify.com/album/5kM8325p1LlgJw25RxzFDl"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Dans la vie",
+      "url": "https://open.spotify.com/track/0qIXtDE3VllX2AAIt8rnw5"
     },
     {
       "album": {
@@ -15168,7 +15204,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 125826,
       "name": "De l\u2019Abitibi \u00e0 la Gasp\u00e9sie",
       "url": "https://open.spotify.com/track/0wiTImzk8GbAM2a8MJHdSX"
@@ -15657,6 +15693,24 @@
     },
     {
       "album": {
+        "name": "Des \u00e9clats dans les nuages",
+        "url": "https://open.spotify.com/album/3kbx1aOylg4fwbdmCUFWqE"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162894,
+      "name": "Des \u00e9clats dans les nuages",
+      "url": "https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb"
+    },
+    {
+      "album": {
         "name": "Royaut\u00e9",
         "url": "https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn"
       },
@@ -15850,6 +15904,28 @@
       "duration_ms": 148133,
       "name": "Deux visages",
       "url": "https://open.spotify.com/track/6K1Hq4PNJrVJ81xZjXFLIb"
+    },
+    {
+      "album": {
+        "name": "DE FORCE OU DE GR\u00c9",
+        "url": "https://open.spotify.com/album/1dhkVjxurWE2qtExPE9veY"
+      },
+      "artists": [
+        {
+          "name": "BLK 140",
+          "url": "https://open.spotify.com/artist/0RMBFsaYaOpUJBEv0BZzr0"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195879,
+      "name": "DEUXIEME BIGO",
+      "url": "https://open.spotify.com/track/14vRh9So9udQH4ANAkirFv"
     },
     {
       "album": {
@@ -17642,7 +17718,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 159115,
       "name": "D\u00e9sillusion",
       "url": "https://open.spotify.com/track/6xfR6pNvwAHPxUVoYAvq5E"
@@ -18863,6 +18939,28 @@
     },
     {
       "album": {
+        "name": "Ennemi (VIBRA Remix)",
+        "url": "https://open.spotify.com/album/7pVF7BWrgNXQ8beCmJw3W1"
+      },
+      "artists": [
+        {
+          "name": "vice E roi",
+          "url": "https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz"
+        },
+        {
+          "name": "VIBRA",
+          "url": "https://open.spotify.com/artist/1TRCClnY1wyMGT4sTcPiP1"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Ennemi - VIBRA Remix",
+      "url": "https://open.spotify.com/track/6IVEN8wUmRZUMwyB492wuq"
+    },
+    {
+      "album": {
         "name": "Ensay",
         "url": "https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx"
       },
@@ -19760,7 +19858,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 165866,
       "name": "Extraordinaire",
       "url": "https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt"
@@ -21247,6 +21345,24 @@
     },
     {
       "album": {
+        "name": "Fi\u00e8vre des andes",
+        "url": "https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189418,
+      "name": "Fi\u00e8vre des andes",
+      "url": "https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ"
+    },
+    {
+      "album": {
         "name": "Flamboyant",
         "url": "https://open.spotify.com/album/4NDUZSgSYHcUiF7wGPjohk"
       },
@@ -21619,6 +21735,24 @@
     },
     {
       "album": {
+        "name": "FMLP",
+        "url": "https://open.spotify.com/album/5qzkcGjQiSdjk5MPw7SEzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "FMLP",
+      "url": "https://open.spotify.com/track/6ChkBaOFS8J3oxFdF1iG8G"
+    },
+    {
+      "album": {
         "name": "FNG",
         "url": "https://open.spotify.com/album/27w1sWakPV31gVkYGGJyq2"
       },
@@ -21692,6 +21826,24 @@
       "duration_ms": 150000,
       "name": "Focus (feat. Seth Gueko)",
       "url": "https://open.spotify.com/track/47SMrT8uLv7ar8g8cstkee"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "JF Pauz\u00e9",
+          "url": "https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288232,
+      "name": "Fond d'pichet sale de sangria",
+      "url": "https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3"
     },
     {
       "album": {
@@ -24868,7 +25020,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 173887,
       "name": "HORS DU TEMPS",
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
@@ -26669,6 +26821,24 @@
     },
     {
       "album": {
+        "name": "J'ai besoin de cette chance",
+        "url": "https://open.spotify.com/album/2t4yc3Lrqr7BH2a4b1SodF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9ane Le May",
+          "url": "https://open.spotify.com/artist/2NGzDvmw2CBYLEUuLKPiKe"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211486,
+      "name": "J'ai besoin de cette chance",
+      "url": "https://open.spotify.com/track/55f3bjbsl6ih6M3wm4TcvB"
+    },
+    {
+      "album": {
         "name": "J'ai bris\u00e9 ma voix",
         "url": "https://open.spotify.com/album/5sGXWNkTxInx5v23wVHnFG"
       },
@@ -26886,6 +27056,24 @@
       "duration_ms": 157935,
       "name": "J'ai pu de temps \u00e0 perdre!",
       "url": "https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx"
+    },
+    {
+      "album": {
+        "name": "J'ai rencontr\u00e9 l'homme de ma vie",
+        "url": "https://open.spotify.com/album/4ZpDyrywSBt5TAMArnPVpX"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250944,
+      "name": "J'ai rencontr\u00e9 l'homme de ma vie",
+      "url": "https://open.spotify.com/track/2udiBn0ELZM1lVh8ExASDT"
     },
     {
       "album": {
@@ -29642,7 +29830,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 160891,
       "name": "Kappa",
       "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
@@ -29740,7 +29928,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 149577,
       "name": "KAT (feat. La Rvfleuze)",
       "url": "https://open.spotify.com/track/4ccQmkote4B1zBjhk9sxFH"
@@ -30534,6 +30722,24 @@
       "duration_ms": 166986,
       "name": "L'amour au temps de la fin des temps",
       "url": "https://open.spotify.com/track/6jMxxm7PXllHakD5C7XVjb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "L'amour est un jeu",
+      "url": "https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa"
     },
     {
       "album": {
@@ -33422,7 +33628,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 160353,
       "name": "Laponie",
       "url": "https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr"
@@ -35785,6 +35991,24 @@
     },
     {
       "album": {
+        "name": "Les joues us\u00e9es",
+        "url": "https://open.spotify.com/album/595WyOfWzcRZKwv88ik3kO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198181,
+      "name": "Les joues us\u00e9es",
+      "url": "https://open.spotify.com/track/3VyPjqDCcayoaFS2vMaSOE"
+    },
+    {
+      "album": {
         "name": "Les jours abandonn\u00e9s",
         "url": "https://open.spotify.com/album/3wLtRuSJAjzoWOuULhCcrk"
       },
@@ -37784,7 +38008,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 162833,
       "name": "L\u00e0-Haut",
       "url": "https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN"
@@ -41894,7 +42118,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 145408,
       "name": "Monnaie",
       "url": "https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7"
@@ -46750,7 +46974,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 179560,
       "name": "particule",
       "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
@@ -48966,7 +49190,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 178200,
       "name": "Plus pareil (feat. Gazo)",
       "url": "https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L"
@@ -51416,7 +51640,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 125575,
       "name": "Quelque chose",
       "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
@@ -52610,7 +52834,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186506,
       "name": "Restes d'averses",
       "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
@@ -54906,6 +55130,24 @@
       "duration_ms": 252213,
       "name": "Sans visage",
       "url": "https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK"
+    },
+    {
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/6Pctlav5tWkidNJ9nOvYiU"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/626vFZjPFRPHnjAha24UKW"
     },
     {
       "album": {
@@ -59266,7 +59508,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 156274,
       "name": "Tana",
       "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
@@ -60996,7 +61238,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 198342,
       "name": "Toujours les vacances",
       "url": "https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM"
@@ -62142,7 +62384,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 178378,
       "name": "Traverser les saisons",
       "url": "https://open.spotify.com/track/41kw7pSz22k3RGmx7MRCzp"
@@ -62364,6 +62606,24 @@
       "duration_ms": 175384,
       "name": "Trompe-l'oeil",
       "url": "https://open.spotify.com/track/1dYcCuAw9dBtc2eGZ490hc"
+    },
+    {
+      "album": {
+        "name": "Trop d'amour",
+        "url": "https://open.spotify.com/album/5IVp8pHVUHEYWpddQDrkzy"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "Trop d'amour",
+      "url": "https://open.spotify.com/track/1T4piDEPs3Bxqd0i0oY3cT"
     },
     {
       "album": {
@@ -63872,7 +64132,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 154106,
       "name": "Un, Dos, Tres",
       "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
@@ -64032,7 +64292,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 159624,
       "name": "Une seconde.",
       "url": "https://open.spotify.com/track/5x435V4iJe3ZPltXMFUpKB"
@@ -64708,7 +64968,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 195163,
       "name": "VHS",
       "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
@@ -64766,6 +65026,28 @@
       "duration_ms": 225441,
       "name": "Vice",
       "url": "https://open.spotify.com/track/1CQw290cl4D8c4di4z6RrW"
+    },
+    {
+      "album": {
+        "name": "Vices & Porcelaine",
+        "url": "https://open.spotify.com/album/1JkKPj8IbapEiE9oUFdcEF"
+      },
+      "artists": [
+        {
+          "name": "Irdens Exantus",
+          "url": "https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz"
+        },
+        {
+          "name": "SHAH FRANK",
+          "url": "https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270857,
+      "name": "Vices & Porcelaine",
+      "url": "https://open.spotify.com/track/0wDx57Ws1FDqx25TQppbAk"
     },
     {
       "album": {
@@ -64980,7 +65262,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 169042,
       "name": "Viens on essaie",
       "url": "https://open.spotify.com/track/5NKn6Ul72uLzdriFTM3fQ3"
@@ -66774,7 +67056,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 142640,
       "name": "Zota (feat. Tayc)",
       "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
@@ -67296,6 +67578,28 @@
       "duration_ms": 236260,
       "name": "\u00c0 quoi tu penses",
       "url": "https://open.spotify.com/track/7tS2TnBWC05xJ0GXLZ9kTD"
+    },
+    {
+      "album": {
+        "name": "\u00c0 quoi \u00e7a sert",
+        "url": "https://open.spotify.com/album/2GWhOoUucN8TIpmKmTaKh9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129444,
+      "name": "\u00c0 quoi \u00e7a sert",
+      "url": "https://open.spotify.com/track/1X1jHwpaEoFSAldrDyg2AO"
     },
     {
       "album": {

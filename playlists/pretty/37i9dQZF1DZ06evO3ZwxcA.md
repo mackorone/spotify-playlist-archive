@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,161 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,181 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 25 | [Find My Way](https://open.spotify.com/track/40B98PoSxtXqU94PlCxKLe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:09 |
 | 26 | [It Can't Rain Everyday \- 2022 Remixed & Remastered](https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:43 |
 | 27 | [BREAKING](https://open.spotify.com/track/7GMVsr90LiDFsNLFCJfsLq) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 4:07 |
-| 28 | [Lion's Roar](https://open.spotify.com/track/2V3AmXmyIKF7OQM663fFuZ) | [DJ Robinson](https://open.spotify.com/artist/4cAAgDtfxIZiIVB7HCwY6D), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Lion's Roar](https://open.spotify.com/album/50m1akjGfPNjl539KbhcSV) | 4:08 |
+| 28 | [Listening For The Silence](https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:51 |
 | 29 | [Change the World \- 2006 Remaster; Warriors EP Version](https://open.spotify.com/track/3Wtl9G9a0EutLyvNXFIwhu) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:03 |
-| 30 | [Listening For The Silence](https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:51 |
+| 30 | [Lion's Roar](https://open.spotify.com/track/2V3AmXmyIKF7OQM663fFuZ) | [DJ Robinson](https://open.spotify.com/artist/4cAAgDtfxIZiIVB7HCwY6D), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Lion's Roar](https://open.spotify.com/album/50m1akjGfPNjl539KbhcSV) | 4:08 |
 | 31 | [Addicted \- 2022 Remixed & Remastered](https://open.spotify.com/track/6lkzA4O1ZrnNR9drGy15Qv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
 | 32 | [Higher](https://open.spotify.com/track/6jlQBh3PNUWRUHsATIfQWU) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:22 |
 | 33 | [School Of Hard Knocks \- 2021 Remaster](https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 49 | [Babylon The Murderer](https://open.spotify.com/track/7MozRmzIvmvsoxLjjOoG9O) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 4:18 |
 | 50 | [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 |
 
-Snapshot ID: `aNsdgAAAAABOO7ON83KdkAFIvpmvauiH`
+Snapshot ID: `aNxvAAAAAAC0Zr6XYfGzM1LuoiBuppBP`

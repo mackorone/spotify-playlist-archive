@@ -8657,6 +8657,28 @@
     },
     {
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX"
       },
@@ -19764,7 +19786,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 110000,
       "name": "Don't hide",
       "url": "https://open.spotify.com/track/7Fva90p0AaA281gnqu0Jbc"
@@ -20042,6 +20064,24 @@
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1"
+    },
+    {
+      "album": {
+        "name": "Supa vs Sligga",
+        "url": "https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7"
+      },
+      "artists": [
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Don\u2019t hide",
+      "url": "https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X"
     },
     {
       "album": {
@@ -28244,7 +28284,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 192133,
       "name": "God Needs The Devil",
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
@@ -36650,7 +36690,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 263198,
       "name": "Impose",
       "url": "https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII"
@@ -38896,7 +38936,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 157733,
       "name": "JoyRide",
       "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK"
@@ -81682,7 +81722,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -86280,7 +86320,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 146058,
       "name": "Yukon x 2 On",
       "url": "https://open.spotify.com/track/4FDlW8TqZOUWi3zLc9HcYO"

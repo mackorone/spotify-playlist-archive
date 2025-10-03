@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: 순정빌런 \(Villain with a Crush\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,077 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,076 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 38 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
 | 39 | [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 |
 | 40 | [STAY THE NIGHT \(Feat\. DeVita\)](https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [STAY THE NIGHT \(She is My Type♡ X GRAY\)](https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v) | 2:55 |
-| 41 | [Red Moon](https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Webtoon <Myst, Might, Mayhem> OST Part\. 1 Red Moon](https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB) | 3:20 |
-| 42 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
+| 41 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN) | 5:06 |
+| 42 | [Red Moon](https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Webtoon <Myst, Might, Mayhem> OST Part\. 1 Red Moon](https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB) | 3:20 |
 | 43 | [Stigmatized](https://open.spotify.com/track/3xGOxUqd1sRIl0gJjUhFwC) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [Webtoon <Myst, Might, Mayhem> OST Part\. 3](https://open.spotify.com/album/307mpujRU3klkpkZVZklSd) | 4:00 |
 | 44 | [True Love](https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [True Love \(Secret Relationships X LEECHANGSUB\)](https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ) | 3:49 |
 | 45 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 75 | [Draw the Moon \(feat\. MIYAVI\)](https://open.spotify.com/track/4B3JCEcAeTofpsfsEianeS) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Webtoon <Myst, Might, Mayhem> OST Part\. 2 Draw the Moon](https://open.spotify.com/album/2dD84O2WUFNCjs963yWsbh) | 3:30 |
 | 76 | [As You Know](https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution \(Original Webtoon Soundtrack\), Pt\. 2](https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c) | 4:00 |
 | 77 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
-| 78 | [Red Fox](https://open.spotify.com/track/5Qp6CGwMYHrYLF52z2jogK) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Animation ‘Red Fox’ \(Original Soundtrack\)](https://open.spotify.com/album/1nJsCpyjioz6Jb3z9aT10M) | 3:03 |
-| 79 | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd) | 4:11 |
+| 78 | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd) | 4:11 |
+| 79 | [Red Fox](https://open.spotify.com/track/5Qp6CGwMYHrYLF52z2jogK) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Animation ‘Red Fox’ \(Original Soundtrack\)](https://open.spotify.com/album/1nJsCpyjioz6Jb3z9aT10M) | 3:03 |
 | 80 | [The Moon Has Passed](https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [The Moon Has Passed \(The Moon during the Day\)](https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx) | 3:46 |
 | 81 | [Hollow Wood](https://open.spotify.com/track/1vJ9O7pcabPA2q6kze1pAH) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4aiCefbVcnbq90DAWD1O3W) | 4:00 |
 | 82 | [Sand Castle](https://open.spotify.com/track/3onn360zmsghT2igHXp4qt) | [Kim Kyung Rok](https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb) | [Love Revolution \(Lee Kyung\-woo Theme\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe) | 3:51 |

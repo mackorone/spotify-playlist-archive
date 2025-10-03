@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: mustbejohn",
+  "description": "Discover your new favourite artists from UK&IE. Cover: 1111",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -884,6 +884,24 @@
       "duration_ms": 327266,
       "name": "Come And See",
       "url": "https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP"
+    },
+    {
+      "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK"
     },
     {
       "album": {
@@ -5886,6 +5904,24 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB"
+    },
+    {
+      "album": {
+        "name": "Wicked & Crisp",
+        "url": "https://open.spotify.com/album/6gOj7SCGjeLMSfK3g6aNtf"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Wicked & Crisp",
+      "url": "https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW"
     },
     {
       "album": {

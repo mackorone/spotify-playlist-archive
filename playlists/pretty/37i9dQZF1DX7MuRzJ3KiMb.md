@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > Los nominados en la mayor celebración de la música latina del 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,968 likes - 157 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,973 likes - 157 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 156 | [Tatomania](https://open.spotify.com/track/2zSqMonr1pOih5JwXsqQnv) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp), [Royal Quartet](https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD) | [Cuba And Beyond](https://open.spotify.com/album/1jDPUPfPkXxPhMBwyGbAHD) | 4:18 |
 | 157 | [Sacred Land](https://open.spotify.com/track/0Vwd6oKz2N5Q5CUiym5LWp) | [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Golden City](https://open.spotify.com/album/3ImAc7ryUkyVwEPrKfO1iQ) | 8:30 |
 
-Snapshot ID: `AAAAAJMFgj5xEG4+FY1dWOUCthPqA7do`
+Snapshot ID: `AAAAAKZHAmaqpAglP8QOtyffbhnkHz0O`

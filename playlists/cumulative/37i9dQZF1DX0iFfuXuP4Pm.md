@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: TJ Monterde
 
-398 songs - 1 day 0 hr 41 min
+400 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2u8JwugJPL5Gv56l3asQj0) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/3ZglfO9QkXmNlZGgcjtEbX) | 3:56 | 2025-04-30 | 2025-07-24 |
 | [Ano Ba Talaga Tayo?](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 | 2025-07-16 |  |
 | [Answer The G](https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [ANSWER THE G](https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA) | 2:48 | 2024-05-24 | 2024-08-29 |
+| [ANTOXIC](https://open.spotify.com/track/5QttlrC4uyjZt15VI4LulN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 4:10 | 2025-10-02 |  |
 | [Anything](https://open.spotify.com/track/03WBX5gPyl2QR6t5J1XM6y) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Anything](https://open.spotify.com/album/0BEehN6MWcTHQBlY12dGPC) | 4:12 | 2024-02-21 | 2024-03-21 |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-21 | 2024-10-03 |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-24 | 2024-03-28 |
@@ -104,6 +105,7 @@
 | [FOOLISHLY](https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA), [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [FOOLISHLY](https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E) | 3:12 | 2024-05-08 | 2024-06-20 |
 | [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-06-20 | 2024-07-12 |
 | [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2024-10-30 | 2024-12-12 |
+| [Gabi\-Gabi](https://open.spotify.com/track/0VD8nNbhZwthMjutmj4O5X) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Gabi\-Gabi](https://open.spotify.com/album/4T6XW4vmK6Zlcw2mP2tNdl) | 4:25 | 2025-10-02 |  |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-06 | 2024-04-24 |
 | [Gayuma](https://open.spotify.com/track/1zKRYkQrnTLs3VrKELEbhh) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Gayuma](https://open.spotify.com/album/1okRQ6xy7kHk6q70FgspVC) | 3:59 | 2025-09-03 |  |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2024-01-24 | 2024-06-27 |

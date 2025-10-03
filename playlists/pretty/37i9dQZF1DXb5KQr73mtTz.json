@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 20014,
+  "num_followers": 20021,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-09-30 06:10:38",
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+    },
+    {
+      "added_at": "2025-09-30 06:10:38",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 287741,
-      "name": "I say \"I love you\" again",
-      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
     },
     {
       "added_at": "2025-09-30 06:10:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-09-30 06:10:38",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2025-09-30 06:10:38",
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2025-09-30 06:10:38",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-30 06:10:38",
       "album": {
-        "name": "Because It's Raining",
-        "url": "https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO"
-      },
-      "artists": [
-        {
-          "name": "LEE HONG GI",
-          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
-        }
-      ],
-      "duration_ms": 265653,
-      "name": "Because It's Raining",
-      "url": "https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
+    },
+    {
+      "added_at": "2025-09-30 06:10:38",
+      "album": {
+        "name": "Because It's Raining",
+        "url": "https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO"
+      },
+      "artists": [
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "duration_ms": 265653,
+      "name": "Because It's Raining",
+      "url": "https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu"
     },
     {
       "added_at": "2025-09-30 06:10:38",

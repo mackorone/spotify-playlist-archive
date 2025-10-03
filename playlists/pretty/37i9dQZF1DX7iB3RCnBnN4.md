@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with over 1 billion streams on Spotify\. Cover: 2Pac
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,975 likes - 1,048 songs - 2 day 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,282 likes - 1,048 songs - 2 day 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1057,4 +1057,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 1047 | [Hello](https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:55 |
 | 1048 | [Another One Bites The Dust](https://open.spotify.com/track/5HkFTCxSeJ3kGNyQJbT4rJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh) | 3:35 |
 
-Snapshot ID: `AAAAAJGGG2KEfkk1jM31nylV3YuwdXnl`
+Snapshot ID: `AAAAAK3gA7/DM4a/X5vAKpz14oVJ8QrI`

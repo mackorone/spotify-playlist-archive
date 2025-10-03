@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 958528,
+  "num_followers": 958732,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAY2N5nZcXL9bGXbb6ly0AZ",
+  "snapshot_id": "aNxvAAAAAADlHMtRqGVnSbeMlx5Qwj8O",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00edderes",
+        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 274946,
+      "name": "Algo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 223186,
       "name": "Wall To Wall",
       "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00edderes",
-        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 274946,
-      "name": "Algo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me Crazy, But...",
-        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 281080,
-      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
-      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back 2 Life",
         "url": "https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 253453,
       "name": "Beat It (feat. Chris Brown & Wiz Khalifa)",
       "url": "https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me Crazy, But...",
+        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 281080,
+      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
+      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201421,
+      "name": "Grass Ain't Greener",
+      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 179410,
       "name": "Whatchamacallit (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201421,
-      "name": "Grass Ain't Greener",
-      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
     },
     {
       "added_at": null,

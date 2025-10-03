@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,880 likes - 66 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,890 likes - 66 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 2 | [Train on the Island](https://open.spotify.com/track/5uI7caUGXYxH6pYhkRxq1z) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 1:44 |
 | 3 | [There Ain't Nobody Gonna Miss Me When I'm Gone](https://open.spotify.com/track/0oDtTPB1KWyVSfwfg434TW) | [The Kentucky Colonels](https://open.spotify.com/artist/5aV6tDnBgmezgCSTvL5HnV) | [Long Journey Home](https://open.spotify.com/album/3ld7W37q9JW9grvpSlDdT8) | 2:51 |
 | 4 | [Foggy Mountain Breakdown](https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Town and Country](https://open.spotify.com/album/5HVcZRoUGq2WdjAKiIARU5) | 2:20 |
-| 5 | [Here old rattler here / Sent for my fiddle sent for my bow \(Sent for my fiddle sent for my son\) / Georgia Buck](https://open.spotify.com/track/1YTx4scjuDF6L12gH9zsWt) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 3:48 |
+| 5 | [Here Old Rattler Here / Sent For My Fiddle Sent For My Bow / George Buck](https://open.spotify.com/track/1YTx4scjuDF6L12gH9zsWt) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 3:48 |
 | 6 | [What Would You Give In Exchange](https://open.spotify.com/track/4HW9cnF8pDl6WgK4g9cfij) | [The Monroe Brothers](https://open.spotify.com/artist/4eaGB6IFAhm0pqXElO5MJZ) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 3:09 |
 | 7 | [Sally Gooden](https://open.spotify.com/track/5VdYenFr9hnB0jTBDzs9NC) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [American Epic: The Collection](https://open.spotify.com/album/73iz4oHKG9ivUHYoQWXifI) | 3:10 |
 | 8 | [Blue Ridge Cabin Home](https://open.spotify.com/track/1Lw8GLJX0va0dCP4UnPICt) | [The Osborne Brothers](https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c) | [Bluegrass Collection](https://open.spotify.com/album/0sNJxbeInhCu3q0xJG8JKc) | 3:10 |

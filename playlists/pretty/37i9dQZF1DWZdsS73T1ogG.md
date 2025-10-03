@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Moffa & Jovaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,507 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,285 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 37 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 |
 | 38 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
 | 39 | [dime tu bb](https://open.spotify.com/track/4G4v8SFiypvlXfCPVG0w2O) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [dime tu bb](https://open.spotify.com/album/4D4oTIQbQgrwIcMKIhFnAH) | 3:33 |
-| 40 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 |
+| 40 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 |
 | 41 | [Undercromo \- W Sound 06](https://open.spotify.com/track/4G1DYPZP4vGWfY2ki1rvjP) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Undercromo \(W Sound 06\)](https://open.spotify.com/album/5pKV8Yy2mMT6yU5xjIodFw) | 3:17 |
 | 42 | [BUTI CALL](https://open.spotify.com/track/3vMV6xw4OfT4oyGVuiLUHu) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BUTI CALL](https://open.spotify.com/album/7m3CPiHqWSyr8vwf7ZoWbK) | 3:31 |
 | 43 | [FORMULA](https://open.spotify.com/track/1NX5Nx8MMpSOL2lyrJhunt) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [FORMULA](https://open.spotify.com/album/08E2xjg3wxBNiG53ca1q8b) | 3:00 |

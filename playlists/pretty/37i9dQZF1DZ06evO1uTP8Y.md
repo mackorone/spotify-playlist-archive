@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,105 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,115 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 28 | [Water](https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:21 |
 | 29 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 30 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
-| 31 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
+| 31 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
 | 32 | [Too Fine](https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Too Fine](https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ) | 2:40 |
 | 33 | [Nothing On You](https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [A Good Life \(Deluxe\)](https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy) | 3:45 |
 | 34 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
-| 35 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
+| 35 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
 | 36 | [Fall In Love \[Remix\] \(feat\. JayO & Odeal\)](https://open.spotify.com/track/4TesJtMLVtyHb9Xk0km8bG) | [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Fall In Love \[Remix\] \(feat\. JayO & Odeal\)](https://open.spotify.com/album/244Z5c1N9pxNszkKkNWcyQ) | 3:06 |
 | 37 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
 | 38 | [Kainji Dam](https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Kainji Dam](https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF) | 2:54 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 40 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
 | 41 | [Composure 2](https://open.spotify.com/track/4y3bKF7WJdpJc5Xp1dsYDB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 3:04 |
 | 42 | [On & On](https://open.spotify.com/track/4cHS3iwBUgwxvqxmXJLF2M) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/1IMJ0uxEzNCCRAA1F25DZu) | 3:17 |
-| 43 | [Twenny\-Nine After Two](https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 2:45 |
-| 44 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 |
+| 43 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 |
+| 44 | [Twenny\-Nine After Two](https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 2:45 |
 | 45 | [Benzimma](https://open.spotify.com/track/1vGkLLtRHyRYYPkkJ6xAQx) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 3:06 |
 | 46 | [Karma](https://open.spotify.com/track/7v7YYdxFBodag2pewkvBkX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Karma](https://open.spotify.com/album/1LKp2QTO5E0oEAj6Y5FkcG) | 2:31 |
-| 47 | [Na You](https://open.spotify.com/track/2X61NkgiKmrZz1c2WHSieA) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Marzi](https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY) | [Na You](https://open.spotify.com/album/4wV1PM9TN583HAak6iCIQX) | 3:30 |
-| 48 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 |
+| 47 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 |
+| 48 | [Na You](https://open.spotify.com/track/2X61NkgiKmrZz1c2WHSieA) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Marzi](https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY) | [Na You](https://open.spotify.com/album/4wV1PM9TN583HAak6iCIQX) | 3:30 |
 | 49 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
 | 50 | [Drain Me](https://open.spotify.com/track/1ZxpRu9EYQe3T2Ry9ffaTH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:28 |
 
-Snapshot ID: `aNsdgAAAAAAV0YEHsJyK9APPyFTnasHp`
+Snapshot ID: `aNxvAAAAAADIfPF7IHF2+zib+ICU2+uZ`

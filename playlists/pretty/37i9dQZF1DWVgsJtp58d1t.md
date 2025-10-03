@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:3jk39CGeaaSO3FPKNx1RUx">Syd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,222 likes - 155 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,999 likes - 155 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 37 | [CHANCE](https://open.spotify.com/track/6kxvzDYbvouloexwNRw3Mn) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Archivos Eladio Vol\. 3](https://open.spotify.com/album/3g4IXatjv58bXDAEcqlMs2) | 2:33 |
 | 38 | [NO HAY BREAK \(feat\. Omah Lay\)](https://open.spotify.com/track/3SidxlqZdO4wtPvrTaDBin) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:06 |
 | 39 | [Hood](https://open.spotify.com/track/5R84t38MTCXjDkSS6H61LB) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Hood](https://open.spotify.com/album/7noqqWV3xwEJZ6snE7AGhL) | 2:18 |
-| 40 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 |
+| 40 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 |
 | 41 | [4LIFE](https://open.spotify.com/track/0we0zgeUB9ARtEYfFcBhGp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:32 |
 | 42 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
 | 43 | [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 |

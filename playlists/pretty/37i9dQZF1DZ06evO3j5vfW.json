@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72325,
+  "num_followers": 72326,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABch+1nREDQ4dZQlz14G3Iy",
+  "snapshot_id": "aNxvAAAAAAAZkobltaxYYoMvL/m+TRD8",
   "tracks": [
     {
       "added_at": null,
@@ -311,30 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now I See You",
         "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 167336,
       "name": "Now I See You",
       "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rave Music",
-        "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Rave Music",
-      "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Summer Nights",
         "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 158671,
       "name": "Hot Summer Nights",
       "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rave Music",
+        "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Rave Music",
+      "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 169404,
       "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
       "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -1043,30 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
-        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 187380,
-      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 187380,
+      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
     },
     {
       "added_at": null,

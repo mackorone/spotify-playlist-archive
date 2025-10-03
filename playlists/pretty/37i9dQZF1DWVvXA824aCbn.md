@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,298 likes - 350 songs - 20 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,178 likes - 350 songs - 20 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 38 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 |
 | 39 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 |
 | 40 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 |
-| 41 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
+| 41 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 |
 | 42 | [To the Moon and Back](https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [To the Moon and Back](https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN) | 3:27 |
 | 43 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 |
 | 44 | [Goodnight Stars](https://open.spotify.com/track/1Slo0ZndpylaWimyGL3D7c) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Goodnight Stars](https://open.spotify.com/album/65dtgj3af8nbEyLEQFtSFJ) | 3:13 |
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 169 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
 | 170 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
 | 171 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 |
-| 172 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
+| 172 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
 | 173 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 |
 | 174 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 |
 | 175 | [Folks Who Live On A Hill](https://open.spotify.com/track/1ru7NWfCenX6fVBVsFDL2H) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Folks Who Live On A Hill](https://open.spotify.com/album/1IF41zl5fyrhULy8DysZBK) | 3:49 |
@@ -221,7 +221,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 211 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 |
 | 212 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 |
 | 213 | [Epiphany](https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Epiphany](https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV) | 3:27 |
-| 214 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
+| 214 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 |
 | 215 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 |
 | 216 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 |
 | 217 | [Margaret Dances](https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:30 |

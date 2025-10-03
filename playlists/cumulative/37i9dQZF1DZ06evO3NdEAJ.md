@@ -4,7 +4,7 @@
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 29 min
+91 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,10 @@
 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2024-08-08 | 2024-10-08 |
 | [Quién Mejor Que Tú](https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Díselo Con Sax](https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj) | 2:55 | 2024-08-08 | 2025-03-30 |
 | [Qué Bonito Me Quieres](https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bonito Me Quieres](https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4) | 2:54 | 2024-08-08 | 2024-11-25 |
+| [Qué Bueno](https://open.spotify.com/track/2EzbDeeupuIGDUWb7rB92D) | [La Cultura Norteña](https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bueno](https://open.spotify.com/album/7HOt4qsVcjMDIjF01YQsPw) | 3:09 | 2025-10-03 |  |
 | [ROBOT](https://open.spotify.com/track/13xTFlHxWacBxVG3NBAXJC) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [ROBOT](https://open.spotify.com/album/1ffcgZehqaCzpuu85BHshW) | 2:20 | 2024-11-09 | 2025-06-08 |
 | [Selfie](https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:52 | 2025-04-06 |  |
-| [Si Aún Pudieras Venir](https://open.spotify.com/track/4GYDxV6VEjQVrHBCSUlduV) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Aún Pudieras Venir](https://open.spotify.com/album/5e45yQZEaw6OeJyd9bjcf4) | 2:42 | 2024-08-08 |  |
+| [Si Aún Pudieras Venir](https://open.spotify.com/track/4GYDxV6VEjQVrHBCSUlduV) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Aún Pudieras Venir](https://open.spotify.com/album/5e45yQZEaw6OeJyd9bjcf4) | 2:42 | 2024-08-08 | 2025-10-03 |
 | [Si Llegan a Enterarse](https://open.spotify.com/track/235uSINaGqneZry2vVXtx0) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:40 | 2024-08-08 |  |
 | [Si Nos Tenemos](https://open.spotify.com/track/7rTiu4B2mEDq8zFKne2VSG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Nos Tenemos](https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh) | 2:23 | 2025-02-09 |  |
 | [Si Te Quedas Conmigo](https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Te Quedas Conmigo](https://open.spotify.com/album/2cjosNmIhyNdX5ZVkpLRFP) | 2:16 | 2024-08-17 |  |

@@ -6849,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Endless Skies",
+        "url": "https://open.spotify.com/album/1IvcMfkozxBesZRKG86IbK"
+      },
+      "artists": [
+        {
+          "name": "attic pulse",
+          "url": "https://open.spotify.com/artist/6zjF5NnzTTXu8r4PLKkmnz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Endless Skies",
+      "url": "https://open.spotify.com/track/1veBoFtFcsuAX44D1GRHyU"
+    },
+    {
+      "album": {
         "name": "Enfants",
         "url": "https://open.spotify.com/album/5HBN89I5P7Huc8YFGEHPBh"
       },
@@ -24600,6 +24618,24 @@
       "duration_ms": 215250,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/1eGYvOvJfwKg7ua90ynBei"
+    },
+    {
+      "album": {
+        "name": "Unreachable",
+        "url": "https://open.spotify.com/album/2U3XIbR7gUgRnQQZJ68d9o"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Unreachable",
+      "url": "https://open.spotify.com/track/1ZJf99SCDgvPmc5y5bFlaJ"
     },
     {
       "album": {

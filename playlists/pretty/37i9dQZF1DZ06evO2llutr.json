@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 611794,
+  "num_followers": 612067,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAjw47bGx98yCoSlK6Ja4eq",
+  "snapshot_id": "aNxvAAAAAACv1wevhVZ9pP5ggN4wkhgy",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/1kga1HtTWs6Jv6kTKieN6m"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/1kga1HtTWs6Jv6kTKieN6m"
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Miss",
-        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 189729,
-      "name": "Dear Miss",
-      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
+      "duration_ms": 190780,
+      "name": "Heavy Eyes",
+      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Dear Miss",
+        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 190780,
-      "name": "Heavy Eyes",
-      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
+      "duration_ms": 189729,
+      "name": "Dear Miss",
+      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 239761,
+      "name": "Letting Someone Go",
+      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 239761,
-      "name": "Letting Someone Go",
-      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
     },
     {
       "added_at": null,

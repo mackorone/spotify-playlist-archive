@@ -1,13 +1,33 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Fulana",
-  "num_followers": 166201,
+  "num_followers": 166198,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0tAGnJ4J0M3mBI8/3UwyLpJcOt",
+  "snapshot_id": "AAAAAAphxLmBXoJP+3u0AJRX+A6rpj8B",
   "tracks": [
+    {
+      "added_at": "2025-10-02 09:39:26",
+      "album": {
+        "name": "ya sirri",
+        "url": "https://open.spotify.com/album/5xzNDEQHzMiI3xFN6lt7RQ"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        },
+        {
+          "name": "Input/Output",
+          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "ya sirri",
+      "url": "https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy"
+    },
     {
       "added_at": "2025-08-08 13:23:23",
       "album": {
@@ -27,22 +47,6 @@
     {
       "added_at": "2025-08-08 13:23:23",
       "album": {
-        "name": "It Ain't Over",
-        "url": "https://open.spotify.com/album/7gpDMk7srT362mFiFsOCPY"
-      },
-      "artists": [
-        {
-          "name": "Mabelle",
-          "url": "https://open.spotify.com/artist/38vXgby5lmtH58BCzodF3z"
-        }
-      ],
-      "duration_ms": 142344,
-      "name": "It Ain't Over",
-      "url": "https://open.spotify.com/track/1HDMb8Yku3jIMMSH81PT4W"
-    },
-    {
-      "added_at": "2025-08-08 13:23:23",
-      "album": {
         "name": "Beaucoup",
         "url": "https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3"
       },
@@ -55,6 +59,22 @@
       "duration_ms": 193324,
       "name": "Beaucoup",
       "url": "https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E"
+    },
+    {
+      "added_at": "2025-10-02 09:39:26",
+      "album": {
+        "name": "Butter II",
+        "url": "https://open.spotify.com/album/5Yj8eDOb1zGxatLjpi8611"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/4r2UrMXc7NVIhYvTeA3eiS"
     },
     {
       "added_at": "2025-08-08 13:23:23",
@@ -879,22 +899,6 @@
       "duration_ms": 217731,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko"
-    },
-    {
-      "added_at": "2025-08-08 13:23:23",
-      "album": {
-        "name": "Outro",
-        "url": "https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH"
-      },
-      "artists": [
-        {
-          "name": "Debani",
-          "url": "https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0"
     }
   ],
   "unique_name": "Arab X",

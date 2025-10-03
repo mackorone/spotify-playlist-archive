@@ -2,9 +2,9 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Grüezi! This is 100% made in Switzerland\.  Cover: Joya Marleen
+> Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-413 songs - 21 hr 16 min
+414 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,8 +190,9 @@
 | [I'll Be Your Friend](https://open.spotify.com/track/0Enw0kKRv5usctzvsLgJwf) | [Hank](https://open.spotify.com/artist/30KcNZSAKyalQyeWQh12sb) | [These Days](https://open.spotify.com/album/3iQT7K89q1032k709Lz7MQ) | 3:22 | 2025-04-17 | 2025-04-25 |
 | [I'll Never Tire of Loving You](https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [I'll Never Tire of Loving You](https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R) | 2:46 | 2024-12-20 | 2025-02-09 |
 | [i'm sry i love u](https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [i'm sry i love u](https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm) | 3:15 | 2024-07-04 | 2024-08-14 |
+| [I've Got Everything](https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [I've Got Everything](https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F) | 3:01 | 2025-10-02 |  |
 | [If You Call](https://open.spotify.com/track/5tdBQ0p32owQEMryTSaP1w) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [If You Call](https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol) | 2:25 | 2024-06-27 | 2024-07-05 |
-| [If You Don't Know](https://open.spotify.com/track/28ioSzI3RJhjSikfQywNyX) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [If You Don't Know](https://open.spotify.com/album/6d1TpS1Mcy3xNDF8MDS09d) | 3:06 | 2025-09-12 | 2025-09-26 |
+| [If You Don't Know](https://open.spotify.com/track/28ioSzI3RJhjSikfQywNyX) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [If You Don't Know](https://open.spotify.com/album/6d1TpS1Mcy3xNDF8MDS09d) | 3:06 | 2025-09-12 |  |
 | [Ig o](https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Ig o](https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci) | 2:42 | 2024-10-03 | 2024-11-02 |
 | [Ignite](https://open.spotify.com/track/6dbsYY5IKAFKaeDJcVMQ1H) | [Heera](https://open.spotify.com/artist/4Ro4i94o18T58NuWW5lKHq) | [Growth](https://open.spotify.com/album/5no2A5bF1UgWZuVrV1dSEo) | 3:31 | 2025-04-17 | 2025-04-25 |
 | [In Case I Fall for You](https://open.spotify.com/track/2qz7KoWTLGuWuIfwqZmk4y) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [White Creatures](https://open.spotify.com/album/268yXVSyVaHmdualmsd1Ve) | 5:04 | 2025-05-01 |  |
@@ -210,7 +211,7 @@
 | [Kennsch mi no oder liebsch mi scho..?!](https://open.spotify.com/track/0FIAV40GRBbTfPyEFl93Vd) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Neui Wält](https://open.spotify.com/album/5sZkARdLSVWdhrOTjAoL42) | 2:41 | 2025-04-17 | 2025-04-25 |
 | [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-06-27 | 2024-10-04 |
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
-| [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 | 2025-02-14 |  |
+| [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 | 2025-02-14 | 2025-10-03 |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [La Bambele](https://open.spotify.com/track/1UB7rmiUlZEpA7EKLWFoG0) | [Müslüm](https://open.spotify.com/artist/30n84qoTYUcib1cU4WJj9h) | [Apochalüpt](https://open.spotify.com/album/3eIqmJS11sy0lZCtAvFa9M) | 3:10 | 2025-05-08 | 2025-05-16 |
 | [Lakers](https://open.spotify.com/track/0351Q9c4ETLOlr34NGQyEN) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 3:23 | 2025-04-24 | 2025-05-02 |
@@ -418,7 +419,7 @@
 | [You You You](https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [June](https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ) | 2:41 | 2025-06-13 | 2025-07-19 |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |
 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 | 2024-10-16 |
-| [Zweiazwenzgi](https://open.spotify.com/track/62fsYBNcYg9jGxF4Yk1Iqq) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Elektrisch](https://open.spotify.com/album/06wUSPaMKIR0Snp3UwaOL8) | 3:26 | 2025-06-26 |  |
+| [Zweiazwenzgi](https://open.spotify.com/track/62fsYBNcYg9jGxF4Yk1Iqq) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Elektrisch](https://open.spotify.com/album/06wUSPaMKIR0Snp3UwaOL8) | 3:26 | 2025-06-26 | 2025-10-03 |
 | [Zweni](https://open.spotify.com/track/5t583ypah1rOexls7zRRVJ) | [Sophie](https://open.spotify.com/artist/3fk0aODXAMActCwbdl2odS), [Pit](https://open.spotify.com/artist/4U4ogvgnnLjJ6z9pgbyPQM) | [M.R.X.](https://open.spotify.com/album/1tDRKqqqOaKDfliDY8pWwn) | 3:03 | 2025-04-24 | 2025-05-02 |
 | [À Deux](https://open.spotify.com/track/4nLzsm83c3LkNJpr7jF7uW) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [À Deux](https://open.spotify.com/album/1DMDYEPsE4C2cIviqG7PES) | 2:22 | 2025-05-22 | 2025-06-14 |
 

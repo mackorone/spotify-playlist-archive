@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: CMAT",
+  "description": "New tunes from Ireland for your discovery. Cover: MOIO",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -272,10 +272,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 242934,
       "name": "America",
       "url": "https://open.spotify.com/track/1wXwI22n1ggbJxF4EAtqCg"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6UMpXEtCJyCNgDHqOyY7kx"
+      },
+      "artists": [
+        {
+          "name": "Anthony Layde",
+          "url": "https://open.spotify.com/artist/0yqNBd8uKaCUmtT23hztRM"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220352,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/5jrhDvQuihrF1CNg50Sh9O"
     },
     {
       "album": {
@@ -913,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/4kuTVqDgXQWUL6CT9qgyWM"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/5hwgONxCmTsitmDlFQ7eLc"
+    },
+    {
+      "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/4V00XikMTXCECrqiVyJF6U"
       },
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 98400,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/15t2iqFhnbDl9zgggMlpam"
@@ -2537,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Going Anywhere",
+        "url": "https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246469,
+      "name": "I'm Not Going Anywhere",
+      "url": "https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr"
+    },
+    {
+      "album": {
         "name": "I've Arrived (with Tomike)",
         "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
       },
@@ -2588,7 +2642,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 200230,
       "name": "if only i knew",
       "url": "https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G"
@@ -3787,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/7AeWUGyvrjLk3WZGHdj6Zh"
+      },
+      "artists": [
+        {
+          "name": "Altara",
+          "url": "https://open.spotify.com/artist/60SmuayMgvIsng1H1KrXwj"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222565,
+      "name": "NOSTALGIA",
+      "url": "https://open.spotify.com/track/09syOnhRbYfMn3tXAIGdsl"
+    },
+    {
+      "album": {
         "name": "not hanging around",
         "url": "https://open.spotify.com/album/6jLqApihEstPa84vOxUIoW"
       },
@@ -4227,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "PLAY HARD!",
+      "url": "https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7"
+    },
+    {
+      "album": {
         "name": "Playground",
         "url": "https://open.spotify.com/album/1xlB4pdoiTU5CYGHBbmxMm"
       },
@@ -4508,7 +4598,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 163669,
       "name": "ROUGH",
       "url": "https://open.spotify.com/track/6fTshwPBLq7F1qfMGVrNT1"
@@ -5580,7 +5670,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 118933,
       "name": "Too Many Women (feat. kwn)",
       "url": "https://open.spotify.com/track/27phUMXA53CLokQgatsJaz"

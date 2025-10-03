@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37700,
+  "num_followers": 37708,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAC7WN44y46YKYEynoTJMqr9",
+  "snapshot_id": "aNxvAAAAAABkJBlzr6ASyhgjm84LdNUb",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As a matter of fact",
+        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 144581,
+      "name": "As a matter of fact",
+      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Stoppin' Us",
         "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As a matter of fact",
-        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 144581,
-      "name": "As a matter of fact",
-      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
@@ -927,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 259626,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     }
   ],
   "unique_name": "This Is Babyface",

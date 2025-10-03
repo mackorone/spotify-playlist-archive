@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,207 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,231 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 49 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 |
 | 50 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 |
 | 51 | [Tea For Two](https://open.spotify.com/track/4QCeCWQEe2kwOm9iOmnVp2) | [Lance Marlone](https://open.spotify.com/artist/291NBS5jNCsTdGUB7bQB89) | [Stars Fell On Alabama](https://open.spotify.com/album/7AtzEC8KJjk44m2F5GyRKp) | 4:02 |
-| 52 | [I Fall in Love Too Easily](https://open.spotify.com/track/0QE7ySqgO2avCdNqOVMOIt) | [Leonard Byrd](https://open.spotify.com/artist/5mam1rYTnivk52nuPetCHK) | [I Fall in Love Too Easily](https://open.spotify.com/album/1P70rEW0GqqZFYHFJshx9f) | 2:48 |
+| 52 | [I Fall in Love Too Easily](https://open.spotify.com/track/0QE7ySqgO2avCdNqOVMOIt) | [Lauro Byrd](https://open.spotify.com/artist/4DE1dNmVjoLZRrLBSViaZ0) | [I Fall in Love Too Easily](https://open.spotify.com/album/1P70rEW0GqqZFYHFJshx9f) | 2:48 |
 | 53 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
 | 54 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 |
 | 55 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 |

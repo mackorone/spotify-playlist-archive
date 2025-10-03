@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N"
+    },
+    {
+      "album": {
         "name": "GRADIENT (Deluxe)",
         "url": "https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM"
       },

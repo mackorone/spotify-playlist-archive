@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 345579,
+  "num_followers": 345604,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 252293,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 196360,
       "name": "Nada Valgo Sin Tu Amor",
       "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "La Vida Es Un Ratico",
         "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 192613,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -759,8 +759,8 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+        "name": "Silueta",
+        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+      "duration_ms": 256706,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -847,8 +847,8 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Silueta",
-        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 256706,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "\u00c9 Por Amor",
-        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Diez",
         "url": "https://open.spotify.com/album/2WPsS9UReZyJQNOeJmka5A"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 218520,
       "name": "Estoy Hecho De Pedacitos De Ti",
       "url": "https://open.spotify.com/track/476qF2YsjlF2pBNgbn0Q4E"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "\u00c9 Por Amor",
+        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
+        "name": "Amar es Combatir",
+        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "El Rey Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
-        "name": "Amar es Combatir",
-        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "El Rey Tibur\u00f3n",
-      "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
     },
     {
       "added_at": "2025-09-19 03:00:12",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-19 03:00:12",
       "album": {
-        "name": "Ya No Vuelvas",
-        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 144491,
-      "name": "Ya No Vuelvas",
-      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
-    },
-    {
-      "added_at": "2025-09-19 03:00:12",
-      "album": {
         "name": "Six Pack: Man\u00e1 - EP",
         "url": "https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
+    },
+    {
+      "added_at": "2025-09-19 03:00:12",
+      "album": {
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 144491,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
     },
     {
       "added_at": "2025-09-19 03:00:12",

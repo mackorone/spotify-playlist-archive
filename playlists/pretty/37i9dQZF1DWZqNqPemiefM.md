@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,883 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,891 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 99 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 100 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
 
-Snapshot ID: `AAAAACS8VDlaGvw1bQ9pYFvIRLBFW+hk`
+Snapshot ID: `AAAAAMGi85z/lTdkmwEycV7ll1YBFMnm`

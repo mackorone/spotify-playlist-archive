@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,068 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,508 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 37 | [En La Cuerda Floja](https://open.spotify.com/track/5iGiTJHHmVFfMd2Dzj0R4b) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [En La Cuerda Floja](https://open.spotify.com/album/5yi66bOE8QnLdYuX3z70Ot) | 2:16 |
 | 38 | [MI PROPIO JEFE](https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MI PROPIO JEFE](https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh) | 3:30 |
 | 39 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 |
-| 40 | [3:16](https://open.spotify.com/track/0dlVLgkprztHG5DYR2Dg3o) | [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Emba On The Track](https://open.spotify.com/artist/5CgrHUGYAHxRqywgI437HO), [El Codigo Kirkao](https://open.spotify.com/artist/6kA65euBMiB9byVyLbfVDq), [At’ Fat](https://open.spotify.com/artist/2bUi2JeuBbul1I45fXOfEm) | [3:16](https://open.spotify.com/album/2Dg5c9x8pU0knsdn7J9goi) | 3:14 |
+| 40 | [3:16](https://open.spotify.com/track/0dlVLgkprztHG5DYR2Dg3o) | [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Emba On The Track](https://open.spotify.com/artist/5CgrHUGYAHxRqywgI437HO), [El Codigo Kirkao](https://open.spotify.com/artist/6kA65euBMiB9byVyLbfVDq), [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7) | [3:16](https://open.spotify.com/album/2Dg5c9x8pU0knsdn7J9goi) | 3:14 |
 | 41 | [Chavos y Cone](https://open.spotify.com/track/5o6mcB5LSCiYhBARYDjVXE) | [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd) | [Chavos y Cone](https://open.spotify.com/album/2TpB71lzsLXD42OQp8Nnz2) | 3:42 |
 | 42 | [com você](https://open.spotify.com/track/2UJsRfzFkeNtDncKvFDXr0) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [com você](https://open.spotify.com/album/2BuF1d5TBvEiD83KxRkeRR) | 2:34 |
 | 43 | [RUMORES DE GUERRA](https://open.spotify.com/track/1ckJ9dHXwkARIrqungbqBZ) | [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [RUMORES DE GUERRA](https://open.spotify.com/album/0mcnBWwaysQuAKPuTp5EAO) | 2:38 |

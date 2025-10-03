@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-114 songs - 6 hr 8 min
+115 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,5 +122,6 @@
 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |
 | [집콕](https://open.spotify.com/track/13Uc2oj4Tbzo3WT4ESAZ1b) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [Stage](https://open.spotify.com/album/0CwkRRIj7uV2cVaXufndNN) | 2:39 | 2025-06-04 |  |
 | [퇴근송](https://open.spotify.com/track/3ng50xRbD3N6DQ4spEV95u) | [Mozzi Melody](https://open.spotify.com/artist/3lS7ikkk4ZZPpq2K2gbTCv), [서다람](https://open.spotify.com/artist/4LilDDUso3RAK8xYxOoDWB) | [퇴근송](https://open.spotify.com/album/2xxlleJJyP8gWA2wHhZ7tp) | 3:12 | 2025-04-30 |  |
+| [홈캉스 \(Homecance\)](https://open.spotify.com/track/6ihXZWFoIiysmZcCaVpTAm) | [Jang Wooyoung](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [I'm into](https://open.spotify.com/album/4dqPFaOROskhuDh56ZFCRY) | 3:20 | 2025-10-02 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

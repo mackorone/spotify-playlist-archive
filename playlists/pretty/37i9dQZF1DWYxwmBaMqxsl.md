@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,048 likes - 205 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,053 likes - 205 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 22 | ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 |
 | 23 | [Slow Paced](https://open.spotify.com/track/3dXvGcZYtBLSX9xnzRSthU) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Slow Paced](https://open.spotify.com/album/0ZMvA4uDL6bhxbEXAPPobh) | 3:09 |
 | 24 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 |
-| 25 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
+| 25 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
 | 26 | [An Evening In Vienna](https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [An Evening In Vienna](https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr) | 3:04 |
 | 27 | [I Know Why \(And So Do You\)](https://open.spotify.com/track/3DsIu9DB0AZufrQHR4yJKL) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:47 |
 | 28 | [Crestfallen](https://open.spotify.com/track/2hMC0mu9GmXSqNDC1RmkYR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Crestfallen](https://open.spotify.com/album/66MHp6vMZ2jVzeyFLE3WgU) | 4:28 |

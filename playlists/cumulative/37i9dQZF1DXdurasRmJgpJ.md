@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-440 songs - 1 day 1 hr 48 min
+441 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-12-12 |  |
 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 | 2023-12-12 | 2024-01-05 |
 | [Nukui](https://open.spotify.com/track/4WzotMbiarPo9fnLs54fIF) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [Nukui](https://open.spotify.com/album/6gqQ7JZUsWmYl9OxU8gHzZ) | 3:50 | 2024-08-07 | 2024-10-02 |
+| [Numbers Ur Zone](https://open.spotify.com/track/4gKyKGU7VdyE1ZhFhfg6J0) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Numbers Ur Zone](https://open.spotify.com/album/2UZ6xQ2NDvRAl5MvLW5wy4) | 2:34 | 2025-10-03 |  |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2023-12-12 | 2024-03-27 |
 | [O.O](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 | 2024-01-15 | 2024-04-19 |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-01 | 2024-09-27 |
@@ -263,7 +264,7 @@
 | [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 | 2025-07-07 | 2025-08-08 |
 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 | 2024-11-08 | 2025-07-21 |
 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 | 2024-01-22 | 2024-02-28 |
-| [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 | 2025-08-29 |  |
+| [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 | 2025-08-29 | 2025-10-03 |
 | [かがみ](https://open.spotify.com/track/5v3YxF6DcQswRs2vNnT8BJ) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [かがみ](https://open.spotify.com/album/4HrT7OR0PoaJGZrqJkDCKQ) | 4:14 | 2025-03-08 | 2025-05-04 |
 | [がらくた \- JUNK](https://open.spotify.com/track/3KBlutfYq0kxQWl2P9t4Ht) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [がらくた \- JUNK](https://open.spotify.com/album/3wIUPMiiPL8foXfJjddZvP) | 3:57 | 2024-09-06 | 2024-10-02 |
 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 | 2023-12-12 | 2024-01-05 |

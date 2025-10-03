@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 69932,
+  "num_followers": 69965,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -487,30 +487,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
-        "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 127706,
-      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
-      "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Saint-Sa\u00ebns, Ravel & Gershwin: Piano Concertos",
         "url": "https://open.spotify.com/album/6VSsWHlosgJ4sVTJxir9ve"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 563960,
       "name": "Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai",
       "url": "https://open.spotify.com/track/290yNtxtichwwjU8n7NEGm"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
+        "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
+      "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
         "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 181506,
       "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
       "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2025-09-15 14:00:14",

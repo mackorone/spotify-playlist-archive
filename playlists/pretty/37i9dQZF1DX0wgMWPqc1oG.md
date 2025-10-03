@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,595 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,617 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 49 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
 | 50 | [Siete Ocho \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Judgment \(Remastered 2003 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f) | 8:58 |
 | 51 | [Margot](https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 3:42 |
-| 52 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
-| 53 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
-| 54 | [Hand Jive](https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 8:54 |
+| 52 | [Hand Jive](https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 8:54 |
+| 53 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
+| 54 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
 | 55 | [Head Start \- Rudy Van Gelder Edition / 2006 Digital Remaster](https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Happenings](https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi) | 5:14 |
 | 56 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
 | 57 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |

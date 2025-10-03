@@ -2,9 +2,9 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek: RAYE \(cover\), Son Mieux en Oasis
+> Nieuwe tijdloze muziek: The Indien & Marcel van Veenendaal \(cover\), RAYE, Olivia Dean en meer
 
-734 songs - 1 day 18 hr 50 min
+737 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 | 2024-10-22 | 2025-02-28 |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-04-24 | 2025-09-19 |
 | [Don't Let Me Go](https://open.spotify.com/track/7cnPWKugkvngck0zKReuW8) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Don't Let Me Go](https://open.spotify.com/album/7a9CySuWBrCloiW8XC2aa1) | 2:54 | 2023-02-23 | 2023-06-02 |
+| [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 | 2025-10-02 |  |
 | [Don't Walk Away](https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Don't Walk Away](https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of) | 3:23 | 2023-03-09 | 2023-07-15 |
 | [Don't Walk Away](https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 4:22 | 2024-04-04 | 2024-06-28 |
 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 | 2023-02-23 | 2023-07-21 |
@@ -221,7 +222,7 @@
 | [Give or Take a Few](https://open.spotify.com/track/5FzCz6sNG38TC722559eAl) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Give or Take a Few](https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn) | 3:33 | 2024-12-20 | 2025-02-28 |
 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2024-07-01 | 2024-11-29 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 | 2025-04-11 | 2025-06-14 |
-| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 |  |
+| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-10-03 |
 | [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 | 2025-07-01 |  |
 | [Goldmine](https://open.spotify.com/track/56Fmxl7Tnyz7kcytNDmxF3) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Goldmine](https://open.spotify.com/album/2iKWtdsNJE2IBNXAWPvbWa) | 3:15 | 2023-02-23 | 2023-03-18 |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2024-11-14 | 2025-01-24 |
@@ -276,10 +277,11 @@
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-25 | 2024-07-05 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-05 | 2024-04-19 |
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2024-11-12 | 2025-04-18 |
-| [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 | 2025-04-24 |  |
+| [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 | 2025-04-24 | 2025-10-03 |
 | [Hopes Up High](https://open.spotify.com/track/5mIx6DqNDX5g7Ms29tCQAB) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Hopes Up High](https://open.spotify.com/album/7yvTMWbeey4t2c1PenHJPU) | 2:43 | 2024-06-20 | 2024-11-15 |
 | [Hot Stuff](https://open.spotify.com/track/3IP5E8pxMDhLSGtjwV2y8C) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Hot Stuff](https://open.spotify.com/album/31bKsiZ9ydgT6yhh2q5GfY) | 3:19 | 2023-03-24 | 2023-08-04 |
 | [House of Bones](https://open.spotify.com/track/5CCZF5sZ8q08ehBckPxQ3W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [House of Bones](https://open.spotify.com/album/4N0ToZAG8KoYHYquWpSRJD) | 2:21 | 2024-07-11 | 2024-10-11 |
+| [How Am I Gonna Love Myself](https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB) | 3:17 | 2025-10-02 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-02-23 | 2023-04-14 |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-01-23 | 2025-06-14 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 | 2023-05-18 | 2023-08-25 |
@@ -726,6 +728,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-20 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-18 | 2023-10-21 |
 | [Without You](https://open.spotify.com/track/3j6iEMMDEiecOAM4jJj9Hc) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Without You](https://open.spotify.com/album/0yMS3wofwmfOilZBlrdhBD) | 2:57 | 2025-09-30 |  |
+| [Won't You Be My Baby](https://open.spotify.com/track/4uqikSbQ5wADuWAoKvENkf) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Won't You Be My Baby](https://open.spotify.com/album/7L9U3kOuwevEol2baGIVjy) | 2:47 | 2025-10-02 |  |
 | [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 | 2024-09-08 | 2025-02-18 |
 | [Wonderwall \(Live from Dublin, 16 August '25\)](https://open.spotify.com/track/7Cc2oIT12kip9Bn1vcI232) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall \(Live from Dublin, 16 August '25\)](https://open.spotify.com/album/12HZ8XQPpDmf6G8Axa85Gj) | 4:21 | 2025-09-08 |  |
 | [World On Fire](https://open.spotify.com/track/7CxAGUICNbA8GQixb6bQNN) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:18 | 2023-09-21 | 2024-01-26 |
@@ -735,7 +738,7 @@
 | [You Are You](https://open.spotify.com/track/2gsqXY6cxyCAJ7TiM3oyxW) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 2:58 | 2023-04-06 | 2023-07-28 |
 | [You Are You](https://open.spotify.com/track/5v4NehPFLOhNRdK9T463Ux) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are You](https://open.spotify.com/album/5Fj9XdRrQutK1HfVKFXBPf) | 2:58 | 2023-03-24 | 2023-04-02 |
 | [You Are You](https://open.spotify.com/track/6f7zE48DUi32fhJnND4caO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 2:58 | 2023-03-30 | 2023-04-09 |
-| [You Got Me Hurt](https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt](https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI) | 3:29 | 2025-05-15 |  |
+| [You Got Me Hurt](https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt](https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI) | 3:29 | 2025-05-15 | 2025-10-03 |
 | [You Should Get To Know You Like I Do](https://open.spotify.com/track/32rLAxdxbfPSOu7D1xUhen) | [M\. Lucky](https://open.spotify.com/artist/78t0BT9DeKdbggUw16Ghvt) | [You Should Get To Know You Like I Do](https://open.spotify.com/album/6gU0MSq6gokEb6atfPWNlj) | 3:34 | 2024-04-18 | 2024-06-21 |
 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 | 2024-07-04 | 2024-09-27 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-02-03 | 2025-06-20 |

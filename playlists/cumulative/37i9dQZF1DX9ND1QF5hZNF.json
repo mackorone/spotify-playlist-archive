@@ -1011,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182012,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
+    },
+    {
+      "album": {
         "name": "Can I Tell You a Secret",
         "url": "https://open.spotify.com/album/5qqT029IqjdQkCMZfm6KPG"
       },
@@ -1318,7 +1340,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 167000,
       "name": "Dance In The Sunlight",
       "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
@@ -1988,7 +2010,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 142982,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/7lxjMD40JXRFRjMSSVHKDU"
@@ -2222,6 +2244,32 @@
       "duration_ms": 171570,
       "name": "Homesick Lover",
       "url": "https://open.spotify.com/track/68sOX6tNkq4xieJCkui8iK"
+    },
+    {
+      "album": {
+        "name": "Hutia",
+        "url": "https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9"
+      },
+      "artists": [
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171858,
+      "name": "Hutia",
+      "url": "https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu"
     },
     {
       "album": {
@@ -2796,7 +2844,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
@@ -4316,7 +4364,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -4462,7 +4510,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
@@ -4520,6 +4568,28 @@
       "duration_ms": 174573,
       "name": "Reckless Child",
       "url": "https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc"
+    },
+    {
+      "album": {
+        "name": "Regarder la nuit",
+        "url": "https://open.spotify.com/album/7iYXFhCHpJ0aXQSzcx8aI4"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        },
+        {
+          "name": "P\u00e9pite",
+          "url": "https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195323,
+      "name": "Regarder la nuit, les \u00e9toiles",
+      "url": "https://open.spotify.com/track/1Cr1Bp48qrk0lxKxCanrZl"
     },
     {
       "album": {
@@ -5026,6 +5096,32 @@
       "duration_ms": 199680,
       "name": "Something Beautiful - Montmartre Remix",
       "url": "https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
     },
     {
       "album": {
@@ -5622,6 +5718,24 @@
       "duration_ms": 159379,
       "name": "The Last Bit Of Us - Chuksie Remix",
       "url": "https://open.spotify.com/track/2JKUZyGj5w34lXFWORSj7i"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/0sbgmvPJ1agEorBX8uN23I"
+      },
+      "artists": [
+        {
+          "name": "we love sunset",
+          "url": "https://open.spotify.com/artist/0ROeDOXEZIq0ETZL5MVHqa"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140082,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/5EYOFkPNWOw7p5gU83kWZJ"
     },
     {
       "album": {

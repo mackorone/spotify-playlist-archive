@@ -4867,6 +4867,32 @@
     },
     {
       "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Grace Hodgett Young",
+          "url": "https://open.spotify.com/artist/0CjuMsWheFt1DoaQ3imIjZ"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Girl Meets Boy",
+      "url": "https://open.spotify.com/track/41rnWkkqAMatnEccvFlHSm"
+    },
+    {
+      "album": {
         "name": "Starlight Express",
         "url": "https://open.spotify.com/album/57uazPRTHuOLVFtLpcDFkO"
       },
@@ -5914,7 +5940,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 235026,
       "name": "I Believe My Heart - From ' The Woman In White'",
       "url": "https://open.spotify.com/track/05MpDaZxZUV5JrS9ZRYzc5"

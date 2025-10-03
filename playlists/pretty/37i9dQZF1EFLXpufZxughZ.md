@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,080 likes - 128 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081 likes - 128 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 15 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 16 | [Rich As Fuck](https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 3:43 |
 | 17 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 |
-| 18 | [Sacrifices](https://open.spotify.com/track/0xl1w2q4VLojeXp4JfazPL) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 5:07 |
-| 19 | [Heartbreaker \- Single Version](https://open.spotify.com/track/761Rw1JemDbd4dbiQJYcI8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/0PZY8Rxtm8ujGlGIQISqRL) | 4:22 |
+| 18 | [Heartbreaker \- Single Version](https://open.spotify.com/track/761Rw1JemDbd4dbiQJYcI8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/0PZY8Rxtm8ujGlGIQISqRL) | 4:22 |
+| 19 | [Sacrifices](https://open.spotify.com/track/0xl1w2q4VLojeXp4JfazPL) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 5:07 |
 | 20 | [PMW \(All I Really Need\) \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/5oeKoJMi9g6GXEbtz1ta0f) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:54 |
 | 21 | [How Low](https://open.spotify.com/track/1WtTLtofvcjQM3sXSMkDdX) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Battle Of The Sexes \(Deluxe\)](https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew) | 3:21 |
 | 22 | [Under Ground Kings](https://open.spotify.com/track/1D9XLqQp2YYiOxrr5KLb8K) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:32 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 127 | [Hard to Breathe](https://open.spotify.com/track/2h4Tn7GeqjoaecdelWzQg3) | [Nathan Hammah](https://open.spotify.com/artist/0VO2sPJm8C90oOPHjrEOtg), [Hooks](https://open.spotify.com/artist/2kz5a2KrH2NBXBv1TgEmz6), [Monique](https://open.spotify.com/artist/11IltqNFT9YGgvsGmE1TOr) | [Hard to Breathe](https://open.spotify.com/album/3m7SNrSb4xYrO8t4pF6zq8) | 3:23 |
 | 128 | [March 14th](https://open.spotify.com/track/4OBjDxHFi7Wx5mIyCbWOET) | [Nabil Muquit](https://open.spotify.com/artist/6KAQoxYIdufiIpIN9Hh97O) | [4u&u2](https://open.spotify.com/album/0e7J5hOtxyqg0UsNEJCbFH) | 3:31 |
 
-Snapshot ID: `Ab9uxgAAAADFYErD05JdF1LNi3r7gBt3`
+Snapshot ID: `Ab90PgAAAABLl+65Q+fmUaFKykUeVZO1`

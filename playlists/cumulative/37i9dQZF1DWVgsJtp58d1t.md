@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:3jk39CGeaaSO3FPKNx1RUx">Syd</a>
 
-5,273 songs - 11 day 3 hr 30 min
+5,273 songs - 11 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3262,7 +3262,7 @@
 | [Nothing On Me](https://open.spotify.com/track/7LzkDwlAiYYDMTYQWTSlmv) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [F\-TYPE Music](https://open.spotify.com/album/2XKT1dNI3FFjyaRtd04VxZ) | 2:26 | 2022-11-25 | 2022-12-17 |
 | [Nothing Sweeter](https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Nothing Sweeter](https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc) | 4:25 | 2024-01-19 | 2024-04-19 |
 | [Nothing To Cry About](https://open.spotify.com/track/3xPrDOx37XhsDXTG8oWc4U) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Built Different \(Deluxe\)](https://open.spotify.com/album/1qOwMIpYZ6Cu0kcMxO3HHE) | 2:43 | 2025-05-16 | 2025-06-21 |
-| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 | 2025-09-05 |  |
+| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 | 2025-09-05 |  |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 | 2022-08-06 |
 | [NUKE](https://open.spotify.com/track/1he7IZvmdIXbZT7utpsa4a) | [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8) | [NUKE](https://open.spotify.com/album/7lzBBUBI4wcUpj111SEQSf) | 2:17 | 2023-02-24 | 2023-03-11 |
 | [Numb](https://open.spotify.com/track/2X62E2rxNuCK3IdwnutBbI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Heartbreak Hill](https://open.spotify.com/album/659XtuIbCfz9UWWrlMmq7v) | 4:13 | 2023-11-03 | 2023-11-30 |

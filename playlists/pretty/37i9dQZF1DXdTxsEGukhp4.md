@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,482 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,516 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,23 +23,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 13 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
 | 14 | [come again](https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 5:54 |
 | 15 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
-| 16 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
-| 17 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
-| 18 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 |
-| 19 | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/track/3MDuA12HzorT65LovtOMKr) | [吉本おじさん](https://open.spotify.com/artist/4MIxktyK7yU1k2cKcER5t0), [雨衣](https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK) | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/album/2Coxc7T3PLMWJlBXy9as2h) | 3:04 |
-| 20 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
-| 21 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 |
-| 22 | [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 |
-| 23 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 |
-| 24 | [イケナイ太陽](https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 3:59 |
-| 25 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
-| 26 | [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 |
-| 27 | [倍倍FIGHT!](https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [倍倍FIGHT!](https://open.spotify.com/album/2ckfzuzGU3I0dhCwfnESEN) | 4:13 |
-| 28 | [イイじゃん](https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [イイじゃん](https://open.spotify.com/album/7dYOkmiQ8NzC9PttH0PQ75) | 3:18 |
-| 29 | [StaRt](https://open.spotify.com/track/0ubEkvxVE1Sh4QTBN6b92a) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Variety](https://open.spotify.com/album/4JNYlZqgs8wSdgvwlaQbHR) | 3:31 |
-| 30 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 |
-| 31 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 |
-| 32 | [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 |
+| 16 | [Sugar On My Tongue](https://open.spotify.com/track/1BrQRA3j6Ua6zj6xvb2mU7) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 2:33 |
+| 17 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 18 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
+| 19 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 |
+| 20 | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/track/3MDuA12HzorT65LovtOMKr) | [吉本おじさん](https://open.spotify.com/artist/4MIxktyK7yU1k2cKcER5t0), [雨衣](https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK) | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/album/2Coxc7T3PLMWJlBXy9as2h) | 3:04 |
+| 21 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
+| 22 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 |
+| 23 | [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 |
+| 24 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 |
+| 25 | [イケナイ太陽](https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 3:59 |
+| 26 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
+| 27 | [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 |
+| 28 | [倍倍FIGHT!](https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [倍倍FIGHT!](https://open.spotify.com/album/2ckfzuzGU3I0dhCwfnESEN) | 4:13 |
+| 29 | [イイじゃん](https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [イイじゃん](https://open.spotify.com/album/7dYOkmiQ8NzC9PttH0PQ75) | 3:18 |
+| 30 | [StaRt](https://open.spotify.com/track/0ubEkvxVE1Sh4QTBN6b92a) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Variety](https://open.spotify.com/album/4JNYlZqgs8wSdgvwlaQbHR) | 3:31 |
+| 31 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 |
+| 32 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 |
 | 33 | [キューにストップできません！](https://open.spotify.com/track/5OX4Nq07ulpm1uleSR6wAQ) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キューにストップできません！](https://open.spotify.com/album/6oLeXGeM7Dv4wr1cB1E1X3) | 3:42 |
 | 34 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
 | 35 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Princess GaL](https://open.spotify.com/track/4RUSco1PhGl8tp8Vq9jE64) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [LovE ToXic](https://open.spotify.com/album/0wElNMjbAwFUePPz5fOzh0) | 2:47 |
 | 50 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 
-Snapshot ID: `AAAAAEIyWoUkBCgJneUPfeLdsREwDmDU`
+Snapshot ID: `AAAAAGRDkwmDME2rAFkLcT8FVnh78pEr`

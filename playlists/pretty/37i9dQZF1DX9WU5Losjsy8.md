@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,725 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,777 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 |
 | 80 | [Hallo kleine Maus](https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [Hallo kleine Maus](https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5) | 2:50 |
 
-Snapshot ID: `AAAAAA5djwNiDP+iPYoJauKfvLT1dBZW`
+Snapshot ID: `AAAAAOwVf7UvnrbZIPOsm2MF8j9bWB6D`

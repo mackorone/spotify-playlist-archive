@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,781 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,831 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 149 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 |
 | 150 | [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 |
 
-Snapshot ID: `AAAAAEYksfffQxgol+ZsI+IrheWqGamh`
+Snapshot ID: `AAAAABA8vn9q46FBX6AsoL5ctTvZGq7E`

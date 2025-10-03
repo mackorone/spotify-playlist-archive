@@ -2,7 +2,7 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Young Thug
+> Your shortcut to the best new Hip Hop\. Cover: Gucci Mane
 
 676 songs - 1 day 9 hr 0 min
 

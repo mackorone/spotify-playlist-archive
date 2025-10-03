@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 89 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67 likes - 89 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 49 | [Wani Go](https://open.spotify.com/track/0InPwFLuX6alqv6FCLxsD0) | [Tranga Rugie](https://open.spotify.com/artist/1LgZQptrB9J0K7g6YcjyC8) | [Wani Go](https://open.spotify.com/album/6lqNC8mB9rI868iAOyuqw9) | 3:19 |
 | 50 | [10 \(Alleen\)](https://open.spotify.com/track/3pASfHJfBpA0JIjE1XBGSV) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [10 \(Alleen\)](https://open.spotify.com/album/2wzuSnNL2izVnHYPr62RfQ) | 2:38 |
 | 51 | [Birthday](https://open.spotify.com/track/0IsmZ748Rji34ZldN9vPGe) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Birthday](https://open.spotify.com/album/7jH8nFAnYrwAkeDpmdi9vA) | 2:54 |
-| 52 | [Zet Het](https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Zet Het](https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU) | 2:59 |
-| 53 | [Laatste Nacht](https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:21 |
+| 52 | [Laatste Nacht](https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:21 |
+| 53 | [Zet Het](https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Zet Het](https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU) | 2:59 |
 | 54 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:41 |
 | 55 | [Backa](https://open.spotify.com/track/4FKxx9igGSi4Xcir1sqEN8) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Tido](https://open.spotify.com/album/2qIAX29Oc7ocKA50WEmDlm) | 3:22 |
 | 56 | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/track/5VsPGOcT3E1SE13DzmEuVa) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Whiteboy](https://open.spotify.com/artist/4SePiClNpVeSglyNsTvmAD), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/album/6I4uvK9tXIaSpWCEqKBhhO) | 3:47 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 88 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 89 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `Ab9ulAAAAADpUMGvUG0TCrACckPxwfJp`
+Snapshot ID: `Ab90ZgAAAAAfTtVTz/iVPj4SspWoCbe7`

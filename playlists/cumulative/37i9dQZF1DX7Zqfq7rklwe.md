@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Amy Lee, Poppy ja Courtney LaPlante.
 
-305 songs - 19 hr 48 min
+306 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-11 | 2024-10-25 |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2024-11-07 | 2025-09-05 |
 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 | 2025-05-07 |  |
-| [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 | 2025-09-04 |  |
+| [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 | 2025-09-04 | 2025-10-03 |
 | [The Future Is A Foreign Land](https://open.spotify.com/track/4GfwvLVfaisWMpNIECZ6Dl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/7i0eEhO3kQr5mEej98ewcd) | 3:45 | 2024-09-11 | 2024-11-08 |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-08-14 | 2025-08-29 |
 | [The Idiot](https://open.spotify.com/track/3hT2V0iUOOViY7Rwfn7eom) | [Gluecifer](https://open.spotify.com/artist/0f49vykMeD4Nb8ONN6IMVJ) | [The Idiot](https://open.spotify.com/album/2ClsXTrYxCLu1uCnddarRU) | 2:42 | 2025-09-25 |  |
@@ -281,6 +281,7 @@
 | [Three Six Five](https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:40 | 2025-01-23 | 2025-03-07 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2024-11-07 | 2025-04-18 |
 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 | 2025-05-15 |  |
+| [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-02 |  |
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-29 |
 | [Tokyo Love](https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Neon Inferno](https://open.spotify.com/album/75k7eiWA8rEGhmViParevn) | 3:33 | 2024-10-24 | 2025-01-17 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-12-13 |

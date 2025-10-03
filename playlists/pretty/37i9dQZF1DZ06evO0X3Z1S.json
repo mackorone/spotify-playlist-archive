@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87707,
+  "num_followers": 87710,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAC06mO22NO5dF2DyCt4PxiC",
+  "snapshot_id": "aNxvAAAAAAC0hvGDltSfJOyUBzQiiA8U",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
         "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
       },
@@ -667,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
       },
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Love (From Hotel Transylvania 3)",
-        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 173220,
-      "name": "I See Love - From Hotel Transylvania 3",
-      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 188891,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
     },
     {
       "added_at": null,
@@ -1055,18 +1055,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siento",
-        "url": "https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq"
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
       },
       "artists": [
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
         }
       ],
-      "duration_ms": 217080,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z"
+      "duration_ms": 198090,
+      "name": "Don't Call It Love",
+      "url": "https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN"
     }
   ],
   "unique_name": "This Is Jonas Blue",

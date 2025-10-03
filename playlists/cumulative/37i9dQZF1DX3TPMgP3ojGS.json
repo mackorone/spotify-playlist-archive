@@ -3861,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Beyond Sleep",
+        "url": "https://open.spotify.com/album/5Z4h9hm2XqZVIsC127vFkS"
+      },
+      "artists": [
+        {
+          "name": "N nulls",
+          "url": "https://open.spotify.com/artist/6w7driOaO7unWQ2b2FaZcS"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167696,
+      "name": "Beyond Sleep",
+      "url": "https://open.spotify.com/track/5lEiP2arSohcW66h98W9wT"
+    },
+    {
+      "album": {
         "name": "Bienveillant",
         "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
@@ -9944,7 +9962,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 201874,
       "name": "For A Moment",
       "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
@@ -17456,7 +17474,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 126779,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3WruYNEDlXO6R3l3ZsdNEx"
@@ -19038,6 +19056,24 @@
       "duration_ms": 128766,
       "name": "Nocturnal Waltz",
       "url": "https://open.spotify.com/track/6uYEDNGSB17CEzxooqDgHK"
+    },
+    {
+      "album": {
+        "name": "nocturne",
+        "url": "https://open.spotify.com/album/4l1pCTekOLoVMMWrJ0YPA1"
+      },
+      "artists": [
+        {
+          "name": "Kenshiro Matsuo",
+          "url": "https://open.spotify.com/artist/5kxfzBE0JvuXtV4hmaUuvo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "nocturne",
+      "url": "https://open.spotify.com/track/5oZAvn3rkUGBS29tRAP3oe"
     },
     {
       "album": {
@@ -29243,6 +29279,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170733,
+      "name": "To Zanarkand (From \"Final Fantasy X\")",
+      "url": "https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF"
+    },
+    {
+      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X"
       },
@@ -29524,7 +29582,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 122784,
       "name": "Trail",
       "url": "https://open.spotify.com/track/6d9imovORU4yeJspAk95cE"

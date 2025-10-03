@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 The Zen Circus in cover
+> Rock, indie e punk dall'Italia 🎸 Sofia Gobbi in cover
 
-1,649 songs - 3 day 19 hr 30 min
+1,650 songs - 3 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [FORGIVE ME](https://open.spotify.com/track/1IbESHxiae17RS35y8rl0I) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [FORGIVE ME](https://open.spotify.com/album/4KVENJjNYKZ8J0jPsYkWAA) | 3:07 | 2025-01-16 | 2025-03-21 |
 | [Formica](https://open.spotify.com/track/2r9FyfGwi4BfXyU7dlK61f) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [Formica](https://open.spotify.com/album/5MILxJcZxxra3LlyGVuikM) | 3:13 | 2023-10-26 | 2023-11-24 |
 | [forse si o forse no](https://open.spotify.com/track/4JjmOmkTXKELRBFJogLXkW) | [fallimento](https://open.spotify.com/artist/0VCQDpOfWR5bFdBQXb7Mq0) | [forse si o forse no](https://open.spotify.com/album/2dg41oUeAruXsH7v29UM12) | 3:02 | 2025-07-03 | 2025-09-19 |
+| [Fortuna](https://open.spotify.com/track/5Fv0IV1uSgZRgjtZa7Errl) | [Vuoto Di Memoria](https://open.spotify.com/artist/2mOhcIOtq5BTck2LSRPdyo) | [Fortuna](https://open.spotify.com/album/2lW7pu8BVkBPJbP7IOJvrv) | 2:35 | 2025-09-25 |  |
 | [Fosforo \(feat\. Francesco Bianconi\)](https://open.spotify.com/track/5hm9gOhjEU6iM227OC9lxf) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [Francesco Bianconi](https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR) | [Fosforo \(feat\. Francesco Bianconi\)](https://open.spotify.com/album/2FxJtyaLXUGosK1OgAiDK9) | 3:00 | 2024-01-23 | 2024-04-05 |
 | [Fossili/Funghi](https://open.spotify.com/track/50VaVvzfEShYpyuewc7Eib) | [Asino](https://open.spotify.com/artist/6I8TKeaMNeWsC26JY16qxI) | [Fossili/Funghi](https://open.spotify.com/album/7fkygq4meejaBdqGwMWwBY) | 4:08 | 2025-02-13 | 2025-04-18 |
 | [Fractal Haze](https://open.spotify.com/track/0uAqsjOY03RRg1GFcOyJxB) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [Fractal Haze](https://open.spotify.com/album/7CRJxDjnOOUA4sUX6A4kNJ) | 6:43 | 2025-07-17 | 2025-09-26 |

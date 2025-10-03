@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14333,
+  "num_followers": 14338,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAAZAax+0HEPy9I6sqvhqDVn",
+  "snapshot_id": "aNxvAAAAAABxfhql51ULqblYKyTZxwz4",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
-      "url": "https://open.spotify.com/track/3RUBMVfbweULyfoVMXTOLV"
+      "duration_ms": 216160,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
+      "url": "https://open.spotify.com/track/0ON4FYmS4Zch1NV0lhv9hX"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
-      "url": "https://open.spotify.com/track/0ON4FYmS4Zch1NV0lhv9hX"
+      "duration_ms": 196826,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "url": "https://open.spotify.com/track/3RUBMVfbweULyfoVMXTOLV"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 872840,
-      "name": "The Devil's Trill",
-      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -379,30 +359,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
       "artists": [
         {
-          "name": "Luis Bacalov",
-          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 872840,
+      "name": "The Devil's Trill",
+      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
+        "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
+      },
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+          "name": "Abbey Road Ensemble",
+          "url": "https://open.spotify.com/artist/1C5HAMTwDavVaC1zguCp0g"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Il Postino: Theme",
-      "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
+      "duration_ms": 517706,
+      "name": "Sarasate: Zigeunerweisen, Op. 20",
+      "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
     },
     {
       "added_at": null,
@@ -431,26 +427,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
-        "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
       "artists": [
         {
-          "name": "Pablo de Sarasate",
-          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Abbey Road Ensemble",
-          "url": "https://open.spotify.com/artist/1C5HAMTwDavVaC1zguCp0g"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
         }
       ],
-      "duration_ms": 517706,
-      "name": "Sarasate: Zigeunerweisen, Op. 20",
-      "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
+      "duration_ms": 224200,
+      "name": "Il Postino: Theme",
+      "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
       "duration_ms": 192533,
       "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": II. Largo e pianissimo sempre",
       "url": "https://open.spotify.com/track/7okHiZwiZD9nILstUvueqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Works for Two Violins",
+        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
+      },
+      "artists": [
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 140626,
+      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
+      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
     },
     {
       "added_at": null,
@@ -595,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
-      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: \"Double\" Concerto for Two Violins in D minor; Violin Concertos Nos. 1 & 2 [Expanded Edition]",
         "url": "https://open.spotify.com/album/5ei1Nzj3ZmA7CnuXNNOIhX"
       },
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
+      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mozart: The Violin Sonatas",
         "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
       },
@@ -671,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Works for Two Violins",
-        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
-      },
-      "artists": [
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
-      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 222853,
       "name": "Confluence",
       "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 318973,
+      "name": "Prelude and Allegro in the style of Pugnani",
+      "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
     },
     {
       "added_at": null,
@@ -759,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 292133,
+      "name": "Becoming a Geisha",
+      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hero - Music from the Original Soundtrack",
         "url": "https://open.spotify.com/album/413ti22XjH5D5mT4iMh3oL"
       },
@@ -787,30 +831,6 @@
       "duration_ms": 259600,
       "name": "For the World",
       "url": "https://open.spotify.com/track/5U2eLcIC0k1gHAnlJCLqai"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Becoming a Geisha",
-      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
     },
     {
       "added_at": null,
@@ -859,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Remembrances",
-      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -907,50 +903,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 318973,
-      "name": "Prelude and Allegro in the style of Pugnani",
-      "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
         {
           "name": "John Williams",
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Four Horsemen of the Apocalypse: Theme",
-      "url": "https://open.spotify.com/track/1M4tAXG2e9yfYhv1hetyLJ"
+      "duration_ms": 316426,
+      "name": "Remembrances",
+      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: Violin Concerto, Op. 77",
+        "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Carlo Maria Giulini",
+          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "duration_ms": 500293,
+      "name": "Brahms: Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
+      "url": "https://open.spotify.com/track/55NalIUC671ie5eaNJAHjt"
     },
     {
       "added_at": null,
@@ -1007,34 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: Violin Concerto, Op. 77",
-        "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Carlo Maria Giulini",
-          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        }
-      ],
-      "duration_ms": 500293,
-      "name": "Brahms: Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
-      "url": "https://open.spotify.com/track/55NalIUC671ie5eaNJAHjt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cinema Serenade",
         "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
@@ -1059,6 +1031,30 @@
       "duration_ms": 250066,
       "name": "The Age of Innocence: Theme",
       "url": "https://open.spotify.com/track/43wyMgvDfI5FZ9RHvpP5pF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaldi: The Four Seasons & Violin Concertos",
+        "url": "https://open.spotify.com/album/2hnRQDwlDjbBktTMm15zNH"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Vivaldi: Violin Concerto in A Minor, RV 356: I. Allegro",
+      "url": "https://open.spotify.com/track/0t9O1vhXUwB52GeezUdZnx"
     },
     {
       "added_at": null,
@@ -1091,82 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi: The Four Seasons & Violin Concertos",
-        "url": "https://open.spotify.com/album/2hnRQDwlDjbBktTMm15zNH"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Vivaldi: Violin Concerto in A Minor, RV 356: I. Allegro",
-      "url": "https://open.spotify.com/track/0t9O1vhXUwB52GeezUdZnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
-        "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: II. Largo",
-      "url": "https://open.spotify.com/track/0nVKP5MIslzUa0Pf21fxVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
-      },
-      "artists": [
-        {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Out of Africa: Main Title",
-      "url": "https://open.spotify.com/track/0twtEOouu8gohnjlPGYa9O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -1195,30 +1115,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Itzhak Perlman",
-        "url": "https://open.spotify.com/album/29LO8o80OcuazAWFZkvTzA"
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         },
         {
-          "name": "Carlo Maria Giulini",
-          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Four Horsemen of the Apocalypse: Theme",
+      "url": "https://open.spotify.com/track/1M4tAXG2e9yfYhv1hetyLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
+        "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: II. Largo",
+      "url": "https://open.spotify.com/track/0nVKP5MIslzUa0Pf21fxVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 608760,
-      "name": "Brahms: Violin Concerto in D Major, Op. 77: II. Adagio (Remastered 2025)",
-      "url": "https://open.spotify.com/track/3NnwMMeFmKwHI1peVvRtfv"
+      "duration_ms": 100333,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
+      "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
     },
     {
       "added_at": null,
@@ -1247,6 +1211,34 @@
       "duration_ms": 478426,
       "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/7ypzwDDunvlix4Q7N7Gksu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Out of Africa: Main Title",
+      "url": "https://open.spotify.com/track/0twtEOouu8gohnjlPGYa9O"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

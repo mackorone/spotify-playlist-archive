@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,019 likes - 94 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,015 likes - 94 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mesera](https://open.spotify.com/track/1JcdHRYBUbD0nHVSispJVp) | [Jimmy Humilde](https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [](https://open.spotify.com/album/null) | 3:06 |
+| 1 | [Mesera](https://open.spotify.com/track/1JcdHRYBUbD0nHVSispJVp) | [Jimmy Humilde](https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Jimmy Humilde Presenta: Prodigio](https://open.spotify.com/album/2JiYnZDt63w7hXD92CdiJa) | 3:06 |
 | 2 | [Desde Que La Vi](https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Desde Que La Vi](https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64) | 2:48 |
 | 3 | [Rubia Mala](https://open.spotify.com/track/0662YGn2tP3DWuYbJu9kUV) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rubia Mala](https://open.spotify.com/album/0zRpbAVfQ3XdRgtESyQGOg) | 2:18 |
 | 4 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |

@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: King Gnu
 
-535 songs - 1 day 6 hr 31 min
+536 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-09-14 | 2024-02-09 |
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-28 | 2024-12-13 |
 | [STRAND](https://open.spotify.com/track/61Vx7YHbVM6gUOcqdPJLY5) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:32 | 2023-07-20 | 2023-08-04 |
+| [Sugar On My Tongue](https://open.spotify.com/track/1BrQRA3j6Ua6zj6xvb2mU7) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 2:33 | 2025-10-02 |  |
 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-04-20 | 2023-06-16 |
 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 | 2025-09-01 |  |
 | [Super funk market](https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Super funk market](https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP) | 3:49 | 2023-09-21 | 2023-10-03 |
@@ -461,7 +462,7 @@
 | [僕の隣はいつもきみ](https://open.spotify.com/track/5BcjQ9TRYdH71SzNLl6wQO) | [音虎とErii](https://open.spotify.com/artist/3zI579R2syTLjODbEzgqMH) | [僕の隣はいつもきみ](https://open.spotify.com/album/2EGHHFcxgEm7nIWG9da8Vu) | 3:05 | 2024-04-25 | 2024-05-10 |
 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 | 2024-10-03 | 2025-01-07 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-04-18 | 2024-05-17 |
-| [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 | 2024-06-13 |  |
+| [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 | 2024-06-13 | 2025-10-03 |
 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-06-08 | 2023-07-21 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-09 | 2025-03-14 |
 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 | 2023-09-28 | 2024-02-09 |

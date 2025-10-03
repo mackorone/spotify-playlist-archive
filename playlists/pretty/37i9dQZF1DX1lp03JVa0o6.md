@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: James Hype
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,665 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,617 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 |
 | 75 | [Sound of You](https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Sound of You](https://open.spotify.com/album/6J4wHgqUO4f0mqp0Cfy3mG) | 3:24 |
 
-Snapshot ID: `AAAAAES76pkaP/nro5Kx29aly1USHHCa`
+Snapshot ID: `AAAAAJwkp7hjPOMQtqT+Rl/sXpuKh2Vj`

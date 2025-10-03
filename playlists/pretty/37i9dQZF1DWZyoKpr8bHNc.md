@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,554 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,675 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 28 | [Ana Moush Kafer \- 2008 Remastered](https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:03 |
 | 29 | [Andak Bahariya](https://open.spotify.com/track/1Ub49Mz15iM2aur0EnTAik) | [Najah Salam](https://open.spotify.com/artist/2h3ONlkzMRAAkanWyh9RTR), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z), [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Melodies from Lebanon](https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR) | 8:15 |
 | 30 | [Ya Habaiby Ya Ghaiben](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 |
-| 31 | [Gana El Hawa Live](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
-| 32 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
+| 31 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
+| 32 | [Gana El Hawa Live](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
 | 33 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
 | 34 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
 | 35 | [Laktob Aourak El Chagar](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Hikayet El Omr Kolloh \- Zaman Ya Hob](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 46 | [Ya Ahl El Hawa](https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 6:55 |
 | 47 | [Ma Zal Bhob Rbina](https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 1](https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq) | 3:27 |
 | 48 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
-| 49 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
-| 50 | [Ktir Mohalaia](https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 4:10 |
+| 49 | [Ktir Mohalaia](https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 4:10 |
+| 50 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
 | 51 | [Houwaret El Abraj](https://open.spotify.com/track/3LGlf7bezYOiE0M63Nr1up) | [Alain Merheb](https://open.spotify.com/artist/5E5MDX191b6nQbOpwA3k8I) | [King of Al Houwara, Vol\. 5](https://open.spotify.com/album/5yI95WEND0I52ephQ6SqjV) | 7:04 |
 | 52 | [Ana Alby Daleely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Laila Mourad](https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc) | [Agmal Aghany Laila Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 |
 | 53 | [Ya Marek Al Tawahine](https://open.spotify.com/track/3oQrFEnC6rVqs9dhmwCJVw) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamseddine 1](https://open.spotify.com/album/7czqfjO0jjfK7yY1TImbEe) | 2:45 |

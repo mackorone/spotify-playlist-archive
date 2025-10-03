@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Kery James",
   "name": "Lyricistes",
   "tracks": [
+    {
+      "album": {
+        "name": "&. Avant De Partir",
+        "url": "https://open.spotify.com/album/57bwO9bYsfOtj58bnX8gg2"
+      },
+      "artists": [
+        {
+          "name": "Oumar",
+          "url": "https://open.spotify.com/artist/6fCKkZJmKHxmlr8mkIj5vJ"
+        },
+        {
+          "name": "Madizm",
+          "url": "https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126740,
+      "name": "&. Avant De Partir",
+      "url": "https://open.spotify.com/track/1HuZ15lpeRfFNekhaYaJHz"
+    },
     {
       "album": {
         "name": "10 jours, 10 nuits",
@@ -716,7 +738,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 132152,
       "name": "BLC",
       "url": "https://open.spotify.com/track/0Loh9vCsQQmap79CJKTWqH"
@@ -3325,6 +3347,28 @@
     },
     {
       "album": {
+        "name": "Logo Dor\u00e9",
+        "url": "https://open.spotify.com/album/5NQCAGEMvvE1Ko4VYGvRZa"
+      },
+      "artists": [
+        {
+          "name": "Kerou\u00e9",
+          "url": "https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233117,
+      "name": "Logo Dor\u00e9",
+      "url": "https://open.spotify.com/track/5DBRavHrwKbLD1r7MXyYAI"
+    },
+    {
+      "album": {
         "name": "Loup noir",
         "url": "https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz"
       },
@@ -3398,6 +3442,24 @@
       "duration_ms": 76008,
       "name": "LUEUR D'ESPOIR",
       "url": "https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l"
+    },
+    {
+      "album": {
+        "name": "L\u00e9ger",
+        "url": "https://open.spotify.com/album/0U5AcAILh5oLAjGdqUzNZE"
+      },
+      "artists": [
+        {
+          "name": "Oxmo Puccino",
+          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "L\u00e9ger",
+      "url": "https://open.spotify.com/track/1AmB2dUp4PGZShnjM1P5PB"
     },
     {
       "album": {
@@ -4426,7 +4488,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 325893,
       "name": "Promesses",
       "url": "https://open.spotify.com/track/3p5UzHUDerrlYl7RtGhLML"
@@ -4727,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "SHABAN",
+        "url": "https://open.spotify.com/album/0aNAUTiTiDjaN62VLzWCxY"
+      },
+      "artists": [
+        {
+          "name": "Kery James",
+          "url": "https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258072,
+      "name": "SHABAN",
+      "url": "https://open.spotify.com/track/3FMM8cY9p85IxEoedWYG9U"
+    },
+    {
+      "album": {
         "name": "Si tu savais",
         "url": "https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt"
       },
@@ -4950,7 +5030,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 185729,
       "name": "thalys",
       "url": "https://open.spotify.com/track/4EVMhVr6GslvST0uLx8VIJ"
@@ -5388,7 +5468,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 145577,
       "name": "Ying & Yang",
       "url": "https://open.spotify.com/track/6AejivLy4NbFQj4LF39J9b"

@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 717211,
+  "num_followers": 717264,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACKVjRDgpk5fDATx9Ksh79i",
+  "snapshot_id": "aNxvAAAAAAB1ruaPZGSPpPlO4BG/KrYN",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gems",
-        "url": "https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ"
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 242256,
-      "name": "Chip Away The Stone",
-      "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
+      "duration_ms": 333200,
+      "name": "Hangman Jury",
+      "url": "https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+        "name": "Gems",
+        "url": "https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 333200,
-      "name": "Hangman Jury",
-      "url": "https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ"
+      "duration_ms": 242256,
+      "name": "Chip Away The Stone",
+      "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
     },
     {
       "added_at": null,

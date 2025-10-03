@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: Feanna Wong \u9ec4\u6dd1\u8513",
+  "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: Serrini",
   "name": "\u6700\u611b\u5973\u8072",
   "tracks": [
     {
@@ -9293,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "\u8001\u6b98\u904a\u6232",
+        "url": "https://open.spotify.com/album/3G8iheGItD71E1Do29puEu"
+      },
+      "artists": [
+        {
+          "name": "Vincy Chan",
+          "url": "https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174123,
+      "name": "\u8001\u6b98\u904a\u6232",
+      "url": "https://open.spotify.com/track/5jbVrArLeVzmQBlXMRGcNO"
+    },
+    {
+      "album": {
         "name": "\u81c9\u7d05\u6642\u6211\u60f3\u770b\u7a7f\u4f60\u7684\u5fc3\u81df",
         "url": "https://open.spotify.com/album/0XoBprUMG2iCYBwcN05J82"
       },
@@ -10144,6 +10162,24 @@
       "duration_ms": 220529,
       "name": "\u963f\u59d0\u4eca\u5e74\u5df2\u7d9330\u6b72",
       "url": "https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3"
+    },
+    {
+      "album": {
+        "name": "\u9650\u91cf\u7248",
+        "url": "https://open.spotify.com/album/0VgmIDyEqPnJGcCHLrdShB"
+      },
+      "artists": [
+        {
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252403,
+      "name": "\u9650\u91cf\u7248",
+      "url": "https://open.spotify.com/track/3sq56ILg4hSfVoz1Ypkaqy"
     },
     {
       "album": {

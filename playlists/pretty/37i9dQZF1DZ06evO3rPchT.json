@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 82656,
+  "num_followers": 82692,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACCZNJsJS9tge7n5GTiJAbp",
+  "snapshot_id": "aNxvAAAAAABWYM7kBFLpsIrq/eLVZxzd",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 171789,
       "name": "All My Women",
       "url": "https://open.spotify.com/track/7v35UanWstlGp0icYiAH44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bottomland",
-        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184942,
-      "name": "Bottomland",
-      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bro Country",
-        "url": "https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 285884,
-      "name": "Bro Country (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 154960,
       "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
       "url": "https://open.spotify.com/track/395Vms42bEvN38TBqsXGO3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bro Country",
+        "url": "https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 285884,
+      "name": "Bro Country (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
     },
     {
       "added_at": null,
@@ -782,11 +782,15 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 172672,
-      "name": "Y\u2019all Need Jesus",
-      "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"
+      "duration_ms": 218471,
+      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
     },
     {
       "added_at": null,
@@ -846,15 +850,11 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 218471,
-      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
-      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
+      "duration_ms": 172672,
+      "name": "Y\u2019all Need Jesus",
+      "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"
     },
     {
       "added_at": null,

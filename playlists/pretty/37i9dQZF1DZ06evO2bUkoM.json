@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAABA84xfmRev33phm+gPcGam",
+  "snapshot_id": "aNxvAAAAAABMKhsffS/4PdIz/5hLa3+v",
   "tracks": [
     {
       "added_at": null,
@@ -323,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 211965,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Wanna Be Missed",
-      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taste So Good (The Cann Song)",
         "url": "https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 155975,
       "name": "Taste So Good (The Cann Song)",
       "url": "https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Wanna Be Missed",
+      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
     },
     {
       "added_at": null,

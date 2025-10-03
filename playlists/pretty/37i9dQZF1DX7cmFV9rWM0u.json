@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1750031,
+  "num_followers": 1749290,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-09-05 07:43:21",
       "album": {
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
+    },
+    {
+      "added_at": "2025-09-05 07:43:21",
+      "album": {
         "name": "MJ",
         "url": "https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 177600,
       "name": "Despu\u00e9s De La 1",
       "url": "https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra"
-    },
-    {
-      "added_at": "2025-09-05 07:43:21",
-      "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
     },
     {
       "added_at": "2025-09-05 07:43:21",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-09-05 07:43:21",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
-    },
-    {
-      "added_at": "2025-09-05 07:43:21",
-      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2025-09-05 07:43:21",
+      "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2025-09-05 07:43:21",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-09-05 07:43:21",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
-    },
-    {
-      "added_at": "2025-09-05 07:43:21",
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 215511,
       "name": "Revol\u00fa",
       "url": "https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8"
+    },
+    {
+      "added_at": "2025-09-05 07:43:21",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2025-09-05 07:43:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-09-05 07:43:21",
       "album": {
-        "name": "Que Tire Pa Lante",
-        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Que Tire Pa Lante",
-      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
-    },
-    {
-      "added_at": "2025-09-05 07:43:21",
-      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2025-09-05 07:43:21",
+      "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
     },
     {
       "added_at": "2025-09-05 07:43:21",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-09-05 07:43:21",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2025-09-05 07:43:21",
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "added_at": "2025-09-05 07:43:21",
+      "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2025-09-05 07:43:21",

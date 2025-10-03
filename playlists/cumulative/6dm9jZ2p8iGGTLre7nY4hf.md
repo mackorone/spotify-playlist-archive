@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-482 songs - 1 day 3 hr 16 min
+484 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:06 | 2023-09-15 | 2025-03-14 |
 | [Circles](https://open.spotify.com/track/6VWyv9Zshq9VcocgZTMvCX) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/3ymK9VfAveI2QNKWXGQGOn) | 3:04 | 2023-09-15 | 2025-03-14 |
 | [Clearly Confused](https://open.spotify.com/track/2eSLbjFHZ7dR6ZyL74V1nx) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm) | [Clearly Confused](https://open.spotify.com/album/5fjH4GThgTjuuEkP3Iv29s) | 2:58 | 2023-09-15 | 2025-03-14 |
+| [Closure](https://open.spotify.com/track/4eM05nS0Lzig5gAbvVyLxK) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Closure](https://open.spotify.com/album/0nZQithCY9l0CP2i8WFPto) | 3:08 | 2025-10-02 |  |
 | [Cloudy](https://open.spotify.com/track/5E382bXE9IMoomWdvvbLde) | [Tessa Odden](https://open.spotify.com/artist/5fWn9g8ERHtGKWdkAuomBx) | [Cloudy](https://open.spotify.com/album/0FkrQlfcUdolygkblDBnD1) | 2:53 | 2023-09-15 | 2025-03-14 |
 | [Coaster](https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:19 | 2025-03-26 |  |
 | [Cold](https://open.spotify.com/track/1VDUt9m7KJ7lpDfXxJBaNL) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ) | 2:08 | 2023-09-15 | 2025-03-14 |
@@ -245,6 +246,7 @@
 | [Kissing Other People](https://open.spotify.com/track/2x3HyOx0Jd9MnlnAQRtIL3) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People](https://open.spotify.com/album/0TBJKh2NvW9XPSVjTMSXGW) | 2:41 | 2023-09-15 | 2025-03-14 |
 | [last piece](https://open.spotify.com/track/2Z8SpRWDcWCrRBBoX6z80Z) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 | 2023-09-15 | 2025-03-14 |
 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 | 2023-09-15 | 2025-03-14 |
+| [Leave Me \(Please Don't Leave Me\)](https://open.spotify.com/track/2VuE7OIkz0UiqsRuE7u919) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Leave Me \(Please Don't Leave Me\)](https://open.spotify.com/album/6ek7FcUEtaVb6u3pTtXSIl) | 3:23 | 2025-10-02 |  |
 | [Let Him Go](https://open.spotify.com/track/2Otb6lOHjFXvr0PCFMCsAG) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [They never leave their wives](https://open.spotify.com/album/6HmkYZsG58mPBFenb27ank) | 2:44 | 2023-09-15 | 2025-03-14 |
 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 | 2023-09-15 | 2025-03-14 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2023-09-15 | 2025-03-14 |

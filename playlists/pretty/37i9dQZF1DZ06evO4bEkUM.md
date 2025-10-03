@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,438 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,574 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 8 | [Pressure](https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:05 |
 | 9 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 |
 | 10 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
-| 11 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
-| 12 | [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 |
+| 11 | [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 |
+| 12 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
 | 13 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
 | 14 | [crushcrushcrush](https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:09 |
 | 15 | [Emergency](https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 4:00 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 19 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
 | 20 | [Interlude: I'm Not Angry Anymore](https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 0:52 |
 | 21 | [When It Rains](https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:35 |
-| 22 | [Crave](https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:55 |
-| 23 | [Monster \- Transformers Soundtrack Version](https://open.spotify.com/track/04BSvYghzdxjSJNpee36er) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Monster](https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C) | 3:20 |
+| 22 | [Monster \- Transformers Soundtrack Version](https://open.spotify.com/track/04BSvYghzdxjSJNpee36er) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Monster](https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C) | 3:20 |
+| 23 | [Crave](https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:55 |
 | 24 | [Told You So](https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:08 |
 | 25 | [Last Hope](https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
 | 26 | [Let the Flames Begin](https://open.spotify.com/track/2myJNvcL71V5IZ1N2NW29O) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:18 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 48 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 | 49 | [Stuck On You](https://open.spotify.com/track/5kdWRrbFpKOzvwyZa6GH9F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:29 |
 
-Snapshot ID: `aNsdgAAAAADkh3XdCcCH/YI2RAHZMq5q`
+Snapshot ID: `aNxvAAAAAAC3/TJa+XJoWzPi+v9ebGaT`

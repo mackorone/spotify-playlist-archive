@@ -2,9 +2,9 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover: Ty Dolla $ign, Kodak Black, YG\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover:  Big Sean, Murda Beatz, Babyface Ray \)
 
-3,082 songs - 6 day 11 hr 32 min
+3,084 songs - 6 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,6 +973,7 @@
 | [Fuel](https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:33 | 2024-07-17 | 2024-12-28 |
 | [fuh](https://open.spotify.com/track/4EETwYyHMcqtBbzb1t5Mud) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [EROS](https://open.spotify.com/album/4HNWSfU1fB4LxA290mo07b) | 2:14 | 2025-01-02 | 2025-02-22 |
 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 | 2024-03-15 | 2024-05-10 |
+| [Fuk Em](https://open.spotify.com/track/4PAs9QivjLo95KNLGDd1pk) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Fuk Em](https://open.spotify.com/album/490kPkFxsMR51izk8lLrtv) | 2:46 | 2025-10-02 |  |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-06-22 | 2023-07-29 |
 | [Full Speed](https://open.spotify.com/track/2eZFeyNpv4eQAZPRsUxLGw) | [Bbvdoll](https://open.spotify.com/artist/1U85TieK4aHvLGLf6b3I81) | [Full Speed](https://open.spotify.com/album/0OS0qlWKs709xlUessbaL3) | 2:22 | 2022-03-18 | 2022-04-01 |
 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/4wYVuGsXa4iPY8BYthBGWc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6) | 2:55 | 2023-01-19 | 2023-03-18 |
@@ -2334,6 +2335,7 @@
 | [Shit Show \(feat\. Veeze & Lil Yachty\)](https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:45 | 2024-12-27 | 2025-02-22 |
 | [Shoe](https://open.spotify.com/track/3e5kKuq4PldRvqlgTTvkWg) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Vurplay](https://open.spotify.com/artist/1M7XFkQ3d5a2ueBD1HBjWN), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Shoe](https://open.spotify.com/album/0HJjrbIfhJhQa4C9zU9h1j) | 2:32 | 2022-06-30 | 2022-07-29 |
 | [Shoot It Off](https://open.spotify.com/track/0yfOjGzOXq6N0PzS3J2YwD) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Shoot It Off](https://open.spotify.com/album/3dTBL1AUSSGAA9r73yf9Oy) | 2:08 | 2025-09-11 |  |
+| [Shop Open \(feat\. Rick Ross\)](https://open.spotify.com/track/6AH7qi1Wb0OUE6oDaLRzbV) | [Ern J](https://open.spotify.com/artist/2jToE38SqC1SONI38zeP3n), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Shop Open \(feat\. Rick Ross\)](https://open.spotify.com/album/6auUhqYvubhCVbmJyduM7k) | 2:47 | 2025-10-02 |  |
 | [SHOT](https://open.spotify.com/track/1SIZ9xibXxrgaAmnBHDQec) | [NAGASAWA](https://open.spotify.com/artist/0YTl20OQQ7ztLNli18EohI) | [I'M GONNA TAKE IT](https://open.spotify.com/album/6EyvJ5HxHcRgR8fcgkaaO8) | 2:38 | 2024-02-08 | 2024-03-01 |
 | [Shot Callin](https://open.spotify.com/track/4rFqRV4UCQubpw348acBq3) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Shot Callin](https://open.spotify.com/album/68SBxb7HlBIt6gIcKsS5A7) | 3:45 | 2025-05-08 | 2025-06-27 |
 | [Shotta Flow 7 \(feat\. Lil Mabu\) \- Remix](https://open.spotify.com/track/5LjwPFTJZB00eSfqI8TIqD) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [Shotta Flow Series](https://open.spotify.com/album/6R8l6AT10mY3uuRugnQaLi) | 3:00 | 2024-02-22 | 2024-04-12 |

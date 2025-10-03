@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Babeblade.",
-  "num_followers": 20406,
+  "num_followers": 20407,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -1739,6 +1739,30 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
+        "name": "Manzana de las Luces (Live Set)",
+        "url": "https://open.spotify.com/album/6RkMSiwDsnh3Ei7wJuQVy1"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        },
+        {
+          "name": "Klauss",
+          "url": "https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr"
+        },
+        {
+          "name": "Julia Ortiz",
+          "url": "https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx"
+        }
+      ],
+      "duration_ms": 229823,
+      "name": "Si no est\u00e1s - Live Set",
+      "url": "https://open.spotify.com/track/2qyrA448NcSiIe49Yf3sxD"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
         "name": "UN ABRAZO MASIVO",
         "url": "https://open.spotify.com/album/5DjhLHzJqAElOKdcWiDjCH"
       },
@@ -1779,30 +1803,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Manzana de las Luces (Live Set)",
-        "url": "https://open.spotify.com/album/6RkMSiwDsnh3Ei7wJuQVy1"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        },
-        {
-          "name": "Klauss",
-          "url": "https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr"
-        },
-        {
-          "name": "Julia Ortiz",
-          "url": "https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx"
-        }
-      ],
-      "duration_ms": 229823,
-      "name": "Si no est\u00e1s - Live Set",
-      "url": "https://open.spotify.com/track/2qyrA448NcSiIe49Yf3sxD"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "Niebla",
         "url": "https://open.spotify.com/album/56lYUsimKibqnRUqcDixvY"
       },
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
+        "name": "Panor\u00e1mica",
+        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
+      },
+      "artists": [
+        {
+          "name": "Ignacia",
+          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+        }
+      ],
+      "duration_ms": 186810,
+      "name": "Panor\u00e1mica",
+      "url": "https://open.spotify.com/track/18NNtWaOxjwn7Vo6idfV2S"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
         "name": "Luz de Ne\u00f3n",
         "url": "https://open.spotify.com/album/3ZsC3hvGZ6rZXITlg0gSve"
       },
@@ -1847,26 +1863,6 @@
       "duration_ms": 252314,
       "name": "Luz de Ne\u00f3n",
       "url": "https://open.spotify.com/track/5nM0vxe0p6kagJshWPKSN9"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Panor\u00e1mica",
-        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
-      },
-      "artists": [
-        {
-          "name": "Ignacia",
-          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
-        },
-        {
-          "name": "Klauss",
-          "url": "https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr"
-        }
-      ],
-      "duration_ms": 298279,
-      "name": "T.V. OFF",
-      "url": "https://open.spotify.com/track/5DEn3QQ4zxFjsZKJsP8uKB"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1943,18 +1939,22 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Panor\u00e1mica",
-        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
+        "name": "fotos\u00edntesis",
+        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
       },
       "artists": [
         {
-          "name": "Ignacia",
-          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+          "name": "los romances",
+          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
+        },
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
         }
       ],
-      "duration_ms": 186810,
-      "name": "Panor\u00e1mica",
-      "url": "https://open.spotify.com/track/18NNtWaOxjwn7Vo6idfV2S"
+      "duration_ms": 187826,
+      "name": "fotos\u00edntesis",
+      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1991,22 +1991,38 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "fotos\u00edntesis",
-        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
       },
       "artists": [
         {
-          "name": "los romances",
-          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
-        },
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
         }
       ],
-      "duration_ms": 187826,
-      "name": "fotos\u00edntesis",
-      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
+      "duration_ms": 164513,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Panor\u00e1mica",
+        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
+      },
+      "artists": [
+        {
+          "name": "Ignacia",
+          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+        },
+        {
+          "name": "Klauss",
+          "url": "https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr"
+        }
+      ],
+      "duration_ms": 298279,
+      "name": "T.V. OFF",
+      "url": "https://open.spotify.com/track/5DEn3QQ4zxFjsZKJsP8uKB"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -2023,22 +2039,6 @@
       "duration_ms": 250709,
       "name": "Hipnosis",
       "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
-      },
-      "artists": [
-        {
-          "name": "BADS",
-          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
-        }
-      ],
-      "duration_ms": 164513,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -2143,18 +2143,22 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "ME FUI Y VINE",
-        "url": "https://open.spotify.com/album/2dz9DHdcqGQzuE2AiWlKDl"
+        "name": "No Est\u00e1 Tan Mal",
+        "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
       },
       "artists": [
         {
           "name": "Jazm\u00edn Mazzuchelli",
           "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        },
+        {
+          "name": "JUD",
+          "url": "https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB"
         }
       ],
-      "duration_ms": 186000,
-      "name": "ME FUI Y VINE",
-      "url": "https://open.spotify.com/track/6EKLxsIr3rp4HxYMMQgRj9"
+      "duration_ms": 185897,
+      "name": "No Est\u00e1 Tan Mal",
+      "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -2171,6 +2175,22 @@
       "duration_ms": 183971,
       "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
       "url": "https://open.spotify.com/track/5rcyVC8ZgmeUIU6ipFSjoG"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/5fd4fuCHjyJcdfTfkuSnDo"
+      },
+      "artists": [
+        {
+          "name": "Majo Chicar",
+          "url": "https://open.spotify.com/artist/2t1ZWcvmcsJnj9yCRuzvOG"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "El Juicio",
+      "url": "https://open.spotify.com/track/5IMKRYnpePQ2jv4MvcY4t6"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -2219,22 +2239,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/5fd4fuCHjyJcdfTfkuSnDo"
-      },
-      "artists": [
-        {
-          "name": "Majo Chicar",
-          "url": "https://open.spotify.com/artist/2t1ZWcvmcsJnj9yCRuzvOG"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "El Juicio",
-      "url": "https://open.spotify.com/track/5IMKRYnpePQ2jv4MvcY4t6"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "Nueva en el Amor",
         "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
       },
@@ -2251,22 +2255,18 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "No Est\u00e1 Tan Mal",
-        "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
+        "name": "ME FUI Y VINE",
+        "url": "https://open.spotify.com/album/2dz9DHdcqGQzuE2AiWlKDl"
       },
       "artists": [
         {
           "name": "Jazm\u00edn Mazzuchelli",
           "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        },
-        {
-          "name": "JUD",
-          "url": "https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB"
         }
       ],
-      "duration_ms": 185897,
-      "name": "No Est\u00e1 Tan Mal",
-      "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
+      "duration_ms": 186000,
+      "name": "ME FUI Y VINE",
+      "url": "https://open.spotify.com/track/6EKLxsIr3rp4HxYMMQgRj9"
     },
     {
       "added_at": "2025-07-25 03:00:27",

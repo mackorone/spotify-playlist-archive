@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 6 hr 40 min
+115 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Magic](https://open.spotify.com/track/6Bhb59RtPbvA8z6tMiZX5q) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster](https://open.spotify.com/album/2XnbqGw1OR5dls6UovbKTx) | 3:10 | 2025-09-17 |  |
 | [Mean Girls](https://open.spotify.com/track/3VJ18D4rUe0KCACLWU8gtB) | [Rachel Crow](https://open.spotify.com/artist/4TIHghOOQ0f8sxHvaV5LOx) | [Rachel Crow](https://open.spotify.com/album/3WnBI3PHFuP3iFWy6CnOUH) | 3:09 | 2024-02-27 |  |
 | [More to Lose](https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:35 | 2025-09-17 |  |
+| [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 | 2025-10-02 |  |
 | [Not Hopeless](https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 4:17 | 2025-09-17 |  |
 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 | 2024-02-27 |  |
 | [Only Ones To Know \(feat\. Leona Lewis\)](https://open.spotify.com/track/64XOpjIAmHElXLV1OqhaOH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:50 | 2024-02-27 |  |

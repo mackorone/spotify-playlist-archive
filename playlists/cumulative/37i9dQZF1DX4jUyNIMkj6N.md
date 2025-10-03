@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-366 songs - 22 hr 5 min
+367 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 | 2023-08-24 | 2024-02-25 |
 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 | 2024-04-18 |  |
 | [I'll Be Here for You](https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr) | [Cocktail Slippers](https://open.spotify.com/artist/6vNj2NchLaDiqBH8nBAF2g) | [I'll Be Here for You](https://open.spotify.com/album/3PgiPyzy6glPCRBRsjhXpK) | 4:25 | 2021-12-02 | 2022-07-27 |
+| [If We Were Vampires](https://open.spotify.com/track/1GffRISfxWmLTwWlN13qLE) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Four Little Songs](https://open.spotify.com/album/6Ds0b3VYhaYtxztw5hh5pJ) | 3:25 | 2025-10-02 |  |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |
 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 | 2023-06-08 | 2024-01-12 |
 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 | 2024-05-23 | 2025-02-28 |
@@ -302,7 +303,7 @@
 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 | 2022-07-14 | 2023-11-24 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-12-02 | 2022-07-29 |
 | [The Speed of Life](https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [The Speed of Life](https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly) | 3:21 | 2024-05-02 | 2025-03-21 |
-| [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 | 2024-03-21 |  |
+| [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 | 2024-03-21 | 2025-10-03 |
 | [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 | 2024-04-18 | 2024-11-06 |
 | [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 | 2022-08-18 | 2023-05-20 |
 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 | 2021-12-02 | 2022-07-29 |

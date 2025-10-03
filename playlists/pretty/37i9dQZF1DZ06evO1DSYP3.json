@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5678,
+  "num_followers": 5677,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAACIYr9y04vP7ZZDbYhYppS",
+  "snapshot_id": "aNxvAAAAAADhJeEtNtDDAeJ60Vc3wp3n",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -659,6 +643,46 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "Hollywood Cole",
+          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mack",
+      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
     },
     {
       "added_at": null,
@@ -703,30 +727,6 @@
       "duration_ms": 201600,
       "name": "shake ya ass (feat. P-Lo)",
       "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Should Know",
-        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
-      },
-      "artists": [
-        {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "Hollywood Cole",
-          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Mack",
-      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
       "duration_ms": 158693,
       "name": "Lightswitch",
       "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1043,22 +1059,6 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,

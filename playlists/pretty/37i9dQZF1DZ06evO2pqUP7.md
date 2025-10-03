@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,500 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,504 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [BAILEN](https://open.spotify.com/track/2dpyrOAUC27gn8284YdSJb) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [9x19, Vol\. 1](https://open.spotify.com/album/1BGtcYwVf8XMeh2J9o4WX1) | 3:42 |
 | 50 | [Si Te Vas Conmigo](https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Si Te Vas Conmigo](https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM) | 2:40 |
 
-Snapshot ID: `aNsdgAAAAADAlZyxuuYzM4P66cEcIGMU`
+Snapshot ID: `aNxvAAAAAAB77Bi1g1XOa61bKMajM9jS`

@@ -2,9 +2,9 @@
 
 ### [afro adura ](https://open.spotify.com/playlist/37i9dQZF1DX0kPgPjaCH1l)
 
-> Baba God, run am 🙏\. <br/>Cover: Kizz Daniel
+> Baba God, run am 🙏\. <br/>Cover: Bella Shmurda
 
-100 songs - 4 hr 44 min
+101 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [7 DAYS](https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [STREET ANTHEM / 7 DAYS](https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg) | 2:34 | 2025-06-20 | 2025-08-21 |
 | [7AM in Lekki](https://open.spotify.com/track/6iaJo4mAS7qmob0xtJ17sQ) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:30 | 2025-06-20 |  |
 | [Adura](https://open.spotify.com/track/1oK5IICHx1MLPdmvpA1V2j) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Adura](https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1) | 3:11 | 2025-06-20 |  |
-| [Adura](https://open.spotify.com/track/2qio7IEM2RAvSPukUVXBk6) | [Tobbie Hype](https://open.spotify.com/artist/4Bp8hZpxzk6raSVw0hLxsk), [Yunicorn fys](https://open.spotify.com/artist/00MJkzUNB9QX28Q92ObrPB), [Meeza](https://open.spotify.com/artist/0M8Q605RhroqG5TJWMBDuK) | [Adura](https://open.spotify.com/album/5GavwQT7HSyBtUhyqx1D0r) | 3:17 | 2025-09-19 |  |
+| [Adura](https://open.spotify.com/track/2qio7IEM2RAvSPukUVXBk6) | [Tobbie Hype](https://open.spotify.com/artist/4Bp8hZpxzk6raSVw0hLxsk), [Yunicorn fys](https://open.spotify.com/artist/00MJkzUNB9QX28Q92ObrPB), [Meeza](https://open.spotify.com/artist/0M8Q605RhroqG5TJWMBDuK) | [Adura](https://open.spotify.com/album/5GavwQT7HSyBtUhyqx1D0r) | 3:17 | 2025-09-19 | 2025-10-03 |
 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 | 2025-06-20 |  |
 | [Alade Ade](https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alade Ade](https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r) | 2:42 | 2025-06-20 | 2025-08-15 |
 | [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 | 2025-06-20 |  |
@@ -87,6 +87,7 @@
 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 | 2025-06-20 |  |
 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 | 2025-06-27 |  |
 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 | 2025-06-20 |  |
+| [Sanity](https://open.spotify.com/track/1GANaghGjua91HxOMAogD1) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Sanity](https://open.spotify.com/album/76pQzIESUzjYRDpxQHTbDm) | 3:28 | 2025-10-03 |  |
 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-06-20 |  |
 | [Shkran Lak](https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:04 | 2025-06-20 |  |
 | [Sho Mo Mi](https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1) | 2:34 | 2025-06-27 |  |

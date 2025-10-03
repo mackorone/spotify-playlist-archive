@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: Mavo",
+  "description": "The tracks heating up the continent right now!  Cover: Adekunle Gold",
   "name": "African Heat",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 518307,
       "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
       "url": "https://open.spotify.com/track/62auSQwzIlyVuqUsxd4w63"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 323362,
       "name": "Down (feat. Lintonto & Xman Rsa)",
       "url": "https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK"
@@ -4148,6 +4148,36 @@
       "duration_ms": 377920,
       "name": "Funk 99",
       "url": "https://open.spotify.com/track/6hqel7QjWBsjk1LJG6J0pD"
+    },
+    {
+      "album": {
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148550,
+      "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
+      "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
     },
     {
       "album": {
@@ -6340,6 +6370,24 @@
       "duration_ms": 191827,
       "name": "Love - Nigeria Version",
       "url": "https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "Love Is An Action",
+      "url": "https://open.spotify.com/track/4p5vOaWbhfLMdXmfHkPvEW"
     },
     {
       "album": {

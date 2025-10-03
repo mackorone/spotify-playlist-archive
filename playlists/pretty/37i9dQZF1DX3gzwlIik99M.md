@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,127 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,082 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
 | 50 | [Las Venas Abiertas...](https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy) | [Perpetual Warfare](https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG) | [Earthliens](https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l) | 4:10 |
 
-Snapshot ID: `AAAAAP19LmyVz4MZv6Z0BEglv3wcf6zI`
+Snapshot ID: `AAAAAP2OW3hy7Ps67JOGKAv3PD8rQsW5`

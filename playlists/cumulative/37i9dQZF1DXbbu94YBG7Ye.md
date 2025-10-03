@@ -2,9 +2,9 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> 📸 Rels B
+> 📸 Milo J
 
-606 songs - 1 day 7 hr 22 min
+607 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-06 | 2022-06-17 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-02-23 | 2023-05-19 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-07-27 | 2023-12-09 |
-| [Cicatrices](https://open.spotify.com/track/23FJGRug9hlYUIBnrmkIBX) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Mentira La Verdad](https://open.spotify.com/album/6MYRm0FnvxfQVxc2U6IVPA) | 3:48 | 2025-06-12 |  |
+| [Cicatrices](https://open.spotify.com/track/23FJGRug9hlYUIBnrmkIBX) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Mentira La Verdad](https://open.spotify.com/album/6MYRm0FnvxfQVxc2U6IVPA) | 3:48 | 2025-06-12 | 2025-10-03 |
 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 | 2024-05-02 | 2024-06-01 |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-04-05 | 2023-10-30 |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-05-26 | 2022-08-12 |
@@ -213,6 +213,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-02-15 | 2024-09-06 |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-01-05 | 2023-02-10 |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-08-26 | 2022-10-28 |
+| [Gil](https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:53 | 2025-10-02 |  |
 | [Gitana \(feat\. Bryartz\)](https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:41 | 2024-05-17 | 2024-07-27 |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 | 2023-01-27 |
 | [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 | 2025-05-30 | 2025-08-16 |
@@ -358,7 +359,7 @@
 | [NIÑO GORDO FLACO](https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:24 | 2021-12-31 | 2022-02-04 |
 | [NO DA MÁS](https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:48 | 2023-11-16 | 2024-04-05 |
 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 | 2024-11-28 | 2024-12-06 |
-| [No Podrás \- En Vivo](https://open.spotify.com/track/3X8jKI7kHrbhqgLboG14tw) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [De Córdoba Pal Mundo](https://open.spotify.com/album/4FRH841tSgQ6iNwKlcNGf3) | 4:32 | 2025-08-14 |  |
+| [No Podrás \- En Vivo](https://open.spotify.com/track/3X8jKI7kHrbhqgLboG14tw) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [De Córdoba Pal Mundo \(En Vivo\)](https://open.spotify.com/album/4FRH841tSgQ6iNwKlcNGf3) | 4:32 | 2025-08-14 |  |
 | [NO SÉ QUIÉN SOS](https://open.spotify.com/track/4nq6FkC0jH2fgfVSziGMmZ) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [NO SÉ QUIÉN SOS](https://open.spotify.com/album/79X2IHIzg5pNlc7K4Ag6Vy) | 3:03 | 2025-05-16 | 2025-06-20 |
 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-06-05 |  |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-05-11 | 2023-11-11 |

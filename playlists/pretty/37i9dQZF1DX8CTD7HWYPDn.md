@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 
 > Tu karaoke personal para darlo todo cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,110 likes - 200 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,669,787 likes - 200 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 | 188 | [I Gotta Feeling](https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[International Version\]](https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB) | 4:49 |
 | 189 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 |
 | 190 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 |
-| 191 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 |
-| 192 | [Come As You Are](https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 3:38 |
+| 191 | [Come As You Are](https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 3:38 |
+| 192 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 |
 | 193 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
 | 194 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
 | 195 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Tiara Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,079 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,097 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,743 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,750 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 44 | [St\. Tropez](https://open.spotify.com/track/0B33BMeMUrRcINBvt7iREA) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [St\. Tropez](https://open.spotify.com/album/6E4dxiZT2g82W7hTVe4SKl) | 2:45 |
 | 45 | [Qué Fuimos \(feat\. Matisse\)](https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:29 |
 | 46 | [¿De qué vamos a hablar?](https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [¿De qué vamos a hablar?](https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh) | 3:05 |
-| 47 | [Bandera Blanca](https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:12 |
-| 48 | [Pagamento](https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:13 |
+| 47 | [Pagamento](https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:13 |
+| 48 | [Bandera Blanca](https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:12 |
 | 49 | [Duele Amarte Así \(feat\. Pedro Capó\)](https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:48 |
 | 50 | [Vivo](https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 4:14 |
 
-Snapshot ID: `aNsdgAAAAAC9XnFTVBwmClWPBjntrUVB`
+Snapshot ID: `aNxvAAAAAAAM7G5BN0soa7nHWXn8iVUQ`

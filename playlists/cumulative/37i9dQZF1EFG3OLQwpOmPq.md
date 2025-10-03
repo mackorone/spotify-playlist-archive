@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 5 hr 31 min
+116 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [new heartbreak](https://open.spotify.com/track/7as2G7f005jH4jNMI4UX8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [new heartbreak](https://open.spotify.com/album/736wZF8meYCjbGUvpjZ1yX) | 3:14 | 2022-05-29 | 2022-07-28 |
 | [No Lo Sé](https://open.spotify.com/track/2XcefXbBEpVDyPrPXDBhpc) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:20 | 2022-06-15 |  |
 | [No Matter the Miles](https://open.spotify.com/track/2rHIarcktKShfbSTnd3V7c) | [Taylor Dukes](https://open.spotify.com/artist/4IKsiLmD4PNTbwVaEg3NSV), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb), [Caitlin Eadie](https://open.spotify.com/artist/280gGNu14wG60HkEvvJ3p8) | [No Matter the Miles](https://open.spotify.com/album/1Dk3FGYitZV8U4CDI222hJ) | 3:05 | 2022-05-29 |  |
-| [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 | 2022-05-29 |  |
+| [Not Your Baby](https://open.spotify.com/track/2pYVojuPedrHHmbjiL2V7e) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/0B1wGRdnLlKE7VSY1YBbZ9) | 3:34 | 2025-10-02 |  |
+| [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 | 2022-05-29 | 2025-10-03 |
 | [one that got away](https://open.spotify.com/track/6D9tzZdTwuPMxVZ2gD6GqJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:21 | 2022-05-29 |  |
 | [paper ceilings](https://open.spotify.com/track/06jflCGJadQmfvMjXQYHlw) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 2](https://open.spotify.com/album/6UiPYjrJQaApMa78xGRe3q) | 2:36 | 2022-05-29 | 2022-07-28 |
 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 | 2022-07-27 |  |

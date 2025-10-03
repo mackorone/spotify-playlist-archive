@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Norah Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,547 likes - 195 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,559 likes - 195 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,11 +195,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 185 | [Guess Who I Saw Today \- Spotify Singles](https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 6:08 |
 | 186 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
 | 187 | [Loyal to Me \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 3:27 |
-| 188 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
+| 188 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
 | 189 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 |
-| 190 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
-| 191 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
-| 192 | [Summer Rain \- Spotify Singles](https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:35 |
+| 190 | [Summer Rain \- Spotify Singles](https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:35 |
+| 191 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
+| 192 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
 | 193 | [Rockstar \- Spotify Singles](https://open.spotify.com/track/1vhlo7Ra1stG1lZvG0TuZH) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:23 |
 | 194 | [The Great Pretender \- Spotify Singles](https://open.spotify.com/track/23pT5oehBgjEfysUkwWouv) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 3:26 |
 | 195 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |

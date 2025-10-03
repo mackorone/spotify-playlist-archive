@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Tweet",
-  "num_followers": 785624,
+  "num_followers": 785612,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1413,42 +1413,6 @@
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Good Morning (feat. Susan Carol)",
-        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Susan Carol",
-          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Good Morning (feat. Susan Carol)",
-      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
-    },
-    {
-      "added_at": "2025-05-16 05:40:38",
-      "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35"
-      },
-      "artists": [
-        {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
-        }
-      ],
-      "duration_ms": 205344,
-      "name": "FEEL GOOD",
-      "url": "https://open.spotify.com/track/2jNtUfgoadBSo5pPfbdtxX"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "In Limbo",
@@ -1467,6 +1431,42 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+    },
+    {
+      "added_at": "2025-05-16 05:40:38",
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35"
+      },
+      "artists": [
+        {
+          "name": "Asiahn",
+          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+        }
+      ],
+      "duration_ms": 205344,
+      "name": "FEEL GOOD",
+      "url": "https://open.spotify.com/track/2jNtUfgoadBSo5pPfbdtxX"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Good Morning (feat. Susan Carol)",
+        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Good Morning (feat. Susan Carol)",
+      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
-      "added_at": "2025-05-09 04:00:23",
+      "added_at": "2025-08-15 19:53:41",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 213393,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
+      "duration_ms": 136800,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
+      "added_at": "2025-05-09 04:00:23",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 213393,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
+    },
+    {
       "added_at": "2024-06-07 12:35:37",
       "album": {
         "name": "TIMELESS",
@@ -1667,22 +1683,6 @@
       "duration_ms": 207318,
       "name": "Weird (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
-    },
-    {
-      "added_at": "2025-08-15 19:53:41",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1933,6 +1933,22 @@
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+    },
+    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Catching Feelings",
@@ -1951,22 +1967,6 @@
       "duration_ms": 205028,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
-      "added_at": "2024-11-15 07:05:31",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 186259,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
-    },
-    {
       "added_at": "2025-02-28 06:27:22",
       "album": {
         "name": "Hands",
@@ -2031,6 +2015,22 @@
       "duration_ms": 172444,
       "name": "Hands",
       "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
+    },
+    {
+      "added_at": "2024-11-15 07:05:31",
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 186259,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
     },
     {
       "added_at": "2024-08-30 05:27:28",
@@ -2073,26 +2073,6 @@
       "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 224218,
-      "name": "Blame (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
-    },
-    {
       "added_at": "2023-05-20 16:10:43",
       "album": {
         "name": "Soul,PRESENT",
@@ -2123,6 +2103,26 @@
       "duration_ms": 182741,
       "name": "Ms. Goody Two Shoes",
       "url": "https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 224218,
+      "name": "Blame (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -2257,22 +2257,6 @@
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
-      "added_at": "2025-09-12 20:59:08",
-      "album": {
-        "name": "IT'S SO BEAUTIFUL",
-        "url": "https://open.spotify.com/album/6zU3fCxDWkiWfV4JUM6iPY"
-      },
-      "artists": [
-        {
-          "name": "FACESOUL",
-          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
-        }
-      ],
-      "duration_ms": 211970,
-      "name": "ITS SO BEAUTIFUL",
-      "url": "https://open.spotify.com/track/4EAjvZALXlPz59hy314e5m"
-    },
-    {
       "added_at": "2025-09-05 04:53:23",
       "album": {
         "name": "Still Blessed",
@@ -2287,6 +2271,22 @@
       "duration_ms": 217480,
       "name": "Still Blessed",
       "url": "https://open.spotify.com/track/20qPYWhpCFufU2aTPK9ZSu"
+    },
+    {
+      "added_at": "2025-09-12 20:59:08",
+      "album": {
+        "name": "IT'S SO BEAUTIFUL",
+        "url": "https://open.spotify.com/album/6zU3fCxDWkiWfV4JUM6iPY"
+      },
+      "artists": [
+        {
+          "name": "FACESOUL",
+          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
+        }
+      ],
+      "duration_ms": 211970,
+      "name": "ITS SO BEAUTIFUL",
+      "url": "https://open.spotify.com/track/4EAjvZALXlPz59hy314e5m"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2401,6 +2401,22 @@
       "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2431,22 +2447,6 @@
       "duration_ms": 290224,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LOW TIDE",
-      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
       "added_at": "2025-04-25 07:19:25",
@@ -2533,6 +2533,22 @@
       "url": "https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 331177,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/6F4MydgbaNkseNu5quueaF"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
@@ -2555,22 +2571,6 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 331177,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/6F4MydgbaNkseNu5quueaF"
     },
     {
       "added_at": "2022-10-28 07:50:50",
@@ -2621,26 +2621,6 @@
       "url": "https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb"
     },
     {
-      "added_at": "2024-05-10 05:54:01",
-      "album": {
-        "name": "Lotus Glow (Deluxe)",
-        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "Le D\u00e9part - Feat. Durand Bernarr",
-      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2663,6 +2643,26 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
+    },
+    {
+      "added_at": "2024-05-10 05:54:01",
+      "album": {
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
     }
   ],
   "unique_name": "Soul Coffee",

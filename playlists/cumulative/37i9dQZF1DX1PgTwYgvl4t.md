@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-250 songs - 1 day 5 hr 52 min
+251 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bless The Lord God](https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Bless The Lord God](https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA) | 4:05 | 2024-11-22 | 2025-01-03 |
 | [Blessed Be Your Name](https://open.spotify.com/track/19naPYtiHYPNmXUNfHVnj3) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Blessed Be Your Name](https://open.spotify.com/album/2bPxiD3QggQ6JLOr8O890p) | 5:11 | 2025-05-30 | 2025-08-01 |
 | [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/track/412oQBTiuIDTCDLuVALKXx) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Break forth \(Isaiah 54:1\-4\) \[Live From The Song Of Sons Project\]](https://open.spotify.com/album/6MFNHyKp4ABkLOfzXdpAu9) | 12:24 | 2024-09-06 | 2024-11-08 |
+| [Broken Pieces](https://open.spotify.com/track/4Go1h3lxxvLvQAu0VH2APR) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Broken Pieces](https://open.spotify.com/album/2GkBQoMhK1xUXgRm37WMr3) | 9:00 | 2025-10-03 |  |
 | [By Your Mercy \- Live](https://open.spotify.com/track/4WzIddM6LC55iSNu2KKNmx) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [By Your Mercy](https://open.spotify.com/album/1CeMJ8F8hcDd2GsDA9inj0) | 7:42 | 2025-02-21 |  |
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 | 2025-01-31 |
 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 | 2024-05-09 |  |
@@ -199,7 +200,7 @@
 | [Revival Is Here](https://open.spotify.com/track/3MevbiyEBTpNq6RXcH99cG) | [Henry praise](https://open.spotify.com/artist/1X0clNkDAFGRPTC9F2buZo), [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK), [Minister Frank Evidence](https://open.spotify.com/artist/5jlvKSadfgHMwW1Qd5xcLH) | [Revival Is Here](https://open.spotify.com/album/2CXxrqiubmUgRq2kU0Obge) | 9:16 | 2025-03-21 | 2025-05-23 |
 | [Santo](https://open.spotify.com/track/54DFtp6XLPw3uD3Nd43pKz) | [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Santo](https://open.spotify.com/album/0uKH4oYF8OSvIMOGRkxrsx) | 2:54 | 2025-06-27 | 2025-08-22 |
 | [Secured](https://open.spotify.com/track/33nG0ED44rGYPMpt7IR6QJ) | [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq), [Ti’fe](https://open.spotify.com/artist/6ulRI2tQW3DCVCpzZ2rtMX) | [Secured](https://open.spotify.com/album/3PU3K7nsTJs5HPurLHGKN9) | 5:18 | 2025-07-18 | 2025-08-22 |
-| [Seek You With All My Heart](https://open.spotify.com/track/7CxH79KlV8UGqqvSCPQAiG) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Seek You With All My Heart](https://open.spotify.com/album/2TcP2fSs77PqAZuAwpsTM4) | 4:25 | 2025-09-26 |  |
+| [Seek You With All My Heart](https://open.spotify.com/track/7CxH79KlV8UGqqvSCPQAiG) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Seek You With All My Heart](https://open.spotify.com/album/2TcP2fSs77PqAZuAwpsTM4) | 4:25 | 2025-09-26 | 2025-10-03 |
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 |  |
 | [Sleeping Giant](https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Sleeping Giant](https://open.spotify.com/album/3dXNiiRGJkDlzQFl2ei2Dd) | 7:27 | 2025-06-12 | 2025-08-01 |
 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 | 2024-08-23 | 2025-09-19 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 8 hr 30 min
+176 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Tarassaco e Lacrime Artificiali \(feat\. EDONiCO\)](https://open.spotify.com/track/1S86ppiA4TsDgTJW8Rt1IE) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:14 | 2024-06-10 |  |
 | [Terzo Cuore](https://open.spotify.com/track/1L0z42HaQqXYK1y91FLwU1) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [La Strada Per Agartha](https://open.spotify.com/album/7BtiyGc94I5PGk144t3dys) | 3:37 | 2024-04-29 |  |
 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 | 2024-04-29 |  |
+| [Tonight gospel \(feat\. Mecna\)](https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:42 | 2025-10-02 |  |
 | [Tutto inutile](https://open.spotify.com/track/0231KMdHUBksvW0vteMze1) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 2:50 | 2024-04-29 |  |
 | [Un buon inizio](https://open.spotify.com/track/1VlJaPRbfyyOkEVaWJhRdg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:10 | 2024-04-29 |  |
 | [una bella canzone](https://open.spotify.com/track/5OuXhUBx0w4ruJymbEFgYJ) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:39 | 2024-07-23 |  |

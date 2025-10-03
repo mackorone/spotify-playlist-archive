@@ -5,24 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2024-05-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
-    },
-    {
-      "album": {
         "name": "NOWHERE",
         "url": "https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ"
       },
@@ -4811,6 +4793,24 @@
     },
     {
       "album": {
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/0UVd1KUra44FpzWYa3ZIg0"
       },
@@ -4844,6 +4844,24 @@
       "duration_ms": 164773,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx"
+    },
+    {
+      "album": {
+        "name": "did i tell u that i miss u",
+        "url": "https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115921,
+      "name": "did i tell u that i miss u",
+      "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
     },
     {
       "album": {
@@ -7694,6 +7712,24 @@
       "duration_ms": 186947,
       "name": "Ghost Under My Skin",
       "url": "https://open.spotify.com/track/71Sgjy9uRx3DNpjF47iXGU"
+    },
+    {
+      "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118461,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
     },
     {
       "album": {
@@ -11411,6 +11447,28 @@
     },
     {
       "album": {
+        "name": "Late Night Confessions",
+        "url": "https://open.spotify.com/album/1n8yAJ1XW7rewo9xNJC80Y"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199504,
+      "name": "Late Night Confessions",
+      "url": "https://open.spotify.com/track/6PSK7yu4t6b7u6s8hx7rjE"
+    },
+    {
+      "album": {
         "name": "Peace Is The Mission (Extended)",
         "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
       },
@@ -13927,6 +13985,28 @@
     },
     {
       "album": {
+        "name": "My Name (Slowed)",
+        "url": "https://open.spotify.com/album/4POetWbqLZVXmeaF6XZzKH"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244819,
+      "name": "My Name - Slowed",
+      "url": "https://open.spotify.com/track/6UshopviXF7jJQpaoRhamC"
+    },
+    {
+      "album": {
         "name": "My Own Advice",
         "url": "https://open.spotify.com/album/38RdF3YX7jMghQqhjAvXi4"
       },
@@ -15648,7 +15728,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 151384,
       "name": "Pain",
       "url": "https://open.spotify.com/track/35aX4vMMSd78L1nwvGKvzq"
@@ -15830,7 +15910,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -15852,7 +15932,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 153103,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB"
@@ -16502,6 +16582,24 @@
       "duration_ms": 93330,
       "name": "Pumpfake",
       "url": "https://open.spotify.com/track/6GwdfiUA3p0zyXpP7LelL5"
+    },
+    {
+      "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/1WnVA6pu7yWWKDysSpzGW8"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy"
     },
     {
       "album": {
@@ -18847,6 +18945,28 @@
     },
     {
       "album": {
+        "name": "Sleepers",
+        "url": "https://open.spotify.com/album/3X9mqB8M9K3yMF4swt7Urg"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201345,
+      "name": "Sleepers",
+      "url": "https://open.spotify.com/track/1Sv01z4JcUJDjoo7RnIKc6"
+    },
+    {
+      "album": {
         "name": "Slow Burning",
         "url": "https://open.spotify.com/album/0fFE1sf0x9kbMiLMtzf3JD"
       },
@@ -19156,7 +19276,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 251679,
       "name": "Speakers on Blast",
       "url": "https://open.spotify.com/track/3Djj5Pg31kn6V8NLHVKWPQ"
@@ -21707,6 +21827,32 @@
     },
     {
       "album": {
+        "name": "UGOTURWAY",
+        "url": "https://open.spotify.com/album/71rAtUiFJolzgHQwqMoerI"
+      },
+      "artists": [
+        {
+          "name": "Low Poly",
+          "url": "https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc"
+        },
+        {
+          "name": "jordnmoody",
+          "url": "https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU"
+        },
+        {
+          "name": "as\u00e1u",
+          "url": "https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "UGOTURWAY",
+      "url": "https://open.spotify.com/track/5fPiWAtAI7lfFfb8AGgxSP"
+    },
+    {
+      "album": {
         "name": "Uh Uh",
         "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
@@ -23190,7 +23336,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 96000,
       "name": "Whine in Brazil",
       "url": "https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB"
@@ -23208,7 +23354,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 95124,
       "name": "WHINE IN BRAZIL FUNK",
       "url": "https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q"
@@ -23501,6 +23647,28 @@
     },
     {
       "album": {
+        "name": "Worship Me Slowly",
+        "url": "https://open.spotify.com/album/49GxUO9Y1rJSinECAH5GZw"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192915,
+      "name": "Worship Me Slowly",
+      "url": "https://open.spotify.com/track/1tOUI5gnBn97ajxXXpOwto"
+    },
+    {
+      "album": {
         "name": "Worth It",
         "url": "https://open.spotify.com/album/18xBXYF9HMCYwH97Ib4YUI"
       },
@@ -23760,6 +23928,24 @@
       "duration_ms": 137157,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/76pR2Xb4rDq3oD3ZvKz3oG"
+    },
+    {
+      "album": {
+        "name": "yezzir",
+        "url": "https://open.spotify.com/album/4bnx218mT9gJOQILkqDo1t"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106814,
+      "name": "yezzir",
+      "url": "https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga"
     },
     {
       "album": {

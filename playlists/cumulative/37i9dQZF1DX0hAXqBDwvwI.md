@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-804 songs - 2 day 4 hr 7 min
+805 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-11-12 | 2024-04-19 |
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-14 | 2022-07-02 |
 | [HORIZON](https://open.spotify.com/track/0jNd21lxSmPCjSmtTyoNiG) | [TEAM SHACHI](https://open.spotify.com/artist/6PWtv6Ry0vlA2WkbFcQfro) | [HORIZON](https://open.spotify.com/album/27KWr8ETlrdCAR9doDdhSX) | 4:17 | 2022-06-24 | 2022-07-19 |
+| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-10-02 |  |
 | [Howling](https://open.spotify.com/track/2twCEq28Qw7FcsznfX4HNv) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/2XJrLMBNy1Ln56nHrW1Uic) | 4:09 | 2022-06-03 | 2022-07-25 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-19 |  |
 | [I will...](https://open.spotify.com/track/4DGJQEY7NUtuKRL6IX20U6) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/5NiJNFnTIXAY1vbDLOaohA) | 4:34 | 2022-06-21 | 2022-07-25 |
@@ -318,7 +319,7 @@
 | [RUNAWAY](https://open.spotify.com/track/3A6IVD2ONUmlRqjol8uDt3) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:01 | 2022-06-14 | 2022-07-27 |
 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 | 2022-06-03 | 2022-06-22 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-10-08 | 2023-11-10 |
-| [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2025-01-14 |  |
+| [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2025-01-14 | 2025-10-03 |
 | [See The Light](https://open.spotify.com/track/6lEmBW6LNglffHhnbkosMs) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Switch/PS4『ゆるキャン△ Have a nice day!』OP&ED](https://open.spotify.com/album/3eXDglDIgEA8D7Wxem6WW0) | 3:49 | 2022-07-07 | 2022-07-10 |
 | [selfish](https://open.spotify.com/track/0PjnMsqLESCjo6RLd5qLgo) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」エンディングテーマ「selfish」](https://open.spotify.com/album/5Qgz3sULal1qqcknzY8sIa) | 3:52 | 2022-07-14 | 2022-07-26 |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-06-14 | 2022-07-29 |

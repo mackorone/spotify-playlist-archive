@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Wolf Alice au top des meilleurs morceaux rock du moment.",
+  "description": "Aerosmith x YUNGBLUD au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 223906,
       "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
       "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
@@ -2977,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "I Pray",
+        "url": "https://open.spotify.com/album/0sEHxMrtx2R2fPXvUTrQcD"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/52o21vlpbMhNEGfH8pZFL5"
+    },
+    {
+      "album": {
         "name": "I Want You To Know Me",
         "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
       },
@@ -3144,6 +3162,24 @@
       "duration_ms": 148863,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "album": {
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 255272,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/0iyFCG525ciT3cq01VURT5"
@@ -4224,6 +4260,28 @@
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+    },
+    {
+      "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
     },
     {
       "album": {
@@ -6722,7 +6780,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 200089,
       "name": "There's No Future In Optimism",
       "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"

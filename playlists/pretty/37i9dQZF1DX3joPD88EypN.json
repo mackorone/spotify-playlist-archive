@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 57221,
+  "num_followers": 57269,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6teborg Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "No Cure",
         "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 268565,
       "name": "Apr\u00e8s Un R\u00eave",
       "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "1905",
-        "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "1905",
-      "url": "https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "The Ground",
         "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 295866,
       "name": "Twins",
       "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "1905",
+        "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
+      },
+      "artists": [
+        {
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "1905",
+      "url": "https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "First Song",
         "url": "https://open.spotify.com/album/3QQclg7ryOGX2BjlxeTAnu"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 292936,
       "name": "Elegy for an Angel",
       "url": "https://open.spotify.com/track/0AyVDuy1RxHq8ZNJpWxeAa"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Touch of Time",
-        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        }
-      ],
-      "duration_ms": 526520,
-      "name": "Redream",
-      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Touch of Time",
+        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        }
+      ],
+      "duration_ms": 526520,
+      "name": "Redream",
+      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Imaginary Mountains",
+        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
+      },
+      "artists": [
+        {
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Iki Keklik",
+      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Imaginary Mountains",
-        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Iki Keklik",
-      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Innr\u00f8nt",
-        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Innr\u00f8nt",
-      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Sharing",
         "url": "https://open.spotify.com/album/0QkNdXxtPmsaKGKrn0B5fb"
       },
@@ -1635,6 +1615,42 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Innr\u00f8nt",
+        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Innr\u00f8nt",
+      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Painting Music",
         "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Kinder Call",
         "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 246506,
       "name": "Lena",
       "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
+      },
+      "artists": [
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        }
+      ],
+      "duration_ms": 380789,
+      "name": "August",
+      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1707,22 +1723,6 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
-      },
-      "artists": [
-        {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
-        }
-      ],
-      "duration_ms": 380789,
-      "name": "August",
-      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K"
-      },
-      "artists": [
-        {
-          "name": "Kaisa's Machine",
-          "url": "https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl"
-        },
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 348149,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Funeral Dance",
         "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 320534,
       "name": "S\u00e6velid",
       "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K"
+      },
+      "artists": [
+        {
+          "name": "Kaisa's Machine",
+          "url": "https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl"
+        },
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 348149,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY"
     }
   ],
   "unique_name": "Nordic Jazz",

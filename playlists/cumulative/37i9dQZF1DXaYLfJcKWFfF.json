@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "All My Friends Are Changing",
+        "url": "https://open.spotify.com/album/3FHOjRFIN1kanRqWHfphui"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137984,
+      "name": "All My Friends Are Changing",
+      "url": "https://open.spotify.com/track/0KYcBZxXNSbU3N4bxoTsps"
+    },
+    {
+      "album": {
         "name": "All On Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
       },
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 213720,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/6yGXvc3MzZOYIfh5bVwe07"
@@ -4231,6 +4249,28 @@
     },
     {
       "album": {
+        "name": "Realm of the Night",
+        "url": "https://open.spotify.com/album/3Aj7cbbmwzfmG0rTNqgSFY"
+      },
+      "artists": [
+        {
+          "name": "Moodship",
+          "url": "https://open.spotify.com/artist/4kn21HvqzarjxBu0ZDarWM"
+        },
+        {
+          "name": "Ronan Skillen",
+          "url": "https://open.spotify.com/artist/1IVS8JJU7Ffpx7nPL8VRme"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346598,
+      "name": "Realm of the Night",
+      "url": "https://open.spotify.com/track/1tk5NZ2ElIpb6a5kE5RjS3"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/23rK7zw01dbxldl7KQYNRu"
       },
@@ -4696,7 +4736,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 186407,
       "name": "Sometin Small",
       "url": "https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK"
@@ -5204,6 +5244,24 @@
       "duration_ms": 141981,
       "name": "The Coffee Song",
       "url": "https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of"
+    },
+    {
+      "album": {
+        "name": "So Glad We're Friends",
+        "url": "https://open.spotify.com/album/6Rda1auKNEyfshpxwlOx9W"
+      },
+      "artists": [
+        {
+          "name": "Lo-Ghost",
+          "url": "https://open.spotify.com/artist/2ylCUQW0mn5N0gC0Ko7HNa"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202894,
+      "name": "The Cut Worm",
+      "url": "https://open.spotify.com/track/4FZgKRGzkaz4YqFRzFev1K"
     },
     {
       "album": {
@@ -5986,7 +6044,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 192592,
       "name": "When I Am Home",
       "url": "https://open.spotify.com/track/4egw8ZWUgQF7LfxPJCA7Nd"
@@ -6076,7 +6134,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 165703,
       "name": "Wishbone - Acoustic",
       "url": "https://open.spotify.com/track/2COv0NGUIsXwZxhxXtdQiH"

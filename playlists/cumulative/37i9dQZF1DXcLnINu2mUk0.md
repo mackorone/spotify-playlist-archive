@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Nenny
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Guga
 
-797 songs - 1 day 18 hr 5 min
+798 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Beijo Teu](https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beijo Teu](https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT) | 3:41 | 2024-12-06 |  |
 | [Bem Flam](https://open.spotify.com/track/11n5HTMsLZwrlXbq5R8PRX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Bem Flam](https://open.spotify.com/album/3beKsW0TQ0AtbRGLlAuxdk) | 4:04 | 2023-12-15 | 2024-01-05 |
 | [Bem Li](https://open.spotify.com/track/2DidJYeb38gHwFIT3B0UXy) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bem Li](https://open.spotify.com/album/0O6l4KIuMLNziHEqrTplRf) | 3:35 | 2023-11-10 | 2023-12-09 |
-| [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 | 2024-06-06 | 2025-09-30 |
+| [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 | 2024-06-06 |  |
 | [Besame](https://open.spotify.com/track/53EnHTbtB3zVSclMdHYdSk) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Besame](https://open.spotify.com/album/2uJCifKAOlX7b2lk3yRx9r) | 2:32 | 2024-11-22 | 2024-12-06 |
 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 | 2023-03-01 | 2023-03-25 |
 | [Black Butterfly](https://open.spotify.com/track/2SPL4QXXmzq1MiGIeLVXrH) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Black Butterfly](https://open.spotify.com/album/6PZfnYoDuxnnelZP58y3Js) | 3:03 | 2024-01-19 | 2024-02-09 |
@@ -160,6 +160,7 @@
 | [Como Seria? / Amor Sóbrio](https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [ALTA COSTURA](https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ) | 3:03 | 2025-01-17 |  |
 | [Como Tu](https://open.spotify.com/track/2gqAMjrQUZxdYzCBhp9X86) | [Deli KC](https://open.spotify.com/artist/4KXgWpeZGnRJJD8yoRQYFz), [BND AJ](https://open.spotify.com/artist/5Ddq6MWmIENLxdwu5v4cvy) | [Como Tu](https://open.spotify.com/album/03Lr0zZfF1ZtWjdgRykjbl) | 3:42 | 2022-07-07 | 2022-07-28 |
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2022-09-08 | 2024-03-15 |
+| [Como É](https://open.spotify.com/track/1RDHqgjj1CFnHevSWYs7X7) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Como É](https://open.spotify.com/album/0vC8sAYctDqO78gq0suN8J) | 2:49 | 2025-10-02 |  |
 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 | 2022-12-02 | 2022-12-24 |
 | [Compensa](https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Compensa](https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY) | 3:11 | 2023-04-27 | 2023-06-30 |
 | [Conexão Azul](https://open.spotify.com/track/1l4MVDQp58XeqCZx7n7om5) | [Calalo](https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs) | [Conexão Azul](https://open.spotify.com/album/67Bwhan77xYqoRiYvjSGXu) | 3:55 | 2023-07-20 | 2023-08-04 |
@@ -453,7 +454,7 @@
 | [Musa](https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Musa](https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck) | 3:32 | 2023-07-20 | 2023-08-11 |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Mónica](https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Mónica](https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG) | 3:12 | 2023-09-07 | 2024-02-16 |
-| [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 | 2025-03-07 | 2025-10-01 |
+| [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 | 2025-03-07 |  |
 | [N'ta Amau](https://open.spotify.com/track/2dQeZjABhYmAHOf8hoa3dr) | [Psyco Pdz](https://open.spotify.com/artist/4lEJQE8znF91LHaCVhm6ZX) | [N'ta Amau](https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU) | 3:36 | 2022-11-25 | 2022-12-24 |
 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 | 2023-06-29 | 2023-07-14 |
 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 | 2022-11-18 | 2023-01-06 |
@@ -580,7 +581,7 @@
 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 | 2022-09-01 | 2022-09-23 |
 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 | 2023-01-20 |  |
 | [Pésnochão](https://open.spotify.com/track/76oG75SvW6KBiVBg5Qb4p5) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [O Último Malmequer](https://open.spotify.com/album/1Ytf8mzxIJynwBstJntllv) | 2:46 | 2025-06-26 | 2025-07-26 |
-| [Pós a Miséria](https://open.spotify.com/track/1c5N56ipm06WLR8xWsgZiq) | [Babysdu](https://open.spotify.com/artist/5OPuUWLmmGJAu4styrru34), [Puto Fox](https://open.spotify.com/artist/2VfW4bw2HIhCvDuhNKaitq) | [Pós a Miséria](https://open.spotify.com/album/4hzgClJFe6uzFz86OUpWMX) | 3:02 | 2025-09-18 |  |
+| [Pós a Miséria](https://open.spotify.com/track/1c5N56ipm06WLR8xWsgZiq) | [Babysdu](https://open.spotify.com/artist/5OPuUWLmmGJAu4styrru34), [Puto Fox](https://open.spotify.com/artist/2VfW4bw2HIhCvDuhNKaitq) | [Pós a Miséria](https://open.spotify.com/album/4hzgClJFe6uzFz86OUpWMX) | 3:02 | 2025-09-18 | 2025-10-03 |
 | [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 | 2023-04-06 | 2023-04-28 |
 | [Quase Me Perdi](https://open.spotify.com/track/2f7Hnuoe0k1HPBZZCzSFKA) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Inês Canelas](https://open.spotify.com/artist/2kKHNDBmOyU6DpyIg9wLmz) | [Quase Me Perdi](https://open.spotify.com/album/6uPor1BpWCrFCOKYFGqQ8N) | 3:53 | 2023-03-03 | 2023-03-25 |
 | [Quem Diria](https://open.spotify.com/track/2OGx0fG4WeIplwMarmls42) | [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Quem Diria](https://open.spotify.com/album/58WJgmGwOlbtMtP3wKcbRc) | 2:51 | 2023-12-08 | 2023-12-22 |
@@ -625,7 +626,7 @@
 | [Saltamos](https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [U7](https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT) | 3:00 | 2023-07-06 | 2023-07-28 |
 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 | 2022-07-07 | 2025-06-27 |
 | [Sangue](https://open.spotify.com/track/7y7QWBupm0DyjCDOZFUmci) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Sangue](https://open.spotify.com/album/6lT4K9CWMJN0y3tfRspMuW) | 3:02 | 2023-03-14 | 2023-03-31 |
-| [Satisfy My Soul](https://open.spotify.com/track/2g4YarcodUvgTZYANnoTkU) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Satisfy My Soul](https://open.spotify.com/album/3GW9kJ1Xy2zhPugwEZGxIu) | 2:57 | 2025-09-18 |  |
+| [Satisfy My Soul](https://open.spotify.com/track/2g4YarcodUvgTZYANnoTkU) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Satisfy My Soul](https://open.spotify.com/album/3GW9kJ1Xy2zhPugwEZGxIu) | 2:57 | 2025-09-18 | 2025-10-03 |
 | [Saudade](https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/6sNUelgfRXdVV76YIOuGzY) | 5:06 | 2022-07-07 | 2024-04-20 |
 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 | 2022-07-21 | 2024-04-19 |
 | [Saudade](https://open.spotify.com/track/7sBMMplj5JAauU85M4wdvS) | [FR3DDY](https://open.spotify.com/artist/5D4bziCymPVk5UwjMLj33u) | [Passado](https://open.spotify.com/album/05zWfvsJH9b0jYSBo9HERB) | 2:30 | 2023-01-20 | 2023-01-22 |
@@ -676,7 +677,7 @@
 | [Something](https://open.spotify.com/track/6XVYgOYwFSasbsPB41HCFA) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Something](https://open.spotify.com/album/2XyhjxFE8Cp9bwEwy5tWTz) | 4:05 | 2023-11-10 | 2023-11-18 |
 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 | 2024-09-13 |  |
 | [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 | 2024-04-18 | 2024-04-30 |
-| [Sonhos De Uma Criança](https://open.spotify.com/track/0q91TUDvR1zwWv4csvlzoI) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [ALICIA MARQUES](https://open.spotify.com/artist/2X0yRGZEniWxOYwskDiUZ0) | [Sonhos De Uma Criança](https://open.spotify.com/album/1s2sAIUjwAj5utFUjzeVVS) | 2:33 | 2025-09-04 |  |
+| [Sonhos De Uma Criança](https://open.spotify.com/track/0q91TUDvR1zwWv4csvlzoI) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [ALICIA MARQUES](https://open.spotify.com/artist/2X0yRGZEniWxOYwskDiUZ0) | [Sonhos De Uma Criança](https://open.spotify.com/album/1s2sAIUjwAj5utFUjzeVVS) | 2:33 | 2025-09-04 | 2025-10-03 |
 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 | 2024-03-01 | 2024-03-22 |
 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 | 2022-07-07 | 2023-09-22 |
 | [Sou Eu](https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Sou Eu](https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb) | 3:34 | 2023-06-15 | 2023-06-30 |

@@ -6,8 +6,32 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAC8at/MTRCCkHVwdnAQk/ud",
+  "snapshot_id": "aNxvAAAAAACtmisdUYmtN/LxyhQ61uLb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Politics",
+        "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Hood Politics",
+      "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
+    },
     {
       "added_at": null,
       "album": {
@@ -139,22 +163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calzone Tapes 3",
-        "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
         {
-          "name": "Recayd Mob",
-          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 236764,
-      "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
-      "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
     },
     {
       "added_at": null,
@@ -179,26 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+        "name": "Calzone Tapes 3",
+        "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 210489,
-      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
-      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
+      "duration_ms": 236764,
+      "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
+      "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
     },
     {
       "added_at": null,
@@ -483,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRoCERIES",
-        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 226845,
-      "name": "GRoCERIES",
-      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -535,6 +535,30 @@
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRoCERIES",
+        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 226845,
+      "name": "GRoCERIES",
+      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
     },
     {
       "added_at": null,

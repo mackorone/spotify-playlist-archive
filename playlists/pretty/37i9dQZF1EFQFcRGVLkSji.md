@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 152 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 152 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 65 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 66 | [CELEBRATE LIFE](https://open.spotify.com/track/6FagVvK1pxw7dflOgAZG0G) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ant Beale](https://open.spotify.com/artist/5AR8oVaAhBu6x3W9AoluKp), [DRAM](https://open.spotify.com/artist/1V8JxzFgX6DRXjpW65na1D) | [FIREWORKS](https://open.spotify.com/album/6RfdJTFUBXrseitaphVXdA) | 3:19 |
 | 67 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 |
-| 68 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
-| 69 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
+| 68 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
+| 69 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
 | 70 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
 | 71 | [Stain \(feat\. Hunxho and BabyDrill\)](https://open.spotify.com/track/7wV3kIwsnKaKkm3hg2dTKz) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:46 |
 | 72 | [DIAMONDS LIGHTS FAST CARS \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0dE6bo63eqDDfIr8XZhZpN) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 2:41 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 84 | [OUTSIDE](https://open.spotify.com/track/3MMDqI7L2fM1NWZYs6FY53) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [FALCON OF THE MILLENNIUM \- FALCONIA \(DELUXE\)](https://open.spotify.com/album/7bdY8HOG5stSpuoQqa8lnW) | 2:45 |
 | 85 | [can't fight the devil](https://open.spotify.com/track/3ZXOE3r6EP8EqWz40uuyIr) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 3:29 |
 | 86 | [Knights](https://open.spotify.com/track/7B3vxbu42Z0eR8EveO5q8N) | [AQ](https://open.spotify.com/artist/6rYTTx9HCMsfRL3GBecubd) | [Knights](https://open.spotify.com/album/4ey9tfEfPkIniJn5SP61mU) | 2:48 |
-| 87 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 |
-| 88 | [only thing on my mind](https://open.spotify.com/track/6dY6ahXqNkLuiOfCUdse1K) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:42 |
+| 87 | [only thing on my mind](https://open.spotify.com/track/6dY6ahXqNkLuiOfCUdse1K) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:42 |
+| 88 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 |
 | 89 | [triflin'](https://open.spotify.com/track/5vO2tOLf3LiKQgReSLgnrB) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:49 |
 | 90 | [Shake It](https://open.spotify.com/track/7yMRcvVbo8CIy4ZSQQpoVA) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:28 |
 | 91 | [Different](https://open.spotify.com/track/3vRVnRwfuK1leTPcVtNp6h) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Different](https://open.spotify.com/album/0JeuTRnHiyYPbWagWQq0Qr) | 2:17 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 151 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 152 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab9ungAAAACwzk5ttZCYDKFOE1BqpJVY`
+Snapshot ID: `Ab90ZgAAAAD8oQI7Go7budy7bJUJ5YaK`

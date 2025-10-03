@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 ### [獨立最前線](https://open.spotify.com/playlist/37i9dQZF1DXbKxnYoweJNI)
 
-> 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 薛詒丹 \(aDAN\)
+> 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: deca joins
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,890 likes - 139 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,894 likes - 139 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 138 | [Itchy](https://open.spotify.com/track/4b8jMhzPV9Hklx9rWL4ipy) | [BB彈](https://open.spotify.com/artist/3XvsBnr5I2CaTacYhrdAht) | [Itchy](https://open.spotify.com/album/0V9NaFvvq7ECliL1q1B3yO) | 1:07 |
 | 139 | [電影類型](https://open.spotify.com/track/5Fz1TPru3JazP24coSYG6Q) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [星期八](https://open.spotify.com/album/5Gtv0EIhQ8ZA2wvnuj7Dnt) | 2:46 |
 
-Snapshot ID: `AAAAAFggSKUjiWtP4gTXku7tITFBBK/U`
+Snapshot ID: `AAAAAG6EbsEa9wIrKkqzLkjJM4Bh3cV/`

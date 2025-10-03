@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Mariana Nolasco
 
-858 songs - 1 day 18 hr 51 min
+859 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [ARREPIO](https://open.spotify.com/track/0IrFmDVmrV1WDwEgmqtAdF) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Tom Kray](https://open.spotify.com/artist/0AQpmO9NtP3zqyamC0C9Ji) | [REALVERSO: Lado B](https://open.spotify.com/album/0B7FKKGbimmDgBEbQvHYyr) | 2:27 | 2024-01-26 | 2024-02-24 |
 | [As Viagens Inimagináveis de Priska](https://open.spotify.com/track/3AZQGrhcQMegphm79hMgt8) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [As Viagens Inimagináveis de Priska](https://open.spotify.com/album/4jyLacgXK5jTHmMk0EQ2vM) | 2:59 | 2022-12-30 | 2023-01-28 |
 | [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 | 2024-12-13 |  |
-| [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 | 2024-10-04 |  |
+| [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 | 2024-10-04 | 2025-10-03 |
 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 | 2023-01-27 | 2023-07-22 |
 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 | 2023-11-06 | 2024-05-18 |
 | [Até Me Perder](https://open.spotify.com/track/3a7zehPFF57tDwSO47BYQ4) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh), [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Imago Mundi](https://open.spotify.com/album/27XSp4YrzfU3x57kxGpcQI) | 3:24 | 2025-02-07 | 2025-04-25 |
@@ -282,7 +282,7 @@
 | [elevador](https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0) | [elevador](https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa) | 2:42 | 2023-04-21 | 2023-09-02 |
 | [Em Mim Também Doeu](https://open.spotify.com/track/5hYRN8g0wjMA7AoVezrX1p) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Em Mim Também Doeu](https://open.spotify.com/album/48RKNc7bYaa9Y5MkgLqMGC) | 2:28 | 2025-08-29 |  |
 | [Em Você](https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Em Você](https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz) | 2:22 | 2023-09-08 | 2024-05-07 |
-| [Embeleza o Meu Dia](https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Embeleza o Meu Dia](https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln) | 2:52 | 2024-04-09 |  |
+| [Embeleza o Meu Dia](https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Embeleza o Meu Dia](https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln) | 2:52 | 2024-04-09 | 2025-10-03 |
 | [Embriagado de Saudade](https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Embriagado de Saudade](https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX) | 2:35 | 2022-08-05 | 2023-01-28 |
 | [Emocionado](https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Emocionado](https://open.spotify.com/album/09ybjat1ceg69wgLMHOl2S) | 2:46 | 2023-07-14 | 2023-08-19 |
 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 | 2024-12-13 |
@@ -671,6 +671,7 @@
 | [SE JOGA](https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [SE JOGA](https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B) | 2:49 | 2023-09-01 | 2023-10-21 |
 | [Se Me Ver](https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Se Me Ver](https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T) | 2:55 | 2023-09-22 | 2024-08-31 |
 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 | 2023-02-03 | 2023-07-22 |
+| [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 |  |
 | [Se Você Quiser \(Versão\)](https://open.spotify.com/track/7FDk8EX3fuUsSDVbS4gIB3) | [Joe Caetano](https://open.spotify.com/artist/0hUnMWEMD2Om6juG3dBJTE), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Se Você Quiser \(Versão\)](https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4) | 2:42 | 2024-10-18 | 2025-01-18 |
 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 | 2023-02-04 |
 | [Segredos](https://open.spotify.com/track/53o7KBYpJ1OocjYEWjKkGq) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Segredos](https://open.spotify.com/album/1Q1Qx3o5Hrq59roEFhdVvb) | 3:23 | 2024-12-13 | 2025-08-31 |

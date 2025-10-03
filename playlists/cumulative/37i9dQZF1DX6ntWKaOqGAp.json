@@ -23647,6 +23647,24 @@
     },
     {
       "album": {
+        "name": "What's for dinner today?",
+        "url": "https://open.spotify.com/album/7gfEUykZUfEDznPHXr3gxF"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209775,
+      "name": "What's for dinner today?",
+      "url": "https://open.spotify.com/track/4NKJxYKXxlAhJqQRNdl43e"
+    },
+    {
+      "album": {
         "name": "happiness",
         "url": "https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf"
       },
@@ -24794,7 +24812,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 212548,
       "name": "zutto love song",
       "url": "https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW"
@@ -25262,7 +25280,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 167450,
       "name": "\u3044\u3064\u304b\u4f55\u3082\u306a\u3044\u4e16\u754c\u3067",
       "url": "https://open.spotify.com/track/2wZux5EsJfcZF5kgJPtsrq"
@@ -37420,6 +37438,24 @@
       "duration_ms": 215315,
       "name": "\u5305\u5e2f",
       "url": "https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ"
+    },
+    {
+      "album": {
+        "name": "\u5316\u3051\u7269",
+        "url": "https://open.spotify.com/album/4J7pgtevvLL5ckPVAWIVmr"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235503,
+      "name": "\u5316\u3051\u7269",
+      "url": "https://open.spotify.com/track/2E2vLhJXZPFEsy83jhqU7s"
     },
     {
       "album": {

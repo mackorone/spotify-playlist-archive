@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  Karoline Mousing
+> de skarpeste knive i dansk musik  📸  Von Quar
 
-316 songs - 16 hr 3 min
+319 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-07 |  |
 | [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-07-13 |
 | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE) | 2:08 | 2024-09-05 | 2025-01-20 |
-| [Crush](https://open.spotify.com/track/2bxy5KcIllYS4D0TSlXnNf) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Crush](https://open.spotify.com/album/2OzQaOnxPar53ymM66qm4G) | 2:46 | 2025-09-25 |  |
+| [Crush](https://open.spotify.com/track/2bxy5KcIllYS4D0TSlXnNf) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Crush](https://open.spotify.com/album/2OzQaOnxPar53ymM66qm4G) | 2:46 | 2025-09-25 | 2025-10-03 |
 | [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 | 2025-01-10 |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 | 2024-11-27 |
 | [Cursing And Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Cursing and Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo) | 3:05 | 2024-11-28 | 2024-12-13 |
@@ -143,6 +143,7 @@
 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 | 2024-06-27 |  |
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
+| [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2024-11-22 |
 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
@@ -192,6 +193,7 @@
 | [Mand På En Nat](https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [I storslået kinddans, med livet som indsats](https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg) | 2:51 | 2024-06-27 | 2025-02-07 |
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 |  |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-23 | 2025-03-28 |
+| [Mere End Bare Kaffe](https://open.spotify.com/track/04EY5MIcdHXhVIeEKFi79u) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Mere End Bare Kaffe](https://open.spotify.com/album/4uJiYK3mVmoNMLbKe8N7G9) | 3:01 | 2025-10-02 |  |
 | [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 | 2025-06-19 |  |
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
@@ -279,10 +281,11 @@
 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
+| [Track 5](https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 | 2025-09-18 |  |
 | [Turn Around](https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Turn Around](https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE) | 2:56 | 2025-01-30 | 2025-06-10 |
-| [Tusind Tanker](https://open.spotify.com/track/5yri0DKmRzPyZCokwTUJV7) | [tusind.tanker](https://open.spotify.com/artist/5mukpk2rmE5BZHy8VcZ1Kw) | [Tusind Tanker](https://open.spotify.com/album/2I9GACZraIN6yUEkjwo3rD) | 3:36 | 2025-09-25 |  |
+| [Tusind Tanker](https://open.spotify.com/track/5yri0DKmRzPyZCokwTUJV7) | [tusind.tanker](https://open.spotify.com/artist/5mukpk2rmE5BZHy8VcZ1Kw) | [Tusind Tanker](https://open.spotify.com/album/2I9GACZraIN6yUEkjwo3rD) | 3:36 | 2025-09-25 | 2025-10-03 |
 | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/album/70S07sIasspR3twjbfN6BZ) | 3:07 | 2025-02-27 | 2025-06-21 |
 | [Tæt På Paradis](https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Elendig Software](https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o) | 4:03 | 2024-06-27 | 2025-09-05 |
 | [Ude Af Mig Selv](https://open.spotify.com/track/2lELpgEBDOtEaHmPSLZMPd) | [YUMA](https://open.spotify.com/artist/6hnXmNZ0vIfuzEL8xERJ5R) | [Ude Af Mig Selv](https://open.spotify.com/album/0Iaw3BN8KTidkWVVoL7Sct) | 2:36 | 2025-06-12 | 2025-06-20 |
@@ -291,7 +294,7 @@
 | [Uheldig](https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Uheldig](https://open.spotify.com/album/2hE13utkQDgMP4jnbedxOd) | 2:34 | 2024-07-04 | 2024-08-26 |
 | [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 | 2024-08-23 | 2024-09-12 |
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 | 2025-01-10 |
-| [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 | 2025-07-31 |  |
+| [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 | 2025-07-31 | 2025-10-03 |
 | [Un \(Done\)](https://open.spotify.com/track/0NlQLgOZnIgeXnI33NgW8i) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [\(Un\) Done](https://open.spotify.com/album/2ZBw1VZX0sZeVUopv5pKT6) | 2:16 | 2025-07-03 | 2025-07-11 |
 | [Under Din Sne](https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ) | 4:24 | 2024-06-27 | 2025-01-24 |
 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 | 2025-05-01 |  |

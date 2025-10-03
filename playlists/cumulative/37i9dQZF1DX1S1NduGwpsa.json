@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jon Batiste",
+  "description": "The best jazz new releases. Cover: Alfa Mist",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -686,6 +686,28 @@
       "duration_ms": 159680,
       "name": "Almost Like Being in Love",
       "url": "https://open.spotify.com/track/3qizV4OtxenPpgi4GIGR2U"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "Always Be (feat. Kaya Thomas-Dyke)",
+      "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
     },
     {
       "album": {
@@ -4014,7 +4036,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
@@ -7020,7 +7042,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 384243,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
@@ -9136,7 +9158,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
@@ -11548,6 +11570,24 @@
       "duration_ms": 360360,
       "name": "Part VI: An aod vev",
       "url": "https://open.spotify.com/track/5eMWa076yJjGjHoDlO4IpJ"
+    },
+    {
+      "album": {
+        "name": "PAS ENCORE",
+        "url": "https://open.spotify.com/album/4BdYjqlfixvlZzjzfHISXp"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431162,
+      "name": "PAS ENCORE",
+      "url": "https://open.spotify.com/track/1mA8nmjxcmhRERaA7NZAqt"
     },
     {
       "album": {
@@ -17076,6 +17116,36 @@
       "duration_ms": 345060,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6tqZ4GhZeGGe43z52w8A0Z"
+    },
+    {
+      "album": {
+        "name": "Winter in America (12\" Version)",
+        "url": "https://open.spotify.com/album/6wDc9Iabl7Wn3j6QmYrols"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Rich Medina",
+          "url": "https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538199,
+      "name": "Winter in America - 12\" Version",
+      "url": "https://open.spotify.com/track/58uRFOHOP3rnOgMqGnou91"
     },
     {
       "album": {

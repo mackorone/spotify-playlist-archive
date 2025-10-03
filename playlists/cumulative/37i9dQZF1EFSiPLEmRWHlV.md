@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 8 hr 40 min
+153 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Special Thing](https://open.spotify.com/track/2OGcwhOAldo9aiDwBnXMfc) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 4:57 | 2024-06-13 |  |
 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 | 2024-08-20 |  |
 | [Sugar Lemz](https://open.spotify.com/track/2Ns9uTsZgJO1zSWqsdnCQs) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:26 | 2024-06-13 |  |
-| [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2024-06-13 |  |
+| [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2024-06-13 | 2025-10-03 |
+| [Sunshine](https://open.spotify.com/track/25GjBBEFd6RPsCAyMNHJci) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/45IukBzWx0VZBU9CrnhaEZ) | 3:38 | 2025-10-02 |  |
 | [Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7ungYgCb89FcPwKE3tr4fc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [More Than You'll Ever Know / Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7pd9eEy552EVVqscaYry4Z) | 4:47 | 2024-06-13 |  |
 | [Take Control](https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Take Control](https://open.spotify.com/album/56tUVhEvrYo9J3lPZzTy9v) | 4:58 | 2024-08-02 | 2024-09-02 |
 | [Take Control](https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535) | 4:58 | 2024-09-01 |  |

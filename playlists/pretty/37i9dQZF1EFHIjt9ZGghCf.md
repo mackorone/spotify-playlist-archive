@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803 likes - 135 songs - 15 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 804 likes - 135 songs - 15 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 134 | [No One Like The Lord / King of Glory \(feat\. Eniola Abioye\) \- Live](https://open.spotify.com/track/6AcSOvYb3jeOoZ5EAj8BFL) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/0EUFBRnb0TbFkpSFRbIvHY) | 16:54 |
 | 135 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `Ab9ulAAAAAD0iA75mr8uEPu8NBN37qJV`
+Snapshot ID: `Ab90XAAAAACX1By83vWV8mZafeEfANgZ`

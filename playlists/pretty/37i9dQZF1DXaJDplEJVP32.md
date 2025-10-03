@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,190 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,220 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 87 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 88 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 89 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
-| 90 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
-| 91 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
-| 92 | [Light Up the Sky](https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:38 |
-| 93 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
+| 90 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
+| 91 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
+| 92 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
+| 93 | [Light Up the Sky](https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:38 |
 | 94 | [Forever Reign \- Live](https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Jad Gillies](https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 5:43 |
 | 95 | [You're Bigger](https://open.spotify.com/track/2R5yGj0AjYJExnpJyop8k3) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5oUhNjIeLgATnoKVIpUdQZ) | 7:26 |
 | 96 | [Is He Worthy?](https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Resurrection Letters, Vol\. 1](https://open.spotify.com/album/1VBQLRJF7FcTaJITKgqvBO) | 4:33 |

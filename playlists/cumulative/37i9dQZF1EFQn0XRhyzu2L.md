@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-631 songs - 1 day 10 hr 49 min
+633 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 | 2024-02-27 |  |
 | [Celebration](https://open.spotify.com/track/14CuAx9KIrVXC0O4ac91uH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [In Trap We Trust, Vol\. 1](https://open.spotify.com/album/4lU2rIbaKMUbwnN4FQj8Hu) | 4:22 | 2024-02-27 | 2025-07-10 |
 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 | 2024-02-27 |  |
-| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 |  |
+| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 | 2025-10-03 |
 | [Centuries \- Gazzo Remix](https://open.spotify.com/track/4ZzbcSm6MxnC15BcDqEYyK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3) | [Centuries \(Gazzo Remix\)](https://open.spotify.com/album/4dFub54EO7uoweA7OYoZd7) | 4:19 | 2025-05-29 |  |
 | [Centuries \- Remix](https://open.spotify.com/track/4LutIwQfcpXjVs7mIySYCD) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Jonathan "JR" Rotem](https://open.spotify.com/artist/0td8n3WZG9kptG9UsmYfc9) | [Make America Psycho Again](https://open.spotify.com/album/4vfQ7uk37WT80Ed8JeIdNO) | 3:22 | 2025-05-29 |  |
 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 | 2024-02-27 |  |
@@ -281,6 +281,7 @@
 | [Keep Talking \(feat\. Julia Michaels\)](https://open.spotify.com/track/6ATnRclamgZgq5lx5m566f) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:33 | 2024-02-27 |  |
 | [Keeping A Secret](https://open.spotify.com/track/7CoZlkSFHX1UqdJ1S90pc8) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Love, Simon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JHZTusMlrbbTBC3xHt2Gw) | 3:25 | 2024-02-27 |  |
 | [Keisha Complexion](https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Keisha Complexion](https://open.spotify.com/album/2F8Fdmv6gXkewLOgTWD57R) | 3:18 | 2024-02-27 |  |
+| [Kids Can't Sleep](https://open.spotify.com/track/1WOypvJUxOp7wM8F3ByEnP) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [](https://open.spotify.com/album/null) | 2:39 | 2025-10-02 |  |
 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 | 2025-07-10 |  |
 | [Kinda Crazy](https://open.spotify.com/track/59iGOjPSOcPLGl3vqEStUp) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:32 | 2024-02-27 |  |
 | [Kissing Strangers](https://open.spotify.com/track/0w2AqrJ9afRXiTgfgW4tLd) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [DNCE](https://open.spotify.com/album/47QfGuT6GNz7RLEyiJ6CLt) | 3:23 | 2024-02-27 |  |
@@ -596,6 +597,7 @@
 | [Vegas](https://open.spotify.com/track/2Fxx2DILYteh39yff8X5zq) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 2:55 | 2024-02-27 |  |
 | [Voodoo](https://open.spotify.com/track/4ii87tl5oO9CvUuKBn2N5h) | [Rory Grace](https://open.spotify.com/artist/4OvaKHUPMdt57gOzcACn1O) | [Voodoo](https://open.spotify.com/album/7sn8HpX7YJGUf7Q2esmfrP) | 3:11 | 2025-05-31 |  |
 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 | 2024-02-27 |  |
+| [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [](https://open.spotify.com/album/null) | 2:56 | 2025-10-02 |  |
 | [Walking The Wire](https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:52 | 2024-02-27 |  |
 | [Wanna Know Love \- Piano Version](https://open.spotify.com/track/6gdMHSmw3BzqPx4zHwhJ3J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wanna Know Love \(Piano Version\)](https://open.spotify.com/album/5z7248FxCPEAkQ4Xz57UB6) | 3:11 | 2024-02-27 |  |
 | [War Paint](https://open.spotify.com/track/7FzMcPwWshq9KvSJCgycHv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:44 | 2024-02-27 |  |

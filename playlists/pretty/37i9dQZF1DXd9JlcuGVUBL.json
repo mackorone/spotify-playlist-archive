@@ -1,29 +1,13 @@
 {
   "description": "Die beste country musiek. Omslag: Ichnus",
-  "num_followers": 40717,
+  "num_followers": 40732,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGWK1D8iBG7DKkVyo/47y+1nUURw",
+  "snapshot_id": "AAAAAHeDhyr1ATc/BqmNi/T2qqgOLEVA",
   "tracks": [
-    {
-      "added_at": "2025-09-25 22:00:26",
-      "album": {
-        "name": "Almal Weet",
-        "url": "https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg"
-      },
-      "artists": [
-        {
-          "name": "Ichnus",
-          "url": "https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT"
-        }
-      ],
-      "duration_ms": 198923,
-      "name": "Almal Weet",
-      "url": "https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq"
-    },
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
@@ -63,6 +47,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2025-09-25 22:00:26",
+      "album": {
+        "name": "Almal Weet",
+        "url": "https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg"
+      },
+      "artists": [
+        {
+          "name": "Ichnus",
+          "url": "https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT"
+        }
+      ],
+      "duration_ms": 198923,
+      "name": "Almal Weet",
+      "url": "https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -117,22 +117,6 @@
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
     },
     {
-      "added_at": "2025-09-25 22:00:26",
-      "album": {
-        "name": "Honeybee",
-        "url": "https://open.spotify.com/album/68yZOyJg1hfnWfcpq0q1UI"
-      },
-      "artists": [
-        {
-          "name": "Glen Rozi",
-          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/1Zf4uRhtfWbMK9a8My3S03"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Something in the Orange",
@@ -169,22 +153,6 @@
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
-      "added_at": "2025-07-31 22:00:30",
-      "album": {
-        "name": "Acoustic Sessions Vol 1",
-        "url": "https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g"
-      },
-      "artists": [
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Till the neon's gone / Stand by me",
-      "url": "https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Gettin' Old",
@@ -201,52 +169,20 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2025-08-14 22:00:44",
+      "added_at": "2025-07-31 22:00:30",
       "album": {
-        "name": "Reg",
-        "url": "https://open.spotify.com/album/2zKOyA9xXwtmmrOSuobNbU"
+        "name": "Acoustic Sessions Vol 1",
+        "url": "https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g"
       },
       "artists": [
         {
-          "name": "Ariana Venus",
-          "url": "https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe"
+          "name": "Ruan Josh",
+          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
         }
       ],
-      "duration_ms": 219107,
-      "name": "Reg",
-      "url": "https://open.spotify.com/track/2QtC6GutRB7JPpG6spfTtS"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2025-09-19 10:40:37",
-      "album": {
-        "name": "Fight Fire With A Flame",
-        "url": "https://open.spotify.com/album/0e6roXxtOt0WL0s1pVQJd4"
-      },
-      "artists": [
-        {
-          "name": "Christian John",
-          "url": "https://open.spotify.com/artist/5n3HIoI0nArjxKAhQcrSNY"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Fight Fire With A Flame",
-      "url": "https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB"
+      "duration_ms": 272000,
+      "name": "Till the neon's gone / Stand by me",
+      "url": "https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -271,34 +207,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm"
-      },
-      "artists": [
-        {
-          "name": "BlackByrd",
-          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
-        }
-      ],
-      "duration_ms": 203564,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -317,6 +237,38 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
+      "added_at": "2025-09-19 10:40:37",
+      "album": {
+        "name": "Fight Fire With A Flame",
+        "url": "https://open.spotify.com/album/0e6roXxtOt0WL0s1pVQJd4"
+      },
+      "artists": [
+        {
+          "name": "Christian John",
+          "url": "https://open.spotify.com/artist/5n3HIoI0nArjxKAhQcrSNY"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Fight Fire With A Flame",
+      "url": "https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "The Foundation",
@@ -333,20 +285,20 @@
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
-      "added_at": "2025-09-25 22:00:26",
+      "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "Trots Suid-Afrikaans",
-        "url": "https://open.spotify.com/album/2bWD5Ml1rS1QwV5GQfKqGr"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm"
       },
       "artists": [
         {
-          "name": "Corn\u00e9 Louw",
-          "url": "https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ"
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
         }
       ],
-      "duration_ms": 249731,
-      "name": "Trots Suid-Afrikaans",
-      "url": "https://open.spotify.com/track/3cCDPHbD2CtNzBaAb1vTz4"
+      "duration_ms": 203564,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -385,6 +337,22 @@
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
     },
     {
+      "added_at": "2025-10-02 22:00:48",
+      "album": {
+        "name": "Wys My Jou Beloftes",
+        "url": "https://open.spotify.com/album/29HC456ycUp936DIw0etj8"
+      },
+      "artists": [
+        {
+          "name": "John Rock Prophet",
+          "url": "https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw"
+        }
+      ],
+      "duration_ms": 189999,
+      "name": "Wys My Jou Beloftes",
+      "url": "https://open.spotify.com/track/3FORl4fewosAIBfuLCGIht"
+    },
+    {
       "added_at": "2025-07-25 08:00:42",
       "album": {
         "name": "Back in the Saddle",
@@ -415,22 +383,6 @@
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Rowwe Aande",
-        "url": "https://open.spotify.com/album/2OT7q6hUPN96xZMeovuYV2"
-      },
-      "artists": [
-        {
-          "name": "Christiaan Carstens",
-          "url": "https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rowwe Aande",
-      "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -501,6 +453,22 @@
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
+      "added_at": "2025-08-14 22:00:44",
+      "album": {
+        "name": "Reg",
+        "url": "https://open.spotify.com/album/2zKOyA9xXwtmmrOSuobNbU"
+      },
+      "artists": [
+        {
+          "name": "Ariana Venus",
+          "url": "https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe"
+        }
+      ],
+      "duration_ms": 219107,
+      "name": "Reg",
+      "url": "https://open.spotify.com/track/2QtC6GutRB7JPpG6spfTtS"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Livin' My Best Life (Still)",
@@ -531,6 +499,22 @@
       "duration_ms": 177811,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "added_at": "2025-09-25 22:00:26",
+      "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/68yZOyJg1hfnWfcpq0q1UI"
+      },
+      "artists": [
+        {
+          "name": "Glen Rozi",
+          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/1Zf4uRhtfWbMK9a8My3S03"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -601,6 +585,22 @@
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
     },
     {
+      "added_at": "2025-09-25 22:00:26",
+      "album": {
+        "name": "Trots Suid-Afrikaans",
+        "url": "https://open.spotify.com/album/2bWD5Ml1rS1QwV5GQfKqGr"
+      },
+      "artists": [
+        {
+          "name": "Corn\u00e9 Louw",
+          "url": "https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ"
+        }
+      ],
+      "duration_ms": 249731,
+      "name": "Trots Suid-Afrikaans",
+      "url": "https://open.spotify.com/track/3cCDPHbD2CtNzBaAb1vTz4"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Not At This Party",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Rowwe Aande",
+        "url": "https://open.spotify.com/album/2OT7q6hUPN96xZMeovuYV2"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Carstens",
+          "url": "https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Rowwe Aande",
+      "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "White Horse",
@@ -703,22 +719,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -839,26 +855,6 @@
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
-    },
-    {
-      "added_at": "2025-06-26 22:00:36",
-      "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 183815,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     }
   ],
   "unique_name": "Country Musiek",

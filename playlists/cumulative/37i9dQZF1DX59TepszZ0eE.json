@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 733374,
       "name": "Hi Wena Ntsena - Live",
       "url": "https://open.spotify.com/track/7JFCP55mIxZn4NfJO1pUoE"
@@ -5108,7 +5108,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 301156,
       "name": "Phakama - Live",
       "url": "https://open.spotify.com/track/7zfWPFtYijR2StQfCkTpdY"
@@ -5773,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "4Love (Live at CRC, Pretoria, 2025)",
+        "url": "https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI"
+      },
+      "artists": [
+        {
+          "name": "CRC Music",
+          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383876,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK"
+    },
+    {
+      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -6128,6 +6146,28 @@
       "duration_ms": 349691,
       "name": "To The Deep",
       "url": "https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Canaan Nyathi",
+          "url": "https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk"
     },
     {
       "album": {
@@ -6728,7 +6768,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 219428,
       "name": "UNAMI",
       "url": "https://open.spotify.com/track/7J91utcQoxbW83HAd1hK8V"
@@ -7678,6 +7718,28 @@
       "duration_ms": 402404,
       "name": "We Worship Adonai",
       "url": "https://open.spotify.com/track/1wMaAMLB1cLDnGUnz6FYwP"
+    },
+    {
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/31rCHYaPX2s01fwV7kEouW"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        },
+        {
+          "name": "The Remnant",
+          "url": "https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465306,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/7K5iy5DqaqfvcBmYRkuiP8"
     },
     {
       "album": {

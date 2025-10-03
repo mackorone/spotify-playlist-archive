@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
@@ -13512,7 +13512,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 295413,
       "name": "Heavenly Ever After",
       "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
@@ -36789,6 +36789,24 @@
     },
     {
       "album": {
+        "name": "\ub354 \ub11b\uce20 1\uc9d1",
+        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
+      },
+      "artists": [
+        {
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261630,
+      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
+      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
+    },
+    {
+      "album": {
         "name": "Ghetto Kids",
         "url": "https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds"
       },
@@ -36872,7 +36890,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 256626,
       "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
       "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"

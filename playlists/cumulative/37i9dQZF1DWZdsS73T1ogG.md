@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Moffa & Jovaan
 
-2,096 songs - 4 day 13 hr 2 min
+2,096 songs - 4 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1311,7 +1311,7 @@
 | [Notón](https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Notón](https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px) | 2:46 | 2023-07-14 | 2023-10-28 |
 | [NOVATO](https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:03 | 2023-11-24 | 2024-02-24 |
 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 | 2025-07-04 | 2025-09-27 |
-| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 | 2025-09-05 |  |
+| [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 3:40 | 2025-09-05 |  |
 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 | 2025-04-04 | 2025-06-28 |
 | [NUBES](https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [NUBES](https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ) | 2:58 | 2025-03-14 | 2025-05-17 |
 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 | 2024-11-08 | 2025-01-18 |

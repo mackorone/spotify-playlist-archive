@@ -1,13 +1,73 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Ty Dolla $ign, Kodak Black, YG)",
-  "num_followers": 453880,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover:  Big Sean, Murda Beatz, Babyface Ray )",
+  "num_followers": 453894,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3a2flhi7uxgUu1IVsG917BA4kr",
+  "snapshot_id": "AAAAAIbgW33Fn44Ldb3a7GXACSKoqMTu",
   "tracks": [
+    {
+      "added_at": "2025-09-19 08:48:17",
+      "album": {
+        "name": "Hood Politics",
+        "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Hood Politics",
+      "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
+    },
+    {
+      "added_at": "2025-10-02 16:00:41",
+      "album": {
+        "name": "Shop Open (feat. Rick Ross)",
+        "url": "https://open.spotify.com/album/6auUhqYvubhCVbmJyduM7k"
+      },
+      "artists": [
+        {
+          "name": "Ern J",
+          "url": "https://open.spotify.com/artist/2jToE38SqC1SONI38zeP3n"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 167157,
+      "name": "Shop Open (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/6AH7qi1Wb0OUE6oDaLRzbV"
+    },
+    {
+      "added_at": "2025-10-02 16:00:41",
+      "album": {
+        "name": "Fuk Em",
+        "url": "https://open.spotify.com/album/490kPkFxsMR51izk8lLrtv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Fuk Em",
+      "url": "https://open.spotify.com/track/4PAs9QivjLo95KNLGDd1pk"
+    },
     {
       "added_at": "2025-09-26 05:00:10",
       "album": {
@@ -567,30 +627,6 @@
       "duration_ms": 229411,
       "name": "Kiss Of Judas",
       "url": "https://open.spotify.com/track/4ImXAjE3XxR4tfYRX0xUFf"
-    },
-    {
-      "added_at": "2025-09-19 08:48:17",
-      "album": {
-        "name": "Hood Politics",
-        "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Hood Politics",
-      "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
     },
     {
       "added_at": "2025-09-19 08:48:17",

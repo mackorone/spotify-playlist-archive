@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,333 songs - 12 day 10 hr 5 min
+5,334 songs - 12 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4477,6 +4477,7 @@
 | [Talk](https://open.spotify.com/track/3RsZiNeholao7yWTx0t9Bt) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q) | [Talk](https://open.spotify.com/album/4woIpCK5jFRyJgLzyR6l3B) | 3:18 | 2021-02-26 | 2021-06-06 |
 | [Talk About It](https://open.spotify.com/track/5kDScRmwuoaj80H0xKUZ5S) | [ADINAH VINE](https://open.spotify.com/artist/3l52uxa2NAkAIvqC1Qjke2) | [Talk About It](https://open.spotify.com/album/5tvxEEt8n6Z5K43B6L0GBp) | 2:22 | 2024-10-20 | 2024-11-02 |
 | [Talk About It](https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght) | [Miyamoto](https://open.spotify.com/artist/5CF46SR2u5iy00KXQRZqYt) | [Talk About It](https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK) | 3:02 | 2021-12-31 | 2022-01-15 |
+| [Talk And Give](https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj) | [Júsef René](https://open.spotify.com/artist/6ZdIUy4nrwQ7KxZQX8804L), [Khaja](https://open.spotify.com/artist/7xvJ01VveC2vr3XZpfHTHm) | [Talk And Give](https://open.spotify.com/album/0xEISW2qpJKDxsKS2Y7a9e) | 2:21 | 2025-10-02 |  |
 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 | 2024-03-24 | 2024-08-13 |
 | [TALK TO YOU](https://open.spotify.com/track/0U2trRp7HndAG6rm1179B1) | [N!CO](https://open.spotify.com/artist/7r9Tb0zhwFqULO8MnivMve) | [TALK TO YOU](https://open.spotify.com/album/6hi4A2IxZoQbFi0ZeOLaFs) | 3:29 | 2024-12-20 | 2025-01-01 |
 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 | 2025-08-21 | 2025-09-02 |

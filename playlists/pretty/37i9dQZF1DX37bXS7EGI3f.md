@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,035 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,070 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 50 | [Steelbound](https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI) | 4:26 |
 | 51 | [Break The Silence](https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Break The Silence](https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH) | 4:23 |
 | 52 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
-| 53 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
-| 54 | [What Else Is There?](https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Zora Cock](https://open.spotify.com/artist/1hEQmp82fzvdJCCwlsdBIe) | [What Else Is There?](https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0) | 3:47 |
+| 53 | [What Else Is There?](https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Zora Cock](https://open.spotify.com/artist/1hEQmp82fzvdJCCwlsdBIe) | [What Else Is There?](https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0) | 3:47 |
+| 54 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
 | 55 | [82nd All the Way](https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [82nd All the Way](https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb) | 3:21 |
 | 56 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
 | 57 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 83 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 84 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 85 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 |
-| 86 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
-| 87 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
+| 86 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
+| 87 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 88 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
 | 89 | [An Ocean Of Strange Islands](https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [An Ocean Of Strange Islands](https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV) | 9:26 |
 | 90 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |

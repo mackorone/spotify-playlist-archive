@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,392 likes - 53 songs - 2 hr 57 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,400 likes - 53 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 35 | [Lucky Stars](https://open.spotify.com/track/7cJdD6acIkIxAMCEGimoO6) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [The Music Industry Is Poisonous](https://open.spotify.com/album/1Ramc5P9LF57iC0hIFU8Fm) | 2:07 |
 | 36 | [Get A Little](https://open.spotify.com/track/0iYhuqssVOv8NDfphMEv0E) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Weasels Ripped My Flesh](https://open.spotify.com/album/7zINPoNwb8ArQgUbq0wlUw) | 2:33 |
 | 37 | [I Saw the Light in Your Eyes](https://open.spotify.com/track/4LFiuN0XUpFRl238WIMpBS) | [Stan Barber](https://open.spotify.com/artist/54ov3BfcQksEDXcICQE37R) | [America Dream Reserve \(Compiled by Charles Bals and Smiling C\)](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 2:25 |
-| 38 | [Run...run / Mama your son done gone](https://open.spotify.com/track/3NdsxlnJJGD87KGNs9LysS) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:19 |
+| 38 | [Run...Run / Mama Your Son Done Gone](https://open.spotify.com/track/3NdsxlnJJGD87KGNs9LysS) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:19 |
 | 39 | [Hello Stranger](https://open.spotify.com/track/7dBGHDBPg1sBSWXkPrU1sa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Hazel & Alice](https://open.spotify.com/album/4nbDlug3zC6jKR3QnkPjfY) | 3:12 |
 | 40 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
 | 41 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Easykid",
-  "num_followers": 1346455,
+  "num_followers": 1346464,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 271801,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
+    },
+    {
+      "added_at": "2025-09-26 05:14:19",
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
-    },
-    {
-      "added_at": "2025-09-26 05:14:19",
-      "album": {
-        "name": "NUBES",
-        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 271801,
-      "name": "NUBES",
-      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -911,26 +911,18 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "BAILAME ASI",
-        "url": "https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i"
+        "name": "PELIGROSA",
+        "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
       },
       "artists": [
         {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         }
       ],
-      "duration_ms": 144705,
-      "name": "BAILAME ASI",
-      "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
+      "duration_ms": 134930,
+      "name": "PELIGROSA",
+      "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -959,18 +951,26 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "PELIGROSA",
-        "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
+        "name": "BAILAME ASI",
+        "url": "https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
         }
       ],
-      "duration_ms": 134930,
-      "name": "PELIGROSA",
-      "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
+      "duration_ms": 144705,
+      "name": "BAILAME ASI",
+      "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -1087,42 +1087,18 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
-    },
-    {
-      "added_at": "2025-09-26 05:14:19",
-      "album": {
-        "name": "PONTE LOKITA",
-        "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Swift 047",
-          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "PONTE LOKITA",
-      "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -1147,6 +1123,30 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2025-09-26 05:14:19",
+      "album": {
+        "name": "PONTE LOKITA",
+        "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "PONTE LOKITA",
+      "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+    },
+    {
+      "added_at": "2025-09-26 05:14:19",
+      "album": {
         "name": "Tiene",
         "url": "https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
-    },
-    {
-      "added_at": "2025-09-26 05:14:19",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
-      },
-      "artists": [
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Sexo Seguro",
-      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
-    },
-    {
-      "added_at": "2025-09-26 05:14:19",
-      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+    },
+    {
+      "added_at": "2025-09-26 05:14:19",
+      "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Sexo Seguro",
+      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "Noventa (with J Balvin)",
-        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 146700,
-      "name": "Noventa (with J Balvin)",
-      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
-    },
-    {
-      "added_at": "2025-09-26 05:14:19",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "added_at": "2025-09-26 05:14:19",
+      "album": {
+        "name": "Noventa (with J Balvin)",
+        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 146700,
+      "name": "Noventa (with J Balvin)",
+      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
     },
     {
       "added_at": "2025-09-26 05:14:19",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "Chaparrita",
-        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chaparrita",
-      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
-    },
-    {
-      "added_at": "2025-09-26 05:14:19",
-      "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
@@ -2087,34 +2067,38 @@
     {
       "added_at": "2025-09-26 05:14:19",
       "album": {
-        "name": "Pa las girlas (con DJ Urba) [Remix]",
-        "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
+        "name": "Revol\u00fa",
+        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
       },
       "artists": [
         {
-          "name": "Mattei",
-          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "DJ Urba",
-          "url": "https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         }
       ],
-      "duration_ms": 260254,
-      "name": "Pa las girlas (con DJ Urba) - Remix",
-      "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
+      "duration_ms": 200156,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
+    },
+    {
+      "added_at": "2025-09-26 05:14:19",
+      "album": {
+        "name": "Chaparrita",
+        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Chaparrita",
+      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
     }
   ],
   "unique_name": "Puro Perreo",

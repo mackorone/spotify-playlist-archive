@@ -31435,6 +31435,24 @@
     },
     {
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/4ZVxT9a32tUaiXWmvR2vfb"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/7vVVjc2PIBZz0Xma2mdFNW"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },

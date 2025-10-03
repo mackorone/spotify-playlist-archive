@@ -1,13 +1,29 @@
 {
-  "description": "The cream of today's country crop. Cover: Kaylee Bell",
-  "num_followers": 429693,
+  "description": "The cream of today's country crop. Cover: Cameron Whitcomb",
+  "num_followers": 429710,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+qvZPKTYaz6Flay1hr+c4VJjDq",
+  "snapshot_id": "AAAAAF6Aqzu74kqqds6hx89khENeTJsI",
   "tracks": [
+    {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "The Prequel",
+        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 221548,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
+    },
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
@@ -39,6 +55,62 @@
       "duration_ms": 179906,
       "name": "Ain't Enough Road",
       "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
+    },
+    {
+      "added_at": "2025-09-25 14:00:03",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Powers",
+          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "added_at": "2025-09-25 14:00:03",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
+    },
+    {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "If There's A Heaven",
+        "url": "https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 301780,
+      "name": "If There's A Heaven",
+      "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
     },
     {
       "added_at": "2025-09-25 14:00:03",
@@ -77,52 +149,20 @@
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
     },
     {
-      "added_at": "2025-09-25 14:00:03",
+      "added_at": "2025-10-02 14:00:18",
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Peace, Love, and Cowboys",
-      "url": "https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "About A Woman (Deluxe)",
-        "url": "https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 213599,
-      "name": "On A River",
-      "url": "https://open.spotify.com/track/55kJuUfBDApairwt8cij12"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "1990 Somethin'",
-        "url": "https://open.spotify.com/album/2kUaZLsg9DiMaoqwRlDU6J"
-      },
-      "artists": [
-        {
-          "name": "Max Jackson",
-          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "1990 Somethin'",
-      "url": "https://open.spotify.com/track/7bnI1iouK0xUtkEj3sA05O"
+      "duration_ms": 159356,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu"
     },
     {
       "added_at": "2025-09-25 14:00:03",
@@ -139,22 +179,6 @@
       "duration_ms": 181134,
       "name": "ROUGH AROUND THE EDGES",
       "url": "https://open.spotify.com/track/40f663y3mSalcn86L0MT3x"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 212962,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "added_at": "2025-09-25 14:00:03",
@@ -177,6 +201,22 @@
       "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
     },
     {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "COUNTRY! COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 212685,
+      "name": "Good Ole Boy",
+      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
+    },
+    {
       "added_at": "2025-09-25 14:00:03",
       "album": {
         "name": "GOOD FOR ME",
@@ -195,18 +235,34 @@
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
-        "name": "Only Bible",
-        "url": "https://open.spotify.com/album/12SiXaCDTNn45eI9MGXv3I"
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 229371,
-      "name": "Only Bible",
-      "url": "https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie"
+      "duration_ms": 213599,
+      "name": "On A River",
+      "url": "https://open.spotify.com/track/55kJuUfBDApairwt8cij12"
+    },
+    {
+      "added_at": "2025-09-25 14:00:03",
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Peace, Love, and Cowboys",
+      "url": "https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH"
     },
     {
       "added_at": "2025-09-25 14:00:03",
@@ -227,6 +283,86 @@
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
+    {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "People Hatin'",
+        "url": "https://open.spotify.com/album/0agjjIocSqdBq3pabKYrlJ"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 248521,
+      "name": "People Hatin'",
+      "url": "https://open.spotify.com/track/5Q5CeW3FeTzrqYiYZxir8l"
+    },
+    {
+      "added_at": "2025-09-25 14:00:03",
+      "album": {
+        "name": "1990 Somethin'",
+        "url": "https://open.spotify.com/album/2kUaZLsg9DiMaoqwRlDU6J"
+      },
+      "artists": [
+        {
+          "name": "Max Jackson",
+          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "1990 Somethin'",
+      "url": "https://open.spotify.com/track/7bnI1iouK0xUtkEj3sA05O"
+    },
+    {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "Who's Your Daddy?",
+        "url": "https://open.spotify.com/album/7q4S10v6Ja96voiKGL0fUm"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 188403,
+      "name": "Who's Your Daddy?",
+      "url": "https://open.spotify.com/track/5i1UlApqcoXQqbGST2Q3pb"
+    },
+    {
+      "added_at": "2025-09-25 14:00:03",
+      "album": {
+        "name": "Only Bible",
+        "url": "https://open.spotify.com/album/12SiXaCDTNn45eI9MGXv3I"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 229371,
+      "name": "Only Bible",
+      "url": "https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie"
+    },
+    {
+      "added_at": "2025-09-25 14:00:03",
+      "album": {
         "name": "Australian Made",
         "url": "https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx"
       },
@@ -243,26 +379,6 @@
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA"
-      },
-      "artists": [
-        {
-          "name": "Kevin Powers",
-          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
         "name": "Faded Polaroids",
         "url": "https://open.spotify.com/album/4m06yfaG7MOFcwPtZ6hMYT"
       },
@@ -275,22 +391,6 @@
       "duration_ms": 199440,
       "name": "How Long \u2018Til Tennessee",
       "url": "https://open.spotify.com/track/3UwBojUsunEhlbUDiYcfM7"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Call For You",
-      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
     },
     {
       "added_at": "2025-09-25 14:00:03",
@@ -563,22 +663,6 @@
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
-        "name": "Chevy Silverado",
-        "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 221698,
-      "name": "Chevy Silverado",
-      "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
         "name": "The Thing About Us",
         "url": "https://open.spotify.com/album/6jeWOR4WLDY93oZ39yFAbd"
       },
@@ -687,38 +771,6 @@
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
-        "name": "2 Pair",
-        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 151534,
-      "name": "2 Pair",
-      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "Westward",
-        "url": "https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 220651,
-      "name": "Hangin\u2019 On",
-      "url": "https://open.spotify.com/track/4H1lx071cGLnZ3Ct8q2mmd"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
         "name": "Can't See The Sky",
         "url": "https://open.spotify.com/album/00IP1eiD3oFWl36Jj8lkP7"
       },
@@ -747,22 +799,6 @@
       "duration_ms": 216133,
       "name": "The Easy Part",
       "url": "https://open.spotify.com/track/4jXhn6VdZJ9Em2oQoBCRdL"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "Country Soul",
-        "url": "https://open.spotify.com/album/29TskgPY5eNAWmxgErcsZ1"
-      },
-      "artists": [
-        {
-          "name": "Hayley Jensen",
-          "url": "https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi"
-        }
-      ],
-      "duration_ms": 193312,
-      "name": "Country Soul",
-      "url": "https://open.spotify.com/track/4R0JAILCOF8xbEkMo70gTR"
     },
     {
       "added_at": "2025-09-25 14:00:03",
@@ -799,22 +835,6 @@
     {
       "added_at": "2025-09-25 14:00:03",
       "album": {
-        "name": "Parker McCollum",
-        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Solid Country Gold",
-      "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2025-09-25 14:00:03",
-      "album": {
-        "name": "New Country (feat. Blake Shelton)",
-        "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "New Country (feat. Blake Shelton)",
-      "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
     }
   ],
   "unique_name": "Fresh Country",

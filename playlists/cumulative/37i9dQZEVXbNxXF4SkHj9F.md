@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,898 songs - 4 day 7 hr 51 min
+1,899 songs - 4 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2023-11-05 | 2023-11-07 |
 | [Citi+](https://open.spotify.com/track/1xsmVbbkSdzKcPAS1NQ662) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Citi+](https://open.spotify.com/album/3JUObehPeSOct0S8jkQUfT) | 2:31 | 2023-12-19 | 2023-12-21 |
 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 | 2023-09-07 | 2023-09-14 |
-| [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2025-03-24 |  |
+| [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2025-03-24 | 2025-10-03 |
 | [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/5AmBIWCnsLscPSYsfCApBy) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:16 | 2022-12-03 | 2022-12-16 |
 | [Closer Than This](https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:43 | 2024-07-20 |  |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-23 | 2024-07-21 |
@@ -700,7 +700,7 @@
 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-10 | 2024-07-12 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-04 |
 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2021-06-20 | 2021-06-24 |
-| [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 | 2025-04-15 | 2025-10-02 |
+| [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 | 2025-04-15 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-09-28 |
 | [Hectic \(with Colde\)](https://open.spotify.com/track/3wEr5lmE7oaC3qhCbJTY8B) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:46 | 2022-12-03 | 2022-12-12 |
 | [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 | 2024-02-01 | 2024-02-03 |
@@ -1898,11 +1898,12 @@
 | [무제\(無題\) \(Untitled, 2014\)](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [KWON JI YONG](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) | 3:42 | 2024-11-04 | 2025-05-20 |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2025-09-28 | 2025-09-30 |
 | [보나마나 \(BONAMANA\)](https://open.spotify.com/track/6fbS9Lbyv6L4tz7tcmBGKh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:15 | 2025-02-26 | 2025-03-03 |
+| [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 | 2025-10-02 |  |
 | [사이렌](https://open.spotify.com/track/6mzkkz2p0Nyyp43Eedv4mS) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Ghetto Kids](https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds) | 3:20 | 2021-05-10 | 2021-05-12 |
 | [상상더하기](https://open.spotify.com/track/1VOKnlCFYhzGW1al5M9cgv) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [Fresh Adventure](https://open.spotify.com/album/1kZjC9M6xuIMg3JRKAJhDv) | 4:02 | 2021-05-19 | 2021-05-27 |
 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 | 2023-04-12 | 2023-04-14 |
 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-03-14 | 2022-04-26 |
-| [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-06-09 |  |
+| [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-06-09 | 2025-10-03 |
 | [예뻤어](https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/0XAkvjvpmtHRaOtjKn60HS) | 4:43 | 2024-10-13 | 2024-10-15 |
 | [작은 봄](https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H) | [작은 봄](https://open.spotify.com/album/7xUqTrlB37TJbtVcBvrEOH) | 3:42 | 2025-04-07 | 2025-04-19 |
 | [한 페이지가 될 수 있게](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-10-13 | 2025-01-05 |

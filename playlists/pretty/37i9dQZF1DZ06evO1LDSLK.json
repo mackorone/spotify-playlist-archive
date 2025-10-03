@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 73931,
+  "num_followers": 73937,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAAA9mB1+T/9zvKuNUNHB1Bow",
+  "snapshot_id": "aNxvAAAAAAC3aH3INO3qBxyK+Hfv01yJ",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u2019est si bon",
-        "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
       "artists": [
         {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 204213,
-      "name": "C'est si bon",
-      "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
+      "duration_ms": 255831,
+      "name": "Nightclubbing",
+      "url": "https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ"
     },
     {
       "added_at": null,
@@ -175,18 +167,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+        "name": "C\u2019est si bon",
+        "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
       },
       "artists": [
         {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 255831,
-      "name": "Nightclubbing",
-      "url": "https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ"
+      "duration_ms": 204213,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
     },
     {
       "added_at": null,
@@ -243,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust / The Whole Woman",
-        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
       "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 258146,
-      "name": "The Whole Woman",
-      "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
+      "duration_ms": 213960,
+      "name": "Et Si Tu n'existais Pas",
+      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
     },
     {
       "added_at": null,
@@ -279,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+        "name": "Stardust / The Whole Woman",
+        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
       },
       "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 213960,
-      "name": "Et Si Tu n'existais Pas",
-      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
+      "duration_ms": 258146,
+      "name": "The Whole Woman",
+      "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 238387,
       "name": "Chocolate Drops",
       "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 181880,
       "name": "Supermarket",
       "url": "https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     },
     {
       "added_at": null,

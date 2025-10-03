@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "ENDER",
+        "url": "https://open.spotify.com/album/1tDnsQ4qohcSZAikateDZR"
+      },
+      "artists": [
+        {
+          "name": "GENIC",
+          "url": "https://open.spotify.com/artist/1vpKcfxN3KfVmbyddl9sYT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226896,
+      "name": "ENDER",
+      "url": "https://open.spotify.com/track/2FMwLbed4YtLgB8MwfbSJ6"
+    },
+    {
+      "album": {
         "name": "Hello,shooting-star",
         "url": "https://open.spotify.com/album/656whZvaXTOHvs95llmtXR"
       },
@@ -38,6 +56,24 @@
       "duration_ms": 278053,
       "name": "Hello, shooting-star",
       "url": "https://open.spotify.com/track/2Vv7OUb0VgufsPc53l8xZs"
+    },
+    {
+      "album": {
+        "name": "Infinity karat",
+        "url": "https://open.spotify.com/album/72lwdVn2vzvqAbLmvgFaBf"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u6d77\u3046\u3089\u3089",
+          "url": "https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233033,
+      "name": "Infinity karat",
+      "url": "https://open.spotify.com/track/0EcZVK4nEnQshCO1vN1F2A"
     },
     {
       "album": {

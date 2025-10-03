@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and the biggest hits in country music.",
-  "num_followers": 560550,
+  "num_followers": 560530,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwYyBqB5+Gsi+5Es0Uiht7En3ms",
+  "snapshot_id": "AAAAAMW/2dzAswgfVEdkvU58mcs03uK8",
   "tracks": [
     {
       "added_at": "2025-08-22 02:03:20",
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
-      "added_at": "2025-07-04 04:00:19",
+      "added_at": "2025-10-02 21:58:14",
+      "album": {
+        "name": "Hate How You Look",
+        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 194364,
+      "name": "Hate How You Look",
+      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
+    },
+    {
+      "added_at": "2025-10-02 21:58:14",
       "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
@@ -34,15 +50,11 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -113,6 +125,26 @@
       "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
     },
     {
+      "added_at": "2025-10-02 21:58:14",
+      "album": {
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        },
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
+    },
+    {
       "added_at": "2025-07-18 04:01:06",
       "album": {
         "name": "Good News",
@@ -127,6 +159,38 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "Somebody I Know",
+        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 180633,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
     },
     {
       "added_at": "2025-07-31 19:57:56",
@@ -163,6 +227,22 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "Doin' What She Does",
+        "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Doin' What She Does",
+      "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -319,6 +399,26 @@
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
         "name": "Worst Way",
         "url": "https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn"
       },
@@ -387,22 +487,6 @@
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
-        "name": "Doin' What She Does",
-        "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Doin' What She Does",
-      "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
         "name": "Worth The Double",
         "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
       },
@@ -415,42 +499,6 @@
       "duration_ms": 171657,
       "name": "Worth The Double",
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Drunk Right Now (Na Na Na) with Akon",
-        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -467,22 +515,6 @@
       "duration_ms": 226000,
       "name": "Somewhere Over Laredo",
       "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Somebody I Know",
-        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 180633,
-      "name": "Somebody I Know",
-      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -823,26 +855,6 @@
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
-        "name": "I Ain't Comin' Back",
-        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "I Ain't Comin' Back (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
         "name": "Chainsmokin Memories",
         "url": "https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz"
       },
@@ -855,26 +867,6 @@
       "duration_ms": 177967,
       "name": "Chainsmokin Memories",
       "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "House Again (with Miranda Lambert) / The House That Built Me",
-        "url": "https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 203162,
-      "name": "House Again (with Miranda Lambert)",
-      "url": "https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx"
     },
     {
       "added_at": "2025-07-04 04:00:19",

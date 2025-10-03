@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,663 songs - 19 day 19 hr 30 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,667 songs - 19 day 19 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7671,5 +7671,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7661 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/1hTReyVBNVvDqssrJMBGyz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 3:35 |
 | 7662 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
 | 7663 | [Wrong World](https://open.spotify.com/track/4Mghgr37JNnlFWXbezg3oZ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [TOGENASHI](https://open.spotify.com/album/7I0nZ1uqE3Qydi7gyyd187) | 3:04 |
+| 7664 | [Summer Dream](https://open.spotify.com/track/6tUryMdp3vjONBvMX5IrnU) | [Kirara Magic](https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Summer Dream](https://open.spotify.com/album/1BP0nMOZBicP8MTLSP1Qhd) | 3:36 |
+| 7665 | [Bubblegum Party](https://open.spotify.com/track/4XH3NVhqdG3SPENAH6Aqtu) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc), [Luxid](https://open.spotify.com/artist/4y57gE6u3mKb3wi1uKcYcc) | [Bubblegum Party](https://open.spotify.com/album/2XfmNP12HCix2t3urU5XTc) | 2:43 |
+| 7666 | [If I Could Ride a Bike](https://open.spotify.com/track/2nzED6Q3yWuvSQnxw6QTlU) | [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [If I Could Ride a Bike](https://open.spotify.com/album/5SrA6EKpHhyk8HUMfQLIDq) | 3:23 |
+| 7667 | [ブリキノダンス](https://open.spotify.com/track/6r2sPO4Uk9w9v3UMBU3DyZ) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [嘘の火花 \(Special Edition\)](https://open.spotify.com/album/0l7jwt10x92VsNQdBgiKfC) | 3:19 |
 
-Snapshot ID: `AAAI5Xm04xrcy+i2v5rgge5QVnPgwKxh`
+Snapshot ID: `AAAI6YguhIvvQoKfHMlNrSeYyejcupqM`

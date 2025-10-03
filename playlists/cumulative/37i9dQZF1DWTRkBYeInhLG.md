@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-227 songs - 14 hr 55 min
+228 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [R14](https://open.spotify.com/track/2taR32C3LMIQyHG2R89cdt) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Los Skut Leboys](https://open.spotify.com/album/2KeAx4D7TQxWBP6gvRgXqA) | 4:48 | 2023-01-04 | 2023-01-10 |
 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 | 2022-12-14 |  |
 | [Remaja](https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:38 | 2022-12-14 | 2024-04-19 |
+| [Remedi](https://open.spotify.com/track/1kAQQKREO1mXYy2Qy7H9td) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:07 | 2025-07-28 |  |
 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 | 2024-09-27 | 2025-02-12 |
 | [Round & Round](https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Round & Round](https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU) | 3:16 | 2023-06-23 | 2023-07-07 |
 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/4e35vUR8z4q56iY2xgvbNA) | 3:58 | 2025-06-30 |  |
@@ -189,7 +190,7 @@
 | [Sempurna](https://open.spotify.com/track/7yyDYbyS8DVawBsYCEzGCg) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra and the Backbone](https://open.spotify.com/album/2qCrJ4K5KZYso2D3AQxD1Q) | 4:28 | 2024-03-05 |  |
 | [Semua lagu cinta](https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:51 | 2024-05-08 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-08-28 |  |
-| [Sepatu](https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:39 | 2022-12-14 |  |
+| [Sepatu](https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:39 | 2022-12-14 | 2025-10-03 |
 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2023-01-12 | 2024-04-19 |
 | [Seperti Kisah](https://open.spotify.com/track/6nxQa68jVCLlYQsT3fi4G1) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/1uKJZkkuqBuxDx4KimobBZ) | 4:39 | 2022-12-14 | 2023-02-18 |
 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 | 2022-12-14 |  |

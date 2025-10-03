@@ -4,7 +4,7 @@
 
 > 
 
-343 songs - 20 hr 21 min
+346 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [From Time](https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 5:22 | 2023-07-13 |  |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-13 |  |
 | [Full Moon \- Twilight Soundtrack Version](https://open.spotify.com/track/5xWm07eno5Lt6V397VEIQd) | [The Black Ghosts](https://open.spotify.com/artist/6j0sVXUMU7BEZZ5cfEwjkq) | [Twilight Original Motion Picture Soundtrack](https://open.spotify.com/album/34OCKs861Ot5CwDfTYksLe) | 3:50 | 2025-07-17 |  |
+| [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 | 2025-10-03 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2023-07-13 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-12-05 |  |
 | [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 | 2025-09-28 | 2025-09-30 |
@@ -147,6 +148,7 @@
 | [Inner Ninja](https://open.spotify.com/track/1qjADgyPMiFFJvs8arLtCq) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [Classified](https://open.spotify.com/album/5TYSSxnlKxgI85Fihljco4) | 3:11 | 2023-07-13 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2023-07-13 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2023-07-13 |  |
+| [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 | 2025-10-03 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-12-01 |  |
 | [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 | 2023-07-13 |  |
 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 | 2023-07-13 |  |
@@ -187,6 +189,7 @@
 | [Monday Mourning](https://open.spotify.com/track/10V96IBSJJjZPAS4fcKEmn) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Monday Mourning](https://open.spotify.com/album/4E240gSAhzKIH9HDZKNKsj) | 2:00 | 2023-07-13 |  |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-07-13 |  |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-22 |  |
+| [MONTAGEM UNFOUND 2 \- Slowed](https://open.spotify.com/track/213q21omFjVGHe09HPtowq) | [DJ FallThox](https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN), [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K) | [MONTAGEM UNFOUND 2](https://open.spotify.com/album/5tk8LYvJPWmP989IfZU3dn) | 1:58 | 2025-10-03 |  |
 | [Movements](https://open.spotify.com/track/3gZUflBBfgS3QiTSTg0hk0) | [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Movements \- Single](https://open.spotify.com/album/6LcbhFnEpPsY1JkyA8Sgv8) | 3:28 | 2023-07-13 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2025-09-13 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2023-07-13 |  |

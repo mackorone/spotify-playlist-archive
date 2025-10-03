@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-429 songs - 1 day 1 hr 9 min
+430 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [愛你剛剛好 \- 電視劇《愛的3,14159》片頭曲](https://open.spotify.com/track/6o2rf6hN585WmeakZxtDkr) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [愛你剛剛好 \(電視劇《愛的3,14159》片頭曲\)](https://open.spotify.com/album/44obeIQC1UfilxKNTLu7SM) | 3:22 | 2022-06-20 | 2022-06-28 |
 | [愛你多一喵](https://open.spotify.com/track/0w6sTStcNOx7mofQJyRkmK) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [別擔心!我不是壞人](https://open.spotify.com/album/5RPKmf0HbLR3vYFaU0x0dA) | 3:35 | 2022-07-04 | 2022-07-07 |
 | [愛你是我的未來\(Future Love\)](https://open.spotify.com/track/7m9j9FJ53NzSg2LdpdMuJz) | [Jeric](https://open.spotify.com/artist/4HSNlnxUGI3Rev92Ja7Ol2) | [愛你是我的未來\(Future Love\)](https://open.spotify.com/album/2NmJEhpqQAKQz9i1946pMw) | 4:08 | 2022-06-27 | 2022-07-19 |
-| [愛你至死不渝](https://open.spotify.com/track/6IoIZGXdHgsGTPIAV1VCaD) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [愛你至死不渝](https://open.spotify.com/album/5Or7Ww9VTiQXgIJO326Olc) | 4:15 | 2025-09-25 |  |
+| [愛你至死不渝](https://open.spotify.com/track/6IoIZGXdHgsGTPIAV1VCaD) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [愛你至死不渝](https://open.spotify.com/album/5Or7Ww9VTiQXgIJO326Olc) | 4:15 | 2025-09-25 | 2025-10-03 |
 | [愛你需要練習](https://open.spotify.com/track/0OVRyjRP4ub7xVZI1MOdew) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW), [薇婭](https://open.spotify.com/artist/3YJP49BjkAQUKPE6Yf7CVw) | [愛你需要練習](https://open.spotify.com/album/41AW0iBvE6NDQr2FT0gtlB) | 3:55 | 2022-06-06 | 2022-07-23 |
 | [愛在時光裡](https://open.spotify.com/track/2c7OFN8z6tamSX3vUlzfmj) | [蘇有朋](https://open.spotify.com/artist/2ZUO4qskPSAAT6XH3XIdEd) | [愛在時光裡](https://open.spotify.com/album/40DH4fvriGVyjN3mWwg8JR) | 3:16 | 2023-03-20 | 2023-03-28 |
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
@@ -288,6 +288,7 @@
 | [我有你 \(I Have You\)](https://open.spotify.com/track/6uZDicq06NzupDreN3HIbc) | [Caryson 黃譽韶](https://open.spotify.com/artist/2wUxL6WmZ6wcbL2BcZtcyB) | [我有你 \(I Have You\)](https://open.spotify.com/album/7uCntuvSaifoUIb5yA51Aq) | 3:33 | 2024-05-16 | 2024-06-18 |
 | [我歡喜喜歡你](https://open.spotify.com/track/54pRAfOy0DqZh6fYmmtK6L) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [我的名字](https://open.spotify.com/album/0Y8Iy4Wrw4Ke6DLbbPCfpL) | 4:34 | 2022-06-06 | 2022-07-27 |
 | [我的](https://open.spotify.com/track/685v4MbZJ111mcZWIoCH0s) | [王俊凱](https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5) | [我的](https://open.spotify.com/album/5x4p9XuKJTxUS6xgserPDl) | 3:45 | 2022-07-18 | 2022-07-24 |
+| [我的喜歡不想轉彎](https://open.spotify.com/track/3OhiorvAtUq6HgnLJaxElK) | [鄭伊晴 Tee Yi Qing](https://open.spotify.com/artist/3w8n4Q4a0KfzA4WJaz5z0b) | [我的喜歡不想轉彎](https://open.spotify.com/album/03bc7I5GBfUf8vKjGB3jhR) | 3:28 | 2025-10-02 |  |
 | [我的幸福](https://open.spotify.com/track/12a25Yf6Lh9Ahd8WyzDJEy) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [我的幸福](https://open.spotify.com/album/1ZhmLZ7OIZKuYGUObrWGsk) | 3:17 | 2025-03-27 | 2025-05-08 |
 | [我的心裡呀](https://open.spotify.com/track/3vjdrhCbZ6KAL7F6sBaUni) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [我的心裡呀](https://open.spotify.com/album/3ztddA2NGEIt70TPEMJ6Qf) | 4:32 | 2022-06-13 | 2022-07-08 |
 | [我要抱着你](https://open.spotify.com/track/6dgSlOAIjBmXyDjNBlNFLk) | [贺子玲](https://open.spotify.com/artist/6zX8snAvqQTiIVrbh946vt) | [我要抱着你](https://open.spotify.com/album/6osbNpRabdMYaHr9Vux8aR) | 3:19 | 2023-01-23 | 2023-03-21 |

@@ -419,6 +419,32 @@
     },
     {
       "album": {
+        "name": "Acid Train",
+        "url": "https://open.spotify.com/album/6RV5lhny3Q7qyvIJPUPhzL"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        },
+        {
+          "name": "MOTVS",
+          "url": "https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170898,
+      "name": "Acid Train",
+      "url": "https://open.spotify.com/track/5HRcogT6ZcrZITVawImvXr"
+    },
+    {
+      "album": {
         "name": "Acid Voices",
         "url": "https://open.spotify.com/album/3xRbKryQ74XoKuqabTyx3E"
       },
@@ -11054,7 +11080,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 267072,
       "name": "Mind Body Soul",
       "url": "https://open.spotify.com/track/5knFikjbQt5qvc3LJ9JrKU"
@@ -13652,7 +13678,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 211343,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5cpAOAWxwrnKbQHLRxPimn"
@@ -17832,6 +17858,28 @@
       "duration_ms": 411304,
       "name": "The Greatest Question",
       "url": "https://open.spotify.com/track/1aTSDt9gINC9fuMMNKGmcN"
+    },
+    {
+      "album": {
+        "name": "The Heads That Know",
+        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
     },
     {
       "album": {

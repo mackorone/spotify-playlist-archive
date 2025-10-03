@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22420,
+  "num_followers": 22422,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNsdgAAAAACaGy5op8GXxiRO+bFYNoeo",
+  "snapshot_id": "aNxvAAAAAADBBY1ycrp/puMRUMtSvcqX",
   "tracks": [
     {
       "added_at": null,
@@ -755,42 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -811,6 +775,42 @@
       "duration_ms": 185806,
       "name": "Menace",
       "url": "https://open.spotify.com/track/6P0qxnyxLL6D7Gmm8ZMlF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
     },
     {
       "added_at": null,
@@ -1127,22 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Bank",
-      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Bank",
+      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     }
   ],
   "unique_name": "This Is EARTHGANG",

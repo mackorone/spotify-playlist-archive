@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 9 min
+75 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Money Trees](https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u) | 6:26 | 2024-05-02 |  |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2024-05-02 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-07 |  |
+| [P&P 1.5](https://open.spotify.com/track/6TRVvpoVFwyYyIGTFh0Y7P) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Overly Dedicated](https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC) | 6:01 | 2025-10-03 |  |
 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 | 2024-12-19 |  |
 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 | 2024-05-02 |  |
 | [Pray For Me](https://open.spotify.com/track/6huNf4dutXRjJyGn7f5BPS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 3:31 | 2024-05-02 |  |
@@ -75,7 +76,7 @@
 | [These Walls](https://open.spotify.com/track/7uWVT3UkCAZyANvv0bdyQn) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:00 | 2024-05-02 | 2025-03-17 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-24 |  |
 | [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:15 | 2024-05-02 |  |
-| [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:28 | 2025-09-12 |  |
+| [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:28 | 2025-09-12 | 2025-10-03 |
 | [untitled 08 \| 09.06.2014.](https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:55 | 2024-05-02 |  |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-12-19 |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2024-05-02 | 2025-02-13 |

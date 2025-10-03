@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-49 songs - 2 hr 10 min
+51 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ideal Paradox](https://open.spotify.com/track/5HDHZRpt9I7WS9hFm87ndM) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Ideal Paradox](https://open.spotify.com/album/0DMcETLiwTVRw4k2ZyY8vi) | 3:49 | 2024-04-04 | 2024-04-19 |
 | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/track/6qrAG1fMnWCzaTGsB5mES0) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/album/0eQW6RYzETuvSjTKFEjM8P) | 0:50 | 2024-04-04 |  |
 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 | 2024-04-04 | 2024-04-19 |
-| [Mirage of the mind](https://open.spotify.com/track/2lp8TyBhONuPg1OYjbC92l) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Mirage of the mind](https://open.spotify.com/album/6g0dLOlVT78sPwUOAD1nEF) | 2:39 | 2025-08-24 |  |
+| [Mirage of the mind](https://open.spotify.com/track/2lp8TyBhONuPg1OYjbC92l) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Mirage of the mind](https://open.spotify.com/album/6g0dLOlVT78sPwUOAD1nEF) | 2:39 | 2025-08-24 | 2025-10-03 |
 | [Nameless Name](https://open.spotify.com/track/0T0dK76JcJxPKMCZxm3JPi) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Nameless Name](https://open.spotify.com/album/6Myp5WC1OARu3K7E8JMzCx) | 3:08 | 2024-04-04 | 2024-04-19 |
 | [no rhyme nor reason](https://open.spotify.com/track/2WccvtI4uw9LQxYM1hxYHo) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [no rhyme nor reason](https://open.spotify.com/album/3HoIOAqeFRIcp2F7k9PhwH) | 3:09 | 2024-04-04 | 2024-04-19 |
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2024-04-04 | 2024-04-19 |
@@ -45,9 +45,11 @@
 | [気鬱、白濁す](https://open.spotify.com/track/2wxq162dGuXaQuhFMbgLSp) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [気鬱、白濁す](https://open.spotify.com/album/2gqiFS1rMMBYjrPi7NtFzn) | 3:05 | 2024-04-12 |  |
 | [爆ぜて咲く](https://open.spotify.com/track/615jr8wFWfeTiRhfAHSG9D) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [爆ぜて咲く](https://open.spotify.com/album/5Fiv8V10wlCa5Cop5FMmxr) | 3:41 | 2024-04-12 |  |
 | [理想的パラドクスとは](https://open.spotify.com/track/5TNgYaeJdFjrR9BfsEmwDY) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [理想的パラドクスとは](https://open.spotify.com/album/44MHX9OKTB297w51I0TfXM) | 3:49 | 2024-04-12 |  |
+| [碧いif](https://open.spotify.com/track/1E5HELkofxLwkULCOuHmcf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [碧いif](https://open.spotify.com/album/7GND1Ea9u4vIRlC27NJf6i) | 2:39 | 2025-10-02 |  |
 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 | 2024-04-12 |  |
 | [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 | 2024-06-14 |  |
 | [薄采ディスプレイ](https://open.spotify.com/track/5JwzDohzOAaz4ybdjc7p2Z) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [薄采ディスプレイ](https://open.spotify.com/album/7KAvTv1lGGFLGwXiYpYf6V) | 3:07 | 2025-06-23 |  |
+| [蜃気楼ニ問フ](https://open.spotify.com/track/0NbuhWCqo1JO1NhpuIJBIv) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [蜃気楼ニ問フ](https://open.spotify.com/album/0vFY5rEEBYBKDcMsLUq3yF) | 2:39 | 2025-10-02 |  |
 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 | 2024-08-27 |  |
 | [視界の隅 朽ちる音 \- 新川崎（仮）](https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [視界の隅 朽ちる音 \(新川崎（仮）\)](https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs) | 3:08 | 2024-05-03 |  |
 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 | 2024-04-12 |  |

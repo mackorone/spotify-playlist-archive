@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,455 likes - 490 songs - 1 day 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,460 likes - 490 songs - 1 day 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,7 +371,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 361 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 |
 | 362 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 |
 | 363 | [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 |
-| 364 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
+| 364 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 365 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 |
 | 366 | [Just Friends](https://open.spotify.com/track/2cByyV8EU1bya9sT6BYRuR) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Just Friends](https://open.spotify.com/album/0UuUidgi3I2YfRwng3Cdhr) | 2:35 |
 | 367 | [Indigo](https://open.spotify.com/track/2Vgv1afjHX3aXK40VWMS3j) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Midnight Shuffle](https://open.spotify.com/album/6tOSBpHbAM2VGQNEj0S0az) | 2:32 |
@@ -391,7 +391,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 381 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 |
 | 382 | [What A Difference A Day Made](https://open.spotify.com/track/7n8x83Z1a5q1Ct4eWCSDbU) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [What A Difference A Day Made](https://open.spotify.com/album/4VrMjhLhsy4nvXqfX7xKe1) | 2:43 |
 | 383 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 |
-| 384 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
+| 384 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
 | 385 | [Never Let Me Go](https://open.spotify.com/track/2ymdJ1hcMKjzuWHek3ym3U) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Never Let Me Go](https://open.spotify.com/album/1LGi7drBLtZN9O0tz12oTT) | 2:56 |
 | 386 | [Juliana](https://open.spotify.com/track/54qfiHthTAtNrhaW7mT9tS) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:40 |
 | 387 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 |

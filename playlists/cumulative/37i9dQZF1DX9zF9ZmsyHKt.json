@@ -3213,6 +3213,28 @@
     },
     {
       "album": {
+        "name": "Minha Op\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6iwoQBoHZKcvyVOQC1G30E"
+      },
+      "artists": [
+        {
+          "name": "Banda Os Brothers",
+          "url": "https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE"
+        },
+        {
+          "name": "Companhia do Calypso",
+          "url": "https://open.spotify.com/artist/0c7uc4pA1hpla0xbbEF5W5"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180427,
+      "name": "Minha Op\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qMNqAh6EhFksFp44fPxXZ"
+    },
+    {
+      "album": {
         "name": "Brasil Mesti\u00e7o",
         "url": "https://open.spotify.com/album/3IByK5jqmLWKhrtjrb8xun"
       },
@@ -5206,7 +5228,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-03",
       "duration_ms": 210988,
       "name": "S\u00f3 No Par\u00e1",
       "url": "https://open.spotify.com/track/2Em9G2f9s2DPGqLdioB90M"

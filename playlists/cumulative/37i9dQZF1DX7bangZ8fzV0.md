@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Brendan Peyper
+> Net die beste Afrikaanse musiek! Omslag: Ivan Roux
 
 334 songs - 18 hr 26 min
 

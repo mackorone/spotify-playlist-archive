@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,860 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,624 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 7 | [Against The World](https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Against The World](https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q) | 3:30 |
 | 8 | [Letters \(feat\. Rachel Robinson\)](https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Rachel Robinson](https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:11 |
 | 9 | [456 semm](https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scarecrows](https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj) | 3:26 |
-| 10 | [Who Killed Michael Jackson??????](https://open.spotify.com/track/70UW9NcUpy1nlHoW0XFVeL) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Quentin Miller](https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9) | [A Written Testimony: Leaflets](https://open.spotify.com/album/3KYiZsPl8C1hOWFGXWSMSx) | 5:54 |
+| 10 | [Who Killed Michael Jackson??????](https://open.spotify.com/track/70UW9NcUpy1nlHoW0XFVeL) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/2VIODvTqEWItBkP0gE9BPE), [Quentin Miller](https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9) | [A Written Testimony: Leaflets](https://open.spotify.com/album/3KYiZsPl8C1hOWFGXWSMSx) | 5:54 |
 | 11 | [Shangri La](https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:02 |
 | 12 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 13 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |

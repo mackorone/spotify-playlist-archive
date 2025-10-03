@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Peezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,797 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,818 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月30日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,967 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,013 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
 | 50 | [好きな人がいること](https://open.spotify.com/track/15HDH9up3Imdm8KtsGv9XD) | [JY](https://open.spotify.com/artist/5vO3b6n7tKXv7S9JWmeniF) | [Many Faces \-多面性\-](https://open.spotify.com/album/5AHNRu1ibpXQAnONhcpRlB) | 4:32 |
 
-Snapshot ID: `AAAAAGA1Y9bIsu1Jff2c7RqppZnkJXW+`
+Snapshot ID: `AAAAAJNTrz7oehM27CojrBiney1sj8lM`

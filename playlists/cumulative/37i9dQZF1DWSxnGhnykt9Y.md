@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Ayra Starr
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-174 songs - 8 hr 15 min
+175 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 | 2024-11-29 |  |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2024-11-29 | 2025-03-22 |
 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 | 2024-11-29 |  |
+| [Worry](https://open.spotify.com/track/58NnjSYSMcKogUfZZFFlZK) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Worry](https://open.spotify.com/album/4UCilTZFzFDYB6WEHl8vaT) | 2:49 | 2025-10-03 |  |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-11-29 |  |
 | [You](https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [You](https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos) | 2:32 | 2025-09-19 |  |
 | [You are](https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [You are](https://open.spotify.com/album/5Ujy1ZcmvbCAgP4Vux11ux) | 2:32 | 2025-03-14 | 2025-07-18 |

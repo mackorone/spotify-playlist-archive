@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,918 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,151 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 33 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 |
 | 34 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
 | 35 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 |
-| 36 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
+| 36 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 37 | [Embraced by White](https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4) | [Smooth Heisters](https://open.spotify.com/artist/0wng90OL4CECFslp36CVSf) | [Embraced by White](https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp) | 2:25 |
 | 38 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc) | 3:24 |
 | 39 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 50 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/7A7CHS1v0c0uy6Yf89lXI2) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [I've Got My Love To Keep Me Warm](https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ) | 3:00 |
 | 51 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
 | 52 | [When You Wish Upon A Star](https://open.spotify.com/track/1L6GnWMSzeNRQWQYmeITQV) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Let It Snow](https://open.spotify.com/album/0gIaPB4dF1Oxfxpm6DbvzS) | 2:25 |
-| 53 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
+| 53 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
 | 54 | [Heaven's Chorus](https://open.spotify.com/track/3yhwYtp5JCNm6PUKLf4spO) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Heaven's Chorus](https://open.spotify.com/album/1pM1ABAqFpMo5CmjLLvbPe) | 2:14 |
 | 55 | [Santa Baby](https://open.spotify.com/track/2dAfFeRPrMoUb6ZKObAHrr) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Christmas](https://open.spotify.com/album/1LmktIGUC5EwQ7YRKP76iO) | 2:53 |
 | 56 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |

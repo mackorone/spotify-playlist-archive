@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 
 > The perfect summer pop playlist.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 18,360 likes - 69 songs - 4 hr 20 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 18,351 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

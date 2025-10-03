@@ -4,13 +4,13 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-167 songs - 9 hr 25 min
+169 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2024-07-01 | 2024-10-22 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2024-07-01 | 2024-07-30 |
-| [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-03-13 |  |
+| [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-03-13 | 2025-10-03 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2025-03-28 |  |
 | [All You'll Ever Need](https://open.spotify.com/track/2wrusxZV6l4uo01yap3OVQ) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [All You'll Ever Need](https://open.spotify.com/album/1zVgHffIaekW9JKs2aRizP) | 2:33 | 2025-08-29 |  |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2024-07-01 | 2025-02-04 |
@@ -19,6 +19,7 @@
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2024-08-01 | 2024-12-21 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2024-07-01 | 2024-07-16 |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2024-07-01 | 2024-09-20 |
+| [Born With a Broken Heart](https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:28 | 2025-10-02 |  |
 | [Broke](https://open.spotify.com/track/3UeVin0MUnhQdSRF4pxgfn) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Broke](https://open.spotify.com/album/0O32VuAQRu1yxK8kYGw13E) | 2:41 | 2025-04-11 |  |
 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 | 2024-07-01 | 2025-01-24 |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-07-29 | 2025-04-25 |
@@ -54,7 +55,7 @@
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2024-07-01 | 2024-07-19 |
 | [Got an Idea](https://open.spotify.com/track/3q6b1cke3QLZxxOzZtVp9I) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Got an Idea](https://open.spotify.com/album/6YrPlAqnQwhiKBZIl7qlSk) | 2:53 | 2024-10-24 | 2025-07-05 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-04-24 |  |
-| [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2025-01-23 |  |
+| [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2025-01-23 | 2025-10-03 |
 | [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-07-01 | 2024-11-05 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-07-18 | 2025-04-12 |
 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-07-01 | 2025-01-24 |
@@ -172,6 +173,7 @@
 | [WOLFMAN](https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb) | [Jan Verstraeten](https://open.spotify.com/artist/7upKfBWNUqe6pSUDxNQa2v) | [WOLFMAN](https://open.spotify.com/album/2a8NOG3o9Q7b0Fm2TFROEr) | 4:11 | 2025-02-17 |  |
 | [Won't You Stay](https://open.spotify.com/track/3xSBlzT8N3WTXK5phOTIiQ) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL) | [Won't You Stay](https://open.spotify.com/album/0UMogPftzVp0O5CUkOEr0b) | 2:52 | 2024-07-01 | 2024-09-28 |
 | [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 | 2025-02-17 | 2025-09-16 |
+| [You Got Me Hurt](https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt](https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI) | 3:29 | 2025-10-02 |  |
 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 | 2024-09-26 | 2025-05-16 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-06-19 |  |
 | [your opinion](https://open.spotify.com/track/4ujzt2xbe6cqhE4wK9ImkR) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [your opinion](https://open.spotify.com/album/1vheuh1Y2cI2JFfKciRJut) | 2:49 | 2025-05-22 |  |

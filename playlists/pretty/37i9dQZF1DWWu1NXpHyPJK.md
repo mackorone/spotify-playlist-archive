@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,536 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,539 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

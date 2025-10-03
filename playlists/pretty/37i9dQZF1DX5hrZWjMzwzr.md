@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,757 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,754 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 4 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 |
 | 5 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |
 | 6 | [ILE LAT?](https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [ERA47](https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu) | 2:30 |
-| 7 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
-| 8 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
+| 7 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
+| 8 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
 | 9 | [Ona Mówi](https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Ona Mówi](https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU) | 2:32 |
 | 10 | [MAMA POWTARZAŁA](https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:22 |
 | 11 | [NAPALONE FANKI](https://open.spotify.com/track/4OWBn64RFLynn4o4KMwkF1) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [V24](https://open.spotify.com/album/4joqm6ZEgf3TursOzJNxFW) | 3:07 |

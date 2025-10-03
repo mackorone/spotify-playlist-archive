@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,848 likes - 79 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,952 likes - 79 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 78 | [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 |
 | 79 | [Dem Dey](https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 3:12 |
 
-Snapshot ID: `AAAAAPEWBtjJW9VUzsq065Hm/PP6o4a5`
+Snapshot ID: `AAAAAEDjX4oZM7RshdpRKGqHF7uqdXg3`

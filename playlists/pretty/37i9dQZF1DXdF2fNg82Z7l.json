@@ -1,12 +1,12 @@
 {
   "description": "a strictly smooth mood...cover: Kehlani",
-  "num_followers": 202535,
+  "num_followers": 202537,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2rxYXn8I+281G7CAuGL3UZtZ7v",
+  "snapshot_id": "AAAAAJzTefeTvc+gnj7o+xd1KrnNPcTu",
   "tracks": [
     {
       "added_at": "2025-07-14 11:32:34",
@@ -41,6 +41,58 @@
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
+      "added_at": "2025-10-02 14:00:16",
+      "album": {
+        "name": "News",
+        "url": "https://open.spotify.com/album/3pXZd0WkaZDJ4Hq2ILWNnb"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "News",
+      "url": "https://open.spotify.com/track/3W5gASBQIeEyhkVLNpuK6n"
+    },
+    {
+      "added_at": "2025-10-02 14:00:16",
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
+    },
+    {
+      "added_at": "2025-10-02 14:00:16",
+      "album": {
+        "name": "It's Like Summertime",
+        "url": "https://open.spotify.com/album/4QspHenXNZIOk3OCrgj0nd"
+      },
+      "artists": [
+        {
+          "name": "Bic Runga",
+          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "It's Like Summertime",
+      "url": "https://open.spotify.com/track/3TT7YGv5FtGeoJ1hqR3DpW"
+    },
+    {
       "added_at": "2025-07-14 11:32:34",
       "album": {
         "name": "TYLA +",
@@ -71,26 +123,6 @@
       "duration_ms": 147146,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
-    },
-    {
-      "added_at": "2025-07-24 14:00:07",
-      "album": {
-        "name": "Cannonball (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 122568,
-      "name": "Cannonball (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -125,6 +157,22 @@
       "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf"
     },
     {
+      "added_at": "2025-07-24 14:00:07",
+      "album": {
+        "name": "Blame It On Me",
+        "url": "https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "Blame It On Me",
+      "url": "https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH"
+    },
+    {
       "added_at": "2025-07-14 11:32:34",
       "album": {
         "name": "Whatever She Wants",
@@ -139,6 +187,46 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2025-07-24 14:00:07",
+      "album": {
+        "name": "Cannonball (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 122568,
+      "name": "Cannonball (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
+    },
+    {
+      "added_at": "2025-07-14 11:32:34",
+      "album": {
+        "name": "Thought You'd Know By Now",
+        "url": "https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Atlantis",
+          "url": "https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO"
+        },
+        {
+          "name": "FRIDAY*",
+          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+        }
+      ],
+      "duration_ms": 177582,
+      "name": "Thought You'd Know By Now",
+      "url": "https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -159,22 +247,6 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2025-07-24 14:00:07",
-      "album": {
-        "name": "Blame It On Me",
-        "url": "https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "Blame It On Me",
-      "url": "https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -217,26 +289,6 @@
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
-      "added_at": "2025-07-14 11:32:34",
-      "album": {
-        "name": "Thought You'd Know By Now",
-        "url": "https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Atlantis",
-          "url": "https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO"
-        },
-        {
-          "name": "FRIDAY*",
-          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
-        }
-      ],
-      "duration_ms": 177582,
-      "name": "Thought You'd Know By Now",
-      "url": "https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6"
-    },
-    {
       "added_at": "2025-07-24 14:00:07",
       "album": {
         "name": "Hot Body",
@@ -251,6 +303,22 @@
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "added_at": "2025-07-24 14:00:07",
+      "album": {
+        "name": "Kanana",
+        "url": "https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "duration_ms": 335958,
+      "name": "Kanana",
+      "url": "https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -291,38 +359,6 @@
     {
       "added_at": "2025-07-14 11:32:34",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
-    },
-    {
-      "added_at": "2025-07-24 14:00:07",
-      "album": {
-        "name": "Kanana",
-        "url": "https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky"
-      },
-      "artists": [
-        {
-          "name": "Bumpy",
-          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
-        }
-      ],
-      "duration_ms": 335958,
-      "name": "Kanana",
-      "url": "https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ"
-    },
-    {
-      "added_at": "2025-07-14 11:32:34",
-      "album": {
         "name": "Baby (Is it a Crime)",
         "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
@@ -355,6 +391,22 @@
     {
       "added_at": "2025-07-14 11:32:34",
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2025-07-14 11:32:34",
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -367,6 +419,22 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2025-07-14 11:32:34",
+      "album": {
+        "name": "The Scene",
+        "url": "https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "The Scene",
+      "url": "https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -431,22 +499,6 @@
     {
       "added_at": "2025-07-14 11:32:34",
       "album": {
-        "name": "The Scene",
-        "url": "https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "The Scene",
-      "url": "https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ"
-    },
-    {
-      "added_at": "2025-07-14 11:32:34",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -463,6 +515,22 @@
       "duration_ms": 273864,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
+    },
+    {
+      "added_at": "2025-07-24 14:00:07",
+      "album": {
+        "name": "MADMADWORLD",
+        "url": "https://open.spotify.com/album/1piO3Yv9ulIhQ4308ovGh1"
+      },
+      "artists": [
+        {
+          "name": "Siala",
+          "url": "https://open.spotify.com/artist/74NRwx8DjZNrYjExNs7X1D"
+        }
+      ],
+      "duration_ms": 157201,
+      "name": "MADMADWORLD",
+      "url": "https://open.spotify.com/track/6h20YL68FGRqsfaoMrbXSi"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -519,22 +587,6 @@
       "duration_ms": 238679,
       "name": "Why Why Why Why Why",
       "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2025-07-24 14:00:07",
-      "album": {
-        "name": "MADMADWORLD",
-        "url": "https://open.spotify.com/album/1piO3Yv9ulIhQ4308ovGh1"
-      },
-      "artists": [
-        {
-          "name": "Siala",
-          "url": "https://open.spotify.com/artist/74NRwx8DjZNrYjExNs7X1D"
-        }
-      ],
-      "duration_ms": 157201,
-      "name": "MADMADWORLD",
-      "url": "https://open.spotify.com/track/6h20YL68FGRqsfaoMrbXSi"
     },
     {
       "added_at": "2025-07-14 11:32:34",
@@ -1295,58 +1347,6 @@
       "duration_ms": 183552,
       "name": "Lookin",
       "url": "https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z"
-    },
-    {
-      "added_at": "2025-07-14 11:32:34",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
-    },
-    {
-      "added_at": "2025-07-14 11:32:34",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 88186,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
-    },
-    {
-      "added_at": "2025-07-24 14:00:07",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 245951,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
     }
   ],
   "unique_name": "Raw Silk ",

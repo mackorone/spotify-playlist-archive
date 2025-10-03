@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,165 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,171 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 56 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 | 57 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
 | 58 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
-| 59 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 |
-| 60 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 |
+| 59 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 |
+| 60 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 |
 | 61 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
 | 62 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 |
 | 63 | [Margarita y Margarito \(Remix\)](https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ) | [Las 3 Marias](https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Margarita y Margarito \(Remix\)](https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg) | 5:51 |

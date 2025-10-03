@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,054 likes - 115 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 115 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 29 | [NICE](https://open.spotify.com/track/44lusH2vzc4sRAwsooRhPh) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:53 |
 | 30 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
 | 31 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 |
-| 32 | [Mood Swings \(feat\. Lil Tjay & Summer Walker\) \- Remix](https://open.spotify.com/track/5JYsU2yRoQ6utiLW7Owvjc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Mood Swings \(Remix\)](https://open.spotify.com/album/0Puv2Bu8uDHyVTOYBWNUE3) | 4:15 |
-| 33 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 32 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 33 | [Mood Swings \(feat\. Lil Tjay & Summer Walker\) \- Remix](https://open.spotify.com/track/5JYsU2yRoQ6utiLW7Owvjc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Mood Swings \(Remix\)](https://open.spotify.com/album/0Puv2Bu8uDHyVTOYBWNUE3) | 4:15 |
 | 34 | [LOVEHAPPY](https://open.spotify.com/track/7szhY56rkD20Ai9AxJaicE) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:49 |
 | 35 | [NILE](https://open.spotify.com/track/0lboDHM9hSR5j5CFlWDR9k) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 1:47 |
 | 36 | [BLACK EFFECT](https://open.spotify.com/track/2rCuBpIkHVtY16o0PRv2GS) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:15 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 114 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 115 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 
-Snapshot ID: `Ab9ungAAAABnHLj6AP3qBAodnelkzRGH`
+Snapshot ID: `Ab90XAAAAABN6a5xdnnz79+0WPC0Kgh9`

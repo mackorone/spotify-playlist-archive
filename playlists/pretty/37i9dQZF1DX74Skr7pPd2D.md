@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,466 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,472 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 81 | [I'll Close My Eyes](https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Grady Tate](https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 3:23 |
 | 82 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 83 | [Singin' In The Rain](https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W) | [Flip Phillips](https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6) | [Flip Wails: The Best Of The Verve Years](https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x) | 2:59 |
-| 84 | [Lullaby In Rhythm](https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 3:51 |
-| 85 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
+| 84 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
+| 85 | [Lullaby In Rhythm](https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 3:51 |
 | 86 | [Ruint](https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 2:31 |
 | 87 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/7KDCuqrHJ66MGogGrdFj4e) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Tribes Vibes And Scribes](https://open.spotify.com/album/3Z75r95PxCWGB82ueJvY1A) | 5:19 |
 | 88 | [The Girl From Ipanema](https://open.spotify.com/track/6gfKHUGFBRiGe3bqmnOqFR) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz / Gilberto](https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er) | 5:24 |

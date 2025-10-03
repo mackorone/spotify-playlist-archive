@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,531 likes - 93 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,530 likes - 93 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 32 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
 | 33 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
 | 34 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
-| 35 | [Go Tell It on the Mountain](https://open.spotify.com/track/7Ky59sXOqkMalt0P77XmBS) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 4:45 |
+| 35 | [Go Tell It on the Mountain](https://open.spotify.com/track/7Ky59sXOqkMalt0P77XmBS) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 4:45 |
 | 36 | [Sleigh Ride](https://open.spotify.com/track/0eEfwSJ27MRIppMBvf7jZ4) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:24 |
 | 37 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 |
 | 38 | [Away in a Manger](https://open.spotify.com/track/3a4h07qqC9Sze6mO1PIy8A) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 4:13 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 85 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 | 86 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
 | 87 | [Home For The Holidays](https://open.spotify.com/track/0o0utCHi11d5uKCx792Gol) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Blake](https://open.spotify.com/artist/0NlX1W0yjS9FWyDBbHcGuY), [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/65lJFZYy5coCXi9aXSRiSg) | 4:31 |
-| 88 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
+| 88 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
 | 89 | [Jolly o Saint Nicholas](https://open.spotify.com/track/5Pa27K698CV7L9NQeSnl1r) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Jolly o Saint Nicholas](https://open.spotify.com/album/5KCRUecT6gFJXQ6lYO0IPJ) | 2:18 |
 | 90 | [The Merriest](https://open.spotify.com/track/5VoY723BmiAcYJWtUSTTD5) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 1:57 |
 | 91 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 |

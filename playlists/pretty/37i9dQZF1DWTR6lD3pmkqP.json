@@ -1,6 +1,6 @@
 {
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
-  "num_followers": 134997,
+  "num_followers": 135033,
   "original_name": "21st Century Jazz",
   "owner": {
     "name": "Spotify",
@@ -2351,6 +2351,26 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "Chandler",
+        "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "duration_ms": 221129,
+      "name": "Chandler",
+      "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "Two Chords & the Truth",
         "url": "https://open.spotify.com/album/4kSahQsRnashhQ1tY52M2Z"
       },
@@ -2383,22 +2403,18 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Chandler",
-        "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
+        "name": "May As Well Be",
+        "url": "https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo"
       },
       "artists": [
         {
-          "name": "Ebi Soda",
-          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
-        },
-        {
-          "name": "Yazz Ahmed",
-          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+          "name": "Vels Trio",
+          "url": "https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l"
         }
       ],
-      "duration_ms": 221129,
-      "name": "Chandler",
-      "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
+      "duration_ms": 240282,
+      "name": "May As Well Be",
+      "url": "https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -2415,22 +2431,6 @@
       "duration_ms": 450266,
       "name": "Tropical Landscapes - Live at Hall\u00e9 St Peter's",
       "url": "https://open.spotify.com/track/5RJFz0inrtX2evSekcrWOp"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "May As Well Be",
-        "url": "https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo"
-      },
-      "artists": [
-        {
-          "name": "Vels Trio",
-          "url": "https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l"
-        }
-      ],
-      "duration_ms": 240282,
-      "name": "May As Well Be",
-      "url": "https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -2485,22 +2485,6 @@
       "url": "https://open.spotify.com/track/350BnjEWhEBFeY5djjWmXq"
     },
     {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Esta Plena",
-        "url": "https://open.spotify.com/album/1Cg5lcnSsbaj0DPb07g3Ln"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 467946,
-      "name": "Esta Plena",
-      "url": "https://open.spotify.com/track/74GF2f3yRPDhuxyuo8OPpX"
-    },
-    {
       "added_at": "2022-02-10 23:00:00",
       "album": {
         "name": "Detour Ahead (Reimagined)",
@@ -2519,6 +2503,22 @@
       "duration_ms": 234197,
       "name": "Detour Ahead - Reimagined",
       "url": "https://open.spotify.com/track/6sCDgDR615WXLwvfM6AUKL"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Esta Plena",
+        "url": "https://open.spotify.com/album/1Cg5lcnSsbaj0DPb07g3Ln"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 467946,
+      "name": "Esta Plena",
+      "url": "https://open.spotify.com/track/74GF2f3yRPDhuxyuo8OPpX"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3111,6 +3111,26 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "Dreaming In Lions: How I Love",
+        "url": "https://open.spotify.com/album/3nsOSgcutEzfzjUNKjsdoL"
+      },
+      "artists": [
+        {
+          "name": "Arturo O'Farrill",
+          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
+        },
+        {
+          "name": "The Afro Latin Jazz Ensemble",
+          "url": "https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn"
+        }
+      ],
+      "duration_ms": 271126,
+      "name": "Dreaming In Lions: How I Love",
+      "url": "https://open.spotify.com/track/5vSwti4CRQjSPlTN3C1AWr"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "MAKARA",
         "url": "https://open.spotify.com/album/4cyAJPbMVWtyGVi3kiHGue"
       },
@@ -3131,22 +3151,22 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Dreaming In Lions: How I Love",
-        "url": "https://open.spotify.com/album/3nsOSgcutEzfzjUNKjsdoL"
+        "name": "Special Blend",
+        "url": "https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO"
       },
       "artists": [
         {
-          "name": "Arturo O'Farrill",
-          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
+          "name": "Max I Million",
+          "url": "https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf"
         },
         {
-          "name": "The Afro Latin Jazz Ensemble",
-          "url": "https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn"
+          "name": "John Culbreth",
+          "url": "https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN"
         }
       ],
-      "duration_ms": 271126,
-      "name": "Dreaming In Lions: How I Love",
-      "url": "https://open.spotify.com/track/5vSwti4CRQjSPlTN3C1AWr"
+      "duration_ms": 164000,
+      "name": "Special Blend",
+      "url": "https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3183,26 +3203,6 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Special Blend",
-        "url": "https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO"
-      },
-      "artists": [
-        {
-          "name": "Max I Million",
-          "url": "https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf"
-        },
-        {
-          "name": "John Culbreth",
-          "url": "https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Special Blend",
-      "url": "https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
         "name": "Diga",
         "url": "https://open.spotify.com/album/2EiwLkYHIHp9B5cHFtsYKC"
       },
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "The Cactus of Knowledge",
-        "url": "https://open.spotify.com/album/4S5QeN8Zm3C9LauFWL7DQT"
-      },
-      "artists": [
-        {
-          "name": "Rabih Abou-Khalil",
-          "url": "https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT"
-        }
-      ],
-      "duration_ms": 328280,
-      "name": "The Lewinsky March",
-      "url": "https://open.spotify.com/track/616exhHNYAWVclwjouE4ze"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
         "name": "Moments Inside",
         "url": "https://open.spotify.com/album/0jfKTtUd8qIIyWOQqHPSA2"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 303436,
       "name": "Safe Passage",
       "url": "https://open.spotify.com/track/1ILS6udvIKZ7BxbpknJ8ra"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "The Cactus of Knowledge",
+        "url": "https://open.spotify.com/album/4S5QeN8Zm3C9LauFWL7DQT"
+      },
+      "artists": [
+        {
+          "name": "Rabih Abou-Khalil",
+          "url": "https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT"
+        }
+      ],
+      "duration_ms": 328280,
+      "name": "The Lewinsky March",
+      "url": "https://open.spotify.com/track/616exhHNYAWVclwjouE4ze"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3451,6 +3451,22 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "Prayer For Peace",
+        "url": "https://open.spotify.com/album/3mnDhNKj8zIxFCx5Bzsq4x"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeist Freedom Energy Exchange",
+          "url": "https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM"
+        }
+      ],
+      "duration_ms": 447997,
+      "name": "Prayer For Peace",
+      "url": "https://open.spotify.com/track/3RgVndt09onNQofrnPtmTq"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "Absence",
         "url": "https://open.spotify.com/album/0d7MJP0WObWccm55hV1e7w"
       },
@@ -3471,22 +3487,6 @@
       "duration_ms": 414613,
       "name": "Absence",
       "url": "https://open.spotify.com/track/1v8Yegje2XmBIt3M948R7x"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Prayer For Peace",
-        "url": "https://open.spotify.com/album/3mnDhNKj8zIxFCx5Bzsq4x"
-      },
-      "artists": [
-        {
-          "name": "Zeitgeist Freedom Energy Exchange",
-          "url": "https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM"
-        }
-      ],
-      "duration_ms": 447997,
-      "name": "Prayer For Peace",
-      "url": "https://open.spotify.com/track/3RgVndt09onNQofrnPtmTq"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3601,20 +3601,20 @@
       "url": "https://open.spotify.com/track/25qmmlRJ4ZHhhKsvidRgNn"
     },
     {
-      "added_at": "2022-02-10 23:00:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "All The Memories That Objects Carry",
-        "url": "https://open.spotify.com/album/4My7R3aD9yZp7PT8fJxHoY"
+        "name": "Road To The Sun",
+        "url": "https://open.spotify.com/album/28ytlkXIUEpxSCvUun62MG"
       },
       "artists": [
         {
-          "name": "ALEXANDER",
-          "url": "https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor"
+          "name": "Amina Figarova",
+          "url": "https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb"
         }
       ],
-      "duration_ms": 324692,
-      "name": "All The Memories That Objects Carry",
-      "url": "https://open.spotify.com/track/0rdFlicMEENER7yTfqI6wu"
+      "duration_ms": 311886,
+      "name": "Road to the Sun",
+      "url": "https://open.spotify.com/track/3q7B1yOekfchSddJHfuZdT"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3641,36 +3641,20 @@
       "url": "https://open.spotify.com/track/4GFZrd2fep4ntOPrcHRgZc"
     },
     {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Road To The Sun",
-        "url": "https://open.spotify.com/album/28ytlkXIUEpxSCvUun62MG"
-      },
-      "artists": [
-        {
-          "name": "Amina Figarova",
-          "url": "https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb"
-        }
-      ],
-      "duration_ms": 311886,
-      "name": "Road to the Sun",
-      "url": "https://open.spotify.com/track/3q7B1yOekfchSddJHfuZdT"
-    },
-    {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Pop Stuff",
-        "url": "https://open.spotify.com/album/6P5yRqJHcfDRnsRGiJ1Hxr"
+        "name": "All The Memories That Objects Carry",
+        "url": "https://open.spotify.com/album/4My7R3aD9yZp7PT8fJxHoY"
       },
       "artists": [
         {
-          "name": "Vels Trio",
-          "url": "https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l"
+          "name": "ALEXANDER",
+          "url": "https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor"
         }
       ],
-      "duration_ms": 276039,
-      "name": "Pop Stuff",
-      "url": "https://open.spotify.com/track/78ivpfcaYnUxbdkYYOdDLd"
+      "duration_ms": 324692,
+      "name": "All The Memories That Objects Carry",
+      "url": "https://open.spotify.com/track/0rdFlicMEENER7yTfqI6wu"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3687,6 +3671,22 @@
       "duration_ms": 285458,
       "name": "Digital Palm Reprise - Bonus Track",
       "url": "https://open.spotify.com/track/0Eq66sdPp2s5OlcK0DG7aX"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Pop Stuff",
+        "url": "https://open.spotify.com/album/6P5yRqJHcfDRnsRGiJ1Hxr"
+      },
+      "artists": [
+        {
+          "name": "Vels Trio",
+          "url": "https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l"
+        }
+      ],
+      "duration_ms": 276039,
+      "name": "Pop Stuff",
+      "url": "https://open.spotify.com/track/78ivpfcaYnUxbdkYYOdDLd"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3827,6 +3827,38 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "New Kid",
+        "url": "https://open.spotify.com/album/61YlUhaXF2AH2GDNOLBEg7"
+      },
+      "artists": [
+        {
+          "name": "Bear Garden",
+          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
+        }
+      ],
+      "duration_ms": 182874,
+      "name": "New Kid",
+      "url": "https://open.spotify.com/track/35GLgVRh0sZJjtWoPGd52X"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/5auD1akFEurjBUL2S8eSPv"
+      },
+      "artists": [
+        {
+          "name": "Andorra",
+          "url": "https://open.spotify.com/artist/4DrXu8nq8uEec9f1jFjuRa"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/0I8VJcDYdGgPowFb8sL7R3"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "The Eternal Now",
         "url": "https://open.spotify.com/album/4msbEmgl1W5bpuAu9Deoik"
       },
@@ -3851,38 +3883,6 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/5auD1akFEurjBUL2S8eSPv"
-      },
-      "artists": [
-        {
-          "name": "Andorra",
-          "url": "https://open.spotify.com/artist/4DrXu8nq8uEec9f1jFjuRa"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/0I8VJcDYdGgPowFb8sL7R3"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Highway Brain Planet (Credits)",
-        "url": "https://open.spotify.com/album/1fUCcXqPAjPltrx7hkt64w"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 222958,
-      "name": "Highway Brain Planet",
-      "url": "https://open.spotify.com/track/2MQOZwhxuT5Pp23Rp09Szv"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
         "name": "Breakout",
         "url": "https://open.spotify.com/album/4223UDnLtfRY2w6JQzi2Dg"
       },
@@ -3899,18 +3899,18 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "New Kid",
-        "url": "https://open.spotify.com/album/61YlUhaXF2AH2GDNOLBEg7"
+        "name": "Highway Brain Planet (Credits)",
+        "url": "https://open.spotify.com/album/1fUCcXqPAjPltrx7hkt64w"
       },
       "artists": [
         {
-          "name": "Bear Garden",
-          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
         }
       ],
-      "duration_ms": 182874,
-      "name": "New Kid",
-      "url": "https://open.spotify.com/track/35GLgVRh0sZJjtWoPGd52X"
+      "duration_ms": 222958,
+      "name": "Highway Brain Planet",
+      "url": "https://open.spotify.com/track/2MQOZwhxuT5Pp23Rp09Szv"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -4031,6 +4031,22 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/3eLkBnP846iLeo9rIZc5JN"
+      },
+      "artists": [
+        {
+          "name": "Mark Lockheart",
+          "url": "https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic"
+        }
+      ],
+      "duration_ms": 328226,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/6Sqz4CWXYDwOq0Opsh40ow"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "Synchronized Swigging",
         "url": "https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7"
       },
@@ -4083,22 +4099,6 @@
       "duration_ms": 268733,
       "name": "Beat Like This",
       "url": "https://open.spotify.com/track/7D9urmNcWuDB1mXQcgYfKh"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/3eLkBnP846iLeo9rIZc5JN"
-      },
-      "artists": [
-        {
-          "name": "Mark Lockheart",
-          "url": "https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/6Sqz4CWXYDwOq0Opsh40ow"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -4503,6 +4503,22 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "The Fall of Nordic Heroes",
+        "url": "https://open.spotify.com/album/3OzURdfDTIFYMaY3LIErE9"
+      },
+      "artists": [
+        {
+          "name": "Espen Bjarnar",
+          "url": "https://open.spotify.com/artist/3LaVSlSGfKu0DqKypDzWs8"
+        }
+      ],
+      "duration_ms": 395509,
+      "name": "The Fall of Nordic Heroes",
+      "url": "https://open.spotify.com/track/4V8kcH7FWPglharzzafFK5"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "Bleu Fonc\u00e9",
         "url": "https://open.spotify.com/album/7ELTYA8MU9ihk1E70QBv5z"
       },
@@ -4599,22 +4615,6 @@
       "duration_ms": 436000,
       "name": "See You Later",
       "url": "https://open.spotify.com/track/7r06RxNCEsPyynmGFX1QXR"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "The Fall of Nordic Heroes",
-        "url": "https://open.spotify.com/album/3OzURdfDTIFYMaY3LIErE9"
-      },
-      "artists": [
-        {
-          "name": "Espen Bjarnar",
-          "url": "https://open.spotify.com/artist/3LaVSlSGfKu0DqKypDzWs8"
-        }
-      ],
-      "duration_ms": 395509,
-      "name": "The Fall of Nordic Heroes",
-      "url": "https://open.spotify.com/track/4V8kcH7FWPglharzzafFK5"
     },
     {
       "added_at": "2022-02-10 23:00:00",
