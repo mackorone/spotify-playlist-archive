@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T"
+    },
+    {
+      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -3380,7 +3402,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 155839,
       "name": "Dat Girl",
       "url": "https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT"
@@ -5670,7 +5692,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 137952,
       "name": "Hannah Montana (with NLE Choppa & DaBaby)",
       "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
@@ -8214,6 +8236,24 @@
       "duration_ms": 122266,
       "name": "Mind Yo Business (Feat. Latto)",
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/0fhSjuQFei2QCsfX9yHRW1"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150090,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/2B1PCtaMT0Zrev6svMvHB1"
     },
     {
       "album": {

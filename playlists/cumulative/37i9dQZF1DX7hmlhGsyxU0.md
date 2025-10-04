@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-178 songs - 9 hr 36 min
+181 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cyllene](https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Cyllene](https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn) | 2:51 | 2022-09-02 | 2022-11-08 |
 | [Dead Heart](https://open.spotify.com/track/7nRLXtBmT5YyeiRclU3Btj) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 | 2022-04-01 | 2022-11-08 |
 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 | 2022-05-20 | 2022-11-08 |
+| [Deux arabesques, L\. 74: Arabesque No\. 1](https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Tiffany Poon](https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS) | [Debussy: Deux arabesques: Arabesque No\. 1](https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI) | 3:52 | 2025-10-03 |  |
 | [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 | 2025-03-21 |  |
 | [Drifter](https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:37 | 2022-04-01 |  |
 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 | 2022-07-29 | 2024-04-19 |
@@ -90,6 +91,7 @@
 | [Islands](https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr) | 2:21 | 2022-11-07 | 2024-04-19 |
 | [Italian Prelude](https://open.spotify.com/track/71TDI7qUtLLzfYkJwbgRWk) | [Anna Moor](https://open.spotify.com/artist/6VH0sdFNBtBG1VUHXZrhz5), [Lana Ross](https://open.spotify.com/artist/3zT2ihLD0QRkAOCp3Q2XSc), [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Violin and Classical Guitar Wedding Ceremony Music In Baroque, Renaissance And Romantic Styles](https://open.spotify.com/album/6C2UafthzdUpRTxlmG6QKA) | 1:36 | 2022-04-01 | 2022-07-11 |
 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2022-04-01 |  |
+| [Kindred](https://open.spotify.com/track/1Lgp86lSj6NxeLHnr6VjXS) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Kindred](https://open.spotify.com/album/5yKSMJl7bl11ceSiMljxlC) | 2:17 | 2025-10-03 |  |
 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 | 2022-04-01 |  |
 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 | 2022-04-01 |  |
 | [Living Rooms](https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe) | 2:55 | 2022-11-07 | 2024-04-19 |
@@ -175,6 +177,7 @@
 | [UKYIO](https://open.spotify.com/track/1Lrh12107ANSCXlnzEXj1Y) | [Threetuan](https://open.spotify.com/artist/2VEBPW0ntizd6e6ttTKACz) | [UKYIO](https://open.spotify.com/album/2lUPFtBYHXs7cMPU2lAUuQ) | 2:04 | 2022-06-10 | 2022-11-08 |
 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 | 2022-04-01 |  |
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-22 | 2022-11-08 |
+| [Vivaldi Variation \(meno mosso\)](https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo II](https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE) | 2:32 | 2025-10-03 |  |
 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 | 2022-04-01 |  |
 | [Warm Embrace](https://open.spotify.com/track/0mkSNpmLh8KPX6dTy9QY6X) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Warm Embrace](https://open.spotify.com/album/0WWi4q8M3doQL4SL8Vf9vZ) | 3:05 | 2022-04-01 | 2022-07-29 |
 | [Warmcrest](https://open.spotify.com/track/76myx21U6VHCssljY6R1RD) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:24 | 2022-05-20 | 2022-07-29 |

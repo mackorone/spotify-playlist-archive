@@ -2,7 +2,7 @@
 
 ### [RADAR Africa ](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> Discover your new favourite artists from Africa\. Cover:  Thakzin
+> Discover your new favourite artists from Africa\. Cover:  Fola
 
 485 songs - 1 day 1 hr 44 min
 

@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: NEW YORK
 
-186 songs - 10 hr 47 min
+189 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Days In My Arms](https://open.spotify.com/track/6juSVsEDuNqM2Zp8D0kK5L) | [Milan W.](https://open.spotify.com/artist/4ZCux8WXdeKCoARMg1JSok) | [Leave Another Day](https://open.spotify.com/album/40UEAKeQY7F59p1dLFrD24) | 4:00 | 2025-03-13 |  |
 | [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:39 | 2025-03-13 | 2025-09-27 |
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-08 |  |
+| [Delusional Conclusion](https://open.spotify.com/track/5bvcPN2SGbKXC2oet5f5Ni) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Might as Well Just Cause a Scene](https://open.spotify.com/album/3m9t4IwSEJdXnZ7E8hSNHq) | 4:12 | 2025-10-03 |  |
 | [Desire](https://open.spotify.com/track/6JgFWu8XblYdwISOp2w9dw) | [TLF Trio](https://open.spotify.com/artist/4PWX2fYVnAH1ZQb49eu80Z) | [Desire](https://open.spotify.com/album/2NXIbwfZz2t74aHK3mBS3A) | 4:50 | 2025-09-26 |  |
 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 | 2025-03-13 |  |
 | [Digital Girl](https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 3:23 | 2025-03-13 |  |
@@ -55,6 +56,7 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-12 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-06-07 |
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 |  |
+| [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
 | [Emo Regulation](https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:23 | 2025-05-15 |  |
@@ -167,6 +169,7 @@
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-26 |
 | [tears on his rings and chains](https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [tears on his rings and chains](https://open.spotify.com/album/5DXpvfvNrOTSM2nYL5YlyR) | 3:18 | 2025-08-19 |  |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 |  |
+| [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 | 2025-10-03 |  |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 |  |
 | [The Longest Sleep](https://open.spotify.com/track/0rKK8Xj27S7L4tAB9EBYHX) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [I'm the One with No Soul](https://open.spotify.com/album/0yZpBY7dvRB4cUHtuvB0uQ) | 3:53 | 2025-07-15 |  |

@@ -6073,6 +6073,32 @@
     },
     {
       "album": {
+        "name": "Manequim",
+        "url": "https://open.spotify.com/album/3cRhmBLXUYHHoG4hiM50Sv"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Manequim",
+      "url": "https://open.spotify.com/track/6XuqRxcpuPKq5blLyIOEd1"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/5bjfH4aA987D5d5SejBBwT"
       },
@@ -9390,7 +9416,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 270661,
       "name": "Racioc\u00ednio Inteiro",
       "url": "https://open.spotify.com/track/5YiIHRcQibMfZZOKSOXvAF"

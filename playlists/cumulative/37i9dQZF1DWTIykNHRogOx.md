@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française avec Zaho de Sagazan
 
-229 songs - 12 hr 39 min
+229 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 | 2024-08-30 |
 | [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
 | [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 | 2025-05-16 |
+| [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 | 2025-10-02 |  |
 | [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 | 2025-08-08 |
 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 | 2024-09-19 | 2025-01-31 |
 | [Le fil](https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Âge Fleuve](https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP) | 3:02 | 2025-03-20 | 2025-08-01 |
@@ -213,7 +214,6 @@
 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 | 2025-07-10 |  |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
-| [Track 4](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |
 | [tu dis que tu m'aimes \- piano version](https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [tu dis que tu m'aimes \(piano version\)](https://open.spotify.com/album/5gVjadxwoN3dbwiZiZNsHz) | 3:00 | 2024-11-28 | 2025-04-18 |
 | [tu m'as dit que tu m'aimais](https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [tu m'as dit que tu m'aimais](https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc) | 2:40 | 2025-03-06 | 2025-07-11 |

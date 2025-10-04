@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Anna Carol e Dente
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,170 likes - 115 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,179 likes - 115 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 3 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 |
 | 4 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 |
 | 5 | [Impossibile](https://open.spotify.com/track/0wdacellVNck0ukTn7aUh2) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Impossibile](https://open.spotify.com/album/5Fa1eainlT3WLze98FsaGk) | 3:29 |
-| 6 | [Contrappunto](https://open.spotify.com/track/68mrG2sStpIgbByzj2q2aL) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [](https://open.spotify.com/album/null) | 2:27 |
+| 6 | [Contrappunto](https://open.spotify.com/track/68mrG2sStpIgbByzj2q2aL) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [Guarda le luci amore mio](https://open.spotify.com/album/0FOh4hxWUPq7XjZllFMyN4) | 2:27 |
 | 7 | [Da domani cosa farai?](https://open.spotify.com/track/54kkMJ3j6PwYZ1B71AiAFI) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Da domani cosa farai?](https://open.spotify.com/album/14kgrXT2gbWNEAnBTQO00f) | 3:33 |
 | 8 | [Lasciamene un po'](https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Lasciamene un po'](https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco) | 3:27 |
 | 9 | [un cane per te](https://open.spotify.com/track/1VCOQIBjWRjwgeXtQDmabc) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [I \- Autunno](https://open.spotify.com/album/5UMS2YRbBGmK7auQraSmcU) | 2:56 |

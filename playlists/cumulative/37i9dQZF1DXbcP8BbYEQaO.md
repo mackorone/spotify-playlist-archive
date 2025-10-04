@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-801 songs - 1 day 20 hr 59 min
+802 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 | 2023-04-01 |
 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 | 2023-01-20 | 2023-01-26 |
 | [deep in the woods](https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [deep in the woods](https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4) | 3:09 | 2022-06-24 | 2022-10-01 |
-| [Delicate Paws](https://open.spotify.com/track/6V4pMQ8Q765iNTOZpdzGRO) | [Alpha Maria](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Delicate Paws](https://open.spotify.com/album/6WLgx5C2e5akbsl6GQ1nqp) | 2:31 | 2025-09-27 |  |
+| [Delicate Paws](https://open.spotify.com/track/6V4pMQ8Q765iNTOZpdzGRO) | [Alpha Maria](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Delicate Paws](https://open.spotify.com/album/6WLgx5C2e5akbsl6GQ1nqp) | 2:31 | 2025-09-27 | 2025-10-04 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2025-06-01 |
 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 | 2024-03-08 | 2025-02-01 |
 | [Desire](https://open.spotify.com/track/1LpsGhseP5CoRstvoXRhYi) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Desire / The Echo](https://open.spotify.com/album/6rOgSgLPH6OtQuJsX7inJP) | 4:49 | 2025-09-12 |  |
@@ -697,6 +697,7 @@
 | [The Afterlove](https://open.spotify.com/track/3sdrR0EFMVYweJi7lZPjez) | [Emily Blue](https://open.spotify.com/artist/31rxF8WiC0tz6yNzgVP5Tf) | [The Afterlove](https://open.spotify.com/album/2ws38qKDWwSpghCht5ojMV) | 3:29 | 2021-12-11 | 2022-07-29 |
 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 | 2022-04-16 |  |
 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 | 2022-10-21 | 2023-02-18 |
+| [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-03 |  |
 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 | 2020-11-18 | 2021-09-11 |
 | [The Girl and the Robot](https://open.spotify.com/track/6VCqx14OVaX9uwSvC0PvAG) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Junior](https://open.spotify.com/album/6vQMbwthchxuSioACn2hcE) | 4:28 | 2022-04-16 | 2022-04-21 |
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-06-06 |  |

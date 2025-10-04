@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,107 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,123 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [911'](https://open.spotify.com/track/59c5mSvlBRPBuJJ48NdByR) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [MERCY"](https://open.spotify.com/album/3qWFFEdowMoUlbbuWcwBYb) | 3:01 |
 | 2 | [Headphones](https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:41 |
 | 3 | [Gotta Get It \- Street](https://open.spotify.com/track/3hcfF6W4myqRnk4Lm5JBZe) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Gotta Get It](https://open.spotify.com/album/1xODJ3ADVfZTS05LEGnR7u) | 2:54 |
-| 4 | [Just A Drop \(feat\. Jay Electronica\)](https://open.spotify.com/track/3gxDopbcUDigbjJUiHkSRT) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:56 |
+| 4 | [Just A Drop \(feat\. Jay Electronica\)](https://open.spotify.com/track/3gxDopbcUDigbjJUiHkSRT) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:56 |
 | 5 | [The Method](https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Get Well Soon!](https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA) | 3:16 |
 | 6 | [Outsiiide](https://open.spotify.com/track/6PjYVEj03iPG81ZfwA9D3y) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Via Dolorosa](https://open.spotify.com/album/0jHqElEG9tMkgMXk3IKQrV) | 2:32 |
 | 7 | [Save The Hero](https://open.spotify.com/track/3swS83NB42wHWMLg78XvM7) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Save The Hero](https://open.spotify.com/album/1HtLjUfm2eLtEw23Xm11Yv) | 2:47 |

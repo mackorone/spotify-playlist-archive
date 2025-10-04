@@ -1,13 +1,61 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Miley Cyrus",
-  "num_followers": 1826178,
+  "description": "Sit back and relax to the chillest pop.  Cover: Laufey",
+  "num_followers": 1825328,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADtBhbpO15pYmX7tJW0D9igpJjO8",
+  "snapshot_id": "AAAAAHFJR4g/Zv2NoHMAaQKvTQF4fyWU",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:42",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
+    {
+      "added_at": "2025-10-03 04:00:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
+    },
+    {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
     {
       "added_at": "2025-09-19 04:00:24",
       "album": {
@@ -31,22 +79,6 @@
       "duration_ms": 229458,
       "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:31",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": "2025-09-19 04:00:24",
@@ -73,6 +105,22 @@
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
     },
     {
+      "added_at": "2025-10-03 04:00:57",
+      "album": {
+        "name": "Incurable Optimist",
+        "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Tomorrow's Tomorrow",
+      "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
+    },
+    {
       "added_at": "2025-09-26 04:00:31",
       "album": {
         "name": "Wild Guess",
@@ -87,6 +135,22 @@
       "duration_ms": 166524,
       "name": "Wild Guess",
       "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
+    },
+    {
+      "added_at": "2025-09-05 07:50:16",
+      "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
       "added_at": "2025-09-26 04:00:31",
@@ -129,6 +193,38 @@
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
+      "added_at": "2025-10-03 04:00:57",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 255457,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4NsmI3RX9yZDCuCW75Ezvp"
+    },
+    {
+      "added_at": "2025-09-05 07:50:16",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
+    },
+    {
       "added_at": "2025-09-12 04:00:29",
       "album": {
         "name": "something like this",
@@ -145,36 +241,20 @@
       "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
     },
     {
-      "added_at": "2025-09-05 07:50:16",
+      "added_at": "2025-10-03 04:00:57",
       "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+        "name": "Not For Lack Of Trying",
+        "url": "https://open.spotify.com/album/6ogKuILl7vFFCahzxHvFOi"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
-    },
-    {
-      "added_at": "2025-06-27 04:00:42",
-      "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+      "duration_ms": 217819,
+      "name": "Tall Kids",
+      "url": "https://open.spotify.com/track/7cU1KmxXP6f6GCxQ54IFTB"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -257,6 +337,22 @@
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
+      "added_at": "2025-10-03 04:00:57",
+      "album": {
+        "name": "Mascara Tears",
+        "url": "https://open.spotify.com/album/7LrBHi7F3LfosN1hSRsKX9"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 217513,
+      "name": "Mascara Tears",
+      "url": "https://open.spotify.com/track/0C2AFLlJ5x53lM9qfKgK8p"
+    },
+    {
       "added_at": "2025-08-29 04:00:40",
       "album": {
         "name": "halfwaythru",
@@ -289,22 +385,6 @@
       "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
-      "added_at": "2025-09-05 07:50:16",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
-    },
-    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "I Barely Know Her",
@@ -335,6 +415,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-10-03 04:00:57",
+      "album": {
+        "name": "NOSEBLEED",
+        "url": "https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 164341,
+      "name": "NOSEBLEED",
+      "url": "https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d"
     },
     {
       "added_at": "2025-09-26 04:00:31",
@@ -647,22 +743,6 @@
       "duration_ms": 188925,
       "name": "in due time.",
       "url": "https://open.spotify.com/track/4KIXuIceCOGPu1UB0sHA6m"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX"
     },
     {
       "added_at": "2025-09-05 07:50:16",
@@ -1173,22 +1253,6 @@
       "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
     },
     {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
-        "name": "City Woman",
-        "url": "https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "Piece Of My Heart",
-      "url": "https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq"
-    },
-    {
       "added_at": "2025-07-25 04:01:00",
       "album": {
         "name": "1-800-LOVECLUB",
@@ -1239,22 +1303,6 @@
     {
       "added_at": "2025-08-01 04:00:27",
       "album": {
-        "name": "Sophie",
-        "url": "https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 193153,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:27",
-      "album": {
         "name": "How To Live",
         "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
       },
@@ -1267,22 +1315,6 @@
       "duration_ms": 240043,
       "name": "How To Live",
       "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
-    },
-    {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
-        "name": "Broken Glass",
-        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
-      },
-      "artists": [
-        {
-          "name": "Harper Finn",
-          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
     },
     {
       "added_at": "2025-03-21 04:46:31",
@@ -1363,22 +1395,6 @@
       "duration_ms": 255155,
       "name": "To Be Free",
       "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
-    },
-    {
-      "added_at": "2025-07-25 04:01:00",
-      "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2lqelyZsVx9zEPCad5dFln"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 238913,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/1N1Phz8aYhJFGTFlHOX3Db"
     },
     {
       "added_at": "2025-08-01 04:00:27",
@@ -1495,22 +1511,6 @@
       "duration_ms": 219413,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp"
     },
     {
       "added_at": "2025-07-11 04:00:17",

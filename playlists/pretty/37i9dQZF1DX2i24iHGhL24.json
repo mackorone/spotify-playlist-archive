@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Ed Sheeran",
-  "num_followers": 221035,
+  "num_followers": 221146,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvhoEiuYeqHBcT7wrjvrMDqsMWU",
+  "snapshot_id": "AAAAAGHSBP4189pUY4QqbQSD+TxunqRn",
   "tracks": [
     {
       "added_at": "2025-06-08 20:02:07",
@@ -27,6 +27,38 @@
     {
       "added_at": "2025-06-08 20:02:07",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+    },
+    {
+      "added_at": "2025-06-08 20:02:07",
+      "album": {
+        "name": "The scientist",
+        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 267700,
+      "name": "The scientist",
+      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
+    },
+    {
+      "added_at": "2025-06-08 20:02:07",
+      "album": {
         "name": "Time After Time (Spotify Singles)",
         "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
       },
@@ -43,18 +75,18 @@
     {
       "added_at": "2025-06-08 20:02:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+        "name": "Rewrite the Stars",
+        "url": "https://open.spotify.com/album/1SA55aT60plxlyPRErTCRw"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Michael Gerow",
+          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
         }
       ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+      "duration_ms": 151446,
+      "name": "Rewrite the Stars",
+      "url": "https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI"
     },
     {
       "added_at": "2025-09-10 16:52:13",
@@ -89,6 +121,26 @@
       "url": "https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL"
     },
     {
+      "added_at": "2025-10-03 04:00:40",
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+    },
+    {
       "added_at": "2025-07-04 04:00:16",
       "album": {
         "name": "Breathless",
@@ -103,22 +155,6 @@
       "duration_ms": 180524,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R"
-    },
-    {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "The scientist",
-        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 267700,
-      "name": "The scientist",
-      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
       "added_at": "2025-07-11 04:00:06",
@@ -185,22 +221,6 @@
       "url": "https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY"
     },
     {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "Rewrite the Stars",
-        "url": "https://open.spotify.com/album/1SA55aT60plxlyPRErTCRw"
-      },
-      "artists": [
-        {
-          "name": "Michael Gerow",
-          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
-        }
-      ],
-      "duration_ms": 151446,
-      "name": "Rewrite the Stars",
-      "url": "https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI"
-    },
-    {
       "added_at": "2025-07-11 11:19:31",
       "album": {
         "name": "Bette Davis Eyes",
@@ -215,6 +235,22 @@
       "duration_ms": 172156,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/5oUX3qrbsrvmVrmidcbZIR"
+    },
+    {
+      "added_at": "2025-10-03 04:00:40",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2RdaDYwTXPp2UBiVGiEsaH"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3ToaIx8bwg0qp6VOVaA4PA"
     },
     {
       "added_at": "2025-06-08 20:02:07",

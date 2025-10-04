@@ -1,13 +1,29 @@
 {
   "description": "Soulful takes on all your Holiday favorites. Cover: Devon Gilfillian",
-  "num_followers": 69486,
+  "num_followers": 69484,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABCoufrV8ke9ZQugB4GGhW0+8oCv",
+  "snapshot_id": "AAAAAEeykk2+77Y5zHzzozXhpnMtKCux",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:46",
+      "album": {
+        "name": "Soul Funk Xmas",
+        "url": "https://open.spotify.com/album/4FL5Nt8rTgXlBKGEgTCHvU"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "duration_ms": 287033,
+      "name": "Xmas In The Hood",
+      "url": "https://open.spotify.com/track/2qMx9EqL28rUQmGI6c9jxp"
+    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {

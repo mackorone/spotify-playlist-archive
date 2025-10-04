@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 359501,
+  "num_followers": 359683,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-09-11 22:01:09",
       "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
+    },
+    {
+      "added_at": "2025-09-11 22:01:09",
+      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
-    },
-    {
-      "added_at": "2025-09-11 22:01:09",
-      "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2025-09-11 22:01:09",

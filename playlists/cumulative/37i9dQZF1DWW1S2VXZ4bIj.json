@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, guncharlie",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BLVCKHEART",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 149333,
       "name": "Sanrio",
       "url": "https://open.spotify.com/track/25JwYWJL8hm3M4pIfF4kaE"
@@ -3724,6 +3724,24 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "album": {
@@ -5303,6 +5321,28 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e01\u0e47\u0e14\u0e35 (Dusk)",
+        "url": "https://open.spotify.com/album/0YWBJIBpn983oydOPfCbiw"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "\u0e21\u0e35\u0e19\u0e15\u0e23\u0e32 \u0e2d\u0e34\u0e19\u0e17\u0e34\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/6E073XQVLJxuLz2lPcAsXq"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246512,
+      "name": "\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e01\u0e47\u0e14\u0e35 (Dusk)",
+      "url": "https://open.spotify.com/track/518duNB5hpG5Vwo4AaL4Yo"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e30\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e1f\u0e31\u0e07",
         "url": "https://open.spotify.com/album/3S6B35zp1iUJbaaGgCl52f"
       },
@@ -5806,6 +5846,28 @@
       "duration_ms": 291759,
       "name": "\u0e14\u0e2d\u0e07\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/3ZCYNMzlWPNfwdP2rHKgxm"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e15\u0e01 (Wish) [feat. Z9]",
+        "url": "https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq"
+      },
+      "artists": [
+        {
+          "name": "WANYAi",
+          "url": "https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241250,
+      "name": "\u0e14\u0e32\u0e27\u0e15\u0e01 (Wish) [feat. Z9]",
+      "url": "https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz"
     },
     {
       "album": {
@@ -8208,7 +8270,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 280434,
       "name": "\u0e2b\u0e22\u0e38\u0e14\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/25fT6Vb2RXblQ47z0QeKg2"
@@ -8866,7 +8928,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 175271,
       "name": "\u0e40\u0e17\u0e2b\u0e21\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e31\u0e01 (All In)",
       "url": "https://open.spotify.com/track/20RR8TQr1SsZ2XYoCVoI0E"

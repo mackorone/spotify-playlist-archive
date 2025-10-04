@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Geese
 
-2,035 songs - 4 day 19 hr 5 min
+2,039 songs - 4 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 | 2024-11-22 | 2025-02-08 |
 | [Cross My Heart and Hope to Die](https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Cross My Heart and Hope to Die](https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO) | 3:14 | 2025-07-25 |  |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-29 | 2022-10-01 |
+| [Cross Your Heart](https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Cross Your Heart](https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM) | 3:38 | 2025-10-03 |  |
 | [Crown Vic \(Black Cloud\)](https://open.spotify.com/track/6rtP4KRJr7iY8X4wV0oeen) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:32 | 2021-10-22 | 2022-02-07 |
 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 | 2021-10-22 | 2022-04-20 |
 | [Cry](https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Cry](https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG) | 3:49 | 2022-10-07 | 2022-11-19 |
@@ -498,6 +499,7 @@
 | [Depression \(feat\. Coconut Records\)](https://open.spotify.com/track/3g7HARETXRy8587MHUq64U) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn), [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Depression \(feat\. Coconut Records\)](https://open.spotify.com/album/3PXXMUX1yrmDPJ4pGC4dLP) | 2:45 | 2025-03-14 | 2025-05-31 |
 | [Derby Raceway](https://open.spotify.com/track/1davHiGeSwxgSvdy1yXtjp) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/6bbyTk1fL07XSecYxWlInv) | 3:48 | 2023-09-29 | 2023-11-04 |
 | [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-07-22 | 2022-09-03 |
+| [detroit](https://open.spotify.com/track/0ESmbstBQI4arPAsNkHZ8g) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Strung Out Symphony](https://open.spotify.com/album/4vkZh7v970FaGHlF16IDeW) | 3:09 | 2025-10-03 |  |
 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 | 2021-07-23 | 2022-06-10 |
 | [Devotion](https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 2:45 | 2023-09-08 | 2023-12-02 |
 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-11 | 2023-09-09 |
@@ -1188,7 +1190,7 @@
 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-01-19 | 2024-03-30 |
 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 | 2021-06-07 | 2022-05-24 |
 | [Mirror](https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y) | 4:56 | 2025-01-17 | 2025-03-22 |
-| [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:21 | 2025-08-01 |  |
+| [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:21 | 2025-08-01 | 2025-10-04 |
 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-09-19 |  |
 | [Misery](https://open.spotify.com/track/0kGpg2RuSoevcA16TN49Sw) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Misery](https://open.spotify.com/album/4gduKjwL0MTX6l0S15nx8E) | 3:48 | 2025-06-20 |  |
 | [Miss City Babe](https://open.spotify.com/track/4hwqxqopB2geuDQUsoqHzU) | [Prince of Eden](https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N) | [Miss City Babe](https://open.spotify.com/album/3fdVGhYegFRVLAZ38qpAMG) | 3:28 | 2024-10-25 | 2025-02-15 |
@@ -1301,6 +1303,7 @@
 | [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 | 2025-08-15 |  |
 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 | 2023-08-04 | 2023-10-21 |
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-06-07 | 2022-06-11 |
+| [Number One Fan](https://open.spotify.com/track/0JxmOHLNDZMy6m0vKUMgUh) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [R is for Rocket](https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG) | 3:51 | 2025-10-03 |  |
 | [NYE](https://open.spotify.com/track/5YVkywBzm2b9oqSKbZiAmp) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 3:10 | 2023-09-08 | 2023-10-21 |
 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 | 2023-05-24 | 2023-08-05 |
 | [Obsessive Thoughts](https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:19 | 2024-02-09 | 2024-03-16 |
@@ -1349,6 +1352,7 @@
 | [Paige Machine](https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Paige Machine](https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y) | 2:40 | 2023-12-15 | 2024-01-13 |
 | [Palms \(with Channel Tres\)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms \(with Channel Tres\)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2021-06-07 | 2022-01-13 |
 | [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 4:21 | 2024-04-05 | 2024-08-24 |
+| [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-10-03 |  |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-02 |
 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-15 | 2022-11-19 |
 | [Paradise](https://open.spotify.com/track/50I0tMy5eLxPzjLr4V4fBw) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [Paradise](https://open.spotify.com/album/63ct0fj5ma1lS5WLmEtZh6) | 3:00 | 2022-08-13 | 2022-10-22 |

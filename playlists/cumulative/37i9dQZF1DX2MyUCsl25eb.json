@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 223226,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM"
@@ -15220,6 +15220,24 @@
       "duration_ms": 204012,
       "name": "The Butterfly Effect",
       "url": "https://open.spotify.com/track/7IAdmF1Oieo320QCpbeG1Y"
+    },
+    {
+      "album": {
+        "name": "The Constant",
+        "url": "https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "The Constant",
+      "url": "https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD"
     },
     {
       "album": {

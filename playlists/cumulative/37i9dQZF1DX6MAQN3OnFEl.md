@@ -2,7 +2,7 @@
 
 ### [y2k](https://open.spotify.com/playlist/37i9dQZF1DX6MAQN3OnFEl)
 
-> A Hilary Duff renaissance? This is what dreams are made of.
+> On October 3rd he asked me what day it was
 
 202 songs - 12 hr 25 min
 
@@ -32,7 +32,7 @@
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2022-03-26 | 2024-04-19 |
 | [Be My Lover](https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 4:00 | 2022-03-26 |  |
 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 | 2021-07-08 |  |
-| [Beep](https://open.spotify.com/track/5TXNLJ2EENAt3Tf9MX4kT2) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:49 | 2022-03-26 |  |
+| [Beep](https://open.spotify.com/track/5TXNLJ2EENAt3Tf9MX4kT2) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:49 | 2022-03-26 | 2025-10-04 |
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2022-03-26 |  |
 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 | 2022-03-26 | 2022-04-21 |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-03-26 | 2024-04-19 |
@@ -84,7 +84,7 @@
 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 | 2022-03-26 |  |
 | [Give Me Just One Night \(Una Noche\)](https://open.spotify.com/track/1OvjOVieEsYqGiK1T3mUv9) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Revelation](https://open.spotify.com/album/3cZL4sLAaAYjrY7DQl5lC9) | 3:25 | 2022-03-26 | 2022-04-21 |
 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 | 2021-07-08 |  |
-| [God Is a DJ](https://open.spotify.com/track/4k1ffvQabEZP9dxwhCkxY9) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Try This](https://open.spotify.com/album/0b9g1swHnqRcxYQPZgjz48) | 3:45 | 2024-10-03 | 2025-09-14 |
+| [God Is a DJ](https://open.spotify.com/track/4k1ffvQabEZP9dxwhCkxY9) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Try This](https://open.spotify.com/album/0b9g1swHnqRcxYQPZgjz48) | 3:45 | 2024-10-03 |  |
 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 | 2021-07-08 |  |
 | [Gotta Tell You](https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:20 | 2023-09-25 |  |
 | [Hanging On \(Theme from "Cheyenne" on MTV\)](https://open.spotify.com/track/6Su4jst3IXkvneQb4OUiLE) | [Cheyenne Kimball](https://open.spotify.com/artist/28GmLYDzZIZWQChkzH1Mgy) | [The Day Has Come](https://open.spotify.com/album/05zsmNbb6gyxOVrRpAm21L) | 4:09 | 2021-07-08 | 2022-07-29 |

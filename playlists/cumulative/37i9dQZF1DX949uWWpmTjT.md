@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,116 songs - 2 day 23 hr 50 min
+1,117 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
 | [A look of confusion](https://open.spotify.com/track/4zNMkaNjhCpnVJm1RQHgv2) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [A look of confusion](https://open.spotify.com/album/0T4R4FUftoMBkd7FJmkvYL) | 3:35 | 2024-04-23 |  |
 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 | 2024-04-17 |  |
-| [A Mother's Love](https://open.spotify.com/track/1AO9JLBiy1gZREISyucd6v) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [A Mother's Love](https://open.spotify.com/album/35iuiVjjXK5RA7VpgYivTM) | 4:55 | 2023-02-09 |  |
+| [A Mother's Love](https://open.spotify.com/track/1AO9JLBiy1gZREISyucd6v) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [A Mother's Love](https://open.spotify.com/album/35iuiVjjXK5RA7VpgYivTM) | 4:55 | 2023-02-09 | 2025-10-04 |
 | [A Note's Journey](https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [A Note's Journey](https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn) | 3:48 | 2023-12-08 | 2025-10-01 |
 | [A Perfect Day](https://open.spotify.com/track/4d97x2KkKklZZJsvtWBCn7) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [A Perfect Day](https://open.spotify.com/album/1LnXioxQMj65UL2GmLLDxh) | 3:33 | 2023-12-15 | 2025-10-01 |
 | [A persuasive argument](https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [A persuasive argument](https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z) | 3:54 | 2023-08-10 |  |
@@ -332,6 +332,7 @@
 | [From Paris with love](https://open.spotify.com/track/7Mrz01pIRqW3IGQro5IqDq) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [From Paris with love](https://open.spotify.com/album/3cCLtvehudXUYm2uw571LX) | 3:05 | 2023-02-09 |  |
 | [Fujiyama](https://open.spotify.com/track/41fniSbDLqp964wyawCRrV) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 5:03 | 2022-05-13 | 2022-07-29 |
 | [Fujiyama](https://open.spotify.com/track/4Iv4KgHBWsFhLNXXMvyUmb) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7) | 5:03 | 2022-06-30 | 2022-11-11 |
+| [Future Days Ahead](https://open.spotify.com/track/0gLY7Xf1VOOhEmuuonHpkq) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Future Days Ahead](https://open.spotify.com/album/3QEyxhWAcICLkcNtlKinzD) | 2:54 | 2025-09-30 |  |
 | [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2023-02-09 | 2025-10-01 |
 | [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-10 | 2023-08-25 |
@@ -688,7 +689,7 @@
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2023-02-02 | 2025-10-01 |
 | [No, No, Nanette: Tea for Two](https://open.spotify.com/track/58GXcqIVvW76uwM7EVOy5X) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:07 | 2023-06-15 | 2024-02-02 |
 | [Nobody's Darling](https://open.spotify.com/track/0W4NNnvJgFcWYW3Tmp8pP5) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Nobody's Darling](https://open.spotify.com/album/5UdjszhOeIQb0j6HTtZZZy) | 3:11 | 2024-02-09 | 2025-10-01 |
-| [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 | 2025-10-04 |
 | [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [Norah´s Place](https://open.spotify.com/track/03mZppMXzhmCBr2hgSQlxh) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Norah´s Place](https://open.spotify.com/album/7r9Vj7UebCVochEf1AOwta) | 2:43 | 2024-02-23 |  |
 | [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 | 2023-04-14 |  |
@@ -765,7 +766,7 @@
 | [Railroad Tracks](https://open.spotify.com/track/6sxvsyHI6XCCnnEt2IYDdB) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Railroad Tracks](https://open.spotify.com/album/3BcaPbeGTCHVSMhgj3ZFSg) | 3:12 | 2024-04-10 |  |
 | [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2023-02-02 | 2024-05-11 |
 | [Raindance](https://open.spotify.com/track/1SBRJqNjFa8wwGqSI39NVZ) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Raindance](https://open.spotify.com/album/7t9Cb7aCCsyeDlIG0KH35A) | 3:55 | 2023-09-22 | 2024-02-03 |
-| [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-02-09 | 2025-10-03 |
+| [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-02-09 |  |
 | [Reflecting](https://open.spotify.com/track/76g53Xbc9tqKPcQiUkKx2X) | [Chestnut Street Trio](https://open.spotify.com/artist/2XyIoQNaBNpu3ucMG4euc8) | [Reflecting](https://open.spotify.com/album/23IlVPwP8Iu0V92QJxOVXf) | 3:56 | 2024-04-17 |  |
 | [Reflections in Blue](https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Reflections in Blue](https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4) | 2:32 | 2023-09-22 |  |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-04-14 |  |

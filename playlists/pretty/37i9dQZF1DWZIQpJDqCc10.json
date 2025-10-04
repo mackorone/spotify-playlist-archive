@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 743065,
+  "num_followers": 743167,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-09-22 19:42:15",
       "album": {
+        "name": "Rabbit Hearted.",
+        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 210742,
+      "name": "Luv Note",
+      "url": "https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR"
+    },
+    {
+      "added_at": "2025-09-22 19:42:15",
+      "album": {
         "name": "no song without you",
         "url": "https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa"
       },
@@ -1199,34 +1215,18 @@
     {
       "added_at": "2025-09-22 19:42:15",
       "album": {
-        "name": "Rabbit Hearted.",
-        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
+        "name": "Crazy For Your Love",
+        "url": "https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ"
       },
       "artists": [
         {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 210742,
-      "name": "Luv Note",
-      "url": "https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR"
-    },
-    {
-      "added_at": "2025-09-22 19:42:15",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
+      "duration_ms": 141918,
+      "name": "Crazy For Your Love",
+      "url": "https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR"
     }
   ],
   "unique_name": "Indie Love Songs",

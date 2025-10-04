@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: HighSchool
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,403 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,407 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Scumbag](https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [](https://open.spotify.com/album/null) | 3:53 |
+| 1 | [Scumbag](https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Everything Every Single Day](https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb) | 3:53 |
 | 2 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 |
 | 3 | [Big Shot](https://open.spotify.com/track/1Cr45IEYsxLV0ZUCkuKCID) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Big Shot](https://open.spotify.com/album/3baCw6gjkLHFw5a7JdXEH8) | 3:18 |
 | 4 | [Roller](https://open.spotify.com/track/5sYrDEg5lcbIVMZ4dUko5d) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [I Only Trust Rock n Roll](https://open.spotify.com/album/2uUYr0m6SXcKGSNITJon46) | 3:19 |

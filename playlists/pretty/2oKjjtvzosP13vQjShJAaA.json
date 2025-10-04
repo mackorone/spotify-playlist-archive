@@ -1,13 +1,37 @@
 {
   "description": "w\u00f6chentliche handverlesene empfehlungen des archivs. no industry bs",
-  "num_followers": 1356,
+  "num_followers": 1376,
   "original_name": "die hip hop empfehlung",
   "owner": {
     "name": "hiphoparchiv",
     "url": "https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q"
   },
-  "snapshot_id": "AAABCBWXZKPGMD2eBAK5/ycN4KmQMqXf",
+  "snapshot_id": "AAABElDSL8tL2KJ2Wn8D+K4Y2TjQ7Obg",
   "tracks": [
+    {
+      "added_at": "2025-10-03 09:24:27",
+      "album": {
+        "name": "IUMB Forever",
+        "url": "https://open.spotify.com/album/2Bt83Q6UpPIsgARADTf5MF"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4dness",
+          "url": "https://open.spotify.com/artist/7r29hnM0AiX10xqC7WKXh0"
+        },
+        {
+          "name": "D\u00f6ll",
+          "url": "https://open.spotify.com/artist/1lbkvzH1eUL0VLD99hb32x"
+        },
+        {
+          "name": "ALYZAH",
+          "url": "https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM"
+        }
+      ],
+      "duration_ms": 163825,
+      "name": "IUMB Forever",
+      "url": "https://open.spotify.com/track/4xM9gMLuifJG68pjL57NUv"
+    },
     {
       "added_at": "2025-10-02 22:10:46",
       "album": {
@@ -69,24 +93,20 @@
       "url": "https://open.spotify.com/track/0pBZFyyLFV48OwbYQiy3sM"
     },
     {
-      "added_at": "2025-09-26 11:24:52",
+      "added_at": "2025-09-19 07:32:40",
       "album": {
-        "name": "TYPE",
-        "url": "https://open.spotify.com/album/2g2X0fL8Dbtj9KEeLndvA6"
+        "name": "Von allen guten Geistern verlassen",
+        "url": "https://open.spotify.com/album/7zUlcfBG1AuxHgJnT0Igzm"
       },
       "artists": [
         {
-          "name": "ALYZAH",
-          "url": "https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM"
-        },
-        {
-          "name": "MP FRESHLY",
-          "url": "https://open.spotify.com/artist/2bdEzd2yRdFpuoShrO9gri"
+          "name": "Mc Smook",
+          "url": "https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP"
         }
       ],
-      "duration_ms": 192653,
-      "name": "TYPE",
-      "url": "https://open.spotify.com/track/17yIL1ptjYI6q5z2GOc3ew"
+      "duration_ms": 101940,
+      "name": "Mal was Privates",
+      "url": "https://open.spotify.com/track/6dQyb7ciZDLXVL55K4haZv"
     },
     {
       "added_at": "2025-09-26 11:26:02",
@@ -185,22 +205,6 @@
       "url": "https://open.spotify.com/track/72oK96eyMnh3DRMXivcuZN"
     },
     {
-      "added_at": "2025-10-02 22:11:48",
-      "album": {
-        "name": "O'Malley",
-        "url": "https://open.spotify.com/album/51lGGvzx0aLxaWgi9Wv5Eb"
-      },
-      "artists": [
-        {
-          "name": "OG LU",
-          "url": "https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W"
-        }
-      ],
-      "duration_ms": 168099,
-      "name": "O'Malley",
-      "url": "https://open.spotify.com/track/7vKz49V3aeZLaJY5x4yf4G"
-    },
-    {
       "added_at": "2025-09-26 11:24:36",
       "album": {
         "name": "Formel 1",
@@ -241,6 +245,42 @@
       "url": "https://open.spotify.com/track/0qRPDL38VW47xzHCu42vnA"
     },
     {
+      "added_at": "2025-09-26 11:24:52",
+      "album": {
+        "name": "TYPE",
+        "url": "https://open.spotify.com/album/2g2X0fL8Dbtj9KEeLndvA6"
+      },
+      "artists": [
+        {
+          "name": "ALYZAH",
+          "url": "https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM"
+        },
+        {
+          "name": "MP FRESHLY",
+          "url": "https://open.spotify.com/artist/2bdEzd2yRdFpuoShrO9gri"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "TYPE",
+      "url": "https://open.spotify.com/track/17yIL1ptjYI6q5z2GOc3ew"
+    },
+    {
+      "added_at": "2025-10-03 09:28:00",
+      "album": {
+        "name": "WONDA",
+        "url": "https://open.spotify.com/album/2BORIBKF6CbesGCgfP8wxk"
+      },
+      "artists": [
+        {
+          "name": "LAAS",
+          "url": "https://open.spotify.com/artist/5ZDBkifba6O2TRqyzxGuoq"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "WONDA",
+      "url": "https://open.spotify.com/track/5lXEYchgLP4DC6VMY8OvIg"
+    },
+    {
       "added_at": "2025-09-26 11:26:18",
       "album": {
         "name": "Geschichte eines Schweigens",
@@ -255,6 +295,30 @@
       "duration_ms": 123469,
       "name": "Geschichte eines Schweigens",
       "url": "https://open.spotify.com/track/5jSJGYKTZU4siC7rjt5zKt"
+    },
+    {
+      "added_at": "2025-10-03 09:24:48",
+      "album": {
+        "name": "YSSUP",
+        "url": "https://open.spotify.com/album/55ElaezcrjewsTPNaUzBd9"
+      },
+      "artists": [
+        {
+          "name": "ALYZAH",
+          "url": "https://open.spotify.com/artist/7M2baGUbUO2OhtHsYNztMM"
+        },
+        {
+          "name": "Dimi Rompos",
+          "url": "https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL"
+        },
+        {
+          "name": "Ebow",
+          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "YSSUP",
+      "url": "https://open.spotify.com/track/4EI91IzlT2LPlLXvq9KFDX"
     },
     {
       "added_at": "2025-10-02 22:10:41",
@@ -297,20 +361,24 @@
       "url": "https://open.spotify.com/track/0GIdBNxeRW4vmnTXMAPHyf"
     },
     {
-      "added_at": "2025-09-19 07:32:40",
+      "added_at": "2025-10-03 09:35:20",
       "album": {
-        "name": "Von allen guten Geistern verlassen",
-        "url": "https://open.spotify.com/album/7zUlcfBG1AuxHgJnT0Igzm"
+        "name": "Still Snowin'",
+        "url": "https://open.spotify.com/album/3AQaGYyxlx3kHsE0thg5lV"
       },
       "artists": [
         {
-          "name": "Mc Smook",
-          "url": "https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 101940,
-      "name": "Mal was Privates",
-      "url": "https://open.spotify.com/track/6dQyb7ciZDLXVL55K4haZv"
+      "duration_ms": 189510,
+      "name": "Still Snowin'",
+      "url": "https://open.spotify.com/track/5IVbbdhaxuNWxea9skrTOK"
     }
   ],
   "unique_name": "die hip hop empfehlung",

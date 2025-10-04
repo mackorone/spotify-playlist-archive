@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: DIFF, XRS
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,114 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,121 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Provlimata](https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:24 |
 | 50 | [KAKO](https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [KAKO](https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe) | 3:06 |
 
-Snapshot ID: `AAAAAPsbY0wTq9B+cJ147T5ALiC/xlHo`
+Snapshot ID: `AAAAAKXtzMiMyfpvM4R0hfAUvxNp7e2e`

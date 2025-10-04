@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Architrackz
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,619 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,597 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piepen In Me Mind](https://open.spotify.com/track/2nZUxI5qcJms95xjtaSxS9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Piepen In Me Mind](https://open.spotify.com/album/4cIPBTeADtNTPKn5l8vcuQ) | 2:17 |
 | 2 | [RING](https://open.spotify.com/track/1LVpU2PFXy5r3Ya21YwuHu) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [RING](https://open.spotify.com/album/3NYBdkNGMXjWNn6fFPcZek) | 2:21 |
-| 3 | [Track 6](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Weg Van Jou](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [BACK2STEP Vol\. 1](https://open.spotify.com/album/1Ksw5xdfrutkRqxKRLQNAJ) | 2:18 |
 | 4 | [KANDE \(feat\. La Rouge\)](https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [La Rouge](https://open.spotify.com/artist/0gHpIfv815XYSaH0m3X08y) | [GIOVANNI II](https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA) | 3:08 |
 | 5 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 | 6 | [Vijf Sterren](https://open.spotify.com/track/1Ulc4iSctUDnnobli9AQCB) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Vijf Sterren](https://open.spotify.com/album/6AF40ajjccnLMaS8IBewki) | 3:06 |

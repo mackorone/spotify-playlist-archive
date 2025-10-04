@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAABh3ncA19U6ZzjuSzFr5ZXX",
+  "snapshot_id": "aN3AgAAAAAD/Rx7oeNEVB16/4m5Pgu9I",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Molho",
-        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 167119,
-      "name": "Molho",
-      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 144923,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Molho",
+        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 167119,
+      "name": "Molho",
+      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FZND DNV",
         "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 134400,
       "name": "FZND DNV",
       "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     },
     {
       "added_at": null,
@@ -1323,42 +1323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eles N\u00e3o Ligam Pra Gente",
-        "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
-      },
-      "artists": [
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Ducon",
-          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Diomedes Chinaski",
-          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
-        },
-        {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Eles N\u00e3o Ligam Pra Gente",
-      "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -1447,6 +1411,34 @@
       "duration_ms": 196837,
       "name": "Priv\u00ea - Ao Vivo no REP Festival",
       "url": "https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RIVA",
+        "url": "https://open.spotify.com/album/1CvMpqtrSIAyLNTxLZywW6"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drow Beats",
+          "url": "https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt"
+        }
+      ],
+      "duration_ms": 207419,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/2soJBLi9FHA7AUZYylXXad"
     },
     {
       "added_at": null,

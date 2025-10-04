@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 ### [RADAR Canada](https://open.spotify.com/playlist/37i9dQZF1DX5WmphwNfZfk)
 
-> Celebrate 1000 RADAR artists by listening to some of the most streamed RADAR artists from Canada\. Cover: 347aidan
+> 30 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Bells Larsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,981 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,984 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 34 | [Picasso](https://open.spotify.com/track/5O0eWTF5P2kg6ZKKPPUwbx) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Pretty Baby](https://open.spotify.com/album/0PrHeRwwkWemC8CMxesp0L) | 2:21 |
 | 35 | [Love Vibes](https://open.spotify.com/track/4tDebDUNdbvtZvtqL4Udpr) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 3:06 |
 
-Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`
+Snapshot ID: `AAAAADeNdE0ip+4HxOZUA07PEINqsOjs`

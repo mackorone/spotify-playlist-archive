@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-891 songs - 1 day 21 hr 50 min
+892 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Comfortably Isolated](https://open.spotify.com/track/1msKTOaW0GPZcr2IWuItUn) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Comfortably Isolated](https://open.spotify.com/album/3cywAJaRQnrVpDGN9QfNqe) | 3:00 | 2024-08-23 | 2025-02-05 |
 | [coming up for air](https://open.spotify.com/track/3VUZPfPPR6pTMacV8Bd0cF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [mini bloom](https://open.spotify.com/album/5qaCEmAOlKWnClSwqwfDwI) | 3:12 | 2022-03-24 | 2022-04-17 |
 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 | 2025-02-04 |  |
+| [Company Hunting](https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Company Hunting](https://open.spotify.com/album/3RfMYoc6ypAt7N5kmHhn2u) | 2:52 | 2025-10-03 |  |
 | [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2023-03-17 | 2023-11-06 |
 | [COMPLETE MESS](https://open.spotify.com/track/7tqcKt5H9BmBLaT22VHqBX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:26 | 2023-09-08 | 2023-11-18 |
 | [cotton candy](https://open.spotify.com/track/3foWaxM2tcZD91WcOLFqch) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [cotton candy](https://open.spotify.com/album/0M57xgjAnlQp1b9b8AkXbg) | 2:47 | 2022-03-17 | 2022-07-28 |
@@ -296,7 +297,7 @@
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 | 2022-03-17 | 2022-08-10 |
 | [Flavor of the Month](https://open.spotify.com/track/5cCuxmNLdzcPZT7hUsOQ6j) | [Hailey Haus](https://open.spotify.com/artist/5ohxvcrwDPxDTbl2fcwfUL) | [Flavor of the Month](https://open.spotify.com/album/1Uwr253jrhyi6VwSUwz5RO) | 2:20 | 2022-06-16 | 2022-07-23 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-03-17 | 2023-03-25 |
-| [Flowers](https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Flowers / Algorithm & Blues \(Over & Over\)](https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV) | 3:44 | 2025-07-18 |  |
+| [Flowers](https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Flowers / Algorithm & Blues \(Over & Over\)](https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV) | 3:44 | 2025-07-18 | 2025-10-04 |
 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 | 2025-02-15 |
 | [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-08-15 |  |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-03-24 | 2023-03-25 |

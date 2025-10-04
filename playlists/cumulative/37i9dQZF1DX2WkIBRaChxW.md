@@ -2,7 +2,7 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Ari Lennox.
+> What's happening in r&b, right now – featuring Dylan Sinclair.
 
 1,251 songs - 2 day 19 hr 2 min
 

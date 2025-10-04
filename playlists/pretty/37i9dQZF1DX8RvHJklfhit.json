@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 213085,
+  "num_followers": 213125,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Nuestra",
-        "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Flamingo",
-      "url": "https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Nuestra",
+        "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "\u00bfYpqsp?",
-        "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
-      },
-      "artists": [
-        {
-          "name": "Como Las Movies",
-          "url": "https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v"
-        }
-      ],
-      "duration_ms": 272511,
-      "name": "\u00bfYpqsp?",
-      "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Drooling",
         "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 219794,
       "name": "Drooling",
       "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "\u00bfYpqsp?",
+        "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
+      },
+      "artists": [
+        {
+          "name": "Como Las Movies",
+          "url": "https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v"
+        }
+      ],
+      "duration_ms": 272511,
+      "name": "\u00bfYpqsp?",
+      "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
     },
     {
       "added_at": "2024-07-12 18:08:37",

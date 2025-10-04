@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rizky Febian, Adrian Khalif
 
-1,142 songs - 3 day 1 hr 26 min
+1,143 songs - 3 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [Manusia Istimewa](https://open.spotify.com/track/3bHV8734qFN5YGnUNw62Cb) | [Danar](https://open.spotify.com/artist/324cP6fYaUtaQiGyc2UViq) | [Manusia Istimewa](https://open.spotify.com/album/4p1VGj2TuWTeWR38DqWRwA) | 3:57 | 2024-04-25 | 2024-05-24 |
 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 | 2024-08-01 | 2025-01-10 |
 | [Manusia Super](https://open.spotify.com/track/62mI04lTuGDUmxuUSwhBHn) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Manusia Super](https://open.spotify.com/album/1WDCOetWYCDWz6N5OvgtF2) | 4:17 | 2024-11-14 | 2025-02-28 |
-| [Manusia Terakhir Di Bumi](https://open.spotify.com/track/0gwQ8uzJiLQN3rABz0uUCf) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Manusia Terakhir Di Bumi](https://open.spotify.com/album/7pnf7u9vYJFptLyowu0eIK) | 3:52 | 2025-10-02 |  |
+| [Manusia Terakhir Di Bumi](https://open.spotify.com/track/0gwQ8uzJiLQN3rABz0uUCf) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Manusia Terakhir Di Bumi](https://open.spotify.com/album/7pnf7u9vYJFptLyowu0eIK) | 3:56 | 2025-10-02 |  |
 | [MAPA \(Indonesian Ver.\)](https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [MAPA \(Indonesian Ver.\)](https://open.spotify.com/album/0jVk4hqUcFogF1NcK3ZQ0a) | 4:30 | 2025-07-03 | 2025-08-01 |
 | [Mars Prediksi](https://open.spotify.com/track/5IuzWGJiBf6P02TkE3jTCC) | [Prediksi](https://open.spotify.com/artist/2gYKScsPGRhxe8gEhVjLLk) | [Mars Prediksi](https://open.spotify.com/album/03SpgaAFsmDvtWjD14zDZg) | 2:14 | 2024-01-18 | 2024-02-09 |
 | [Masa Lalu](https://open.spotify.com/track/3VgPPdCVUKW1Sf67qeHxaC) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Masa Lalu](https://open.spotify.com/album/1M7qOVd97il4l6vpmBnJAm) | 3:23 | 2024-06-06 | 2024-07-05 |
@@ -678,6 +678,7 @@
 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 | 2025-02-06 | 2025-03-21 |
 | [Milikku Seutuhnya](https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Milikku Seutuhnya](https://open.spotify.com/album/2SFeCcYE2PvbARW3CMOKeh) | 3:53 | 2024-07-25 | 2024-09-06 |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-08-22 |
+| [MONSTER](https://open.spotify.com/track/3rw9rjplRXaJyRPvxIcLf7) | [PIAFARHAN](https://open.spotify.com/artist/0M7CsP09MKGoHKNcOqJ4kV) | [MONSTER](https://open.spotify.com/album/0crjWUx4z8Vm13Gar8K4cL) | 3:36 | 2025-10-03 |  |
 | [Muncul terus](https://open.spotify.com/track/2LFTRnyl1iojlTOQv9Lo32) | [Baim](https://open.spotify.com/artist/1xtClintZXLr9RrzKzwBeM), [Aurélie](https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH) | [Muncul terus](https://open.spotify.com/album/0M62mgWNRB3bcOnMyNyZCL) | 2:18 | 2024-06-27 | 2024-07-19 |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-05-09 | 2024-09-27 |
 | [Mungkin](https://open.spotify.com/track/4AKv8aaODAQJIQe9kUnhm0) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf), [Gala Yudhatama](https://open.spotify.com/artist/4Zb2b3EnQjO9b1TVodw4CA) | [Mungkin](https://open.spotify.com/album/1uV0ARRD1ObN3MgH0kkoup) | 3:42 | 2024-10-31 | 2024-12-06 |

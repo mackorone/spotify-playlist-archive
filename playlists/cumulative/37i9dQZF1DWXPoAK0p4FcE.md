@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: PURPEECH
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: sujipuli
 
-138 songs - 9 hr 36 min
+140 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 | 2024-06-27 | 2025-03-22 |
 | [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-04 | 2024-11-02 |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 | 2025-02-13 |
+| [please](https://open.spotify.com/track/5uh8m6ftdzlDdkUgqjTq6E) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [please](https://open.spotify.com/album/7zwYehnbEk2vJQclnXOr4p) | 5:46 | 2025-10-03 |  |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2024-06-27 | 2024-08-31 |
 | [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 | 2025-03-14 |  |
 | [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 | 2025-09-20 |
@@ -45,6 +46,7 @@
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2024-06-27 | 2024-11-29 |
 | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/track/3ey4oaB0Dx9N6d4qWcORFx) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/album/3ij1193Ulks1bLmlMvc73W) | 3:58 | 2024-06-27 |  |
 | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/track/5SwraSnI0F2BW8XtdE5bKQ) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/album/3S6B35zp1iUJbaaGgCl52f) | 3:53 | 2025-07-18 |  |
+| [จะให้ไปรักใครได้อีก \(Ngua Ngia\)](https://open.spotify.com/track/5uLRm67XjHPO9GOiYKVzJk) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [จะให้ไปรักใครได้อีก \(Ngua Ngia\)](https://open.spotify.com/album/29zpKlTl3WoALo9uawkVnL) | 4:35 | 2025-10-03 |  |
 | [จากกันแค่ร่างกาย](https://open.spotify.com/track/2Y4N4EWVpJlbwvw865Zsq6) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [จากกันแค่ร่างกาย](https://open.spotify.com/album/5WtiUrvq9PsNjgkh4P4moT) | 4:45 | 2025-05-23 | 2025-07-19 |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2024-06-27 | 2024-12-27 |
 | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2024-06-27 | 2024-10-05 |
@@ -66,7 +68,7 @@
 | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/track/39VELAPLYYqNYjKBpkeYJH) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/album/0tbhHsd13yvAyGRFJwXfua) | 4:12 | 2024-08-23 | 2025-08-16 |
 | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/album/5vm7a9G3ySZKCOjRi7VWPH) | 3:36 | 2024-06-27 | 2025-03-22 |
 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 | 2024-06-27 | 2024-07-06 |
-| [ทางออก](https://open.spotify.com/track/0JEusAwqhkQfACiLCA5XdU) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ทางออก](https://open.spotify.com/album/5cg2790VNoRAK8pQDjTu3z) | 4:39 | 2025-09-19 |  |
+| [ทางออก](https://open.spotify.com/track/0JEusAwqhkQfACiLCA5XdU) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ทางออก](https://open.spotify.com/album/5cg2790VNoRAK8pQDjTu3z) | 4:39 | 2025-09-19 | 2025-10-04 |
 | [ทิ้งไว้ที่เดิม](https://open.spotify.com/track/7lNFvY6jDHOPzsU5wfZz4C) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ทิ้งไว้ที่เดิม](https://open.spotify.com/album/40b5fnvDOTrUfugkRNspto) | 3:54 | 2025-03-28 | 2025-08-09 |
 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 | 2024-06-27 |  |
 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 | 2024-11-28 |  |
@@ -119,7 +121,7 @@
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-06-27 | 2024-08-17 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-06-27 | 2024-07-06 |
 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 | 2024-06-27 |  |
-| [เรื่องสั้น 132 คำ](https://open.spotify.com/track/5OrTG5EgXSpLU4BszezWWA) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [เรื่องสั้น 132 คำ](https://open.spotify.com/album/2uKrgqQ4eL86ZaACEutyyu) | 3:58 | 2025-07-04 |  |
+| [เรื่องสั้น 132 คำ](https://open.spotify.com/track/5OrTG5EgXSpLU4BszezWWA) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [เรื่องสั้น 132 คำ](https://open.spotify.com/album/2uKrgqQ4eL86ZaACEutyyu) | 3:58 | 2025-07-04 | 2025-10-04 |
 | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/track/1LQ1mZIeVfIED2q2KgXd2H) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of), [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/album/1GKeEQ1JOV89q69IAMmR5X) | 3:10 | 2024-10-04 | 2024-10-19 |
 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 | 2025-07-18 |  |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2024-06-27 | 2025-05-17 |

@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-97 songs - 6 hr 24 min
+98 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Nella Fantasia](https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl), [Choir of The King's Consort](https://open.spotify.com/artist/1bubEqwBcIyhEsO8ExpnXE), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Katherine Jenkins / From The Heart](https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5) | 5:11 | 2021-09-24 |  |
 | [Never Say Goodbye \(Adapted From "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [Ian Dean](https://open.spotify.com/artist/2Tfy0lv32xUPXOojV10tCV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 | 2022-06-17 | 2024-04-19 |
 | [Never Say Goodbye \(Adapted from Ravel's Pavane, M\. 19\)](https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [Ian Dean](https://open.spotify.com/artist/5a06Tw8O8XuZ5ACLKxVXp6), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Pure \(Includes Bonus Tracks and Exclusive Track\)](https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5) | 3:13 | 2021-09-24 |  |
+| [O Sole Mio \- Live at the Valley of the Temples](https://open.spotify.com/track/1O9q3jEKxecE9GbUiLu9wp) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Live at the Valley of the Temples](https://open.spotify.com/album/5EBWdvHvDzQOp1v2ZNXy4h) | 3:49 | 2025-10-03 |  |
 | [Offenbach: Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 | 2021-09-24 |  |
 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Jon Maguire](https://open.spotify.com/artist/0jtmq8S688CWhpB64fSGKx), [Taylor Cousins](https://open.spotify.com/artist/1Jv9jk9YcvOA9T1H4KGAqx) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 | 2022-05-06 |  |
 | [Parisian Lovers](https://open.spotify.com/track/5uMNEYJedK8eOYcoyzJlMj) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Parisian Lovers](https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr) | 2:42 | 2025-01-17 |  |

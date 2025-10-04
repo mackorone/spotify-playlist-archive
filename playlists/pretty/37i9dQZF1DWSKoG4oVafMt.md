@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,733 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,842 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 5 | [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 |
 | 6 | [Morni](https://open.spotify.com/track/7fUu37cIAwYkG9qRRH29VH) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Gilloriouus](https://open.spotify.com/album/3oM4aQkvSoHe83Phy2FSq5) | 2:56 |
 | 7 | [Dil \(feat\. Sara Gurpal\)](https://open.spotify.com/track/1ySpR66HLAKzNgMEjJy0Fx) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v) | [Dil \(feat\. Sara Gurpal\)](https://open.spotify.com/album/3xa5UGSLOH8vu1TVwlaICA) | 3:34 |
-| 8 | [Akhan Ch Vasavan \- From "Nikka Zaildar 4"](https://open.spotify.com/track/4JLu6LmAukJnqi3QCd9Tvb) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Akhan Ch Vasavan \(From "Nikka Zaildar 4"\)](https://open.spotify.com/album/3mneZzEEPzlHCs77efMibe) | 3:01 |
-| 9 | [Boyfriend](https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 2:40 |
+| 8 | [Boyfriend](https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 2:40 |
+| 9 | [Rishta](https://open.spotify.com/track/5mlnPomZ0LQXJboD6owXFV) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Rishta](https://open.spotify.com/album/4gPO5WCV9TlT7ag62CiBkz) | 3:21 |
 | 10 | [Impress](https://open.spotify.com/track/40GHpTNbgMbydOKVDd2Ehb) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Impress](https://open.spotify.com/album/2XnqWsUGezhwY6aUfOQFUj) | 3:30 |
 | 11 | [Sone Da Gulaab](https://open.spotify.com/track/6e8O85kjw9Sn8RfERQ3nBk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:01 |
 | 12 | [Lelo](https://open.spotify.com/track/33H7mhRLOM0dLYaQmLCt4H) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Lelo](https://open.spotify.com/album/5PYNcJWoeyMDnsP2YWWdBs) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/track/3bCIiDZn3wpwRWYdKvnSdW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/album/5fOT2byqgf4rPp1UXOYHym) | 3:35 |
 | 100 | [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 |
 
-Snapshot ID: `AAAAAA7vSh3oBfhABOe8EoNMqAo3yjAc`
+Snapshot ID: `AAAAAJ0lMSBvX3aWNlhQeJRipILZN+ri`

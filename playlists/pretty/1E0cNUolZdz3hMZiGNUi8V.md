@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 37,996 likes - 115 songs - 5 hr 21 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 37,992 likes - 115 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 114 | [AP Freestyle](https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [AP Freestyle](https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7) | 1:58 |
 | 115 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
 
-Snapshot ID: `AAAhJS0n8OSyznt6s1397iIQhTLsPHHv`
+Snapshot ID: `AAAhPWzb+sdXUjSCcXevxKTbqEIx1MZ7`

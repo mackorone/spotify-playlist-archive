@@ -4,13 +4,13 @@
 
 > ¡Vamos a bailar con Dios!
 
-203 songs - 12 hr 3 min
+204 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 | 2020-09-18 | 2024-07-05 |
 | [Abatido](https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Makaco el Cerebro](https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH) | [Abatido](https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk) | 4:49 | 2025-09-14 |  |
-| [Abre el libro \(EDM\)](https://open.spotify.com/track/6jd1hY1pv9g4W6M34P99Fg) | [Gerstronik](https://open.spotify.com/artist/1s4smT9MY7n5RBoPz4jbQE) | [Abre el libro \(EDM\)](https://open.spotify.com/album/4djjHQAlcsiDAOYBUztHn6) | 2:54 | 2025-09-14 |  |
+| [Abre el libro \(EDM\)](https://open.spotify.com/track/6jd1hY1pv9g4W6M34P99Fg) | [Gerstronik](https://open.spotify.com/artist/1s4smT9MY7n5RBoPz4jbQE) | [Abre el libro \(EDM\)](https://open.spotify.com/album/4djjHQAlcsiDAOYBUztHn6) | 2:54 | 2025-09-14 | 2025-10-04 |
 | [Agradecido Estoy](https://open.spotify.com/track/51fRcBcEdBddazx7L0qwpT) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:05 | 2020-09-18 | 2023-06-17 |
 | [Agradecido Estoy](https://open.spotify.com/track/79AXaiRAYMxFEkMm0LDbT5) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos de Jesús Adrian Romero en Bachata](https://open.spotify.com/album/6NUkdjifZOqPDWY8IFZAlB) | 4:10 | 2020-09-18 | 2024-04-19 |
 | [Agradecido Estoy](https://open.spotify.com/track/4hyYpJPQggt4G3butLCsRD) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG), [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [En Bachata](https://open.spotify.com/album/0dkfS9yeP95kcYJ9tEUDlF) | 4:10 | 2020-09-18 | 2022-10-09 |
@@ -75,6 +75,7 @@
 | [El Que Reina](https://open.spotify.com/track/1OenscGTLmuiFfwK3T1WTq) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Suficiente](https://open.spotify.com/album/1jckYh0vT9maRISUmqAD2z) | 3:27 | 2020-09-18 | 2025-09-15 |
 | [El Que Reina](https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Suficiente](https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN) | 3:27 | 2020-09-18 | 2024-04-19 |
 | [El Tiempo](https://open.spotify.com/track/3ipfCiqkiVAbbFiBvk5A0X) | [HeartBeat Music](https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd), [Samuel Adorno](https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ) | [El Tiempo](https://open.spotify.com/album/0ihqqcN7ZEG9WYVuyWalY4) | 3:06 | 2025-09-14 |  |
+| [Ella Sabe \- Remix](https://open.spotify.com/track/37e1iHb5ByeBGIoLU5bOOZ) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [Ella Sabe \(Remix\)](https://open.spotify.com/album/0C5b9vNu9QBJWHbHcealqH) | 3:48 | 2025-09-14 |  |
 | [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 | 2020-09-18 | 2024-04-19 |
 | [En Tu Presencia](https://open.spotify.com/track/6Fi4UGo4PmFnO02FcdkW1I) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Acción](https://open.spotify.com/album/35orbjOqhOqZRWNElcu32g) | 4:43 | 2024-07-05 | 2024-09-07 |
 | [Eres Mi Bendicion \(feat\. Alex Zurdo\)](https://open.spotify.com/track/3lMZAnQgm5Sjr6KDR0uZNw) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:00 | 2024-12-11 |  |

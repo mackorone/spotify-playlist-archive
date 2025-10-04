@@ -4,7 +4,7 @@
 
 > Unmissable emerging pop 💫 Sekou on the cover
 
-813 songs - 1 day 17 hr 35 min
+813 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [C'est La Vie](https://open.spotify.com/track/36vQS6h923LbRcZS531gOh) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Burn The Hard Drive](https://open.spotify.com/album/26qjZem3bNwGyLZUzfVTY6) | 2:26 | 2024-06-04 | 2024-08-17 |
 | [Call Me When It's Over](https://open.spotify.com/track/4Pa8n77yMfh1Vp9GbXcnYT) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Call Me When It's Over](https://open.spotify.com/album/2G9MKeUFqc9hPdeWNux4ZG) | 3:10 | 2025-04-03 | 2025-04-25 |
 | [Call Me Yours](https://open.spotify.com/track/4gYMxKrpuByButZYbjf03d) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Call Me Yours](https://open.spotify.com/album/09GPpMZWZmIlRbkqBwacGU) | 2:09 | 2024-11-15 | 2025-02-07 |
-| [Callowman](https://open.spotify.com/track/36e7KXBW3MWm9alOemKiGr) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [](https://open.spotify.com/album/null) | 3:09 | 2025-10-02 |  |
+| [Callowman](https://open.spotify.com/track/36e7KXBW3MWm9alOemKiGr) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Callowman](https://open.spotify.com/album/0F2O2LQ3GlFaP13vjdvUnX) | 3:09 | 2025-10-02 |  |
 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 | 2025-03-28 |
 | [Can't Fit In His Shoes](https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Can't Fit In His Shoes](https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu) | 3:15 | 2025-06-05 | 2025-07-11 |
 | [Can't Keep A Beat](https://open.spotify.com/track/6CjHgFX4HLI0MbFCCRkUYe) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Can't Keep A Beat](https://open.spotify.com/album/0JhrgHd4xaN2nDedGAopZ6) | 2:51 | 2025-04-17 | 2025-05-09 |
@@ -647,6 +647,7 @@
 | [See You Tomorrow](https://open.spotify.com/track/5uaIWGIunJ1XrWWnUcqyGh) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [In A While, Crocodile](https://open.spotify.com/album/3wHXC0Ul10Q491PdhIPIP6) | 3:46 | 2025-08-14 | 2025-09-19 |
 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 | 2025-05-01 | 2025-05-30 |
 | [Seen](https://open.spotify.com/track/6M1kj6EgrJqad03xDMpqDc) | [Hannah\-Morgan](https://open.spotify.com/artist/7CnLDFv2r1kVrF42nTZV51) | [Seen](https://open.spotify.com/album/0YW9yhKE5E8Z0NocCc9lm9) | 2:54 | 2025-02-28 | 2025-03-28 |
+| [self destruct mode](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [THE HELL OF APRIL](https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG) | 2:42 | 2025-10-02 |  |
 | [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-17 | 2025-01-24 |
 | [Serenity](https://open.spotify.com/track/40dgwGBhjJV8LIoTU60iex) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Serenity](https://open.spotify.com/album/0bMAIyPOHr1gEFIbiXL8Pw) | 3:12 | 2025-05-08 | 2025-05-30 |
 | [Sex, Drugs & Existential Dread](https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sex, Drugs & Existential Dread](https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0) | 2:35 | 2025-03-07 | 2025-03-28 |
@@ -756,7 +757,7 @@
 | [To Whoever Loves You Next](https://open.spotify.com/track/4qysFqC3uGGtyLQNPdBO6C) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [To Whoever Loves You Next](https://open.spotify.com/album/4XLPyX3AlRGmuBjCHqoiTm) | 3:36 | 2024-11-08 | 2025-01-17 |
 | [Tokyo](https://open.spotify.com/track/3SyzHSeWij8g53wKo9Al6N) | [Holly H](https://open.spotify.com/artist/6w5kZUlZqvCyuuIERZV9eJ) | [Tokyo](https://open.spotify.com/album/0lsf9oAFADpbgTaXMg2pfE) | 2:33 | 2025-04-17 | 2025-05-09 |
 | [Told Me So](https://open.spotify.com/track/7A10a57FI7YbOUpVa2hj4Q) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Told Me So](https://open.spotify.com/album/4jct6f3z6K5MwWJSdhdR25) | 4:09 | 2025-02-28 | 2025-03-21 |
-| [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [](https://open.spotify.com/album/null) | 3:20 | 2025-10-02 |  |
+| [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 | 2025-10-02 |  |
 | [tongue](https://open.spotify.com/track/4XV19o6tboLcLHC0zk0u6A) | [iggy](https://open.spotify.com/artist/0FQgaV4hZPHVwrVFHzZfcN) | [tongue](https://open.spotify.com/album/1V6FCAMQMSh7B8K7NQArPW) | 3:17 | 2025-05-29 | 2025-06-27 |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-03 | 2025-04-25 |
 | [Too Late](https://open.spotify.com/track/4CUY1kNNXIepII3eHqOyZ4) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Too Late](https://open.spotify.com/album/6yaYem5lqtFW5V16lJxOSn) | 2:45 | 2025-03-21 | 2025-04-11 |
@@ -764,7 +765,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 10](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trust Issues](https://open.spotify.com/track/5TIilhHzXMxkFTfZQk94Mz) | [Rachel Newnham](https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP) | [Trust Issues](https://open.spotify.com/album/4lfCxwDlQ4ZdpDwQyNxbC9) | 2:43 | 2025-05-22 | 2025-06-20 |
 | [Trust U](https://open.spotify.com/track/7JqopONmTj2Wdd4hlCT5a9) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Trust U](https://open.spotify.com/album/78U64z2IRUy1cPv1VAhEfa) | 2:30 | 2024-06-04 | 2024-09-28 |

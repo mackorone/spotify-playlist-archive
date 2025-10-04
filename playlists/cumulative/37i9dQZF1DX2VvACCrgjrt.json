@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Anything I Do",
+        "url": "https://open.spotify.com/album/7qkMTEjWMNKzItDTiBc7nX"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187197,
+      "name": "Anything I Do",
+      "url": "https://open.spotify.com/track/2U7AoN1L6w2osUDWv1Lbxr"
+    },
+    {
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
       },
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 142080,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
@@ -4912,7 +4930,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 206200,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
@@ -6909,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "Exciter",
+        "url": "https://open.spotify.com/album/7r2Eso0B7VijEcozLeOlbh"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133019,
+      "name": "Exciter",
+      "url": "https://open.spotify.com/track/6SQkzIIdHlFO9M84tSziQ5"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ"
       },
@@ -7446,7 +7482,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
@@ -11379,6 +11415,28 @@
     },
     {
       "album": {
+        "name": "Jump Into the Bag",
+        "url": "https://open.spotify.com/album/23FtHCvCmhMaDBiQYBiOaB"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "RELOVA",
+          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Jump Into The Bag",
+      "url": "https://open.spotify.com/track/6k4pv23DvgfLplYTNQFdEX"
+    },
+    {
+      "album": {
         "name": "Jumpstarter",
         "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
       },
@@ -11727,6 +11785,32 @@
     },
     {
       "album": {
+        "name": "LA NOCHE",
+        "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ANITA B QUEEN",
+          "url": "https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212244,
+      "name": "LA NOCHE",
+      "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "album": {
         "name": "Laka",
         "url": "https://open.spotify.com/album/0ziloEkcViS8IZqFSI2L82"
       },
@@ -11896,7 +11980,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 146865,
       "name": "Lemme See Ya",
       "url": "https://open.spotify.com/track/10ecK7ny1jfC5bZvA3JVXE"
@@ -12416,7 +12500,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 216562,
       "name": "Like This",
       "url": "https://open.spotify.com/track/6XLjxYyrr6r40l5RPZR9WO"
@@ -13529,6 +13613,28 @@
     },
     {
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/5LmCI2PR6s9rewsOS7eRGp"
+      },
+      "artists": [
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184619,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/5MxHpxb8UGlgvN0BfQ6u5g"
+    },
+    {
+      "album": {
         "name": "Mosquito",
         "url": "https://open.spotify.com/album/7bLUixsvUD2BnmKYfNnSBg"
       },
@@ -13708,7 +13814,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 167727,
       "name": "Move Over",
       "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
@@ -14770,7 +14876,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 166153,
       "name": "NO SE",
       "url": "https://open.spotify.com/track/3mtkslOLbY7xPvW7KtPLZo"
@@ -16478,6 +16584,28 @@
       "duration_ms": 296585,
       "name": "Pop Your Hip",
       "url": "https://open.spotify.com/track/1cC4bY52GHpEbBdE73UJu6"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2zlTmPIf2o7CohlDpe0KQH"
+      },
+      "artists": [
+        {
+          "name": "BARTS",
+          "url": "https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4Ef83nU7umgCIb1mz3DQHf"
     },
     {
       "album": {
@@ -18863,6 +18991,28 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/5VrH7CppfTBVntyKXDV70y"
+      },
+      "artists": [
+        {
+          "name": "Levex",
+          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+        },
+        {
+          "name": "Rhiannon Roze",
+          "url": "https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124218,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/54NxkWB31445uzDnOZvFaM"
+    },
+    {
+      "album": {
         "name": "Crucast Vs Night Bass",
         "url": "https://open.spotify.com/album/5gb2j2cj1LgHMcHArs0dA2"
       },
@@ -20058,7 +20208,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 274218,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7K8DIxlj4VrA0ayuxwkBTZ"
@@ -20288,6 +20438,28 @@
       "duration_ms": 164545,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/0PfbvUzufeSwaNeYuWUhDl"
+    },
+    {
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/3F141ogfpMaPbSOvEctg9w"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6FfGlA8G6xEoyq11W2KABr"
     },
     {
       "album": {

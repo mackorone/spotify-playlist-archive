@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Aye Girl",
+        "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114838,
+      "name": "Aye Girl",
+      "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
+    },
+    {
+      "album": {
         "name": "unreleased",
         "url": "https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 145074,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 192000,
       "name": "Body (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW"
@@ -2054,6 +2072,32 @@
       "duration_ms": 178881,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6sehQApg26jTIqKmuILztI"
+    },
+    {
+      "album": {
+        "name": "Buss At You Too",
+        "url": "https://open.spotify.com/album/6KIp91ieIVYj87LT76J5TT"
+      },
+      "artists": [
+        {
+          "name": "Saint Lamaar",
+          "url": "https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Zillionaire Doe",
+          "url": "https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176808,
+      "name": "Buss At You Too",
+      "url": "https://open.spotify.com/track/6By1xBaO7IW3N5xDGzc28P"
     },
     {
       "album": {
@@ -5931,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
+    },
+    {
+      "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
       },
@@ -6452,7 +6514,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 111157,
       "name": "issue",
       "url": "https://open.spotify.com/track/4VQslFyqZKgIHSVijIcUjl"
@@ -9034,6 +9096,24 @@
       "duration_ms": 200000,
       "name": "No 808\u2019s (feat. Vory)",
       "url": "https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ"
+    },
+    {
+      "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171348,
+      "name": "No Contest",
+      "url": "https://open.spotify.com/track/2aC3ZELwliJI0vOjIjBB2G"
     },
     {
       "album": {
@@ -15326,7 +15406,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 192058,
       "name": "Yea Yea",
       "url": "https://open.spotify.com/track/68lvLHNsJlCLAnrskbell4"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 ### [Westside](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Chef Boy
+> Holdin' it down for the westside\. Cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,186 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,975 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 98 | [Truth Is \(feat\. Roddy Ricch\)](https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 2:31 |
 | 99 | [Leanin](https://open.spotify.com/track/6iPo21Q3Yw3k2kWuURTNGM) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Class of 95](https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO) | 3:12 |
 
-Snapshot ID: `AAAAAOcgWdTVX+qunY4RzQVwZN7pyTmm`
+Snapshot ID: `AAAAACdxSH965u5vth4Q8VFpxlko9Pkg`

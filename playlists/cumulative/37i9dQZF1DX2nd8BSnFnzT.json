@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Lupe De Lupe",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Indigans",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 262713,
       "name": "Amor Incondicional - Charlie Mix",
       "url": "https://open.spotify.com/track/6Zydg3hj9nNtaHTkXviV4F"
@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Eu Quero o Teu Sorriso",
+        "url": "https://open.spotify.com/album/3GIkNzHDbBW6IEffhY0ssM"
+      },
+      "artists": [
+        {
+          "name": "Ac\u00fasticos & Valvulados",
+          "url": "https://open.spotify.com/artist/03tVZ2sA0yyShSEgFdBpYX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213256,
+      "name": "Eu Quero o Teu Sorriso",
+      "url": "https://open.spotify.com/track/1n3dKugoX0q68CTGKCXta8"
+    },
+    {
+      "album": {
         "name": "Eu te amo voc\u00ea (Live Sala de Estar)",
         "url": "https://open.spotify.com/album/3gIYxv8J959nvOH0MtCQeM"
       },
@@ -3576,6 +3594,24 @@
       "duration_ms": 177374,
       "name": "Felicidade Incondicional",
       "url": "https://open.spotify.com/track/4Z8rC1M3Nlx0vBU9APoXCl"
+    },
+    {
+      "album": {
+        "name": "Ficar Morto Vende",
+        "url": "https://open.spotify.com/album/4kd9n1RSMb6fieAB4UEOTG"
+      },
+      "artists": [
+        {
+          "name": "Molho Negro",
+          "url": "https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166517,
+      "name": "Ficar Morto Vende",
+      "url": "https://open.spotify.com/track/1naXKta6Pw2oXhbSFvDMo3"
     },
     {
       "album": {
@@ -3828,7 +3864,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 167023,
       "name": "FRAGMENTADO",
       "url": "https://open.spotify.com/track/4Rtz8dJyltJmelDfNDyKgh"
@@ -6987,6 +7023,32 @@
     },
     {
       "album": {
+        "name": "Open Mic Brasil #3 - Medley 2025",
+        "url": "https://open.spotify.com/album/3MXKXYcPZQjdGboHnYyVHB"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Tiankris",
+          "url": "https://open.spotify.com/artist/0G1OtpH8DaTJVAhg8b6hhI"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Open Mic Brasil #3 - Medley 2025",
+      "url": "https://open.spotify.com/track/3En6q5zrmKjkmZY6BIuGR5"
+    },
+    {
+      "album": {
         "name": "Pl\u00e1stico",
         "url": "https://open.spotify.com/album/6yW0G6JODPeXJf7QXiVP2S"
       },
@@ -7886,7 +7948,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 171920,
       "name": "Pr\u00f3xima Parada",
       "url": "https://open.spotify.com/track/42bFwHGyQYqQ4mH8xRwpev"
@@ -8024,6 +8086,24 @@
       "duration_ms": 158375,
       "name": "QUANDO VOC\u00ca VEM",
       "url": "https://open.spotify.com/track/4Lkp0oRReZbhWMHE9WpglU"
+    },
+    {
+      "album": {
+        "name": "Quarto Quieto",
+        "url": "https://open.spotify.com/album/3AGC8ewacfxsl5TBLjW0MN"
+      },
+      "artists": [
+        {
+          "name": "Indigans",
+          "url": "https://open.spotify.com/artist/1USySFkPtuL0cdVtROagEJ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209812,
+      "name": "Quarto quieto",
+      "url": "https://open.spotify.com/track/3CjYCNx6nUzxHqwDaofFvk"
     },
     {
       "album": {
@@ -8586,7 +8666,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 218093,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/1xtk006uAKObXM3nKO1uP0"

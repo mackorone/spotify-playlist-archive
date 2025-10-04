@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: üçkuruş
 
-313 songs - 15 hr 45 min
+314 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Sabır](https://open.spotify.com/track/0ilAt8QU3ve1v3nZgGUDX6) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx), [EFE](https://open.spotify.com/artist/7cToz5qpJ36piEZpiRqQsJ) | [Sabır](https://open.spotify.com/album/6ndTtBiYODlt02KtQ0y7UF) | 3:10 | 2025-07-03 | 2025-09-13 |
 | [Sal](https://open.spotify.com/track/44nYGyz9DwMU6dOWVxL2FK) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Sal](https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre) | 2:37 | 2024-07-04 | 2024-11-22 |
 | [Sana Değen Ellerim](https://open.spotify.com/track/1aYBSPmq9ORPj1cGCejlUU) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [Sana Değen Ellerim](https://open.spotify.com/album/1hzJneiAVLILxU5K2OjS30) | 3:03 | 2025-07-10 | 2025-09-26 |
+| [Sana Saygımdan](https://open.spotify.com/track/7zruRpV7lwBpNOznSB0ajp) | [Çağrı Kaymak](https://open.spotify.com/artist/48lJuxfvMSWwx2R5885xtb) | [Sana Saygımdan](https://open.spotify.com/album/5UIN7Fdlqsv2ph8ZcNKLfl) | 2:37 | 2025-09-25 |  |
 | [Say](https://open.spotify.com/track/4no0XGOaz8wTxZhOfW9yZy) | [İkbal Özkan](https://open.spotify.com/artist/4jpJ7QKQCkp7Y8B0xbuC41) | [Say](https://open.spotify.com/album/1IihZjrYbFHHOhlf02HQRq) | 2:48 | 2025-09-04 |  |
 | [Sebebi Çok](https://open.spotify.com/track/46azk2efSFMG3obdYuIkxO) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Sebebi Çok / Umutsuz Bahar](https://open.spotify.com/album/0L1jpIjY1drXYFxRcj1soR) | 4:07 | 2025-01-31 |  |
 | [Sen Artık Sıradan Biri](https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Sen Artık Sıradan Biri](https://open.spotify.com/album/0knB4RKmuWqmD4ue8HCp9g) | 3:25 | 2024-08-01 | 2024-10-07 |
@@ -214,7 +215,7 @@
 | [Sensiz Asla](https://open.spotify.com/track/2EWzD55sialRvMoOzsZVvJ) | [Pınar Süer](https://open.spotify.com/artist/0IfUkADV3FdxlKfbH8BELX) | [Sensiz Asla](https://open.spotify.com/album/1LLiIl4gxe95v1r5tSS62O) | 2:22 | 2025-07-17 |  |
 | [Serdengeçti](https://open.spotify.com/track/4cRiXJoX4kLZuCKIiq0LIk) | [YGA](https://open.spotify.com/artist/759ZyzBKCRfVS5e9emtsCu) | [Serdengeçti](https://open.spotify.com/album/6soK5zdKOiKiMgTN1h7Kpa) | 3:39 | 2025-05-15 | 2025-07-08 |
 | [Sesim Kulaklıklarında](https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Sesim Kulaklıklarında](https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up) | 3:22 | 2024-06-20 | 2024-08-13 |
-| [Sevdi Beni](https://open.spotify.com/track/7m199QZPlUC82wuxDtzgVk) | [Gökçe Özgül](https://open.spotify.com/artist/5zHvcIv8dp2JeSA3oNbJkd) | [Sevdi Beni](https://open.spotify.com/album/6bcDRU3BWBvWZTlEfP2IoH) | 2:42 | 2025-07-10 |  |
+| [Sevdi Beni](https://open.spotify.com/track/7m199QZPlUC82wuxDtzgVk) | [Gökçe Özgül](https://open.spotify.com/artist/5zHvcIv8dp2JeSA3oNbJkd) | [Sevdi Beni](https://open.spotify.com/album/6bcDRU3BWBvWZTlEfP2IoH) | 2:42 | 2025-07-10 | 2025-10-04 |
 | [Sevgilim Beni Affet](https://open.spotify.com/track/3E3ausTrcU9zkSxYYD3dim) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Sevgilim Beni Affet](https://open.spotify.com/album/2HVcIH8PqjlmKZSQWTYsPO) | 3:46 | 2024-12-19 | 2025-01-24 |
 | [Sevmeyi Bilmeliydik](https://open.spotify.com/track/0Lxmwww1gG4okcAZtVirjd) | [Hagüra](https://open.spotify.com/artist/63FsIdN7zwPwQGJb8wzifr) | [Sevmeyi Bilmeliydik](https://open.spotify.com/album/3WAgKTf44grcCd8umaC5nv) | 2:01 | 2024-10-10 | 2024-11-29 |
 | [Sevmişsin Gibi](https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk) | [Berkay Akman](https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1) | [Sevmişsin Gibi](https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW) | 3:05 | 2024-09-05 | 2024-11-29 |

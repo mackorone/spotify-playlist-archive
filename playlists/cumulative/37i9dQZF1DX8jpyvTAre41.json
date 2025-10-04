@@ -11837,6 +11837,24 @@
     },
     {
       "album": {
+        "name": "The Father of Make Believe (New Entities Edition)",
+        "url": "https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236082,
+      "name": "Key Entity Extraction IX - Shiloh The Selfish",
+      "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
+    },
+    {
+      "album": {
         "name": "KICK BACK",
         "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
       },
@@ -12386,6 +12404,28 @@
       "duration_ms": 162933,
       "name": "Last Girls At The Party",
       "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
+    },
+    {
+      "album": {
+        "name": "Last Laugh",
+        "url": "https://open.spotify.com/album/4rYvzVsqVZyh87SSmCg6GI"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        },
+        {
+          "name": "New Medicine",
+          "url": "https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148198,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs"
     },
     {
       "album": {
@@ -17291,7 +17331,7 @@
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213694,
+      "duration_ms": 246375,
       "name": "Petrichor - Live",
       "url": "https://open.spotify.com/track/0xTGuilelKhqLx53nixGPL"
     },
@@ -23306,46 +23346,6 @@
       "duration_ms": 189476,
       "name": "Touch Myself",
       "url": "https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 18",
-      "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        },
-        {
-          "name": "New Medicine",
-          "url": "https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs"
     },
     {
       "album": {

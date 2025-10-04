@@ -652,7 +652,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 142931,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/598XC14vZ7CWiYtRBaN9pj"
@@ -7282,7 +7282,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 108307,
       "name": "Cali Man",
       "url": "https://open.spotify.com/track/2pPNAgcdgtRMwK9mPYMK7O"
@@ -20170,7 +20170,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 138580,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/4Vwb4A41SoZWdTRL7Jojus"
@@ -25923,6 +25923,24 @@
     },
     {
       "album": {
+        "name": "Make Me Feel x No Broke Boys",
+        "url": "https://open.spotify.com/album/0jFHRAiyHPyZj7Tshx7Zlu"
+      },
+      "artists": [
+        {
+          "name": "JIMRO!",
+          "url": "https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Make Me Feel x No Broke Boys",
+      "url": "https://open.spotify.com/track/5SFk8tiNu9ByNOSN9QjCrV"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -25974,7 +25992,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 135000,
       "name": "MAMA GEHT'S FANTASTISCH",
       "url": "https://open.spotify.com/track/1WpzWood5j5iFzoFprHdOP"
@@ -27370,6 +27388,28 @@
     {
       "album": {
         "name": "SWAT",
+        "url": "https://open.spotify.com/album/2dZ0APHp9odDMxKUTxIPQh"
+      },
+      "artists": [
+        {
+          "name": "overtonight throwaways",
+          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
+        },
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105437,
+      "name": "mirrors demo",
+      "url": "https://open.spotify.com/track/3LDEJgX75Dh0HzEDtQY7lv"
+    },
+    {
+      "album": {
+        "name": "SWAT",
         "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
       },
       "artists": [
@@ -27384,7 +27424,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -35438,7 +35478,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 163999,
       "name": "Sei wie du bist",
       "url": "https://open.spotify.com/track/7zZneTTMoAFcJ13GVMPBuR"
@@ -35496,7 +35536,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "SEMPERO - Slowed",
       "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: izna
 
-1,582 songs - 3 day 11 hr 56 min
+1,583 songs - 3 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1539,6 +1539,7 @@
 | [あなたがいることで](https://open.spotify.com/track/1KRiLcsOgWg5B2Og97VqCj) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [あなたがいることで](https://open.spotify.com/album/0N5eCVXJi53QdpnD3AjsdA) | 5:14 | 2023-10-10 | 2023-10-18 |
 | [こんなに君を](https://open.spotify.com/track/0scTh8IQayvHhgTAC7gEsb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [こんなに君を](https://open.spotify.com/album/43HFNNbIHaLF3b7gLaQPCP) | 4:00 | 2023-11-22 | 2023-12-06 |
 | [そのままで](https://open.spotify.com/track/18tA7kbV5ovO6SBhnjU6ii) | [KIM SUNGJE](https://open.spotify.com/artist/6A3d5kFeyRjzOk74cwJVHX) | [RESTART](https://open.spotify.com/album/33NzoMoBwLN8rxCchuklJs) | 4:23 | 2023-04-11 | 2023-05-10 |
+| [どうしよっかな](https://open.spotify.com/track/1JCKwBr7XDfh1tvzAtd4hw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i\-dle](https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI) | 3:03 | 2025-10-03 |  |
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-02 | 2024-10-02 |
 | [ゆらゆら \-運命の花\-](https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/1LbeJNguuG0T6BaQ9f2OGq) | 3:04 | 2024-03-07 | 2024-07-31 |
 | [アンタイトル](https://open.spotify.com/track/6pnP83aFWJbzFfFYN7LyYJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [tripleS ∞! <アンタイトル>](https://open.spotify.com/album/0ZLnGYGxMnAVRGAdOBtHf2) | 2:41 | 2024-11-18 | 2025-02-22 |
@@ -1556,7 +1557,7 @@
 | [人生賛歌](https://open.spotify.com/track/1PsDitrM5j4vM6gySCfCEA) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [人生賛歌](https://open.spotify.com/album/3B7ffaqfCtOWpZVzqGELLZ) | 3:48 | 2024-09-03 | 2024-09-20 |
 | [今 \-明日 世界が終わっても\-](https://open.spotify.com/track/2dThVzsCkB0L8tWFvQH53N) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ALWAYS YOURS](https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY) | 3:11 | 2023-08-22 | 2023-11-10 |
 | [今日だけ I LOVE YOU \- Japanese Ver.](https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [今日だけ I LOVE YOU \(Japanese Ver.\)](https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN) | 2:41 | 2025-01-31 | 2025-03-07 |
-| [傷つくのは嫌いだから](https://open.spotify.com/track/0HuUJnHPYWW3AZ9c5pHiTx) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [傷つくのは嫌いだから](https://open.spotify.com/album/2C284HplB4iRrqpGmVMR8j) | 2:41 | 2025-09-25 |  |
+| [傷つくのは嫌いだから](https://open.spotify.com/track/0HuUJnHPYWW3AZ9c5pHiTx) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [傷つくのは嫌いだから](https://open.spotify.com/album/2C284HplB4iRrqpGmVMR8j) | 2:41 | 2025-09-25 | 2025-10-04 |
 | [優しいキス](https://open.spotify.com/track/2ZQvEzgd3sGEHxF7jhSvnX) | [KwangSoo](https://open.spotify.com/artist/5mxnis3jwujdkkXv9DO0hz) | [Rakugaki](https://open.spotify.com/album/1BpEJMF2lGOAzdrJJIlT7g) | 4:08 | 2023-06-20 | 2023-07-08 |
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-23 | 2023-01-13 |

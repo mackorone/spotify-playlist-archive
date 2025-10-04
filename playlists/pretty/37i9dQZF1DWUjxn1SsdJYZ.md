@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Yung Maynie
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,882 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,881 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 5 | [Maroubra Villain \(feat\. Hellcat Speedracer\)](https://open.spotify.com/track/1bDwBMX4ssdrvWOmTi63Xz) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Maroubra Villain \(feat\. Hellcat Speedracer\)](https://open.spotify.com/album/1LjmAF05GIS7CBzTAsZWs7) | 3:04 |
 | 6 | [Game Ain't Blind](https://open.spotify.com/track/0AxGcK88VGppBodGPk0Hyo) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Game Ain't Blind](https://open.spotify.com/album/4pL3DyrcQR5zDEhz6wHFpi) | 3:18 |
 | 7 | [LIKE THIS LIKE THAT](https://open.spotify.com/track/2yrfdCbkMEjP41qKoejhya) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [LIKE THIS LIKE THAT](https://open.spotify.com/album/2K2L4dD0jF4B274y3duqY0) | 2:31 |
-| 8 | [Paranoia](https://open.spotify.com/track/5OfNwxoCMVIr6OtKcnB8lR) | [Seth Sentry](https://open.spotify.com/artist/3N9qpKjXarCt5AIZRCeqr8), [trials](https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai), [Sesta](https://open.spotify.com/artist/1cjnP0BTDt3j5YDXausTYi) | [](https://open.spotify.com/album/null) | 4:09 |
+| 8 | [Paranoia](https://open.spotify.com/track/5OfNwxoCMVIr6OtKcnB8lR) | [Seth Sentry](https://open.spotify.com/artist/3N9qpKjXarCt5AIZRCeqr8), [trials](https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai), [Sesta](https://open.spotify.com/artist/1cjnP0BTDt3j5YDXausTYi) | [Super Cool Tree House 2](https://open.spotify.com/album/0zknu7nRjjKduPZIDlOnPh) | 4:09 |
 | 9 | [Way Up](https://open.spotify.com/track/59U4kEmf0gKGVvvkx639LR) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Way Up](https://open.spotify.com/album/3ZxrPILZhlGnA85EKTkVHt) | 2:44 |
 | 10 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 |
 | 11 | [23 ‘Til Infinity](https://open.spotify.com/track/6xhlaFJ69ylW7yYslj77hS) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI) | [23 ‘Til Infinity](https://open.spotify.com/album/5urtTzFbmTMiSToGej5RBx) | 2:33 |

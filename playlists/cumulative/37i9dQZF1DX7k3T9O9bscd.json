@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Psyched-out bands from the four corners of the world. Unknown Mortal Orchestra on cover.",
+  "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
   "name": "Neo-Psychedelic Rock",
   "tracks": [
     {
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/3IrD7IpDBy3psoDWWpIubo"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4HT8vpwMPNpgZq6TcxColK"
+    },
+    {
+      "album": {
         "name": "H\u00e4xan",
         "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
       },
@@ -1352,6 +1370,24 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "album": {
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 384000,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
@@ -1980,6 +2016,24 @@
       "duration_ms": 240468,
       "name": "Forever End",
       "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
+    },
+    {
+      "album": {
+        "name": "Fractal Haze",
+        "url": "https://open.spotify.com/album/7CRJxDjnOOUA4sUX6A4kNJ"
+      },
+      "artists": [
+        {
+          "name": "Giobia",
+          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403391,
+      "name": "Fractal Haze",
+      "url": "https://open.spotify.com/track/0uAqsjOY03RRg1GFcOyJxB"
     },
     {
       "album": {
@@ -2703,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "album": {
         "name": "Turk Jerk",
         "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
       },
@@ -2732,7 +2804,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 515435,
       "name": "Instinct, Eye and Mind",
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
@@ -3540,7 +3612,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 271880,
       "name": "Mind Mischief",
       "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
@@ -3778,7 +3850,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 246125,
       "name": "No Way In",
       "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"

@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Armin van Buuren
 
-339 songs - 17 hr 3 min
+340 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,9 +188,9 @@
 | [Madhouse \(feat\. RANI\)](https://open.spotify.com/track/4FjDFPYRZVhYHh79YOw0iW) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Madhouse \(feat\. RANI\)](https://open.spotify.com/album/0ZDPSB368S8GqUq6mMjv0N) | 2:16 | 2025-08-28 | 2025-10-03 |
 | [Make it Pop](https://open.spotify.com/track/46IGKir4Awda4ddEThGleE) | [Le Manou](https://open.spotify.com/artist/7gxbHzzWpl0uihclvPqiq3) | [Make it Pop](https://open.spotify.com/album/6tPbhOxDzvhOtG2E58pPGw) | 2:58 | 2025-08-28 | 2025-09-12 |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-08-14 | 2025-08-29 |
-| [Make Me Forget](https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [](https://open.spotify.com/album/null) | 3:15 | 2025-10-02 |  |
+| [Make Me Forget](https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [First Love](https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP) | 3:15 | 2025-10-02 |  |
 | [Make Out](https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Make Out](https://open.spotify.com/album/1wYyb3PD5sNXfG962OWgRI) | 2:37 | 2025-07-17 | 2025-08-15 |
-| [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [](https://open.spotify.com/album/null) | 4:41 | 2025-10-02 |  |
+| [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 | 2025-10-02 |  |
 | [Me Curas](https://open.spotify.com/track/3hdlKmLtOsU6Yo0N60xQEm) | [Sowel](https://open.spotify.com/artist/1D10cZKX9b5ZnLc6VdeC8h) | [Me Curas](https://open.spotify.com/album/3O4zxLKYEXBPhwSYWWio6Y) | 3:05 | 2025-10-02 |  |
 | [Me Gusta](https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Me Gusta](https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP) | 3:10 | 2025-09-11 |  |
 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 | 2025-07-17 | 2025-09-19 |
@@ -198,6 +198,7 @@
 | [MONSTAZ](https://open.spotify.com/track/4lQA3q7VL0Z11sF4wqUT6F) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu) | [MONSTAZ](https://open.spotify.com/album/3ifBWdJRIq2kehWU3QVS1X) | 2:22 | 2025-07-17 | 2025-08-29 |
 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 | 2025-09-18 |  |
 | [Moon](https://open.spotify.com/track/6D8NhLlyVPps9aqLrJJ1Ut) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Moon](https://open.spotify.com/album/6iVVrWVHA2KE7AzvRoSIU8) | 3:13 | 2025-07-17 | 2025-08-09 |
+| [Moth To A Flame](https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht) | 3:10 | 2025-10-02 |  |
 | [Move A Little Closer](https://open.spotify.com/track/0gf1KoU5UhhxoEodDF29Rm) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Move A Little Closer](https://open.spotify.com/album/3W7wRLiuNsiNVvFMCKcuoO) | 2:49 | 2025-07-17 | 2025-08-15 |
 | [Move With Me \(Open Air Mix\)](https://open.spotify.com/track/4kUKsVYw7qW0MzAW17nydn) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh), [Michael Sebastian](https://open.spotify.com/artist/10w5M1sAvsWA2BewJX1Blt) | [Dreamin' EP](https://open.spotify.com/album/7GeXTxXuuUBwcK7N4MC3Jp) | 3:01 | 2025-08-04 | 2025-09-05 |
 | [Move Your Body](https://open.spotify.com/track/7wyv2NMXiktbhdvcFagS4G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Move Your Body](https://open.spotify.com/album/1m2EoGXSA9QtXdRawROTEZ) | 2:50 | 2025-07-17 | 2025-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: NIKO NIKO TAN TAN \*👉 <a href="https://spice.eplus.jp/articles/341104">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,219 likes - 79 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,256 likes - 79 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 26 | [The One](https://open.spotify.com/track/7ipleiJ5GZt3Am7kVkOLGA) | [Roka](https://open.spotify.com/artist/0GNjQ4UsF0AJiksilivETU) | [The One](https://open.spotify.com/album/2IaA6wLLXy9RmIp8aerYyd) | 3:33 |
 | 27 | [ホームカミング](https://open.spotify.com/track/25imQn6HeoDQ9BQ8UcMpg4) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ホームカミング](https://open.spotify.com/album/6C6R68fJNrCa5DYr60jSld) | 3:58 |
 | 28 | [CRAZZZY](https://open.spotify.com/track/2SzkK2z0uUQr6cR5IwRM6L) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CRAZZZY](https://open.spotify.com/album/6epSwi19HQpi4fZERo4jni) | 3:05 |
-| 29 | [Abduct](https://open.spotify.com/track/6fy7KzYetbfLyZIjRaEgn3) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [Abduct](https://open.spotify.com/album/3xNhPdVyaKJNbuYTz5Dkje) | 3:43 |
+| 29 | [Abduct](https://open.spotify.com/track/6fy7KzYetbfLyZIjRaEgn3) | [KEPURA](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [Abduct](https://open.spotify.com/album/3xNhPdVyaKJNbuYTz5Dkje) | 3:43 |
 | 30 | [Shinpaishou](https://open.spotify.com/track/5u9bcUlzK3nG308VN1viR5) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Shinpaishou](https://open.spotify.com/album/24I3b7xfDDeGX8qYKq2EJI) | 3:42 |
 | 31 | [Moon](https://open.spotify.com/track/6TKnt3hcvX0YaXeK19TjXd) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Moon](https://open.spotify.com/album/00u6G2aYk05GMJ0FcZlGCm) | 4:33 |
 | 32 | [ことさら](https://open.spotify.com/track/7qkQVI205qumPd2D4Hgtv1) | [江沼郁弥](https://open.spotify.com/artist/73pLdo9qAhHq5k992znDeV) | [ことさら EP](https://open.spotify.com/album/4tj9Z1Iq4qnTqIXpzC90gu) | 3:38 |

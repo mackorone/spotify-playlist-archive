@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Eloïz
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,230 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,265 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 23 | [Toxic et Chic](https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Toxic et Chic](https://open.spotify.com/album/5fpIrCqzg5z7iAmaqVHAaA) | 2:48 |
 | 24 | [Regarde\-moi](https://open.spotify.com/track/2K0tqdLh2ex3mjIj2eIKKV) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Regarde\-moi](https://open.spotify.com/album/5ApRqtv1gGbJjVYlnHD9pL) | 2:14 |
 | 25 | [Le mur](https://open.spotify.com/track/2DwiaiLvMLp7KqQZEwRxGT) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Le mur](https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG) | 3:11 |
-| 26 | [L'amour est un jeu](https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [](https://open.spotify.com/album/null) | 2:23 |
+| 26 | [L'amour est un jeu](https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:23 |
 | 27 | [Toi jamais](https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Toi jamais](https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ) | 2:51 |
 | 28 | [Poupée Soldat](https://open.spotify.com/track/0HxEXFr7iZHIwOyCel7D9y) | [Laura Ferré](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Poupée Soldat](https://open.spotify.com/album/62SAM2R8nrAXUWoykkvC1n) | 2:58 |
 | 29 | [Ça passe](https://open.spotify.com/track/6izmGwV71YDOWc0Y0V4Zou) | [John Mamann](https://open.spotify.com/artist/3lL5mw1555BFtJXaI07uIy) | [Ça passe](https://open.spotify.com/album/3excdIYIGI3GvyWUqUcHKi) | 3:16 |

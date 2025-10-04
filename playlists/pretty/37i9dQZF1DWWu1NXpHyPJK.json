@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 84539,
+  "num_followers": 84544,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAGuOzedL1Ml8PS8leKnRvv1lM9bg",
   "tracks": [
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 258732,
       "name": "Wonderwall (Remastered)",
       "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Super Dance Hits From The Nineties",
-        "url": "https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Luv U More",
-      "url": "https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Unlimited Hits & Remixes",
         "url": "https://open.spotify.com/album/31ZELjZPFpr5326F1uojYm"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 223694,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "May The Forze Be With You",
+        "url": "https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Rainbow In The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "May The Forze Be With You",
-        "url": "https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Rainbow In The Sky - Radio Edit",
-      "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Greatest Hits!",
         "url": "https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 217539,
       "name": "We\u2019re Going to Ibiza!",
       "url": "https://open.spotify.com/track/0b8PKDeFc2T5u9cRbLLv2r"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Super Dance Hits From The Nineties",
+        "url": "https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Luv U More",
+      "url": "https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
+        "name": "The Best Of Me",
+        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
         "name": "Love Shine a Light (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 187947,
       "name": "Love Shine a Light",
       "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
-        "name": "Best! The Singles",
-        "url": "https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC"
-      },
-      "artists": [
-        {
-          "name": "Londonbeat",
-          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "I've Been Thinking About You",
-      "url": "https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1603,18 +1603,34 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "The Best Of Me",
-        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+        "name": "Best! The Singles",
+        "url": "https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Londonbeat",
+          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
+      "duration_ms": 229773,
+      "name": "I've Been Thinking About You",
+      "url": "https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "The New Best Of (All Hits & Remixes) 2016",
+        "url": "https://open.spotify.com/album/39gSR80KryAcX955TARfGg"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Quit Playing Games (With My Heart)",
+      "url": "https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1631,22 +1647,6 @@
       "duration_ms": 202133,
       "name": "Big Big World",
       "url": "https://open.spotify.com/track/6nzZXE4iUSpG4LSlSGNH5e"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
-        "name": "Ain't That Just The Way",
-        "url": "https://open.spotify.com/album/3NeWmOPcqIrWVNRWHY5m39"
-      },
-      "artists": [
-        {
-          "name": "Lutricia McNeal",
-          "url": "https://open.spotify.com/artist/15CJJkRAJlTG8kA8Eo1f4x"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Ain't That Just the Way",
-      "url": "https://open.spotify.com/track/7tHYA0eEH6dAAzMurBNvT9"
     }
   ],
   "unique_name": "90's Allerbeste",

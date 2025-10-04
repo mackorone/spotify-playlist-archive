@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Thelma & James
 
-865 songs - 2 day 5 hr 18 min
+867 songs - 2 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-07-22 | 2023-02-18 |
 | [Currency](https://open.spotify.com/track/43eUMLFb0WHjuBigpHKhNT) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Rock Bottom](https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K) | 3:56 | 2023-10-13 | 2025-02-22 |
 | [Curtain](https://open.spotify.com/track/5SwjH71I6kb2ylx1skmvmU) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Curtain](https://open.spotify.com/album/6BZL9Ul27UzvTdWJJsofQj) | 6:39 | 2025-05-30 |  |
+| [Damn](https://open.spotify.com/track/2HPQ7sROFMf0GoXkULuNGB) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Damn](https://open.spotify.com/album/4eCLsaMwer6FOOfVVitzXF) | 5:14 | 2025-10-03 |  |
 | [Damn My Love](https://open.spotify.com/track/4WV21jJoYjf7d5abk0FbcM) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Pagan Church](https://open.spotify.com/album/0oTreVJnC1akvkKpYxj9Ak) | 3:39 | 2024-01-12 | 2024-02-17 |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2021-12-17 | 2022-05-28 |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2025-05-17 |
@@ -387,6 +388,7 @@
 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 | 2025-06-20 |  |
 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 | 2022-08-05 | 2024-03-23 |
 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 | 2022-08-19 | 2023-09-23 |
+| [If I Was a Dove](https://open.spotify.com/track/61hGHP1BTnKdz84u0pzFfy) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [If I Was a Dove](https://open.spotify.com/album/42lpModQaxkHwMDb2jQd0w) | 3:04 | 2025-10-03 |  |
 | [If I'm Lucky](https://open.spotify.com/track/3V3eLDsjsDHu78UC4LDUGb) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [If I'm Lucky](https://open.spotify.com/album/4i0iM6xWdd0CoGAc5f5y2H) | 4:04 | 2025-09-26 |  |
 | [If Not for the Rain](https://open.spotify.com/track/09KLleKjGJXVYKlkRB548W) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [If Not for the Rain](https://open.spotify.com/album/5vuJo51lWThirFEhqYQpVm) | 5:30 | 2023-06-30 | 2024-11-16 |
 | [If Whiskey Were Free](https://open.spotify.com/track/1Gp5tJL7BpCcICSbby1Tqa) | [Landon Smith](https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m) | [If Whiskey Were Free](https://open.spotify.com/album/0JD02gANNHhuvYxIOVwoFA) | 3:32 | 2025-04-18 |  |

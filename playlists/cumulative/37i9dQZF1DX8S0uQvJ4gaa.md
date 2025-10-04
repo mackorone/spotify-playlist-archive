@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Marcus King
+> New music discovery is what we're about\. Try it on for size\. Cover: Carter Faith
 
 2,715 songs - 6 day 2 hr 56 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 > Enjoy music from "New PANTY & STOCKING with GARTERBELT"! <br/> ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,797 likes - 96 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,969 likes - 96 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,6 +103,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 | 93 | [Overture for Orgasmics](https://open.spotify.com/track/0K8GGQsUtXLfmu6MXyFsmy) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [New PANTY & STOCKING with GARTERBELT The Soundtrack](https://open.spotify.com/album/5I8ZtaN31ft5f95wdNcKNp) | 9:29 |
 | 94 | [Theme of "Who Killed the Bitch?"](https://open.spotify.com/track/7n2pIPcrTAy3sEyF0yCXco) | [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [New PANTY & STOCKING with GARTERBELT The Soundtrack](https://open.spotify.com/album/5I8ZtaN31ft5f95wdNcKNp) | 1:51 |
 | 95 | [Just the Beat](https://open.spotify.com/track/6ARDjTt6vV2Cz8uGlbTf3o) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [New PANTY & STOCKING with GARTERBELT The Soundtrack](https://open.spotify.com/album/5I8ZtaN31ft5f95wdNcKNp) | 3:12 |
-| 96 | [Theme for Panty & Stocking \(Alternate Version\)](https://open.spotify.com/track/3AGEwU4NupRnObrCosPcxy) | [Hoshina Anniversary](https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [New PANTY & STOCKING with GARTERBELT The Soundtrack](https://open.spotify.com/album/5I8ZtaN31ft5f95wdNcKNp) | 0:32 |
+| 96 | [Theme for Panty & Stocking \(Alternate Version\)](https://open.spotify.com/track/3AGEwU4NupRnObrCosPcxy) | [Hoshina Anniversary](https://open.spotify.com/artist/4GS5E4aNdIR4yuswso1DZV), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [New PANTY & STOCKING with GARTERBELT The Soundtrack](https://open.spotify.com/album/5I8ZtaN31ft5f95wdNcKNp) | 0:32 |
 
 Snapshot ID: `AAAAAPF1Lxe4B6tCaJIGm5GCnWNiMx3l`

@@ -2,9 +2,9 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> Rock never dies\. Cover: ivri
+> Rock never dies\. Cover: Upchuck
 
-1,066 songs - 2 day 11 hr 26 min
+1,070 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Break the Girl](https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Break the Girl](https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl) | 3:31 | 2025-09-05 |  |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-21 | 2024-08-31 |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-19 | 2024-06-29 |
-| [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 | 2025-07-18 |  |
+| [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 | 2025-07-18 | 2025-10-04 |
 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 | 2022-05-20 | 2022-11-19 |
 | [Broken Man](https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:21 | 2024-04-26 | 2024-07-13 |
 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-03-01 | 2024-04-27 |
@@ -177,6 +177,7 @@
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-30 | 2025-08-02 |
 | [Cramps](https://open.spotify.com/track/6ZicV1wwyyYqo1UYBFw1TJ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:53 | 2024-03-13 | 2024-04-13 |
 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 | 2024-03-13 | 2024-04-06 |
+| [Cross Your Heart](https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Cross Your Heart](https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM) | 3:38 | 2025-10-03 |  |
 | [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-21 | 2025-03-29 |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-07 |  |
 | [Crying In The Shower](https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Crying In The Shower](https://open.spotify.com/album/2gQEgoc2pUE6UwsUmWvQUk) | 3:04 | 2023-04-21 | 2023-06-10 |
@@ -207,6 +208,7 @@
 | [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 2:56 | 2021-10-20\* | 2021-12-18 |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-28 | 2025-04-26 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-12-24 | 2022-05-14 |
+| [detroit](https://open.spotify.com/track/0ESmbstBQI4arPAsNkHZ8g) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Strung Out Symphony](https://open.spotify.com/album/4vkZh7v970FaGHlF16IDeW) | 3:09 | 2025-10-03 |  |
 | [Detroit](https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Detroit](https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy) | 3:31 | 2024-08-02 | 2025-02-01 |
 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 | 2024-06-14 | 2024-09-14 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-15 | 2022-09-03 |
@@ -223,6 +225,7 @@
 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 | 2024-06-28 | 2024-08-24 |
 | [Do It Faster](https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Do It Faster](https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs) | 1:47 | 2023-03-24 | 2023-05-20 |
 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2024-02-02 | 2024-07-06 |
+| [Do Or Die](https://open.spotify.com/track/6YRmlncEmfgAii4f7F6tAF) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Entropy](https://open.spotify.com/album/6Hv27mfvRRJi1NMXkams3J) | 3:42 | 2025-10-03 |  |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-03-29 | 2024-08-17 |
 | [Dog Days](https://open.spotify.com/track/2p9dIfT3qAyrcm1N4ZM4Zm) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Dog Days](https://open.spotify.com/album/3AovjVlttuqwIwPAJzgq2f) | 3:09 | 2024-05-10 | 2024-07-13 |
 | [Don't Fight](https://open.spotify.com/track/77uOIGBiWfd5dr88Y6QcIn) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Reflection / Don't Fight](https://open.spotify.com/album/6dP4GsPzcJW0LaNnHp2An1) | 2:42 | 2025-08-08 | 2025-09-27 |
@@ -595,6 +598,7 @@
 | [Never Said](https://open.spotify.com/track/5MFsRqD8dYEGO09mDMOEYG) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Never Said](https://open.spotify.com/album/5EaeD4vGZe5yH5sWAdYLaR) | 3:15 | 2025-02-21 | 2025-05-17 |
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-09-19 |  |
 | [New Age Crisis](https://open.spotify.com/track/5SGngWVsm3RyjOYYDGjwgQ) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Boohoo](https://open.spotify.com/album/3BmA5Ekn7N20KrfyenuwE8) | 2:38 | 2024-03-13 | 2024-05-11 |
+| [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 | 2025-10-03 |  |
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 | 2024-10-26 |
 | [New York](https://open.spotify.com/track/2elqcD2pMpf6HzT9PclqeG) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [God Games](https://open.spotify.com/album/5foItJB5J4HL2Iim9BHpfk) | 4:04 | 2023-11-10 | 2023-11-18 |
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-28 | 2023-11-11 |
@@ -675,7 +679,7 @@
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-16 | 2022-11-12 |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-03-13 | 2024-04-13 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2022-09-10 |
-| [Paws](https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Paws](https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v) | 4:19 | 2025-04-25 |  |
+| [Paws](https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Paws](https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v) | 4:19 | 2025-04-25 | 2025-10-04 |
 | [PEACE](https://open.spotify.com/track/4tYH4xLSFUGfBTr2c9Kx4L) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [PEACE](https://open.spotify.com/album/4naVHbetmkPnBZpHpvFdMY) | 2:17 | 2025-09-19 |  |
 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 | 2025-01-10 | 2025-03-15 |
 | [Peacefield \- Single Version](https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 4:46 | 2025-04-25 | 2025-08-16 |
@@ -740,7 +744,7 @@
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-20 | 2022-09-10 |
 | [ROCK](https://open.spotify.com/track/578rXpSo03qsOieeW1IsEu) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [WKR?](https://open.spotify.com/album/4QsLwG7Ggrnw7yWLEVfCG0) | 0:17 | 2024-03-11 | 2024-03-14 |
 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 | 2025-09-19 |  |
-| [Rodeo](https://open.spotify.com/track/3XGqxMFncuSjOeW3yHFrru) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:19 | 2025-09-26 |  |
+| [Rodeo](https://open.spotify.com/track/3XGqxMFncuSjOeW3yHFrru) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:19 | 2025-09-26 | 2025-10-04 |
 | [Roman Candles](https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Roman Candles](https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM) | 2:10 | 2022-05-27 | 2022-06-25 |
 | [Roobosh](https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Roobosh](https://open.spotify.com/album/3NZo87MKa0nCKlqbk6BoR5) | 3:20 | 2025-07-11 | 2025-09-06 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-07-22 | 2022-10-15 |
@@ -981,7 +985,7 @@
 | [Turnout](https://open.spotify.com/track/4B2KI6R4Bcfh6Fis0QUEv7) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 2:33 | 2024-05-03 | 2024-06-08 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-10-22 | 2022-01-08 |
 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-15 | 2025-03-29 |
-| [U Should Not Be Doing That](https://open.spotify.com/track/3UPoC4ul3EOALnD8lmTf8o) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 3:26 | 2025-07-18 |  |
+| [U Should Not Be Doing That](https://open.spotify.com/track/3UPoC4ul3EOALnD8lmTf8o) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 3:26 | 2025-07-18 | 2025-10-04 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-24 | 2024-10-05 |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-09-02 | 2022-12-17 |
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-09-05 |  |

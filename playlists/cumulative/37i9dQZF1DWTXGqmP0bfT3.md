@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-355 songs - 1 day 0 hr 1 min
+356 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Heavy Metal Never Dies](https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [The Landing](https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU) | 4:14 | 2021-12-17 |  |
 | [Hell To Pay](https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [Hell to Pay](https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:07 | 2023-03-17 | 2023-05-30 |
-| [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:32 | 2024-11-15 |  |
+| [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:32 | 2024-11-15 | 2025-10-04 |
 | [Hey Mister](https://open.spotify.com/track/3ORgbqQVR5oj2QlX1nML8l) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [At Heart](https://open.spotify.com/album/0vnba3b6zUGsHoiVbtV6rO) | 3:55 | 2021-12-17 | 2022-06-18 |
 | [Hollowed Heart](https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e) | 3:51 | 2021-12-17 | 2023-11-04 |
 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 | 2021-12-17 |  |
@@ -158,6 +158,7 @@
 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 | 2022-01-06 | 2024-04-19 |
 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 | 2021-12-17 |  |
 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 | 2025-03-14 |  |
+| [I'll Be Thunder](https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [I'll Be Thunder](https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y) | 3:20 | 2025-10-03 |  |
 | [I.H.E.](https://open.spotify.com/track/1c5FP1UuxzD4ZSoNoKmNfy) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Deathless](https://open.spotify.com/album/7k0crayXxhuHFfEjRh2fP7) | 3:47 | 2021-12-17 | 2022-06-21 |
 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-05-08 |  |
 | [In Another Life \(feat\. Courtney LaPlante\)](https://open.spotify.com/track/5F2L2phmZw5dZZY72VpFM2) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:45 | 2024-11-15 |  |
@@ -279,7 +280,7 @@
 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2023-12-13 |  |
 | [Slaves Beyond Death](https://open.spotify.com/track/376M80F3cD767l9Xt1nZ3O) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Dear Desolation](https://open.spotify.com/album/6gZ3FvJSTtZxX6Z9AammGW) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [Sleepless Deathbed](https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Sleepless Deathbed](https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ) | 3:58 | 2024-01-29 | 2024-03-08 |
-| [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 | 2024-11-15 | 2025-09-30 |
+| [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 | 2024-11-15 |  |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2024-11-15 |  |
 | [Son of a Wolf](https://open.spotify.com/track/69A78zQYA5z0mqmkNZd7rz) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 3:59 | 2021-12-17 | 2022-07-27 |
 | [Sowing Salt](https://open.spotify.com/track/4240Cj5A3x9UfTMmn6Z3YG) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/3qPPdPFGRfbTwWnZbLS71F) | 3:07 | 2025-05-09 | 2025-08-11 |
@@ -361,7 +362,7 @@
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-21 |  |
 | [welcome2paradise](https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:46 | 2023-12-13 | 2025-01-18 |
 | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Winner Takes All \(feat\. Alice Cooper\)](https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ) | 3:25 | 2023-04-11 | 2023-05-21 |
-| [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 | 2024-02-09 |  |
+| [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 | 2024-02-09 | 2025-10-04 |
 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

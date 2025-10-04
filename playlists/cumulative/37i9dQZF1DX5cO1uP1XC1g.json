@@ -6199,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "Ya Helou",
+        "url": "https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185495,
+      "name": "Ya Helou",
+      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+      "album": {
         "name": "Ya Hmed",
         "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
       },
@@ -7990,7 +8008,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 198019,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,725 likes - 135 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,889 likes - 135 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 84 | [Binaural Alpha Sinus 110Hz \- 118Hz](https://open.spotify.com/track/7AY5D9sxUTWBUv4U0Gqe4Q) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [FoCcus](https://open.spotify.com/album/1YD1tFaelD370A42BWvlqR) | 2:29 |
 | 85 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 |
 | 86 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 |
-| 87 | [Binaural Alpha Sinus 120Hz \- 127Hz](https://open.spotify.com/track/7hZ4eFcmRflUR91crFQrxK) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:22 |
+| 87 | [Binaural Alpha Sinus 120Hz \- 127Hz](https://open.spotify.com/track/7hZ4eFcmRflUR91crFQrxK) | [Restovi](https://open.spotify.com/artist/7HtgTmI7yVTGoTsDqWVh5A) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:22 |
 | 88 | [The Ancient \(12 Hz Alpha Binaural Beat\)](https://open.spotify.com/track/51V46YJCKoz4cB3mZeXVZt) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 |
 | 89 | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/track/6gOn4ExjL2VUxAHaxKuO5t) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/album/1ZGwHz7AO9PkL6muWfhvSL) | 4:07 |
 | 90 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |

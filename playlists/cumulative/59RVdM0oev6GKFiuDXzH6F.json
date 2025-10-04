@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/6U8hwDeIjBLcwOvZ2tq1WX"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/2hIcjgejOVZK0CnkL7Hht1"
+    },
+    {
+      "album": {
         "name": "Bounded",
         "url": "https://open.spotify.com/album/1GKagAUJuYSXhVPMNDFLru"
       },
@@ -13324,6 +13342,28 @@
       "duration_ms": 228148,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2ooeOrN1FE7IN46406hI7J"
+    },
+    {
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu"
     },
     {
       "album": {

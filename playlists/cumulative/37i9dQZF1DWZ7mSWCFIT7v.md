@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-482 songs - 1 day 14 hr 24 min
+483 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 | 2023-04-15 | 2025-08-23 |
 | [Love & Aggression](https://open.spotify.com/track/510FIqgsteZpZvY9g0XWtu) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Love & Aggression](https://open.spotify.com/album/3WnwcRbhmT6jfPLMD7Yg01) | 4:29 | 2025-08-22 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 |  |
-| [LSI Dreaming](https://open.spotify.com/track/4TQwoeLP4Mj9vHsf6h6zNw) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf) | [LSI Dreaming](https://open.spotify.com/album/0Zy5FDZUHa4cMdM3UmUgYi) | 5:13 | 2025-06-20 |  |
+| [LSI Dreaming](https://open.spotify.com/track/4TQwoeLP4Mj9vHsf6h6zNw) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf) | [LSI Dreaming](https://open.spotify.com/album/0Zy5FDZUHa4cMdM3UmUgYi) | 5:13 | 2025-06-20 | 2025-10-04 |
 | [Lucky Me](https://open.spotify.com/track/0x5xYIRlkAYComANpdnPNB) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Lucky Me](https://open.spotify.com/album/1HKIdsPLPNWtZ6TO5xy0AK) | 5:58 | 2025-03-14 | 2025-09-20 |
 | [LYMRINCE](https://open.spotify.com/track/52SBzN2ON4wkDmEEM0I5bK) | [enuar](https://open.spotify.com/artist/5vokRMHo5yamJ1b2NHDIcz) | [LYMRINCE / xcix\-maxima](https://open.spotify.com/album/1lvWOvSMLOOu9uJVzN4C3d) | 1:54 | 2025-04-25 |  |
 | [Mainstream Belief](https://open.spotify.com/track/2VtvAOGHHsJ57UO46v9ybK) | [Grant](https://open.spotify.com/artist/5xUqD3EXrIaAq1IZeOC4lM) | [Cranks](https://open.spotify.com/album/1tBm85iGcYs2mlr7BIUvmv) | 4:59 | 2021-10-06 | 2025-07-17 |
@@ -487,6 +487,7 @@
 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-10-06 | 2024-04-19 |
 | [Zero](https://open.spotify.com/track/3HEy3iRI7Z5yb4G7cJp1Ii) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Zero](https://open.spotify.com/album/7aCYZPFnKoO8R4YNutJl1e) | 4:52 | 2021-10-06 | 2025-07-17 |
 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 | 2021-10-06 | 2025-07-17 |
+| [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 | 2025-10-03 |  |
 | [ゾッド](https://open.spotify.com/track/59HhbPtgARl5cLuJGjP1Ow) | [Mukqs](https://open.spotify.com/artist/2pM2N6yzrf4201puxjeIKY) | [起き上がり](https://open.spotify.com/album/71NkK6ps2GTJ0Tq6nRBU9k) | 9:42 | 2021-10-06 | 2025-07-17 |
 | [ニイミ](https://open.spotify.com/track/6uXnpJHSF3kWKMdy3EX1tU) | [Kentaro Minoura](https://open.spotify.com/artist/0xzPunBbhUsUCfv5WaxYGb) | [御徒街徒御](https://open.spotify.com/album/00NDibpwFIVSYsD9DRR4H1) | 5:22 | 2021-10-06 | 2025-07-17 |
 | [悲哀](https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 9:23 | 2021-10-06 | 2025-06-07 |

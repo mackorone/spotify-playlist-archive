@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\. Cover: Doja Cat
+> We'll be back next week with the latest in hip\-hop\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,449 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,504 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
-| 2 | [Walk Down \(feat\. 21 Savage\)](https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:40 |
+| 1 | [Walk Down \(feat\. 21 Savage\)](https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:40 |
+| 2 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 3 | [My Wayz](https://open.spotify.com/track/2pQwZEHz1Qecwip64Lo5YM) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [My Wayz](https://open.spotify.com/album/6J4nZIxvrtdow6aZmeWuXr) | 2:54 |
 | 4 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
 | 5 | [Don’t Do Too Much](https://open.spotify.com/track/3V1K9dBBNhQYsOKUmkcgFg) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA? \(Bonus Edition\)](https://open.spotify.com/album/3WBwrf7k30GHdYeQaSWXSz) | 2:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [money talks](https://open.spotify.com/track/6qkysH4k9jaPrhRP69IfW9) | [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [money talks](https://open.spotify.com/album/5L15IVCeyx2pbEFTUByn8Y) | 2:35 |
 | 49 | [PIECES ON MY NECK\. FT\. 21 SAVAGE.](https://open.spotify.com/track/57WdIHBSsisHLhn2gdsXr7) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [ALREADY LEGEND.](https://open.spotify.com/album/6zdPFeeX9KAITF9r84BLqg) | 4:00 |
 
-Snapshot ID: `AAAAACgenbytoAg2rGKCGn0VmCl+RMDG`
+Snapshot ID: `AAAAABc9vPLXWYX7QL3OZbwJqnUxvchN`

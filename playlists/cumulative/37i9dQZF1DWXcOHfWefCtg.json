@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Soul Funk Xmas",
+        "url": "https://open.spotify.com/album/4FL5Nt8rTgXlBKGEgTCHvU"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287033,
+      "name": "Xmas In The Hood",
+      "url": "https://open.spotify.com/track/2qMx9EqL28rUQmGI6c9jxp"
+    },
+    {
+      "album": {
         "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
         "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },

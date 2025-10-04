@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > 💘 giovane pop\-Z 💘 Cover: Sarah Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,963 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,953 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 17 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
 | 18 | [acqua santa](https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [acqua santa](https://open.spotify.com/album/4saZ2bZ4QrNo3KRhVk0Alj) | 2:36 |
 | 19 | [Come noi non c'è nessuno](https://open.spotify.com/track/0Fqhgx5n1h6lDxl4YWF98x) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 4:12 |
-| 20 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 |
+| 20 | [Taki](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Taki](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 |
 | 21 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 |
 | 22 | [SOLA \(TI AMO\)](https://open.spotify.com/track/5tQtxkxCwLsJAhWZ3K8JQ5) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [SOLA \(TI AMO\)](https://open.spotify.com/album/1Xizf3rtH6J1aLvfleJTm8) | 2:56 |
 | 23 | [UP&DOWN \(feat\. BNKR44\)](https://open.spotify.com/track/11C3GZQwGuGG5UT3FzyhXn) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [MALDIVITA](https://open.spotify.com/album/4blLRBo0nkLZE4t5EXyPbz) | 2:34 |

@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Upchuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,337 likes - 125 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,376 likes - 125 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 |
 | 2 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 |
 | 3 | [AIN'T MY GAME](https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [AIN'T MY GAME](https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py) | 3:01 |
-| 4 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [](https://open.spotify.com/album/null) | 3:11 |
+| 4 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 |
 | 5 | [Ash Speck in a Green Eye](https://open.spotify.com/track/2ORPaFO67SDgFrRwZ3lkkU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Ash Speck in a Green Eye](https://open.spotify.com/album/1pOGfl98tX5KsawTEEUkzU) | 3:18 |
 | 6 | [Laugh It Off](https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Laugh It Off](https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85) | 3:38 |
 | 7 | [Major Threat](https://open.spotify.com/track/3b1yLTfE5MHVspXc8rjfoy) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Major Threat](https://open.spotify.com/album/2jyj424eT7lDvqCLcVDtRT) | 2:56 |
-| 8 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [](https://open.spotify.com/album/null) | 3:18 |
+| 8 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
 | 9 | [Front Door Phobia](https://open.spotify.com/track/043HFVMO9yNXRxUs97Fmal) | [Wiltwither](https://open.spotify.com/artist/3HoW6Io7vdOF0scarlinO5), [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Front Door Phobia](https://open.spotify.com/album/6ML8IZkWAj1TTjCCw0ULUa) | 2:25 |
-| 10 | [Probably It's Capitalism](https://open.spotify.com/track/0MosQIxwlvD5YV4tmoj8cC) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [](https://open.spotify.com/album/null) | 2:12 |
+| 10 | [Probably It's Capitalism](https://open.spotify.com/track/0MosQIxwlvD5YV4tmoj8cC) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Don't Care\. Didn't Ask](https://open.spotify.com/album/78PeavHvd551rjWNyHavGx) | 2:12 |
 | 11 | [Castaway \- Demo](https://open.spotify.com/track/2VnEyXzfafwIJHbPQAPKsn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Castaway \(Demo\)](https://open.spotify.com/album/5iryZx6gMDImSdkxCM5c3B) | 3:43 |
 | 12 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
 | 13 | [Painless](https://open.spotify.com/track/6i2cQvlEE74qWhAqGvljDv) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Painless](https://open.spotify.com/album/5kEO3O6pLSdnb6oeAfHM73) | 3:30 |
-| 14 | [Promises](https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [](https://open.spotify.com/album/null) | 4:23 |
+| 14 | [Promises](https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 4:23 |
 | 15 | [Kebangkitan](https://open.spotify.com/track/5E1oL0woNnOZUNOLFcEGcl) | [Sukatani](https://open.spotify.com/artist/6j1La1fkBWt6vQcwwXla0w), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Kebangkitan](https://open.spotify.com/album/4TFaMDK9GAcjhhyMVNV9vT) | 4:38 |
 | 16 | [No Cops In Heaven](https://open.spotify.com/track/6o9xWBNWeOGiUlGsB46PD5) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [No Cops In Heaven / Pull The Trigger](https://open.spotify.com/album/7IQWOlmZ9hdMCDgZjCfUMb) | 3:31 |
 | 17 | [Life and Limb \- Leeds UK 10/31/02\_FLS1041 \- Live](https://open.spotify.com/track/21fskfOK5U16UrbElPCmQ4) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Live at Metropolitan University Leeds UK 10/31/02\_FLS1041](https://open.spotify.com/album/04T9Ko3dg7IK4kDsuFEdjT) | 3:14 |
-| 18 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [Zora](https://open.spotify.com/artist/3pFbhzunKyBUtD2i43BjxB) | [](https://open.spotify.com/album/null) | 3:05 |
+| 18 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [Zora](https://open.spotify.com/artist/3pFbhzunKyBUtD2i43BjxB) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
 | 19 | [Hanging Onto You](https://open.spotify.com/track/4hGcrdznAIH2DtLh1quyZm) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Hanging Onto You](https://open.spotify.com/album/7v2jRZVrXNOIZOrq62hwzO) | 2:46 |
 | 20 | [Out Loud](https://open.spotify.com/track/3OcF7dJIgKUaDhXjirsFvL) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Out Loud](https://open.spotify.com/album/6Ud63aNDdeR0a52Mcxbguo) | 1:09 |
-| 21 | [Track 5](https://open.spotify.com/track/4uRAbeMggwMmQTrQmfCryK) | [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [](https://open.spotify.com/album/null) | 0:00 |
+| 21 | [Future 86](https://open.spotify.com/track/4uRAbeMggwMmQTrQmfCryK) | [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Future 86](https://open.spotify.com/album/3veqs22xTXIcDnKlCWwHiJ) | 1:52 |
 | 22 | [PALO ALTO](https://open.spotify.com/track/1BjPdGnP7ibXfEYC0tyRZ5) | [Scarlet Street](https://open.spotify.com/artist/0bAZy8K5gTFOhGcatCuEbW) | [PALO ALTO](https://open.spotify.com/album/5MdeTB7HLyWsWArKr0EDFO) | 3:01 |
 | 23 | [Illuminati](https://open.spotify.com/track/1eWaxavPr9AWPgeklw4HA7) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Illuminati](https://open.spotify.com/album/2aXj0Kr4jFR2USb6MK3OvF) | 3:14 |
 | 24 | [Make it Happen](https://open.spotify.com/track/0BJlMkX9QR5eTP9YXcEtM2) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [Make It Happen](https://open.spotify.com/album/2RpL78hrDlWSSjgllSucDn) | 2:01 |

@@ -1,13 +1,29 @@
 {
-  "description": "when the \u2018that boy is corrupt\u2019 line feels\u2026 oddly specific ",
-  "num_followers": 1574717,
+  "description": "livin' life with Mercer Henderson on the cover",
+  "num_followers": 1574144,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2nGJu4D5wYmcOjqRUcGwmA0ta5",
+  "snapshot_id": "AAAAACzsfDQSJsVykE6udQv/2GTiAE3K",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Different, Worse Versions",
+        "url": "https://open.spotify.com/album/5xrd3MOx7k8cUP9Z86pgF7"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 183076,
+      "name": "Different, Worse Versions",
+      "url": "https://open.spotify.com/track/6e3kXGh5HwuKZNMSi46qCU"
+    },
     {
       "added_at": "2025-09-19 04:00:31",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 182576,
       "name": "Nobody\u2019s Son",
       "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/5CbejhKUD9skksKHfdq9GT"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 156796,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/1A3ic2z0rbonwSKL7A6dMF"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 125786,
+      "name": "mood swings",
+      "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
     },
     {
       "added_at": "2025-09-26 04:00:24",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM"
     },
     {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "SUPER F\u2605CKING MEGA ST\u2605R",
+        "url": "https://open.spotify.com/album/1WQhYYSKRwg23ojle7NmBW"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "duration_ms": 169335,
+      "name": "SUPER F\u2605CKING MEGA ST\u2605R",
+      "url": "https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5"
+    },
+    {
       "added_at": "2025-09-26 04:00:24",
       "album": {
         "name": "diva",
@@ -87,6 +151,54 @@
       "duration_ms": 159153,
       "name": "diva",
       "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "The Things",
+        "url": "https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 206075,
+      "name": "The Things",
+      "url": "https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
     },
     {
       "added_at": "2025-09-19 04:00:31",
@@ -121,22 +233,6 @@
       "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
     },
     {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
-    },
-    {
       "added_at": "2025-08-29 04:01:51",
       "album": {
         "name": "Man I Need",
@@ -151,6 +247,22 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Lips Like Sugar",
+        "url": "https://open.spotify.com/album/1lEo3gP60rDjjqRvzIXI0m"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 169086,
+      "name": "Lips Like Sugar",
+      "url": "https://open.spotify.com/track/6jybBVbYQTeEufwhfLwqui"
     },
     {
       "added_at": "2025-09-19 04:00:31",
@@ -169,6 +281,22 @@
       "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
     },
     {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "NOSEBLEED",
+        "url": "https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 164341,
+      "name": "NOSEBLEED",
+      "url": "https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d"
+    },
+    {
       "added_at": "2025-05-30 04:00:37",
       "album": {
         "name": "don't hold me accountable",
@@ -183,6 +311,22 @@
       "duration_ms": 175290,
       "name": "hot shit",
       "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166873,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K"
     },
     {
       "added_at": "2025-09-05 04:57:49",
@@ -769,22 +913,6 @@
       "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
     },
     {
-      "added_at": "2025-08-29 04:01:51",
-      "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
-    },
-    {
       "added_at": "2025-02-14 05:00:41",
       "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
@@ -819,22 +947,6 @@
       "duration_ms": 146086,
       "name": "all in",
       "url": "https://open.spotify.com/track/5opwNmeshg0vKQubNjYxzL"
-    },
-    {
-      "added_at": "2025-08-29 04:01:51",
-      "album": {
-        "name": "IT'S HARD (to be a Man)",
-        "url": "https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 180267,
-      "name": "IT'S HARD (to be a Man)",
-      "url": "https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss"
     },
     {
       "added_at": "2025-08-29 04:01:51",
@@ -1163,38 +1275,6 @@
     {
       "added_at": "2025-08-08 04:35:43",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
-    },
-    {
-      "added_at": "2025-08-01 00:00:22",
-      "album": {
-        "name": "sunday morning",
-        "url": "https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 140085,
-      "name": "sunday morning",
-      "url": "https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG"
-    },
-    {
-      "added_at": "2025-08-08 04:35:43",
-      "album": {
         "name": "Drama Baby",
         "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
       },
@@ -1323,38 +1403,6 @@
     {
       "added_at": "2025-08-01 00:00:22",
       "album": {
-        "name": "Leaving You",
-        "url": "https://open.spotify.com/album/3Q0Vbawo8Ow9XJjnLHZFec"
-      },
-      "artists": [
-        {
-          "name": "Your Smith",
-          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "Leaving You",
-      "url": "https://open.spotify.com/track/3ZsQ4mt2KWgbvejith5cl0"
-    },
-    {
-      "added_at": "2025-07-18 04:30:37",
-      "album": {
-        "name": "Dance King",
-        "url": "https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 150872,
-      "name": "Dance King",
-      "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
-    },
-    {
-      "added_at": "2025-08-01 00:00:22",
-      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h"
       },
@@ -1415,22 +1463,6 @@
       "duration_ms": 146000,
       "name": "Blame On You",
       "url": "https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T"
-    },
-    {
-      "added_at": "2025-07-18 04:45:42",
-      "album": {
-        "name": "I Can Die Now",
-        "url": "https://open.spotify.com/album/6qvTtbsexSEvC5nq89Um2o"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "I Can Die Now",
-      "url": "https://open.spotify.com/track/6uHFeKZwWzGyIXlLbKi9oz"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1495,22 +1527,6 @@
       "duration_ms": 156368,
       "name": "Sugar, baby",
       "url": "https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5"
-    },
-    {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 174969,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
     },
     {
       "added_at": "2024-08-23 04:37:51",

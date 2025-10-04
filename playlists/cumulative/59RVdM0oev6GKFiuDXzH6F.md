@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-992 songs - 2 day 2 hr 45 min
+994 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Booty Call](https://open.spotify.com/track/1ImEpFe5PZFIYsN51ADoKr) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S), [Devotionz](https://open.spotify.com/artist/56Nb2MzlfcE7DGhKl7aJAL) | [Booty Call](https://open.spotify.com/album/4tq0Pftcwz3zoC5kHnulF2) | 3:20 | 2024-04-05 | 2024-04-26 |
 | [Bossy](https://open.spotify.com/track/2LymA0AbWOxhdobdlHdhUL) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Krizman Toni](https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0) | [Bossy](https://open.spotify.com/album/0UaROBpNn1QFRlg2DHd8io) | 3:09 | 2023-04-27 | 2023-12-14 |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-08-31 | 2024-09-26 |
+| [BOUNCE](https://open.spotify.com/track/2hIcjgejOVZK0CnkL7Hht1) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [BOUNCE](https://open.spotify.com/album/6U8hwDeIjBLcwOvZ2tq1WX) | 2:43 | 2025-10-03 |  |
 | [Bounded](https://open.spotify.com/track/32obiX5zfNijobb5dTXaNe) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [Bounded](https://open.spotify.com/album/1GKagAUJuYSXhVPMNDFLru) | 2:49 | 2023-02-12 | 2023-03-25 |
 | [BOX](https://open.spotify.com/track/0qeKXYXo96hfhfqqfuyyFX) | [Wouji](https://open.spotify.com/artist/5MjRV8FTofqa3tKEqpKQtA), [Ivan Lake](https://open.spotify.com/artist/5GVAjrYUO4RELi0l07UlIP) | [BOX](https://open.spotify.com/album/1m9vCQXiHsN23PMKx4ncoW) | 2:35 | 2023-05-05 | 2023-08-02 |
 | [Brand New Start](https://open.spotify.com/track/6VVzC67Vrrl6oL3mHvhcH0) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Brand New Start](https://open.spotify.com/album/3NgOnriR0hRuQS09yR6QLZ) | 2:15 | 2024-12-05 | 2025-01-09 |
@@ -643,6 +644,7 @@
 | [On My Mind](https://open.spotify.com/track/2LA8nF4ySEihNu8waWYsRT) | [Deep West](https://open.spotify.com/artist/36RMbpJsvVmrdHwWUI3nk0), [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO) | [On My Mind](https://open.spotify.com/album/05HOckqUI2XOvZPnUkC5Me) | 2:31 | 2023-11-03 | 2024-09-26 |
 | [On My Mind \(GUZ Remix\)](https://open.spotify.com/track/4RJmfNE7IlbAl2yC0VVScY) | [Deep West](https://open.spotify.com/artist/36RMbpJsvVmrdHwWUI3nk0), [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [On My Mind \(GUZ Remix\)](https://open.spotify.com/album/5HjUWSD7lmrr9Xj06ymx7W) | 2:50 | 2024-05-02 | 2024-09-26 |
 | [On My Own](https://open.spotify.com/track/2ooeOrN1FE7IN46406hI7J) | [BLVMENKIND](https://open.spotify.com/artist/3dacUo5y5mbkc0haKDTdcx), [Tom Wavy](https://open.spotify.com/artist/2dRxyWJpa4WWEr3q8RFNty) | [On My Own](https://open.spotify.com/album/17eu2Vx2OdMFOJLEbKM4RK) | 3:48 | 2024-12-05 | 2025-03-14 |
+| [On The Floor](https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [On The Floor](https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM) | 2:41 | 2025-10-03 |  |
 | [On The Floor](https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [HOLA!](https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI) | [On The Floor](https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8) | 2:08 | 2023-05-24 | 2023-08-02 |
 | [On The Floor](https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [On The Floor](https://open.spotify.com/album/18ZbDpZU7YUMgBCMokC4uL) | 2:49 | 2023-06-01 | 2023-12-14 |
 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-09-25 | 2023-12-14 |

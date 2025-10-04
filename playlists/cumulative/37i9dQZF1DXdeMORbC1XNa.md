@@ -2,9 +2,9 @@
 
 ### [The ACS](https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa)
 
-> A perfect link up to soundtrack your day\. Cover: JELEEL!, Darkoo
+> A perfect link up to soundtrack your day\. Cover: Adekunle Gold
 
-608 songs - 1 day 7 hr 34 min
+610 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Area Boyz](https://open.spotify.com/track/2YvS3NcP3j5ugDPHkYeFCX) | [C.P](https://open.spotify.com/artist/5H8q4aeFkwpLyCVT8JeUxP) | [Area Boyz](https://open.spotify.com/album/2j2MBiyqoWSS4DuY1jpaP7) | 3:33 | 2022-08-18 | 2022-09-17 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 | 2024-01-23 |
 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 | 2024-09-19 | 2024-10-11 |
-| [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-22 |  |
+| [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 | 2025-10-02 |  |
+| [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-22 | 2025-10-04 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-20 | 2023-05-15 |
 | [Bacchanal Lady](https://open.spotify.com/track/1oYRLc55gfdloCPbP4lQgD) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Bacchanal Lady](https://open.spotify.com/album/18QBT99lX9oB15YKzilm5Q) | 3:25 | 2024-12-06 | 2025-02-28 |
 | [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-20 | 2022-07-22 |
@@ -485,6 +486,7 @@
 | [Say Yeah](https://open.spotify.com/track/0IYoysINbiH6z5zgoOqft7) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Say Yeah](https://open.spotify.com/album/1FGX88Yapxv50i7Qbs1bCf) | 3:04 | 2021-12-20 | 2022-06-14 |
 | [Scripture](https://open.spotify.com/track/5mxjjwz1QzSBZL92y9Gm7N) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Scripture](https://open.spotify.com/album/43DlU7NOku21Zu2nxEIlrP) | 3:13 | 2021-12-20 | 2022-07-27 |
 | [See Through](https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Snakes & Ladders](https://open.spotify.com/album/61KrONcgww3TKrlX2qJKzV) | 3:09 | 2021-12-20 | 2022-07-19 |
+| [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 | 2025-10-02 |  |
 | [Seen It Before](https://open.spotify.com/track/4mTLZlpJvPxZEulV2H0kP4) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Seen It Before](https://open.spotify.com/album/5r6M5R2YJDvXQgrGki7ZS4) | 3:20 | 2021-12-20 | 2022-05-03 |
 | [Sekkle & Bop \(feat\. Popcaan\)](https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dre Skull](https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Sekkle & Bop](https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej) | 2:36 | 2021-12-20 | 2022-07-14 |
 | [Send Me Nudes \(feat\. Joey B\)](https://open.spotify.com/track/0eWsDRH2aTkDmjcUEntwZ5) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [The Golden Boy](https://open.spotify.com/album/2uZz2g4WqhQURaPqJuVCM9) | 2:43 | 2021-12-20 | 2022-07-18 |
@@ -572,7 +574,7 @@
 | [UnFck You](https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [UnFck You](https://open.spotify.com/album/5OKm4MYpe25NJFpMfM7kGj) | 2:40 | 2024-10-18 | 2024-12-06 |
 | [Unruly](https://open.spotify.com/track/2rwQLeDE1xRT39ORMHACjz) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ReBourne](https://open.spotify.com/album/4Y2Cla7P9zqTppJ1Xq92At) | 4:13 | 2023-08-18 | 2023-08-26 |
 | [Unruly](https://open.spotify.com/track/332LAe5CARYmQZ9PneOR2c) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Unruly](https://open.spotify.com/album/40KmIveFJGLnFIz6g8jqPR) | 3:12 | 2023-07-21 | 2023-07-22 |
-| [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-03-04 |  |
+| [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-03-04 | 2025-10-04 |
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-20 | 2022-09-17 |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-15 | 2023-07-21 |
 | [Vogue](https://open.spotify.com/track/4Fg5l5tuO0iNoEc4orRPt3) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Vogue](https://open.spotify.com/album/5AA9M5Uc8Kh4Uu5FOh4FqL) | 3:14 | 2021-12-20 | 2022-07-29 |

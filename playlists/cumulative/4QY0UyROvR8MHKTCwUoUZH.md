@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-124 songs - 6 hr 45 min
+127 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-07-18 |  |
 | [Hush \(baby\)](https://open.spotify.com/track/6l2y7qexA2OpXeveevT3Ej) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Hush \(baby\)](https://open.spotify.com/album/1mI4bjW8iRFSAjzhQnBl3q) | 3:09 | 2025-07-18 |  |
 | [Iedereen Verandert](https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Iedereen Verandert](https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc) | 2:51 | 2025-07-18 |  |
+| [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/track/6lWo19d95E0Ha9bgZIZ2zA) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/album/5n37xMf8Czh0pyFy28QAYC) | 3:37 | 2025-10-03 |  |
 | [Illusion \(feat\. Tangarine\) \- acoustic](https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Illusion \(feat\. Tangarine\) \[acoustic\]](https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr) | 3:13 | 2025-09-12 |  |
 | [In Between The Glass](https://open.spotify.com/track/2bewIDkh0QfcVoQNgRaIpB) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [In Between The Glass](https://open.spotify.com/album/35kxAAk9pr5OlJaNGhWvek) | 2:58 | 2025-07-18 |  |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2025-07-18 |  |
@@ -110,8 +111,9 @@
 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 | 2025-07-18 | 2025-09-20 |
 | [Tadow](https://open.spotify.com/track/1DoS5ql0TW3ejjJGHbsAmz) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/66q4QLWTKxEZnADbRRTnSd) | 5:01 | 2025-07-18 |  |
 | [Taking It Slowly](https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Taking It Slowly](https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc) | 2:34 | 2025-09-19 |  |
-| [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2025-07-18 |  |
-| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2025-07-18 |  |
+| [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2025-07-18 | 2025-10-04 |
+| [Tell Me Why](https://open.spotify.com/track/1GSqNxAu0EN8Iwe79arVed) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Tell Me Why](https://open.spotify.com/album/7GwD5eC55hJIarBxslZniG) | 2:23 | 2025-10-03 |  |
+| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2025-07-18 | 2025-10-04 |
 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 | 2025-09-05 |  |
 | [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-18 |  |
 | [There She Goes](https://open.spotify.com/track/17Oq7DCHIwtaFs2GuWHEr2) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [There She Goes](https://open.spotify.com/album/7tJQYF7j1H65H3HHVrXfvy) | 3:02 | 2025-09-12 |  |
@@ -123,6 +125,7 @@
 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 | 2025-09-12 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-07-18 |  |
 | [Vauxhall](https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns](https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR) | 3:22 | 2025-07-18 |  |
+| [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2025-10-03 |  |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-12 |  |
 | [what are friends for?](https://open.spotify.com/track/2w2XDOLq812JhcXe4nL2lI) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what are friends for?](https://open.spotify.com/album/1lleZ7nqFgCsP6ySrObaMn) | 2:57 | 2025-07-18 | 2025-08-16 |
 | [What’s on your mind?!](https://open.spotify.com/track/7zetTt73XEyvXy3xdq5gDs) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [What’s on your mind?!](https://open.spotify.com/album/400zMpudSCsm7wltCmspf3) | 3:38 | 2025-07-18 |  |
@@ -131,6 +134,6 @@
 | [Wish I Never Met You](https://open.spotify.com/track/0fzCczqLzsWvvMobo1dUmy) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Wish I Never Met You](https://open.spotify.com/album/0XwXdmNgdSNC3eYojBIdsk) | 2:37 | 2025-07-18 | 2025-09-06 |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2025-07-18 | 2025-08-30 |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-07-18 | 2025-09-06 |
-| [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 | 2025-07-18 |  |
+| [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 | 2025-07-18 | 2025-10-04 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

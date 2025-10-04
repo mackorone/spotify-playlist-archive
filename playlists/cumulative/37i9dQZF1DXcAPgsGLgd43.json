@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 185650,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
@@ -5391,6 +5391,28 @@
     },
     {
       "album": {
+        "name": "Lui",
+        "url": "https://open.spotify.com/album/5MFYcz6WasJsNSUKgDsTIS"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Nico Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/0TAAr7l3EmxcEe6RZzUHMx"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Lui (Original Mix)",
+      "url": "https://open.spotify.com/track/25IMPzRtaCEvpH0trpPNS4"
+    },
+    {
+      "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
       },
@@ -5626,6 +5648,24 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "album": {
+        "name": "Me Curas",
+        "url": "https://open.spotify.com/album/3O4zxLKYEXBPhwSYWWio6Y"
+      },
+      "artists": [
+        {
+          "name": "Sowel",
+          "url": "https://open.spotify.com/artist/1D10cZKX9b5ZnLc6VdeC8h"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Me Curas",
+      "url": "https://open.spotify.com/track/3hdlKmLtOsU6Yo0N60xQEm"
     },
     {
       "album": {

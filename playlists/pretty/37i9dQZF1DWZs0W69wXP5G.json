@@ -1,13 +1,49 @@
 {
-  "description": "Everything Broadway-adjacent. Cover:  Ariana Grande ",
-  "num_followers": 13749,
+  "description": "Everything Broadway-adjacent. Cover:  Jennifer Lopez",
+  "num_followers": 13761,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmboqv63I3n6EwGrO89t9LMVeKn",
+  "snapshot_id": "AAAAALa+FNQKgVx+PrW4z0uEW1bPsxnt",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Kiss of the Spider Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Tonatiuh",
+          "url": "https://open.spotify.com/artist/21sCCId36uv35Nqk72EzK2"
+        }
+      ],
+      "duration_ms": 280070,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/7xc0n2E5blIA8yeObf69uT"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "The Constant",
+        "url": "https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "The Constant",
+      "url": "https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD"
+    },
     {
       "added_at": "2025-03-03 02:52:57",
       "album": {
@@ -203,26 +239,6 @@
       "duration_ms": 319232,
       "name": "The Ballad of Phil and Phyllis",
       "url": "https://open.spotify.com/track/67oGeNgZVpIayenS004jWz"
-    },
-    {
-      "added_at": "2025-06-27 04:00:26",
-      "album": {
-        "name": "The Secret Of Life: Partners, Volume 2",
-        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        }
-      ],
-      "duration_ms": 202977,
-      "name": "Where Do I Go From You? (with Josh Groban) - from the musical, Beba's Mambo",
-      "url": "https://open.spotify.com/track/4DeOSZwYtLqRDA07gJCPib"
     },
     {
       "added_at": "2025-04-04 04:00:11",
@@ -1499,42 +1515,6 @@
       "duration_ms": 140266,
       "name": "Alyssa Greene",
       "url": "https://open.spotify.com/track/57Bd0IGmgkDMoEMGrAg6bx"
-    },
-    {
-      "added_at": "2025-03-03 02:52:57",
-      "album": {
-        "name": "Trevor (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/697pMqj7scaSg0VbWoJPh3"
-      },
-      "artists": [
-        {
-          "name": "Holden William Hagelberger",
-          "url": "https://open.spotify.com/artist/67arQSaCyn3CGBLbrWsD8P"
-        },
-        {
-          "name": "Jarrod Zimmerman",
-          "url": "https://open.spotify.com/artist/73wqz4cMfQgfanvz9aCOeO"
-        },
-        {
-          "name": "Sally Wilfert",
-          "url": "https://open.spotify.com/artist/4BAg51jG2nRh14hWH8dH3K"
-        },
-        {
-          "name": "Yasmeen Sulieman",
-          "url": "https://open.spotify.com/artist/7bT3gA8kbu36H45y3AHJMr"
-        },
-        {
-          "name": "Alyssa Emily Marvin",
-          "url": "https://open.spotify.com/artist/2VcImZ2KaD41bNgL74hXKp"
-        },
-        {
-          "name": "Trevor Original Cast Recording Company",
-          "url": "https://open.spotify.com/artist/6uiFqrOVKTJGMj2SYhAMKo"
-        }
-      ],
-      "duration_ms": 297896,
-      "name": "On With the Show",
-      "url": "https://open.spotify.com/track/17hoHWF02vMasn0iWhOKSY"
     },
     {
       "added_at": "2025-03-03 02:52:57",

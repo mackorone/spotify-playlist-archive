@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,178 likes - 79 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,189 likes - 79 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 | 73 | [【 第10回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【鬼頭明里＆坂田将吾】](https://open.spotify.com/episode/4C6NUqqZ6zFkAcScqciGsN) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 49:48 |
 | 74 | [【 第11回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【上田麗奈＆梶裕貴】](https://open.spotify.com/episode/7b1qmo9JYONGzrESHtGMVZ) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 54:11 |
 | 75 | [【 第12回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【鬼頭明里＆TOMOO】](https://open.spotify.com/episode/0fTP0xNR6qi34a71QtqChN) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 50:08 |
-| 76 | [\#1【アオのハコ】  千葉翔也×上田麗奈 「千夏を演じる上で気を付けたことは、“品”と“儚さ”を消すこと！」](https://open.spotify.com/episode/4XxfdNa2UfFzS4hi8lJzfl) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 36:34 |
-| 77 | [\#2【アオのハコ】  千葉翔也×上田麗奈 「あれ、私って邪魔かな〜！？」](https://open.spotify.com/episode/0cKehq224mCp8hbj27sZrm) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 37:38 |
-| 78 | [\#3【アオのハコ】  千葉翔也×鬼頭明里 「愛のあるいじりって思いながら、演じています！」](https://open.spotify.com/episode/7mX9pQOodLMhxp8vl03pQu) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:26 |
-| 79 | [\#4【アオのハコ】  千葉翔也×鬼頭明里 「第４話は“ぶっ飛んだ非日常”ですよ！！」](https://open.spotify.com/episode/4kSBxktB7rXBUJtbHibM3k) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 32:47 |
+| 76 | [\#1【アオのハコ】  千葉翔也×上田麗奈 「千夏を演じる上で気を付けたことは、“品”と“儚さ”を消すこと！」](https://open.spotify.com/episode/4XxfdNa2UfFzS4hi8lJzfl) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 36:34 |
+| 77 | [\#2【アオのハコ】  千葉翔也×上田麗奈 「あれ、私って邪魔かな〜！？」](https://open.spotify.com/episode/0cKehq224mCp8hbj27sZrm) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 37:38 |
+| 78 | [\#3【アオのハコ】  千葉翔也×鬼頭明里 「愛のあるいじりって思いながら、演じています！」](https://open.spotify.com/episode/7mX9pQOodLMhxp8vl03pQu) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:26 |
+| 79 | [\#4【アオのハコ】  千葉翔也×鬼頭明里 「第４話は“ぶっ飛んだ非日常”ですよ！！」](https://open.spotify.com/episode/4kSBxktB7rXBUJtbHibM3k) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 32:47 |
 
 Snapshot ID: `AAAAAPMnqv7BIlPMc0ImlJQTA4fAuKGQ`

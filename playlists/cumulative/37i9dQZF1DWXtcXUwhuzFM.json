@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Uutta musaa tarjoilevat JVG,  Aliisa Syrj\u00e4, Pyzze, Juhani Haukkala, Matriarkaatti ja moni muu  \u2013 mukana my\u00f6s uunituoreet Vain el\u00e4m\u00e4\u00e4 -biisit! \ud83c\udfb6",
+  "description": "Uutta musaa tarjoilevat JVG,  Taylor Swift, Aliisa Syrj\u00e4, Pyzze, Juhani Haukkala, Matriarkaatti ja moni muu  \u2013 mukana my\u00f6s uunituoreet Vain el\u00e4m\u00e4\u00e4 -biisit! \ud83c\udfb6",
   "name": "New Music Friday Suomi",
   "tracks": [
     {
@@ -3108,6 +3108,28 @@
       "duration_ms": 188040,
       "name": "Ache In My Heart",
       "url": "https://open.spotify.com/track/6a2tRke4g8upaxXAMOWN1H"
+    },
+    {
+      "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T"
     },
     {
       "album": {
@@ -6385,8 +6407,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
       "artists": [
         {
@@ -26021,7 +26043,7 @@
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221548,
+      "duration_ms": 221826,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
@@ -37924,6 +37946,28 @@
       "duration_ms": 209182,
       "name": "FEELINGS ON SILENT (feat. Wale)",
       "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+    },
+    {
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/1eqPrXwT0ugaqadSA8IBkb"
+      },
+      "artists": [
+        {
+          "name": "When Saints Go Machine",
+          "url": "https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf"
+        },
+        {
+          "name": "JEURU",
+          "url": "https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157060,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/6sBjyC6t2aHhfgJmcXP9MU"
     },
     {
       "album": {
@@ -87577,8 +87621,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "We Should Be Buried Like This",
+        "url": "https://open.spotify.com/album/0g62eTQQ85HplDFqLdMlF3"
       },
       "artists": [
         {
@@ -99413,6 +99457,24 @@
     },
     {
       "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202815,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5YaqJCqLlorruoLGQAioL7"
       },
@@ -99790,6 +99852,24 @@
       "duration_ms": 167941,
       "name": "Oot fine",
       "url": "https://open.spotify.com/track/6I9f8FOhPaCSugTuogvTPc"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
     },
     {
       "album": {
@@ -105889,8 +105969,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Earthday",
+        "url": "https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm"
       },
       "artists": [
         {
@@ -134147,6 +134227,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/1Fc7Ls9S03D2NSbCKCAxlr"
       },
@@ -139711,64 +139809,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "When Saints Go Machine",
-          "url": "https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf"
-        },
-        {
-          "name": "JEURU",
-          "url": "https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6sBjyC6t2aHhfgJmcXP9MU"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 15",
-      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2kyngSsWvKzqIWRsOoL9qA"
-    },
-    {
-      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -140207,8 +140247,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bby's Corner",
+        "url": "https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr"
       },
       "artists": [
         {
@@ -142009,8 +142049,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Two Souls",
+        "url": "https://open.spotify.com/album/7MNeYlsgiVUrQIdLi2fK63"
       },
       "artists": [
         {
@@ -149749,8 +149789,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
       "artists": [
         {
@@ -150108,6 +150148,24 @@
       "duration_ms": 153333,
       "name": "War With Myself",
       "url": "https://open.spotify.com/track/0TKumGsVN4iexcH1r8eC8b"
+    },
+    {
+      "album": {
+        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182278,
+      "name": "WARCRY",
+      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
       "album": {
@@ -152719,8 +152777,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Where Would I Be?",
+        "url": "https://open.spotify.com/album/472yPc1YwUpA2EAC03zz7m"
       },
       "artists": [
         {
@@ -153611,8 +153669,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
@@ -154836,6 +154894,24 @@
       "duration_ms": 177875,
       "name": "Wondering",
       "url": "https://open.spotify.com/track/7ixrhaISHqN5I9H98uRDcS"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251024,
+      "name": "Wonderwall (Unplugged)",
+      "url": "https://open.spotify.com/track/2kyngSsWvKzqIWRsOoL9qA"
     },
     {
       "album": {
@@ -157163,7 +157239,7 @@
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 216521,
+      "duration_ms": 219130,
       "name": "you're a star",
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },

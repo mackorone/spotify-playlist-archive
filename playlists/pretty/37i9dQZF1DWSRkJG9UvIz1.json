@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 136438,
+  "num_followers": 136363,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Sujeito Homem 2",
         "url": "https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 435141,
       "name": "Rap du Bom Parte II - M\u00fas. Incid.: Odara",
       "url": "https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 130955,
-      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -387,22 +387,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Colour",
-        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sway Clarke",
-          "url": "https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 155934,
-      "name": "Sweetie Odo",
-      "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -423,18 +419,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
       },
       "artists": [
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sway Clarke",
+          "url": "https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+      "duration_ms": 155934,
+      "name": "Sweetie Odo",
+      "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/3mpg1ZOhAKbrRDefOmm0eQ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 172794,
       "name": "+1 Minuto",
       "url": "https://open.spotify.com/track/1lrWEcbSH1cspHmGq80pQ6"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM"
     },
     {
       "added_at": "2023-06-23 03:00:00",

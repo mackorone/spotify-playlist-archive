@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "With The Lights Out - Box Set",
+        "url": "https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259240,
+      "name": "Old Age - Nevermind Outtake",
+      "url": "https://open.spotify.com/track/4lkG5xoXvOByRaWaWxdQWZ"
+    },
+    {
+      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },

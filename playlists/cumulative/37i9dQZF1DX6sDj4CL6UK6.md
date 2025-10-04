@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Ramya Pothuri
+> English songs from Indian artists<br/>Cover: Jeremiah de Rozario
 
-348 songs - 20 hr 4 min
+349 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Beautiful Day](https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Beautiful Day](https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I) | 3:36 | 2022-03-25 | 2022-06-30 |
 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 | 2023-07-10 |  |
 | [Believe](https://open.spotify.com/track/0HVGQkCRvHXMPep4s59qfm) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Believe](https://open.spotify.com/album/4PAchG7DoFJpjdKR0uKi61) | 4:07 | 2022-07-29 | 2023-01-13 |
+| [Believer's Curse](https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Believer's Curse](https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT) | 2:36 | 2025-10-03 |  |
 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 | 2024-11-22 |  |
 | [Beyond What's Here](https://open.spotify.com/track/0sk83k1h8DrcrfQ2ywqaop) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Beyond What's Here](https://open.spotify.com/album/4wzDjUmScSBrZRkDkLxrY2) | 5:34 | 2024-11-22 |  |
 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 | 2024-12-06 | 2025-02-05 |
@@ -220,7 +221,7 @@
 | [Move On Easily](https://open.spotify.com/track/6ElUtgbpiJwI78vjyEaHfo) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Move On Easily](https://open.spotify.com/album/1TDsEMuoijSkiP8iy8jlG0) | 3:09 | 2024-09-13 | 2024-11-23 |
 | [Mustard Yellow](https://open.spotify.com/track/2lY8B9x9JyQI6SVyp9OdtL) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Mustard Yellow](https://open.spotify.com/album/7BECaIEpCKN0iFmnm8KxWp) | 4:04 | 2022-03-25 | 2022-05-26 |
 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 | 2022-03-25 | 2024-08-23 |
-| [my favourite](https://open.spotify.com/track/102PEuDmoFXqWEidrH9uA1) | [Tarang Joseph](https://open.spotify.com/artist/76Qn1AJEps9AcUgwIOHplM) | [liquid sunshine](https://open.spotify.com/album/0vdnqD6CHdmIpYMw9XxbSR) | 3:52 | 2024-11-22 |  |
+| [my favourite](https://open.spotify.com/track/102PEuDmoFXqWEidrH9uA1) | [Tarang Joseph](https://open.spotify.com/artist/76Qn1AJEps9AcUgwIOHplM) | [liquid sunshine](https://open.spotify.com/album/0vdnqD6CHdmIpYMw9XxbSR) | 3:52 | 2024-11-22 | 2025-10-04 |
 | [My Last Cigarette](https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [My Last Cigarette](https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0) | 4:37 | 2025-08-29 |  |
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 | 2023-01-13 |
 | [Never Too Far](https://open.spotify.com/track/22oPuQf99VwEEfaaSYxeSM) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Never Too Far](https://open.spotify.com/album/1QIaH463YykeWPEXofTY9V) | 5:50 | 2024-05-14 | 2024-11-23 |
@@ -270,7 +271,7 @@
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2022-03-25 | 2024-08-23 |
 | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-12 |  |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 | 2024-06-22 |
-| [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 | 2025-09-26 | 2025-10-02 |
+| [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 | 2025-09-26 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-03-22 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |
 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |

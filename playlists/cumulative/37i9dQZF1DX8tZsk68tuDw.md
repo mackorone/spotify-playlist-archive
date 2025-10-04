@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Miss Monique & Poppy Baskcomb
+> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with MPH
 
 3,647 songs - 8 day 17 hr 24 min
 

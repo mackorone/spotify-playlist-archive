@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Alfa Mist
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,585 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,628 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [](https://open.spotify.com/album/null) | 3:28 |
+| 1 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Roulette](https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME) | 3:28 |
 | 2 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [Open Up Your Senses](https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako) | 4:15 |
 | 3 | [Something Like Us](https://open.spotify.com/track/2bn5IOHbNKMRQVV0zenExX) | [Drama On The Corner](https://open.spotify.com/artist/6XBJYN9tC4KT16mwp5cKbn), [Ladybird](https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ) | [Orixa](https://open.spotify.com/album/7042Algr0HXppsO22lydEp) | 4:52 |
 | 4 | [Winter in America \- 12" Version](https://open.spotify.com/track/58uRFOHOP3rnOgMqGnou91) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Rich Medina](https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF) | [Winter in America \(12" Version\)](https://open.spotify.com/album/6wDc9Iabl7Wn3j6QmYrols) | 8:58 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: SYD",
+  "description": "Chill r&b. Cover: Isaiah Falls & Alex Isley",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 131833,
       "name": "act x: n da mornin",
       "url": "https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO"
@@ -4198,6 +4198,24 @@
       "duration_ms": 247546,
       "name": "Caught Up (feat. Khalid)",
       "url": "https://open.spotify.com/track/1opARDDYaOeE1QUdwXmBGu"
+    },
+    {
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/5nkZ3TE31QPAIoTkqNAn1c"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174371,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS"
     },
     {
       "album": {
@@ -10251,6 +10269,24 @@
     },
     {
       "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207762,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
+    },
+    {
+      "album": {
         "name": "Head in a Jar",
         "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
       },
@@ -11266,6 +11302,24 @@
       "duration_ms": 194700,
       "name": "I Love Lucy",
       "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
+    },
+    {
+      "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
     },
     {
       "album": {
@@ -12505,6 +12559,28 @@
     },
     {
       "album": {
+        "name": "JUST A DREAM",
+        "url": "https://open.spotify.com/album/6HxNmblyLP8Z7QW8Ic2VCr"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "JUST A DREAM",
+      "url": "https://open.spotify.com/track/1NPHrkT18ZXgM4Mq0wGjDH"
+    },
+    {
+      "album": {
         "name": "Chekhov's Gun",
         "url": "https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG"
       },
@@ -12564,6 +12640,24 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "album": {
@@ -13502,6 +13596,24 @@
       "duration_ms": 213225,
       "name": "Lil Boi (Big Talk) [feat. Queen Naija]",
       "url": "https://open.spotify.com/track/5IIMLw6SPHB0q36twd6ZoG"
+    },
+    {
+      "album": {
+        "name": "SOULSTAR",
+        "url": "https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/6p22RzCyan2i6nyM0LmFoL"
     },
     {
       "album": {
@@ -18010,7 +18122,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
@@ -18716,6 +18828,28 @@
       "duration_ms": 193279,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
+    },
+    {
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
       "album": {
@@ -22063,6 +22197,24 @@
     },
     {
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204308,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
+    },
+    {
+      "album": {
         "name": "The Breeze Grew a Fire",
         "url": "https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g"
       },
@@ -22074,7 +22226,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 186693,
       "name": "Starlight (my baby)",
       "url": "https://open.spotify.com/track/6UqhHql1s4t1drqyDuXvRf"
@@ -23980,6 +24132,24 @@
       "duration_ms": 134409,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/1oyyNeFYVaKDsopNzMrRui"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123770,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
     },
     {
       "album": {

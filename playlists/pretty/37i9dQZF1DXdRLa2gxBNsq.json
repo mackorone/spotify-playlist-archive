@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: LUCY.",
-  "num_followers": 112798,
+  "num_followers": 112793,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
+        "name": "XX5",
+        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 190801,
+      "name": "Otra noche - XX5",
+      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
         "name": "Aquel Verano del 86",
         "url": "https://open.spotify.com/album/797wsnhR4QQS6ZL3tHyT8j"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 151160,
       "name": "Aquel Verano del 86",
       "url": "https://open.spotify.com/track/6B5eoVR1bvpo7vrkbnPYXj"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
-        "name": "XX5",
-        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
-      },
-      "artists": [
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
-        }
-      ],
-      "duration_ms": 190801,
-      "name": "Otra noche - XX5",
-      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
         "name": "Hawai",
         "url": "https://open.spotify.com/album/1J5DJeQpsKX8JWh0I8ocRw"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 118170,
       "name": "Pesadilla Adulta",
       "url": "https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Ya Estoy Muerto",
-        "url": "https://open.spotify.com/album/4y7bbLYsC53jnibdfthGCA"
+        "name": "Cicatriz en la Matrix",
+        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
       "artists": [
         {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
         }
       ],
-      "duration_ms": 132939,
-      "name": "Ya Estoy Muerto",
-      "url": "https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV"
+      "duration_ms": 118986,
+      "name": "Tenemos a la Pasma",
+      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -819,18 +819,38 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Cicatriz en la Matrix",
-        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
+        "name": "La Culpa Fue de la Ciudad (Versi\u00f3n 2025)",
+        "url": "https://open.spotify.com/album/5XfrbP6MEmLa8mMQgjUGqr"
       },
       "artists": [
         {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+          "name": "Sonotones",
+          "url": "https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU"
+        },
+        {
+          "name": "Porretas",
+          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
         }
       ],
-      "duration_ms": 118986,
-      "name": "Tenemos a la Pasma",
-      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+      "duration_ms": 208000,
+      "name": "La Culpa Fue de la Ciudad - Versi\u00f3n 2025",
+      "url": "https://open.spotify.com/track/2ETlDdGyeyicTUVJD3ZNtW"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
+        "name": "Ya Estoy Muerto",
+        "url": "https://open.spotify.com/album/4y7bbLYsC53jnibdfthGCA"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 132939,
+      "name": "Ya Estoy Muerto",
+      "url": "https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -871,26 +891,6 @@
       "duration_ms": 217466,
       "name": "Corona de espinas",
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
-        "name": "La Culpa Fue de la Ciudad (Versi\u00f3n 2025)",
-        "url": "https://open.spotify.com/album/5XfrbP6MEmLa8mMQgjUGqr"
-      },
-      "artists": [
-        {
-          "name": "Sonotones",
-          "url": "https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU"
-        },
-        {
-          "name": "Porretas",
-          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "La Culpa Fue de la Ciudad - Versi\u00f3n 2025",
-      "url": "https://open.spotify.com/track/2ETlDdGyeyicTUVJD3ZNtW"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
         "name": "Antifascismo",
         "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 260127,
       "name": "Antifascismo",
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
         "name": "Amar Mata (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Profetas",
-        "url": "https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8"
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
       "artists": [
         {
-          "name": "Fatiga",
-          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
         }
       ],
-      "duration_ms": 178050,
-      "name": "Profetas",
-      "url": "https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm"
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -1243,6 +1227,22 @@
       "duration_ms": 157280,
       "name": "Las 13:12",
       "url": "https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
+        "name": "Profetas",
+        "url": "https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8"
+      },
+      "artists": [
+        {
+          "name": "Fatiga",
+          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "Profetas",
+      "url": "https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
         "name": "Combats d'Autoesgrima",
         "url": "https://open.spotify.com/album/4PfYDZXaNXMQTkinm1v1zv"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2025-10-02 22:01:28",
       "album": {
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
         "name": "Ciudadano periodista",
         "url": "https://open.spotify.com/album/2FPJXNXLpush0YMcUVVpJw"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 176093,
       "name": "Ciudadano periodista",
       "url": "https://open.spotify.com/track/74GxS1s5mX7DRRD3CdOMk3"
+    },
+    {
+      "added_at": "2025-10-02 22:01:28",
+      "album": {
+        "name": "Psiqui\u00e1trico",
+        "url": "https://open.spotify.com/album/5Etn03o0XEIrR2MrObJ4cm"
+      },
+      "artists": [
+        {
+          "name": "Wini De Spiz",
+          "url": "https://open.spotify.com/artist/5ZZVHQA8eZ8N7p1i2xrBaD"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Psiqui\u00e1trico",
+      "url": "https://open.spotify.com/track/2zjzLeLtlfaWp1ALnLGxUN"
     },
     {
       "added_at": "2025-10-02 22:01:28",
@@ -1403,22 +1419,6 @@
       "duration_ms": 226269,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2sbtfc1GISmqYzEBBA2Qa9"
-    },
-    {
-      "added_at": "2025-10-02 22:01:28",
-      "album": {
-        "name": "Psiqui\u00e1trico",
-        "url": "https://open.spotify.com/album/5Etn03o0XEIrR2MrObJ4cm"
-      },
-      "artists": [
-        {
-          "name": "Wini De Spiz",
-          "url": "https://open.spotify.com/artist/5ZZVHQA8eZ8N7p1i2xrBaD"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Psiqui\u00e1trico",
-      "url": "https://open.spotify.com/track/2zjzLeLtlfaWp1ALnLGxUN"
     },
     {
       "added_at": "2025-10-02 22:01:28",

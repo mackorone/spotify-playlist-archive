@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Peking Duk, Drax Project & Kita Alexander
 
-3,505 songs - 8 day 0 hr 18 min
+3,506 songs - 8 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2038,6 +2038,7 @@
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 | 2023-10-20 |
 | [Most Precious Love](https://open.spotify.com/track/0BitoyjzQUhV0C5aqAh7cZ) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Most Precious Love](https://open.spotify.com/album/4KfgqybFwGuHk7h7OjfxnM) | 3:04 | 2025-02-20 | 2025-03-21 |
 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 | 2023-10-12 | 2023-11-03 |
+| [Moth To A Flame](https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht) | 3:10 | 2025-10-02 |  |
 | [MOTHER MOTHER](https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [MOTHER MOTHER](https://open.spotify.com/album/6DUzFIfQTbQErtzzfcJaac) | 7:34 | 2023-08-24 | 2023-08-26 |
 | [Mother Mother \- Kid Fonque Remix](https://open.spotify.com/track/7G7xHPt5xgQvDsSHg21k5d) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Mother Mother \(Kid Fonque Remix\)](https://open.spotify.com/album/0knvAth0eiQhxyTRgfXnnq) | 7:34 | 2023-08-24 | 2023-09-08 |
 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 | 2023-06-01 | 2023-06-30 |

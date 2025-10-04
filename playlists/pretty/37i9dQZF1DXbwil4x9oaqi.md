@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain]
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[EASY CRAZY HOT\] LIVE SET including the voices of them on stage! \(LE SSERAFIM의 무대 멘트와 목소리가 포함된 \[EASY CRAZY HOT\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,653 likes - 36 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,650 likes - 36 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

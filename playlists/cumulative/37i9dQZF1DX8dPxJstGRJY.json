@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Live at the Valley of the Temples",
+        "url": "https://open.spotify.com/album/5EBWdvHvDzQOp1v2ZNXy4h"
+      },
+      "artists": [
+        {
+          "name": "Il Volo",
+          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229453,
+      "name": "O Sole Mio - Live at the Valley of the Temples",
+      "url": "https://open.spotify.com/track/1O9q3jEKxecE9GbUiLu9wp"
+    },
+    {
+      "album": {
         "name": "All Angels",
         "url": "https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT"
       },

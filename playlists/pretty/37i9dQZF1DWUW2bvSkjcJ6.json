@@ -1,13 +1,29 @@
 {
-  "description": "Neue Musik von MERO, Montez und mehr!",
-  "num_followers": 884290,
+  "description": "Neue Musik von Taylor Swift, MERO, Montez und mehr!",
+  "num_followers": 885887,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLz6T86bebyFv0xY8DiUNTDzHbS",
+  "snapshot_id": "AAAAAG8dwfswPNEUj0ucjMASskW7lKKA",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
@@ -73,10 +89,26 @@
       "url": "https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw"
     },
     {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
+    },
+    {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "orange (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ"
       },
       "artists": [
         {
@@ -92,8 +124,8 @@
           "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 13",
+      "duration_ms": 141230,
+      "name": "Baltimore (feat. Trettmann)",
       "url": "https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb"
     },
     {
@@ -201,6 +233,22 @@
       "url": "https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu"
     },
     {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Father Figure",
+      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
+    },
+    {
       "added_at": "2025-10-02 22:00:35",
       "album": {
         "name": "Theater \ud83c\udfad",
@@ -303,8 +351,8 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Backup '25",
+        "url": "https://open.spotify.com/album/1jD7rC3RAV2O4SARc3I6sW"
       },
       "artists": [
         {
@@ -359,8 +407,8 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
       "artists": [
         {
@@ -436,7 +484,7 @@
           "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 216521,
+      "duration_ms": 219130,
       "name": "you're a star",
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
@@ -743,8 +791,8 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Lan Juks",
+        "url": "https://open.spotify.com/album/0klT8YByGZWGge1huzyW5X"
       },
       "artists": [
         {
@@ -863,8 +911,8 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "About the Fox and a Tiger",
+        "url": "https://open.spotify.com/album/2jyPMzpXk0PPcjCaPmmND8"
       },
       "artists": [
         {
@@ -872,8 +920,8 @@
           "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 350590,
+      "name": "About the Fox and a Tiger",
       "url": "https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0"
     },
     {
@@ -1003,8 +1051,8 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
       },
       "artists": [
         {
@@ -1012,8 +1060,8 @@
           "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 15",
+      "duration_ms": 182278,
+      "name": "WARCRY",
       "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
@@ -1085,6 +1133,22 @@
       "url": "https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa"
     },
     {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/4xQTX4MDQWj7lpEs59nc8F"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw"
+        }
+      ],
+      "duration_ms": 143189,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/1dHbSsE0gSyU7mo82K2TEQ"
+    },
+    {
       "added_at": "2025-10-02 22:00:35",
       "album": {
         "name": "hair dye",
@@ -1135,6 +1199,22 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 202815,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
+    },
+    {
+      "added_at": "2025-10-02 22:00:35",
+      "album": {
         "name": "wo sonst",
         "url": "https://open.spotify.com/album/0gxlX7hyGHmBPeLLCIiwhV"
       },
@@ -1163,6 +1243,22 @@
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Anlehnen",
+        "url": "https://open.spotify.com/album/6aMShdKE0qI3uvTvqwljpL"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "duration_ms": 131858,
+      "name": "Kleiner Herbst",
+      "url": "https://open.spotify.com/track/3M4X1K2aZlY43ahioolPkV"
     },
     {
       "added_at": "2025-10-02 22:00:35",
@@ -1231,8 +1327,8 @@
     {
       "added_at": "2025-10-02 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
       "artists": [
         {

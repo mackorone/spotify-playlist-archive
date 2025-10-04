@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Izzy Escobar\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,289 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,310 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 65 | [Chic](https://open.spotify.com/track/2FfWe4bCCBxLJa111E6GNI) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Keep It Chic](https://open.spotify.com/album/3wotas98423uIAgzaKLHJk) | 3:31 |
 | 66 | [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 |
 | 67 | [Story](https://open.spotify.com/track/0wzJgqkMPrsvKTEZdCa1Kp) | [Coria](https://open.spotify.com/artist/4wdtB6s3W9H46b7ESavill) | [Story](https://open.spotify.com/album/2MVmqLta2bgx5KPITqhQYX) | 3:14 |
-| 68 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [Leah Dong](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
+| 68 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
 | 69 | [pool house](https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [pool house](https://open.spotify.com/album/0OzhXqnN3ycNAzPGJTK7uk) | 3:32 |
 | 70 | [I Want You to Stay](https://open.spotify.com/track/3sxKYeiKLOJF7LZDuXkINr) | [Lillimure](https://open.spotify.com/artist/4nn9ivW8DtP3uYYic9Tsjs) | [I Want You to Stay](https://open.spotify.com/album/2BHAdVwHYTnnTwixuPxURF) | 3:35 |
 | 71 | [Who I've Been](https://open.spotify.com/track/4sL7wZTCXvxK075MiMopjk) | [Caroline Quinn](https://open.spotify.com/artist/5Y0muXMkSFnDw4eMguwGo4) | [The End of May](https://open.spotify.com/album/0Oca1Oe5Vo5KXf8nevlsjk) | 4:46 |

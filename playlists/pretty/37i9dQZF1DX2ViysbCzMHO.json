@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 174583,
+  "num_followers": 174588,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Rollin' Stone (Piano Version)",
-        "url": "https://open.spotify.com/album/7awUV0bXWwwla9GrLnTyUl"
-      },
-      "artists": [
-        {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
-        }
-      ],
-      "duration_ms": 164375,
-      "name": "Rollin' Stone - Piano Version",
-      "url": "https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Rollin' Stone (Piano Version)",
+        "url": "https://open.spotify.com/album/7awUV0bXWwwla9GrLnTyUl"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 164375,
+      "name": "Rollin' Stone - Piano Version",
+      "url": "https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Going, Going, Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Going, Going, Gone - Acoustic",
-      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Rock and A Hard Place (Acoustic)",
         "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 207540,
       "name": "Rock and A Hard Place - Acoustic",
       "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Going, Going, Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Going, Going, Gone - Acoustic",
+      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Pack My Hometown",
-        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "Eli Winders",
-          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 191615,
-      "name": "Pack My Hometown",
-      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Pack My Hometown",
+        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+      },
+      "artists": [
+        {
+          "name": "Eli Winders",
+          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Pack My Hometown",
+      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Girl On Fire (Acoustic)",
         "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 188709,
       "name": "Girl On Fire - Acoustic",
       "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Dance With You (Acoustic)",
-        "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 190235,
-      "name": "Dance With You - Acoustic",
-      "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Dance With You (Acoustic)",
+        "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 190235,
+      "name": "Dance With You - Acoustic",
+      "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "One Percent (Acoustic)",
         "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Little More Be Alright",
         "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "This Town's Been Too Good To Us (Stripped)",
-        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
+        "name": "Secret (Gravel Drive Sounds)",
+        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 189066,
-      "name": "This Town's Been Too Good To Us (Stripped)",
-      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
+      "duration_ms": 225240,
+      "name": "Secret - Gravel Drive Sounds",
+      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+        "name": "This Town's Been Too Good To Us (Stripped)",
+        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
       },
       "artists": [
         {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+      "duration_ms": 189066,
+      "name": "This Town's Been Too Good To Us (Stripped)",
+      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1099,22 +1115,6 @@
       "duration_ms": 200506,
       "name": "You Don't Want That Smoke. - The Acoustic Version.",
       "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Secret (Gravel Drive Sounds)",
-        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Secret - Gravel Drive Sounds",
-      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1235,18 +1235,34 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
       },
       "artists": [
         {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         }
       ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Trouble (Piano Version)",
         "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
         "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 184400,
       "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
       "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "I Don't Wanna Go To Heaven (Choir Version)",
-        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
+        "name": "Drive You Out Of My Mind (Dark Room Edition)",
+        "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 205305,
-      "name": "I Don't Wanna Go To Heaven - Choir Version",
-      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
+      "duration_ms": 234310,
+      "name": "Drive You Out Of My Mind - Dark Room Edition",
+      "url": "https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D"
     }
   ],
   "unique_name": "Nashville Stripped",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,257 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,260 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [MC FAEL](https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H), [NK da Grota](https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7) | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw) | 4:08 |
 | 60 | [Sem Moderação](https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO) | [Meia1](https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK) | [Sem Moderação](https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ) | 2:13 |
 
-Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`
+Snapshot ID: `AAAAADIBtq9m4P1WPALnXGqJaf7qGYGq`

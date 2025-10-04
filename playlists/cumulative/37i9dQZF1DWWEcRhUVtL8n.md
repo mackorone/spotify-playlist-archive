@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lola Young
 
-2,205 songs - 4 day 21 hr 0 min
+2,207 songs - 4 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [2lovely](https://open.spotify.com/track/5E0yYdXdw4Lp8ffTA0KqEX) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [2lovely](https://open.spotify.com/album/44T9VnAR20oFiq4BvMzgzE) | 3:04 | 2021-02-24 | 2021-05-21 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2024-05-18 |
 | [4runner](https://open.spotify.com/track/6k0eaZimYD82ZfYXxg9s9E) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [4runner](https://open.spotify.com/album/3AUr3X0sPqg83RcXi0OwqF) | 4:08 | 2021-01-12 | 2022-04-12 |
+| [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-10-03 |  |
 | [5](https://open.spotify.com/track/2uhsLVdlg8eRs62cg0Ilm7) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [5](https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8) | 4:03 | 2020-10-13\* | 2021-05-23 |
 | [50 Watt Smile](https://open.spotify.com/track/5f81pQyLnnfD16MLNfugVI) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [50 Watt Smile](https://open.spotify.com/album/4DZBHIDhE9jZqrHJZFDvM8) | 3:22 | 2021-02-24 | 2021-06-03 |
 | [5150](https://open.spotify.com/track/3fVFdHNPDYIOfo6QwUX6qj) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [5150](https://open.spotify.com/album/3pUOK7VN8Qg83S1P4WihM0) | 3:09 | 2021-01-16 | 2021-06-03 |
@@ -1315,7 +1316,7 @@
 | [MORE](https://open.spotify.com/track/0mcuJuWKJOEatt3H4lefPt) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [MORE](https://open.spotify.com/album/2A54m1vVLpNSQFGNoqOI3r) | 2:39 | 2021-10-12 | 2021-10-16 |
 | [MORE](https://open.spotify.com/track/2d1jvQu885eJhUCg8EwlMs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [MORE](https://open.spotify.com/album/4fiHtJjMCna9G98rkUN68E) | 2:39 | 2021-03-06 | 2021-05-22 |
 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 | 2021-07-19 | 2022-08-06 |
-| [Mothers of Riches](https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Michelangelo Dying](https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho) | 4:34 | 2025-09-26 |  |
+| [Mothers of Riches](https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Michelangelo Dying](https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho) | 4:34 | 2025-09-26 | 2025-10-04 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-08-03 |
 | [Mott St](https://open.spotify.com/track/1ugYh6CIplawB33fSVYHUe) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/2gOQsfe1uva5AhY6KppuvH) | 2:55 | 2022-01-21 | 2022-04-23 |
 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-28 | 2025-04-05 |
@@ -1935,6 +1936,7 @@
 | [telly](https://open.spotify.com/track/01YqF3Nhfu3nsiQnZONpqT) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [telly](https://open.spotify.com/album/2ANxpNOc4tI3yi8baY5q8J) | 2:14 | 2021-05-10 | 2021-06-04 |
 | [Tension](https://open.spotify.com/track/7iw7EB3awZl7xbXgAdKqQi) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Planetarium](https://open.spotify.com/album/0aw1n752bWwLLwwv5daGfG) | 2:53 | 2021-05-11 | 2021-10-14 |
 | [Tequila & Lemonade](https://open.spotify.com/track/4rjF36rbNb7V7JG44FjJYI) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Tequila & Lemonade](https://open.spotify.com/album/64CXXqfAeThj5C3DRqYCot) | 3:41 | 2020-10-16 | 2020-11-15 |
+| [terrible4u](https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [terrible4u](https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn) | 3:18 | 2025-10-03 |  |
 | [TESSELLATE](https://open.spotify.com/track/7cD5QLy657vZnf4fAtK622) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [TESSELLATE](https://open.spotify.com/album/5WkeI79ASFJb7GEzCOeD79) | 4:14 | 2021-02-22 | 2021-03-23 |
 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 | 2024-05-26 |
 | [texas summer](https://open.spotify.com/track/1LgS7KOi9ks0aup9O8JGSR) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [jackson lee morgan](https://open.spotify.com/artist/7B0upFhefvU2PuUCJBXBCz) | [texas summer](https://open.spotify.com/album/2djUQUYroAXdOL4T99mNrL) | 2:50 | 2020-11-13 | 2021-01-15 |
@@ -1998,7 +2000,7 @@
 | [through the looking glass](https://open.spotify.com/track/5gNFiKtsghTvymDRaaPL0J) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 3:28 | 2021-09-10 | 2022-04-15 |
 | [Throw It In The Fire](https://open.spotify.com/track/6R8Y7KP9l1wmD5TLnXIrDJ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [But I'll Wait For You](https://open.spotify.com/album/7xf10YYeWq7g1sdqCD36Qv) | 3:50 | 2024-04-19 | 2024-06-15 |
 | [Throw me out a window](https://open.spotify.com/track/6dXRZeiUDfq3znjy7IzbhN) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [Throw me out a window](https://open.spotify.com/album/14BUqv2KfDxKGL3fSGQp7S) | 2:26 | 2022-07-22 | 2022-07-24 |
-| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-19 |  |
+| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-19 | 2025-10-04 |
 | [Til U Hate Me](https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Til U Hate Me](https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt) | 3:19 | 2023-04-18 | 2024-01-13 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 | 2022-07-23 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-28 | 2024-10-12 |

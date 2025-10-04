@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Kybba ✨
 
-1,525 songs - 2 day 19 hr 51 min
+1,525 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1163,6 +1163,7 @@
 | [Round o Clock](https://open.spotify.com/track/1VndDGSzH4NjYq6rHKoGPE) | [Kya](https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr), [Shockman](https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss), [Young Kenna](https://open.spotify.com/artist/5QoSznhAca8PkGBTsqbB56) | [Round o Clock](https://open.spotify.com/album/1lV1HO8zciUqacEzJskBTu) | 2:12 | 2022-12-29 | 2023-01-27 |
 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 | 2023-07-13 | 2023-09-22 |
 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-05-08 |  |
+| [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 | 2025-10-02 |  |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-20 | 2022-10-28 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-15 | 2023-01-27 |
 | [Safe Place](https://open.spotify.com/track/71ZvagMvaJf39cJWEHiJfp) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Safe Place](https://open.spotify.com/album/0pTdxdArTizZFshyf3EG1n) | 3:21 | 2022-09-15 | 2022-09-30 |
@@ -1348,7 +1349,6 @@
 | [Toxic Love \(feat\. DYSTINCT\)](https://open.spotify.com/track/30oXsnwOMmvpzzEErBvr1B) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Love Stories](https://open.spotify.com/album/00wQC7GhtjQjSMuPQWEJsw) | 2:35 | 2023-05-11 | 2023-07-21 |
 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 | 2023-01-23 | 2023-03-03 |
 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 | 2025-06-05 | 2025-08-15 |
-| [Track 8](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Trainingspak](https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Trainingspak](https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc) | 2:25 | 2023-06-08 | 2023-06-30 |
 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 | 2023-08-17 | 2023-12-15 |
 | [Trap & Dance 1 \(Fidel Castro\)](https://open.spotify.com/track/3dnK1TRtxZQiAtlUELGIdU) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Trap & Dance 1 \(Fidel Castro\)](https://open.spotify.com/album/32hji7JHvtA5Qzscz4hL9m) | 2:25 | 2023-10-09 | 2023-12-15 |

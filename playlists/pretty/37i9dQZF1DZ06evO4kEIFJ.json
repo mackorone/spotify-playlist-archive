@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 164588,
+  "num_followers": 164584,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAAaQFSYmxaq6UfTK9NBv2+z",
+  "snapshot_id": "aN3AgAAAAACfqkeF2GKeG2v5kgmqR7Gm",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 125893,
-      "name": "BIG DUMMY!",
-      "url": "https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv"
+      "duration_ms": 205920,
+      "name": "LEAN ON MY BODY",
+      "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
       "duration_ms": 195470,
       "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
       "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 141986,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 141986,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Before Dreamboy",
         "url": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
       },
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 205920,
-      "name": "LEAN ON MY BODY",
-      "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
+      "duration_ms": 125893,
+      "name": "BIG DUMMY!",
+      "url": "https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv"
     },
     {
       "added_at": null,

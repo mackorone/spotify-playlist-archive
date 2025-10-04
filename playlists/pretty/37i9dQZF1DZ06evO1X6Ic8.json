@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 820979,
+  "num_followers": 821014,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAADWMthF0rdVLQljozHvNP7C",
+  "snapshot_id": "aN3AgAAAAACg48j2WFDIh61u4jAr/Wvy",
   "tracks": [
     {
       "added_at": null,
@@ -87,30 +87,6 @@
       "duration_ms": 240670,
       "name": "Fallingforyou",
       "url": "https://open.spotify.com/track/7LbUv7w2z7rEbNqp1uIL9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 250603,
-      "name": "I might say something stupid featuring the 1975 & jon hopkins",
-      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
     },
     {
       "added_at": null,
@@ -647,6 +623,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 250603,
+      "name": "I might say something stupid featuring the 1975 & jon hopkins",
+      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still... At Their Very Best (Live From The AO Arena, Manchester, 17.02.24)",
         "url": "https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 295151,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 285833,
       "name": "The Birthday Party",
       "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 295151,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
     },
     {
       "added_at": null,

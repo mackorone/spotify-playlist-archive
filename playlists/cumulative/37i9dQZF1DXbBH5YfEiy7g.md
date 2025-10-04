@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Canaan Nyathi
 
-191 songs - 20 hr 15 min
+191 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,6 @@
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
-| [Track 10](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |
 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 | 2024-10-04 |  |
@@ -168,6 +167,7 @@
 | [Ungu'Nkulunkulu](https://open.spotify.com/track/4KmJ0XOfPZbohBoenWNlHI) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [The Glory](https://open.spotify.com/album/1xf9GVdtliSyLjj6AdMqeh) | 8:43 | 2024-10-25 | 2025-03-28 |
 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 | 2024-10-04 |  |
 | [Usevele Wakuphinda Lokho](https://open.spotify.com/track/0p6QXJJHQhyXqVnfWP3i4V) | [Babo Ngcobo](https://open.spotify.com/artist/7MU5IDCixrWz5MpkuNdJBk) | [Uhambo II, Vol\. 2](https://open.spotify.com/album/79ivuCRDMWvhZ5NBKAT5fP) | 5:57 | 2025-08-01 | 2025-08-06 |
+| [Usibiyele \(Live\)](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise 11 Next Level \(Live\)](https://open.spotify.com/album/0N0j10dgpGDWxeWkE3jdgP) | 11:27 | 2025-10-03 |  |
 | [Uthando Lukababa](https://open.spotify.com/track/2SNJi1c3lzCHPvTvOf8B7f) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lukababa](https://open.spotify.com/album/0t5jvuMSjM0Ls6Dzq2gGzo) | 3:41 | 2025-03-14 | 2025-04-11 |
 | [Uthando Lukababa \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/3n8Kl5N8Hbd2emEXvlKrIM) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 6:06 | 2025-08-01 | 2025-08-06 |
 | [Uthando Lwakhe \(Medley 8\) \- Jehovah Wase Mandulo](https://open.spotify.com/track/3nZzeBYFUzraylvt8RERKq) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakhe \(Medley 8\) \[Jehovah Wase Mandulo\]](https://open.spotify.com/album/3gvnYd70HXpkj8MrvF4Q8k) | 5:11 | 2024-11-22 | 2025-03-28 |

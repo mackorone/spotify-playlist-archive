@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-367 songs - 23 hr 35 min
+368 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [The Best Part](https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:29 | 2024-05-01 | 2025-02-22 |
 | [The Daughters](https://open.spotify.com/track/0uAX8XlxJsCRusTVlmUyEa) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:32 | 2025-05-03 | 2025-07-19 |
 | [The Enchanted Isle \- Remastered](https://open.spotify.com/track/5Nd5PIdOLF71hgQHWcLdZE) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [The Exotic Sounds Of Martin Denny](https://open.spotify.com/album/77vLUHDVYmgldOo4BqBC6N) | 2:53 | 2025-05-23 | 2025-05-31 |
+| [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-03 |  |
 | [The Four Seasons, Winter, Violin Concerto in F Minor, RV 297, Op\. 8 No\. 4: I\. Allegro non molto](https://open.spotify.com/track/00BSPkrJHySFJvG4mwxEg1) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Simon Standage](https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT), [The English Concert](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA), [Trevor Pinnock](https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83) | [Vivaldi: Le quattro stagioni](https://open.spotify.com/album/5tgFFNHTrkzpihDgYvpXEL) | 3:17 | 2025-05-23 |  |
 | [The Hanging Tree \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:23 | 2024-05-01 | 2025-06-07 |
 | [The Invisible Man](https://open.spotify.com/track/0kf46oObVRf3L51fHIojEm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 3:55 | 2022-10-03 | 2024-05-02 |

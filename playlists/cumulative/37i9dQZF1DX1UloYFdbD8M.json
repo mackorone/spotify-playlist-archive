@@ -3541,6 +3541,28 @@
     },
     {
       "album": {
+        "name": "Varthamanam",
+        "url": "https://open.spotify.com/album/7LOWpo19ROx5TL0qYTEsnp"
+      },
+      "artists": [
+        {
+          "name": "Aksomaniac",
+          "url": "https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87"
+        },
+        {
+          "name": "anxious",
+          "url": "https://open.spotify.com/artist/6PGTb8THZQGSwivV5z26Vj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187537,
+      "name": "Karupp",
+      "url": "https://open.spotify.com/track/6NH0ta5RMkQZUjxNYoVeKg"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/146kqGPQrWcgtda2IrgUTL"
       },

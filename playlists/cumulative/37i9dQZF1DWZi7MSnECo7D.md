@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Mombojó
+> Música brasileira fora da curva\. Foto: Sophia Chablau, Felipe Vaqueiro
 
-797 songs - 1 day 21 hr 19 min
+798 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 | 2025-03-23 |  |
 | [Corrida!](https://open.spotify.com/track/7dn7kstmJzGEIWKvDG1ZqC) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Corrida!](https://open.spotify.com/album/6TCoYx5VpAID8Sz7GnUB7A) | 5:07 | 2024-05-10 | 2024-09-28 |
 | [Costura](https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [Costura](https://open.spotify.com/album/0f8PNEzWM2DaZe0MZ8HLd6) | 2:58 | 2022-03-25 | 2022-04-29 |
-| [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 | 2024-11-29 |  |
+| [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 | 2024-11-29 | 2025-10-04 |
 | [Curitiba](https://open.spotify.com/track/2OokguhlbXzig1WIE5uwFC) | [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Curitiba](https://open.spotify.com/album/3GhOL3XNVeLFL8kQw6mBTe) | 3:13 | 2024-02-23 | 2024-08-10 |
 | [Cuéntame](https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi) | [Gracinha](https://open.spotify.com/artist/7vT7z5m95bEQhcKYw2j5W2) | [Corpo Celeste](https://open.spotify.com/album/5ytJ5bBxONr2vdI2JwdrQy) | 4:36 | 2024-07-15 |  |
 | [céu](https://open.spotify.com/track/3aS8ZV7rPGLikifySWy3jM) | [JP](https://open.spotify.com/artist/5QctBwCI85nf7VUvrx50qM), [Flávia Carolina](https://open.spotify.com/artist/7z7DhqJCWSflouFGad8FhL) | [em busca do veneno da serpente](https://open.spotify.com/album/7aCXFxP6AviVWVd6mVMXce) | 5:14 | 2023-09-22 | 2024-05-11 |
@@ -766,6 +766,7 @@
 | [verdeoliva](https://open.spotify.com/track/5GM0ivW0to4aD2ODLgnHu7) | [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC), [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [SadBoysDanceClub](https://open.spotify.com/artist/6XolrAhzmJAEfxJiuT5PBc) | [verdeoliva](https://open.spotify.com/album/4t1Cqj60EStRJvRJmHyGSf) | 3:31 | 2023-03-17 | 2023-08-19 |
 | [verdeoliva](https://open.spotify.com/track/2nVjHdovspH20wqq7zR8LG) | [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC) | [verdeoliva](https://open.spotify.com/album/2H7hKVSdxiA2KkGWbgqL7y) | 3:31 | 2023-03-03 | 2023-03-22 |
 | [Vestido Vermelho](https://open.spotify.com/track/61M14oh9fDkMjxWSqX9ROX) | [André Paixão](https://open.spotify.com/artist/0cL5s1kVSxBwkpLORUjF3p), [Pupillo](https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK) | [Fora do Ritmo](https://open.spotify.com/album/6C72tw5sb3jlNbdvzOhkPF) | 5:25 | 2024-04-26 | 2024-06-22 |
+| [Viciado em carinho](https://open.spotify.com/track/6ltnZGhEGWF0WGjA8v5JpP) | [Sophia Chablau](https://open.spotify.com/artist/5dYxYokvmpxCELXrTczKZR), [Felipe Vaqueiro](https://open.spotify.com/artist/3s9f0W9ecEnuKJjql7P7s6) | [Handycam](https://open.spotify.com/album/7siRCvSUGl0kJKyLrXgsqO) | 2:47 | 2025-10-03 |  |
 | [Victoria](https://open.spotify.com/track/2UXLhcHLNYBFoBL7ALZoSz) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Victoria](https://open.spotify.com/album/69EvKtR8xGWiU3DPEkpqNF) | 2:56 | 2023-03-24 | 2023-04-01 |
 | [Vida Pacata](https://open.spotify.com/track/6sSTsavIjxM4YY375ezUnp) | [Varanda](https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk) | [Vida Pacata](https://open.spotify.com/album/0vjpg0SCUXWA1yL0oUonSD) | 3:30 | 2024-08-16 |  |
 | [Vidadulta](https://open.spotify.com/track/2h79C5Bj9nrI3FotE3TbZ8) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Vidadulta](https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn) | 4:05 | 2022-10-28 | 2023-08-19 |

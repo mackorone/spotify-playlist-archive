@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-827 songs - 1 day 16 hr 4 min
+828 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2023-03-23 | 2024-02-09 |
 | [Despina](https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw) | [Sanem Finley](https://open.spotify.com/artist/6GuH0KuqDKOwuukZmLXZtG) | [Despina](https://open.spotify.com/album/6k65e7fcqNlfrleVeC9Uit) | 3:33 | 2023-03-23 | 2024-03-21 |
 | [Destello Cosmico](https://open.spotify.com/track/3AcEjvJHGwJBWVVHHZYKIc) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Destello Cosmico](https://open.spotify.com/album/2SPHK8VZRckwgl2k3UwwNs) | 2:45 | 2025-01-08 |  |
+| [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 | 2025-09-23 |  |
 | [Dignity](https://open.spotify.com/track/4vFL08pP0H9RDUVj05qXyL) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Dignity](https://open.spotify.com/album/6sk6xBBjIWn7JXVnJHwuLm) | 2:46 | 2025-03-19 |  |
 | [Dim Lights](https://open.spotify.com/track/5V1A08ndUqkUZ7i2PjUecW) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dim Lights](https://open.spotify.com/album/4x0c00HaqVpymv8lTIYKhH) | 3:05 | 2023-03-23 | 2024-02-09 |
 | [Dimmed Light](https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Dimmed Light](https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e) | 2:59 | 2025-03-19 | 2025-06-26 |
@@ -279,7 +280,7 @@
 | [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 | 2025-04-13 |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2023-03-23 | 2024-05-05 |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2023-03-23 | 2024-03-21 |
-| [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 | 2024-12-17 |  |
+| [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 | 2024-12-17 | 2025-10-04 |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-03-23 | 2024-02-09 |
 | [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 | 2025-03-20 |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2023-03-23 | 2024-02-09 |

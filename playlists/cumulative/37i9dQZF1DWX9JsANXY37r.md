@@ -2,7 +2,7 @@
 
 ### [Drinks no Sofá](https://open.spotify.com/playlist/37i9dQZF1DWX9JsANXY37r)
 
-> beber gin em casa, nada melhor
+> drinks em casa, nada melhor
 
 252 songs - 15 hr 32 min
 

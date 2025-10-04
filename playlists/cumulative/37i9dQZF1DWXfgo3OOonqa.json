@@ -15755,8 +15755,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "D\u00c4R & D\u00c5",
+        "url": "https://open.spotify.com/album/6OtxYr8OdGDHOdJrBdzpE4"
       },
       "artists": [
         {
@@ -25613,8 +25613,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "D\u00c4R & D\u00c5",
+        "url": "https://open.spotify.com/album/6OtxYr8OdGDHOdJrBdzpE4"
       },
       "artists": [
         {
@@ -25800,6 +25800,28 @@
       "duration_ms": 179795,
       "name": "Mosaik",
       "url": "https://open.spotify.com/track/68BV010YX9RyC3c8xxObql"
+    },
+    {
+      "album": {
+        "name": "MOTGIFT",
+        "url": "https://open.spotify.com/album/3k6CtjtWKxTU7PBG9A4Mj1"
+      },
+      "artists": [
+        {
+          "name": "Juniior",
+          "url": "https://open.spotify.com/artist/2iB4oRsEnWjBqolEm67uPR"
+        },
+        {
+          "name": "BeatsBySindri",
+          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "MOTGIFT",
+      "url": "https://open.spotify.com/track/60dPIASBL3v4lH5Vj1Fh7i"
     },
     {
       "album": {
@@ -36835,28 +36857,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "DR",
-          "url": "https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA"
-        },
-        {
-          "name": "TUTTOLENTE",
-          "url": "https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2dRc7qcRcEqzJlCuPRfkMV"
-    },
-    {
-      "album": {
         "name": "TRAFIK",
         "url": "https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy"
       },
@@ -39602,6 +39602,28 @@
       "duration_ms": 172173,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/3E51xkLznzjyxd47Mx3pwk"
+    },
+    {
+      "album": {
+        "name": "We The Best",
+        "url": "https://open.spotify.com/album/3kgxDmZ87veKo4oyK4KODH"
+      },
+      "artists": [
+        {
+          "name": "DR",
+          "url": "https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA"
+        },
+        {
+          "name": "TUTTOLENTE",
+          "url": "https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "We The Best",
+      "url": "https://open.spotify.com/track/2dRc7qcRcEqzJlCuPRfkMV"
     },
     {
       "album": {

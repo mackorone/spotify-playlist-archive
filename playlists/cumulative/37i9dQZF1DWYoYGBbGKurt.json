@@ -3964,7 +3964,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 172094,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1SxFAijTZD0TWB984QnmYs"
@@ -7262,6 +7262,24 @@
       "duration_ms": 96023,
       "name": "counting stars",
       "url": "https://open.spotify.com/track/2I0Y9S45ytIc5SSCwZU4MH"
+    },
+    {
+      "album": {
+        "name": "counting the days until we meet again",
+        "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158125,
+      "name": "counting the days until we meet again",
+      "url": "https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW"
     },
     {
       "album": {
@@ -10588,7 +10606,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 161379,
       "name": "escape",
       "url": "https://open.spotify.com/track/55aZtxTW9S0w80j5rswRtN"
@@ -11272,7 +11290,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 149610,
       "name": "Falling Gently",
       "url": "https://open.spotify.com/track/6DyiBgvyXmSK0vpVPmDe3l"
@@ -12774,6 +12792,32 @@
       "duration_ms": 190302,
       "name": "For Ilion (Chefen)",
       "url": "https://open.spotify.com/track/4S3ctgPAQ0A1tbs7r0m21i"
+    },
+    {
+      "album": {
+        "name": "for norah",
+        "url": "https://open.spotify.com/album/0Y0qDA7ufLFGE63s3Rfeoa"
+      },
+      "artists": [
+        {
+          "name": "mellow days",
+          "url": "https://open.spotify.com/artist/65tiERODhjgPvUNJg8PE3h"
+        },
+        {
+          "name": "very noise person",
+          "url": "https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv"
+        },
+        {
+          "name": "Somebuddy",
+          "url": "https://open.spotify.com/artist/6TfTpFTSQ6z6kQfBRcZvUO"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114539,
+      "name": "for norah",
+      "url": "https://open.spotify.com/track/18IYE5it2VcLZfXiloYBS2"
     },
     {
       "album": {
@@ -15022,7 +15066,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 123162,
       "name": "Heroes Retreat",
       "url": "https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J"
@@ -24273,6 +24317,24 @@
     },
     {
       "album": {
+        "name": "night walk",
+        "url": "https://open.spotify.com/album/59OYLQogKV9Bl6BmHUUhij"
+      },
+      "artists": [
+        {
+          "name": "bear\u00e9",
+          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138125,
+      "name": "night walk",
+      "url": "https://open.spotify.com/track/2W9bT5Axd73dDGvdmiRIlx"
+    },
+    {
+      "album": {
         "name": "nightfall",
         "url": "https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd"
       },
@@ -29314,6 +29376,24 @@
       "duration_ms": 123574,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5VEiJ4VqtQlgT7pqXjRvCW"
+    },
+    {
+      "album": {
+        "name": "shallow waters",
+        "url": "https://open.spotify.com/album/0ru5mVIzbXJQfQnV2JY3n3"
+      },
+      "artists": [
+        {
+          "name": "yvwn.",
+          "url": "https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115685,
+      "name": "shallow waters",
+      "url": "https://open.spotify.com/track/4wbQjSnly5jcfoSU4WK1OH"
     },
     {
       "album": {

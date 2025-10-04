@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 183540,
+  "num_followers": 183561,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
         "name": "tudo com voc\u00ea vira arte",
         "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 160416,
       "name": "tudo com voc\u00ea vira arte",
       "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
         "name": "1001 Roteiros",
         "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 161024,
       "name": "1001 Roteiros",
       "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Falar De Amor - Remix",
-      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Falar De Amor - Remix",
+      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
@@ -767,30 +767,6 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
-        "name": "Auge",
-        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
-      },
-      "artists": [
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "iceton",
-          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "Auge",
-      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -819,22 +795,26 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Brincando De Amor",
-        "url": "https://open.spotify.com/album/60nE5JzmHem9RGHRBRAzhv"
+        "name": "Auge",
+        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
       "artists": [
         {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
         },
         {
-          "name": "Black News",
-          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "iceton",
+          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
         }
       ],
-      "duration_ms": 119776,
-      "name": "Brincando De Amor",
-      "url": "https://open.spotify.com/track/7AKSqQaYLeJqHTAMxOwUYm"
+      "duration_ms": 190286,
+      "name": "Auge",
+      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -855,6 +835,26 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
+        "name": "Brincando De Amor",
+        "url": "https://open.spotify.com/album/60nE5JzmHem9RGHRBRAzhv"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Black News",
+          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
+        }
+      ],
+      "duration_ms": 119776,
+      "name": "Brincando De Amor",
+      "url": "https://open.spotify.com/track/7AKSqQaYLeJqHTAMxOwUYm"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -899,18 +899,26 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Red On My Lips",
-        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+        "name": "REAL R&B, Vol. 2",
+        "url": "https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us"
       },
       "artists": [
         {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Burn-O",
+          "url": "https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn"
+        },
+        {
+          "name": "rod shawty",
+          "url": "https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask"
         }
       ],
-      "duration_ms": 134406,
-      "name": "Red On My Lips",
-      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+      "duration_ms": 157408,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -935,26 +943,34 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "REAL R&B, Vol. 2",
-        "url": "https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us"
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
       },
       "artists": [
         {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "Burn-O",
-          "url": "https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn"
-        },
-        {
-          "name": "rod shawty",
-          "url": "https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask"
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
         }
       ],
-      "duration_ms": 157408,
-      "name": "SLOW DOWN",
-      "url": "https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF"
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
+        "name": "UNHA DE FOGUINHO",
+        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 165037,
+      "name": "UNHA DE FOGUINHO",
+      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "UNHA DE FOGUINHO",
-        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 165037,
-      "name": "UNHA DE FOGUINHO",
-      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
         "name": "Tenho Tanto de Voc\u00ea em Mim",
         "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
       },
@@ -1039,6 +1039,26 @@
       "duration_ms": 170588,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
+        "name": "Lambuza",
+        "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Lambuza",
+      "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -1083,6 +1103,22 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+    },
+    {
+      "added_at": "2025-09-25 23:31:15",
+      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -1103,38 +1139,18 @@
     {
       "added_at": "2025-09-25 23:31:15",
       "album": {
-        "name": "Lambuza",
-        "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
       "artists": [
         {
-          "name": "Calena",
-          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 172826,
-      "name": "Lambuza",
-      "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2025-09-25 23:31:15",
@@ -1155,22 +1171,6 @@
       "duration_ms": 213421,
       "name": "risco",
       "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
-    },
-    {
-      "added_at": "2025-09-25 23:31:15",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2025-09-25 23:31:15",

@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Live from the Laundromat",
+        "url": "https://open.spotify.com/album/5xxhPbe8Gc90g9VOeIKbZx"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160081,
+      "name": "bloodsucker - Live",
+      "url": "https://open.spotify.com/track/1LPNFkQm8U0LJyk5CxMH4v"
+    },
+    {
+      "album": {
         "name": "Imagine Dragons Live in Vegas",
         "url": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
       },

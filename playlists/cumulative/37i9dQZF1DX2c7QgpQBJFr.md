@@ -2,9 +2,9 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> La nuova scena pop italiana 🇮🇹  Rose Villain in cover
+> La nuova scena pop italiana 🇮🇹  Laila Al Habash in cover
 
-854 songs - 1 day 16 hr 19 min
+855 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,6 +741,7 @@
 | [solite cose](https://open.spotify.com/track/5q49W8e8ZOy1wO9MIpL8RR) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:00 | 2025-02-27 | 2025-06-20 |
 | [Solito Disco Club](https://open.spotify.com/track/36J5w89ne7qqzoLcxonwhK) | [Disco Club Paradiso](https://open.spotify.com/artist/45tjTaIY56HcSaLJLUmlut) | [Solito Disco Club](https://open.spotify.com/album/4WyQ1CMGmQcxadPkKIm6aE) | 2:16 | 2025-06-12 | 2025-07-25 |
 | [solo](https://open.spotify.com/track/3QiskORyET9BSwf93XPNaK) | [Lia](https://open.spotify.com/artist/236k5ZQlVODV0XczrnsURF) | [solo](https://open.spotify.com/album/19PaBA6xWBAxBHCPeUifcL) | 2:54 | 2024-06-27 | 2024-07-19 |
+| [SOLO CON ME](https://open.spotify.com/track/35fPC0NqI1DsVReMFkjOSv) | [CLOUD](https://open.spotify.com/artist/48LmQaKF6ayCv2uuiOOZtn) | [SOLO CON ME](https://open.spotify.com/album/1JqTD9g8F56UaEXNcIRdzh) | 2:23 | 2025-10-03 |  |
 | [Solo diamanti](https://open.spotify.com/track/29ZokjwQEz6D0Di4NRqhXe) | [Charlotte M.](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M) | [Solo diamanti](https://open.spotify.com/album/42bQdfBiHqcduWK3aowMt1) | 2:41 | 2024-06-27 | 2024-07-27 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-06-27 | 2024-08-23 |
 | [SOLO UN UOMO ᕕ \(con Altea\)](https://open.spotify.com/track/47yUuMTLeVSwgfcfFf7dYm) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:48 | 2024-06-27 | 2024-11-13 |

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Melissa Hesler of Cageless Birds",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Matt Redman",
   "name": "WorshipNow",
   "tracks": [
+    {
+      "album": {
+        "name": "Chapel Sessions (Vol. 2)",
+        "url": "https://open.spotify.com/album/4jYLJGHlwngGQaoLfbZvpJ"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348948,
+      "name": "'Tis So Sweet / Turn Your Eyes - Chapel Sessions",
+      "url": "https://open.spotify.com/track/3JVRYMkGQ8DBFtBoiYAqMQ"
+    },
     {
       "album": {
         "name": "1,000 Names",
@@ -628,6 +650,24 @@
       "duration_ms": 240210,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/3RDsOd9SKVy3TiwQ8Y0xzI"
+    },
+    {
+      "album": {
+        "name": "I've Got A Fire",
+        "url": "https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266822,
+      "name": "All This In A Name",
+      "url": "https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5"
     },
     {
       "album": {
@@ -9026,7 +9066,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 232704,
       "name": "Known By You",
       "url": "https://open.spotify.com/track/27tc5YUHY5ggEKuhyT0eLn"
@@ -9400,6 +9440,24 @@
       "duration_ms": 239962,
       "name": "Let The People Sing - Live",
       "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
+    },
+    {
+      "album": {
+        "name": "Life & Breath",
+        "url": "https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279736,
+      "name": "Life & Breath",
+      "url": "https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5"
     },
     {
       "album": {
@@ -10557,6 +10615,24 @@
     },
     {
       "album": {
+        "name": "My Right Now",
+        "url": "https://open.spotify.com/album/3sDx4cyt1o73vLEAldiSez"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202980,
+      "name": "My Right Now",
+      "url": "https://open.spotify.com/track/39MO3apFG7XqV3XrskTPsT"
+    },
+    {
+      "album": {
         "name": "My Soul Sings",
         "url": "https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3"
       },
@@ -11564,7 +11640,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
@@ -12458,7 +12534,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 264107,
       "name": "Praise The Lord Forever",
       "url": "https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG"
@@ -12480,7 +12556,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 302003,
       "name": "Praise To The Most High",
       "url": "https://open.spotify.com/track/1QTn0Xf38y1ucsMVaR1DI0"

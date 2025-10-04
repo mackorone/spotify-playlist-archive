@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,463 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,780 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 4 | [Boss](https://open.spotify.com/track/4wrGdAeguFjVoM8ubqjuI0) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo) | [Boss](https://open.spotify.com/album/7jolZzewxzu0XL7eFFJGaW) | 2:52 |
 | 5 | [Sugar \(feat\. Francesco Yates\) \- ALOK Remix](https://open.spotify.com/track/00aGxt7uUbZVyPsUYYqqok) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Sugar \(feat\. Francesco Yates\) \[ALOK Remix\]](https://open.spotify.com/album/6hcAlzAQIlxm5M1U7kApO5) | 2:36 |
 | 6 | [Get Naughty](https://open.spotify.com/track/5P8LSsLAP75kPDYS4wzHUX) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Doozie](https://open.spotify.com/artist/094tZMLXkYiIpf6u2XAaX1), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Get Naughty](https://open.spotify.com/album/3nKxR0KC6khTVASw8yFckY) | 3:39 |
-| 7 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:36 |
+| 7 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 8 | [More Than Music](https://open.spotify.com/track/2sGrQULpsC3tUqSXTgqJgS) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [More Than Music](https://open.spotify.com/album/0bNqQyCnR7yTItrHklJeaC) | 3:15 |
 | 9 | [Time](https://open.spotify.com/track/04ftwUdOdeDAdmoMNvDTLD) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Time](https://open.spotify.com/album/1df6ziwZ5bEQ5ofdkEMj8q) | 3:30 |
 | 10 | [Finest Girl](https://open.spotify.com/track/7J4eesozFyGcE1uRubZn4T) | [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Finest Girl](https://open.spotify.com/album/0f2QpsZRS3dMzniQZyNs93) | 3:03 |

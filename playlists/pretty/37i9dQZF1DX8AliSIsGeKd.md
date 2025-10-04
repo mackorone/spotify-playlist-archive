@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: TH;EN
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,745 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,984 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prismatica](https://open.spotify.com/track/6L45eFIDmCPPvqZmWbubuz) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Prismatica](https://open.spotify.com/album/2Bh4ScRdm4fU0sZ1HDm7V8) | 3:50 |
 | 2 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
-| 3 | [Track 2](https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [About the Fox and a Tiger](https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [About the Fox and a Tiger](https://open.spotify.com/album/2jyPMzpXk0PPcjCaPmmND8) | 5:50 |
 | 4 | [Overrated](https://open.spotify.com/track/6zOtI69dSMNtDIdsgyAmxf) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Overrated](https://open.spotify.com/album/0i3z5AN5c8dzPA9VNcrg0b) | 4:49 |
-| 5 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:36 |
+| 5 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 6 | [Surrender](https://open.spotify.com/track/0vw6eFkyf05ISsQ8Xqle9X) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Denis Naidanow](https://open.spotify.com/artist/6bpaXj4NWQQcITuNAxz2Hk) | [Surrender](https://open.spotify.com/album/4l3aJeSaAB2B2d22rJ7jP3) | 5:35 |
 | 7 | [Murder Mystery](https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Murder Mystery](https://open.spotify.com/album/4GVjAgTCIDaMZlYCAV61q1) | 2:46 |
 | 8 | [RACER](https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [RACER](https://open.spotify.com/album/6geBfBpOE48ZMYCMs8FD3b) | 2:24 |

@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "Evolu\u00e7\u00e3o, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0nmRvEIs98F8Uk48z7vRCT"
+      },
+      "artists": [
+        {
+          "name": "Bruno Rosa",
+          "url": "https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180658,
+      "name": "A Grama do Vizinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gBLQeJrre7DklMZIaPXPd"
+    },
+    {
+      "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
       },
@@ -536,7 +558,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 216710,
       "name": "A Morte do Autotune",
       "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 183249,
       "name": "Cantada Boba - Ao Vivo",
       "url": "https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l"
@@ -2965,6 +2987,28 @@
     },
     {
       "album": {
+        "name": "DEBAIXO DO MEU CHAP\u00c9U, Vol. 2",
+        "url": "https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159082,
+      "name": "DENTRO DA LAND ROVER - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
+    },
+    {
+      "album": {
         "name": "DEPOIS DO RODEIO",
         "url": "https://open.spotify.com/album/0o3gebQY0gP7RxzFIsWkSI"
       },
@@ -3582,7 +3626,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -3774,7 +3818,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 131822,
       "name": "Encosta na Parede",
       "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
@@ -3832,7 +3876,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -7510,7 +7554,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 164956,
       "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
       "url": "https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K"
@@ -7694,7 +7738,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 181693,
       "name": "Olha Onde Eu T\u00f4",
       "url": "https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm"
@@ -7724,6 +7768,24 @@
       "duration_ms": 120916,
       "name": "Olha pra Cara de Quem Te...",
       "url": "https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U"
+    },
+    {
+      "album": {
+        "name": "OLHO MARROM - Ao Vivo em Lisboa",
+        "url": "https://open.spotify.com/album/4fa3lwn2vSLUTz3HNqcJzM"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145491,
+      "name": "OLHO MARROM - Ao Vivo em Lisboa",
+      "url": "https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg"
     },
     {
       "album": {
@@ -10013,6 +10075,28 @@
     },
     {
       "album": {
+        "name": "Sobe Na Moto Roubadona",
+        "url": "https://open.spotify.com/album/61sD9EqJr7Mfty0G0Hj5HA"
+      },
+      "artists": [
+        {
+          "name": "DJ KELVINHO DA ZS",
+          "url": "https://open.spotify.com/artist/5RvyQxggVkuBridsJFiMzs"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128306,
+      "name": "Sobe Na Moto Roubadona",
+      "url": "https://open.spotify.com/track/55X6DSZ3CEWeIQrVxMOR9h"
+    },
+    {
+      "album": {
         "name": "Sofrimento Simult\u00e2neo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5JmnINttqCxjbKh3gFdFFm"
       },
@@ -11550,7 +11634,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 136367,
       "name": "Vacilona - Ao Vivo",
       "url": "https://open.spotify.com/track/1butVubqmo2gXoAgZiM7hY"
@@ -11844,7 +11928,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 178131,
       "name": "Veneno - Ao Vivo",
       "url": "https://open.spotify.com/track/2QUl20UtEsH85livMYnbQr"
@@ -12298,7 +12382,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 154553,
       "name": "\u00daltima Noite - Solo",
       "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"

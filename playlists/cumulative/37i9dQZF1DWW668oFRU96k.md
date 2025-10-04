@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: AFROJACK
 
-2,031 songs - 4 day 7 hr 33 min
+2,032 songs - 4 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC) | 3:07 | 2023-05-11 | 2023-06-16 |
 | [Morning](https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Morning](https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu) | 3:04 | 2024-05-30 | 2024-07-05 |
 | [Most Precious Love](https://open.spotify.com/track/0BitoyjzQUhV0C5aqAh7cZ) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Most Precious Love](https://open.spotify.com/album/4KfgqybFwGuHk7h7OjfxnM) | 3:04 | 2025-02-20 | 2025-03-28 |
+| [Moth To A Flame](https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht) | 3:10 | 2025-10-02 |  |
 | [Mothershift](https://open.spotify.com/track/2LkoOQB4XN0zDniaVL04ZV) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Flama](https://open.spotify.com/artist/1FbsBuauAsMHDZpkPeY4Fp) | [Mothershift](https://open.spotify.com/album/39YYDkdozBLYaSqR1pLlIQ) | 3:21 | 2025-04-17 | 2025-05-23 |
 | [Motion](https://open.spotify.com/track/0MnF8jyECR9qi3uXxtJPrI) | [SwitchBlade](https://open.spotify.com/artist/2QRk8Z1PWFqLElnr1hfNdi), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Motion](https://open.spotify.com/album/4ZArrKnbII5GiZee9YOLfg) | 2:53 | 2024-02-01 | 2024-03-08 |
 | [Motions](https://open.spotify.com/track/3EiwfFeoEgh8f7yW4QSWV3) | [Datskie](https://open.spotify.com/artist/3CFACRLG0nYcMfGB7wSvTB), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [Motions](https://open.spotify.com/album/3X9zlnhQKhIp7LViBh3bER) | 4:15 | 2024-10-24 | 2024-11-29 |

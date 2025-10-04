@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 
 > al son que la pongamos, la bailamos\. Abelito, una rockola humana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,838 likes - 38 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,878 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 | 29 | [La Cortina \(feat\. Ninel Conde\)](https://open.spotify.com/track/4VAKjqENaqPOLOmVhlvEqS) | [Sonora Dinamita De Lucho Argain](https://open.spotify.com/artist/7aG4lVpCQ8zNpue2emCSZ8), [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Entre Amigos](https://open.spotify.com/album/7f99Mfl7ISr6p8kUtcr7W8) | 2:58 |
 | 30 | [BELIKA](https://open.spotify.com/track/3CniuDS3hr3MaM8eUydmbX) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9) | [BELIKA](https://open.spotify.com/album/1hZ497M2s6zX6xweOmdD1X) | 2:44 |
 | 31 | [La 380](https://open.spotify.com/track/31FRML7Qu1nu7Ra7Er3yW9) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9) | [La 380](https://open.spotify.com/album/6EdNhb3yby5i7P4VonKn8L) | 2:31 |
-| 32 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
+| 32 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
 | 33 | [Callados](https://open.spotify.com/track/4mXxiaroiAGrGwbbAFkRhU) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ninel Conde](https://open.spotify.com/album/4s3cLJ3uFfMydKR4ekp6R7) | 4:26 |
 | 34 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 |
 | 35 | [Chi](https://open.spotify.com/track/2S6ogNuy6ndrmdGlivL7QL) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9) | [Chi](https://open.spotify.com/album/4Rbx1fTR9AYC21SnBLe6zY) | 2:32 |

@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!! \nCover : Jagdish, Ayaan, Damini",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!! \nCover : Manisha Eerabathini",
   "name": "Telugu Indie",
   "tracks": [
+    {
+      "album": {
+        "name": "Aadibidda Relare Ganga Rakhi Paata",
+        "url": "https://open.spotify.com/album/5WIMv18PBrRDWl3WOCUDo7"
+      },
+      "artists": [
+        {
+          "name": "Madhupriya",
+          "url": "https://open.spotify.com/artist/1r3SXXFQepYKsZbV8ZqPue"
+        },
+        {
+          "name": "Nalgonda Gaddar Narsanna",
+          "url": "https://open.spotify.com/artist/25WzzaACKIw8c7I0B6NEgg"
+        },
+        {
+          "name": "Relare Ganga",
+          "url": "https://open.spotify.com/artist/1VAH9Qx2oYYgeoCmJIh1uN"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297333,
+      "name": "Aadibidda Relare Ganga Rakhi Paata",
+      "url": "https://open.spotify.com/track/4OPesnbEqbRyHHrshtlGYm"
+    },
     {
       "album": {
         "name": "Aakaasam",
@@ -241,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Angana",
+        "url": "https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv"
+      },
+      "artists": [
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Angana",
+      "url": "https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc"
+    },
+    {
+      "album": {
         "name": "Anna Chelli Anubandham",
         "url": "https://open.spotify.com/album/2ff94mRYUtwgxUbmHNjiGj"
       },
@@ -476,6 +520,28 @@
       "duration_ms": 182345,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/15GOzlmMKxRZ5cQT9uVxoI"
+    },
+    {
+      "album": {
+        "name": "BONG RIP",
+        "url": "https://open.spotify.com/album/61LFc2ziR0g59fvpcokpmq"
+      },
+      "artists": [
+        {
+          "name": "Ronn",
+          "url": "https://open.spotify.com/artist/6LW1EbzNVeFXwLX3CTAu2U"
+        },
+        {
+          "name": "Zuko Rosemeid",
+          "url": "https://open.spotify.com/artist/1tRh6sNqD3vKanlprXo5A9"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128341,
+      "name": "BONG RIP",
+      "url": "https://open.spotify.com/track/6uv5kJw4SofFza1yjKPeQI"
     },
     {
       "album": {
@@ -1402,7 +1468,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 220195,
       "name": "Ee Parichayam",
       "url": "https://open.spotify.com/track/4kiMKHxNaw8oiH1vJSFXZT"
@@ -1500,7 +1566,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 328208,
       "name": "Emone",
       "url": "https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh"
@@ -1728,6 +1794,28 @@
       "duration_ms": 198403,
       "name": "Gandhari",
       "url": "https://open.spotify.com/track/50oVNoFryWIEFQQU9eRI10"
+    },
+    {
+      "album": {
+        "name": "Ganga Pula Bathukamma",
+        "url": "https://open.spotify.com/album/2WfkmiWlVCSqltuJrkY1nS"
+      },
+      "artists": [
+        {
+          "name": "Relare Ganga",
+          "url": "https://open.spotify.com/artist/1VAH9Qx2oYYgeoCmJIh1uN"
+        },
+        {
+          "name": "Yasho Krishna",
+          "url": "https://open.spotify.com/artist/2DGwlOod0fq62YTAqH2fBw"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324622,
+      "name": "Ganga Pula Bathukamma",
+      "url": "https://open.spotify.com/track/3DvSJQwkGGHbEVQN3tB5vT"
     },
     {
       "album": {
@@ -2272,7 +2360,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 340666,
       "name": "Intermediate",
       "url": "https://open.spotify.com/track/3sIEDEQCVtSdsJSuBrkTwX"
@@ -6580,7 +6668,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 196500,
       "name": "Raa Macha Vachey Raa - Vibe Anthem",
       "url": "https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV"
@@ -8124,7 +8212,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 220000,
       "name": "Unnale Nee Kosam",
       "url": "https://open.spotify.com/track/22qSRZ72otdpb4OZGe3W4k"

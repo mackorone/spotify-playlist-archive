@@ -4,7 +4,7 @@
 
 > Photo : Guy2Bezbar
 
-394 songs - 18 hr 31 min
+394 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Coupé sport](https://open.spotify.com/track/4XuGNgQo4Ztn0BIZuZGAcM) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Coupé sport](https://open.spotify.com/album/2uj3QsipfqLq766Zat7viZ) | 2:30 | 2025-09-18 |  |
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-16 | 2025-02-12 |
 | [CRAZY \(feat\. Naza\)](https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [CRAZY \(feat\. Naza\)](https://open.spotify.com/album/6lLXMBYHPG6LziicXBNOiU) | 2:14 | 2023-09-28 | 2024-02-09 |
-| [Cristaline](https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Cristaline](https://open.spotify.com/album/29nlVmBV3PkXA98DtlwMaR) | 2:54 | 2025-10-02 |  |
+| [Cristalline](https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Cristalline](https://open.spotify.com/album/29nlVmBV3PkXA98DtlwMaR) | 2:54 | 2025-10-02 |  |
 | [Cullinan](https://open.spotify.com/track/3YayhNph43ExprziXDkKxR) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:11 | 2025-10-02 |  |
 | [Cuídate](https://open.spotify.com/track/5BiU6wOId5pUo6mlSuBajs) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:30 | 2025-07-03 | 2025-08-15 |
 | [Célibataire](https://open.spotify.com/track/2PBYKNHnCdyMQEWnvIh1Cy) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Célibataire](https://open.spotify.com/album/6kIdAgk5opYnlllJ4VBGsL) | 3:01 | 2025-06-19 | 2025-07-18 |
@@ -286,6 +286,7 @@
 | [Populaire](https://open.spotify.com/track/77t6M21eaWB204PgnD1byj) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Populaire](https://open.spotify.com/album/5Va77etcxm2inKxBICFWiL) | 3:24 | 2025-09-11 |  |
 | [Potentiel](https://open.spotify.com/track/6hqSDLb1u5x1kduc51ZMym) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Potentiel](https://open.spotify.com/album/0cwJIqmCIJuIujx7YmSSjZ) | 3:00 | 2024-02-08 | 2024-04-26 |
 | [Poupeta](https://open.spotify.com/track/5eIKVbZSCaTjcAQnvsibTI) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Poupeta](https://open.spotify.com/album/1teaKfLKGiM0Q4H5SrxAfr) | 2:40 | 2025-04-24 | 2025-06-06 |
+| [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 | 2025-10-02 |  |
 | [Pourtant \(feat\. Merveille\)](https://open.spotify.com/track/4Chon33DODCJeShDWwDbPI) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Olyboy](https://open.spotify.com/album/2DLkXtckhBO5qtjvAtHkBS) | 3:09 | 2025-04-03 | 2025-05-02 |
 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-05 |  |
 | [Promis](https://open.spotify.com/track/2s0n6Lv3JfFdUqBfRz7UST) | [La MG](https://open.spotify.com/artist/7pb3uaqGt1rWmo3mWqt8rO) | [PROLOGUE](https://open.spotify.com/album/52caahiDHE6U2rFtZa1yiZ) | 2:51 | 2024-02-22 | 2024-04-26 |
@@ -366,7 +367,6 @@
 | [Toute la Noché](https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Longue Vie à Nous](https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF) | 2:54 | 2025-02-06 | 2025-02-12 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 |  |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
-| [Track 6](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 | 2023-09-28 | 2024-05-10 |
 | [TROP TARD](https://open.spotify.com/track/4g6v0Y4KEwdfwCDii1SFob) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e) | [TROP TARD](https://open.spotify.com/album/1mkOVWIB0xuPts7ASixrs7) | 2:26 | 2025-08-28 | 2025-09-19 |

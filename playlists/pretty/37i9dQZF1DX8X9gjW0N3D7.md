@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Vincent Vallières
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,123 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,121 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sarah](https://open.spotify.com/track/626vFZjPFRPHnjAha24UKW) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Sarah](https://open.spotify.com/album/6Pctlav5tWkidNJ9nOvYiU) | 3:29 |
-| 2 | [L'amour est un jeu](https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [](https://open.spotify.com/album/null) | 2:23 |
+| 2 | [L'amour est un jeu](https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:23 |
 | 3 | [Tell Me](https://open.spotify.com/track/5ZKbEHSvrAqZZpkzJ10ipr) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Tell me](https://open.spotify.com/album/08gNtnN523VmVAszVth4n1) | 2:40 |
-| 4 | [Fièvre des andes](https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Fièvre des andes](https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA) | 3:09 |
+| 4 | [Fièvre des Andes](https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Fièvre des Andes](https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA) | 3:09 |
 | 5 | [FMLP](https://open.spotify.com/track/6ChkBaOFS8J3oxFdF1iG8G) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [FMLP](https://open.spotify.com/album/5qzkcGjQiSdjk5MPw7SEzn) | 3:02 |
 | 6 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 |
 | 7 | [Mélancolie](https://open.spotify.com/track/6vYbyQpKM21rfhsHwb4HIb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Mélancolie](https://open.spotify.com/album/08DouzOCc4c0MyhfCD5hNt) | 3:49 |
 | 8 | [Les joues usées](https://open.spotify.com/track/3VyPjqDCcayoaFS2vMaSOE) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Les joues usées](https://open.spotify.com/album/595WyOfWzcRZKwv88ik3kO) | 3:18 |
 | 9 | [J'ai besoin de cette chance](https://open.spotify.com/track/55f3bjbsl6ih6M3wm4TcvB) | [Andréane Le May](https://open.spotify.com/artist/2NGzDvmw2CBYLEUuLKPiKe) | [J'ai besoin de cette chance](https://open.spotify.com/album/2t4yc3Lrqr7BH2a4b1SodF) | 3:31 |
 | 10 | [Sèche tes pleurs](https://open.spotify.com/track/3Yjg2QQaJnPoeJCpZoZFEc) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Sèche tes pleurs](https://open.spotify.com/album/3ZGqWmmePbs2wzLmCthiPA) | 2:33 |
-| 11 | [Fond d'pichet sale de sangria](https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [](https://open.spotify.com/album/null) | 4:48 |
+| 11 | [Fond d'pichet sale de sangria](https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 4:48 |
 | 12 | [Méfiez\-vous du grand amour \- 2025 Remasterisé](https://open.spotify.com/track/2j9u6P6jO3aK5i5OotMDAg) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Mefiez\-vous du grand amour \(2025 Remasterisé\)](https://open.spotify.com/album/16lDD0UzqaYkGmGyZjmsVL) | 4:58 |
 | 13 | [Haut les coeurs](https://open.spotify.com/track/1u2PUteLAyyTzayuoyo6xG) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Haut les coeurs](https://open.spotify.com/album/4m7NTsvQteb5DMFTWBD5I6) | 3:01 |
 | 14 | [Cœurs météores](https://open.spotify.com/track/0iVJSnag003e8swPiOW75G) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Cœurs météores](https://open.spotify.com/album/2TflqhF0BxpFCMszw7CPlc) | 3:14 |

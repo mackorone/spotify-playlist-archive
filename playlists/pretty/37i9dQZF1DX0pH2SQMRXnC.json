@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1480883,
+  "num_followers": 1481215,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,30 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
+        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
         "name": "Be Somebody",
         "url": "https://open.spotify.com/album/0mRAOZAX50yiKFMXA1LNnP"
       },
@@ -611,30 +635,6 @@
       "duration_ms": 165744,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/5NZqHX364zHsyiKf1Lo4BZ"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
-        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
-        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Leila K",
-          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
-      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -851,18 +851,22 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
+        "name": "Can Can",
+        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
       "artists": [
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         }
       ],
-      "duration_ms": 233806,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
+      "duration_ms": 128812,
+      "name": "Can Can",
+      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -891,22 +895,34 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Can Can",
-        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
       },
       "artists": [
         {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 128812,
-      "name": "Can Can",
-      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+      "duration_ms": 233806,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "GO STUPID",
+        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "GO STUPID",
+      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -927,22 +943,6 @@
       "duration_ms": 187355,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
-        "name": "GO STUPID",
-        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "GO STUPID",
-      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Now We Are Free",
-        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Blademasterz",
-          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Now We Are Free",
-      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
       },
@@ -1063,6 +1039,50 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
         "name": "It Must Have Been Love (feat. Charla K)",
         "url": "https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy"
       },
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
       },
@@ -1127,6 +1127,26 @@
       "duration_ms": 216937,
       "name": "Everytime We Touch - Sound Rush Remix",
       "url": "https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
         }
       ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+      "duration_ms": 199941,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1287,22 +1303,6 @@
       "duration_ms": 177750,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 199941,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Waste Your Youth",
         "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "FEELIN' HIGH",
-        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
-      },
-      "artists": [
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        },
-        {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "FEELIN' HIGH",
-      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Till I Collapse",
         "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 158007,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "FEELIN' HIGH",
+        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "FEELIN' HIGH",
+      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Renaissance Of Rave",
         "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 182168,
       "name": "Trip To Mars (Astronauts)",
       "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
+        "name": "DAS IST KEIN TECHNO",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "DAS IST KEIN TECHNO",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6dMqEElnU2Wvs51782cVoA"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 211317,
       "name": "Voices",
       "url": "https://open.spotify.com/track/0HJ2kATf1sI79sLu4FNxd2"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
-        "name": "DAS IST KEIN TECHNO",
-        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "DAS IST KEIN TECHNO",
-      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
       },
@@ -2023,22 +2007,18 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Aliens On Acid",
-        "url": "https://open.spotify.com/album/2uWl3zx25KruSMy8dML13B"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
       },
       "artists": [
         {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Sarah Anglionin",
-          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Aliens On Acid",
-      "url": "https://open.spotify.com/track/3CsSF3Ty6F3qa09ngJcps2"
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2083,6 +2063,26 @@
       "duration_ms": 314348,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "Aliens On Acid",
+        "url": "https://open.spotify.com/album/2uWl3zx25KruSMy8dML13B"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Sarah Anglionin",
+          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Aliens On Acid",
+      "url": "https://open.spotify.com/track/3CsSF3Ty6F3qa09ngJcps2"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "FACE 2 FACE",
-        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "FACE 2 FACE",
-      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "2 Be High",
         "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
       },
@@ -2203,6 +2183,26 @@
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "FACE 2 FACE",
+        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "FACE 2 FACE",
+      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Like A Ghost",
-        "url": "https://open.spotify.com/album/3uYwZ5JZzWSMnsmpJ1LQEr"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "Lady Faith",
-          "url": "https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "Like A Ghost",
-      "url": "https://open.spotify.com/track/0MveIhSClzKdeS9dGadnlI"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13"
       },
@@ -2359,22 +2339,22 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0ZXPIUZ103IBjPI2qHGI9T"
+        "name": "Like A Ghost",
+        "url": "https://open.spotify.com/album/3uYwZ5JZzWSMnsmpJ1LQEr"
       },
       "artists": [
         {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         },
         {
-          "name": "Galactixx",
-          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+          "name": "Lady Faith",
+          "url": "https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01"
         }
       ],
-      "duration_ms": 182468,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1LVaVxu8lFUvMYVBlPMsUu"
+      "duration_ms": 225750,
+      "name": "Like A Ghost",
+      "url": "https://open.spotify.com/track/0MveIhSClzKdeS9dGadnlI"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2391,6 +2371,26 @@
       "duration_ms": 75000,
       "name": "Holy Madness",
       "url": "https://open.spotify.com/track/01lqSCzwSqM3c4JBc79CL1"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0ZXPIUZ103IBjPI2qHGI9T"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "duration_ms": 182468,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1LVaVxu8lFUvMYVBlPMsUu"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Everything Changes",
-        "url": "https://open.spotify.com/album/4Ouu5LmXdZfmwru7uHfqxd"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 158829,
-      "name": "Everything Changes",
-      "url": "https://open.spotify.com/track/4CCpU2T9I1oVXF8zVBafWk"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "Everything Changes",
+        "url": "https://open.spotify.com/album/4Ouu5LmXdZfmwru7uHfqxd"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 158829,
+      "name": "Everything Changes",
+      "url": "https://open.spotify.com/track/4CCpU2T9I1oVXF8zVBafWk"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "HELP_LESS",
-        "url": "https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7"
-      },
-      "artists": [
-        {
-          "name": "DEEZL",
-          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
-        }
-      ],
-      "duration_ms": 187875,
-      "name": "HELP_LESS",
-      "url": "https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Het Ergste Moet Nog Komen",
         "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
       },
@@ -2719,22 +2703,6 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "G.L.Y.",
-        "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "G.L.Y.",
-      "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
-    },
-    {
-      "added_at": "2025-09-25 13:05:11",
-      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -2747,6 +2715,38 @@
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "HELP_LESS",
+        "url": "https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        }
+      ],
+      "duration_ms": 187875,
+      "name": "HELP_LESS",
+      "url": "https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG"
+    },
+    {
+      "added_at": "2025-09-25 13:05:11",
+      "album": {
+        "name": "G.L.Y.",
+        "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "G.L.Y.",
+      "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -2971,30 +2971,18 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "Ik Ga Harder (feat. Jayh)",
-        "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
+        "name": "The Alarm",
+        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
       },
       "artists": [
         {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Dutch Movement",
-          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
-        },
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
         }
       ],
-      "duration_ms": 142451,
-      "name": "Ik Ga Harder (feat. Jayh)",
-      "url": "https://open.spotify.com/track/4PN7bjVOqDqztpBkfIXdOK"
+      "duration_ms": 193500,
+      "name": "The Alarm",
+      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
     },
     {
       "added_at": "2025-09-25 13:05:11",
@@ -3019,18 +3007,30 @@
     {
       "added_at": "2025-09-25 13:05:11",
       "album": {
-        "name": "The Alarm",
-        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
+        "name": "Ik Ga Harder (feat. Jayh)",
+        "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
       },
       "artists": [
         {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Dutch Movement",
+          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
+        },
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
         }
       ],
-      "duration_ms": 193500,
-      "name": "The Alarm",
-      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
+      "duration_ms": 142451,
+      "name": "Ik Ga Harder (feat. Jayh)",
+      "url": "https://open.spotify.com/track/4PN7bjVOqDqztpBkfIXdOK"
     }
   ],
   "unique_name": "Hardstyle Bangers",

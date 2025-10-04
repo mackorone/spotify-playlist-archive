@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 490665,
+  "num_followers": 490737,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAACI4T+1OBZjitgFErFzt0s4",
+  "snapshot_id": "aN3AgAAAAAADg9v0S+GYbG1GG8ZUhEhN",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sabbath (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 583800,
-      "name": "Wasp / Behind the Wall of Sleep / Bassically / N.I.B. - 2014 Remaster",
-      "url": "https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Headless Cross (2024 Remaster)",
         "url": "https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 389226,
       "name": "Headless Cross - 2024 Remaster",
       "url": "https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sabbath (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 583800,
+      "name": "Wasp / Behind the Wall of Sleep / Bassically / N.I.B. - 2014 Remaster",
+      "url": "https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI"
     },
     {
       "added_at": null,

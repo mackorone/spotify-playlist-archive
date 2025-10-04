@@ -800,7 +800,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 409000,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3SltbYOonsngqJJyc66Qb5"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384427,
+      "name": "Deus de Obras Completas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8"
+    },
+    {
+      "album": {
         "name": "Deus Emanuel",
         "url": "https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4"
       },
@@ -1807,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
+    },
+    {
+      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -1942,6 +1982,24 @@
       "duration_ms": 255600,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "album": {
+        "name": "Em Todas As \u00c1reas (Milagres)",
+        "url": "https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297313,
+      "name": "Em Todas As \u00c1reas (Milagres)",
+      "url": "https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT"
     },
     {
       "album": {
@@ -2512,7 +2570,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 255333,
       "name": "Eu S\u00f3 Quero Adorar",
       "url": "https://open.spotify.com/track/0NUF4588gE3fH3GJdNtQFr"
@@ -3058,7 +3116,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 292060,
       "name": "Indesculp\u00e1vel - Ao Vivo",
       "url": "https://open.spotify.com/track/2SXf666pntxDWc7i3bp7XF"
@@ -3601,6 +3659,46 @@
     },
     {
       "album": {
+        "name": "Messias",
+        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367846,
+      "name": "Messias",
+      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
+    },
+    {
+      "album": {
+        "name": "Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489442,
+      "name": "Messias - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
+    },
+    {
+      "album": {
         "name": "Meu Abrigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
@@ -3704,6 +3802,28 @@
       "duration_ms": 452000,
       "name": "Meu Pai Governa",
       "url": "https://open.spotify.com/track/1HyP1gEk4yLdtxkwOf8Li5"
+    },
+    {
+      "album": {
+        "name": "MEU UNIVERSO",
+        "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252479,
+      "name": "MEU UNIVERSO",
+      "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
     },
     {
       "album": {
@@ -4574,7 +4694,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca"
@@ -6206,7 +6326,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 453930,
       "name": "Teu Toque - Ao Vivo",
       "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
@@ -7054,7 +7174,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 398188,
       "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
       "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"

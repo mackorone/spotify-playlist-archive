@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/10dumwLFKAySOp08qSpdom"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340746,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/43xkvx0JTUd4x4mAJm79H4"
+    },
+    {
+      "album": {
         "name": "Escape EP",
         "url": "https://open.spotify.com/album/6oc7OKNAXGt9qOpBoekO3t"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 251731,
       "name": "Glasshouse (feat. Julia Church)",
       "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
@@ -3617,6 +3635,28 @@
     },
     {
       "album": {
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173554,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
+    },
+    {
+      "album": {
         "name": "Brightest Lights",
         "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },
@@ -4438,7 +4478,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 243100,
       "name": "Swim",
       "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
@@ -5226,6 +5266,24 @@
       "duration_ms": 346000,
       "name": "Yl She's Away",
       "url": "https://open.spotify.com/track/7wmcHEZoSUJcUv8ANVjYyK"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0X6uOzPmx1XRmCdvEkJdVG"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242437,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim"
     },
     {
       "album": {

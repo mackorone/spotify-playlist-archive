@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Iv\u00e1n Ferreiro.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 227533,
       "name": "A Ratos",
       "url": "https://open.spotify.com/track/3rWww1QHFAcHvbeUqW8JbS"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 161013,
       "name": "AMarte",
       "url": "https://open.spotify.com/track/0vPqLuHLNfYAr9WEOARDkv"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 189450,
       "name": "Camale\u00f3n",
       "url": "https://open.spotify.com/track/1BvS2e5k6Q9s6Y1czVPn0j"
@@ -1792,6 +1792,24 @@
       "duration_ms": 220000,
       "name": "Cero",
       "url": "https://open.spotify.com/track/3bhXXovZkABx9Lcr3FrtoD"
+    },
+    {
+      "album": {
+        "name": "1973",
+        "url": "https://open.spotify.com/album/1Lotfo5byxZL9S3teWnwhd"
+      },
+      "artists": [
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311186,
+      "name": "Cheques falsos",
+      "url": "https://open.spotify.com/track/02dbdKrytktRAeHCTMjQpJ"
     },
     {
       "album": {
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 192186,
       "name": "Cu\u00e1ndo cerrar",
       "url": "https://open.spotify.com/track/51Sp09VubhQvP8iUqchTmG"
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 285920,
       "name": "De verdad lo siento",
       "url": "https://open.spotify.com/track/50oXBq1jbAF7XJ78hT2l5Q"
@@ -5451,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Hemos tenido suerte",
+        "url": "https://open.spotify.com/album/332RHcFKI5LGE3UMXrcrxc"
+      },
+      "artists": [
+        {
+          "name": "Brighton 64",
+          "url": "https://open.spotify.com/artist/1luZ3ie9CVbTWbnELZmrzz"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190812,
+      "name": "Hemos tenido suerte",
+      "url": "https://open.spotify.com/track/5x9FFKapZETDVBsZC5wnkv"
+    },
+    {
+      "album": {
         "name": "Diario de una tregua",
         "url": "https://open.spotify.com/album/7cmVvrFXZuMgiEakavUfQO"
       },
@@ -5480,7 +5516,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 257267,
       "name": "Horas Infinitas",
       "url": "https://open.spotify.com/track/6H2uiDE7SisfFVmcdkGwSk"
@@ -6978,7 +7014,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 221379,
       "name": "Ley Animal - En Directo",
       "url": "https://open.spotify.com/track/3PdnFf274NLosMhazTT19d"
@@ -7036,6 +7072,24 @@
       "duration_ms": 219237,
       "name": "Llorar y bailar",
       "url": "https://open.spotify.com/track/4bpwrOQ9FLsNUmfkKQkL8s"
+    },
+    {
+      "album": {
+        "name": "Llorar\u00e9",
+        "url": "https://open.spotify.com/album/2aGiGNGM3rIQJVDXIuxjsr"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256821,
+      "name": "Llorar\u00e9",
+      "url": "https://open.spotify.com/track/0T74LiMmqOu1rUlpEhEdzp"
     },
     {
       "album": {
@@ -7250,7 +7304,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 209266,
       "name": "Los martes",
       "url": "https://open.spotify.com/track/6JZQPZ7YzTdUcM1nzz6Qzs"
@@ -7792,6 +7846,24 @@
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "album": {
+        "name": "Pelo De Foca",
+        "url": "https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Matanza En El Hotel",
+      "url": "https://open.spotify.com/track/1HoQJxHaWa8USxYXjuJpTK"
     },
     {
       "album": {
@@ -10516,7 +10588,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 190013,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
@@ -10734,6 +10806,24 @@
       "duration_ms": 211081,
       "name": "Si T\u00fa Piensas en M\u00ed",
       "url": "https://open.spotify.com/track/2J9tqG6nPJ4LmcXEFnn1UF"
+    },
+    {
+      "album": {
+        "name": "Siempre Hacia Delante",
+        "url": "https://open.spotify.com/album/5HGJVZb1hl8ev4BfTg5Pnp"
+      },
+      "artists": [
+        {
+          "name": "Obus",
+          "url": "https://open.spotify.com/artist/5OImtJcOmtdm3MkR1yLHkp"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191492,
+      "name": "Siempre Hacia Delante",
+      "url": "https://open.spotify.com/track/1w33qmKGM7hl6KvMxoAwya"
     },
     {
       "album": {
@@ -12102,6 +12192,28 @@
       "duration_ms": 137130,
       "name": "UNA T\u00cdA NORMAL",
       "url": "https://open.spotify.com/track/3Q3Db6N9eT5C0MIBKrw0AJ"
+    },
+    {
+      "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/5kwiCzvnlZ6ZkmJWZsd6QU"
+      },
+      "artists": [
+        {
+          "name": "Whisky Caravan",
+          "url": "https://open.spotify.com/artist/2sNzYvtWH9mUVsYTiMi4Dz"
+        },
+        {
+          "name": "Kutxi Romero",
+          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238522,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0s1WghnlHucxz4iQGV8ORX"
     },
     {
       "album": {

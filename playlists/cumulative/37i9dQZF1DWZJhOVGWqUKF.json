@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "One Simple Trick",
+        "url": "https://open.spotify.com/album/3mK0jqmMbU0qXx0bnkirpU"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219566,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU"
+    },
+    {
+      "album": {
         "name": "Barely Breathing (feat. Against The Current)",
         "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
@@ -3341,8 +3359,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/6Hv27mfvRRJi1NMXkams3J"
       },
       "artists": [
         {
@@ -6203,6 +6221,24 @@
     },
     {
       "album": {
+        "name": "The Father of Make Believe (New Entities Edition)",
+        "url": "https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236082,
+      "name": "Key Entity Extraction IX - Shiloh The Selfish",
+      "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
+    },
+    {
+      "album": {
         "name": "Kill Me Fast",
         "url": "https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y"
       },
@@ -8679,8 +8715,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "X\u2019s For Eyes",
+        "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
       },
       "artists": [
         {
@@ -8989,8 +9025,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
       "artists": [
         {
@@ -11708,42 +11744,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 18",
-      "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
     },
     {
       "album": {

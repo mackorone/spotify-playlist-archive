@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "All Alone (My Ball)",
+        "url": "https://open.spotify.com/album/2n1l0rwBTTT2SH2pC4yMOG"
+      },
+      "artists": [
+        {
+          "name": "Austin Martin",
+          "url": "https://open.spotify.com/artist/0qfbt2YTNKE9CUK86om6ci"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173833,
+      "name": "All Alone (My Ball)",
+      "url": "https://open.spotify.com/track/3RRHsLxTiDooIAINANe4t2"
+    },
+    {
+      "album": {
         "name": "Kuntry",
         "url": "https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE"
       },
@@ -3566,6 +3584,28 @@
       "duration_ms": 242001,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q"
+    },
+    {
+      "album": {
+        "name": "Z71 (BOOSTED) [feat. Colt Graves]",
+        "url": "https://open.spotify.com/album/5JGKYXY2nUPqaJLcwZfkTx"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        },
+        {
+          "name": "Colt Graves",
+          "url": "https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203139,
+      "name": "Z71 (BOOSTED) [feat. Colt Graves]",
+      "url": "https://open.spotify.com/track/1v5kQnkl0RRDPGEnwOo2Wo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXbiccytJ5L7"

@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Dos Gotas de Agua",
+        "url": "https://open.spotify.com/album/1Kosuz65EekRnT8zsAcoQj"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "Como Paloma Herrante",
+      "url": "https://open.spotify.com/track/7wQDt6oSrDlsA9KypnRoOY"
+    },
+    {
+      "album": {
         "name": "El Presente Es Lo Que Cuenta",
         "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
       },
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 234026,
       "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
       "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"

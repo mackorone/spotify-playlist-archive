@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,788 likes - 68 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,807 likes - 68 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 67 | [Find the ingredients!](https://open.spotify.com/track/0tr09ajjvpTQfBWP5s2EKm) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [『劇場版 SPY×FAMILY CODE: White』　オリジナル･サウンドトラック](https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or) | 2:11 |
 | 68 | [Snow Smoke](https://open.spotify.com/track/2mFWkXvdEHjSIjwwQgVy24) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [『劇場版 SPY×FAMILY CODE: White』　オリジナル･サウンドトラック](https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or) | 2:03 |
 
-Snapshot ID: `AAAAACdh8oG8iCSmLIPItR4ncd5FOqYY`
+Snapshot ID: `AAAAACTvn18Dq/JOoBEb5ynEz1k4Lg81`

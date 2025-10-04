@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Al Nicol, Hiss Golden Messenger
 
-1,359 songs - 3 day 9 hr 46 min
+1,359 songs - 3 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [514\-415](https://open.spotify.com/track/4HIKvlYBPneU1DbxFJEvmT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [514\-415](https://open.spotify.com/album/68tgADpuMYVggWvaBfosiO) | 3:43 | 2025-01-31 | 2025-03-15 |
 | [9beat](https://open.spotify.com/track/1Oy7QJxv45ubZDirk4z0Lk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:06 | 2023-10-27 | 2023-12-09 |
 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 | 2023-06-02 | 2023-11-04 |
+| [A Bend In The Light](https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [A Bend In The Light](https://open.spotify.com/album/4mRh3F5YuHK8pALmGcaujN) | 3:00 | 2025-10-03 |  |
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-09-09 | 2023-02-04 |
 | [a good thing](https://open.spotify.com/track/3XtGjqUdiR7VMNxb8Xoi1S) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [a good thing](https://open.spotify.com/album/14nhkua7uoi6y8CYDKoJWd) | 4:02 | 2024-09-20 | 2025-03-15 |
 | [A Lesson In Leavin’](https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [A Lesson In Leavin'](https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu) | 3:24 | 2025-07-24 | 2025-09-12 |
@@ -184,7 +185,7 @@
 | [Call on Me](https://open.spotify.com/track/1f0tS8qA5DsPUzhlRnWyj9) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Call on Me](https://open.spotify.com/album/64UJBGBzbvhy1SmTCOhtl3) | 3:00 | 2025-09-19 |  |
 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 | 2022-06-10 | 2022-07-30 |
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-09-15 | 2023-11-11 |
-| [Can't Keep From Singing](https://open.spotify.com/track/75YQt9dU8jRsdCf1Gnxuia) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [](https://open.spotify.com/album/null) | 4:29 | 2025-10-03 |  |
+| [Can't Keep From Singing](https://open.spotify.com/track/75YQt9dU8jRsdCf1Gnxuia) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Circle Remains](https://open.spotify.com/album/7Df1VBSYFcpF0tORYYeE6D) | 4:29 | 2025-10-03 |  |
 | [Can't Stop Loving You \(Live from the Treehouse\)](https://open.spotify.com/track/3qo22ku7j0p8xsMBymHUo4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Can't Stop Loving You \(Live from the Treehouse\)](https://open.spotify.com/album/2v06baVYPu4TDtZXXXMltq) | 3:51 | 2024-03-01 | 2024-07-06 |
 | [Cannibal](https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:00 | 2022-09-16 | 2023-01-14 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-22 | 2022-09-20 |
@@ -265,7 +266,7 @@
 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 | 2025-09-12 |  |
 | [Day to Day](https://open.spotify.com/track/4jn5vtP9ciKva3ToQs8Lzo) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Day to Day](https://open.spotify.com/album/6Mz8WwrNcH5kJwFpfN8ChG) | 3:28 | 2022-05-13 | 2022-06-25 |
 | [Daydream](https://open.spotify.com/track/32pXMjwyuQaau2jgf6BTua) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Daydream](https://open.spotify.com/album/5AWER3YK1Wi9HZ1FjfHRmo) | 2:26 | 2024-04-26 | 2024-09-07 |
-| [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [](https://open.spotify.com/album/null) | 3:15 | 2025-10-03 |  |
+| [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-10-03 |  |
 | [Days Can Turn Around](https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Days Can Turn Around](https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE) | 3:58 | 2024-01-05 | 2024-04-06 |
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-07 | 2023-04-29 |
 | [Days That End](https://open.spotify.com/track/0nIZiFIOlLXd7buMxEUA5u) | [Jacob Weil](https://open.spotify.com/artist/4L50moKlrIfcueE7nTN237) | [Days That End](https://open.spotify.com/album/5EhfFqQIkVhhhfD4bifzzl) | 3:35 | 2023-07-07 | 2024-01-06 |
@@ -813,7 +814,7 @@
 | [Never Not Sunday](https://open.spotify.com/track/0I4MoWFuqj48cBzbIMgZ6D) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Never Not Sunday](https://open.spotify.com/album/4pZYb4QMYfa0Yx1YCEaVn2) | 2:39 | 2022-07-29 | 2023-03-11 |
 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 | 2024-07-19 | 2025-01-11 |
 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 | 2023-11-17 | 2024-01-13 |
-| [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [](https://open.spotify.com/album/null) | 4:15 | 2025-10-03 |  |
+| [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [New Highs, Pt\. 1](https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf) | 4:15 | 2025-10-03 |  |
 | [New Life](https://open.spotify.com/track/6dd4Kc5Lu4BLK2ijAeiH0t) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [New Life](https://open.spotify.com/album/4As21UhIgvbFND0OmzCFKB) | 3:10 | 2023-02-17 | 2023-03-25 |
 | [Next To Me](https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Next To Me](https://open.spotify.com/album/4dyNIU75ppnJATmOF1QPbC) | 3:50 | 2025-07-11 | 2025-09-05 |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-05-13 | 2022-10-01 |
@@ -1222,7 +1223,6 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 | 2023-10-28 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 | 2023-09-09 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
-| [Track 4](https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 | 2024-07-26 | 2025-01-18 |
 | [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |

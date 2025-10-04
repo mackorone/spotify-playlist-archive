@@ -2,7 +2,7 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\.  Cover: Teejay
+> A melting pot of Caribbean culture\. Cover: Byron Messia
 
 270 songs - 13 hr 21 min
 

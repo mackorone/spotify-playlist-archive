@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,363 songs - 2 day 22 hr 30 min
+1,363 songs - 2 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -933,6 +933,7 @@
 | [Pool Party](https://open.spotify.com/track/15mEZWV8zsXtlQuq3fnv5C) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/3fecplOGKGwnaQLDkuywd4) | 2:58 | 2023-05-05 | 2023-10-07 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-01-07 | 2022-03-15 |
 | [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 | 2024-11-08 |  |
+| [preaching to the choir](https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog years](https://open.spotify.com/album/50mjtzsNGH18GWiE8DQljM) | 2:54 | 2025-10-03 |  |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2022-01-07 | 2022-05-07 |
 | [pretty](https://open.spotify.com/track/5BCaPnsHqowMxitUiMZZF2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [pretty](https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc) | 2:40 | 2024-03-29 | 2025-04-26 |
 | [Pretty Blue Jeans & Me](https://open.spotify.com/track/5jgEDq4DihrSZV8u4igfIV) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Pretty Blue Jeans & Me](https://open.spotify.com/album/3lzJBYA6Yc7FcjJG1hf1vO) | 2:51 | 2021-10-02 | 2022-01-29 |
@@ -1238,7 +1239,6 @@
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 | 2023-02-11 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 | 2022-09-16 |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-13 | 2021-04-24 |
-| [Track 4](https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-27 | 2021-06-05 |
 | [Trees](https://open.spotify.com/track/6YLhqdCWw0RYe0kDFUWRqh) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Lonely Never Felt So Good](https://open.spotify.com/album/2CiV7RABTWEJJnkbAMuAq3) | 2:51 | 2021-03-27 | 2021-06-05 |
 | [trophy wife](https://open.spotify.com/track/0PhejYk9QZijuKAvBI43x9) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [trophy wife](https://open.spotify.com/album/2iJc8FbBbIw0Vpx84dL0xv) | 2:49 | 2024-06-28 | 2025-10-03 |

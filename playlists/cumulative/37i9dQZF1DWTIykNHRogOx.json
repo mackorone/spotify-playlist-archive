@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "La symphonie des \u00e9clairs (Orchestral Odyssey)",
+        "url": "https://open.spotify.com/album/15FZlljjgimILw4hn7urFj"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Langage - Orchestral",
+      "url": "https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP"
+    },
+    {
+      "album": {
         "name": "Jeanne",
         "url": "https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8"
       },
@@ -3832,24 +3850,6 @@
       "duration_ms": 252413,
       "name": "Tout sera pardonn\u00e9",
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP"
     },
     {
       "album": {

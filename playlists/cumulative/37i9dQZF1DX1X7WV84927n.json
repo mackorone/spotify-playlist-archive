@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: I Prevail.",
+  "description": "For full-volume lovers. Cover: Ghost",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -9507,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "I Don't Belong Here",
+        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Hereditary",
+      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "album": {
         "name": "Mutation",
         "url": "https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2"
       },
@@ -11494,7 +11512,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 166101,
       "name": "Keep Swinging",
       "url": "https://open.spotify.com/track/1tSxKX7htqEKDD6sjgsT6y"
@@ -11516,6 +11534,24 @@
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
+    },
+    {
+      "album": {
+        "name": "The Father of Make Believe (New Entities Edition)",
+        "url": "https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236082,
+      "name": "Key Entity Extraction IX - Shiloh The Selfish",
+      "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
     },
     {
       "album": {
@@ -12914,6 +12950,24 @@
       "duration_ms": 198400,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/5yv3Wt4FSt0rijkxAIdXji"
+    },
+    {
+      "album": {
+        "name": "Love & Affection",
+        "url": "https://open.spotify.com/album/1LFWEcebfbTmhXzZUzDul0"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "Love & Affection",
+      "url": "https://open.spotify.com/track/5TXJoTMQNIXgy2rRmqNmlT"
     },
     {
       "album": {
@@ -14832,7 +14886,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 361130,
       "name": "Night Terror - Radio Edit",
       "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
@@ -17882,6 +17936,24 @@
     {
       "album": {
         "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
       },
       "artists": [
@@ -18472,7 +18544,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 209765,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5t36qVZtuRyySgHeiX3mem"
@@ -24260,7 +24332,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 265066,
       "name": "We Will Not Disband",
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"

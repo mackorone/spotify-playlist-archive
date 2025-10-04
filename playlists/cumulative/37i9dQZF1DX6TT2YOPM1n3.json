@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to the greatest Pakistani hits \ud83c\udfb6 Cover: Bayaan",
+  "description": "Home to the greatest Pakistani hits \ud83c\udfb6 Cover: Hasan Raheem",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 180890,
       "name": "Distant",
       "url": "https://open.spotify.com/track/7Lw9zeFHaxoSUwAcCtGCP1"
@@ -2904,6 +2904,28 @@
       "duration_ms": 263152,
       "name": "Main Rang Sharbaton Ka",
       "url": "https://open.spotify.com/track/1yYM7dY6wSJFp5qmxPRLu1"
+    },
+    {
+      "album": {
+        "name": "Majboor",
+        "url": "https://open.spotify.com/album/15AHQmI89vZpF6a5o8i3J7"
+      },
+      "artists": [
+        {
+          "name": "Sheheryar Rehan",
+          "url": "https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Majboor",
+      "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
     },
     {
       "album": {

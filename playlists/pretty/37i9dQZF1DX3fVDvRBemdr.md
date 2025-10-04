@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Henk Dissel
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,287 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,283 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 13 | [Niemand hoeft te weten](https://open.spotify.com/track/2en1p3o2X5F6svzYt8JYE5) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Niemand hoeft te weten](https://open.spotify.com/album/5igcKSyFajYfNSwFkJCUAC) | 2:47 |
 | 14 | [Lang Leve De Liefde](https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Lang Leve De Liefde](https://open.spotify.com/album/10JieUGwi4xX0Je8SeWldV) | 2:28 |
 | 15 | [Als Ik Haar Mis](https://open.spotify.com/track/0bTUv0rDKC8HPvbDXUmCOd) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Als Ik Haar Mis](https://open.spotify.com/album/2vD1dSxai0zdUQnYNyGEFV) | 3:03 |
-| 16 | [Liebe \- Liefde](https://open.spotify.com/track/15BYJbkRtN87Ze8YwWP6Kq) | [Otto Lagerfett](https://open.spotify.com/artist/6qKfBpLaksGRY7IAZaDldG), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Liebe \- Liefde](https://open.spotify.com/album/6Au6PqEXL1ZZoWCI9rT6cW) | 3:16 |
+| 16 | [Wat is dan liefde](https://open.spotify.com/track/15BYJbkRtN87Ze8YwWP6Kq) | [Otto Lagerfett](https://open.spotify.com/artist/6qKfBpLaksGRY7IAZaDldG), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Wat is dan liefde](https://open.spotify.com/album/6Au6PqEXL1ZZoWCI9rT6cW) | 3:16 |
 | 17 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 |
 | 18 | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF) | 3:12 |
 | 19 | [Lasso](https://open.spotify.com/track/5lihKgTFTQiG2j1EdqsSQc) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Lasso](https://open.spotify.com/album/2TnzFF3tZIPFEngFXAbGz0) | 3:33 |

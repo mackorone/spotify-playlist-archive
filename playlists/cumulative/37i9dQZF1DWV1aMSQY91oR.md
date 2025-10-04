@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\. Cover: Doja Cat
+> We'll be back next week with the latest in hip\-hop\. Cover: Young Thug
 
 4,187 songs - 8 day 8 hr 3 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 307171,
+  "num_followers": 307178,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAAxz6zvSyWrnvSd6eLTaeaJ",
+  "snapshot_id": "aN3AgAAAAAC3EbGanc6zAqYpk3oPwm9B",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 345053,
       "name": "Ainda Gosto de Voc\u00ea / J\u00e1 Era - Ao Vivo",
       "url": "https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": null,
@@ -624,13 +624,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 201301,
-      "name": "Sinais de fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
+      "duration_ms": 181157,
+      "name": "Ins\u00f4nia - Ao Vivo",
+      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
     },
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ningu\u00e9m Merece Amar Sozinho",
-        "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
+        "name": "Numanice #2",
+        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
       },
       "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 227720,
-      "name": "Ningu\u00e9m Merece Amar Sozinho",
-      "url": "https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT"
+      "duration_ms": 164141,
+      "name": "Maldivas",
+      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
     },
     {
       "added_at": null,
@@ -700,13 +696,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 181157,
-      "name": "Ins\u00f4nia - Ao Vivo",
-      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
+      "duration_ms": 201301,
+      "name": "Sinais de fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
     },
     {
       "added_at": null,
@@ -727,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
+        "name": "Ningu\u00e9m Merece Amar Sozinho",
+        "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
       },
       "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 164141,
-      "name": "Maldivas",
-      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
+      "duration_ms": 227720,
+      "name": "Ningu\u00e9m Merece Amar Sozinho",
+      "url": "https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT"
     },
     {
       "added_at": null,
@@ -999,30 +999,6 @@
       "duration_ms": 186157,
       "name": "Ela Terminou No WhatsApp - Ao Vivo",
       "url": "https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gamei / Por T\u00e3o Pouco / \u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/4MwqlpUj3akFueXVeEbidL"
-      },
-      "artists": [
-        {
-          "name": "FM O Dia",
-          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 294300,
-      "name": "Gamei / Por T\u00e3o Pouco / \u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5fMN5E03Qmvb3ZnYt9AcNi"
     }
   ],
   "unique_name": "This Is LUDMILLA",

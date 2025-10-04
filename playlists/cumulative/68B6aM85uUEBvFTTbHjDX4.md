@@ -4,7 +4,7 @@
 
 > 
 
-162 songs - 13 hr 17 min
+163 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Insomnia 2021 \- Epic Edit](https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia 2021](https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX) | 4:48 | 2021-06-16 |  |
 | [It's Better When We Fake It](https://open.spotify.com/track/2YYTIL5bM9f72CZiVhMki8) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [It's Better When We Fake It](https://open.spotify.com/album/6C5zGGKbqzWO6N2dn9LbEC) | 6:58 | 2023-08-01 |  |
 | [Kammy \(like i do\)](https://open.spotify.com/track/1tOEEEM8DFyZq3CxSHeq5f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:58 | 2023-10-10 |  |
+| [Lately \- Enamour Remix](https://open.spotify.com/track/1epW8YONDcgYdExSr1Ha6k) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:22 | 2025-10-03 |  |
 | [LEGACY](https://open.spotify.com/track/0ZY1TYRRPpEAu1KUuxnaKM) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [LEGACY](https://open.spotify.com/album/5o4rfjlvkETwHpsMpaAaF3) | 3:25 | 2025-09-08 |  |
 | [Let the Bass Be Louder \- T78 Remix](https://open.spotify.com/track/05vVD36TJXTNFhXFObsSpP) | [Bass Boy](https://open.spotify.com/artist/4HGuFCXk1BeLPO5lJwifBc), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Let the Bass Be Louder \(T78 Remix\)](https://open.spotify.com/album/6zC7R2C7ywktI0KxGxbVk9) | 4:38 | 2023-08-28 |  |
 | [Lightbringers](https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:10 | 2023-07-03 |  |

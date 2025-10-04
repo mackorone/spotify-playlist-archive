@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblL3BJxZfuE.md) - [plain]
 
 > Enjoy music from "Sound! Euphonium"! /「響け！ユーフォニアム」の楽曲を１つのプレイリストに。©武田綾乃・宝島社／『響け！』製作委員会2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,808 likes - 82 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,812 likes - 82 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

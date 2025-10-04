@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived! ©S,IG/K/2045
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,536 likes - 47 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,543 likes - 47 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

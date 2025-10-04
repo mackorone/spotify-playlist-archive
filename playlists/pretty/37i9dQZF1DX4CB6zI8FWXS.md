@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,917 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,923 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 20 | [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 |
 | 21 | [Butterflies](https://open.spotify.com/track/4QGTnh9AxekobAMvaHfNAo) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Butterflies](https://open.spotify.com/album/5fpkYJHEUM5DMGyxK1oeVF) | 2:28 |
 | 22 | [Vacancy](https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U) | 3:03 |
-| 23 | [Nan's The Word](https://open.spotify.com/track/1TLmoVnSVFvnaJmb8zeiIt) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [](https://open.spotify.com/album/null) | 3:49 |
+| 23 | [Nan's The Word](https://open.spotify.com/track/1TLmoVnSVFvnaJmb8zeiIt) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/5N6Gy8rBSiW4AKVKizyLAc) | 3:49 |
 | 24 | [Higher](https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Cover Girl](https://open.spotify.com/album/4SvP99rd8lr8wpDW8p55uq) | 3:00 |
 | 25 | [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 |
 | 26 | [Gtg \(feat\. reina\)](https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Gtg](https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T) | 3:44 |

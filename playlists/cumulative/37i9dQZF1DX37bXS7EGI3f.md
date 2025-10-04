@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-687 songs - 2 day 4 hr 18 min
+689 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2022-11-19 |
 | [Bloodclock](https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Bloodclock](https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc) | 5:14 | 2024-06-24 | 2025-02-22 |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2020-11-29\* | 2021-02-12 |
-| [Bloodwood](https://open.spotify.com/track/4ZFlf53KEIJFPkBz9K8rf4) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Bloodwood](https://open.spotify.com/album/5BFo1i6Ea1V81EiUO27AM4) | 4:37 | 2025-09-05 |  |
+| [Bloodwood](https://open.spotify.com/track/4ZFlf53KEIJFPkBz9K8rf4) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Bloodwood](https://open.spotify.com/album/5BFo1i6Ea1V81EiUO27AM4) | 4:37 | 2025-09-05 | 2025-10-04 |
 | [Bluebeard's Chamber](https://open.spotify.com/track/4kJHBsvJpummRUXFZIZzLQ) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [A Thousand Little Deaths](https://open.spotify.com/album/3elW9joazZ1HAu5EfbatIN) | 4:46 | 2025-08-22 |  |
 | [Bound for Glory](https://open.spotify.com/track/6iaE692yddzSZCtas13O3G) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Bound for Glory](https://open.spotify.com/album/67ivunRzZPCKSFkJ0RLkUa) | 5:27 | 2021-10-29 | 2022-06-12 |
 | [Bound to You](https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Bound to You](https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg) | 5:20 | 2021-10-01 | 2022-05-14 |
@@ -198,7 +198,7 @@
 | [Eternity \- 2025 Remaster](https://open.spotify.com/track/7bqFVDJNQYZ0H8YOuijESK) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [Eternity \(2025 Remaster\)](https://open.spotify.com/album/4DB7BKts42j2zGW4yBRTzU) | 5:42 | 2025-07-25 | 2025-09-26 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-11-13 | 2022-07-01 |
 | [Event Horizon](https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1) | [New Horizon](https://open.spotify.com/artist/2Tx9qvXQEMGM4wIRald5uk) | [Event Horizon](https://open.spotify.com/album/4tcpxAECnvzKmINKJ44UYY) | 4:13 | 2022-02-11 | 2023-05-17 |
-| [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 | 2023-03-24 |  |
+| [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 | 2023-03-24 | 2025-10-04 |
 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 | 2021-11-27 | 2022-01-08 |
 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 | 2021-12-11 |  |
 | [Faith Focus Finish](https://open.spotify.com/track/2fNGUCVzfeVIzMtW2SQBPj) | [Van Canto](https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL) | [Faith Focus Finish](https://open.spotify.com/album/4fWvKXqfeN03SzCsYtadbf) | 4:57 | 2021-06-04 | 2022-01-22 |
@@ -281,6 +281,7 @@
 | [I Fear The Blood](https://open.spotify.com/track/6QLNjpnByY2pX87FLEwuD6) | [Ambush](https://open.spotify.com/artist/5ZnuwxU3BQDmhQSdZO743a) | [I Fear The Blood](https://open.spotify.com/album/7d0DxaXZtjoVuPhSStW3TI) | 4:44 | 2025-09-05 |  |
 | [I See Fire](https://open.spotify.com/track/18xwh83PT4nzB1grNTB31h) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [I See Fire](https://open.spotify.com/album/4NUWjY11cBjHNFBE5HK45V) | 4:55 | 2020-11-29\* | 2021-09-25 |
 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 | 2025-05-30 |  |
+| [I'll Be Thunder](https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [I'll Be Thunder](https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y) | 3:20 | 2025-10-03 |  |
 | [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-06-04 | 2021-06-25 |
 | [I'll Tell You Someday](https://open.spotify.com/track/5sH4qMqDvQNYvI0FC8silb) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [I'll Tell You Someday](https://open.spotify.com/album/0oKl03ge9ITC1w1Z0U1vnQ) | 4:09 | 2022-07-13 | 2022-07-29 |
 | [I'll Tell You Someday](https://open.spotify.com/track/5iPuyK4PjYTM7qngxxxPRI) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Impulse Voices](https://open.spotify.com/album/36vhZCfOCcpgEk7tXWBUdZ) | 4:09 | 2022-07-13 | 2022-07-30 |
@@ -415,6 +416,7 @@
 | [One \(feat\. Robert Trujillo\) \- Instrumental](https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [Plays Metallica, Vol\. 2](https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO) | 9:34 | 2024-07-26 | 2025-03-08 |
 | [One Folk](https://open.spotify.com/track/4XrS0iZ8T1epgvCcAFRtt1) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [One Folk](https://open.spotify.com/album/0xd69MXvkpCodo9Ph3nUi1) | 4:37 | 2020-11-29\* | 2021-10-16 |
 | [One Night in Tokyo](https://open.spotify.com/track/4ug7b6iy2tYn3OryBRrGkH) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [One Night in Tokyo](https://open.spotify.com/album/0N6GRmCIEbki82Eitec7e0) | 3:07 | 2021-10-01 | 2021-10-29 |
+| [One Of Us Will Be Next](https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [One Of Us Will Be Next](https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9) | 4:21 | 2025-10-03 |  |
 | [One With The Shadows](https://open.spotify.com/track/1vXlaHm9VFsxbtGKVSsqDl) | [Sigyn](https://open.spotify.com/artist/5wgXu5ifwmk7X6uJpfTSLN) | [One With The Shadows](https://open.spotify.com/album/2PcZ006a1uxenbFeuGEyPU) | 4:26 | 2025-05-23 |  |
 | [Only Human](https://open.spotify.com/track/7ujhUYjJCoBcEKLJQ0DiRB) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Only Human](https://open.spotify.com/album/2Wc2Q5oL6Xj23IeS24LYVE) | 3:41 | 2021-09-25 | 2021-11-13 |
 | [Ophelia \- feat\. SHAOLIN G](https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Ophelia \(feat\. SHAOLIN G\)](https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc) | 4:48 | 2025-08-22 |  |

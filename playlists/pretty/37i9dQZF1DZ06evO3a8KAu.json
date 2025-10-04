@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 49850,
+  "num_followers": 49855,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAAQpd2IvUWoPd6w78JuSU1k",
+  "snapshot_id": "aN3AgAAAAAAwKSTHzl3FMO/b+d4W4oKP",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 166751,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos En El Ruedo",
-        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Voy a Echarme Otra",
-      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exotic Corridos",
         "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Voy a Echarme Otra",
+      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
     },
     {
       "added_at": null,

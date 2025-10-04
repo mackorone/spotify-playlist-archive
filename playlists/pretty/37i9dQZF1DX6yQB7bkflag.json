@@ -1,13 +1,29 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Yovie Widianto, RAN",
-  "num_followers": 117909,
+  "num_followers": 117919,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVcqX5CLomVlsI7asO2aMspJnNd",
+  "snapshot_id": "AAAAAGP84dA5+WpwcxHH6faLIIk2AieZ",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:03:31",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
     {
       "added_at": "2025-10-02 17:11:39",
       "album": {
@@ -356,7 +372,7 @@
           "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 216521,
+      "duration_ms": 219130,
       "name": "you're a star",
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
@@ -392,7 +408,7 @@
           "url": "https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS"
         }
       ],
-      "duration_ms": 232533,
+      "duration_ms": 236596,
       "name": "Manusia Terakhir Di Bumi",
       "url": "https://open.spotify.com/track/0gwQ8uzJiLQN3rABz0uUCf"
     },
@@ -589,6 +605,22 @@
       "url": "https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf"
     },
     {
+      "added_at": "2025-10-03 05:36:06",
+      "album": {
+        "name": "Cinta dan Air Mata",
+        "url": "https://open.spotify.com/album/1zMZELWesRtKQ6ATpCPXt0"
+      },
+      "artists": [
+        {
+          "name": "Vintonic",
+          "url": "https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW"
+        }
+      ],
+      "duration_ms": 208187,
+      "name": "Cinta dan Air Mata",
+      "url": "https://open.spotify.com/track/30uxypVmxd8vPrD4WtHuIV"
+    },
+    {
       "added_at": "2025-10-02 17:11:39",
       "album": {
         "name": "Rangga & Cinta (Original Motion Picture Soundtrack)",
@@ -611,6 +643,22 @@
       "duration_ms": 230142,
       "name": "Suara Hati Seorang Kekasih",
       "url": "https://open.spotify.com/track/6ICuGF3N6Qk4Bkl3c3FJVI"
+    },
+    {
+      "added_at": "2025-10-02 17:11:39",
+      "album": {
+        "name": "Aye Girl",
+        "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 114838,
+      "name": "Aye Girl",
+      "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
     },
     {
       "added_at": "2025-10-02 17:11:39",
@@ -687,8 +735,8 @@
     {
       "added_at": "2025-10-02 17:11:39",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/0yj6MHkeUuy7XwB3sOEsYi"
       },
       "artists": [
         {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 
 > Топ українських поп пісень у 2024 році\. Обкладинка: KOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,371 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,373 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 | 3 | [ТРОЯНДИ](https://open.spotify.com/track/6Lz4M2pXTEWSNpOWH7IzBe) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 2:49 |
 | 4 | [Камертон](https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Камертон](https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4) | 3:29 |
 | 5 | [О, Панно!](https://open.spotify.com/track/6IHi9avJ1TAD5zf0OIMbC2) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [The Вуса](https://open.spotify.com/artist/6W817ZKFLn9Mu3vY56FkpH), [Дурнєв](https://open.spotify.com/artist/0U7GOwja5bDKwD4LwayB16), [Леви На Джипі](https://open.spotify.com/artist/2W23I9OgbcfinS9qOLKLpW), [Куцевалов](https://open.spotify.com/artist/5C8scyH0BxWq3CZBZm79OF) | [THE BEST](https://open.spotify.com/album/0IYlHtB8Mvf8d445ocJFB9) | 2:44 |
-| 6 | [Їде дах](https://open.spotify.com/track/4bzlZyxyHwBug39xuGdrNS) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/5mzVAYB0NoFtJsCtknChFj) | 3:00 |
+| 6 | [Їде дах](https://open.spotify.com/track/4bzlZyxyHwBug39xuGdrNS) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/5mzVAYB0NoFtJsCtknChFj) | 2:55 |
 | 7 | [На нічному небі](https://open.spotify.com/track/44il5IyxWcQ79aDkB2VVDZ) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [Sviatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [На нічному небі](https://open.spotify.com/album/0q7PaMgEklykA15z8bblGk) | 3:51 |
 | 8 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 |
 | 9 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 |

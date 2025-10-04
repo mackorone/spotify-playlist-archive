@@ -1,13 +1,69 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KREAM",
-  "num_followers": 119192,
+  "num_followers": 119166,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAgJArVF34SXzuZotsaiD26Hn65bGbc",
+  "snapshot_id": "AAAgLL7nYuFJcZVUskai//RY6l8KNe/m",
   "tracks": [
+    {
+      "added_at": "2025-10-03 07:40:58",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "Distrion",
+          "url": "https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH"
+    },
+    {
+      "added_at": "2025-10-03 07:41:20",
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu"
+    },
+    {
+      "added_at": "2025-10-03 07:42:11",
+      "album": {
+        "name": "So H\u00ef (VIP Mix)",
+        "url": "https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 260144,
+      "name": "So H\u00ef (VIP Mix)",
+      "url": "https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc"
+    },
     {
       "added_at": "2025-09-25 22:20:09",
       "album": {
@@ -51,6 +107,38 @@
       "duration_ms": 138959,
       "name": "Royals",
       "url": "https://open.spotify.com/track/1cHRkDg6mRNfWsN0w3um3J"
+    },
+    {
+      "added_at": "2025-10-03 07:42:41",
+      "album": {
+        "name": "Prismatica",
+        "url": "https://open.spotify.com/album/2Bh4ScRdm4fU0sZ1HDm7V8"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Prismatica",
+      "url": "https://open.spotify.com/track/6L45eFIDmCPPvqZmWbubuz"
+    },
+    {
+      "added_at": "2025-10-03 07:42:53",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/6U8hwDeIjBLcwOvZ2tq1WX"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 163571,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/2hIcjgejOVZK0CnkL7Hht1"
     },
     {
       "added_at": "2025-09-25 22:20:15",

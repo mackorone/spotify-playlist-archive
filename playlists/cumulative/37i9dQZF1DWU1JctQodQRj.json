@@ -1741,28 +1741,6 @@
     },
     {
       "album": {
-        "name": "Bach, J.S.: Suites & Partitas",
-        "url": "https://open.spotify.com/album/2oPblMOkqMFX2BepbZhApR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e9s Segovia",
-          "url": "https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186000,
-      "name": "Partita For Violin Solo No. 1 In B Minor, BWV 1002: V. Sarabande (Arr. Segovia for Guitar)",
-      "url": "https://open.spotify.com/track/285RX2xSWHVzpEwB362tFJ"
-    },
-    {
-      "album": {
         "name": "Bach: Flute Sonatas",
         "url": "https://open.spotify.com/album/3c4M5RgkzecG5wYbIBy6yy"
       },
@@ -1790,6 +1768,28 @@
       "duration_ms": 192013,
       "name": "Partita in A Minor, BWV 1013: III. Sarabande",
       "url": "https://open.spotify.com/track/27VWXflLb7VUG3IxZyNECE"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Suites & Partitas",
+        "url": "https://open.spotify.com/album/2oPblMOkqMFX2BepbZhApR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e9s Segovia",
+          "url": "https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: V. Sarabande (Arr. Segovia for Guitar)",
+      "url": "https://open.spotify.com/track/285RX2xSWHVzpEwB362tFJ"
     },
     {
       "album": {

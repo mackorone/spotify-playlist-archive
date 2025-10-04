@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Mariah Carey
+> Where R&B lives\. Cover: Bryson Tiller
 
 705 songs - 1 day 15 hr 13 min
 

@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-156 songs - 11 hr 1 min
+157 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [I'm Going Upstairs](https://open.spotify.com/track/4m5NBj2M2ooeXS9I96Z0cP) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Folk Lore Of John Lee Hooker](https://open.spotify.com/album/46dtJspYQJrfVWpVRo4O5w) | 2:55 | 2022-08-05 | 2024-07-24 |
 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 | 2022-08-05 |  |
 | [It Serve You Right To Suffer \- The Avener Rework](https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Wanderings Of The Avener](https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP) | 3:25 | 2022-08-05 | 2025-08-24 |
-| [It Serve You Right To Suffer \- The Avener Rework](https://open.spotify.com/track/4YBJPT0L5QMo9QZImhJDAZ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Wanderings Of The Avener](https://open.spotify.com/album/3MhzHR70tC1m40VDSJnott) | 3:25 | 2025-08-24 |  |
+| [It Serve You Right To Suffer \- The Avener Rework](https://open.spotify.com/track/4YBJPT0L5QMo9QZImhJDAZ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Wanderings Of The Avener](https://open.spotify.com/album/3MhzHR70tC1m40VDSJnott) | 3:25 | 2025-08-24 | 2025-10-04 |
+| [It Serve You Right To Suffer \- The Avener Rework](https://open.spotify.com/track/5qldrHWBMRfFSFESOpZHkh) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 3:25 | 2025-10-04 |  |
 | [It Serves Me Right](https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [In Person](https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz) | 3:32 | 2023-12-20 |  |
 | [It Serves Me Right to Suffer \- Remastered](https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 3:28 | 2022-08-06 | 2023-12-18 |
 | [Keep Your Hands To Yourself \(She's Mine\)](https://open.spotify.com/track/0QwrOUaXvquj1IM8oqiBIo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:10 | 2022-08-05 | 2024-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,903 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,895 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 |
 | 100 | [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 |
 
-Snapshot ID: `AAAAAMjKHs6ruOiXvJERFKCQ1jKxz2Km`
+Snapshot ID: `AAAAAM50UFp2CYWog1Bq2CFePvAzo76M`

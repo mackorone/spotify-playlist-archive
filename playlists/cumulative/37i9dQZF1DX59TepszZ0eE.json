@@ -6149,28 +6149,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Canaan Nyathi",
-          "url": "https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk"
-    },
-    {
-      "album": {
         "name": "IssaYearEndFunction",
         "url": "https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP"
       },
@@ -7014,6 +6992,28 @@
       "duration_ms": 438857,
       "name": "Upperroom (Live)",
       "url": "https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8"
+    },
+    {
+      "album": {
+        "name": "Spirit Of Praise 11 Next Level (Live)",
+        "url": "https://open.spotify.com/album/0N0j10dgpGDWxeWkE3jdgP"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Canaan Nyathi",
+          "url": "https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687334,
+      "name": "Usibiyele (Live)",
+      "url": "https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk"
     },
     {
       "album": {

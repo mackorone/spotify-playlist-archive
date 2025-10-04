@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Rondodasosa, Boro e Guè, 22simba, Mecna,  Visino Bianco e molti altri.
+> Sempre aggiornata\. Con nuovi brani di 22simba e Marracash, Nayt, Poli Ok, Young Hash e molti altri.
 
 6,164 songs - 11 day 9 hr 45 min
 

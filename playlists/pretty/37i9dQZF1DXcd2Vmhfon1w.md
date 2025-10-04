@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Al Safir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,483 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,219 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [300CV](https://open.spotify.com/track/7sQQGhpGkHJemBdiECkLnA) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [300CV](https://open.spotify.com/album/7949fKY0fEWOgSpAMqp7Aw) | 3:08 |
+| 1 | [300CV](https://open.spotify.com/track/7sQQGhpGkHJemBdiECkLnA) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [300CV](https://open.spotify.com/album/7949fKY0fEWOgSpAMqp7Aw) | 3:08 |
 | 2 | [Catastrophe \- Remix](https://open.spotify.com/track/3YiIs7johhRmG9gbGvuqSQ) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Yurz](https://open.spotify.com/artist/15KWO9lpYpflUvRbIwRilI), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Catastrophe \(Remix\)](https://open.spotify.com/album/4ve7dWzxTlHEz6A0psQgkr) | 2:57 |
 | 3 | [Buona Sera](https://open.spotify.com/track/4SKUMitVRKtLFpyb8vAgtg) | [LosNiñosDelCaminito](https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM) | [Buona Sera](https://open.spotify.com/album/7aPB0J93G2XYDm6YByWm1Y) | 4:11 |
 | 4 | [Flores](https://open.spotify.com/track/5U4Cacj1yMY4JYwEQF9rCN) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Flores](https://open.spotify.com/album/2sFY0nuqFt8ygJIWEGc2qh) | 3:08 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 23 | [CÍRCULO VICIOSO](https://open.spotify.com/track/61myYRcGZ0ZgbIEcuQed0o) | [Mxndxz](https://open.spotify.com/artist/0N2E0YwshAvPOpw5wUn4e6), [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47), [Da Silva](https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ) | [CÍRCULO VICIOSO](https://open.spotify.com/album/1ScB2GKUreyU4eYkEDb5jq) | 3:40 |
 | 24 | [Whisky and Spice](https://open.spotify.com/track/0IoksfEt4rvLtPnVw09VlI) | [Yeico X Toni](https://open.spotify.com/artist/5ZwHSnkRmmVg73BeI4Ne4f) | [Whisky and Spice](https://open.spotify.com/album/67S8NfIArqth9PCutPkxKT) | 3:08 |
 | 25 | [No Love](https://open.spotify.com/track/5GxZb7dWrofxYI42cnEPK0) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [No Love](https://open.spotify.com/album/3xLbAeXBdWPIE0BDIXUWTY) | 2:09 |
-| 26 | [GENIO](https://open.spotify.com/track/4EaZjCAFQMHiDQynvjtQUR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [La Dako Style](https://open.spotify.com/artist/3hKcaMgSDjMmaQkSf6RLgR), [Dj Keru](https://open.spotify.com/artist/0W8OiQzSH1G4o2rauWtZoE) | [GENIO](https://open.spotify.com/album/2FTm427jc2DUpx7bMeQlgz) | 2:40 |
+| 26 | [GENIO](https://open.spotify.com/track/4EaZjCAFQMHiDQynvjtQUR) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [La Dako Style](https://open.spotify.com/artist/3hKcaMgSDjMmaQkSf6RLgR), [Dj Keru](https://open.spotify.com/artist/0W8OiQzSH1G4o2rauWtZoE) | [GENIO](https://open.spotify.com/album/2FTm427jc2DUpx7bMeQlgz) | 2:40 |
 | 27 | [POR SI TE VAS](https://open.spotify.com/track/06cZ8KTzq9w3p0pUgTmOYF) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [POR SI TE VAS](https://open.spotify.com/album/5FSsQbOB5NIAAiB2mPw6EC) | 3:11 |
 | 28 | [Que Nos Pasó](https://open.spotify.com/track/38aK9txbPZdjsYxvt2cHYU) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Grind](https://open.spotify.com/artist/7zRP76y8bnV3OdkaraLHuy), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Que Nos Pasó](https://open.spotify.com/album/5ry3bkhwVfh9zIGOE8qlF2) | 3:04 |
 | 29 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |

@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Buut Vrij",
+        "url": "https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158961,
+      "name": "Buut Vrij",
+      "url": "https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV"
       },

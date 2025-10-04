@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,104 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,106 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 36 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 |
 | 37 | [えがおのオーケストラっ！ \(パラレルver.\)](https://open.spotify.com/track/4rdmyKUmOxgTmVPnqkKqoW) | [優雅なティータイムを♪](https://open.spotify.com/artist/3alSKGtEGIuCng0r1UNoDf), [白鷺千聖\(CV:上坂すみれ\)](https://open.spotify.com/artist/1jv55vLFewxt2UQiQYc2IY), [湊 友希那\(CV:相羽あいな\)](https://open.spotify.com/artist/5tb5Ya8txUfxvU3USDffwT), [松原花音\(CV:豊田萌絵\)](https://open.spotify.com/artist/67oUulZoqpQ8GtSoCoumNg), [長崎そよ\(CV:小日向美香\)](https://open.spotify.com/artist/0ideeN34584s8oFN36bsjF) | [えがおのオーケストラっ！ \(パラレルver.\)](https://open.spotify.com/album/4VQ5iNgOsj6JguyK8XDDNb) | 3:50 |
 | 38 | [第六感 \(Cover\)](https://open.spotify.com/track/4FEpkQIkoNciLSrE4rToTs) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [第六感 \(Cover\)](https://open.spotify.com/album/0xgOGOsLzlIaYu0iQeSQiJ) | 3:13 |
-| 39 | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT) | [羽沢珈琲店にようこそ♪](https://open.spotify.com/artist/1z3oUWGzmtiO7LytZJLx8O), [羽沢つぐみ\(CV:金元寿子\)](https://open.spotify.com/artist/7faWE6B8AnIPOCDuQmv96x), [若宮イヴ\(CV:秦佐和子\)](https://open.spotify.com/artist/66E2DxfDG4cUdM0uivbYPs), [二葉つくし\(CV:mika\)](https://open.spotify.com/artist/6JtSmSbV4QC96Wm4b4hjZK) | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH) | 3:58 |
-| 40 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
+| 39 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
+| 40 | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT) | [羽沢珈琲店にようこそ♪](https://open.spotify.com/artist/1z3oUWGzmtiO7LytZJLx8O), [羽沢つぐみ\(CV:金元寿子\)](https://open.spotify.com/artist/7faWE6B8AnIPOCDuQmv96x), [若宮イヴ\(CV:秦佐和子\)](https://open.spotify.com/artist/66E2DxfDG4cUdM0uivbYPs), [二葉つくし\(CV:mika\)](https://open.spotify.com/artist/6JtSmSbV4QC96Wm4b4hjZK) | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH) | 3:58 |
 | 41 | [コハク](https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:40 |
 | 42 | [熱風海陸ブシロード〜熱き咆哮〜 \(Cover\)](https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8) | [夢幻戦隊むーたいぷ](https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5) | [夢幻戦隊むーたいぷ１ \(Cover\)](https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293) | 4:37 |
 | 43 | [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 67 | [す、好きなんかじゃない!](https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 3:55 |
 | 68 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |
 | 69 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
-| 70 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
-| 71 | [トレモロアイズ](https://open.spotify.com/track/669RI7o0s3Z0ncGntSeYTx) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:01 |
+| 70 | [トレモロアイズ](https://open.spotify.com/track/669RI7o0s3Z0ncGntSeYTx) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:01 |
+| 71 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
 | 72 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 |
 | 73 | [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 |
 | 74 | [Reweave \(Cover\)](https://open.spotify.com/track/7j0LoiDsRptCUwZJ91a3MK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Reweave \(Cover\)](https://open.spotify.com/album/0jIRwiginvcki1AaOU6ZXF) | 3:58 |
-| 75 | [青い栞 \- Cover](https://open.spotify.com/track/5UHnD4ZYLLOSQaAeJGuBzt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:36 |
+| 75 | [雨上がり、キミと](https://open.spotify.com/track/1MIHgXHAeXc7jgrMh1xabo) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:25 |
 
 Snapshot ID: `AAAAADKN6hvb0fspwFHRCT4tdcL0mW7w`

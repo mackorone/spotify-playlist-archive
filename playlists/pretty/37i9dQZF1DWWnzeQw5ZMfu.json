@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
-  "num_followers": 72845,
+  "num_followers": 72850,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIPEGkn90dnsGDY8/yti1mhIrlt+",
+  "snapshot_id": "AAAAAKZ2fvPiRTZUMdTGpJog3aDQ2ljt",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:14",
@@ -55,6 +55,22 @@
       "duration_ms": 238807,
       "name": "Midnight Sun - Live",
       "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
+    },
+    {
+      "added_at": "2025-10-03 04:00:53",
+      "album": {
+        "name": "Live from the Laundromat",
+        "url": "https://open.spotify.com/album/5xxhPbe8Gc90g9VOeIKbZx"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 160081,
+      "name": "bloodsucker - Live",
+      "url": "https://open.spotify.com/track/1LPNFkQm8U0LJyk5CxMH4v"
     },
     {
       "added_at": "2025-08-08 04:00:32",

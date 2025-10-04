@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-203 songs - 11 hr 6 min
+205 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Let It Be Christmas](https://open.spotify.com/track/0on1Glo6GetWwCPhIpAo8m) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Let It Be Christmas](https://open.spotify.com/album/7pCyJtWlnPtosaod9cgKBr) | 3:56 | 2024-11-29 |  |
 | [Let It Be Christmas](https://open.spotify.com/track/4UFPONU5lu1WVS0zpeiXZ0) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 3:54 | 2024-11-01 |  |
 | [Let It Snow](https://open.spotify.com/track/2xpWGTDlUoJkl3D6cuxp3T) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [Let It Snow](https://open.spotify.com/album/4xsPRH5MWojVoYPf4kAWlY) | 2:28 | 2024-11-29 |  |
+| [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3w6YUnqUiJEYjxh0lSefSb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/590drOQWjZxdv3O0BzlcKT) | 2:23 | 2025-10-03 |  |
 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/1KGp2BlcVSKohhH5u7ZIXu) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 2:04 | 2023-11-24 | 2024-10-19 |
 | [Lit](https://open.spotify.com/track/4MaDMS6c4NIOznjrSyDZXV) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Lit](https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS) | 2:39 | 2023-11-24 | 2024-10-19 |
 | [Mary Did You Know](https://open.spotify.com/track/1bf7ob93MJ60M2ulx10Un3) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Mary Did You Know](https://open.spotify.com/album/0VELGihA2e22w7jFeAHCCU) | 3:20 | 2023-11-24 | 2024-10-19 |
@@ -183,6 +184,7 @@
 | [Single Bells](https://open.spotify.com/track/06CjrlHkZsur79YA4yLauG) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Single Bells](https://open.spotify.com/album/0VP7tSAR1OMjggz22o75gu) | 3:27 | 2024-11-01 |  |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-11-24 | 2024-10-19 |
 | [Sounds Like Christmas](https://open.spotify.com/track/6GtDtiBIQHnV9XIOLTSjMH) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Sounds Like Christmas](https://open.spotify.com/album/6mHqfMpPrKwtmDwZJpyIyw) | 3:42 | 2024-11-22 |  |
+| [Sugar Cookie](https://open.spotify.com/track/5TJdHne5dIGExJSsj4eCTu) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Sugar Cookie](https://open.spotify.com/album/7lR1TCoiA9GhlUDPmR4pdV) | 2:55 | 2025-10-03 |  |
 | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0opMvRSutvLj8Yg0oiAnAx) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Merry Christmas \(Welcome to the Family\)](https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3) | 3:20 | 2024-10-18 |  |
 | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL) | 3:20 | 2024-09-20 | 2024-11-16 |
 | [Sweet December \- Piano](https://open.spotify.com/track/6A19fzpqIVzY7vVAO4VWCj) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sweet December](https://open.spotify.com/album/6QbDInh6XDbw3GmewO65u9) | 3:20 | 2024-11-29 |  |

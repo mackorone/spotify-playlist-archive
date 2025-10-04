@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: hannah bahng
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,389 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,393 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 48 | [first date](https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [first date](https://open.spotify.com/album/2mIJLycY91IuPczBAGX1PG) | 1:40 |
 | 49 | [dirty](https://open.spotify.com/track/74qt5cbf6SnVINBSK7TqLT) | [KOAD](https://open.spotify.com/artist/5QQtovQzgOb1s1UQDnQfN0) | [dirty](https://open.spotify.com/album/6eYXFXr3Zp0Kx1d2fkBKsv) | 1:51 |
 | 50 | [messy love](https://open.spotify.com/track/5QZUBYPYjmAqk7AWbHpRhq) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [messy love](https://open.spotify.com/album/4104zR85gbdiLuMwAW4mmr) | 3:22 |
-| 51 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [Leah Dong](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
+| 51 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
 | 52 | [lover like you](https://open.spotify.com/track/2ArLfwU02n5xHpvT1Na1j8) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO), [JYYN](https://open.spotify.com/artist/2Gxpw6WUcMPGBC7L4Z0aF3) | [lover like you](https://open.spotify.com/album/1WlKdCkmf1kaLSct4wL9j1) | 3:14 |
 | 53 | [slip away](https://open.spotify.com/track/3Hs6qdFHmTGqo7yTgEapU3) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [slip away](https://open.spotify.com/album/4w9pzZnvWdDgzlxpPfJaDo) | 3:30 |
 | 54 | [OMW](https://open.spotify.com/track/3OQJW5UCsCjxaA7eYXvV8A) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [On My Way](https://open.spotify.com/album/0w0BbQ0cj8XShSDBw07FkP) | 3:15 |

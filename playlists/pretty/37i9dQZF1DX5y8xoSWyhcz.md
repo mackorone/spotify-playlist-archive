@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,706 likes - 106 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,655 likes - 106 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 2 | [Mid July](https://open.spotify.com/track/6PsnCUm3Gx4IEB7YaQiyMm) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mid July](https://open.spotify.com/album/6Ghj66uOHT1AIQaMzBMZnf) | 3:20 |
 | 3 | [Virgin Heartbreak](https://open.spotify.com/track/3AgUWDWeQLOepfIETZynmA) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Virgin Heartbreak](https://open.spotify.com/album/4VQhoUApuK9q2M6mRzA2bH) | 3:36 |
 | 4 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
-| 5 | [Track 4](https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [preaching to the choir](https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog years](https://open.spotify.com/album/50mjtzsNGH18GWiE8DQljM) | 2:54 |
 | 6 | [About Leaving](https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [About Leaving](https://open.spotify.com/album/1Rt8TSTk30TJjNhVetXpBb) | 3:35 |
 | 7 | [Arrow \- Ghost No\. 2](https://open.spotify.com/track/7jOavbFQ8G7fef5e7f4eE4) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow \(Ghost No\. 2\)](https://open.spotify.com/album/5ya4cxw29HpXaNLnqf5X1P) | 3:25 |
 | 8 | [break stuff](https://open.spotify.com/track/63MUFWOgT865K4LaNNmqys) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [break stuff](https://open.spotify.com/album/0QLlPQ3jrHy03eIuydJ1dd) | 2:09 |

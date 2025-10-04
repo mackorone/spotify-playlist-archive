@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 8 hr 59 min
+178 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Hafen](https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Hafen](https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv) | 2:56 | 2024-12-21 |  |
 | [Happy People \(feat\. Daði Freyr\)](https://open.spotify.com/track/261qBibFuQcBus1rjsmsED) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [2001](https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn) | 3:00 | 2024-01-29 |  |
 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 | 2024-01-29 |  |
-| [Heiser vor Glück](https://open.spotify.com/track/056wYEGkzl4j4cAil0Zpdp) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5XNTweOYD2WWoT0IwVTLsn) | 3:34 | 2024-01-29 |  |
+| [Heiser vor Glück](https://open.spotify.com/track/056wYEGkzl4j4cAil0Zpdp) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5XNTweOYD2WWoT0IwVTLsn) | 3:34 | 2024-01-29 | 2025-10-04 |
+| [Heiser vor Glück](https://open.spotify.com/track/0hbAHOsuIjCnosCRmxLWP3) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5BTIoEov1qCJiCtjQmm9id) | 3:34 | 2025-10-03 |  |
 | [Held](https://open.spotify.com/track/0wQBupEHs2KRHQxs3typES) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:33 | 2024-01-29 |  |
 | [Highride](https://open.spotify.com/track/5tndemWuouLfRPAtjfOPJj) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 2:59 | 2024-01-29 |  |
 | [Himmel](https://open.spotify.com/track/12dmyWSk9T4TEBjjFTKCJH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:33 | 2024-01-29 |  |

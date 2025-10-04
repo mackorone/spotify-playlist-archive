@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Miguel Bueno & Nanpa B\u00e1sico",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Annasofia",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -652,6 +652,28 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
+    },
+    {
+      "album": {
+        "name": "AMIMA",
+        "url": "https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139971,
+      "name": "AMIMA",
+      "url": "https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM"
     },
     {
       "album": {
@@ -2857,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "PRIMER INTENTO",
+        "url": "https://open.spotify.com/album/4w4AcSMBJPsfDtqdI7km6D"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182871,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/5yNagRSmVbJJUREu4eUDRg"
+    },
+    {
+      "album": {
         "name": "D\u00edas de mierda (Arial 3)",
         "url": "https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78"
       },
@@ -4316,7 +4356,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
@@ -4390,6 +4430,24 @@
       "duration_ms": 199607,
       "name": "La Cartera de Estereobeat",
       "url": "https://open.spotify.com/track/2hPZCo5VtyHxuL21jz3fS8"
+    },
+    {
+      "album": {
+        "name": "La Casita",
+        "url": "https://open.spotify.com/album/3Mlc2vvpLVOlM90cIZuXI4"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0y5WI7qdCLDdniHwP1AvMX"
     },
     {
       "album": {
@@ -5476,7 +5534,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -5952,7 +6010,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 276566,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs"

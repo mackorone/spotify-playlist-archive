@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: The Creekers
 
-506 songs - 1 day 7 hr 17 min
+508 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Campfire God Song](https://open.spotify.com/track/1x1AfZSiiEOzWl7XX04MSG) | [Willowbrook](https://open.spotify.com/artist/3LMKxY6nx1efQSWSCMyaxd) | [Eden](https://open.spotify.com/album/6OHnCpcTHAGOyhWh4MQh7x) | 2:44 | 2024-05-10 |  |
 | [Can't Live Without Love](https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Can't Live Without Love](https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj) | 3:20 | 2023-10-16 | 2025-02-15 |
 | [Canary](https://open.spotify.com/track/78Qbk2eUKvyyoAbJwCsc0m) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Honeysuckle](https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI) | 4:28 | 2021-10-01 | 2023-01-14 |
+| [Canyon Walls](https://open.spotify.com/track/3MMnyvIcSvXeUPEe368nnr) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Canyon Walls](https://open.spotify.com/album/3wLObguvsoktYj9RLrOba6) | 3:04 | 2025-10-03 |  |
 | [Carolina Ghost](https://open.spotify.com/track/1CxIbi3BRjTmbpmBpc14Wg) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Carolina Ghost](https://open.spotify.com/album/1aNX0FOdlzShowyEoFP23U) | 3:38 | 2024-02-23 | 2024-08-10 |
 | [Castilleja](https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:16 | 2022-04-01 | 2023-01-14 |
 | [Cattle in the Cane](https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Cattle in the Cane](https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb) | 3:32 | 2021-12-10 | 2022-07-29 |
@@ -211,6 +212,7 @@
 | [If You Dare](https://open.spotify.com/track/5y5itGivdrqVfe0RoZi4rM) | [Brenna MacMillan](https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x), [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [If You Dare](https://open.spotify.com/album/0mZRkrbHALccpsZJ3fNxQD) | 3:07 | 2024-08-09 |  |
 | [If You See Me Riding By](https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [If You See Me Riding By](https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3) | 3:28 | 2022-06-11 | 2024-02-24 |
 | [Impossible Odds](https://open.spotify.com/track/7rvf2LzefX5mNLTXykAOOe) | [Micah Wagner](https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy) | [Impossible Odds](https://open.spotify.com/album/6fMXeYCooAqrKjg8Jqk8nr) | 3:03 | 2024-02-09 | 2025-02-15 |
+| [In Control \(feat\. Lindsay Lou\)](https://open.spotify.com/track/46Bl0IGPmuzmIAzCuWcQwg) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [In Control \(feat\. Lindsay Lou\)](https://open.spotify.com/album/4haxylHYKTWOlgfV4sb3q8) | 5:37 | 2025-10-03 |  |
 | [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 | 2022-08-26 |  |
 | [In Montreal](https://open.spotify.com/track/084AB0fzsGnHtrkVHATK95) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Witch](https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC) | 3:33 | 2024-05-10 |  |
 | [In the Garden](https://open.spotify.com/track/2hMPlCT4F3nCyzuyo9rbjQ) | [Ike Kanakanui](https://open.spotify.com/artist/79gvzSsg8MyKN1uYGS0PtX) | [In the Garden](https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B) | 3:37 | 2024-07-13 |  |

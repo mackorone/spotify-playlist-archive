@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-312 songs - 18 hr 20 min
+313 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Got It](https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Got It](https://open.spotify.com/album/1FzHz1sMaLoseEEIafDyuV) | 3:19 | 2024-11-07 | 2024-12-06 |
 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 | 2024-09-12 | 2024-11-15 |
 | [Grow](https://open.spotify.com/track/1HiflKZ1j4EbduV5pSPEhF) | [Lia D'sau](https://open.spotify.com/artist/7F1pxS8QveIS1n1ggy1i6R), [Tom Meira Armony](https://open.spotify.com/artist/0oj8hNnM00zzw4PPoWl4TK) | [Grow](https://open.spotify.com/album/5oCzUFXe0IiACt29jaIAH6) | 3:47 | 2025-07-03 | 2025-09-12 |
-| [Growing Apart](https://open.spotify.com/track/39M1nJcLsKssG678keApXl) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH) | [Growing Apart](https://open.spotify.com/album/3E62TqHmugMsuZrKxIjWUH) | 2:07 | 2025-08-14 |  |
+| [Growing Apart](https://open.spotify.com/track/39M1nJcLsKssG678keApXl) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH) | [Growing Apart](https://open.spotify.com/album/3E62TqHmugMsuZrKxIjWUH) | 2:07 | 2025-08-14 | 2025-10-04 |
 | [Guess I'm Doing Fine](https://open.spotify.com/track/7c6Ax8PdoZfAVDqSQZ0zdw) | [Adi\-Keshet Cohen](https://open.spotify.com/artist/2fHgvt4m6w179ZxCGFJz5f) | [Guess I'm Doing Fine](https://open.spotify.com/album/4DFbuAOp5fD1LGbmH0QgOh) | 4:19 | 2025-02-20 | 2025-03-07 |
 | [Ha'chayim Ha'ele](https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Ha'chayim Ha'ele](https://open.spotify.com/album/55KdrAbQ29QClGDay6Wony) | 3:15 | 2024-07-11 | 2024-08-02 |
 | [Hate You Instead](https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Hate You Instead](https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1) | 3:01 | 2024-11-21 | 2025-05-09 |
@@ -77,6 +77,7 @@
 | [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 | 2025-04-24 |  |
 | [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 | 2024-08-01 | 2024-09-20 |
 | [Ocean view](https://open.spotify.com/track/3gOT9DepPBYMzgAqZsDL8J) | [Shelly Perel](https://open.spotify.com/artist/7A8NMpDvHEMt4NJgx83xWp), [Golde](https://open.spotify.com/artist/5ptEKxOfcTaQkgUa2CT059) | [Patience and Stuff](https://open.spotify.com/album/4tOhbVzUnfcLYXR7XNfyKf) | 3:33 | 2024-11-28 | 2024-12-13 |
+| [Olin](https://open.spotify.com/track/56VUaKIZPLuHXhWj1B7YHJ) | [Stella Got](https://open.spotify.com/artist/4JKrWlBI9Ce0E9yVlzv81J), [Adam Scheflan](https://open.spotify.com/artist/4mYf44fxwi3Kgnbj1qoCuv) | [Nothing is Given](https://open.spotify.com/album/5dQ7bcNJokPu0kSvBshZ28) | 3:42 | 2025-10-02 |  |
 | [OMG KEN \- The Minister Remix](https://open.spotify.com/track/1LdT9tLHWClYxxAqc1Ahni) | [The Minister](https://open.spotify.com/artist/3StP2rZZl7pb1hJ7fIViD0), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [FÜTGASM, Vol\. 1](https://open.spotify.com/album/6LECPYxaNLh5s6nR7ItJ3b) | 4:23 | 2024-11-21 | 2024-11-29 |
 | [On My Own](https://open.spotify.com/track/3NKuAFk0QycmqD1Ontsg1z) | [Allan Tune](https://open.spotify.com/artist/0XCcXANyEqw44WsvKKuqQc) | [On My Own](https://open.spotify.com/album/31qeq5W8Lq6H07GV0yJj6l) | 2:00 | 2025-02-06 | 2025-02-21 |
 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 | 2024-11-14 | 2025-08-29 |

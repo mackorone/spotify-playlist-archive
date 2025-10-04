@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover: Joshua Baraka & Jaz Karis
 
-483 songs - 1 day 1 hr 22 min
+484 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 | 2023-02-03 | 2023-02-17 |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-04-20 | 2023-05-26 |
 | [FIND A WAY](https://open.spotify.com/track/76uERg3iGnf13tuoRoUSxD) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [WONDERFUL](https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4) | 3:40 | 2025-09-05 |  |
-| [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-30 |  |
+| [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-30 | 2025-10-04 |
 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 | 2022-11-18 | 2022-12-02 |
 | [fluid](https://open.spotify.com/track/7JmqcNJ3yqcSdmeL7Eft6a) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [fluid](https://open.spotify.com/album/0SNAWeX1JUnfbk0bL3UdhF) | 2:58 | 2022-08-25 | 2022-09-02 |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-12-16 | 2022-07-08 |
@@ -381,6 +381,7 @@
 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 | 2024-07-19 |
 | [Satisfy My Soul](https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 3:14 | 2021-12-16 | 2023-04-21 |
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-08-05 | 2022-08-13 |
+| [Scary](https://open.spotify.com/track/6VFuYRQyhWSGrkdPgJq8kD) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Scary](https://open.spotify.com/album/0oli97pAzN3Q2ujwanfh0a) | 3:12 | 2025-10-03 |  |
 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 | 2023-07-28 | 2024-08-02 |
 | [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 | 2023-07-13 | 2023-07-28 |
 | [See Me Now \(Remix\) feat\. Maeta](https://open.spotify.com/track/4PHeAS4b8VmdWtlnODtP8z) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [See Me Now \(Remix\)](https://open.spotify.com/album/2a3ZEZ8KHbTafO49Hvf585) | 2:40 | 2024-04-05 | 2025-07-11 |

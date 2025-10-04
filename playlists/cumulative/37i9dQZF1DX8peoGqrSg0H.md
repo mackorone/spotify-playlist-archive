@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: MXFRUIT
 
-769 songs - 1 day 21 hr 20 min
+770 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [ดีไปหมด](https://open.spotify.com/track/4ry6ldKaFtoLOBgS6rAndh) | [CM Cafe](https://open.spotify.com/artist/3HIIbzo8qdutuxFS1yPCUz) | [ดีไปหมด](https://open.spotify.com/album/1viYiMdvWDes9eIAqwLF1p) | 4:00 | 2022-06-02 | 2022-06-10 |
 | [ดึกมากแล้ว \(Night Ride\)](https://open.spotify.com/track/75Bo8CwyOB44OwaXw14w1a) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW), [Badmixy](https://open.spotify.com/artist/5487qToh8N42rr1XqH3qlC) | [ดึกมากแล้ว \(Night Ride\) \- Single](https://open.spotify.com/album/6UtRPTFCUI812kj8IFHODm) | 3:02 | 2024-02-15 | 2025-02-14 |
 | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/track/3oWixUokccVq32DD5FAXj8) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v), [Miya Thongchua](https://open.spotify.com/artist/4ATuJlsULjVBgK1GrEyurD) | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/album/7Lz17nkftNCr0eUo1e1M3o) | 3:07 | 2024-06-20 | 2024-06-28 |
+| [ด้านชา \(Numb\) \[feat\. Paper Planes\]](https://open.spotify.com/track/3KTpHLuTJBwolcFNXIrEtV) | [PERTH](https://open.spotify.com/artist/2rfLsJN7ezbbpFC4ItgMyQ), [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [ด้านชา \(Numb\) \[feat\. Paper Planes\]](https://open.spotify.com/album/1o5uv8PL23Rxe5oNpBV5iW) | 3:52 | 2025-10-02 |  |
 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 | 2022-05-26 | 2023-07-01 |
 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 | 2023-11-30 | 2024-10-18 |
 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/10D7yv6SOcpsAVLFHSbRC5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/0riyZVpGxdtt56RF4VYm83) | 3:32 | 2024-12-05 | 2025-09-19 |

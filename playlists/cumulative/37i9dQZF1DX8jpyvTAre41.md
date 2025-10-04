@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: ROMES
 
-1,417 songs - 3 day 7 hr 26 min
+1,417 songs - 3 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [Keep Me in Mind](https://open.spotify.com/track/4keV1jVo5arAWlQ3wE7V0D) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [Keep Me in Mind](https://open.spotify.com/album/384Mpvx7dU7697LOpcyNcc) | 2:36 | 2025-04-25 | 2025-08-15 |
 | [Keep On Breaking My Heart](https://open.spotify.com/track/4e3JiIBS5WngRiEnjUcxWh) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Keep On Breaking My Heart](https://open.spotify.com/album/2MEkJW4X9GJVirLPYsq8eQ) | 3:53 | 2025-08-15 | 2025-10-03 |
 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 | 2025-03-07 | 2025-07-05 |
+| [Key Entity Extraction IX \- Shiloh The Selfish](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe \(New Entities Edition\)](https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc) | 3:56 | 2025-10-03 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2023-01-13 | 2023-02-04 |
 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 | 2025-07-25 |  |
 | [kill the girl](https://open.spotify.com/track/5z5Tph3uXkhy9CWANGbv7h) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [kill the girl](https://open.spotify.com/album/6POWvEgFWeIkFq35tMWUpH) | 2:30 | 2024-05-03 | 2024-06-01 |
@@ -680,6 +681,7 @@
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-29 | 2023-11-05 |
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-03 | 2024-02-24 |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-04 | 2025-06-28 |
+| [Last Laugh](https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Last Laugh](https://open.spotify.com/album/4rYvzVsqVZyh87SSmCg6GI) | 2:28 | 2025-10-03 |  |
 | [Last Night On Earth](https://open.spotify.com/track/7byDNpHjjgqp9hUuHwtfsV) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Last Night On Earth](https://open.spotify.com/album/418Vd909JvhonGrSt68HwW) | 3:32 | 2025-09-19 |  |
 | [Late Bloomer](https://open.spotify.com/track/6Z8gc9x4HH8SgUQWmUhPs4) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Late Bloomer](https://open.spotify.com/album/6GpmnmahthS0F5WuHwRMlU) | 3:00 | 2025-06-27 | 2025-09-12 |
 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-30 | 2025-02-08 |
@@ -941,7 +943,7 @@
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-22 | 2025-03-08 |
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-10 | 2023-02-11 |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-14 | 2024-09-28 |
-| [Petrichor \- Live](https://open.spotify.com/track/0xTGuilelKhqLx53nixGPL) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/0M0PbTP6aYO0jYw4DIgRnA) | 3:33 | 2025-10-03 |  |
+| [Petrichor \- Live](https://open.spotify.com/track/0xTGuilelKhqLx53nixGPL) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/0M0PbTP6aYO0jYw4DIgRnA) | 4:06 | 2025-10-03 |  |
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-08 | 2022-07-23 |
 | [Picture of Love](https://open.spotify.com/track/4imN94HyDmR7yfjfVcABpi) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Picture of Love](https://open.spotify.com/album/2rrC3GXk7y5jqSfoRVoRia) | 3:56 | 2023-03-03 | 2024-02-24 |
 | [Pill To Swallow](https://open.spotify.com/track/1zFDTVldgGkboCG98c91d6) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Pill To Swallow](https://open.spotify.com/album/7jg6n0fgOkGDj9fxcIzI0u) | 3:42 | 2025-04-25 | 2025-06-07 |
@@ -1268,8 +1270,6 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 | 2024-10-19 |
 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 | 2024-07-12 | 2024-11-23 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-09-19 |
-| [Track 18](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
-| [Track 6](https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Tree Of Life](https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Serene Demon](https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F) | 3:08 | 2025-02-14 | 2025-06-21 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-21 | 2025-06-28 |

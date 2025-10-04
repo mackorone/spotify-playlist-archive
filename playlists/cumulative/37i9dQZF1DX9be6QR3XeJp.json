@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "It's A Funny Thing",
+        "url": "https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186368,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7"
+    },
+    {
+      "album": {
         "name": "Got It Good",
         "url": "https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH"
       },

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Depresión Sonora.
 
-4,767 songs - 11 day 10 hr 55 min
+4,768 songs - 11 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Calor y Tiempo](https://open.spotify.com/track/7IUCv34u5Uc3J0xMHl8bWG) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Calor y Tiempo](https://open.spotify.com/album/43qyBmrdzrnTaniiHXQ3ca) | 5:04 | 2023-01-13 | 2023-02-04 |
 | [Calzonazos por mayoría absoluta](https://open.spotify.com/track/6NnvwvzAlBpmecvoOkcsCT) | [Se ha perdido un niño](https://open.spotify.com/artist/3hBFtHSUfUl6qa3NdDnUbL) | [CXMA](https://open.spotify.com/album/6k4GZnkraRbir4rbFaH2OF) | 2:49 | 2023-05-26 | 2023-06-03 |
 | [Camarón \- Remix](https://open.spotify.com/track/6obEy5R1HdIqXrtPqZBAEO) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Camarón \(Remix\)](https://open.spotify.com/album/0Z6orQLS84NAoTWkdhoFWU) | 2:42 | 2023-11-24 | 2023-12-02 |
+| [Cambia De Actitud](https://open.spotify.com/track/7sYlx0T6wjTq281Wq2rkU5) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [Cambia De Actitud](https://open.spotify.com/album/7C9QbmbRUNV9piUalveZ28) | 2:08 | 2025-10-02 |  |
 | [Cambian](https://open.spotify.com/track/7chuX6EefRPb520HqAFDej) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Cambian](https://open.spotify.com/album/63kRgJ0EtVVDQpKoAUiOsz) | 4:24 | 2024-03-01 | 2024-03-09 |
 | [Cambiar de Piel](https://open.spotify.com/track/3gKO1TdZHhPwB2p5spqQZx) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9), [Sentencia Previa](https://open.spotify.com/artist/1IvHE2e7ZH5Dtm4amrhzzk) | [Cambiar de Piel](https://open.spotify.com/album/6sU8w63gMMQb6suZcaUB9l) | 2:55 | 2024-08-09 | 2024-08-31 |
 | [Cambiar Las Cosas](https://open.spotify.com/track/3QPTZcElAjTyPpEvCrt94K) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [Cambiar Las Cosas](https://open.spotify.com/album/31pjW7bHfe4crUFABwQ53y) | 3:28 | 2024-02-16 | 2024-03-02 |
@@ -698,7 +699,7 @@
 | [Charlie contra los monjes](https://open.spotify.com/track/1mxItVgbin5uLud2rrIdqm) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Charlie contra los monjes](https://open.spotify.com/album/7ADCsFiuDLjyhEwUiAsL0g) | 3:12 | 2024-09-13 | 2024-09-21 |
 | [Charlotte](https://open.spotify.com/track/4AIOC3TFFDclHKMJMyYOiB) | [Joliette](https://open.spotify.com/artist/7JOp3kPMRLD0DfV7xxkIE2) | [Luz de Bengala](https://open.spotify.com/album/3DpngfuWocDqX6hKU4FMAY) | 4:12 | 2023-08-25 | 2023-09-02 |
 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 | 2022-10-14 | 2022-10-29 |
-| [Cheques falsos](https://open.spotify.com/track/02dbdKrytktRAeHCTMjQpJ) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [](https://open.spotify.com/album/null) | 5:11 | 2025-10-02 |  |
+| [Cheques falsos](https://open.spotify.com/track/02dbdKrytktRAeHCTMjQpJ) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [1973](https://open.spotify.com/album/1Lotfo5byxZL9S3teWnwhd) | 5:11 | 2025-10-02 |  |
 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 | 2023-06-23 | 2023-07-08 |
 | [Chica cadáver](https://open.spotify.com/track/2YyBpGYK158dPmbzkv1oXe) | [Los Yolos](https://open.spotify.com/artist/6Q1inMUu76E70DvimdPQ2P) | [Chica cadáver](https://open.spotify.com/album/6VAsqzNTrQ45ssMEzG81Hz) | 4:46 | 2023-07-28 | 2023-08-12 |
 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 | 2023-09-01 | 2023-09-16 |

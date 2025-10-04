@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-258 songs - 19 hr 45 min
+259 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [betty \- Live from the 2020 Academy of Country Music Awards](https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [betty \(Live from the 2020 Academy of Country Music Awards\)](https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL) | 5:12 | 2023-08-18 |  |
 | [Bewitched \- Live at the Hollywood Bowl](https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU) | [A Night At The Symphony: Live at the Hollywood Bowl](https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ) | 4:15 | 2024-12-13 |  |
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-04-14 | 2023-07-29 |
+| [bloodsucker \- Live](https://open.spotify.com/track/1LPNFkQm8U0LJyk5CxMH4v) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Live from the Laundromat](https://open.spotify.com/album/5xxhPbe8Gc90g9VOeIKbZx) | 2:40 | 2025-10-03 |  |
 | [Bones \- Live in Vegas](https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons Live in Vegas](https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0) | 4:03 | 2023-07-28 |  |
 | [Breathe Me](https://open.spotify.com/track/6LuJxDGp0ASyAlSZN64bR0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Live from Sydney](https://open.spotify.com/album/623a0m3oqPh5SzrTOPxudd) | 6:06 | 2022-04-29 | 2022-08-16 |
 | [Breathe Me \- Live](https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 5:52 | 2022-04-14 | 2023-08-19 |

@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 130285,
       "name": "A Merry Little XMAS",
       "url": "https://open.spotify.com/track/3KYhdw2FCJPe4OYFhZki2P"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 176000,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
@@ -452,6 +452,24 @@
       "duration_ms": 146696,
       "name": "carol of the bells",
       "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
+    },
+    {
+      "album": {
+        "name": "Carols",
+        "url": "https://open.spotify.com/album/35p2JcOjKy7TS5nBDd5Rk7"
+      },
+      "artists": [
+        {
+          "name": "Soft Illy",
+          "url": "https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114833,
+      "name": "Carols",
+      "url": "https://open.spotify.com/track/5NbBuR4dJ2GIO6dHAyUB8I"
     },
     {
       "album": {
@@ -736,7 +754,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 166153,
       "name": "Christmas Lovin'",
       "url": "https://open.spotify.com/track/0y1oqexLerBf5CNHtXC8pK"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 131471,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/5adz821oMgN7c2UQtRFZci"
@@ -1230,6 +1248,24 @@
       "duration_ms": 91124,
       "name": "Deck the halls",
       "url": "https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/1DJ38TwfoIDNnl7qSu5CTs"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127666,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/4DrPKMGmiIXyhe04JBRFvE"
     },
     {
       "album": {
@@ -1467,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/1xEYMYrgxS1jBSaPBovcvu"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151166,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/2NN1RUw9N2OM3oU8fGj51e"
+    },
+    {
+      "album": {
         "name": "Snow, Vol. 2",
         "url": "https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9"
       },
@@ -1532,7 +1586,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 135812,
       "name": "Frosty",
       "url": "https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU"
@@ -1586,7 +1640,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 128088,
       "name": "frozen waterfall",
       "url": "https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs"
@@ -1712,7 +1766,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 122250,
       "name": "Happy Christmas (War is Over)",
       "url": "https://open.spotify.com/track/2M35q1wTRD4r8flr66VdFR"
@@ -1748,7 +1802,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 160166,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M"
@@ -2004,10 +2058,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 150399,
       "name": "Holiday Mood Lofi - Instrumental",
       "url": "https://open.spotify.com/track/0p9ihhlziFCYfNrRPZCJkF"
+    },
+    {
+      "album": {
+        "name": "Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/15w33JTHQprNOkQDxaPswz"
+      },
+      "artists": [
+        {
+          "name": "softwaves",
+          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146548,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/63J7ahYwSZGQgXJkgGUbgc"
     },
     {
       "album": {
@@ -2026,6 +2098,24 @@
       "duration_ms": 115691,
       "name": "Holly Jolly Wishes",
       "url": "https://open.spotify.com/track/6Ph4oxrtrV2am5Y9N88pmF"
+    },
+    {
+      "album": {
+        "name": "home for the holidays",
+        "url": "https://open.spotify.com/album/26g6Hnx2BKpvek0R3DOnwp"
+      },
+      "artists": [
+        {
+          "name": "butterfli",
+          "url": "https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "home for the holidays",
+      "url": "https://open.spotify.com/track/47HwT6hNqVoiEDbJieUXTf"
     },
     {
       "album": {
@@ -2213,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/6zfP7i3yv9GCIaO52h6yKX"
+      },
+      "artists": [
+        {
+          "name": "BLVKSHP",
+          "url": "https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131688,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/3U5VgCJiLdJOLzxnXzKABa"
+    },
+    {
+      "album": {
         "name": "In the snow",
         "url": "https://open.spotify.com/album/2UsWUMID8B4g918a3hp2jg"
       },
@@ -2300,6 +2408,24 @@
       "duration_ms": 123055,
       "name": "It's Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/69S8yy1MWbPS5DhQQtaYM2"
+    },
+    {
+      "album": {
+        "name": "It's Beginning to Look a Lot Like Christmas",
+        "url": "https://open.spotify.com/album/0JJDWsEaAwOnYOAqBxtTqS"
+      },
+      "artists": [
+        {
+          "name": "YorBeatz",
+          "url": "https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115233,
+      "name": "It's Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/78uJyyFLhMkZQYnLjiU2hR"
     },
     {
       "album": {
@@ -2498,7 +2624,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 164444,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
@@ -2650,7 +2776,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 189196,
       "name": "JOY",
       "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
@@ -3305,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Mulled Wine and Cinnamon",
+        "url": "https://open.spotify.com/album/1gtbBQ4W6YEOrUQgdVhADD"
+      },
+      "artists": [
+        {
+          "name": "X84",
+          "url": "https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140643,
+      "name": "Mulled Wine and Cinnamon",
+      "url": "https://open.spotify.com/track/75Ovn4THkty5ocbcWlHcoG"
+    },
+    {
+      "album": {
         "name": "My Christmas in Brooklyn",
         "url": "https://open.spotify.com/album/00C32wsRQi76yAIBVOnL4j"
       },
@@ -3669,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Memory",
+        "url": "https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135266,
+      "name": "Peaceful Memory",
+      "url": "https://open.spotify.com/track/2WaMdKmR4qcjGlhxmtChGo"
+    },
+    {
+      "album": {
         "name": "piano to snow to",
         "url": "https://open.spotify.com/album/7b2unW2rhNtyWkASp3Dzcp"
       },
@@ -3871,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "rockin' around the christmas tree",
+        "url": "https://open.spotify.com/album/22NWfF1izoNL5WEJuCIgdo"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126966,
+      "name": "rockin' around the christmas tree",
+      "url": "https://open.spotify.com/track/0CtRhDaDV78eFvClLfu582"
+    },
+    {
+      "album": {
         "name": "Rockin' Around The Christmas Tree",
         "url": "https://open.spotify.com/album/6pnsjGMTpc5iSc3cEP3fFd"
       },
@@ -3900,7 +4080,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 152957,
       "name": "Rodolfo el reno",
       "url": "https://open.spotify.com/track/4cO791Mb6k2Oml1sskXP2C"
@@ -4048,6 +4228,24 @@
       "duration_ms": 146224,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e"
+    },
+    {
+      "album": {
+        "name": "santa chill",
+        "url": "https://open.spotify.com/album/5V7iTZ43II5FcbJYfW493K"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122571,
+      "name": "santa chill",
+      "url": "https://open.spotify.com/track/2z7e3p1ajkPmqdO2UztDjE"
     },
     {
       "album": {
@@ -4441,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3uIwH3nrluiodG8k2IccOU"
+      },
+      "artists": [
+        {
+          "name": "hope mona",
+          "url": "https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/60VXtMYlbClIMhHFbrw4wW"
+    },
+    {
+      "album": {
         "name": "Lofi Christmas",
         "url": "https://open.spotify.com/album/1DVFsVbYH3y2YhvH3Q4j2P"
       },
@@ -4582,7 +4798,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 176500,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1GK8IGST7h1RoDYl2x8981"
@@ -4784,7 +5000,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 162874,
       "name": "That\u2019s Christmas To Me",
       "url": "https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD"
@@ -5073,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Walks In The Snow",
+        "url": "https://open.spotify.com/album/1wZpN0ovPysKBwLL3VS0af"
+      },
+      "artists": [
+        {
+          "name": "Blue Boatz",
+          "url": "https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129393,
+      "name": "Walks In The Snow",
+      "url": "https://open.spotify.com/track/6HZ4bCS0peT96kzhqdqK37"
+    },
+    {
+      "album": {
         "name": "We Wish You a Merry Christmas",
         "url": "https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU"
       },
@@ -5088,6 +5322,24 @@
       "duration_ms": 133636,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/6itPsWk0k1sd6yffGoqR30"
+    },
+    {
+      "album": {
+        "name": "We Wish You The Merriest",
+        "url": "https://open.spotify.com/album/5Ku5r01grVNrZJsX37wMZ6"
+      },
+      "artists": [
+        {
+          "name": "Boxed Poems",
+          "url": "https://open.spotify.com/artist/5eWJZUps7MQJ0Nklq5tCdX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/2Uf08npMH7u6ME511mTAcP"
     },
     {
       "album": {

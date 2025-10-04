@@ -2,7 +2,7 @@
 
 ### [Westside](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Chef Boy
+> Holdin' it down for the westside\. Cover: Blxst
 
 1,395 songs - 2 day 16 hr 50 min
 

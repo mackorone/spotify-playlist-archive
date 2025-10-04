@@ -1545,6 +1545,32 @@
     },
     {
       "album": {
+        "name": "Grieg: Peer Gynt Suite No. 1, Op. 46 (Version for Piano 4 Hands): I. Morning Mood",
+        "url": "https://open.spotify.com/album/7FG4jHbaI2f6zm95A8coPA"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "Peer Gynt Suite No. 1, Op. 46 (Version for Piano 4 Hands): I. Morning Mood",
+      "url": "https://open.spotify.com/track/5AmnLvgCYYCzOrHM527odv"
+    },
+    {
+      "album": {
         "name": "Grieg: Peer Gynt Suite No. 1, Op. 46: I. Morning Mood (Arr. Lawson for Harp)",
         "url": "https://open.spotify.com/album/3PPs6TCoAqwlJUJTUDJUaD"
       },
@@ -1560,7 +1586,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 264803,
       "name": "Peer Gynt Suite No. 1, Op. 46: I. Morning Mood (Arr. Lawson for Harp)",
       "url": "https://open.spotify.com/track/0MKDHO3zrN099YRcsG9JiG"

@@ -2725,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Cristalline",
+        "url": "https://open.spotify.com/album/29nlVmBV3PkXA98DtlwMaR"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cristalline",
+      "url": "https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q"
+    },
+    {
+      "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/6OzIbR3hIZ58xavhSu6mG6"
       },

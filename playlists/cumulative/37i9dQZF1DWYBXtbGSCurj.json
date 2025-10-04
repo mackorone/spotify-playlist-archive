@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Yunk Vino",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: tchelo",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 129923,
       "name": "ALPINISTA",
       "url": "https://open.spotify.com/track/0cEvvcGEuUXhfaZgRj4TN5"
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 211651,
       "name": "BABY DRACO 2",
       "url": "https://open.spotify.com/track/3gCosdkfK1jX3sXJcV4SLr"
@@ -6116,7 +6116,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 164589,
       "name": "bumbum",
       "url": "https://open.spotify.com/track/3eDUyh00ahBwG9UQb7d20R"
@@ -11006,7 +11006,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 131908,
       "name": "Deus Aben\u00e7oe o Trap",
       "url": "https://open.spotify.com/track/1UoDg4cTqp6zJbwHCfJj5Q"
@@ -12334,6 +12334,28 @@
       "duration_ms": 166611,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/3tP6kXipQVvUvM8zB0n3Gk"
+    },
+    {
+      "album": {
+        "name": "NOVOS H\u00c1BITOS",
+        "url": "https://open.spotify.com/album/65uzff6CI81JisRkr9nJkU"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132919,
+      "name": "DOMINICANA",
+      "url": "https://open.spotify.com/track/3V5DUGFkuUGM7nqlwWHLQi"
     },
     {
       "album": {
@@ -17897,6 +17919,28 @@
     },
     {
       "album": {
+        "name": "Gesticular",
+        "url": "https://open.spotify.com/album/3wz0qyJyxj9OaoD4FnfJuZ"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140903,
+      "name": "Gesticular",
+      "url": "https://open.spotify.com/track/3hZZzfkRVXz34CGpCVHHY5"
+    },
+    {
+      "album": {
         "name": "Gest\u00e3o Inteligente 2",
         "url": "https://open.spotify.com/album/5kPN4sQuSyukkmqmZj52lH"
       },
@@ -18700,7 +18744,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 140155,
       "name": "Hiperfoco",
       "url": "https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK"
@@ -21935,6 +21979,28 @@
     },
     {
       "album": {
+        "name": "loira de medicina",
+        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153472,
+      "name": "loira de medicina",
+      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
+    },
+    {
+      "album": {
         "name": "Wally (Deluxe)",
         "url": "https://open.spotify.com/album/0TtYKzp0wwfxO6yMKUagrf"
       },
@@ -23524,6 +23590,28 @@
       "duration_ms": 166961,
       "name": "MA\u00c7OM",
       "url": "https://open.spotify.com/track/11YbstXIKTHRo02wkPNXea"
+    },
+    {
+      "album": {
+        "name": "MC de Batalha",
+        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188420,
+      "name": "MC de Batalha",
+      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
     },
     {
       "album": {
@@ -33291,6 +33379,28 @@
     },
     {
       "album": {
+        "name": "GIRO DO TRAP (DELUXE)",
+        "url": "https://open.spotify.com/album/3razTXeZX8mmm28X3GW5Re"
+      },
+      "artists": [
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "DNAY",
+          "url": "https://open.spotify.com/artist/5MfRy5LzLtiGj7YQg8FvBB"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "PREFIRO SUMI",
+      "url": "https://open.spotify.com/track/2zs9FbBNGjjca8coua5iwb"
+    },
+    {
+      "album": {
         "name": "Pregui\u00e7a",
         "url": "https://open.spotify.com/album/2SKGi4zAHfVdR1jvnozLfj"
       },
@@ -37692,7 +37802,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 228334,
       "name": "Sentimento de Culpa",
       "url": "https://open.spotify.com/track/1nRLenMm9ne2PkqKBLdEWx"
@@ -43558,7 +43668,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 193414,
       "name": "Vingativa",
       "url": "https://open.spotify.com/track/583qZVuF2n428EjWOEeiwu"
@@ -44657,6 +44767,28 @@
     },
     {
       "album": {
+        "name": "NOVOS H\u00c1BITOS",
+        "url": "https://open.spotify.com/album/65uzff6CI81JisRkr9nJkU"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115209,
+      "name": "YAMAL FREESTYLE",
+      "url": "https://open.spotify.com/track/4JTL54d1a4iZlXU2Dr74S0"
+    },
+    {
+      "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P"
       },
@@ -45012,6 +45144,32 @@
       "duration_ms": 149833,
       "name": "ZyZy",
       "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/3Ev7y3UEHms5phIkTI1TKS"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141379,
+      "name": "\u00c1gua",
+      "url": "https://open.spotify.com/track/6MAPa6fzJbBuBzKEZ6CjHZ"
     },
     {
       "album": {

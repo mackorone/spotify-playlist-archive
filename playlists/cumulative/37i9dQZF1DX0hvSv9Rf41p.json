@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with ALLEYCVT",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Levity",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 233142,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 184758,
       "name": "Arise",
       "url": "https://open.spotify.com/track/2vGo0fh24LZBqEYj9nFsRp"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 260689,
       "name": "Aura Farming",
       "url": "https://open.spotify.com/track/54iy8ooDbrHeuSOeYL0pkC"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -5523,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "CHOPPER DUB",
+        "url": "https://open.spotify.com/album/1NRSFAr5jTDIXCZQAKynem"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245982,
+      "name": "CHOPPER DUB",
+      "url": "https://open.spotify.com/track/0RFJRwnUGAKZNgE9L02QAC"
+    },
+    {
+      "album": {
         "name": "CLICK",
         "url": "https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH"
       },
@@ -7505,6 +7523,28 @@
     },
     {
       "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
+    },
+    {
+      "album": {
         "name": "DISRESPECT",
         "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
       },
@@ -9296,7 +9336,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 168000,
       "name": "Everybody Knows - feat. IRAH",
       "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
@@ -13331,6 +13371,28 @@
     },
     {
       "album": {
+        "name": "hey lil mama",
+        "url": "https://open.spotify.com/album/4UPPtXWi9OXzjBtn5Ldcvo"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "hey lil mama",
+      "url": "https://open.spotify.com/track/5Rv4GkCbfSfCADhXO4fmQf"
+    },
+    {
+      "album": {
         "name": "HEYZ'D And Confused",
         "url": "https://open.spotify.com/album/0YowGObuwn3Th1CsRYhQLB"
       },
@@ -13342,7 +13404,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 166451,
       "name": "HEYZ'D And Confused",
       "url": "https://open.spotify.com/track/1ectYh0GCvSR0z8tMc1osn"
@@ -13360,7 +13422,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 151874,
       "name": "Hi Stranger",
       "url": "https://open.spotify.com/track/3KITjt34RYiLM3RAP1ZFXf"
@@ -16205,6 +16267,32 @@
     },
     {
       "album": {
+        "name": "LA NOCHE",
+        "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ANITA B QUEEN",
+          "url": "https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212244,
+      "name": "LA NOCHE",
+      "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "album": {
         "name": "La Puta Ama (EDDIE Remix)",
         "url": "https://open.spotify.com/album/4keLA18A4X5cJ3wTbDC2kI"
       },
@@ -17312,6 +17400,28 @@
       "duration_ms": 241681,
       "name": "LONESUM",
       "url": "https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe"
+    },
+    {
+      "album": {
+        "name": "LOOK (feat. Emi Grace)",
+        "url": "https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159964,
+      "name": "LOOK (feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS"
     },
     {
       "album": {
@@ -19933,6 +20043,24 @@
     },
     {
       "album": {
+        "name": "NINE LIVES",
+        "url": "https://open.spotify.com/album/63DUuGk1TfBxtwgdBRNeBU"
+      },
+      "artists": [
+        {
+          "name": "STVSH",
+          "url": "https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170212,
+      "name": "NINE LIVES",
+      "url": "https://open.spotify.com/track/02U7sRQrOAom3Q8XCgtxS7"
+    },
+    {
+      "album": {
         "name": "No Blood Left To Bleed (feat. Micah Martin)",
         "url": "https://open.spotify.com/album/0Kusz73azr9KBr9B74vo5F"
       },
@@ -20142,7 +20270,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 144000,
       "name": "NOISE COMPLAINT",
       "url": "https://open.spotify.com/track/5kF8CkVtxGULQ3iVgKSKV1"
@@ -20861,6 +20989,24 @@
     },
     {
       "album": {
+        "name": "ON JOB",
+        "url": "https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198002,
+      "name": "ON JOB",
+      "url": "https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/6SPxFAg03yuGVnoCE5AxvC"
       },
@@ -21393,6 +21539,24 @@
     },
     {
       "album": {
+        "name": "9 LIVES",
+        "url": "https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "OTHER SIDE",
+      "url": "https://open.spotify.com/track/3EhV0Uf4seRJAtA1jBTVBy"
+    },
+    {
+      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp"
       },
@@ -21906,7 +22070,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 219000,
       "name": "Pay No Mind",
       "url": "https://open.spotify.com/track/4mBzrov1MSY2thkUoxzwzE"
@@ -24186,7 +24350,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
@@ -24558,6 +24722,24 @@
       "duration_ms": 177935,
       "name": "SAINT VITUS",
       "url": "https://open.spotify.com/track/0er5nt6WASDSnqAN27HF3u"
+    },
+    {
+      "album": {
+        "name": "Snack Pack Vol. 1",
+        "url": "https://open.spotify.com/album/4UQkMJyhzQNbldVNaOY4IC"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218275,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/51qvSn161ge7T0E4U3LsND"
     },
     {
       "album": {
@@ -26725,6 +26907,24 @@
     },
     {
       "album": {
+        "name": "Sp\u00e4tkauf",
+        "url": "https://open.spotify.com/album/1ROtnR2ZOvisi4NgbwxUWH"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/0aK1S8wLCbUhW5BEGjiegg"
+    },
+    {
+      "album": {
         "name": "Spirit Showdown",
         "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
       },
@@ -27686,6 +27886,24 @@
       "duration_ms": 226206,
       "name": "SURFACING",
       "url": "https://open.spotify.com/track/5xFgju1KjoNX3UACChHNJM"
+    },
+    {
+      "album": {
+        "name": "Swag Surfin'",
+        "url": "https://open.spotify.com/album/4EcIH2844mdTmmFX7pcyhC"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228368,
+      "name": "Swag Surfin'",
+      "url": "https://open.spotify.com/track/4orH1YqyAjXBtBr0DfsqjV"
     },
     {
       "album": {
@@ -30818,7 +31036,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 129629,
       "name": "VOLTAGE",
       "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
@@ -31222,7 +31440,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 248163,
       "name": "WARPIPE",
       "url": "https://open.spotify.com/track/4pxJVvzMHKCXR3meYRwuE0"
@@ -32432,6 +32650,28 @@
       "duration_ms": 171428,
       "name": "XEROX",
       "url": "https://open.spotify.com/track/4Fj8ObHspCh0EXyxr53Ezy"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 825426,
+  "num_followers": 825530,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 210132,
       "name": "How Deep Is Your Love (feat. Yebba) - Live",
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Los Belkings (Ayer y Hoy)",
-        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
-      },
-      "artists": [
-        {
-          "name": "Los Belkings",
-          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Sabor Dulce",
-      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        }
-      ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 275746,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "One Evening - Remix By VV",
+      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "Grapetooth",
         "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 240453,
-      "name": "One Evening - Remix By VV",
-      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -1495,18 +1511,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+        "name": "Little Push",
+        "url": "https://open.spotify.com/album/2A3NYiDl0D1hKEclqH6rGj"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Liliana Andrade",
+          "url": "https://open.spotify.com/artist/0Fxf7Axf1iNSZHj6O1LcO3"
         }
       ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+      "duration_ms": 185187,
+      "name": "Little Push",
+      "url": "https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1531,26 +1551,6 @@
       "duration_ms": 174311,
       "name": "Kathy and Paul",
       "url": "https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "Little Push",
-        "url": "https://open.spotify.com/album/2A3NYiDl0D1hKEclqH6rGj"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Liliana Andrade",
-          "url": "https://open.spotify.com/artist/0Fxf7Axf1iNSZHj6O1LcO3"
-        }
-      ],
-      "duration_ms": 185187,
-      "name": "Little Push",
-      "url": "https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Freedom to Talk",
         "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
       },
@@ -1711,22 +1691,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Stunning & Atrocious",
         "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
@@ -1739,6 +1703,42 @@
       "duration_ms": 217047,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1763,34 +1763,18 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
       "artists": [
         {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
         }
       ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "Mid-Century Modern Romance",
-        "url": "https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ"
-      },
-      "artists": [
-        {
-          "name": "Dante Elephante",
-          "url": "https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Find Somebody to Love",
-      "url": "https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS"
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1807,6 +1791,22 @@
       "duration_ms": 227600,
       "name": "Tell Me With Your Eyes (Just Be You)",
       "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Mid-Century Modern Romance",
+        "url": "https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ"
+      },
+      "artists": [
+        {
+          "name": "Dante Elephante",
+          "url": "https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Find Somebody to Love",
+      "url": "https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS"
     },
     {
       "added_at": "2025-08-29 04:23:56",

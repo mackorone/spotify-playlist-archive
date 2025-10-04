@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tonton Naza.
 
-645 songs - 1 day 12 hr 31 min
+646 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 | 2025-02-12 |
 | [CR7](https://open.spotify.com/track/6WRS0yCNFp8nwFwVRujLA6) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [CR7](https://open.spotify.com/album/1Ugm583SMex1WqKhfb7Xee) | 2:59 | 2024-05-31 | 2024-07-19 |
 | [Crispy](https://open.spotify.com/track/5u16FMHLDsG50xV6ENA7U8) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Crispy](https://open.spotify.com/album/7cq2diUwOOrYVtOzgaWYuM) | 3:09 | 2024-01-12 | 2024-01-20 |
+| [Cristalline](https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Cristalline](https://open.spotify.com/album/29nlVmBV3PkXA98DtlwMaR) | 2:54 | 2025-10-04 |  |
 | [Daddy](https://open.spotify.com/track/5Oy18y0Jg89TE9aBSVcyEH) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Daddy](https://open.spotify.com/album/6OzIbR3hIZ58xavhSu6mG6) | 2:51 | 2024-10-18 | 2024-12-14 |
 | [Danger](https://open.spotify.com/track/581tF1qVe79aRGlCXlVIS8) | [SIMBARAJA](https://open.spotify.com/artist/0wH4VwCNexTzSmuSRExS9M), [KiLLMYPRiDE](https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK) | [Danger](https://open.spotify.com/album/4IZPWqH21GBqXOAFXdd8ph) | 2:37 | 2025-04-11 | 2025-04-19 |
 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 | 2023-09-15 | 2023-12-23 |

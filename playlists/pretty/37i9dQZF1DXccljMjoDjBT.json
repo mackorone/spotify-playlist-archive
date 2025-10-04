@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 337439,
+  "num_followers": 337538,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Hearts In Motion",
-        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Lonely Is the Night",
-      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 267033,
-      "name": "Gypsy - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 267033,
+      "name": "Gypsy - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 235333,
-      "name": "I Gotta Try",
-      "url": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "High Adventure",
         "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 247066,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0Gtb0lXSgo9zEXl3B2yn07"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 235333,
+      "name": "I Gotta Try",
+      "url": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -847,34 +847,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Once In a Lifetime",
-        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
       },
       "artists": [
         {
-          "name": "Michael Ruff",
-          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
         }
       ],
-      "duration_ms": 264680,
-      "name": "Once In a Lifetime",
-      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "All Dressed Up",
-        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
-      },
-      "artists": [
-        {
-          "name": "David Roberts",
-          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "Boys of Autumn",
-      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,18 +879,34 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+        "name": "All Dressed Up",
+        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
       "artists": [
         {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+          "name": "David Roberts",
+          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
         }
       ],
-      "duration_ms": 284186,
-      "name": "That Girl Is Gone",
-      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
+      "duration_ms": 254457,
+      "name": "Boys of Autumn",
+      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Once In a Lifetime",
+        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
+      },
+      "artists": [
+        {
+          "name": "Michael Ruff",
+          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "Once In a Lifetime",
+      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Franke & The Knockouts (Original Recording Remastered)",
-        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
-      },
-      "artists": [
-        {
-          "name": "Franke & The Knockouts",
-          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Sweetheart",
-      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Desert Moon",
         "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 368800,
       "name": "Desert Moon",
       "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Franke & The Knockouts (Original Recording Remastered)",
+        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
+      },
+      "artists": [
+        {
+          "name": "Franke & The Knockouts",
+          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
     },
     {
       "added_at": "2023-03-30 14:38:10",

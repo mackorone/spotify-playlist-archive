@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Pola
 
-603 songs - 1 day 5 hr 34 min
+604 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [comeback!](https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7) | [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [comeback!](https://open.spotify.com/album/5mUXseiDHWqq7GeGte41aq) | 2:16 | 2025-04-17 | 2025-06-06 |
 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-01-30 | 2025-03-21 |
 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 | 2025-01-23 | 2025-02-21 |
+| [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 | 2025-09-30 |  |
 | [Czas](https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di) | 3:55 | 2025-06-19 | 2025-09-05 |
 | [CZAS NA SEN](https://open.spotify.com/track/6LulbqWDMnl1odFxtKWAzi) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [CZAS NA SEN](https://open.spotify.com/album/7xaxcinwclcWFuJN61intz) | 2:44 | 2025-02-13 | 2025-02-23 |
 | [cześć](https://open.spotify.com/track/6AS5rQyTrxZhx78KLODdo8) | [iga casp](https://open.spotify.com/artist/3voDFCGW20SxhuZ8Far400), [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [cześć](https://open.spotify.com/album/3BVpfC5UOknCXhYprn9mfb) | 3:03 | 2024-06-28 | 2024-07-27 |
@@ -234,7 +235,7 @@
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2024-06-28 | 2024-09-14 |
 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 | 2024-09-19 | 2025-01-24 |
 | [Kolejny Marzec](https://open.spotify.com/track/5GWUjRd631GZnTXftVudEJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Kolejny Marzec](https://open.spotify.com/album/37bVRC9MrNGXpU0ITCmRYA) | 2:50 | 2024-06-28 | 2024-07-19 |
-| [Kompleks Boga](https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Szymon Pałyz](https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz) | [Kompleks Boga](https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK) | 3:07 | 2025-07-31 |  |
+| [Kompleks Boga](https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Szymon Pałyz](https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz) | [Kompleks Boga](https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK) | 3:07 | 2025-07-31 | 2025-10-04 |
 | [Korony drzew](https://open.spotify.com/track/2TPyB6p0P5bfIDGHgnw5aZ) | [MENT](https://open.spotify.com/artist/3u7qU72tVErX5mWw2ZPyev), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE) | [Korony drzew](https://open.spotify.com/album/3bfzPdXHxKnZoJnwr8yG7t) | 3:16 | 2025-09-16 |  |
 | [Kosmosy](https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP) | [Kosmosy](https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7) | 2:55 | 2024-07-04 | 2024-11-22 |
 | [Koszta](https://open.spotify.com/track/64r6wuR8ltqW6T2GwYZxt0) | [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [Koszta](https://open.spotify.com/album/2P0Pu9V0kckJStlQsbPRM4) | 2:51 | 2025-04-17 | 2025-06-16 |

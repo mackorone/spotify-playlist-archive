@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Apartamento",
+        "url": "https://open.spotify.com/album/5uMdEtFWebsQehI4EODU8U"
+      },
+      "artists": [
+        {
+          "name": "Puntico",
+          "url": "https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Apartamento",
+      "url": "https://open.spotify.com/track/5bjJySt1LufsKDApTrS0A0"
+    },
+    {
+      "album": {
         "name": "APDB",
         "url": "https://open.spotify.com/album/5nxqY5d20sfZIj35F2njNm"
       },
@@ -2393,6 +2411,28 @@
     },
     {
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/2QAxQ1WlIFqMZwgpM1GbfE"
+      },
+      "artists": [
+        {
+          "name": "Ateriko",
+          "url": "https://open.spotify.com/artist/0hN1eVzVSkZMBMW1DpQQcC"
+        },
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109139,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/6AC2KO3RPHpC8Ys0JVr6K3"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/66x0syq87tsJNMHd4TEhBe"
       },
@@ -2602,7 +2642,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 209142,
       "name": "BENDECI2",
       "url": "https://open.spotify.com/track/2iCuSuZhg0uR1Zwc6Uo97W"
@@ -3614,7 +3654,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 328248,
       "name": "CHAMPA\u00d1A",
       "url": "https://open.spotify.com/track/1mcaenVoYmWJDSVg1tUkpm"
@@ -3904,6 +3944,28 @@
       "duration_ms": 134918,
       "name": "Clava La Balanza",
       "url": "https://open.spotify.com/track/4Bp47EqCUtJUhDDaiAtgJS"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/5cVXfGrBAKW5KcPB7fWy7j"
+      },
+      "artists": [
+        {
+          "name": "K2 La Para Musical",
+          "url": "https://open.spotify.com/artist/6y8Td6QsLfjnDCz0psGth6"
+        },
+        {
+          "name": "Raydel Produce",
+          "url": "https://open.spotify.com/artist/4DMzPadyUduAkLaVUw0UnR"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114392,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/4hrmqqa8n0B5shJD7ip0uG"
     },
     {
       "album": {
@@ -4478,7 +4540,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 106425,
       "name": "Coronao Feo",
       "url": "https://open.spotify.com/track/4kWt4Mjn4irIXuZXyaoTVG"
@@ -5220,7 +5282,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 186550,
       "name": "De la mano",
       "url": "https://open.spotify.com/track/4cwkoNMvQBBL2TlvOxiyoh"
@@ -5316,6 +5378,28 @@
       "duration_ms": 122500,
       "name": "De Regalo",
       "url": "https://open.spotify.com/track/1ILjmBTvFF3ExlByvAycOZ"
+    },
+    {
+      "album": {
+        "name": "De To'",
+        "url": "https://open.spotify.com/album/73rTxyUw6l968q4UZQgDOx"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        },
+        {
+          "name": "Mandrake El Malocorita",
+          "url": "https://open.spotify.com/artist/7z4uW6xL36waxCZxj5MpN0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165309,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/5FlG5nuarSJ2Ln7ffTnwNH"
     },
     {
       "album": {
@@ -8904,7 +8988,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 100858,
       "name": "Freestyle 1",
       "url": "https://open.spotify.com/track/6tD6HXMTtU2OTBBFACTRLJ"
@@ -10259,6 +10343,36 @@
     },
     {
       "album": {
+        "name": "INTENSO",
+        "url": "https://open.spotify.com/album/2nBBgqmy8b0rDDchFjispF"
+      },
+      "artists": [
+        {
+          "name": "El Ejerxito",
+          "url": "https://open.spotify.com/artist/1Qnv55aQH3hUS3HCB7ymrU"
+        },
+        {
+          "name": "Yo Soy John Kenny",
+          "url": "https://open.spotify.com/artist/30wPtrkY6Mg29rBOpWewnu"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125100,
+      "name": "INTENSO",
+      "url": "https://open.spotify.com/track/4ziKcI78mOxIVzhG9KMUro"
+    },
+    {
+      "album": {
         "name": "Ivy",
         "url": "https://open.spotify.com/album/4LtJCIefvSARyc5IycUBNn"
       },
@@ -10691,6 +10805,24 @@
     },
     {
       "album": {
+        "name": "KTEDE",
+        "url": "https://open.spotify.com/album/3HeFz3W4d3pYIJ0IKsvdBd"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "KTEDE",
+      "url": "https://open.spotify.com/track/6FSeXu3pKURyJZldwEr0aI"
+    },
+    {
+      "album": {
         "name": "L NAMA",
         "url": "https://open.spotify.com/album/6yHoEYxfnkRej1t54zCs2P"
       },
@@ -10816,6 +10948,28 @@
       "duration_ms": 111505,
       "name": "La Baby (feat. La Perversa)",
       "url": "https://open.spotify.com/track/0RhYeffPI9SJuKgQZ8ptmp"
+    },
+    {
+      "album": {
+        "name": "La Blicky",
+        "url": "https://open.spotify.com/album/5SfWw63a91a9va5i7o6whc"
+      },
+      "artists": [
+        {
+          "name": "Jordani",
+          "url": "https://open.spotify.com/artist/0it6z33DV0QPR7m85tyhjz"
+        },
+        {
+          "name": "Papy Crish",
+          "url": "https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120018,
+      "name": "La Blicky",
+      "url": "https://open.spotify.com/track/5boz6LFoXBm0DdgYwhal9n"
     },
     {
       "album": {
@@ -11856,7 +12010,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 197052,
       "name": "LA \u00b4PARA Y VAKER\u00d3",
       "url": "https://open.spotify.com/track/6woEKGoP2XiAI2BhrPZ1gT"
@@ -13003,6 +13157,24 @@
     },
     {
       "album": {
+        "name": "MA MA M\u00c1",
+        "url": "https://open.spotify.com/album/14mxPuAhPaUcHgJYq6HSZX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105377,
+      "name": "MA MA M\u00c1",
+      "url": "https://open.spotify.com/track/0esJTlRC2LxjJ9ebiEgFuW"
+    },
+    {
+      "album": {
         "name": "SAGITARIO",
         "url": "https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4"
       },
@@ -13974,7 +14146,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 66768,
       "name": "me quieren copiar",
       "url": "https://open.spotify.com/track/4HqkJU5er0qh1iQ7Lg5s6j"
@@ -17313,6 +17485,28 @@
     },
     {
       "album": {
+        "name": "Pa Muerto Preso",
+        "url": "https://open.spotify.com/album/0Nz2tVSF2SueLmWdFMWbOq"
+      },
+      "artists": [
+        {
+          "name": "Emty Glck",
+          "url": "https://open.spotify.com/artist/6oDKo9WwicKuZDL32rmBfK"
+        },
+        {
+          "name": "El Kable",
+          "url": "https://open.spotify.com/artist/3hbiGjxZ86peyzzA5N4hil"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Pa Muerto Preso",
+      "url": "https://open.spotify.com/track/7aZTWlCC1sEoe2um9uY5Na"
+    },
+    {
+      "album": {
         "name": "Pa Tiii",
         "url": "https://open.spotify.com/album/7GlIheeA5dPKXPBRn2KIHs"
       },
@@ -18655,6 +18849,24 @@
     },
     {
       "album": {
+        "name": "profesional",
+        "url": "https://open.spotify.com/album/1pb50Mn8CZ52GBzkwgzypb"
+      },
+      "artists": [
+        {
+          "name": "Kapuchino",
+          "url": "https://open.spotify.com/artist/2C4H20N3hFihVZ10N0UTwv"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101928,
+      "name": "profesional",
+      "url": "https://open.spotify.com/track/0KgJddxj8wAZxvzVC5NEcT"
+    },
+    {
+      "album": {
         "name": "Proyecto #1 (Deluxe)",
         "url": "https://open.spotify.com/album/4BjVTD1pxX0j9MSlkvAGJY"
       },
@@ -19070,7 +19282,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 348226,
       "name": "Rafa Ca$H",
       "url": "https://open.spotify.com/track/0tV3iMhYCo5L6dk9ImdH8D"
@@ -19332,7 +19544,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 94442,
       "name": "RESPETO",
       "url": "https://open.spotify.com/track/4Amr9e2FjzQWtsz696lNDw"
@@ -20058,7 +20270,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 185346,
       "name": "Sesion 37",
       "url": "https://open.spotify.com/track/1bWLTCYP239EHuTsZUDzyG"
@@ -20322,10 +20534,28 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 100714,
       "name": "Sistema",
       "url": "https://open.spotify.com/track/1NYAJaJgkWoVRiFxKL9Hul"
+    },
+    {
+      "album": {
+        "name": "Ski Mask",
+        "url": "https://open.spotify.com/album/7rhmhTM9MXilGRCvP0tVJt"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ski Mask",
+      "url": "https://open.spotify.com/track/7AvxkeQ1lmKkLIVemgqoLF"
     },
     {
       "album": {
@@ -20442,6 +20672,36 @@
       "duration_ms": 193384,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/1K6xnYVt3CpLQesnSysCgw"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0eetSRI5Uf6OriOJgPww2c"
+      },
+      "artists": [
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Cifra Slimk",
+          "url": "https://open.spotify.com/artist/4QuGEUEOs7VBie31yZOyrf"
+        },
+        {
+          "name": "Tripy 03",
+          "url": "https://open.spotify.com/artist/6mN7nhCBVjf1fjqkAC2ucU"
+        },
+        {
+          "name": "Yaya La Voz",
+          "url": "https://open.spotify.com/artist/51A6WzUhkX65jdXnYW0YvK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192945,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/13gegSlWmBFetjZe6k2Z2q"
     },
     {
       "album": {
@@ -20894,7 +21154,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 177977,
       "name": "T.U.M.B.A",
       "url": "https://open.spotify.com/track/5ZshAjv8FFWeTNnIJMgRd1"
@@ -22658,7 +22918,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 174547,
       "name": "TXT",
       "url": "https://open.spotify.com/track/6u8DP78VqGYVbASSFLTRAt"
@@ -23766,6 +24026,28 @@
       "duration_ms": 176952,
       "name": "Volver",
       "url": "https://open.spotify.com/track/3RpXgnCyowfF33AKzAq0f0"
+    },
+    {
+      "album": {
+        "name": "Voy A Mi",
+        "url": "https://open.spotify.com/album/3jfHGK1OaSdQBPPliQKWkR"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        },
+        {
+          "name": "TR3YD2CE",
+          "url": "https://open.spotify.com/artist/3Y4lRKpIiQuTlpTgN6cUlj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Voy A Mi",
+      "url": "https://open.spotify.com/track/5cpJguwzCXUGTp4wAa27vi"
     },
     {
       "album": {

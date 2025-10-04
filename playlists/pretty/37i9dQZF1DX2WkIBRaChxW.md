@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Ari Lennox.
+> What's happening in r&b, right now – featuring Dylan Sinclair.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,508 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,462 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [I'll Be Good](https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [I'll Be Good](https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI) | 3:32 |
 | 75 | [see through \(remix\) \[feat\. Coco Jones, Absolutely & Samara Cyn\]](https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [see through \(remix\)](https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH) | 3:59 |
 
-Snapshot ID: `AAAAANR/zU9p6W/iPyzsH0iISrvLLBFB`
+Snapshot ID: `AAAAAOt1iziFnqgMWwoEA45lz9Jpo0IC`

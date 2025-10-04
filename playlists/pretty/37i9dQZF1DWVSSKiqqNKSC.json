@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 522508,
+  "num_followers": 522523,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,54 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Timba Cubana",
+        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
+      },
+      "artists": [
+        {
+          "name": "Tirso Duarte",
+          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "Un Mal Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Cuba Isla Bella",
         "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
@@ -247,54 +295,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Timba Cubana",
-        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
-      },
-      "artists": [
-        {
-          "name": "Tirso Duarte",
-          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "Un Mal Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2025-03-07 06:00:25",

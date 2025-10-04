@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-327 songs - 14 hr 28 min
+328 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Heavy Noise](https://open.spotify.com/track/13EVtBX4UEXL060vNyB0wA) | [Scientific Noise](https://open.spotify.com/artist/0DH931C5uJzm7OceDNh41S) | [Soothing Green Noise](https://open.spotify.com/album/5TNoeP6xKaZElUHFlkeYGh) | 2:25 | 2023-03-10 |  |
 | [Hidden River](https://open.spotify.com/track/1POqOx1gAFK8hazWhWOMtk) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:21 | 2023-05-05 |  |
 | [Hypnotic Green Noise](https://open.spotify.com/track/67abugPaIu3AZTbnyE8VsU) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Rain Forest Green Chill](https://open.spotify.com/album/1YlEIiFxpWl7TkeRI23pr1) | 3:15 | 2023-06-16 |  |
-| [Laurel Labyrinth \- Green Noise](https://open.spotify.com/track/3NmfftBMS2idqmKAtZG4lu) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Laurel Labyrinth \(Green Noise\)](https://open.spotify.com/album/7n5PS1ZvyzBc3iQLEAeP4n) | 2:44 | 2023-06-16 |  |
+| [Laurel Labyrinth \- Green Noise](https://open.spotify.com/track/3NmfftBMS2idqmKAtZG4lu) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Laurel Labyrinth \(Green Noise\)](https://open.spotify.com/album/7n5PS1ZvyzBc3iQLEAeP4n) | 2:44 | 2023-06-16 | 2025-10-04 |
 | [Little Green Noise](https://open.spotify.com/track/0Vsdu1FNvR7rrP6Pw5l0ML) | [Little Koala](https://open.spotify.com/artist/1gLRBiAgnTX3Fj6I29ULqQ) | [Little Noises](https://open.spotify.com/album/6sZh4jnoErOmxguORUbpmX) | 3:32 | 2023-11-24 | 2024-06-11 |
 | [Lluvia Suave \(Ruido Verde\)](https://open.spotify.com/track/0hKbv2cEuaHOjZUfLMoD22) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido Verde Sereno](https://open.spotify.com/album/0Sl5qfpBWzVRnwljnNyAVz) | 1:49 | 2023-05-05 | 2023-06-17 |
 | [Lush Lullaby \- Green Noise](https://open.spotify.com/track/1rO8WZPwV6OKEKVhRWfsXS) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 2:52 | 2023-06-16 |  |
@@ -310,6 +310,7 @@
 | [The Babbling Brook \(Green Noise\)](https://open.spotify.com/track/6aMnNDkzu45hIaQjrXOTaB) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Babbling Brooks](https://open.spotify.com/album/2cUbltSqylczWUQdcO9OQw) | 2:21 | 2024-06-10 |  |
 | [The Rustle of Leaves: Green Noise for Mindful Relaxation](https://open.spotify.com/track/4wkMK1KHdLti7NoB5E7ric) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Rainforest Retreat: Experiencing the Green Noise of Nature's Canopy](https://open.spotify.com/album/4iLNqLLvHuAfQPebzZAbXe) | 2:02 | 2023-06-16 |  |
 | [The Sleep \(500 Hz LP, 100 Hz HP\)](https://open.spotify.com/track/2EZmdpnq1dViZ8FMmYUtyo) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Green Noise For Sleep](https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK) | 3:20 | 2023-02-03 |  |
+| [Velvet Pink Soundscape](https://open.spotify.com/track/0v6OFgGJ3Bd2bbatYXHDKb) | [Latium](https://open.spotify.com/artist/2tLNY5INS60mwIOdmPuhV2) | [Velvet Pink Soundscape](https://open.spotify.com/album/3tEdvhYf9LK5ZRZGWos75N) | 3:50 | 2025-05-26 |  |
 | [Verdant \(Green Noise\)](https://open.spotify.com/track/6gCwl7jJuZuAQTaf0mTLCb) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Epitome of Green Noise](https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko) | 2:44 | 2023-05-05 | 2023-10-21 |
 | [Verdant Dreams \- Green Noise](https://open.spotify.com/track/4HZgcCetlTxxx4c9aEAY1A) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Verdant Dreams \(Green Noise\)](https://open.spotify.com/album/6d76Zt0Ut17WCn8ACFlALC) | 2:44 | 2023-06-16 |  |
 | [Verdigris \(Green Noise\)](https://open.spotify.com/track/3eDCjGdm8Wl2qyo52XzSNL) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Epitome of Green Noise](https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko) | 2:44 | 2023-05-05 |  |

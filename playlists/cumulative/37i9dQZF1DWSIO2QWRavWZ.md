@@ -2,9 +2,9 @@
 
 ### [Queen](https://open.spotify.com/playlist/37i9dQZF1DWSIO2QWRavWZ)
 
-> New music from your favorite women\.  Cover: Tiara Thomas
+> New music from your favorite women\.  Cover: Lianne La Havas
 
-435 songs - 1 day 2 hr 45 min
+438 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 | 2025-06-20 | 2025-08-23 |
 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 | 2025-07-11 | 2025-09-27 |
 | [Diggin' On You](https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:14 | 2023-11-10 | 2024-02-10 |
+| [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 | 2025-10-03 |  |
 | [DND](https://open.spotify.com/track/59X3CiTwsVyEpTfVNghHG4) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DND](https://open.spotify.com/album/0Ovj6EvLPcUdythgf3NULU) | 2:53 | 2025-06-20 | 2025-06-28 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2024-02-09 | 2024-10-05 |
 | [Do It](https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 2:56 | 2023-08-25 | 2023-11-11 |
@@ -311,6 +312,7 @@
 | [Portuguese Love](https://open.spotify.com/track/0rEqoKxL9HGRRvtsQygeZn) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [It Must Be Magic](https://open.spotify.com/album/0ROB2BCrsG8kODFK5mxSf8) | 7:49 | 2023-11-10 | 2024-02-02 |
 | [Potential](https://open.spotify.com/track/4YNrBVo8fv6qiTNwHLVDai) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:53 | 2024-10-04 | 2025-06-21 |
 | [Pressure](https://open.spotify.com/track/3JfhLEO8qB9qZr9xIefh5m) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 3:12 | 2024-02-01 | 2025-06-21 |
+| [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 | 2025-10-03 |  |
 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2023-08-25 | 2023-11-11 |
 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 | 2024-10-04 | 2025-06-21 |
 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-06-27 |  |
@@ -418,6 +420,7 @@
 | [Use Me](https://open.spotify.com/track/36UBEKa5kVWmWW7JxDmyvm) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [It's Me, Not You](https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI) | 4:08 | 2025-07-11 | 2025-07-26 |
 | [Use Your Heart](https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:49 | 2023-11-10 | 2025-06-21 |
 | [V.S.O.P.](https://open.spotify.com/track/5hZUqVitmzZQcTtpkybSj6) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 3:29 | 2024-02-01 | 2024-02-10 |
+| [Vacancy](https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U) | 3:03 | 2025-10-03 |  |
 | [Video](https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:09 | 2024-02-01 | 2024-02-10 |
 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 | 2023-08-25 | 2023-11-11 |
 | [Wallpaper](https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Wallpaper](https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI) | 2:59 | 2025-09-19 |  |

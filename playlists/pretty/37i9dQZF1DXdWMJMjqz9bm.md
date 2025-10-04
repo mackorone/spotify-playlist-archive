@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,917 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,921 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 59 | [Lucid Dreams \(feat\. Lil Uzi Vert\) \- Remix](https://open.spotify.com/track/1jKlRcH7X78ps1yKBTWyUV) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Goodbye & Good Riddance \(Anniversary\)](https://open.spotify.com/album/7aObAFaIOcczMSDnfXz5z6) | 4:00 |
 | 60 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 
-Snapshot ID: `AAAAAEDOKLRTNG2hAopgrRNOoEAEEvpa`
+Snapshot ID: `AAAAAGR719Qbs4Y9nW/kaacE78Vuijd6`

@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "LEMONADE (FOLK)",
+        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+      },
+      "artists": [
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183532,
+      "name": "LEMONADE (FOLK)",
+      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+    },
+    {
+      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },

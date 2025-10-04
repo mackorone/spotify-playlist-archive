@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2717,
+  "num_followers": 2721,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAACK08SKRLWIWqkFKwyY+pYN",
+  "snapshot_id": "aN3AgAAAAABSw8AEcEsCveDHJ/8zFjTX",
   "tracks": [
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+      "duration_ms": 143508,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/0GvSIY2o7974HN53WZZDIi"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 143508,
-      "name": "Gallery",
-      "url": "https://open.spotify.com/track/0GvSIY2o7974HN53WZZDIi"
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 82800,
+      "name": "Fr\u00e1",
+      "url": "https://open.spotify.com/track/2x8UMSNqldUMSMYdqGIc8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 216706,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 82800,
-      "name": "Fr\u00e1",
-      "url": "https://open.spotify.com/track/2x8UMSNqldUMSMYdqGIc8i"
     },
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 139174,
+      "name": "Examining the Body",
+      "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
@@ -787,22 +811,6 @@
       "duration_ms": 169504,
       "name": "It's Showtime",
       "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00f3lk f\u00e6r andlit",
-        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 313150,
-      "name": "F\u00f3lk f\u00e6r andlit",
-      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
     },
     {
       "added_at": null,
@@ -835,6 +843,22 @@
       "duration_ms": 185000,
       "name": "Without Memory",
       "url": "https://open.spotify.com/track/38Bp7BIwyGfJBOkN5AlUoR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00f3lk f\u00e6r andlit",
+        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 313150,
+      "name": "F\u00f3lk f\u00e6r andlit",
+      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
     },
     {
       "added_at": null,
@@ -875,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 91134,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/4nU57Z89NrwqOjx3pNyeCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -935,6 +935,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 91134,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/4nU57Z89NrwqOjx3pNyeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Women Talking (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 99613,
       "name": "Cana",
       "url": "https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 139174,
-      "name": "Examining the Body",
-      "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
     },
     {
       "added_at": null,
@@ -1035,22 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 221697,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/0gcpkg1jdlIbNIwDPrpkiU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 102788,
       "name": "The Other Half",
       "url": "https://open.spotify.com/track/2xXki2zrT42rrEUL92eTvX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 221697,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/0gcpkg1jdlIbNIwDPrpkiU"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

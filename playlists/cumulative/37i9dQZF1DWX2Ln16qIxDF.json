@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Canciones que tenes que escuchar  \ud83d\udcf8 The La Planta",
+  "description": "Canciones que tenes que escuchar  \ud83d\udcf8 Taylor Swift",
   "name": "El Top 2025",
   "tracks": [
     {
@@ -1290,6 +1290,28 @@
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/5VeTnCn59BLrrk95uNRiBL"
+    },
+    {
+      "album": {
+        "name": "Amor Prestado",
+        "url": "https://open.spotify.com/album/1z6WrxafWR1nLzAEe7gWeN"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188597,
+      "name": "Amor Prestado",
+      "url": "https://open.spotify.com/track/4Z3zYeaJabDAnk9zI5TaQm"
     },
     {
       "album": {
@@ -2776,10 +2798,40 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
+    },
+    {
+      "album": {
+        "name": "Botellas Vac\u00edas",
+        "url": "https://open.spotify.com/album/0Zu5oqYuCbWa4a9ENNxyG5"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179669,
+      "name": "Botellas Vac\u00edas",
+      "url": "https://open.spotify.com/track/1Io4jpqBGbeae1mIXQHu5c"
     },
     {
       "album": {
@@ -2904,7 +2956,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 223855,
       "name": "bunda \ud83c\udf51",
       "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
@@ -3260,7 +3312,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -3712,7 +3764,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 176250,
       "name": "COLOCARTELO",
       "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
@@ -3796,6 +3848,28 @@
       "duration_ms": 141865,
       "name": "Como Yo :(",
       "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
+    },
+    {
+      "album": {
+        "name": "Con El Sol En La Maleta",
+        "url": "https://open.spotify.com/album/6Fvz87DVxX15SyJvkTsYtL"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Juan Fuentes",
+          "url": "https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226249,
+      "name": "Con El Sol En La Maleta",
+      "url": "https://open.spotify.com/track/7eiajOOg8mHmLObYT3hf7p"
     },
     {
       "album": {
@@ -5972,7 +6046,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 128793,
       "name": "El Pron\u00f3stico",
       "url": "https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj"
@@ -6346,7 +6420,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 148200,
       "name": "En Otra Vida - Versi\u00f3n Cuarteto",
       "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
@@ -6729,6 +6803,28 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1o",
+        "url": "https://open.spotify.com/album/0AP7kMvvI7U1DAFrIUBAL7"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208189,
+      "name": "Extra\u00f1o",
+      "url": "https://open.spotify.com/track/5x6i2WhMqy5W3x5xi0UecQ"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1\u00e1ndote",
         "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
       },
@@ -6966,7 +7062,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 126705,
       "name": "FINGI DEMENCIA",
       "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
@@ -7930,7 +8026,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -8186,6 +8282,32 @@
       "duration_ms": 114915,
       "name": "JyA",
       "url": "https://open.spotify.com/track/7LNQdUeDM4uy8fgB0bT54h"
+    },
+    {
+      "album": {
+        "name": "K HUBO PS MOR",
+        "url": "https://open.spotify.com/album/4vmg2S2isfFP5l9Sc6Qvjw"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "K HUBO PS MOR",
+      "url": "https://open.spotify.com/track/2lhp8Nc4xsikcJXl7vNWmM"
     },
     {
       "album": {
@@ -8722,7 +8844,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -9403,6 +9525,24 @@
     },
     {
       "album": {
+        "name": "LLAMAME MY LOVE",
+        "url": "https://open.spotify.com/album/2w4YNqundQEgMY4MfDo0Et"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158436,
+      "name": "LLAMAME MY LOVE",
+      "url": "https://open.spotify.com/track/5xKTxuBog6sc0QtmzqqCol"
+    },
+    {
+      "album": {
         "name": "LLEGU\u00c9 YO",
         "url": "https://open.spotify.com/album/0gBAdQq0uKOeiFxCjutBB9"
       },
@@ -9830,7 +9970,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 170953,
       "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
       "url": "https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a"
@@ -10659,6 +10799,24 @@
     },
     {
       "album": {
+        "name": "Meiomi",
+        "url": "https://open.spotify.com/album/2kEzEaUjDpaIxgfCT5bKVr"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224073,
+      "name": "Meiomi",
+      "url": "https://open.spotify.com/track/0yOo4u7eehSNkz6U5trqQA"
+    },
+    {
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
@@ -11104,6 +11262,24 @@
       "duration_ms": 235026,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
+    },
+    {
+      "album": {
+        "name": "MILAN",
+        "url": "https://open.spotify.com/album/0H91EkCOWuzvu7v6Ep6pem"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116737,
+      "name": "MILAN",
+      "url": "https://open.spotify.com/track/0WBVzRygo8BQRacrgYQZvW"
     },
     {
       "album": {
@@ -13074,7 +13250,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 205227,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS"
@@ -14472,7 +14648,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 168374,
       "name": "QUE CABRONA",
       "url": "https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N"
@@ -15882,7 +16058,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 164000,
       "name": "Si Las Gatas Se Amotinan",
       "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
@@ -17315,6 +17491,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "album": {
         "name": "The La Planta: Pushi Terraza Sessions #3",
         "url": "https://open.spotify.com/album/0W8TQKrnG2Wq4xWxw7QIvc"
       },
@@ -17782,6 +17976,44 @@
       "duration_ms": 183880,
       "name": "Triste",
       "url": "https://open.spotify.com/track/4ydnzwO3B2AkhvGwxKs8qG"
+    },
+    {
+      "album": {
+        "name": "TRISTE",
+        "url": "https://open.spotify.com/album/4XkctlDIMQPslmBpoFSVc9"
+      },
+      "artists": [
+        {
+          "name": "Sin Futuro Mafia",
+          "url": "https://open.spotify.com/artist/5R0hPD0TwLNLBWUyO7Y3hj"
+        },
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        },
+        {
+          "name": "Alvso",
+          "url": "https://open.spotify.com/artist/5kNCvXZufkVxoFzx4l9EtW"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "TRISTE",
+      "url": "https://open.spotify.com/track/0hRL3MCHLeDrmBkEo5AtE7"
     },
     {
       "album": {
@@ -19268,7 +19500,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 158441,
       "name": "VUELA",
       "url": "https://open.spotify.com/track/6ryIAZUcqNrMi5D9kVaU7x"
@@ -19443,6 +19675,28 @@
     },
     {
       "album": {
+        "name": "WIFE MATERIAL*",
+        "url": "https://open.spotify.com/album/45OKTplPmo1X9JMvv63n5R"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214832,
+      "name": "WIFE MATERIAL*",
+      "url": "https://open.spotify.com/track/2rRf0QyHyweHJgWw7pgT7p"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -19502,6 +19756,28 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
+        "name": "Y Aun As\u00ed Me Qued\u00e9",
+        "url": "https://open.spotify.com/album/2keBFAQGMRwLSOUk1DjI5j"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124076,
+      "name": "Y Aun As\u00ed Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/0DWSkleivDLjcMkRDgOn78"
     },
     {
       "album": {

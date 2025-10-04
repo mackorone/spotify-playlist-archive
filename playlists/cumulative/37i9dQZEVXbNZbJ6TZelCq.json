@@ -972,7 +972,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 149220,
       "name": "A la turca",
       "url": "https://open.spotify.com/track/3UD1yaINhRa0gV6kTSU26e"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 147477,
       "name": "Amo, Amo",
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -7168,7 +7168,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 182850,
       "name": "Ce Bruneta, Ce Mulatra",
       "url": "https://open.spotify.com/track/1suYurcvlI8McrHPhQANyY"
@@ -8068,7 +8068,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -11394,7 +11394,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
@@ -12430,7 +12430,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -14554,7 +14554,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4Hnz28zV4yVyc2J7U3ZR0x"
@@ -15394,7 +15394,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -20754,7 +20754,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 149848,
       "name": "KAD!LAC",
       "url": "https://open.spotify.com/track/7kgl0bzkbUW5hFWtDyx5PZ"
@@ -21026,7 +21026,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -21494,6 +21494,28 @@
       "duration_ms": 176666,
       "name": "Lacrimi de miliardar",
       "url": "https://open.spotify.com/track/5Re7hNUNvTiYVfwGsK9o1J"
+    },
+    {
+      "album": {
+        "name": "Lacrimi din soare",
+        "url": "https://open.spotify.com/album/7zCYAFXYL3TgZZDSOVrLKV"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Lacrimi din soare",
+      "url": "https://open.spotify.com/track/3lO7CADYgSd4OvW3k3UH2M"
     },
     {
       "album": {
@@ -23580,7 +23602,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -24496,7 +24518,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -27062,7 +27084,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 198720,
       "name": "Nikki beach - Live",
       "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
@@ -37178,7 +37200,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -42552,7 +42574,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 217099,
       "name": "VIZZZCOL",
       "url": "https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly"
@@ -42782,7 +42804,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
@@ -43928,7 +43950,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

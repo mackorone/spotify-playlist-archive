@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-122 songs - 7 hr 4 min
+123 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 | 2025-09-03 |  |
 | [Call Me When You Get In](https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [Call Me When You Get In](https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM) | 3:48 | 2025-06-27 |  |
 | [Calling Out](https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Calling Out](https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn) | 2:30 | 2025-06-27 |  |
-| [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 |  |
+| [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 | 2025-10-04 |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2025-06-27 | 2025-10-03 |
 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 | 2025-06-27 |  |
 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 | 2025-06-27 |  |
@@ -68,6 +68,7 @@
 | [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2025-06-27 |  |
 | [Last Forever \- Acoustic](https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Last Forever](https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P) | 3:14 | 2025-06-27 |  |
 | [Lean On Me](https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Lean On Me](https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5) | 3:32 | 2025-06-27 | 2025-10-03 |
+| [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 | 2025-10-02 |  |
 | [Light of My Life](https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Light of My Life](https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8) | 4:19 | 2025-06-27 |  |
 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 | 2025-06-27 |  |
 | [London, Tokyo](https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [London, Tokyo](https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3) | 3:03 | 2025-06-27 | 2025-10-03 |

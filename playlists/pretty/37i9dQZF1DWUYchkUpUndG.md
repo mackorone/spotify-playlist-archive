@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,701 likes - 99 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,846 likes - 99 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 |
-| 2 | [Track 10](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Usibiyele \(Live\)](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise 11 Next Level \(Live\)](https://open.spotify.com/album/0N0j10dgpGDWxeWkE3jdgP) | 11:27 |
 | 3 | [God Has Done](https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [God Has Done](https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg) | 2:59 |
 | 4 | [Praise The Lord](https://open.spotify.com/track/5APwmucVFdiD71vniIvihw) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Praise The Lord](https://open.spotify.com/album/6Y6ASzdPqY7GNO3GWADUux) | 3:58 |
 | 5 | [Broken Pieces](https://open.spotify.com/track/4Go1h3lxxvLvQAu0VH2APR) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Broken Pieces](https://open.spotify.com/album/2GkBQoMhK1xUXgRm37WMr3) | 9:00 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 20 | [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 |
 | 21 | [Manner of Love](https://open.spotify.com/track/0YGUasDDdukr2oSE70lKp5) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Manner of Love](https://open.spotify.com/album/3aGTOTknndum6zVyoVj1UX) | 5:37 |
 | 22 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 |
-| 23 | [Track 4](https://open.spotify.com/track/0HOOj7Hpt8mQoGBxngEZZE) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Sarah\-Grace](https://open.spotify.com/artist/5ElsrYiIntK4rwAh79Dbe6) | [](https://open.spotify.com/album/null) | 0:00 |
+| 23 | [Yahweh Sabaoth \- Bvrn London '25](https://open.spotify.com/track/0HOOj7Hpt8mQoGBxngEZZE) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Sarah\-Grace](https://open.spotify.com/artist/5ElsrYiIntK4rwAh79Dbe6) | [Songs From The Altar](https://open.spotify.com/album/2Rc7mm3bupLoKTVYKp3sRP) | 7:52 |
 | 24 | [There Is More \- Live](https://open.spotify.com/track/4ZkSdzNLmrUk5xRdZFx9PL) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [There Is More \(Live\)](https://open.spotify.com/album/6Cc7MR1Qigu61upFp6RZNb) | 5:26 |
 | 25 | [My Thoughts Are Not Your Thoughts](https://open.spotify.com/track/6TY8W9zGbnNs6Hme6o1M95) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Ask God](https://open.spotify.com/album/2zQqN5nvZpzEs2k8O7RFjW) | 1:42 |
 | 26 | [Somewhere](https://open.spotify.com/track/67GptqaU5DeO2yvz359UKQ) | [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [Somewhere](https://open.spotify.com/album/6tXaKkYgBYcWCUpOyb9yQH) | 2:35 |

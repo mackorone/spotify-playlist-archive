@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: HARDY
+> Today's top country hits\. Cover: Luke Combs
 
 926 songs - 2 day 2 hr 5 min
 

@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 147404,
       "name": "a place called home",
       "url": "https://open.spotify.com/track/2ev6kqZtCGyZQZh3DhFRya"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 129000,
       "name": "all that",
       "url": "https://open.spotify.com/track/4R4CUFdrnVOjXYTDSnHB9s"
@@ -2588,6 +2588,24 @@
       "duration_ms": 133333,
       "name": "cotton candy clouds",
       "url": "https://open.spotify.com/track/34VlfUUS5Ogo3IM5lb7EZY"
+    },
+    {
+      "album": {
+        "name": "counting the days until we meet again",
+        "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158125,
+      "name": "counting the days until we meet again",
+      "url": "https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW"
     },
     {
       "album": {
@@ -6519,6 +6537,24 @@
     },
     {
       "album": {
+        "name": "in a shared dream",
+        "url": "https://open.spotify.com/album/0PVAXfMsQV5B6ZezhCBnRN"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133792,
+      "name": "in a shared dream",
+      "url": "https://open.spotify.com/track/7Ifk92dBHtYSs50WyMoV3h"
+    },
+    {
+      "album": {
         "name": "In Another World",
         "url": "https://open.spotify.com/album/3bReDkY6WtV1VzogYS6YRa"
       },
@@ -8306,7 +8342,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 125714,
       "name": "lulling",
       "url": "https://open.spotify.com/track/3yY1F3ztumz6eZTVc7kuiz"
@@ -12896,6 +12932,28 @@
       "duration_ms": 109500,
       "name": "Slow Pace",
       "url": "https://open.spotify.com/track/0eMxZlyTbatxUGtPakW4DT"
+    },
+    {
+      "album": {
+        "name": "Slowdown",
+        "url": "https://open.spotify.com/album/6y4jNVdgLtrKZCl5RgvK8S"
+      },
+      "artists": [
+        {
+          "name": "so.tired",
+          "url": "https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy"
+        },
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/5Y48yER6BbS8Zroj6tD7QL"
     },
     {
       "album": {

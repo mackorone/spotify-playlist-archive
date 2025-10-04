@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Architrackz
 
-152 songs - 7 hr 0 min
+152 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,6 @@
 | [TMI PT\. 2](https://open.spotify.com/track/1s8Qvm4LI2nLx2DhhWkxGc) | [Yris](https://open.spotify.com/artist/5CG6KhdlPDnF2WzXHYHt34), [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [TMI PT\. 2](https://open.spotify.com/album/4qZCv0BRNZAh7SaXVAKzQm) | 2:03 | 2025-08-07 | 2025-09-19 |
 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-08-29 |  |
 | [Top Tier](https://open.spotify.com/track/7t13ipXkmuas7yzuAcPffz) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK), [Nate](https://open.spotify.com/artist/2VINftEho961QpPR74Ftbb) | [Top Tier](https://open.spotify.com/album/6Ub5VP8L6qLLiv10TGm1sp) | 2:26 | 2025-07-17 | 2025-09-19 |
-| [Track 6](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-07-17 | 2025-08-29 |
 | [Tweede Kans](https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:44 | 2025-07-17 |  |
 | [VERSLAVEND](https://open.spotify.com/track/1FLbM1pumyR6P7eOkLtEf1) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [VERSLAVEND](https://open.spotify.com/album/42r2YUYZANfNtF9MXMOlfm) | 2:00 | 2025-07-17 | 2025-08-08 |
@@ -153,6 +152,7 @@
 | [Vijf Sterren](https://open.spotify.com/track/1Ulc4iSctUDnnobli9AQCB) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Vijf Sterren](https://open.spotify.com/album/6AF40ajjccnLMaS8IBewki) | 3:06 | 2025-10-02 |  |
 | [Wat Love Is](https://open.spotify.com/track/0W5vnpoyvVi2fIXG4qYD7g) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Wat Love Is](https://open.spotify.com/album/4d2K9x4XkqWwAvHOlb0tva) | 2:22 | 2025-07-17 |  |
 | [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-08-07 |  |
+| [Weg Van Jou](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [BACK2STEP Vol\. 1](https://open.spotify.com/album/1Ksw5xdfrutkRqxKRLQNAJ) | 2:18 | 2025-10-02 |  |
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-09-04 |  |
 | [What’s Love](https://open.spotify.com/track/3Oydm6UCELxS3EtXHPsXHQ) | [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [What’s Love](https://open.spotify.com/album/1YpHk1zm8qG280NDliArx1) | 2:57 | 2025-07-17 |  |
 | [Whine It Up](https://open.spotify.com/track/6YlcxKcCplZTr80U5s2SB2) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Red Rose Romance](https://open.spotify.com/album/5HMPz9vHbmthIDKiVXdSsO) | 3:09 | 2025-07-17 |  |

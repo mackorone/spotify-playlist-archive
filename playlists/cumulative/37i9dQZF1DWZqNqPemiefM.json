@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 239053,
       "name": "blue sky and yellow sunflower",
       "url": "https://open.spotify.com/track/3TSK1p0Vi6utUaMnfDWh7Y"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 161805,
       "name": "Fire The Editor - Pt. 3 / Endel Chill Soundscape",
       "url": "https://open.spotify.com/track/32ybGt9QtBbtLqfu8Tzchg"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 146000,
       "name": "Glow Echoes",
       "url": "https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq"
@@ -6108,7 +6108,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 168480,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
@@ -6486,7 +6486,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 152764,
       "name": "Jicama",
       "url": "https://open.spotify.com/track/47RGxJ1g9UwQNAQ53kRwKy"
@@ -6566,6 +6566,24 @@
       "duration_ms": 165706,
       "name": "June Love",
       "url": "https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L"
+    },
+    {
+      "album": {
+        "name": "\u7e04\u6587\u980c YAS\u30fcKAZ",
+        "url": "https://open.spotify.com/album/241Uv6kYG9L9xtR5C7R2yV"
+      },
+      "artists": [
+        {
+          "name": "YAS-KAZ",
+          "url": "https://open.spotify.com/artist/73PSRB59paCEuzf26Hs6jr"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632866,
+      "name": "JUNGLE BOOK",
+      "url": "https://open.spotify.com/track/6JvChHXFafoOC7K5HglsaM"
     },
     {
       "album": {
@@ -7184,6 +7202,28 @@
       "duration_ms": 233826,
       "name": "Lo-Pencil",
       "url": "https://open.spotify.com/track/6tQcOrULPM0aXoN8fzAlxU"
+    },
+    {
+      "album": {
+        "name": "Log 22",
+        "url": "https://open.spotify.com/album/5IaF1hHzkKd7QaR0rRcSxG"
+      },
+      "artists": [
+        {
+          "name": "LOG by MIYAUCHI YURI",
+          "url": "https://open.spotify.com/artist/1zS6dLtfwaLylWF4oX40GW"
+        },
+        {
+          "name": "Miyauchi Yuri",
+          "url": "https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Log_20250527",
+      "url": "https://open.spotify.com/track/35Y3MPX0bABnRdVHkPzLpj"
     },
     {
       "album": {
@@ -8987,6 +9027,28 @@
     },
     {
       "album": {
+        "name": "Radio Yugawara",
+        "url": "https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        },
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Observatory",
+      "url": "https://open.spotify.com/track/6dWBeu0pQJblvUqFKQ7rjS"
+    },
+    {
+      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
@@ -9226,7 +9288,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 264330,
       "name": "Opera City",
       "url": "https://open.spotify.com/track/13AmgQ4AtYVStvJz0MNbxP"
@@ -15218,7 +15280,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 183266,
       "name": "\u6642\u306e\u56de\u5eca",
       "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"

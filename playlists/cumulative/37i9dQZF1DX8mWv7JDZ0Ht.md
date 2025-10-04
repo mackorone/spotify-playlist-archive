@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Mariana Nolasco
 
-859 songs - 1 day 18 hr 54 min
+860 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 | 2024-02-02 | 2025-05-17 |
 | [Barco de Papel](https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Maré Alta](https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR) | 3:06 | 2025-07-11 |  |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 | 2023-01-28 |
-| [Barulho Das Ondas](https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Barulho Das Ondas](https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6) | 3:28 | 2025-07-25 |  |
+| [Barulho Das Ondas](https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Barulho Das Ondas](https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6) | 3:28 | 2025-07-25 | 2025-10-04 |
 | [Bebê](https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Bebê](https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT) | 2:53 | 2024-09-20 | 2024-12-21 |
 | [Beijo Doce](https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [Doce](https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x) | 2:21 | 2025-06-27 | 2025-09-19 |
 | [Beijos de artifício](https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Beijos de artifício](https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw) | 3:52 | 2024-02-02 | 2024-07-19 |
@@ -521,6 +521,7 @@
 | [não suporto viver sem você \(como dói\)](https://open.spotify.com/track/4y9ngr5Wv76VNkpDGfykTi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Não suporto viver sem você \(como dói\)](https://open.spotify.com/album/7xwGGMQUNbeGsRuWblyc5j) | 2:38 | 2025-03-07 | 2025-04-25 |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-05-13 | 2022-11-12 |
 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-20 | 2024-05-25 |
+| [Não Tem Preço](https://open.spotify.com/track/2zbhMAmM6pKn2DKrK6KlIj) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Não Tem Preço](https://open.spotify.com/album/6PDxExK80OiAXNkdwF1g47) | 2:57 | 2025-10-03 |  |
 | [Não Tenha Dó](https://open.spotify.com/track/58Q63qvLRyp6Ftj5GcSHjM) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Não Tenha Dó](https://open.spotify.com/album/0Kt5Bw99SaYI5O1ddptqFZ) | 5:15 | 2025-08-29 |  |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 | 2022-10-29 |
 | [Nó de Marinheiro](https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nó de Marinheiro](https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb) | 3:03 | 2023-07-28 | 2023-11-07 |

@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-228 songs - 11 hr 40 min
+229 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-05-30 | 2025-03-19 |
 | [Rosa](https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:51 | 2024-04-11 | 2025-03-19 |
 | [Rose Nere](https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 4:32 | 2022-05-03 | 2024-01-12 |
-| [SAFARI](https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:07 | 2024-09-19 |  |
+| [SAFARI](https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:07 | 2024-09-19 | 2025-10-04 |
 | [Sbaglio a pensarti](https://open.spotify.com/track/2wrEe2wvWKnFQkidWkG4l7) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:53 | 2024-01-25 | 2024-07-05 |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 | 2023-04-06 | 2024-04-19 |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-15 | 2025-07-19 |
@@ -208,6 +208,7 @@
 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 | 2022-05-03 |  |
 | [Su di lei](https://open.spotify.com/track/0lCDOuPx9wwTtF7dLovqNk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Terza Stagione](https://open.spotify.com/album/2goDKoHetJSDYCxZq9h17h) | 3:52 | 2022-05-03 | 2022-05-13 |
 | [Tardissimo \(feat\. Mahmood & Marracash\)](https://open.spotify.com/track/1mW7Php2B57dIP0tJzWC3t) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:17 | 2022-05-03 | 2023-03-29 |
+| [TASTO DOLENTE](https://open.spotify.com/track/6vRbAMXqJcnOxcn8rEYjkw) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [TASTO DOLENTE](https://open.spotify.com/album/56Vc6dnUSbvpkVIGlsVXu4) | 2:30 | 2025-10-03 |  |
 | [Te Quiero](https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Te Quiero](https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j) | 2:43 | 2022-07-28 | 2024-01-12 |
 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 | 2022-10-10 | 2022-10-21 |
 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 | 2022-05-03 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: Nova Wav <a href=\"spotify:playlist:37i9dQZF1EFMzqILIGFdfQ\"> (Denisia \"Blu June\" Andrews </a> & <a href=\"spotify:playlist:37i9dQZF1EFL1iJRmGqdtT\"> Brittany \"Chi\" Coney)</a> ",
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFTjpkKvAHx95\"> Nija </a> ",
   "name": "Created by Women",
   "tracks": [
     {
@@ -4140,7 +4140,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-05",
+      "date_removed": null,
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
@@ -4778,7 +4778,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
@@ -8646,7 +8646,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 128224,
       "name": "Just a Dream",
       "url": "https://open.spotify.com/track/32kPE4ODzdLjTIN7uBoLHK"
@@ -12316,7 +12316,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
@@ -12590,7 +12590,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 172514,
       "name": "Reza y Reza",
       "url": "https://open.spotify.com/track/5tPd32WlspSYjEZOyc3HAs"
@@ -13390,6 +13390,28 @@
       "duration_ms": 235733,
       "name": "Sister Fate",
       "url": "https://open.spotify.com/track/31jKEAQeQxb13ZCcvdfYFM"
+    },
+    {
+      "album": {
+        "name": "Sisters Of Winter",
+        "url": "https://open.spotify.com/album/4hLliz7RJrIYlnuCFB9fA6"
+      },
+      "artists": [
+        {
+          "name": "MILCK",
+          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+        },
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sisters Of Winter",
+      "url": "https://open.spotify.com/track/2SosRE5LQXh7OrV9dzo8Cr"
     },
     {
       "album": {
@@ -15066,7 +15088,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 272461,
       "name": "Til Waking Light",
       "url": "https://open.spotify.com/track/4bhAQ3iGE7gTMZDWhi1rTe"
@@ -15812,7 +15834,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

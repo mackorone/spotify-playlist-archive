@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Paula Au
 
-1,523 songs - 3 day 13 hr 57 min
+1,524 songs - 3 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [So Deep!](https://open.spotify.com/track/6pcFkRhg2X2nr4Wpexo02r) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [So Deep!](https://open.spotify.com/album/3yOeb9vjEp2rF4Ea9hiYwE) | 3:50 | 2022-06-02 | 2022-09-09 |
 | [So Far Away](https://open.spotify.com/track/21kQdblL7CTYzOjlFlD3lV) | [ANDREAH](https://open.spotify.com/artist/02yssJvjMJdJ3nueVhig4j) | [So Far Away](https://open.spotify.com/album/0TVRdGCGcyJ1Uj34ZdEmEO) | 4:03 | 2022-09-22 | 2023-01-06 |
 | [Soft White.](https://open.spotify.com/track/7lYXi52d0LPgapHbfmkOIm) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [Soft White.](https://open.spotify.com/album/3Xxzk8O8dWJ9Lxe0eeZ6jB) | 2:18 | 2024-04-11 | 2024-11-15 |
+| [SOMEBODY ELSE](https://open.spotify.com/track/3d7SQFYrNE7knNe0wZKglG) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [B&B: SOMEBODY ELSE + COLD SHOULDER](https://open.spotify.com/album/6krPwX1vomVQ08xJukVzGj) | 2:34 | 2025-10-02 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 | 2022-07-29 |
 | [SOMEMORE](https://open.spotify.com/track/0qbuJDU9xMVuyFN6VCJfor) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [SOMEMORE](https://open.spotify.com/album/4u0TnNFyt781P9EwzSvlkT) | 2:38 | 2023-12-14 | 2024-02-02 |
 | [Something About You and Me](https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Something About You and Me](https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG) | 3:42 | 2023-05-04 | 2023-09-01 |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-615 songs - 2 day 2 hr 17 min
+616 songs - 2 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-09-15 | 2024-03-16 |
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-06-28 | 2024-08-13 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
+| [Baba Ibeji](https://open.spotify.com/track/11L9IIVIAKloKykPmMUeD6) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Baba Ibeji](https://open.spotify.com/album/65jLZyoYDzF5ch4AgO8cU2) | 4:14 | 2025-09-26 |  |
 | [Babylonia](https://open.spotify.com/track/6ctXUT5djvU3OE9AVxuab6) | [RACHL](https://open.spotify.com/artist/7GHCpCmmUgy7LRtIeo2uw3), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Babylonia](https://open.spotify.com/album/6iHbMxKu2Doj3D1pOVFZdR) | 3:13 | 2025-05-16 | 2025-06-27 |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 | 2024-04-27 |
 | [Beautiful Thing](https://open.spotify.com/track/2cknVxUrW4KU6nvlqWcHaK) | [Wole Awolola](https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez) | [Beautiful Thing](https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1) | 5:20 | 2025-02-21 | 2025-03-07 |
@@ -354,7 +355,7 @@
 | [Mighty Warrior](https://open.spotify.com/track/0GcUmKSKiFJ3dkQaAltX4p) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Mighty Warrior](https://open.spotify.com/album/05odyOKOKwvYwg79vBtki5) | 4:00 | 2025-05-30 | 2025-06-06 |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-12-01 | 2024-03-16 |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-09-15 | 2024-03-16 |
-| [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 | 2025-07-04 |  |
+| [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 | 2025-07-04 | 2025-10-04 |
 | [Miyeruwe](https://open.spotify.com/track/49W1rWTLscuPm49Uztjha5) | [Bada Godwin](https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Miyeruwe](https://open.spotify.com/album/5sz29dKcDx5uIBRGpMLwrn) | 5:25 | 2025-08-22 |  |
 | [MOG](https://open.spotify.com/track/1Sdcat45qN20OLrKZR0FJM) | [Mic Dada](https://open.spotify.com/artist/2SWGKvYcm3wowvgdQTwQ4c) | [MOG](https://open.spotify.com/album/6lmXCMLzFR9xvTx2V9xdjL) | 3:46 | 2025-06-27 | 2025-07-16 |
 | [Moment](https://open.spotify.com/track/4BZ7pMzJiBInFR5NPMbqGN) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Moment](https://open.spotify.com/album/22PQQnMMjotxsJ42Qgjrl8) | 3:14 | 2025-08-22 | 2025-10-03 |

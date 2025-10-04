@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring MOIO 🫜
 
-675 songs - 1 day 10 hr 3 min
+675 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [Piranha](https://open.spotify.com/track/2cMX54RKinL8CvlHL5dnsi) | [Loveday](https://open.spotify.com/artist/1jshSvQwxlZL9W1FF07pwz) | [Piranha](https://open.spotify.com/album/2ue4hwWn1QEuqEOCVg6xeK) | 3:02 | 2025-07-24 | 2025-09-19 |
 | [Plan A \(Dance\)](https://open.spotify.com/track/6tmV50auKhS4U7DTqnpicM) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Pigs Fly](https://open.spotify.com/album/5VwfJrkLas04tu4Lwkixqz) | 2:24 | 2025-08-14 |  |
 | [play dumb](https://open.spotify.com/track/6RWQDZzsJxGuWaQkDz6wms) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [play dumb](https://open.spotify.com/album/52Yl4If8vcadAmxKGZ2KxW) | 2:54 | 2025-05-22 | 2025-07-04 |
-| [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [](https://open.spotify.com/album/null) | 3:00 | 2025-10-02 |  |
+| [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 | 2025-10-02 |  |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-09-26 |
 | [Please Forgive Me, David Gray](https://open.spotify.com/track/3QLLYIN4ZYUQyQmcNNcebi) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Please Forgive Me, David Gray](https://open.spotify.com/album/53xvRwB63FngPIEMlCRJDz) | 3:02 | 2025-01-24 | 2025-02-14 |
 | [Polka dot](https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Cheerleader](https://open.spotify.com/album/54YKB5aeBIRCjUe5ssHQzo) | 1:38 | 2025-10-02 |  |
@@ -513,6 +513,7 @@
 | [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 | 2025-02-28 | 2025-06-06 |
 | [See You Tomorrow](https://open.spotify.com/track/5uaIWGIunJ1XrWWnUcqyGh) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [In A While, Crocodile](https://open.spotify.com/album/3wHXC0Ul10Q491PdhIPIP6) | 3:46 | 2025-08-14 | 2025-10-03 |
 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 | 2025-05-08 |  |
+| [self destruct mode](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [THE HELL OF APRIL](https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG) | 2:42 | 2025-10-02 |  |
 | [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-17 | 2025-03-07 |
 | [Sex, Drugs & Existential Dread](https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sex, Drugs & Existential Dread](https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0) | 2:35 | 2025-03-07 | 2025-05-30 |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-10 | 2025-03-07 |
@@ -615,7 +616,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-09 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 10](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
 | [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 | 2025-03-21 |

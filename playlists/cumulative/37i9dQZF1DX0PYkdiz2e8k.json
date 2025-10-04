@@ -1847,6 +1847,32 @@
     },
     {
       "album": {
+        "name": "Open Mic Brasil #3 - Medley 2025",
+        "url": "https://open.spotify.com/album/3MXKXYcPZQjdGboHnYyVHB"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Tiankris",
+          "url": "https://open.spotify.com/artist/0G1OtpH8DaTJVAhg8b6hhI"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Open Mic Brasil #3 - Medley 2025",
+      "url": "https://open.spotify.com/track/3En6q5zrmKjkmZY6BIuGR5"
+    },
+    {
+      "album": {
         "name": "The Jaws Of Life (Extended Version)",
         "url": "https://open.spotify.com/album/6sABJf0k73vYJrtILegktG"
       },
@@ -2078,7 +2104,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 171692,
       "name": "SEXO TODO DIA",
       "url": "https://open.spotify.com/track/3wCK3cN0Ixha2Pw1RQuH3Y"

@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1280939,
+  "num_followers": 1281204,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "emerge pt. 2",
         "url": "https://open.spotify.com/album/0zeq2wUbi6XBQ5HsELg4s5"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 93070,
       "name": "chad",
       "url": "https://open.spotify.com/track/5xrVEhQ9BG3tz7A1bYR2MX"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "chinatown!",
-        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
-      },
-      "artists": [
-        {
-          "name": "22december",
-          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
-        },
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "chinatown!",
-      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "chinatown!",
+        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
+      },
+      "artists": [
+        {
+          "name": "22december",
+          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
+        },
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "chinatown!",
+      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "The Fallen",
-        "url": "https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2"
-      },
-      "artists": [
-        {
-          "name": "Caleb Bryant",
-          "url": "https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "The Fallen",
-      "url": "https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 143750,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "The Fallen",
+        "url": "https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2"
+      },
+      "artists": [
+        {
+          "name": "Caleb Bryant",
+          "url": "https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "The Fallen",
+      "url": "https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 136050,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 136050,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1229,26 +1229,6 @@
       "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
     },
     {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Dead on Arrival",
-        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
-    },
-    {
       "added_at": "2025-02-21 22:48:04",
       "album": {
         "name": "Abrakadabra",
@@ -1267,6 +1247,26 @@
       "duration_ms": 147748,
       "name": "Abrakadabra",
       "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Dead on Arrival",
+        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dead on Arrival",
+      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
     },
     {
       "added_at": "2024-09-18 21:12:46",

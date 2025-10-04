@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-601 songs - 1 day 9 hr 34 min
+602 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
 | [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 | 2025-05-15 | 2025-06-03 |
 | [Aa Milke Baate Zindagi](https://open.spotify.com/track/4OLU7HbSkmhoxuoZCEO1Vo) | [Sagar Siddham](https://open.spotify.com/artist/3XldFTs2E3AIRnP6ht5jcL), [Pallavi Jamindar Siddham](https://open.spotify.com/artist/5IUmaGr0oynNc6WnOoT3Ee) | [Aa Milke Baate Zindagi](https://open.spotify.com/album/1p3RjUC8pYQ3TAS57zLuHb) | 4:07 | 2024-01-15 | 2024-02-21 |
+| [Aadhi Shaam](https://open.spotify.com/track/1S2DpK5en1wA5VwPY73SJv) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Aadhi Shaam](https://open.spotify.com/album/77oOS0IEqIejqPW4sGZ3Sk) | 3:09 | 2025-10-03 |  |
 | [Aahat](https://open.spotify.com/track/3h0rGr8B6cH738G1dF69Di) | [Musical Tarsh](https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd) | [Aahat](https://open.spotify.com/album/2A2Dicx7WTCkEHaRinvrxy) | 2:19 | 2025-08-11 | 2025-09-13 |
 | [Aahatien](https://open.spotify.com/track/1bK62cy1tyNFuq7DRLFUwe) | [Ishan Thakur](https://open.spotify.com/artist/5LyL2JxB3tk1cHmmpEGz56) | [Aahatien](https://open.spotify.com/album/2B2ctyT0LkheNR31bJQ4u9) | 3:43 | 2024-11-07 | 2024-11-21 |
 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 | 2025-01-03 | 2025-02-13 |
@@ -257,7 +258,7 @@
 | [Keh Na Paya](https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67) | [Keh Na Paya](https://open.spotify.com/album/6HVCgT6H6Rry3D5ksUANVx) | 3:28 | 2024-04-26 | 2024-10-09 |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
 | [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 | 2024-08-17 |
-| [Kehna Hai Kya?](https://open.spotify.com/track/4rhzHRWaDzu6HxyW8hN1T9) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Kehna Hai Kya?](https://open.spotify.com/album/32haHQ4WhbP8R2pvEVtsKf) | 3:04 | 2025-09-25 |  |
+| [Kehna Hai Kya?](https://open.spotify.com/track/4rhzHRWaDzu6HxyW8hN1T9) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Kehna Hai Kya?](https://open.spotify.com/album/32haHQ4WhbP8R2pvEVtsKf) | 3:04 | 2025-09-25 | 2025-10-04 |
 | [Kehne Lagaa \(Acoustic Version\)](https://open.spotify.com/track/5mhM5OKK4MBpQOHxBiNheY) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa \(Acoustic Version\)](https://open.spotify.com/album/0g4VuZEzAYerI6Cqdrk8kR) | 3:14 | 2025-09-12 |  |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |
 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 | 2024-04-19 |

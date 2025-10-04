@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/5YMkQkcq5IiwJn4KnyDKr7"
+      },
+      "artists": [
+        {
+          "name": "Florian Hope",
+          "url": "https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215276,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/08wHv1wVEL8k1JHGKHlG6B"
+    },
+    {
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/3u6dsqF6OwR0UtwQXAt5XX"
       },
@@ -8642,7 +8660,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa"

@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Lusanda
 
-605 songs - 1 day 8 hr 30 min
+606 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-22 | 2024-07-12 |
 | [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 | 2025-04-25 |
 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 | 2024-07-12 |
+| [Harvey's Groove \(feat\. Marcus Harvey\)](https://open.spotify.com/track/6F7HIJ1j853dtZIkprifBh) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Therapy: The Other Side](https://open.spotify.com/album/62TVocHl2MDgxq5kLSoWDw) | 3:12 | 2025-10-03 |  |
 | [Hate Crowds](https://open.spotify.com/track/3vEYqqhLAo9AsDoAWdAB4G) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Filahsofy](https://open.spotify.com/album/0RL6vcm2zv4s50kOYSCG1t) | 3:42 | 2024-02-14 | 2024-02-23 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 |  |
 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 | 2025-06-20 |  |
@@ -331,7 +332,7 @@
 | [Malachite & Melanin](https://open.spotify.com/track/33xk4xuYcwQMveDF8izXGM) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Malachite & Melanin](https://open.spotify.com/album/5DlsJvgrLnpND9qwJdbszM) | 3:42 | 2024-09-02 | 2024-09-12 |
 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 | 2024-06-25 | 2024-09-03 |
 | [Malume](https://open.spotify.com/track/627OzLPgJJrB1pRfQB3nHa) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Now You Know Me](https://open.spotify.com/album/6xZiG6DJDawqJaTfd0aoPt) | 3:45 | 2024-09-11 | 2025-02-07 |
-| [Mama](https://open.spotify.com/track/5LsDCOZGFJpTtWRiI3rz1b) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Mama](https://open.spotify.com/album/0aNt6NtyBAirAZiH0t0uFp) | 5:03 | 2025-09-18 |  |
+| [Mama](https://open.spotify.com/track/5LsDCOZGFJpTtWRiI3rz1b) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Mama](https://open.spotify.com/album/0aNt6NtyBAirAZiH0t0uFp) | 5:03 | 2025-09-18 | 2025-10-04 |
 | [Marigold](https://open.spotify.com/track/2xevmit1WYM61Mb7E76F7T) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Marigold](https://open.spotify.com/album/7LuXpYGWJ7iV20JyGIOKRM) | 3:19 | 2025-04-18 | 2025-06-28 |
 | [Mathata \(feat\. Trevor Jackson\)](https://open.spotify.com/track/4wxmke3yPbc0VWMDTtt6fz) | [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Mathata \(feat\. Trevor Jackson\)](https://open.spotify.com/album/5V4fhCMcKQZ0bVpJWyfmig) | 3:42 | 2024-07-11 | 2024-09-03 |
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-11-18 |  |

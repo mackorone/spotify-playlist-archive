@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Adi Oasis
+> A new take on a classic sound\. Cover: Sekou
 
-554 songs - 1 day 9 hr 18 min
+556 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 | 2021-11-05 | 2023-01-28 |
 | [Love You Better](https://open.spotify.com/track/5Dmo0uuZSKQPQ7WW9LNbA7) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Love You Better](https://open.spotify.com/album/5yDO2abSpmSiEFQJXj554K) | 3:08 | 2022-04-15 | 2022-07-29 |
 | [Love's Been Good To Me](https://open.spotify.com/track/2g3LMQTgGKvq3Rls1BXZoD) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Love's Been Good To Me](https://open.spotify.com/album/5c48GP3Zw3SYYxItTvBemr) | 5:17 | 2025-06-06 | 2025-08-31 |
-| [Love's Graveyard](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 | 2024-02-14 |  |
+| [Love's Graveyard](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 | 2024-02-14 | 2025-10-04 |
 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-09-01 | 2024-04-19 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-10-26 |
 | [Lover Boy](https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Lover Boy](https://open.spotify.com/album/3VL9z3tG7Wr5g8iORdtF0M) | 2:55 | 2023-02-10 | 2024-09-07 |
@@ -328,6 +328,7 @@
 | [Never](https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [Never](https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h) | 4:40 | 2022-04-22 | 2023-11-11 |
 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 | 2021-12-03 | 2022-11-13 |
 | [Never Gonna Take Away My Love](https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Never Gonna Take Away My Love](https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR) | 4:12 | 2024-07-26 | 2024-08-31 |
+| [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 | 2025-10-03 |  |
 | [Never Learnt To Pray](https://open.spotify.com/track/4qKGMdTVoDhKnq1JCHvAAH) | [1ST VOWS](https://open.spotify.com/artist/2DLo7eCypgXm3ViDvElOWE) | [Never Learnt To Pray](https://open.spotify.com/album/26zH5zth76DXIT1qGYyVE8) | 3:25 | 2024-09-06 |  |
 | [No Longer Mine](https://open.spotify.com/track/733oDE8vOXBCzKK1EfnPCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [No Longer Mine](https://open.spotify.com/album/6alneeeLcSYWZyu293RloI) | 2:44 | 2024-05-03 | 2024-05-25 |
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-09 | 2025-07-19 |
@@ -492,6 +493,7 @@
 | [Through It All](https://open.spotify.com/track/4JHvgv3f9PytZ2g8GqdIhC) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2021-12-17 | 2023-02-18 |
 | [Tied To You](https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Tied To You](https://open.spotify.com/album/1glLyrDFBwTwsurwQiQlrh) | 3:17 | 2024-10-04 | 2024-10-19 |
+| [Together](https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Together](https://open.spotify.com/album/4nd5WNhqkFX7CWuJbS2Hpq) | 3:19 | 2025-10-03 |  |
 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 | 2024-02-09 | 2025-08-31 |
 | [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 | 2024-08-16 | 2025-05-24 |
 | [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 | 2024-08-30 |  |

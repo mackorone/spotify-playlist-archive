@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The newest from UK & Ireland driving the current\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,972 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,971 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 11 | [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 |
 | 12 | [amnesia](https://open.spotify.com/track/5vikELAxB9FqmLjnvPErxr) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [amnesia](https://open.spotify.com/album/2n2WYYzsZFNuAXNYQ5Ycuq) | 2:11 |
 | 13 | [Don't Rush](https://open.spotify.com/track/64h4VxiD7jCJpXJJwyK37L) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0), [Chi\-chi](https://open.spotify.com/artist/0K6RidDQWBqLafRTP2GeMV) | [Don't Rush](https://open.spotify.com/album/32OPaZroLXHPY7orBxHmnD) | 4:02 |
-| 14 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [](https://open.spotify.com/album/null) | 3:00 |
+| 14 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 |
 | 15 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h) | 4:22 |
 | 16 | [I Go \(Outta My Mind\)](https://open.spotify.com/track/5A3Olx8TmU6HpZVitRuD9g) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [Pushing Up Flowers](https://open.spotify.com/album/2phsPMNzqeSdP7o3LKNw2m) | 3:22 |
 | 17 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 |

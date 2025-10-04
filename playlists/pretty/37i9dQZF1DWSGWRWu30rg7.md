@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Els Hagia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,287 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,289 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 11 | [Sewates Selingan](https://open.spotify.com/track/4XYowsoOVX0IaG8FT2JWqP) | [Start Koplo](https://open.spotify.com/artist/5vfIXTOHuuaHQ1XxUSHjlA) | [Sewates Selingan](https://open.spotify.com/album/3BdjmcDFz0NoNayRc77Cr3) | 5:46 |
 | 12 | [Hilang Waras](https://open.spotify.com/track/15s6PE8DqGFWLc2FLipP7l) | [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo), [Aidaaihsan](https://open.spotify.com/artist/1Ov3Q82wv1h4GAnNMbH0qo) | [Hilang Waras](https://open.spotify.com/album/7anXRgMv1d3CY01YtoW5l9) | 3:38 |
 | 13 | [Doa Terbaikku](https://open.spotify.com/track/56J5St1syhR7ZOVqTjLIyO) | [Laura Geraldine](https://open.spotify.com/artist/2mxvSPHMJnQDZUL61yMLZC) | [Doa Terbaikku](https://open.spotify.com/album/4Amuj5dImlUFIuDItY6n5h) | 4:47 |
-| 14 | [Pergi Saja](https://open.spotify.com/track/2RXWbRBb7HMg4pEhLb5Sbc) | [Andi Devandi](https://open.spotify.com/artist/3k2N4SkFPYbBzkBoiC6t8z) | [Pergi Saja](https://open.spotify.com/album/3WRNMukGEVav3jYzfBWo8T) | 3:38 |
+| 14 | [Pergi Saja](https://open.spotify.com/track/2RXWbRBb7HMg4pEhLb5Sbc) | [Andi Devandi](https://open.spotify.com/artist/108FB6tJZooTCcrpAbnrRZ) | [Pergi Saja](https://open.spotify.com/album/3WRNMukGEVav3jYzfBWo8T) | 3:38 |
 | 15 | [See You Bekonang \- Acoustic](https://open.spotify.com/track/72HoCzRyWqq84q6JIf91Kw) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS), [rico andre](https://open.spotify.com/artist/0nZY9QV2Fhb1dX78sPA6AB) | [See You Bekonang \(Acoustic\)](https://open.spotify.com/album/0ewOPOa2LvUkqb739t753i) | 2:34 |
 | 16 | [Rumah Kaca](https://open.spotify.com/track/2T10HT6lMLpkZvcx0F19or) | [HOUSIE](https://open.spotify.com/artist/4EqBsJHfwAhroX6yob0EJi) | [Rumah Kaca](https://open.spotify.com/album/3aY9vqMIYCHMSy3I8AmIfJ) | 4:16 |
 | 17 | [relief](https://open.spotify.com/track/0zgmwSL17HhfcSdFHssLxL) | [SlushSoPretty](https://open.spotify.com/artist/4hHleTlwosAC1aDMf09usc) | [relief](https://open.spotify.com/album/5eZFM9gW8rVjWmmZVhz7aG) | 2:13 |

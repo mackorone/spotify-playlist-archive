@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: céro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,841 likes - 47 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,850 likes - 47 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 28 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
 | 29 | [Cari](https://open.spotify.com/track/51YXhOh8taqRam8XVga4uc) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cari](https://open.spotify.com/album/2ALeu54Vl6DOORM3v0lbZx) | 2:10 |
 | 30 | [Mariposillas](https://open.spotify.com/track/3tnfFC0F0KvEUCmidtWGQg) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [Mariposillas](https://open.spotify.com/album/7zz1Gzr61rkNIiMonMlZmU) | 2:51 |
-| 31 | [LA INNOMBRABLE](https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [LA INNOMBRABLE](https://open.spotify.com/album/1kT6w4Zv616edhEXtGFq6F) | 2:33 |
+| 31 | [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 |
 | 32 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 |
 | 33 | [Quiero Hacer Música](https://open.spotify.com/track/27nKYS2p0HAgljPBbUU2Na) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/6OsTttfterE13ijlEOTWPZ) | 3:20 |
 | 34 | [En mi coche](https://open.spotify.com/track/6uoHyBdpRD1VLQ4tZCqQ21) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.I : CARI](https://open.spotify.com/album/6PCPA1Y2prtnQ4v3sZ4NOp) | 2:04 |
 | 35 | [LA TARARA](https://open.spotify.com/track/0Xli6E8WChnb7cx6N4JFPa) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LA TARARA](https://open.spotify.com/album/1l4fWb6gcSRLz93BdMi4sU) | 2:20 |
-| 36 | [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 |
+| 36 | [LA INNOMBRABLE](https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [LA INNOMBRABLE](https://open.spotify.com/album/1kT6w4Zv616edhEXtGFq6F) | 2:33 |
 | 37 | [Kit Kat](https://open.spotify.com/track/1IsBZNOBe54SDamBcDluJk) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Kit Kat](https://open.spotify.com/album/6vQKU94OvjcIw6L9BOkIcE) | 3:09 |
 | 38 | [BRILLO EN LOS DIENTES](https://open.spotify.com/track/6pwVgTHKcg1K6RHcVqk5Dt) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [BRILLO EN LOS DIENTES](https://open.spotify.com/album/2X2D3xdb5dpFn87CS8onNQ) | 2:18 |
 | 39 | [T'enxules](https://open.spotify.com/track/4nvcsK1OktR14NLO1LxJPC) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.II : EUGA DE NIT](https://open.spotify.com/album/1cTRqFtdSOrfhAl5VygR5E) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Poppy, Amy Lee, Courtney LaPlante",
+  "description": "The home for heavy music. Cover: Witch Fever",
   "name": "The Pit",
   "tracks": [
     {
@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "AIN'T MY GAME",
+        "url": "https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "AIN'T MY GAME",
+      "url": "https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI"
+    },
+    {
+      "album": {
         "name": "Albatross",
         "url": "https://open.spotify.com/album/6356xgpTuIF4p5oWdQ0jSR"
       },
@@ -556,6 +574,24 @@
       "duration_ms": 216000,
       "name": "Angelfire",
       "url": "https://open.spotify.com/track/56IdAHbhkwMITBey8ijR37"
+    },
+    {
+      "album": {
+        "name": "Angels Calling",
+        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175186,
+      "name": "Angels Calling",
+      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
     },
     {
       "album": {
@@ -1286,6 +1322,24 @@
       "duration_ms": 209146,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/4AnKuPB7x38JYmx2kTod9o"
+    },
+    {
+      "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209986,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
     },
     {
       "album": {
@@ -2355,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/19T9dCuDC2IumQmi6OB1xa"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182282,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/0Api4AdCfRrGYhj8AeSjNp"
+    },
+    {
+      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -2768,6 +2840,24 @@
       "duration_ms": 207141,
       "name": "DiE4u",
       "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "album": {
+        "name": "King Of Terrors",
+        "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Dionysus",
+      "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
     },
     {
       "album": {
@@ -3292,7 +3382,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 287633,
       "name": "Everest",
       "url": "https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB"
@@ -5596,7 +5686,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 241114,
       "name": "Iron Gate",
       "url": "https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5"
@@ -7432,7 +7522,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"
@@ -7732,7 +7822,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 137480,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4tYH4xLSFUGfBTr2c9Kx4L"
@@ -7750,7 +7840,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 286142,
       "name": "Peacefield - Single Version",
       "url": "https://open.spotify.com/track/6SpkveTreVFsmzoTlwJnHg"
@@ -8387,6 +8477,42 @@
     },
     {
       "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0FyUHoVMe1FqC7kV79CIMC"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286421,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD"
+    },
+    {
+      "album": {
+        "name": "Salsa Verde",
+        "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204704,
+      "name": "Salsa Verde",
+      "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
+    },
+    {
+      "album": {
         "name": "San Quentin",
         "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
       },
@@ -8600,6 +8726,24 @@
       "duration_ms": 201251,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO"
+    },
+    {
+      "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
     },
     {
       "album": {
@@ -10328,7 +10472,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 160163,
       "name": "Throw Yourself to the Sword",
       "url": "https://open.spotify.com/track/5EoE0FBnhcJ4rP6kyIkMx1"
@@ -10490,7 +10634,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 178400,
       "name": "TOMBSTONE",
       "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
@@ -10580,7 +10724,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 262368,
       "name": "Trap Door",
       "url": "https://open.spotify.com/track/1APoykMkL5FUMFnjkQ4del"
@@ -10930,7 +11074,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 235640,
       "name": "Violent Nature",
       "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
@@ -11046,6 +11190,28 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
+    },
+    {
+      "album": {
+        "name": "War Pigs (Charity Version)",
+        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484779,
+      "name": "War Pigs - Charity Version",
+      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
     },
     {
       "album": {

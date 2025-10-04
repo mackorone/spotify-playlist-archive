@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-1,184 songs - 2 day 13 hr 53 min
+1,185 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Jungle In The City](https://open.spotify.com/track/6K2VbT2Y2lOhw7ta1tu22x) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/33fn8ak1dNJFTZvQmWn05f) | 2:55 | 2024-08-01 | 2024-09-02 |
 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 | 2025-08-01 | 2025-10-02 |
 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-06-14 | 2022-07-27 |
+| [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-03 |  |
 | [Just Like In Heaven](https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Just Like In Heaven](https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW) | 4:56 | 2023-05-08 | 2023-08-31 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-07-26 | 2022-09-07 |
 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 | 2025-07-01 | 2025-09-02 |

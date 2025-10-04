@@ -2,9 +2,9 @@
 
 ### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
-> All the New Joints featuring Ty Dolla $ign, Young Thug, Ice Spice and more!
+> All the New Joints featuring Gucci Mane, Coi Leray, Jeezy and more!
 
-8,482 songs - 16 day 6 hr 36 min
+8,483 songs - 16 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5066,6 +5066,7 @@
 | [No Diddy](https://open.spotify.com/track/6WGP3utzkTZKUZiIuhHVQT) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [No Diddy](https://open.spotify.com/album/7k1VyUWPLgSiD8mLkWuOOP) | 3:24 | 2024-05-10 | 2024-05-18 |
 | [No Dissin](https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [No Dissin](https://open.spotify.com/album/6FkChT69eCHKp0E9omQ6nn) | 2:48 | 2023-09-08 | 2023-09-16 |
 | [No Distractions](https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [No Distractions](https://open.spotify.com/album/3axNoaSEpTM4Wr4TQt7Ut6) | 2:59 | 2023-11-10 | 2023-11-18 |
+| [no dreads](https://open.spotify.com/track/03S9MO1uTXYLpomfwNllD9) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [no dreads](https://open.spotify.com/album/0lDdzE3vnbDrS4djy72pqI) | 1:57 | 2025-09-26 |  |
 | [No Drop](https://open.spotify.com/track/3czK7L8yxjEZWO3grVWF3G) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [World On My Head](https://open.spotify.com/album/4hK0OmMpJyJXiQVYytcab2) | 2:41 | 2025-02-28 | 2025-03-08 |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-03-18 | 2022-03-26 |
 | [NO EXES](https://open.spotify.com/track/47hRee2IB618lQX4zTtZJu) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [NO EXES](https://open.spotify.com/album/2DLgdHBlzAn0pqGLc3IkRl) | 3:00 | 2025-09-19 | 2025-09-27 |

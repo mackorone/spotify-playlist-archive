@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 53,494 likes - 75 songs - 3 hr 12 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 53,448 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hoe Het Is](https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Hoe Het Is](https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC) | 2:31 |
 | 2 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 |
 | 3 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
-| 4 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 |
-| 5 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 |
+| 4 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 |
+| 5 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 |
 | 6 | [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 |
 | 7 | [Vlindertuin](https://open.spotify.com/track/1K2jmC1sKRZb3J7Pxdmrff) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [VALLI.](https://open.spotify.com/artist/71jK6lJH0vSSEtpLk0lTUP), [Benji](https://open.spotify.com/artist/10Pv95LS94sBKzpIGXRTlG) | [Vlindertuin](https://open.spotify.com/album/4k2dHgjRP9U56Xr7l4Kc22) | 2:13 |
 | 8 | [iK bEpAaL](https://open.spotify.com/track/6lmi0bh5sDtotBrxnFisI9) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [iK bEpAaL](https://open.spotify.com/album/36nq9ytLZx0BiFtf9zRp6U) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 74 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 |
 | 75 | [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 |
 
-Snapshot ID: `AAATp6PMVCS/khXioZvwARPieNzbOKBr`
+Snapshot ID: `AAATqQNs/xnxvrV6WrXVw6YuDQ5o3kFk`

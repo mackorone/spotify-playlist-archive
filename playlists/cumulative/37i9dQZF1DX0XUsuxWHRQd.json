@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Young Thug, Polo G and Cardi B. ",
+  "description": "Music from Gunna, Offset and Young Thug. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -8820,7 +8820,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 158037,
       "name": "Chinatown Pt 2",
       "url": "https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E"
@@ -20310,6 +20310,32 @@
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
+    },
+    {
+      "album": {
+        "name": "Hood Politics",
+        "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194643,
+      "name": "Hood Politics",
+      "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
     },
     {
       "album": {
@@ -32368,6 +32394,24 @@
       "duration_ms": 168979,
       "name": "Only The Team (with Lil Mosey & Lil Tjay)",
       "url": "https://open.spotify.com/track/6UHfW9PmGAUjIVeIkPzPQ2"
+    },
+    {
+      "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202815,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
     },
     {
       "album": {
@@ -50368,7 +50412,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 156083,
       "name": "WENT WEST",
       "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"

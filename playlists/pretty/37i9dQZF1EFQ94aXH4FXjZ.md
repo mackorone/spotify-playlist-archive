@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Ab90ZgAAAABxDPA1DZGXrmt6YTCQAC8t`
+Snapshot ID: `Ab95/AAAAADOVqF/fTmVx2Awg3udg3GM`

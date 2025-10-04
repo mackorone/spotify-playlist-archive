@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: ROMES
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,805 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,789 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Petrichor \- Live](https://open.spotify.com/track/0xTGuilelKhqLx53nixGPL) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/0M0PbTP6aYO0jYw4DIgRnA) | 3:33 |
+| 1 | [Petrichor \- Live](https://open.spotify.com/track/0xTGuilelKhqLx53nixGPL) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/0M0PbTP6aYO0jYw4DIgRnA) | 4:06 |
 | 2 | [Day Drunk](https://open.spotify.com/track/5qwpqGXExrlKvt00FNp5PU) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Day Drunk](https://open.spotify.com/album/6mJ01xFH66KbeTLkg3zTel) | 1:48 |
-| 3 | [Track 6](https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Last Laugh](https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Last Laugh](https://open.spotify.com/album/4rYvzVsqVZyh87SSmCg6GI) | 2:28 |
 | 4 | [So Low](https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [So Low](https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf) | 2:59 |
 | 5 | [ANOTHER DAY](https://open.spotify.com/track/6P3ulqMerWlqHoITMV3Qbk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [ANOTHER DAY](https://open.spotify.com/album/1ltYGci13XpnGRY7552qnD) | 3:38 |
-| 6 | [Track 18](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Key Entity Extraction IX \- Shiloh The Selfish](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe \(New Entities Edition\)](https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc) | 3:56 |
 | 7 | [Castaway \- Demo](https://open.spotify.com/track/2VnEyXzfafwIJHbPQAPKsn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Castaway \(Demo\)](https://open.spotify.com/album/5iryZx6gMDImSdkxCM5c3B) | 3:43 |
 | 8 | [Nobody But You](https://open.spotify.com/track/5JOMPIPaH3cEHoQFyyrZNN) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Nobody But You](https://open.spotify.com/album/7kXpOiNcLA1Y7iMWi3HTXZ) | 3:28 |
 | 9 | [Force a Metamorphosis](https://open.spotify.com/track/0ylLpY8VEtpEeuamGWHuYE) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Force a Metamorphosis](https://open.spotify.com/album/2bHKHttoFF9shbPXhLBL5u) | 2:56 |

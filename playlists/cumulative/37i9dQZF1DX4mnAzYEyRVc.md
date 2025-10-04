@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Tokyo Ska Paradise Orchestra
 
-695 songs - 1 day 15 hr 57 min
+696 songs - 1 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Amor Enfermo](https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Amor Enfermo](https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9) | 3:33 | 2021-12-06 | 2023-04-22 |
 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 | 2021-12-06 | 2022-11-13 |
 | [Amores Desechables](https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB) | [La Inminente Sociedad](https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG) | [Amores Desechables](https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa) | 3:58 | 2025-02-21 | 2025-04-27 |
-| [Aniquilación Mundial](https://open.spotify.com/track/1VjajCovhWGukrEkLAzcIn) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL) | [Aniquilación Mundial](https://open.spotify.com/album/4nnNySgdKYUaRTFzITeEwx) | 2:27 | 2025-10-03 |  |
+| [Aniquilación Mundial](https://open.spotify.com/track/1VjajCovhWGukrEkLAzcIn) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL) | [Aniquilación Mundial](https://open.spotify.com/album/4nnNySgdKYUaRTFzITeEwx) | 2:27 | 2025-10-03 | 2025-10-04 |
 | [Aprendiendo a ser campeón \- En Vivo](https://open.spotify.com/track/7C3eqlF3sA1LHmghYGPVu7) | [Las kanijas lagartijas](https://open.spotify.com/artist/2lRB22hF9fpW1WmsjVat8n) | [Kanijas lagartijas](https://open.spotify.com/album/1ZiQfq1Pd6WlxIvuaCitb2) | 5:05 | 2021-12-06 | 2022-07-24 |
 | [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 | 2021-12-06 | 2023-04-22 |
 | [Aquí no hay playa \- Version 35º aniversario](https://open.spotify.com/track/65JLpFVMhRlj64D1jT0Qkb) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [Aquí no hay playa \(Version 35º aniversario\)](https://open.spotify.com/album/3JRFIy68ggqqKR1xs5gk2Y) | 2:30 | 2024-07-05 | 2024-07-27 |
@@ -420,6 +420,7 @@
 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 | 2021-12-06 | 2023-04-22 |
 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 | 2021-12-06 | 2024-06-01 |
 | [On my Radio](https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [The Very Best of The Selecter](https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg) | 3:05 | 2021-12-06 | 2023-04-22 |
+| [Once In A Lifetime](https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Once In A Lifetime](https://open.spotify.com/album/6vXaJCdxYv2UFNYQuvikUv) | 4:11 | 2025-10-03 |  |
 | [one cure to the head, two to the chest](https://open.spotify.com/track/3p9O0dkbGL0AIdFZRh7I7g) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [one cure to the head, two to the chest](https://open.spotify.com/album/0xyT6LvfJn3H9OtslVaC3J) | 3:13 | 2024-01-19 | 2024-03-16 |
 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 | 2021-12-06 |  |
 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 | 2022-03-11 | 2023-04-22 |

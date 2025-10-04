@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,508 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,149 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [Así así](https://open.spotify.com/track/3h4BLpD119v1IFOBqMpUvj) | [OVJA NEGRA](https://open.spotify.com/artist/65zK7hb41caPrqKF2sZwaW), [Moises Marsh](https://open.spotify.com/artist/0wU7V7mwjwQlLiXJF5i7XW), [Shel Dixon](https://open.spotify.com/artist/1eUe6WwbxQDsrEYWlwAl8v), [EK](https://open.spotify.com/artist/5iZIHeLCqdK1jR70xWp154) | [Así así](https://open.spotify.com/album/3ch0uevwDgimhzptECB29E) | 2:43 |
 | 53 | [Ruina](https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH) | [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Ruina](https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W) | 3:54 |
 
-Snapshot ID: `AAAAACSQ+HMfGyswxRLxMswGYp/Yf5vX`
+Snapshot ID: `AAAAAGitwdswM6uggadYrtvrkpthWzEw`

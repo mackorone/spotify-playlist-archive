@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Cameron Whitcomb
 
-974 songs - 2 day 5 hr 37 min
+975 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 | 2022-09-16 | 2022-10-14 |
 | [Backfire](https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Backfire](https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d) | 3:33 | 2024-06-28 | 2024-08-13 |
 | [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 | 2022-09-16 | 2022-09-24 |
-| [Bad Breaks and Goodbyes](https://open.spotify.com/track/7eU8E6q14xijzyfkJcATJE) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 | 2025-08-17 | 2025-08-30 |
+| [Bad Breaks and Goodbyes](https://open.spotify.com/track/7eU8E6q14xijzyfkJcATJE) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 | 2025-08-17 |  |
 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-28 | 2024-09-14 |
 | [Bad For You](https://open.spotify.com/track/1HKIZmwT7wQxXXkW1SfbiJ) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Bad For You](https://open.spotify.com/album/50SwXvGwUPVrPgykChTUZU) | 3:49 | 2025-08-17 | 2025-09-06 |
 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 | 2022-03-18 | 2022-04-21 |
@@ -156,7 +156,7 @@
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-05-27 |
 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 | 2024-08-16 | 2025-03-26 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2024-12-13 | 2025-03-26 |
-| [Cigarette Smoke In My Eyes](https://open.spotify.com/track/2AWu7GjebA7IMKvD7t0XFO) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Born Blue](https://open.spotify.com/album/6E4GlRSGCJOYQZo9yg614K) | 3:25 | 2025-09-26 |  |
+| [Cigarette Smoke In My Eyes](https://open.spotify.com/track/2AWu7GjebA7IMKvD7t0XFO) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Born Blue](https://open.spotify.com/album/6E4GlRSGCJOYQZo9yg614K) | 3:25 | 2025-09-26 | 2025-10-04 |
 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 | 2023-11-20 | 2023-12-30 |
 | [clawmarks](https://open.spotify.com/track/3EmaDeBxjpIPV0FbgHaKA7) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [clawmarks](https://open.spotify.com/album/5UPlR2RJSlhZ5djM52I0gW) | 3:11 | 2025-07-25 | 2025-08-18 |
 | [Closest Thing](https://open.spotify.com/track/2VQ8sUv17EhbDYPTFikF1J) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Closest Thing](https://open.spotify.com/album/3F2Oyu797ixoao5346Hu5h) | 2:59 | 2025-05-23 | 2025-06-25 |
@@ -576,7 +576,7 @@
 | [lovebomb](https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:09 | 2022-10-28 | 2023-02-18 |
 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-13 | 2023-11-18 |
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-08 |  |
-| [Lovesong 2](https://open.spotify.com/track/1PoE4D8hQ6zwQrTvlH2OTp) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Back To Earth](https://open.spotify.com/album/63C5TfyocT1tCfRXKFEFI1) | 2:28 | 2025-09-19 |  |
+| [Lovesong 2](https://open.spotify.com/track/1PoE4D8hQ6zwQrTvlH2OTp) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Back To Earth](https://open.spotify.com/album/63C5TfyocT1tCfRXKFEFI1) | 2:28 | 2025-09-19 | 2025-10-04 |
 | [lower](https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [lower](https://open.spotify.com/album/3su4g4uYeEPRCKlOyaAZIo) | 3:58 | 2024-09-20 | 2024-10-19 |
 | [lucky to lose you \- 24 hour song](https://open.spotify.com/track/7pJ4Wcv3i4q7GCyioXaxLk) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [lucky to lose you \(24 hour song\)](https://open.spotify.com/album/7wW0LjHGhNyeNJ0OjdCYyw) | 3:12 | 2024-03-15 | 2024-03-30 |
 | [Magazines](https://open.spotify.com/track/5WBJ8Cds7nAFH6olYdHbqY) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [to anyone who cares](https://open.spotify.com/album/4Y0MTpdftG5fN5RKV2Idwv) | 3:12 | 2022-04-01 | 2022-04-21 |
@@ -594,6 +594,7 @@
 | [Me Against My Head](https://open.spotify.com/track/7CDQfxlivFpECBbv240tAw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me Against My Head](https://open.spotify.com/album/0tmn7v8vBOhVIksEpxJ2uh) | 3:20 | 2024-02-09 | 2024-02-24 |
 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 | 2024-11-08 | 2025-01-03 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-04-29 | 2025-05-24 |
+| [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 | 2025-10-03 |  |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-12-16 | 2024-09-14 |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-02-09 |  |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 |  |

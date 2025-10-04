@@ -4,7 +4,7 @@
 
 > my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! \[does not include instrumentals\]
 
-114 songs - 3 hr 42 min
+115 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [bumpin' tails](https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:31 | 2025-07-08 |  |
 | [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-03-09 |  |
 | [byte girlfriend](https://open.spotify.com/track/0Gsv7r7jP9nhMhnrgGqFF8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 1:12 | 2024-03-09 |  |
+| [Can you take it?](https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Can you take it?](https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8) | 3:33 | 2025-10-03 |  |
 | [celebrity](https://open.spotify.com/track/55PRekiHsbKlOZjtbJ3dek) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [celebrity](https://open.spotify.com/album/0MlRjWZIFdeWRTFoGkMWjU) | 1:20 | 2024-03-09 |  |
 | [chasing the stars, living the dream](https://open.spotify.com/track/0iOCZvQTXz2riKgUfDjUw8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:39 | 2024-03-09 |  |
 | [COPE](https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [COPE](https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY) | 1:49 | 2024-03-09 |  |

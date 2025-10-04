@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Luciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969,165 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,968,868 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

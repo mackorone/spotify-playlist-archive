@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 29809,
+  "num_followers": 29823,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 237596,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "My Best Self",
         "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185823,
       "name": "My Best Self",
       "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 237596,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
         "name": "Poquitito de T\u00e9",
         "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 124365,
-      "name": "yo as\u00ed",
-      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
         "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 235531,
       "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
       "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
       },
       "artists": [
         {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
         }
       ],
-      "duration_ms": 205226,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+      "duration_ms": 205226,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
-      },
-      "artists": [
-        {
-          "name": "Gisun",
-          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
-        },
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "Ojos Vac\u00edos",
         "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
       },
@@ -1523,18 +1503,22 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "C\u00f3smosis",
-        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Gisun",
+          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
+        },
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         }
       ],
-      "duration_ms": 246720,
-      "name": "C\u00f3smosis",
-      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+      "duration_ms": 207999,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
+        "name": "C\u00f3smosis",
+        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "C\u00f3smosis",
+      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
         "name": "Ni\u00f1a de Mis Ojos",
         "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2025-09-26 04:00:23",
-      "album": {
         "name": "Uno De Nosotros",
         "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 209200,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
+    },
+    {
+      "added_at": "2025-09-26 04:00:23",
+      "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2025-09-26 04:00:23",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-09-26 04:00:23",
       "album": {
-        "name": "Valles",
-        "url": "https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm"
+        "name": "Ahi Estar\u00e9",
+        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
       },
       "artists": [
         {
-          "name": "Rafa Arregu\u00edn",
-          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Valles",
-      "url": "https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg"
+      "duration_ms": 180103,
+      "name": "Ahi Estar\u00e9",
+      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
     }
   ],
   "unique_name": "Latin Folk",

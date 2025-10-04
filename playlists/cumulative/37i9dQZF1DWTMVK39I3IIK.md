@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Von Quar
 
-319 songs - 16 hr 11 min
+319 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,6 @@
 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
-| [Track 5](https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 | 2025-09-18 |  |
 | [Turn Around](https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Turn Around](https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE) | 2:56 | 2025-01-30 | 2025-06-10 |
@@ -310,6 +309,7 @@
 | [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 |  |
 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 | 2025-03-22 |
 | [Vindueskarm](https://open.spotify.com/track/3t97ccQXMzSRs5CW7oYXPV) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vindueskarm](https://open.spotify.com/album/1scUpPkKb82T46XThpZBO6) | 2:57 | 2025-08-28 | 2025-09-05 |
+| [Virkeligheden](https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Til Mit Efterår](https://open.spotify.com/album/7IzaD6xvzLsPzzCusVqC8X) | 2:54 | 2025-10-02 |  |
 | [Vis Mig Alt](https://open.spotify.com/track/4pa7tAyNpiZShIWpn36rxW) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Vis Mig Alt](https://open.spotify.com/album/7mhApSWZdkETIQzgufU85b) | 2:21 | 2025-06-19 | 2025-06-27 |
 | [Vissen Blomst](https://open.spotify.com/track/2XtZV6aSCGbzKXSqB9fn0S) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vissen Blomst](https://open.spotify.com/album/1DCHDbwVFp86zxB6EnCptd) | 2:03 | 2025-05-29 | 2025-06-06 |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |

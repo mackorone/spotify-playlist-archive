@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAD8mZjlXjG7Gq5prsoxSewi",
+  "snapshot_id": "aN3AgAAAAACAW35K/D5HwryHGnvrvICe",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Los Angeles Is Burning",
-      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Generator",
         "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 202066,
       "name": "Generator",
       "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Anesthesia",
-      "url": "https://open.spotify.com/track/59ojk4py5trvRvdZeIolNa"
+      "duration_ms": 140306,
+      "name": "Stranger Than Fiction",
+      "url": "https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 140306,
-      "name": "Stranger Than Fiction",
-      "url": "https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM"
+      "duration_ms": 182760,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/59ojk4py5trvRvdZeIolNa"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 100693,
-      "name": "Automatic Man",
-      "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 165075,
       "name": "Candidate",
       "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 100693,
+      "name": "Automatic Man",
+      "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -660,9 +644,25 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 161546,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 95875,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 84026,
-      "name": "Turn On the Light",
-      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Kimmy gone)",
-  "num_followers": 31278,
+  "num_followers": 31292,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -687,30 +687,6 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
-        "name": "3D (feat. Jack Harlow) (MK Remix)",
-        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 186241,
-      "name": "3D (feat. Jack Harlow) (MK Remix)",
-      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
-    },
-    {
-      "added_at": "2025-09-29 05:47:05",
-      "album": {
         "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
         "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 165269,
       "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
       "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
+    },
+    {
+      "added_at": "2025-09-29 05:47:05",
+      "album": {
+        "name": "3D (feat. Jack Harlow) (MK Remix)",
+        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 186241,
+      "name": "3D (feat. Jack Harlow) (MK Remix)",
+      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
     },
     {
       "added_at": "2025-09-29 05:47:05",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
-        "name": "Selected Reworks",
-        "url": "https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO"
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
       },
       "artists": [
         {
-          "name": "Glen Check",
-          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
         }
       ],
-      "duration_ms": 259049,
-      "name": "Vogue Boys And Girls",
-      "url": "https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP"
+      "duration_ms": 211573,
+      "name": "SET ME FREE (Lindgren Remix)",
+      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
     },
     {
       "added_at": "2025-09-29 05:47:05",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
-        "name": "SET ME FREE (Remixes)",
-        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+        "name": "Selected Reworks",
+        "url": "https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Lindgren",
-          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
         }
       ],
-      "duration_ms": 211573,
-      "name": "SET ME FREE (Lindgren Remix)",
-      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
+      "duration_ms": 259049,
+      "name": "Vogue Boys And Girls",
+      "url": "https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP"
     },
     {
       "added_at": "2025-09-29 05:47:05",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "The Feels (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2025-09-29 05:47:05",
+      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 184936,
       "name": "SOS - Miami Bass Remix",
       "url": "https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2"
-    },
-    {
-      "added_at": "2025-09-29 05:47:05",
-      "album": {
-        "name": "The Feels",
-        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "The Feels (Benny Benassi Remix)",
-      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
     },
     {
       "added_at": "2025-09-29 05:47:05",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
-        "name": "FESTIVALAND",
-        "url": "https://open.spotify.com/album/7BvJKDBODvjWbXDrdXGAoC"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        },
-        {
-          "name": "Chan Lee",
-          "url": "https://open.spotify.com/artist/2q5FnisSwxF4yCRYmPc3oP"
-        }
-      ],
-      "duration_ms": 192758,
-      "name": "BAAM (Chan Lee Remix) - EDM Version",
-      "url": "https://open.spotify.com/track/7lpGvD6texvEU0M0rjksRm"
-    },
-    {
-      "added_at": "2025-09-29 05:47:05",
-      "album": {
         "name": "iScreaM Vol.11 : Queendom Remix",
         "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 194754,
       "name": "Queendom - Demicat Remix",
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
+    },
+    {
+      "added_at": "2025-09-29 05:47:05",
+      "album": {
+        "name": "FESTIVALAND",
+        "url": "https://open.spotify.com/album/7BvJKDBODvjWbXDrdXGAoC"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        },
+        {
+          "name": "Chan Lee",
+          "url": "https://open.spotify.com/artist/2q5FnisSwxF4yCRYmPc3oP"
+        }
+      ],
+      "duration_ms": 192758,
+      "name": "BAAM (Chan Lee Remix) - EDM Version",
+      "url": "https://open.spotify.com/track/7lpGvD6texvEU0M0rjksRm"
     },
     {
       "added_at": "2025-09-29 05:47:05",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
-        "name": "Pirate (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Pirate (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
-    },
-    {
-      "added_at": "2025-09-29 05:47:05",
-      "album": {
         "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
         "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 211845,
       "name": "Bad Boy - nomad Remix",
       "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
+    },
+    {
+      "added_at": "2025-09-29 05:47:05",
+      "album": {
+        "name": "Pirate (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Pirate (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
     },
     {
       "added_at": "2025-09-29 05:47:05",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-09-29 05:47:05",
       "album": {
-        "name": "DAMDADI",
-        "url": "https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3"
-      },
-      "artists": [
-        {
-          "name": "R.Tee",
-          "url": "https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN"
-        }
-      ],
-      "duration_ms": 206258,
-      "name": "Switch Out",
-      "url": "https://open.spotify.com/track/5jL9YGnVUHVlIbabRFRD6z"
-    },
-    {
-      "added_at": "2025-09-29 05:47:05",
-      "album": {
         "name": "Useless",
         "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 161904,
       "name": "Useless",
       "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "added_at": "2025-09-29 05:47:05",
+      "album": {
+        "name": "DAMDADI",
+        "url": "https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3"
+      },
+      "artists": [
+        {
+          "name": "R.Tee",
+          "url": "https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN"
+        }
+      ],
+      "duration_ms": 206258,
+      "name": "Switch Out",
+      "url": "https://open.spotify.com/track/5jL9YGnVUHVlIbabRFRD6z"
     },
     {
       "added_at": "2025-09-29 05:47:05",

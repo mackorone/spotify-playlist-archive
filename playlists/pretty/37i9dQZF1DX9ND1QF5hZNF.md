@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,180 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,126 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 16 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
 | 17 | [Everything In Its Right Place](https://open.spotify.com/track/2Iy4yLuMmqARrKxIzaR9F5) | [Nomore](https://open.spotify.com/artist/7K4Ic24g4ramKHX0oi0G8a), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [Everything In Its Right Place](https://open.spotify.com/album/10BT6kYZI24U7oPhZKZl6v) | 2:48 |
 | 18 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 |
-| 19 | [Call Me Up](https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [](https://open.spotify.com/album/null) | 3:02 |
+| 19 | [Call Me Up](https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Movement II](https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD) | 3:02 |
 | 20 | [Lucky Star](https://open.spotify.com/track/2IMYd9xzr2jJ6GOpYcmJ7Q) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Holseek](https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Lucky Star](https://open.spotify.com/album/2LmebXVmdpNnCxnytWWhxM) | 2:30 |
 | 21 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 |
 | 22 | [Regarder la nuit, les étoiles](https://open.spotify.com/track/1Cr1Bp48qrk0lxKxCanrZl) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h), [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Regarder la nuit](https://open.spotify.com/album/7iYXFhCHpJ0aXQSzcx8aI4) | 3:15 |

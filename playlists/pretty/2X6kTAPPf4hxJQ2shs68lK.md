@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 38,503 likes - 25 songs - 1 hr 32 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 38,508 likes - 25 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 22 | [Sideline Story](https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:57 |
 | 23 | [10 Freaky Girls \(with 21 Savage\)](https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:28 |
 | 24 | [The Outcome](https://open.spotify.com/track/3Pks8ZfAKuI70zu9MGPdLe) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Once Upon A Time](https://open.spotify.com/album/4bDUWt9NERljJBEBSJlaNZ) | 4:32 |
-| 25 | [Run And Hide](https://open.spotify.com/track/5TuKTBvH75Lv65wbfMVkwd) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/2VIODvTqEWItBkP0gE9BPE), [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8) | [Act II: The Patents of Nobility \(the turn\)](https://open.spotify.com/album/2jGSwTqMqpBGbj2fjjL6Uj) | 4:37 |
+| 25 | [Run And Hide](https://open.spotify.com/track/5TuKTBvH75Lv65wbfMVkwd) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8) | [Act II: The Patents of Nobility \(the turn\)](https://open.spotify.com/album/2jGSwTqMqpBGbj2fjjL6Uj) | 4:37 |
 
 Snapshot ID: `AAADLTmSLZP1wiNHYvjnLAE8p0UE9b8L`

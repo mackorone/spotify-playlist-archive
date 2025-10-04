@@ -4,7 +4,7 @@
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-134 songs - 6 hr 41 min
+135 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baby Mine](https://open.spotify.com/track/4BU9s6QLGFCaxlgaPWWuFY) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:46 | 2024-04-19 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/3YRNH1CblOgI5ymd2RFU68) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 2:14 | 2024-04-19 |  |
 | [Bella Notte](https://open.spotify.com/track/5rTxLryQnQVCWMSL81FAIf) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Love](https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug) | 2:53 | 2024-04-19 |  |
+| [Best of Friends](https://open.spotify.com/track/1t5aiAaQncdO7IY64ZQfDs) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 2:04 | 2025-10-03 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/2v2jnqIRqN9aCh6ZDTLpqC) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 3:48 | 2024-04-19 |  |
 | [Can You Picture That? \- John Connearn Version](https://open.spotify.com/track/5vDFHxZhY4B7GLJpSDqTmM) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: The John Connearn Sessions](https://open.spotify.com/album/0s1MA78U1pEG2Bxcyg4n6u) | 2:16 | 2024-04-19 |  |
 | [Candle on the Water](https://open.spotify.com/track/7DYSQVZdpSs8DqMLtP9hjb) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 2:48 | 2024-04-19 |  |
@@ -135,7 +136,7 @@
 | [When You Wish Upon a Star \- Instrumental](https://open.spotify.com/track/5BPIWYeWgJRJBkMmdkBdcB) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Disney's Fairy Tale Weddings](https://open.spotify.com/album/6zDt4j28xSMo28ZfrjZese) | 3:47 | 2024-04-19 |  |
 | [Where You Are](https://open.spotify.com/track/6lGPcp341JPONjxZak5Wc7) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Tranquility](https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb) | 3:23 | 2024-04-19 |  |
 | [Will the Sun Ever Shine Again](https://open.spotify.com/track/2KesVCbW3FP9xSqEtROLkz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:31 | 2024-04-19 |  |
-| [Winnie the Pooh](https://open.spotify.com/track/5dOWg8hJmHIefgPFXSROJX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:42 | 2024-04-19 |  |
+| [Winnie the Pooh](https://open.spotify.com/track/5dOWg8hJmHIefgPFXSROJX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:42 | 2024-04-19 | 2025-10-04 |
 | [Wondering](https://open.spotify.com/track/2jqNOlwfO6RslKx1TmLljK) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Serenity](https://open.spotify.com/album/6yR9o27G8Cnxu8BLrOyKsN) | 3:49 | 2024-04-19 |  |
 | [You Can Fly! You Can Fly! You Can Fly!](https://open.spotify.com/track/4SmeSLQ4gdSdVNfJu9TNXI) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Tranquility](https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb) | 2:15 | 2024-04-19 |  |
 | [You'll Be in My Heart](https://open.spotify.com/track/5UewWG58QFgJXV36lH6kY8) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 4:07 | 2024-04-19 |  |

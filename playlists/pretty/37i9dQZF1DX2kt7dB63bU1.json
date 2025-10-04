@@ -1,13 +1,49 @@
 {
-  "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 160852,
+  "description": "Jazz voices of today. Cover: Ledisi",
+  "num_followers": 160890,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPgpJ21fSRABso/4rmXuLg/cTF5",
+  "snapshot_id": "AAAAACL2zOyXqWI8N/dFZIlbqqoPYBJE",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:38",
+      "album": {
+        "name": "For Dinah",
+        "url": "https://open.spotify.com/album/7jH6j03bgQIOsVG3Haw5kZ"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 365912,
+      "name": "If I Never Get To Heaven",
+      "url": "https://open.spotify.com/track/4uqMVAe76Y0UBQXn0KCXLh"
+    },
+    {
+      "added_at": "2025-10-03 04:00:38",
+      "album": {
+        "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+        "url": "https://open.spotify.com/album/76jwk22JUBkk7E6vsuOHQa"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        },
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/3szDBSwPivM4Q29HNwSTAO"
+    },
     {
       "added_at": "2025-09-26 04:00:27",
       "album": {
@@ -155,26 +191,6 @@
       "duration_ms": 177320,
       "name": "Pour for the Hour",
       "url": "https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB"
-    },
-    {
-      "added_at": "2025-09-12 04:00:27",
-      "album": {
-        "name": "You've Got What It Takes",
-        "url": "https://open.spotify.com/album/6qD1iK0ju2hWXqciyro7Rz"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 198645,
-      "name": "You've Got What It Takes",
-      "url": "https://open.spotify.com/track/73T8S57Je3UY0LTHtDlu08"
     },
     {
       "added_at": "2025-08-22 04:00:09",
@@ -1639,22 +1655,6 @@
       "duration_ms": 199742,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/33jGYVUxPtcfH8td6Sr3qw"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "Somebody In Love",
-        "url": "https://open.spotify.com/album/4eysNEiltBk4ivO6j1UZgu"
-      },
-      "artists": [
-        {
-          "name": "Dana Masters",
-          "url": "https://open.spotify.com/artist/60Vsjzkpv3xyOYPtNnoNCh"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "Somebody In Love",
-      "url": "https://open.spotify.com/track/1prgxQ2WwyuOzPSRVk37IL"
     },
     {
       "added_at": "2024-03-22 04:01:00",

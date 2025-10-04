@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,592 likes - 156 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,743 likes - 156 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 6 | [Snowbound](https://open.spotify.com/track/1lXxNuOJFycQjvpxkXWhLR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Snowbound](https://open.spotify.com/album/2WoOWPF3LpfoGLCXtGpXIf) | 2:15 |
 | 7 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 |
 | 8 | [Pacífico](https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Pacífico](https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD) | 2:33 |
-| 9 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
-| 10 | [To the Morning Light](https://open.spotify.com/track/6FYOf0yudOyYiLS7t8cNel) | [James Here](https://open.spotify.com/artist/1iGSzD89Ci6EvzlGQeziR4) | [To the Morning Light](https://open.spotify.com/album/2i6eUXMuCvUazHgZaV6NIs) | 2:35 |
+| 9 | [To the Morning Light](https://open.spotify.com/track/6FYOf0yudOyYiLS7t8cNel) | [James Here](https://open.spotify.com/artist/1iGSzD89Ci6EvzlGQeziR4) | [To the Morning Light](https://open.spotify.com/album/2i6eUXMuCvUazHgZaV6NIs) | 2:35 |
+| 10 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
 | 11 | [Whispering Willow](https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf) | [Fringilla coelebs](https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1) | [Whispering Willow](https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi) | 2:37 |
 | 12 | [Luz](https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Luz](https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO) | 2:05 |
 | 13 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 155 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 |
 | 156 | [Zenith](https://open.spotify.com/track/4JpAOAqjjv9GFrbASIOGLa) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Zenith & Stillness in Waiting](https://open.spotify.com/album/1Lk8IRtw6vxcFfBa0FvOyE) | 3:35 |
 
-Snapshot ID: `AAAAAGwe21cGeUm7yR9loti6mABCzG8o`
+Snapshot ID: `AAAAANufO3M8fF2QkXsOkomGVe16m/Kf`

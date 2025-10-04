@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Flört
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,485 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,440 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Güzel Bir Son](https://open.spotify.com/track/4l6iXB0L6s2AxEFN5J5QxG) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Güzel Bir Son](https://open.spotify.com/album/588q6UnVEra8ZtZFQkUaDx) | 3:23 |
 | 2 | [Hangimiz](https://open.spotify.com/track/0rLPlJ0n5XhZg8Pl7PfgfH) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Hangimiz](https://open.spotify.com/album/4eneLXmFN068pLVzLdRO50) | 4:03 |
 | 3 | [Üzüntü ve Muz Kabuğu](https://open.spotify.com/track/6om71PV74ILqUVbdiZf1mT) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Üzüntü ve Muz Kabuğu](https://open.spotify.com/album/14LREb9j6bBCC2ZyTSb2aJ) | 3:54 |
-| 4 | [Kırılganlar Kralı](https://open.spotify.com/track/57XB0pyXePbFjjib7XPyAK) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [](https://open.spotify.com/album/null) | 4:51 |
+| 4 | [Kırılganlar Kralı](https://open.spotify.com/track/57XB0pyXePbFjjib7XPyAK) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Kırılganlar Kralı](https://open.spotify.com/album/3CNAaNhc77TwLtJY2EC10N) | 4:51 |
 | 5 | [Boş Laflarla Süslü](https://open.spotify.com/track/3exiptKlX4A0igUUYDq3JN) | [Doğan Duru](https://open.spotify.com/artist/4CZGnes6EACvjaBM4kmzeb) | [CLIMAX](https://open.spotify.com/album/6x70d47yH091XvTVSB3WhI) | 3:58 |
 | 6 | [Arkadaşlarım](https://open.spotify.com/track/4KGa6TQY60Qd71okSCibLE) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Arkadaşlarım](https://open.spotify.com/album/5VXmU7aVKHk8qX7ahM1Trk) | 2:26 |
 | 7 | [Nereye Kadar](https://open.spotify.com/track/5Xil6P4sBspMCpHdL2Ysuj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Nereye Kadar](https://open.spotify.com/album/2rt2ohV5pqvqMmbKItLnqW) | 3:21 |

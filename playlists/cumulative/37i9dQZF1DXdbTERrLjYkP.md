@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Kaleb Cohen
+> Discover the next wave of talent writing their own songs\. Cover: Hohnen Ford
 
-946 songs - 2 day 2 hr 48 min
+947 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 | 2022-09-02 | 2022-12-24 |
 | [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-29 | 2024-02-14 |
 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 | 2024-02-09 | 2024-04-06 |
-| [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [Leah Dong](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 | 2025-08-01 |  |
+| [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 | 2025-08-01 |  |
 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2024-04-12 | 2024-08-10 |
 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-11-10 | 2024-04-19 |
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-11 | 2025-09-27 |
@@ -622,7 +622,7 @@
 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 | 2024-02-23 | 2024-08-17 |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-11 | 2023-12-14 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-08 | 2022-04-29 |
-| [Ordinary](https://open.spotify.com/track/0LZcaKNQB55dAoq2s4sstA) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Ordinary](https://open.spotify.com/album/2vPCpsqDBfAR15SAFT8lib) | 3:31 | 2025-08-19 |  |
+| [Ordinary](https://open.spotify.com/track/0LZcaKNQB55dAoq2s4sstA) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Ordinary](https://open.spotify.com/album/2vPCpsqDBfAR15SAFT8lib) | 3:31 | 2025-08-19 | 2025-10-04 |
 | [Ordinary Love](https://open.spotify.com/track/0cFQYjYEgpoY0iP0vnOOoI) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/56fSzLOj5xwc4nNLGUl51S) | 3:15 | 2022-08-19 | 2022-10-19 |
 | [Ordinary Love](https://open.spotify.com/track/4dmBhkfzO0LNyTpniMNEIX) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/1M5loxljwC0wulbEqMODp4) | 3:15 | 2022-09-09 | 2022-12-24 |
 | [Out Of Excuses](https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:17 | 2022-01-14 | 2022-03-18 |
@@ -846,6 +846,7 @@
 | [Tippy Toes](https://open.spotify.com/track/6krUyrHwGzkaF2nC6PlCSe) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Tippy Toes](https://open.spotify.com/album/3nXahun45P81Hbx8Pyow2v) | 4:09 | 2024-04-05 | 2024-08-17 |
 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 | 2024-12-06 | 2025-03-01 |
 | [To The Bone](https://open.spotify.com/track/31A6HUffhAwFHlk5akfxiD) | [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [To The Bone](https://open.spotify.com/album/2pBLBGkgGi5xgoPz5Wqudg) | 4:01 | 2022-05-27 | 2022-11-05 |
+| [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 | 2025-10-03 |  |
 | [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 | 2025-01-24 | 2025-03-01 |
 | [tonight's the night i die to a frank ocean song](https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Abysmal EP](https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF) | 2:57 | 2024-05-31 | 2024-12-21 |
 | [Too Fast](https://open.spotify.com/track/3d4PNHZ9nOuZzfvRrRaIWI) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [This Kind of Thing Doesn’t Last](https://open.spotify.com/album/0Dfe6jHESwMI9ldlb7ENn0) | 3:56 | 2022-11-11 | 2023-02-04 |

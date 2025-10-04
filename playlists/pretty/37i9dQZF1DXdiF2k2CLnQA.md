@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,890 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,903 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 21 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 22 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 |
 | 23 | [If You Were Here](https://open.spotify.com/track/7vCIl8yXWdXoBgwIQs6pdd) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [If You Were Here](https://open.spotify.com/album/5V2y41zkS6wPMFduDzG2Z2) | 3:59 |
-| 24 | [The Accuser](https://open.spotify.com/track/7r5Zx79aDER2CUDrfeF9n8) | [Sparzanza](https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq) | [](https://open.spotify.com/album/null) | 3:21 |
+| 24 | [The Accuser](https://open.spotify.com/track/7r5Zx79aDER2CUDrfeF9n8) | [Sparzanza](https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq) | [From Dust To Darkness](https://open.spotify.com/album/2tagO4X2aelnf3ulk7iUWW) | 3:21 |
 | 25 | [Neon Eyes](https://open.spotify.com/track/4b75L4tjIUROKoUJRiN06L) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Neon Eyes](https://open.spotify.com/album/60cV6stcgNnSM9Q0EdyDTI) | 3:56 |
 | 26 | [Devil in my Head](https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Devil in my Head](https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22) | 3:21 |
 | 27 | [Gettin' Away with Murder](https://open.spotify.com/track/6ZI8Iz6vBR3nvEImtNmdOS) | [Satan Takes A Holiday](https://open.spotify.com/artist/3BZBnC18MJDRtneF9r7Qx7), [Nicke Andersson](https://open.spotify.com/artist/66hvutxlNpJogZNYIGiN68) | [Gettin' Away with Murder](https://open.spotify.com/album/72Vgch8gWotaeaAimxEXaV) | 2:29 |

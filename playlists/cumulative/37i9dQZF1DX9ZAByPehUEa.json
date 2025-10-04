@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/5EsFwgZD9YvfVRJ0KCDOlj"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/4rdLw7tBQqrGzVUUHUNnDL"
+    },
+    {
+      "album": {
         "name": "BIG DISCO ENERGY",
         "url": "https://open.spotify.com/album/1QXuafcIEkSarF92vN3f7e"
       },
@@ -1782,6 +1804,24 @@
       "duration_ms": 156785,
       "name": "Casablanca (PRX003)",
       "url": "https://open.spotify.com/track/4Gv7YLqaBz55e9vtrsJsrA"
+    },
+    {
+      "album": {
+        "name": "Catch My Love",
+        "url": "https://open.spotify.com/album/7beVj3EbkwJRhrVklBmb60"
+      },
+      "artists": [
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160792,
+      "name": "Catch My Love",
+      "url": "https://open.spotify.com/track/4Ybsh8xzPmk5Fy8e91hPnW"
     },
     {
       "album": {
@@ -5582,7 +5622,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 239186,
       "name": "I Don't Need a Reason To",
       "url": "https://open.spotify.com/track/37t1rRJG7BrNbuMRg2bAeM"
@@ -6387,6 +6427,28 @@
     },
     {
       "album": {
+        "name": "Keep Forgettin'",
+        "url": "https://open.spotify.com/album/4LaJxLuuBub1x5u8c8xdCn"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Hitty",
+          "url": "https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173604,
+      "name": "Keep Forgettin'",
+      "url": "https://open.spotify.com/track/1Bc9nB7Kyett9oZ4KCPm3c"
+    },
+    {
+      "album": {
         "name": "KEEP MOVING",
         "url": "https://open.spotify.com/album/2wI5aqAQUmv5mCbPDpV5qC"
       },
@@ -6678,7 +6740,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 273296,
       "name": "La La Tune",
       "url": "https://open.spotify.com/track/6Rm7tXHh6pxquIYNyN5yqy"
@@ -11454,7 +11516,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 161904,
       "name": "So Pretty",
       "url": "https://open.spotify.com/track/359LcUDiG0kNC9wj9LJMo8"

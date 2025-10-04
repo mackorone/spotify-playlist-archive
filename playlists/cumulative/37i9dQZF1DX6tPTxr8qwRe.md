@@ -2,7 +2,7 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ella Red
+> Dark, hard hitting pop\. Cover: Eileen Alister
 
 991 songs - 1 day 21 hr 42 min
 

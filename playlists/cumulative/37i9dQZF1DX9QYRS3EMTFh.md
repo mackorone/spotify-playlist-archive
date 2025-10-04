@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Blaiz Fayah x Kybba
 
-679 songs - 1 day 5 hr 20 min
+679 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Rivé an Kay là](https://open.spotify.com/track/5JA77FsM3lDZoqgeg5kG8r) | [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Rivé an Kay là](https://open.spotify.com/album/0VAYbRvEB3vWKHVLz2OfXK) | 2:27 | 2024-03-07 | 2024-04-26 |
 | [Romanée\-Conti](https://open.spotify.com/track/7uEZPVcmsp8IorKznZGH8w) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [40 Degrés](https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq) | 3:08 | 2021-12-22 | 2022-03-11 |
 | [Roulman](https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV) | [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [Black\-T](https://open.spotify.com/artist/1nFZ21xwCakE48rU514Ao6), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Roulman](https://open.spotify.com/album/1YsiqO5UH3bKIV37dwdcBS) | 2:56 | 2022-04-28 | 2023-03-25 |
+| [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 | 2025-10-02 |  |
 | [Réfléchi](https://open.spotify.com/track/3dwR9UFLT4Yxm6RQZfYtVU) | [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Réfléchi](https://open.spotify.com/album/2jVD8CnnhOfrbRtx7C2RpO) | 2:52 | 2023-01-26 | 2023-02-24 |
 | [RÒF](https://open.spotify.com/track/1dubXvWIvaXigxfvQBX6MO) | [Ralph Beaubrun](https://open.spotify.com/artist/4qUeDaQIX2u2rXnPQr9yuP), [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO) | [RÒF](https://open.spotify.com/album/5szFYY6FZ37IZTt1hqTHiJ) | 2:04 | 2023-07-13 | 2023-09-15 |
 | [Sa Fini](https://open.spotify.com/track/6gcYsMHdjVZCjMdwTb49BX) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [Sa Fini](https://open.spotify.com/album/4ilXuF3Rn1UoUJmb0BiiW8) | 2:57 | 2021-12-22 | 2022-01-28 |
@@ -630,7 +631,6 @@
 | [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 | 2023-12-08 | 2024-01-05 |
 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 | 2025-08-28 | 2025-09-25 |
 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 | 2024-05-17 |
-| [Track 8](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 | 2024-02-01 | 2024-03-01 |

@@ -4,7 +4,7 @@
 
 > Escute Gaby Amarantos e mais mulheres incríveis no volume máximo! co\-curada por Gaby Amarantos
 
-1,426 songs - 3 day 1 hr 22 min
+1,427 songs - 3 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Deixa Molhar](https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Molhar](https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at) | 3:01 | 2025-04-02 | 2025-07-02 |
 | [Deja Vu](https://open.spotify.com/track/0wOaclTcCrJrwV5iHcpOyo) | [LIL IVY](https://open.spotify.com/artist/4g0UPdT1Woji9TXibQIwgj), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dubrayti](https://open.spotify.com/artist/780sx1F5M381jXQa6gMqhu) | [Deja Vu](https://open.spotify.com/album/6FEdYAGN4R36ISclfCaXaZ) | 2:24 | 2024-10-08 | 2024-11-07 |
 | [Delta Estácio Blues](https://open.spotify.com/track/5L9mMwhST1cthsoD0MPkZm) | [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Delta Estácio Blues](https://open.spotify.com/album/54Tpakfx5cDasE9X9EHOu3) | 2:26 | 2022-02-03 | 2022-03-09 |
+| [Delírio Favorito](https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Delírio Favorito](https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a) | 3:15 | 2025-10-02 |  |
 | [Delírios E Vibes](https://open.spotify.com/track/5esOsyLikKaUpAUqfeILXC) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 2:44 | 2023-08-02 | 2023-09-07 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-07-02 | 2025-10-03 |
 | [Dentro da Minha Cabeça](https://open.spotify.com/track/36cBC9BZNm68EmHDdK7DSf) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Imaculada](https://open.spotify.com/album/5QlWNJLkUpqYRdJQKkJsQ2) | 2:51 | 2022-02-03 | 2022-03-09 |
@@ -1403,7 +1404,7 @@
 | [Volta](https://open.spotify.com/track/15hl2JfhoxqWVaQfO9OT5S) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:15 | 2023-07-05 | 2023-08-03 |
 | [Voltei](https://open.spotify.com/track/5xM24ffgOwCwJ9bYyNlQMW) | [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Voltei](https://open.spotify.com/album/1cWeUMEeeityWPHsjU5Nbb) | 2:03 | 2022-10-05 | 2022-11-03 |
 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 | 2022-07-06 | 2022-08-04 |
-| [Voltei Pra Mim](https://open.spotify.com/track/3eRFn9YJBN2l2TmQkEQUlS) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6Y1RtSRBdoYkQ29VlFSKEL) | 3:18 | 2025-10-02 |  |
+| [Voltei Pra Mim](https://open.spotify.com/track/3eRFn9YJBN2l2TmQkEQUlS) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6Y1RtSRBdoYkQ29VlFSKEL) | 3:18 | 2025-10-02 | 2025-10-04 |
 | [Voo 1360](https://open.spotify.com/track/6IK3PL5f3VxhG2cKhpqMSF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:24 | 2024-10-03 | 2024-12-05 |
 | [Vou Atrás](https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Som Da Minha Casa](https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc) | 2:26 | 2024-03-06 | 2024-04-04 |
 | [Vou de Mizuno](https://open.spotify.com/track/6yMjjg1VuPPNGpngwYIlMH) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [DJ Caio Santos](https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Vou de Mizuno](https://open.spotify.com/album/3AzstrF0w35AXgGeMDBVSz) | 2:07 | 2024-10-08 | 2024-11-07 |

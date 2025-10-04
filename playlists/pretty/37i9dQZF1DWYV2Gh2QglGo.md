@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Owen Riegling
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,762 likes - 110 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,765 likes - 110 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 6 | [All Kinds of Country](https://open.spotify.com/track/51qhktrdUqMlGd16YNps7I) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [All Kinds of Country](https://open.spotify.com/album/6zKoItMQrDhbqjN5FqG0aj) | 2:25 |
 | 7 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
 | 8 | [Oh to Be Young](https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Oh to Be Young](https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP) | 3:10 |
-| 9 | [Whiskey River](https://open.spotify.com/track/3iwSRiNL201q6TMaFoKc4C) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [](https://open.spotify.com/album/null) | 3:12 |
+| 9 | [Whiskey River](https://open.spotify.com/track/3iwSRiNL201q6TMaFoKc4C) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Sorry For Nothing Vol\. 2](https://open.spotify.com/album/34yzUHeor8OGQIX9rJH2y0) | 3:12 |
 | 10 | [Scared Of Getting Sober](https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:30 |
 | 11 | [Band of Brothers](https://open.spotify.com/track/0BT7H91KxiidSQBvLCEFRK) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh) | [Band of Brothers](https://open.spotify.com/album/4Q7CLYpIjm8au0OGagIGAU) | 3:24 |
 | 12 | [Someone Who Knows](https://open.spotify.com/track/5Op72ozs7L69n5l0LfBPg6) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [Someone Who Knows](https://open.spotify.com/album/4lDz9rqOX6nFCIGP9Tjsc7) | 3:11 |

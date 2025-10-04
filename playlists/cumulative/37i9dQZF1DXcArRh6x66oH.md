@@ -4,7 +4,7 @@
 
 > roots run deep
 
-417 songs - 1 day 0 hr 52 min
+419 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Space Cowboy](https://open.spotify.com/track/5bum4HbCDFoB9wpsc0sQky) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:36 | 2023-09-26 | 2023-12-09 |
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-03-20 |  |
 | [Standing In The Sun](https://open.spotify.com/track/52oGivE4l0e5L5D9faGDO1) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:46 | 2025-06-20 |  |
+| [Starting New](https://open.spotify.com/track/4bhuYYm6eysWaN3hskJna3) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/3UYGvm4wCqViaF8XkOhd5m) | 3:53 | 2025-10-03 |  |
 | [Stayin' Quit](https://open.spotify.com/track/5mt0XIGAbYidztqDQxv0DH) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Stayin' Quit](https://open.spotify.com/album/6dMpzHaEE4fND0GXkqHMc7) | 3:06 | 2023-02-24 | 2024-01-19 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-03-20 |  |
 | [Stop the Clock](https://open.spotify.com/track/2rAJxlcZxBv6d3SEj6Q2dz) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Twenty on High](https://open.spotify.com/album/7qAjWqcitYncXKTZzOAFQo) | 3:09 | 2023-03-03 | 2023-12-09 |
@@ -378,6 +379,7 @@
 | [Till the End of My Days](https://open.spotify.com/track/0j1Gf2IkbQuJkzL4HTKkIf) | [Brennan Edwards](https://open.spotify.com/artist/71cYfB378rKtaAJkRtvtBZ) | [Till the End of My Days](https://open.spotify.com/album/1N5pcmL79Z10oy1Tvwpshp) | 3:08 | 2023-06-16 | 2024-02-01 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-20 | 2024-08-29 |
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 | 2023-12-09 |
+| [Tumbleweed](https://open.spotify.com/track/6QbEg7Bj5HCG6VQzMiTISZ) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Tumbleweed](https://open.spotify.com/album/7kAnPBIdAql4hOzR6c8nVz) | 4:04 | 2025-10-03 |  |
 | [Vampire in Appalachia](https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Vampire in Appalachia](https://open.spotify.com/album/6Ch409k36E7j35ECKAqNSu) | 3:04 | 2023-07-07 | 2023-09-23 |
 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 | 2023-02-24 | 2023-08-21 |
 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 | 2024-06-12 | 2024-10-26 |

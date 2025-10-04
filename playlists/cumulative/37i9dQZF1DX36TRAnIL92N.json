@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Bounce Back (Sped Up)",
+        "url": "https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet"
+      },
+      "artists": [
+        {
+          "name": "Acidus",
+          "url": "https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB"
+        },
+        {
+          "name": "MXGN",
+          "url": "https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Bounce Back - Sped Up",
+      "url": "https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA"
+    },
+    {
+      "album": {
         "name": "Can You Move To The Beat",
         "url": "https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi"
       },
@@ -5502,7 +5524,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"

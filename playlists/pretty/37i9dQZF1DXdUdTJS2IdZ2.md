@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Josh Makazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,097 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,095 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Alive](https://open.spotify.com/track/7nY4LhLAJgzNRWvM82B5uH) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [So Alive](https://open.spotify.com/album/1mJGw16514dnMaq0AU2IvW) | 3:21 |
 | 2 | [为你揭晓](https://open.spotify.com/track/7FDjd54Xl50e7sGJYERsaC) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [为你揭晓](https://open.spotify.com/album/190kEPhhy3oJyxdhzQ63X5) | 4:04 |
 | 3 | [Hell For Leather](https://open.spotify.com/track/0SjZvHUyGs4Puf61JtQWz3) | [Rose Tinted Press](https://open.spotify.com/artist/3FTUadOZbGZAtGI2XWVUhV), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Hell For Leather](https://open.spotify.com/album/5CUqYyZI98gEOXa2BZADoJ) | 4:07 |
-| 4 | [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [](https://open.spotify.com/album/null) | 3:18 |
+| 4 | [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [ECHOES](https://open.spotify.com/album/0yj6MHkeUuy7XwB3sOEsYi) | 3:18 |
 | 5 | [Lovers 情人](https://open.spotify.com/track/61xJSZXOwpKduryHvCnX4J) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Sher](https://open.spotify.com/artist/6gLeLSDSFo0Cwimi6Whtyt) | [Lovers 情人](https://open.spotify.com/album/5LgmSjocaeuxRJKii2FTtE) | 2:51 |
 | 6 | [Breathe](https://open.spotify.com/track/4hCWu6taVHOjxwRW9VoGZ3) | [Heema Izzati](https://open.spotify.com/artist/1ESHrcgAjNtv4Lkx08ZKOz) | [Sleep When You're Tired](https://open.spotify.com/album/61IAv3G2W0dMc7twyh3ZrV) | 2:41 |
 | 7 | [BITE](https://open.spotify.com/track/1SLYgIqyTvRXS1GEehyhAS) | [Alfred Sun](https://open.spotify.com/artist/4HnjYY4OILxDwX93n0KUHB) | [BITE](https://open.spotify.com/album/5qhvgfFTrUBS37GGSd0oaO) | 3:12 |

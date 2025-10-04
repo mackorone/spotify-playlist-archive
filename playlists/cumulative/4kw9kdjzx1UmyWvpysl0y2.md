@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,084 songs - 2 day 12 hr 37 min
+1,085 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 | 2024-04-24 |
 | [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 | 2024-08-22 | 2024-11-14 |
 | [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 | 2022-11-15 |
+| [Reconnect \- Moore Kismet Remix](https://open.spotify.com/track/5MIfvbqg3nylbpyO9E6wVC) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Reconnect \(Moore Kismet Remix\)](https://open.spotify.com/album/2RUSPrTZz2gUvtOvnktsd7) | 3:19 | 2025-10-03 |  |
 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 | 2022-07-15 | 2022-09-29 |
 | [Redshift](https://open.spotify.com/track/1kXwc02M6g1OhRb7SVsKJA) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Redshift](https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY) | 3:43 | 2024-11-13 | 2025-02-21 |
 | [Reel Me In](https://open.spotify.com/track/0FH2xI17Xj0qkoKrqMZ2df) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Ella Poletti](https://open.spotify.com/artist/7bzMJPvFsjHZLtqzGAAogB) | [Reel Me In](https://open.spotify.com/album/0Jhe2PlDQeOdbiqhI41Jn9) | 3:29 | 2024-06-13 | 2024-09-07 |

@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-310 songs - 17 hr 26 min
+311 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Meu Bem](https://open.spotify.com/track/5zLZhKevapgvot70CB1Gvk) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Meu Bem](https://open.spotify.com/album/3Jv7ePHAl5m0DCCBqpFLdr) | 2:13 | 2022-04-01 | 2022-04-19 |
 | [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 | 2025-03-21 | 2025-04-05 |
 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 |  |
-| [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 | 2025-03-21 |  |
+| [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 | 2025-03-21 | 2025-10-04 |
 | [Meu Xodó](https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Meu Xodó](https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS) | 3:17 | 2025-07-18 |  |
 | [Mimar Você](https://open.spotify.com/track/6YkgFcnZO2mFf8voFJujY5) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Mandinga Multiplicação \- Josyara canta Timbalada](https://open.spotify.com/album/6GAQFUj5yXIUmyhz6qIzy3) | 1:51 | 2024-11-29 | 2025-01-11 |
 | [Minha Felicidade](https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte](https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof) | 3:49 | 2022-02-18 |  |
@@ -253,6 +253,7 @@
 | [Se Fosse Normal Ser Louco?](https://open.spotify.com/track/71gGD458tFryCohEK1iJy3) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz), [Cris Braun](https://open.spotify.com/artist/2JgOpjAclT7MnRKsYekXuf), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 2:46 | 2022-04-01 | 2022-04-20 |
 | [Se Perder](https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Se Perder](https://open.spotify.com/album/4elS2JhpQVGLNOH2Xr0pkg) | 3:12 | 2022-02-18 | 2022-07-28 |
 | [Se Todos Fossem Iguais a Você](https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Nana, Tom, Vinicius](https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI) | 2:58 | 2022-04-01 |  |
+| [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 |  |
 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 | 2023-12-01 | 2024-01-13 |
 | [Sem Lei](https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:53 | 2025-04-04 |  |
 | [Sem Tu \- Acoustic](https://open.spotify.com/track/1BL0EKvMbaLfKt6FtwtzbF) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Sem Tu](https://open.spotify.com/album/1Rf40QwzPmtbpSxkbd9Hhh) | 2:40 | 2022-04-01 | 2022-04-19 |

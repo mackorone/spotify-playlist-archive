@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,937 likes - 114 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,933 likes - 114 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 29 | [秋天的風](https://open.spotify.com/track/1oFuxrjg9D9DdnaYP9IibH) | [陳以謙](https://open.spotify.com/artist/3fLK0cEabMGBbKyXzwLNro) | [秋天的風](https://open.spotify.com/album/4TzNFSG87txUFSL8p3K18z) | 4:17 |
 | 30 | [常伴你左右](https://open.spotify.com/track/3gvUrBOOHraKMQuA3yXR4n) | [葵剛](https://open.spotify.com/artist/4PkgPEUiVANZ1A6B78cMQe) | [常伴你左右](https://open.spotify.com/album/57IUIJla2EIcEloCsuULAU) | 4:27 |
 | 31 | [括號](https://open.spotify.com/track/5CKrqFjJe1nsk7tlIByu0o) | [Nicole Kung](https://open.spotify.com/artist/5m2AaaQax8s3feVRyjA0q7), [蔡瀞萱](https://open.spotify.com/artist/5Wdp9Ri5mJcc7rkK6CgEpP) | [妮可](https://open.spotify.com/album/1O5k6zxGjovKgE1h9Y4C1W) | 4:15 |
-| 32 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振瑋](https://open.spotify.com/artist/1R9YWhWA91cCM9uxRMy3O6) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
+| 32 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振玮](https://open.spotify.com/artist/13AzRtwQuMBRTGfPHoL35t) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
 | 33 | [五十年](https://open.spotify.com/track/5v6VnmlQ2kTtMapBz4i07z) | [清清楚楚二重唱](https://open.spotify.com/artist/5O6dzlK2DRCAhrPhgkbv0R) | [五十年](https://open.spotify.com/album/2fPaBoTuM7M6J3RYRXiEFK) | 4:10 |
 | 34 | [离开我的依赖](https://open.spotify.com/track/6Se2CmNlRIisQjUkZIxWtk) | [cici\_](https://open.spotify.com/artist/3QCXgdYV5EgHesmUfxAEpk) | [离开我的依赖](https://open.spotify.com/album/431Ex3YnkFw9Eb1aylMmIY) | 3:27 |
 | 35 | [把我佔有](https://open.spotify.com/track/2biPcMwHKke2scYT0cpxPK) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [把我佔有](https://open.spotify.com/album/4sokpH87aAG2FkaQPTiKpV) | 3:14 |

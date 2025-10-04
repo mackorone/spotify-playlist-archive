@@ -7784,7 +7784,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 204800,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/7laIQ9l8UZSsw2dB2VZ8Kr"
@@ -14622,7 +14622,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 226285,
       "name": "Something For Your Mind",
       "url": "https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s"
@@ -15793,6 +15793,28 @@
     },
     {
       "album": {
+        "name": "Thank U",
+        "url": "https://open.spotify.com/album/1yfUjHmKLYk8NzNAZlIznc"
+      },
+      "artists": [
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        },
+        {
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/4PIN4UoRu33aDun44fUlAK"
+    },
+    {
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4HoZesnWMlkvnnbWTSFRq1"
       },
@@ -16032,6 +16054,28 @@
       "duration_ms": 189004,
       "name": "The One",
       "url": "https://open.spotify.com/track/3D4olrYQo66ycM8frsqdE7"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/1mGVjJzwgCjM7SP7VRyTqV"
+      },
+      "artists": [
+        {
+          "name": "Corticus",
+          "url": "https://open.spotify.com/artist/736G6EN6ceo8tNaxgN2BSK"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/3zubofIaCuEkZYPcwxQPZs"
     },
     {
       "album": {

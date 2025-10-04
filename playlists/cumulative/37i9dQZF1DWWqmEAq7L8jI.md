@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Babasónicos.
 
-393 songs - 21 hr 27 min
+394 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2:50 Remix](https://open.spotify.com/track/5eyO0n1HiiSWdGaaSoK731) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 3:51 | 2023-10-04 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-08-11 |  |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2023-08-11 |  |
+| [A Mi Nube](https://open.spotify.com/track/15g721ZXBap7ZOxECI4O2z) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [A Mi Nube](https://open.spotify.com/album/4mqARE8GVtj9OFtKPhJ7nA) | 2:14 | 2025-10-03 |  |
 | [a todo el mundo le pasa](https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [a todo el mundo le pasa](https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X) | 3:31 | 2025-04-25 | 2025-05-31 |
 | [Abrazarnos](https://open.spotify.com/track/0RcrD7lqjXRpgM3kc9Ukwv) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Abrazarnos](https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE) | 3:34 | 2023-08-18 | 2023-09-23 |
 | [Abrazarte otra vez](https://open.spotify.com/track/44dAjMA5Sa9vlPkIsSuxxM) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Abrazarte otra vez](https://open.spotify.com/album/7GZ0HUMfjyMmuSWmWOSIaC) | 3:47 | 2023-08-11 | 2023-08-19 |
@@ -254,7 +255,7 @@
 | [No era amor](https://open.spotify.com/track/0nAYHH7PlT3YWYxntJ3klM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [No era amor](https://open.spotify.com/album/5obYaeL4HSkhqA8ryJ1edh) | 3:38 | 2025-07-18 | 2025-07-26 |
 | [No es amor](https://open.spotify.com/track/7HJSDNbNLUVENQjWKwBvW2) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos](https://open.spotify.com/album/6q9JxhDsrcwQqTk79bqRR8) | 3:13 | 2025-03-14 | 2025-04-26 |
 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastián Yatra](https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 | 2023-08-11 | 2025-09-13 |
-| [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2023-08-11 |  |
+| [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2023-08-11 | 2025-10-04 |
 | [no hay vuelta atrás](https://open.spotify.com/track/79ZxDTRJC6srI4vM8nBbJ9) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [no hay vuelta atrás](https://open.spotify.com/album/30XqJeXn9Ac35jMoo3MnsL) | 2:11 | 2025-06-27 | 2025-07-12 |
 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 | 2023-08-25 | 2023-09-23 |
 | [NO ME APURES](https://open.spotify.com/track/5PDuUj8AAU8K15fULZBrY5) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [NO ME APURES](https://open.spotify.com/album/6G8FpsRV5dChImgTRyeyDZ) | 2:36 | 2025-05-09 | 2025-05-31 |

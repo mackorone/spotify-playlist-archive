@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cardi B
+> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Bryson Tiller
 
-145 songs - 6 hr 41 min
+146 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:12 | 2025-04-18 |  |
 | [Bad For Me](https://open.spotify.com/track/46htLemGubh1NvYMbeBGeV) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 3:58 | 2025-02-14 | 2025-07-26 |
-| [bae](https://open.spotify.com/track/5sEC88gNr8VEGXc7FSQGit) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [bae](https://open.spotify.com/album/07MVkMt1UaDkk7rKgviGYT) | 2:33 | 2025-05-09 |  |
+| [bae](https://open.spotify.com/track/5sEC88gNr8VEGXc7FSQGit) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [bae](https://open.spotify.com/album/07MVkMt1UaDkk7rKgviGYT) | 2:33 | 2025-05-09 | 2025-10-04 |
 | [Be Alone](https://open.spotify.com/track/60mLVgBx8LkBAMWsL9s3bi) | [Tyler Loyal](https://open.spotify.com/artist/7pgbjv3FWqKcMKQckkbd3j) | [Be Alone](https://open.spotify.com/album/6AXdFVJhSzC1sndGfBuFNM) | 1:58 | 2024-12-20 | 2025-01-11 |
 | [Beishu](https://open.spotify.com/track/2ZW0S50cpLNPf0cDANvjrT) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J) | [Beishu](https://open.spotify.com/album/4mgGMS9sl45p1nH6WIN2lL) | 2:00 | 2025-02-14 | 2025-09-20 |
 | [Billie Jean](https://open.spotify.com/track/3Kz373RINbFfB4Rvth18hs) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Billie Jean](https://open.spotify.com/album/1g2qspriqd79KOJOYjw6GB) | 2:40 | 2025-05-21 |  |
@@ -101,7 +101,8 @@
 | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/album/5pj2T91lHwn5A3qExRV4l9) | 2:30 | 2024-10-25 |  |
 | [Need It](https://open.spotify.com/track/4wUyiNCqFnXubzvisEH5OT) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [DREAMS NEVER DIE](https://open.spotify.com/album/3aDklSkHajFA1fAIC4lOiv) | 2:59 | 2025-04-11 |  |
 | [Never Again \(feat\. Lil Tecca\)](https://open.spotify.com/track/03KfD8nEK78qYGRt17jg7x) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Don't Sleep While It's Lit \- Part 2](https://open.spotify.com/album/74GSr6z0zXI0LAsgsHyeWs) | 3:09 | 2024-11-22 | 2025-08-09 |
-| [On My Way](https://open.spotify.com/track/4bjdoXZzctr0vYcRaQuzCi) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [On My Way](https://open.spotify.com/album/5URldtL3kJnbdxPQL3qyYX) | 2:33 | 2025-08-08 |  |
+| [No Contest](https://open.spotify.com/track/2aC3ZELwliJI0vOjIjBB2G) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:51 | 2025-10-03 |  |
+| [On My Way](https://open.spotify.com/track/4bjdoXZzctr0vYcRaQuzCi) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [On My Way](https://open.spotify.com/album/5URldtL3kJnbdxPQL3qyYX) | 2:33 | 2025-08-08 | 2025-10-04 |
 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 | 2024-11-01 |  |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-11-06 |  |
 | [party girl](https://open.spotify.com/track/3siyy7mj0ahl0987mmvsPK) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [cupid](https://open.spotify.com/album/5DmIgNTkiwzv9aAfmqfKji) | 2:42 | 2025-01-10 | 2025-01-25 |

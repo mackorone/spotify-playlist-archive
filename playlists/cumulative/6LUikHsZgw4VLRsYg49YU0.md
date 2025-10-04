@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-276 songs - 15 hr 59 min
+277 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 | 2024-10-11 |  |
 | [REALITY](https://open.spotify.com/track/1mRDuI7Ebt0hc8Ap3o1DR4) | [Yukari Hashimoto](https://open.spotify.com/artist/2oThAjMW6yMMqpjt0ffmcE) | [TV ANIME "ZENSHU" ORIGINAL SOUNDTRACK 1](https://open.spotify.com/album/2qJp2YXuUjYS1tUYxASNwz) | 1:13 | 2025-02-28 |  |
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-10 |  |
+| [Remnants \(Hikaru and Yoshiki\)](https://open.spotify.com/track/5wdRZziNxqj8fiAVgr8Tt1) | [Hikaru \(CV: Shuichiro Umeda\)](https://open.spotify.com/artist/5ofqeJFLJo3y7eVWJp0jfp), [Yoshiki Tsujinaka \(CV: Chiaki Kobayashi\)](https://open.spotify.com/artist/1ak1Lixbqh8xEqkp3PsSmQ) | [The Summer Hikaru Died \(Original Series Soundtrack\)](https://open.spotify.com/album/43L5XfWix9oq9PEKnaHZQV) | 1:30 | 2025-10-03 |  |
 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 | 2024-01-19 |  |
 | [Rippling](https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:03 | 2025-04-11 |  |
 | [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 | 2024-07-12 |  |

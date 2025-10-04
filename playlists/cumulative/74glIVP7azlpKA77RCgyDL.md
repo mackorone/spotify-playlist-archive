@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,106 songs - 2 day 21 hr 13 min
+1,111 songs - 2 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Inamorata](https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 11:10 | 2023-04-14 | 2024-02-03 |
 | [Incinerator](https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Incinerator](https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS) | 3:41 | 2024-03-22 | 2025-04-11 |
 | [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
+| [Inferna](https://open.spotify.com/track/1G0DY4wXNzUOlj15GncBON) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Death Above Life](https://open.spotify.com/album/1ovzOV64ES8l2X7t1iIhEO) | 6:43 | 2025-10-03 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2022-06-24 | 2023-07-15 |
 | [Infusorium](https://open.spotify.com/track/0CMu9ZzwDgvIg9bo6jzKeH) | [Scour](https://open.spotify.com/artist/6SoZi6u1HOTJ33PrXjMxlo) | [Infusorium](https://open.spotify.com/album/3HWsdwv1gstJyp6QOFZrY9) | 3:47 | 2024-11-15 | 2025-04-11 |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 | 2023-07-15 |
@@ -535,6 +536,7 @@
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2023-07-15 |
 | [Lord Humungus](https://open.spotify.com/track/365tO9p3MqbVcRZELUlArm) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Lord Humungus](https://open.spotify.com/album/23rrbT4rvGKi7ALXJnYEtb) | 3:34 | 2025-02-21 |  |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 | 2023-07-15 |
+| [Lord of Retribution](https://open.spotify.com/track/5PZfQ4mCi8trjr9XBLRq8p) | [kirk Windstein](https://open.spotify.com/artist/5K9b2HCMWjCQxDFgscoQrw) | [Ethereal Waves](https://open.spotify.com/album/02Y8ShLFOELujDMp5DX8Nb) | 5:34 | 2025-10-03 |  |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 | 2024-02-03 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2024-02-03 |
 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-01 | 2024-02-03 |
@@ -789,6 +791,7 @@
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2022-03-25 | 2023-07-15 |
 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 | 2022-11-18 | 2023-07-15 |
 | [Sepsis](https://open.spotify.com/track/0P2uKmwgG11czQLSbSDjlM) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Sepsis](https://open.spotify.com/album/6ZX9k0eNrOpbbWwdGui8q0) | 3:28 | 2025-06-13 |  |
+| [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 | 2025-10-03 |  |
 | [Serenity](https://open.spotify.com/track/1xLE6B5cXy3mTobUzntBQM) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Serenity](https://open.spotify.com/album/6jbtH3B1S1Gae3EALfxiY2) | 4:38 | 2024-08-16 | 2025-04-11 |
 | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt) | 2:58 | 2023-02-17 | 2024-02-03 |
 | [Severance](https://open.spotify.com/track/2LXQR9gVto8p0z9rrxsDLO) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP), [Nick Chance](https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC) | [Severance](https://open.spotify.com/album/35bpyqX7elYobRNS3o3wH4) | 3:32 | 2024-09-20 | 2025-04-11 |
@@ -971,6 +974,7 @@
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 | 2023-07-15 |
 | [This Is Not A Prayer](https://open.spotify.com/track/1MUBqsfHJ8dOgFvkR5zWYX) | [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [This Is Not A Prayer](https://open.spotify.com/album/1fEPutb1DOsvhTvRPLbBYs) | 6:39 | 2024-06-28 | 2025-04-11 |
 | [Time Is Coming For Us All](https://open.spotify.com/track/4k8W2lveY4GzNADWNQNGmO) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr) | [Promo 2024](https://open.spotify.com/album/4kyPh860ld5waGNs5TnkfZ) | 1:51 | 2024-03-01 | 2025-04-11 |
+| [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-03 |  |
 | [Titanis](https://open.spotify.com/track/0tkEbpL4Wr5wwY4z48CvZx) | [Author & Punisher](https://open.spotify.com/artist/4QtqJ5KVIhBruJWEhWjnsv), [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Titanis](https://open.spotify.com/album/5Fw0jwpyBvDcJaXqkOOKWx) | 3:01 | 2025-08-08 |  |
 | [To Cut Off The Head Of The Snake](https://open.spotify.com/track/3kj5ZrH5xC5xfXVKNKwwTo) | [Living Gate](https://open.spotify.com/artist/6uiTa3MLovwAdLBbDCveLa) | [To Cut Off The Head Of The Snake](https://open.spotify.com/album/5EqAKmfvMg6I3aFhk8ag6v) | 4:55 | 2024-09-27 | 2025-04-11 |
 | [To Live Deliciously](https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [To Live Deliciously](https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB) | 5:32 | 2025-01-24 |  |
@@ -1021,6 +1025,7 @@
 | [Venus in Flames](https://open.spotify.com/track/1plbSV6IKjmMmyAx9XMEod) | [DOOL](https://open.spotify.com/artist/101HSR6JTJqe3DBh6rb8kz) | [Venus in Flames](https://open.spotify.com/album/05YyAiDVKS3HntWHOpk81U) | 7:06 | 2024-03-01 | 2025-04-11 |
 | [Very High](https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Very High](https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb) | 1:54 | 2023-04-21 | 2024-02-03 |
 | [Vessel of Suffering](https://open.spotify.com/track/3WggKw5QGXX9tcvkQyHq5p) | [Hulder](https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo) | [Vessel Of Suffering](https://open.spotify.com/album/0tszKj1sh2azWncyNgc9Vh) | 3:56 | 2023-12-15 | 2024-02-03 |
+| [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 | 2025-10-03 |  |
 | [Victim](https://open.spotify.com/track/586QQTfbiI4qtk9l5d1l07) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:57 | 2023-02-03 | 2024-02-03 |
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 | 2023-07-15 |
 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-16 | 2024-02-03 |

@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-429 songs - 1 day 2 hr 47 min
+430 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Birds of a Feather](https://open.spotify.com/track/5DbUJZXMeYjAsGQ2dCfSaX) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Birds of a Feather](https://open.spotify.com/album/2ILaN6SG0ywXax10v25OfC) | 1:56 | 2024-10-04 | 2024-12-31 |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-03-29 |  |
 | [Bleeding Love](https://open.spotify.com/track/55zTNpfdbGivevXhRqSfq8) | [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Bleeding Love](https://open.spotify.com/album/7htjo95f84y0cKZBU80vJT) | 5:38 | 2022-03-25 | 2022-04-20 |
-| [Bleeding Love](https://open.spotify.com/track/3pX9JhOWXQ8B2KyECJGFqM) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Blonde](https://open.spotify.com/album/0Ea4snfqt1F5e7ZAv4jFuQ) | 4:15 | 2024-07-26 |  |
+| [Bleeding Love](https://open.spotify.com/track/3pX9JhOWXQ8B2KyECJGFqM) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Blonde](https://open.spotify.com/album/0Ea4snfqt1F5e7ZAv4jFuQ) | 4:15 | 2024-07-26 | 2025-10-04 |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-21 | 2023-12-16 |
 | [Bless the Broken Road \- Acoustic](https://open.spotify.com/track/3wNWGhHUXcfIAkofmN1A3a) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Bless the Broken Road \(Acoustic\)](https://open.spotify.com/album/1Jtc296ozOVEdimxdkKsNi) | 2:55 | 2022-01-07 | 2022-07-24 |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-03-15 |  |
@@ -365,6 +365,7 @@
 | [The Grand Tour](https://open.spotify.com/track/4bsaPI9m6fAtOsNTvfvBEv) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:09 | 2022-02-04 | 2022-07-28 |
 | [The House That Built Me](https://open.spotify.com/track/0G5IPmslPFzM9oa1qbAHGt) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again \(with Miranda Lambert\) / The House That Built Me](https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs) | 3:52 | 2025-05-16 |  |
 | [The Joker](https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 4:55 | 2021-12-10 | 2022-07-25 |
+| [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5) | [Briley King](https://open.spotify.com/artist/4UwsufbUC2DUrErjxW3XU6), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Night The Lights Went Out In Georgia](https://open.spotify.com/album/2Y3bfuOSg8kDUHvTlSPrPP) | 4:16 | 2025-10-03 |  |
 | [The Race Is On](https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Boys Are Back](https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz) | 2:56 | 2021-12-10 | 2023-01-06 |
 | [The Ride](https://open.spotify.com/track/0i0xwuj7qKUHGotzfVckHd) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [The Ride](https://open.spotify.com/album/6brTMXkyux9WZLIdW4x40C) | 3:42 | 2023-08-18 | 2023-09-23 |
 | [The Way You Look Tonight \- Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016](https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Way You Look Tonight \(Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016\)](https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt) | 3:24 | 2023-09-29 | 2023-11-16 |

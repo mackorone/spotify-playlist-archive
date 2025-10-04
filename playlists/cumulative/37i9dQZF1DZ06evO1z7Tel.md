@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 15 min
+106 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Betillo Araujo](https://open.spotify.com/track/3JrJ5eReaNEUrhdNLC7KAk) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:09 | 2024-01-31 | 2024-07-21 |
 | [Beto Molina](https://open.spotify.com/track/23IFCQgkLCcfRTXBYIUTFS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:30 | 2022-06-01 | 2022-10-13 |
 | [Cada Copa](https://open.spotify.com/track/2Zlf3gGvkONYYEnayQkXX6) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:41 | 2022-06-04 | 2024-06-03 |
-| [Canción Mixteca](https://open.spotify.com/track/7ewaV9utuWtFJKhK5P04GY) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tengo A Mi Lupe](https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD) | 3:19 | 2025-06-10 |  |
+| [Canción Mixteca](https://open.spotify.com/track/7ewaV9utuWtFJKhK5P04GY) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tengo A Mi Lupe](https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD) | 3:19 | 2025-06-10 | 2025-10-04 |
 | [Carga Blanca](https://open.spotify.com/track/4Y5bCHdJG6kRx8ounxTqlg) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Los 15 Mejores Corridos de Carlos y Jose, Vol\. 1](https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2) | 3:10 | 2022-06-01 | 2023-01-27 |
 | [Cheque Al Portador](https://open.spotify.com/track/0eIJC83P0w38umljT1DOMr) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Enseñame A Olvidar](https://open.spotify.com/album/4IE1izWlGdDxMh3hnTNvKv) | 2:31 | 2025-04-10 | 2025-06-09 |
 | [Cheque Al Portador](https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:31 | 2022-06-01 | 2025-04-06 |
@@ -53,6 +53,7 @@
 | [El Prisionero De San Juan De Ulúa](https://open.spotify.com/track/1aX0ProVmSEQIrP29QZZpp) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 3:05 | 2023-06-22 | 2023-12-24 |
 | [El Quemador](https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:09 | 2022-06-09 |  |
 | [El Rayo De Sinaloa](https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:45 | 2022-06-01 |  |
+| [El Rico Pobre](https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1) | 3:08 | 2025-10-04 |  |
 | [El Rico Pobre](https://open.spotify.com/track/1ECgAz9uzij134mOSvARmb) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 3:08 | 2022-06-01 | 2025-04-07 |
 | [El Rico Pobre](https://open.spotify.com/track/6h1IFfO76PWR1D1LS3MZQt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Claves En Corrido](https://open.spotify.com/album/3M4A3npKRXpMB14aZXh8B7) | 3:08 | 2025-04-07 | 2025-04-26 |
 | [El Rico Pobre](https://open.spotify.com/track/75K6YcunJ1fo8pafK6jjrz) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Para Rato](https://open.spotify.com/album/52UpMj1lzpBoWsYLZhwtwd) | 3:08 | 2025-04-26 | 2025-08-02 |

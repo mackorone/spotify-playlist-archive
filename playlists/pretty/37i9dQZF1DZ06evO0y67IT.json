@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8987,
+  "num_followers": 8988,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAC/65iHVKi4cKvoyiO2fw5a",
+  "snapshot_id": "aN3AgAAAAAAIxyDSUIHT7BNYgwuCnmEX",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 178677,
-      "name": "Four White Walls",
-      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
     },
     {
       "added_at": null,
@@ -603,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -644,29 +612,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 163605,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "William Ryan Key",
-          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
-        }
-      ],
-      "duration_ms": 156952,
-      "name": "Seafoam",
-      "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
+      "duration_ms": 178677,
+      "name": "Four White Walls",
+      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
     },
     {
       "added_at": null,
@@ -699,6 +647,58 @@
       "duration_ms": 226826,
       "name": "The Business Of Paper Stars",
       "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "William Ryan Key",
+          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
+        }
+      ],
+      "duration_ms": 156952,
+      "name": "Seafoam",
+      "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 220200,
-      "name": "321.",
-      "url": "https://open.spotify.com/track/3owaeMLD1YICiGMAzWJSak"
+      "duration_ms": 192173,
+      "name": "Corps Of Corpses",
+      "url": "https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT"
     },
     {
       "added_at": null,

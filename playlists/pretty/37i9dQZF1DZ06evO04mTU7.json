@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10016,
+  "num_followers": 10039,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAC+Am9KSitjmfyRB+i29fkV",
+  "snapshot_id": "aN3AgAAAAAA5U7vryf03N0H8WKpbcDeR",
   "tracks": [
     {
       "added_at": null,
@@ -308,13 +308,21 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Quero saber",
-      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
+      "duration_ms": 156374,
+      "name": "Sob a luz do seu olhar",
+      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
     },
     {
       "added_at": null,
@@ -424,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 132624,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/4u3ZKIMsLAiikFqxOsnXSp"
+      "duration_ms": 179500,
+      "name": "Quero saber",
+      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
     },
     {
       "added_at": null,
@@ -504,17 +512,13 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        },
-        {
-          "name": "Xizoh",
-          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Acorde",
-      "url": "https://open.spotify.com/track/56zyFeSe3ttrjcXeFFskP1"
+      "duration_ms": 132624,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/4u3ZKIMsLAiikFqxOsnXSp"
     },
     {
       "added_at": null,
@@ -854,11 +858,15 @@
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+      "duration_ms": 153600,
+      "name": "Aju",
+      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
     },
     {
       "added_at": null,
@@ -926,15 +934,11 @@
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Aju",
-      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     },
     {
       "added_at": null,

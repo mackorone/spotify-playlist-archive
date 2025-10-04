@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: KETTAMA",
-  "num_followers": 584059,
+  "num_followers": 584825,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAHDVgtXy6HP8XLbSBz2L3fRezkjM",
   "tracks": [
+    {
+      "added_at": "2025-10-02 23:00:24",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
     {
       "added_at": "2025-10-02 23:00:24",
       "album": {
@@ -43,8 +59,8 @@
     {
       "added_at": "2025-10-02 23:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
       },
       "artists": [
         {
@@ -124,7 +140,7 @@
           "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 216521,
+      "duration_ms": 219130,
       "name": "you're a star",
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
@@ -199,6 +215,26 @@
     {
       "added_at": "2025-10-02 23:00:24",
       "album": {
+        "name": "GEWAH Selects",
+        "url": "https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF"
+    },
+    {
+      "added_at": "2025-10-02 23:00:24",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
       },
@@ -215,8 +251,8 @@
     {
       "added_at": "2025-10-02 23:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
@@ -256,7 +292,7 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 221548,
+      "duration_ms": 221826,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
@@ -363,8 +399,8 @@
     {
       "added_at": "2025-10-02 23:00:24",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
       "artists": [
         {

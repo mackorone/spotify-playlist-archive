@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 552107,
+  "num_followers": 552653,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1"
-      },
-      "artists": [
-        {
-          "name": "Zach Webb",
-          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
-        }
-      ],
-      "duration_ms": 311170,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Dream Team",
-        "url": "https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ"
+        "name": "Found",
+        "url": "https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Zach Webb",
+          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
         }
       ],
-      "duration_ms": 188626,
-      "name": "Dream Team",
-      "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
+      "duration_ms": 311170,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -763,6 +747,22 @@
       "duration_ms": 239508,
       "name": "Death with Dignity",
       "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Dream Team",
+        "url": "https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "Dream Team",
+      "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 306880,
-      "name": "Lord, Let That Tesla Crash",
-      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Above the Clouds of Pompeii",
         "url": "https://open.spotify.com/album/5dFQx8kMykeP970uW0zlNq"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 306880,
+      "name": "Lord, Let That Tesla Crash",
+      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "This World's A Giant",
         "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
       },
@@ -963,54 +963,6 @@
       "duration_ms": 216160,
       "name": "This World's A Giant",
       "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1031,6 +983,54 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Goodbye to the Valley Low (Side B)",
         "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 262160,
       "name": "I'm Not Ready To Go",
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "Iceberg",
-      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1091,6 +1075,22 @@
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "The Commons",
-        "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 324893,
-      "name": "The Commons",
-      "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "The Commons",
+        "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 324893,
+      "name": "The Commons",
+      "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Hey Ma",
         "url": "https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 240123,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2025-10-02 20:20:31",
       "album": {
-        "name": "Between You and Me",
-        "url": "https://open.spotify.com/album/1C9cwCoi45V5snbeDJY3wJ"
+        "name": "Hand Me Downs",
+        "url": "https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
         }
       ],
-      "duration_ms": 325322,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/7KQuq61c48KrQ2kMIvrCuC"
+      "duration_ms": 209498,
+      "name": "Hand Me Downs",
+      "url": "https://open.spotify.com/track/2dwaytdyZoyu2fNOdUi8sR"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Racing Mount Pleasant",
-        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
-      },
-      "artists": [
-        {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
-        }
-      ],
-      "duration_ms": 420458,
-      "name": "Call It Easy",
-      "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
-    },
-    {
-      "added_at": "2025-10-02 20:20:31",
-      "album": {
-        "name": "Hand Me Downs",
-        "url": "https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 209498,
-      "name": "Hand Me Downs",
-      "url": "https://open.spotify.com/track/2dwaytdyZoyu2fNOdUi8sR"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Cairngorms",
         "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
       },
@@ -1521,20 +1489,20 @@
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
-      "added_at": "2025-09-23 14:16:54",
+      "added_at": "2025-10-02 20:20:31",
       "album": {
-        "name": "Never, No Not Once",
-        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/1C9cwCoi45V5snbeDJY3wJ"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 298864,
-      "name": "Never, No Not Once",
-      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+      "duration_ms": 325322,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/7KQuq61c48KrQ2kMIvrCuC"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1555,6 +1523,38 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 420458,
+      "name": "Call It Easy",
+      "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Winter Shiver",
-        "url": "https://open.spotify.com/album/7FU3zW3O7NMQ2NfJ3eBoGg"
-      },
-      "artists": [
-        {
-          "name": "My Mercury",
-          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Winter Shiver",
-      "url": "https://open.spotify.com/track/1lUxKDtJlZVWNnTuG4vhBu"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 223386,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Winter Shiver",
+        "url": "https://open.spotify.com/album/7FU3zW3O7NMQ2NfJ3eBoGg"
+      },
+      "artists": [
+        {
+          "name": "My Mercury",
+          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Winter Shiver",
+      "url": "https://open.spotify.com/track/1lUxKDtJlZVWNnTuG4vhBu"
     },
     {
       "added_at": "2025-09-23 14:16:54",

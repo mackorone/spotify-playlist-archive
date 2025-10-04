@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Miss Monique & Poppy Baskcomb
+> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with MPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857,624 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856,170 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 84 | [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 |
 | 85 | [Funk U Want](https://open.spotify.com/track/2aiiorAu7zLKYanYv47LjN) | [DJ Mandy](https://open.spotify.com/artist/4p2xDjEJLI7pgml2xOb3iT) | [Funk U Want](https://open.spotify.com/album/1fXkckIZDpKNPOsyK55iwu) | 3:30 |
 
-Snapshot ID: `AAAAABAJGA9nWJwAmJHcYDbo7KFTSIKd`
+Snapshot ID: `AAAAAOwDM3VbukOxv5SNluiUvv5BqoxA`

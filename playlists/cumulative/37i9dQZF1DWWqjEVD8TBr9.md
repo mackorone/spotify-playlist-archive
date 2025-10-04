@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-374 songs - 20 hr 10 min
+375 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [For You](https://open.spotify.com/track/3qBlU2fEz1JD098Z5nHvIo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 4:09 | 2022-03-18 |  |
 | [FREEZE](https://open.spotify.com/track/2L7hSYdvF0CtaM6JisfKEG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 2:58 | 2022-03-18 | 2024-04-19 |
 | [FREEZE](https://open.spotify.com/track/2plJdCLTDrATAlL7pU8SeA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:58 | 2022-03-18 |  |
+| [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN \(Stray Kids\)](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 | 2025-10-03 |  |
 | [Get Cool](https://open.spotify.com/track/0uUOYmOu7V6v18XLkVtjDF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:16 | 2022-03-18 | 2024-04-19 |
 | [Get Cool](https://open.spotify.com/track/6TCQ5kYMTXFrrCobvXqUxY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:16 | 2022-03-18 |  |
 | [GET LIT](https://open.spotify.com/track/2Gq5ruFhVSunkos4YpWwsH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 2:51 | 2023-11-10 |  |

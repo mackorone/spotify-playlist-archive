@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 999 songs - 2 day 13 hr 49 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,007 songs - 2 day 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1007,5 +1007,13 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 997 | [Over The Moon \(English Ver.\)](https://open.spotify.com/track/7y3fQOqhue1AcuMEjGDZJb) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:37 |
 | 998 | [Lovers' Holiday](https://open.spotify.com/track/2jV46l9C3YgMc7rM2UmXep) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 3:25 |
 | 999 | [Rust and Steel](https://open.spotify.com/track/6K9JfT5798veNIa1OBRBj0) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:56 |
+| 1000 | [Flowers](https://open.spotify.com/track/5Q0JiH1vD9Cx9E8Z9R88q6) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 0:24 |
+| 1001 | [Paradise](https://open.spotify.com/track/0f8aTAJ49LTQStXC6BB2uw) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 5:01 |
+| 1002 | [I Need The Answer](https://open.spotify.com/track/6DbSQ3vZEC5bO8b7myspLf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:04 |
+| 1003 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
+| 1004 | [Been So Long](https://open.spotify.com/track/7oufeov2Bg9nyx8bLAQ8uA) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 3:16 |
+| 1005 | [Everything](https://open.spotify.com/track/5dklfbZYYDGCjSdnYvsSJD) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 2:52 |
+| 1006 | [If Not For Love](https://open.spotify.com/track/4QIcXmXNWWV2m7huZEn03X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 3:23 |
+| 1007 | [Without You](https://open.spotify.com/track/696AC0TdTjD1teDPcANly9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 3:37 |
 
-Snapshot ID: `AAAHm3uq+Q67JCXcaTeFtswTDZ5eh5Bf`
+Snapshot ID: `AAAHnFEhThUg6Nln2zja/jSg9ZCVK4qs`

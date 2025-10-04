@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,334 songs - 12 day 10 hr 7 min
+5,336 songs - 12 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2914,6 +2914,7 @@
 | [May I](https://open.spotify.com/track/5yoDAg7p5kwEh92yDRuxm3) | [Curly Brown](https://open.spotify.com/artist/5PejSwdwgRlT4qYFcgWDHN) | [May I](https://open.spotify.com/album/6dqoF6sMoalryMe9AXyB7H) | 2:41 | 2023-07-31 | 2023-08-20 |
 | [May to September](https://open.spotify.com/track/7wGrUTDzcpJSXT1IozuDyU) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [May to September](https://open.spotify.com/album/13RzfLMPX69BQxcaGUDvA4) | 3:06 | 2022-09-11 | 2022-09-27 |
 | [maybe](https://open.spotify.com/track/05Y3vThn6ZnkqZnv4oGrKv) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [maybe](https://open.spotify.com/album/3smnkj76NfBe7q4YTg50Fy) | 3:23 | 2025-05-23 | 2025-06-21 |
+| [Maybe](https://open.spotify.com/track/7b7nzMQZg9mvDcxGnQqDxg) | [Bets](https://open.spotify.com/artist/1UKb8fKzb3cCbapXoaMbqH) | [Future Color](https://open.spotify.com/album/7gQYWVPuXmRYKnt1q7RutF) | 2:58 | 2025-10-03 |  |
 | [Maybe It's You](https://open.spotify.com/track/6FjK5agfRML4bI4GicOIoJ) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Maybe It's You](https://open.spotify.com/album/5EvUx0cDdwv7CFQomeh5yJ) | 3:06 | 2025-09-20 |  |
 | [Maybe She Knows](https://open.spotify.com/track/1JEkio51J9H2gXtf91hfeL) | [Tom R Rider](https://open.spotify.com/artist/2mUPa152Sru67ghhbeADat) | [Maybe She Knows](https://open.spotify.com/album/11MKyHO8n5nw6OsqOpobKg) | 2:29 | 2024-03-22 | 2024-04-05 |
 | [Maybe Tonight](https://open.spotify.com/track/23SENjysjh3gLAeSeoV7WT) | [Jascha Richter](https://open.spotify.com/artist/2VOMfXGriwklZIkNmdP7ld) | [Maybe Tonight](https://open.spotify.com/album/5PPO1TAqTxEtmTuGMJBxMg) | 3:33 | 2024-09-28 | 2024-11-20 |
@@ -3767,6 +3768,7 @@
 | [Relaying](https://open.spotify.com/track/5OESr4y4hmSiSrfYX7A2wM) | [PluggWorld](https://open.spotify.com/artist/3yswMxZ1A5l5H2QADjdm6t) | [Relaying](https://open.spotify.com/album/3V5jcyBW2XAtGkkTW9tmw7) | 3:15 | 2024-07-27 | 2024-08-08 |
 | [Release](https://open.spotify.com/track/4qln8ZRsvFzRgyRAWIoPTR) | [Shonie V](https://open.spotify.com/artist/1E7x4eTccjsST1Hz85QHNA) | [Refined](https://open.spotify.com/album/4PI550AFk85e2NSH9deQbT) | 4:44 | 2024-02-20 | 2024-02-28 |
 | [Release Me](https://open.spotify.com/track/6V2NbweLkOmRqhgN3Yxi7V) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Release Me](https://open.spotify.com/album/1i03UtsEINmOf8Mvjb5OLb) | 2:40 | 2023-05-10 | 2023-05-30 |
+| [REMEMBER](https://open.spotify.com/track/4mXO139UKQCwtlPpwDfhx1) | [AUNTY](https://open.spotify.com/artist/3Saby3OPCce7IfTnHslpSG) | [REMEMBER](https://open.spotify.com/album/1c5dOe3OGnDNnc0nDlb2st) | 4:28 | 2025-10-03 |  |
 | [Remember](https://open.spotify.com/track/4DJ063UgLvkGZ8nNLqoFlZ) | [Tony Mack](https://open.spotify.com/artist/72b9qeMiYMI8Lah4zKCkgn) | [Remember](https://open.spotify.com/album/0yvjSuJ4S17zy0sE79Z08g) | 4:52 | 2025-06-30 | 2025-07-12 |
 | [Remember Me](https://open.spotify.com/track/7xfCYqHcDYJjCtC0TILAGL) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [Remember Me](https://open.spotify.com/album/3jk6uHloCqAw0IG4ZeWHwN) | 2:56 | 2024-07-25 | 2024-08-06 |
 | [Remember Where You Are](https://open.spotify.com/track/1yELCmfuqESOtVx27fwVfB) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 5:34 | 2021-07-12 | 2021-11-19 |

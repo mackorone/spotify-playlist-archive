@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 ### [Hot Greek Rap](https://open.spotify.com/playlist/37i9dQZF1DXczv0e5n6k9E)
 
-> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: FLY LO, TOQUEL
+> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Arab
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,604 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,650 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prezi](https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Prezi](https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn) | 2:49 |
-| 2 | [PATEK](https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Omar](https://open.spotify.com/artist/2BdbmgQDvk6Sk8mRH1B47g) | [PATEK](https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km) | 2:35 |
-| 3 | [MOLOTOV](https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [MOLOTOV](https://open.spotify.com/album/7pDsDMQJ0KlmBCucDynLcQ) | 2:44 |
-| 4 | [Paidia Tou Feggariou](https://open.spotify.com/track/6DprMwVs2mHbGN2U6qenzQ) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Paidia Tou Feggariou](https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3) | 3:50 |
-| 5 | [SEADOO](https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Lami](https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP) | [SEADOO](https://open.spotify.com/album/2T5uudWve4hhgTHVnaMGcl) | 2:08 |
+| 2 | [SEADOO](https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Lami](https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP) | [SEADOO](https://open.spotify.com/album/2T5uudWve4hhgTHVnaMGcl) | 2:08 |
+| 3 | [PATEK](https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Omar](https://open.spotify.com/artist/2BdbmgQDvk6Sk8mRH1B47g) | [PATEK](https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km) | 2:35 |
+| 4 | [MOLOTOV](https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [MOLOTOV](https://open.spotify.com/album/7pDsDMQJ0KlmBCucDynLcQ) | 2:44 |
+| 5 | [Paidia Tou Feggariou](https://open.spotify.com/track/6DprMwVs2mHbGN2U6qenzQ) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Paidia Tou Feggariou](https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3) | 3:50 |
 | 6 | [OMG](https://open.spotify.com/track/2InisuUeQxBarfQ33xn8Md) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [OMG](https://open.spotify.com/album/5CPfihmme19iTL4VuZedQT) | 2:56 |
 | 7 | [Aroma](https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn) | [Angelina](https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Aroma](https://open.spotify.com/album/40lSpv9DUV1CrP0ZMHozpj) | 2:51 |
 | 8 | [2 DIODIA](https://open.spotify.com/track/70uIhFrirDdHsmFcofSVHh) | [Kareem Kalokoh](https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [2 DIODIA](https://open.spotify.com/album/5dkR5iCCFe1JOKZpvO8AGw) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [Gangsta Love](https://open.spotify.com/track/15UlvxNj2iM8kpshJY8zwX) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Gangsta Love](https://open.spotify.com/album/1azeDkXVNXAVUm8L9NhFsC) | 2:52 |
 | 60 | [YARIS](https://open.spotify.com/track/5W3p7nxRGAdKUio87vcTMX) | [Venom](https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr), [TOP BOY](https://open.spotify.com/artist/0jfKK925sgkd5zIBvcPdTF) | [YARIS](https://open.spotify.com/album/5ARxTe3pQsLl4jkUVYtCy0) | 3:05 |
 
-Snapshot ID: `AAAAAL5ZkDqbJX9oYxp7s73PPFN/XPws`
+Snapshot ID: `AAAAALctE6c/qHpJzirMPukEUbfTVuP3`

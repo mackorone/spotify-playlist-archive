@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-168 songs - 8 hr 55 min
+170 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Too Far](https://open.spotify.com/track/6u4QyCtJYymSgcpz3mdaQo) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Ryan Miller](https://open.spotify.com/artist/7vzjsRPzEhuj0RtYS3M2jG) | [Hard Pills and Heartbreak](https://open.spotify.com/album/57xrSx3W5UoMAcBL4Ms6Ua) | 3:11 | 2023-04-21 | 2024-04-19 |
 | [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:56 | 2025-08-22 |  |
 | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/track/6bd26YDDjUM8Zflkb5Nine) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/album/3IYqdJ67ZAPcUZCtCRcqEd) | 3:20 | 2023-09-22 | 2025-05-03 |
+| [All Alone \(My Ball\)](https://open.spotify.com/track/3RRHsLxTiDooIAINANe4t2) | [Austin Martin](https://open.spotify.com/artist/0qfbt2YTNKE9CUK86om6ci) | [All Alone \(My Ball\)](https://open.spotify.com/album/2n1l0rwBTTT2SH2pC4yMOG) | 2:53 | 2025-10-03 |  |
 | [All The Girls Wanna Ride](https://open.spotify.com/track/4u4JqBap9AgXwHMH90pKTl) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Kuntry](https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE) | 3:25 | 2023-03-17 |  |
 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-04 |  |
 | [AMMO](https://open.spotify.com/track/3HcvySOzqlp9isQrORubip) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [AMMO](https://open.spotify.com/album/0DD1qBCTZ3lQN9iazepwsd) | 2:45 | 2025-07-25 |  |
@@ -176,5 +177,6 @@
 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 | 2023-03-17 |  |
 | [Wrangler \- Remix](https://open.spotify.com/track/1XdaU4K4ApkyxnAKHSjOYW) | [Austin Martin](https://open.spotify.com/artist/0qfbt2YTNKE9CUK86om6ci), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [JD Walker](https://open.spotify.com/artist/1nMKpxQJwB2XLxJBOQ1yZ1) | [Wrangler \(Remix\)](https://open.spotify.com/album/0DxgiN80IruX8Po6SZwtfp) | 2:45 | 2025-03-14 |  |
 | [You and Me](https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Ghetto Cowboy](https://open.spotify.com/album/2dTnaecImWLJOMrJgF5HAt) | 4:02 | 2023-03-17 |  |
+| [Z71 \(BOOSTED\) \[feat\. Colt Graves\]](https://open.spotify.com/track/1v5kQnkl0RRDPGEnwOo2Wo) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Z71 \(BOOSTED\) \[feat\. Colt Graves\]](https://open.spotify.com/album/5JGKYXY2nUPqaJLcwZfkTx) | 3:23 | 2025-10-03 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

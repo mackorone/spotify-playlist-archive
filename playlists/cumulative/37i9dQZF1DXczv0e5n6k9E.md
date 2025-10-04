@@ -2,7 +2,7 @@
 
 ### [Hot Greek Rap](https://open.spotify.com/playlist/37i9dQZF1DXczv0e5n6k9E)
 
-> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: FLY LO, TOQUEL
+> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Arab
 
 527 songs - 1 day 0 hr 23 min
 

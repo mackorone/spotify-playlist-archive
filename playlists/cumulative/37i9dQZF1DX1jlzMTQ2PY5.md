@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-244 songs - 17 hr 23 min
+246 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aurora Boreale](https://open.spotify.com/track/4VBf5R5BJ59b83Wn5vEMry) | [4MX](https://open.spotify.com/artist/6aO8YChuRr7mO8UGnS7MX9) | [Aurora Boreale](https://open.spotify.com/album/3Md0O4lkOTUMbKhf3vVh2S) | 5:53 | 2022-01-21 | 2023-02-16 |
 | [Autumn Leaves](https://open.spotify.com/track/0DtH5GJhj04tLmZXgBbZmP) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Autumn Leaves](https://open.spotify.com/album/1lmWypxn13NRgFaoaHR9sx) | 4:38 | 2023-01-25 | 2024-01-17 |
 | [Baby](https://open.spotify.com/track/0DPDSTI0FgwUc8wQHXlIv2) | [Creatures](https://open.spotify.com/artist/6tljTW8rIPfvUFNMs0ibxl) | [Without You EP](https://open.spotify.com/album/0WUEjCjJfafm1RPNvjDPbV) | 4:58 | 2022-01-21 | 2022-07-27 |
+| [Back To The Sun \- Nu: Tone Remix](https://open.spotify.com/track/1TdL6ORhmGZlgEo7sKRdGQ) | [In:Most](https://open.spotify.com/artist/6vRVgeHl41EnFo70a8iYIG), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Back To The Sun \(Nu: Tone Remix\)](https://open.spotify.com/album/54l1KpFSLSG1ItLefwZymo) | 4:11 | 2025-10-03 |  |
 | [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 | 2022-01-21 | 2023-09-18 |
 | [Be Free](https://open.spotify.com/track/1IN6uUcPFY5VcivI0kYbOk) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/3b9wULascUZaxfjb21xoNI) | 3:51 | 2023-01-25 | 2023-09-22 |
 | [Be Free](https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/0ltUWiR0iNHoxJeLHG1qJ8) | 3:51 | 2022-01-21 | 2022-10-15 |
@@ -51,6 +52,7 @@
 | [Clarity](https://open.spotify.com/track/5bgoZIKRGxSbI9JtUBQ7hz) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Clarity](https://open.spotify.com/album/1TVt5DJMvE3wnt83HzefKx) | 4:34 | 2024-01-05 | 2024-08-09 |
 | [Closer](https://open.spotify.com/track/0Afle0K0M8JzzShUV30nXp) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Closer](https://open.spotify.com/album/7s9OGHcBR1ZBk8463p9abU) | 4:35 | 2023-11-17 | 2024-07-05 |
 | [Closer](https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Closer](https://open.spotify.com/album/5YlSfO92YJjjEJWUVMlsUG) | 3:24 | 2022-01-21 | 2023-09-22 |
+| [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 | 2025-10-03 |  |
 | [Come Down](https://open.spotify.com/track/1QsYj5ILdwRstWgCP8LOH0) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Come Down](https://open.spotify.com/album/5FvrHHl0xwpdI7xgaYeaGq) | 3:31 | 2024-07-26 |  |
 | [Constant Reminder](https://open.spotify.com/track/1LbyWN7ws0tQfnGMqAvD55) | [Anile](https://open.spotify.com/artist/4EFQ72yLfJfWI3eEz59fkY), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Constant Reminder](https://open.spotify.com/album/5SvZ9rfiQaxn0jjIsZhYMv) | 5:38 | 2022-06-14 | 2023-11-17 |
 | [Cravings](https://open.spotify.com/track/7eryELTvRgHzLPrIXGuDNk) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Cravings](https://open.spotify.com/album/0Q21VopLplK5NyKQovBBnB) | 4:41 | 2025-05-08 | 2025-05-21 |
@@ -72,7 +74,7 @@
 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 | 2023-01-25 | 2025-07-04 |
 | [Echoes](https://open.spotify.com/track/095kxoz2yvKE4ReO9Ca8yJ) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Echoes](https://open.spotify.com/album/5j1CUdzGgCgKDt8Towax9f) | 3:20 | 2025-08-28 |  |
 | [Echoes](https://open.spotify.com/track/7j5VRc49kSNmdd7XeCrzle) | [MURIX](https://open.spotify.com/artist/0U1eTc8YuSSnGlNycelhTz) | [Echoes](https://open.spotify.com/album/6Y2buQxwS8cV1vg0w77AHU) | 3:22 | 2022-01-21 | 2022-07-29 |
-| [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 | 2024-07-26 |  |
+| [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 | 2024-07-26 | 2025-10-04 |
 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 | 2025-05-08 |  |
 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 | 2022-01-21 | 2024-05-17 |
 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 | 2022-01-21 | 2024-11-15 |
@@ -162,7 +164,7 @@
 | [Nothing Without Your Love](https://open.spotify.com/track/5ZQWZfN28HGrXZmkZeInkG) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Nothing Without Your Love](https://open.spotify.com/album/0sz16rblucgQ1NpmBse1eT) | 4:10 | 2024-01-26 | 2024-11-15 |
 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 | 2025-05-08 |  |
 | [one more time](https://open.spotify.com/track/4hz5KB4ayiYYjSZGtguEfx) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [Milkz0121](https://open.spotify.com/artist/6fgy4cEo36ve9kA1L2aOPN) | [one more time](https://open.spotify.com/album/6EMbSN94bAyHvF3ReDpPA4) | 3:08 | 2024-07-05 | 2025-03-21 |
-| [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 | 2025-02-14 |  |
+| [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 | 2025-02-14 | 2025-10-04 |
 | [Only You](https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Only You](https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8) | 4:34 | 2022-01-21 | 2025-08-30 |
 | [Other Life](https://open.spotify.com/track/0O6QFPXg38fntRhV9NB8ij) | [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR) | [Other Life / Peyote](https://open.spotify.com/album/57Q6AFmiPHaGrp5OW0HLmi) | 6:17 | 2022-06-14 | 2022-07-14 |
 | [Our Scene](https://open.spotify.com/track/1nDiydtfiOXxW7KVeIJv5f) | [Lost Child](https://open.spotify.com/artist/7kDG6Q7Z3fPsrSEZYQyP8D), [MYKOOL](https://open.spotify.com/artist/00pAfh3nHhvVkWf8dl7dCt) | [Our Scene / Confinement](https://open.spotify.com/album/5EGxsNqfghxSZazbykxqnb) | 3:42 | 2022-01-21 | 2022-06-03 |

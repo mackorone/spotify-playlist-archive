@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
-  "num_followers": 52343,
+  "num_followers": 52365,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-10-02 23:00:26",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 229244,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
-    },
-    {
-      "added_at": "2025-10-02 23:00:26",
-      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 202280,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
+    },
+    {
+      "added_at": "2025-10-02 23:00:26",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 229244,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
     },
     {
       "added_at": "2025-10-02 23:00:26",
@@ -695,62 +695,6 @@
     {
       "added_at": "2025-10-02 23:00:26",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2025-10-02 23:00:26",
-      "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "S\u00f3 D\u00e1",
-      "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2025-10-02 23:00:26",
-      "album": {
-        "name": "Fala-me A Verdade",
-        "url": "https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ"
-      },
-      "artists": [
-        {
-          "name": "Bia Caboz",
-          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
-        },
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 172804,
-      "name": "Fala-me A Verdade",
-      "url": "https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC"
-    },
-    {
-      "added_at": "2025-10-02 23:00:26",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -775,6 +719,42 @@
     {
       "added_at": "2025-10-02 23:00:26",
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "S\u00f3 D\u00e1",
+      "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
+    },
+    {
+      "added_at": "2025-10-02 23:00:26",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2025-10-02 23:00:26",
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "added_at": "2025-10-02 23:00:26",
+      "album": {
+        "name": "Fala-me A Verdade",
+        "url": "https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ"
+      },
+      "artists": [
+        {
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
+        },
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 172804,
+      "name": "Fala-me A Verdade",
+      "url": "https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC"
     },
     {
       "added_at": "2025-10-02 23:00:26",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2025-10-02 23:00:26",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2025-10-02 23:00:26",
+      "album": {
         "name": "Wow\u00f3",
         "url": "https://open.spotify.com/album/7hW3od1eNCfIm40UtLCSBP"
       },
@@ -1051,30 +1075,6 @@
       "duration_ms": 181276,
       "name": "J\u00e1 N\u00e3o Aguento",
       "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
-    },
-    {
-      "added_at": "2025-10-02 23:00:26",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Prodigio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
     },
     {
       "added_at": "2025-10-02 23:00:26",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2025-10-02 23:00:26",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr"
+        "name": "Liga Quando A Festa Acabar",
+        "url": "https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G"
       },
       "artists": [
         {
-          "name": "PARD\u00d8",
-          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
-        },
-        {
-          "name": "kaako",
-          "url": "https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx"
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"
+      "duration_ms": 189170,
+      "name": "Liga Quando A Festa Acabar",
+      "url": "https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L"
     },
     {
       "added_at": "2025-10-02 23:00:26",
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2025-10-02 23:00:26",
       "album": {
-        "name": "Liga Quando A Festa Acabar",
-        "url": "https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr"
       },
       "artists": [
         {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        },
+        {
+          "name": "kaako",
+          "url": "https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx"
         }
       ],
-      "duration_ms": 189170,
-      "name": "Liga Quando A Festa Acabar",
-      "url": "https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L"
+      "duration_ms": 155000,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"
     }
   ],
   "unique_name": "Seda",

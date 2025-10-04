@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27625,
+  "num_followers": 27626,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAABRXT2w4HsHYjLIGco6STf",
+  "snapshot_id": "aN3AgAAAAAAsdajRudTsxA1vm9/06m9H",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210783,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Did II",
         "url": "https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 159621,
       "name": "God Did II",
       "url": "https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210783,
-      "name": "Armies",
-      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
     },
     {
       "added_at": null,
@@ -255,22 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keanu's Song",
-        "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
+        "name": "COUNT 'EM / TEAR OFF THE ROOF (REMIXES)",
+        "url": "https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         },
         {
-          "name": "KEANU",
-          "url": "https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 152911,
-      "name": "Keanu's Song",
-      "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
+      "duration_ms": 245133,
+      "name": "COUNT 'EM (REMIX)",
+      "url": "https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax"
     },
     {
       "added_at": null,
@@ -295,22 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNT 'EM / TEAR OFF THE ROOF (REMIXES)",
-        "url": "https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN"
+        "name": "Keanu's Song",
+        "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "KEANU",
+          "url": "https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY"
         }
       ],
-      "duration_ms": 245133,
-      "name": "COUNT 'EM (REMIX)",
-      "url": "https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax"
+      "duration_ms": 152911,
+      "name": "Keanu's Song",
+      "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wholehearted",
         "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 182095,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,

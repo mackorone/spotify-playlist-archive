@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,018 songs - 3 day 13 hr 15 min
+1,019 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-04-21 | 2024-03-27 |
 | [Disko Axiom](https://open.spotify.com/track/34y5Y8P2RLdWOeu976BvTP) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx) | [Disko Axiom](https://open.spotify.com/album/4KLc86nrptyVfg56zeaZEu) | 4:27 | 2021-04-21 | 2022-09-26 |
 | [Distant Memories](https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Distant Memories](https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76) | 4:58 | 2024-05-03 | 2025-01-11 |
+| [Do It Again](https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z) | [Do It Again](https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL) | 3:05 | 2025-10-03 |  |
 | [Don't Care Anymore](https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Don't Care Anymore](https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1) | 6:56 | 2023-08-11 | 2024-04-19 |
 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-09-30 | 2023-06-22 |
 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 | 2023-07-28 | 2024-10-05 |
@@ -1009,7 +1010,7 @@
 | [YAWA \(Man On A Mission\)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0) | [Édel](https://open.spotify.com/artist/71FZZiU3aazM8r1Bm1NkCu), [Zani \(BR\)](https://open.spotify.com/artist/3fbmi6cCWN51a18gaMIKAW) | [YAWA \(Man On A Mission\)](https://open.spotify.com/album/2SsOg3Zq94tH970LaDjah5) | 3:45 | 2024-10-25 | 2025-05-02 |
 | [Yesterday Lovers](https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yesterday Lovers EP](https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD) | 6:35 | 2023-08-18 | 2023-10-08 |
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 | 2022-12-28 |
-| [Yo Voy](https://open.spotify.com/track/2gvNCmPRR79aNcjF4lIwH1) | [TEDDY\-O](https://open.spotify.com/artist/7G1pOSE6cde2iXenQsMMe3), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yo Voy](https://open.spotify.com/album/4iJ2EHvVSXFPeI6p05aVbw) | 2:59 | 2025-05-23 |  |
+| [Yo Voy](https://open.spotify.com/track/2gvNCmPRR79aNcjF4lIwH1) | [TEDDY\-O](https://open.spotify.com/artist/7G1pOSE6cde2iXenQsMMe3), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yo Voy](https://open.spotify.com/album/4iJ2EHvVSXFPeI6p05aVbw) | 2:59 | 2025-05-23 | 2025-10-04 |
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-11 | 2023-07-16 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-05 |  |
 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 | 2024-11-08 |  |

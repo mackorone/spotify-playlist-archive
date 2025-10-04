@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 950574,
+  "num_followers": 950749,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAC3/TJa+XJoWzPi+v9ebGaT",
+  "snapshot_id": "aN3AgAAAAAC02D8nGYVAu7bjhNffXWlg",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
       "artists": [
         {
           "name": "Paramore",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 185733,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+      "duration_ms": 234448,
+      "name": "You First (Re: Remi Wolf)",
+      "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
     },
     {
       "added_at": null,
@@ -171,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Caught Myself",
         "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
       },
@@ -183,22 +203,6 @@
       "duration_ms": 235440,
       "name": "I Caught Myself",
       "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Rose-Colored Boy",
-      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
     },
     {
       "added_at": null,
@@ -235,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -247,22 +267,6 @@
       "duration_ms": 240040,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Caught in the Middle",
-      "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
     },
     {
       "added_at": null,
@@ -295,6 +299,22 @@
       "duration_ms": 206700,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Caught in the Middle",
+      "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
     },
     {
       "added_at": null,
@@ -347,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Monster - Transformers Soundtrack Version",
-      "url": "https://open.spotify.com/track/04BSvYghzdxjSJNpee36er"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -375,6 +379,22 @@
       "duration_ms": 235012,
       "name": "Crave",
       "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Monster - Transformers Soundtrack Version",
+      "url": "https://open.spotify.com/track/04BSvYghzdxjSJNpee36er"
     },
     {
       "added_at": null,
@@ -663,26 +683,6 @@
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Re: This Is Why",
-        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 234448,
-      "name": "You First (Re: Remi Wolf)",
-      "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
     },
     {
       "added_at": null,

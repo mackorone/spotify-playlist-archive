@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-335 songs - 17 hr 14 min
+336 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Happy Times \(Are Here to Stay\)](https://open.spotify.com/track/2z17jBMgPaVHEZNs0fNXAy) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:29 | 2023-12-30 |  |
 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 | 2023-12-30 |  |
 | [Haywood](https://open.spotify.com/track/7E60F1oyjoFq8UGwuhwp7I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 4:46 | 2023-12-30 |  |
-| [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 | 2023-12-30 |  |
+| [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 | 2023-12-30 | 2025-10-04 |
+| [He Hit Me \(It Felt Like a Kiss\)](https://open.spotify.com/track/5TdCUrQdTWZoTSAZH7Pfup) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [He's A Rebel](https://open.spotify.com/album/3yYINO0VYoVcFeiUkEZzUg) | 2:33 | 2025-10-03 |  |
 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 | 2023-12-30 |  |
 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 | 2023-12-30 |  |
 | [He's in Town](https://open.spotify.com/track/6bt4wAVIw1xW7oCt6gXTUy) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [They're in Town](https://open.spotify.com/album/5qpInSEP0qvV8XA6hsQ99i) | 2:39 | 2023-12-30 |  |

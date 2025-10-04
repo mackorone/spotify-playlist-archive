@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ella Red
+> Dark, hard hitting pop\. Cover: Eileen Alister
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,517 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,512 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [House Of Nightmares](https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies \(Deluxe\)](https://open.spotify.com/album/4laGu6PuFAP2GXzRChUoPD) | 2:46 |
 | 75 | [Life's a Bitch](https://open.spotify.com/track/6yvxyNehUgb4qCJKxr6ZkZ) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Life's a Bitch](https://open.spotify.com/album/2kQewJ6EaxftUOnBGLK38d) | 2:53 |
 
-Snapshot ID: `AAAAAGDQg2VwZYi8Univ7l3YiOnyTY3F`
+Snapshot ID: `AAAAACn6DCBmJXtTSUu3XycG5xb49iLx`

@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 71852,
+  "num_followers": 72002,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD36dYLPDaxYno9bBVBlSIMq/EvY",
+  "snapshot_id": "AAAAAHickw4jKhZ/jywA2QZayxdTOHOq",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:43",
@@ -25,6 +25,30 @@
       "url": "https://open.spotify.com/track/0QQ4iDe9bstx2UuRuR3Gxn"
     },
     {
+      "added_at": "2025-10-03 04:00:45",
+      "album": {
+        "name": "Nick Jr. Mix It Up! Vol. 25: Blue\u2019s Clues & You! Nursery Rhymes (The Remixes)",
+        "url": "https://open.spotify.com/album/4z7ZLUasF7L44OG9TWM5ko"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        },
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "duration_ms": 115553,
+      "name": "What Dinosaurs Do In The Morning - Nursery Rhymes Remix",
+      "url": "https://open.spotify.com/track/47gbMS0Bc34tvMHOdu8kgy"
+    },
+    {
       "added_at": "2025-09-26 04:00:43",
       "album": {
         "name": "Peppa Pig Tales Vol. 2",
@@ -39,6 +63,22 @@
       "duration_ms": 124251,
       "name": "Pink!",
       "url": "https://open.spotify.com/track/6D7bjKhhwtdz5eUXB9fUHU"
+    },
+    {
+      "added_at": "2025-10-03 04:00:45",
+      "album": {
+        "name": "Table Made of Wood",
+        "url": "https://open.spotify.com/album/5Cv6xGMFoWNiDORFBWPTPT"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Table Made of Wood",
+      "url": "https://open.spotify.com/track/01MRUkIsLcadAxpUf7RL8s"
     },
     {
       "added_at": "2025-09-26 04:00:43",

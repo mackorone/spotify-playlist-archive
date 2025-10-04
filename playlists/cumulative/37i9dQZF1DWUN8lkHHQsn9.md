@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover:  <a href="spotify:artist:6Vkhs9MXgzLQ88k1rMay1a">Aljas</a>
 
-362 songs - 20 hr 2 min
+363 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Krasnoludki](https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r) | [vgtbl.pl](https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew), [Franek Warzywa](https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9), [Młody Budda](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [Krasnoludki](https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3) | 2:27 | 2025-07-07 |  |
 | [Kreski](https://open.spotify.com/track/0w3f0QDFIz8KMOfD0GtN2t) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [Kreski](https://open.spotify.com/album/7zkNpcdsUm0490h20JpjcL) | 4:22 | 2025-05-12 | 2025-09-01 |
 | [Krzykiem](https://open.spotify.com/track/0Ca5dBpD3Ga8FUrceVDcLq) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Krzykiem](https://open.spotify.com/album/1vy7FZQzS62O06E6emhVyk) | 3:37 | 2021-06-22 | 2022-06-01 |
+| [L.O.K\. Me](https://open.spotify.com/track/4hZ99dvzmC89HvF2uVWq3k) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [L.O.K\. Me](https://open.spotify.com/album/1y0hDdMurikWP3NdOjz2GD) | 2:47 | 2025-09-08 |  |
 | [Lalki](https://open.spotify.com/track/5WmMPLNk8ZXkKtUMLjwVn8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Lalki](https://open.spotify.com/album/3AL29eJQHfQWUseAXlpkH1) | 3:19 | 2024-11-11 | 2025-05-13 |
 | [Le$bijka](https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Le$bijka](https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2) | 2:49 | 2023-03-17 | 2024-05-23 |
 | [les roses noires](https://open.spotify.com/track/22GboJxbPd0ifja8gUQflF) | [Madox](https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN) | [ÉCHO](https://open.spotify.com/album/6T3TiVHvEfu7Oz8pjieI95) | 4:39 | 2024-08-12 | 2024-10-16 |
@@ -221,7 +222,7 @@
 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 | 2021-06-22 | 2025-03-02 |
 | [Ostatni Raz](https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Ostatni Raz](https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ) | 2:57 | 2025-05-12 |  |
 | [Ostatnia piosenka o tobie](https://open.spotify.com/track/4AKCYZw3cILC41qQmm8LiR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Ostatnia piosenka o tobie](https://open.spotify.com/album/45qbG2EnDCUWNJ3Greaowm) | 4:09 | 2021-06-22 | 2022-06-01 |
-| [Palo Santo](https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Palo Santo](https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP) | 2:59 | 2024-01-08 |  |
+| [Palo Santo](https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Palo Santo](https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP) | 2:59 | 2024-01-08 | 2025-10-04 |
 | [Pani Baudelaire](https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Pani Baudelaire](https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6) | 2:57 | 2024-09-09 | 2025-09-18 |
 | [Pani Baudelaire \- Maryolkah Remix](https://open.spotify.com/track/7bc3WVMcv3C5yz1uTYfOd4) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Maryolkah](https://open.spotify.com/artist/1bKlNqbreTApAqJCvR1ghu), [Zgonia](https://open.spotify.com/artist/5YuN4yVeTlqRa09jX4X81W), [ruskie kotki](https://open.spotify.com/artist/2sgqhCWYTfaOZ2TYOU6qco), [Pati patusiara](https://open.spotify.com/artist/1UdlpCSA5tmgmvcU8adYbt) | [Pani Baudelaire \(Maryolkah Remix\)](https://open.spotify.com/album/6aFikjxl82uRazcDv6jJHr) | 3:44 | 2025-07-07 |  |
 | [ParaBellum](https://open.spotify.com/track/1KDVkxcEs0vXugw2z1he1O) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Aleksandra Zawłocka](https://open.spotify.com/artist/2I7mFrUtlJgCi6sSC4unfn) | [ParaBellum](https://open.spotify.com/album/2SqkDexsELrjHsWO4T8vVV) | 2:49 | 2025-08-11 |  |

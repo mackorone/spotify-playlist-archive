@@ -1,13 +1,109 @@
 {
-  "description": "New jazz for open minds. Cover: Theo Croker",
-  "num_followers": 950064,
+  "description": "New jazz for open minds. Cover: Alfa Mist",
+  "num_followers": 949996,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFaph5Z5qEgmCurgv4iIGGyI3CaE",
+  "snapshot_id": "AAAAAB1c5zlD2K36fx1hX3OwYiIv+p/l",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:47",
+      "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Always Be (feat. Kaya Thomas-Dyke)",
+      "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
+    },
+    {
+      "added_at": "2025-10-03 04:00:47",
+      "album": {
+        "name": "Chimera",
+        "url": "https://open.spotify.com/album/6MnTBi8clwKpzVIh90gh1C"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 494210,
+      "name": "Chimera",
+      "url": "https://open.spotify.com/track/1XogWC6SnTVPprpukrIuaC"
+    },
+    {
+      "added_at": "2025-10-03 04:00:47",
+      "album": {
+        "name": "Not Everyone Can Go",
+        "url": "https://open.spotify.com/album/4jUKff1VTnTtJ9b8SvIdXS"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Joshua Crumbly",
+          "url": "https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4"
+        }
+      ],
+      "duration_ms": 234829,
+      "name": "Josh\u2019s Tune",
+      "url": "https://open.spotify.com/track/5OzC1n0Czw35F91egvBw76"
+    },
+    {
+      "added_at": "2025-10-03 04:00:47",
+      "album": {
+        "name": "HOURS:AFTER",
+        "url": "https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 230044,
+      "name": "HOURS:AFTER",
+      "url": "https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE"
+    },
+    {
+      "added_at": "2025-10-03 04:00:47",
+      "album": {
+        "name": "For Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/0K10SUnHnwWjpmBBbzeDwU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 294504,
+      "name": "For Mar\u00eda Jos\u00e9",
+      "url": "https://open.spotify.com/track/4zZ48K58R61teDDRJsPTPb"
+    },
     {
       "added_at": "2025-09-26 04:00:07",
       "album": {
@@ -169,30 +265,6 @@
       "url": "https://open.spotify.com/track/7a7rZUp3doRbHOyfH8Bpyu"
     },
     {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "Waves Upon Waves",
-        "url": "https://open.spotify.com/album/10dUOInnYlDRMMFu3I0kDq"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 459667,
-      "name": "Waves Upon Waves",
-      "url": "https://open.spotify.com/track/4zmpoLyjcNudj0LcNw6e5k"
-    },
-    {
       "added_at": "2025-09-19 04:16:20",
       "album": {
         "name": "Form Before Meaning",
@@ -327,22 +399,6 @@
       "duration_ms": 457133,
       "name": "Flight",
       "url": "https://open.spotify.com/track/4vzN724NkFTS9OLH3sn3fK"
-    },
-    {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "Dersen Cafe & Give Nothing",
-        "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "Dersen Cafe",
-      "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
     },
     {
       "added_at": "2025-09-19 04:16:20",
@@ -519,22 +575,6 @@
       "duration_ms": 280616,
       "name": "The White Lady Loves You More",
       "url": "https://open.spotify.com/track/4sXssVKPjxK0RBo27apLpu"
-    },
-    {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
-        "name": "Not Everyone Can Go",
-        "url": "https://open.spotify.com/album/4jUKff1VTnTtJ9b8SvIdXS"
-      },
-      "artists": [
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/06LGJKqpFUcIGDtS5ITAU6"
     },
     {
       "added_at": "2025-08-29 04:00:27",
@@ -1089,26 +1129,6 @@
       "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
     },
     {
-      "added_at": "2025-03-28 04:00:37",
-      "album": {
-        "name": "Unwind [Feat. Melanie Charles]",
-        "url": "https://open.spotify.com/album/2jWjJILBlCqfA2PCPgZNPQ"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Melanie Charles",
-          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Unwind [Feat. Melanie Charles]",
-      "url": "https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b"
-    },
-    {
       "added_at": "2025-04-11 04:00:21",
       "album": {
         "name": "Lazarus (Adult Swim Original Series Soundtrack)",
@@ -1455,30 +1475,6 @@
       "duration_ms": 184906,
       "name": "Bonita's Place",
       "url": "https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza"
-    },
-    {
-      "added_at": "2025-03-28 04:00:37",
-      "album": {
-        "name": "Be Brave",
-        "url": "https://open.spotify.com/album/5utV3tb2HnYDZzH38y1dLs"
-      },
-      "artists": [
-        {
-          "name": "Gilad Hekselman",
-          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
-        },
-        {
-          "name": "Larry Grenadier",
-          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
-        },
-        {
-          "name": "Marcus Gilmore",
-          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
-        }
-      ],
-      "duration_ms": 354466,
-      "name": "Be Brave",
-      "url": "https://open.spotify.com/track/3ugn84J9wMAFPq3TY9Xg7u"
     },
     {
       "added_at": "2025-04-04 04:00:20",

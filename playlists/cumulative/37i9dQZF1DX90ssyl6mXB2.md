@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: 4batz
+> late night vibes – notifications off\. cover:  Chase Shakur
 
-259 songs - 11 hr 56 min
+264 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [GET YA MONEY](https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:20 | 2025-05-02 |  |
 | [GIVE IN](https://open.spotify.com/track/77ZLQIBY47Zo3RME1WJVud) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [GIVE IN](https://open.spotify.com/album/01aVCkXyMXelikQQBPAjZq) | 2:47 | 2024-03-15 | 2024-10-19 |
 | [Give It Up 2 Me](https://open.spotify.com/track/4BfFxN1BAS47r9OhNyWiEE) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Give It Up 2 Me](https://open.spotify.com/album/3a9bUK2pj3dgUENncg1i3o) | 2:58 | 2024-02-02 | 2024-07-06 |
+| [go](https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [go](https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm) | 2:22 | 2025-10-03 |  |
 | [GOD SAVE ME](https://open.spotify.com/track/2NT7gHrp79ZUwoOsboZt0L) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [GOD SAVE ME](https://open.spotify.com/album/7KB7YRERq3w0VE7896lx6r) | 2:49 | 2025-09-19 |  |
 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
 | [Handstand](https://open.spotify.com/track/7d8JbC6QfJouRyVUXzt5mg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Handstand](https://open.spotify.com/album/2Fz1ONkQVqZg081Xk9ORwK) | 0:57 | 2025-08-22 |  |
@@ -161,9 +162,11 @@
 | [NEGLIGENT](https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NEGLIGENT](https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU) | 3:24 | 2024-03-08 | 2024-07-06 |
 | [NEGLIGENT \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/track/7sQJS5X1f74xaY8BX8Bm6v) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [NEGLIGENT \(Remix\)](https://open.spotify.com/album/3Kv2NnN9EHNhw4hW1eLgYX) | 3:15 | 2024-07-05 |  |
 | [Never Had This \(feat\. Vory\)](https://open.spotify.com/track/3xXTpfoDm9sLx4WzuV47XA) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:53 | 2024-02-02 | 2025-07-26 |
+| [News](https://open.spotify.com/track/3W5gASBQIeEyhkVLNpuK6n) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [News](https://open.spotify.com/album/3pXZd0WkaZDJ4Hq2ILWNnb) | 3:16 | 2025-10-03 |  |
 | [nite](https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me..\. it's love](https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9) | 2:23 | 2024-02-02 | 2025-09-20 |
 | [nLuv](https://open.spotify.com/track/0PHlDvTlegGSNwr2VXzBv0) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [nLuv](https://open.spotify.com/album/1UJRzRCQ2vYrhCXzkmRtoh) | 1:47 | 2024-02-02 | 2025-03-22 |
 | [No Cares](https://open.spotify.com/track/7efe84XgsSB5zjcW4IpgfG) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 1:51 | 2025-03-07 |  |
+| [No Contest](https://open.spotify.com/track/2aC3ZELwliJI0vOjIjBB2G) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:51 | 2025-10-03 |  |
 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 | 2024-02-02 | 2024-03-30 |
 | [Not Mine](https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI) | [Tona Glover](https://open.spotify.com/artist/0MnMT3Q8i2O43b73SLANwT) | [Not Mine](https://open.spotify.com/album/66gGdAHsqcdYrVjQOFrJcG) | 2:29 | 2024-10-18 | 2025-09-20 |
 | [NOT THE ONE](https://open.spotify.com/track/5odrgttxGTjodGqpIc4Kqr) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NOT THE ONE](https://open.spotify.com/album/6gS1GTD1AAKREG85KdJcQd) | 2:40 | 2024-11-22 |  |
@@ -200,6 +203,7 @@
 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 | 2024-04-26 | 2025-09-20 |
 | [SAVIOR](https://open.spotify.com/track/1AdFpWand1DPxlprhkOxPy) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [SAVIOR](https://open.spotify.com/album/6SZGguUQ3ddoyJgusvfPXl) | 3:01 | 2024-08-30 |  |
 | [SEARCHING](https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [SEARCHING](https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX) | 2:30 | 2025-03-28 |  |
+| [seeing red](https://open.spotify.com/track/4Ju7XGhJWfA3a9CkoUBVwA) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [seeing red](https://open.spotify.com/album/0dOSRsraRPHIz9L26N7Kez) | 2:38 | 2025-10-03 |  |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 |  |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 | 2024-10-19 |
@@ -211,6 +215,7 @@
 | [Soul On Fire](https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Soul On Fire](https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK) | 2:13 | 2024-10-25 |  |
 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 | 2025-01-17 |  |
 | [SPIDER\-MAN SUPERMAN](https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:23 | 2025-02-14 |  |
+| [Star Signs](https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 3:24 | 2025-10-03 |  |
 | [stasis](https://open.spotify.com/track/2GkcJZGxfxSw0vaQnnJzdi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:27 | 2025-01-24 |  |
 | [Stay Gold](https://open.spotify.com/track/4bpuF6xenrFjMLA9tfKuc7) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:37 | 2024-04-05 |  |
 | [Stay With Me](https://open.spotify.com/track/56Ac1BrsemrOOqqC9Zkysb) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Stay With Me](https://open.spotify.com/album/1Z8nPCiVOjdyOq6mWon9fl) | 3:04 | 2025-04-04 |  |

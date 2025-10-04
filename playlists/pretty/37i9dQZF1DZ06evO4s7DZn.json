@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 8974,
+  "num_followers": 8976,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAABgpW9f8FIOWnYKoIOO2X9v",
+  "snapshot_id": "aN3AgAAAAACdUmLEP7+AfzhVV/wcLZJj",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Las G\u00fcilotas",
+        "url": "https://open.spotify.com/album/74O2rATZ2x2ZgTxHa8ptm1"
       },
       "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
         {
           "name": "Banda Rafaga",
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 156013,
-      "name": "La Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
+      "duration_ms": 171136,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/6xDXuW6nmboGxfJnxomD3U"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las G\u00fcilotas",
-        "url": "https://open.spotify.com/album/74O2rATZ2x2ZgTxHa8ptm1"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
         {
           "name": "Banda Rafaga",
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 171136,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/6xDXuW6nmboGxfJnxomD3U"
+      "duration_ms": 156013,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 137493,
-      "name": "De Que Me Sirve",
-      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
+      "duration_ms": 172826,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/7vwSOJwTlaUcXdtHr1lQhp"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 172826,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/7vwSOJwTlaUcXdtHr1lQhp"
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
     },
     {
       "added_at": null,

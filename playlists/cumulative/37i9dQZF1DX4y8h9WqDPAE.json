@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Eric Bellinger",
+  "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Karri & Kehlani",
   "name": "Channel-X",
   "tracks": [
     {
@@ -1508,6 +1508,24 @@
       "duration_ms": 177796,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y"
+    },
+    {
+      "album": {
+        "name": "Aye Girl",
+        "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114838,
+      "name": "Aye Girl",
+      "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
     },
     {
       "album": {
@@ -5698,7 +5716,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
@@ -7921,6 +7939,28 @@
     },
     {
       "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142768,
+      "name": "go",
+      "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
+    },
+    {
+      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -9470,6 +9510,24 @@
       "duration_ms": 175748,
       "name": "I Might (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT"
+    },
+    {
+      "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
     },
     {
       "album": {
@@ -16076,7 +16134,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 182647,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7wEUHazZLsFM06jD9Ojflq"
@@ -20080,7 +20138,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 192449,
       "name": "tell me why",
       "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"

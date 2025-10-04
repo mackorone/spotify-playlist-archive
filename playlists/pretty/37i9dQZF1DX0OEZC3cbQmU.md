@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,818 likes - 75 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,053 likes - 75 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Ele é Exaltado \- Acústico](https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Lukas Agustinho \(Acústico\)](https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b) | 2:19 |
 | 75 | [Eu Quero Ser Grato](https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Eu Quero Ser Grato](https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0) | 3:12 |
 
-Snapshot ID: `AAAAAGUm8qkTjZ1yLyaFRwaV9pvjkbP/`
+Snapshot ID: `AAAAAFhJ1FS26FrzurjwI7SlXdl2rGvm`

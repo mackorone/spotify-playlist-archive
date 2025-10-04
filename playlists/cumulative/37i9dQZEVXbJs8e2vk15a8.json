@@ -11915,6 +11915,24 @@
     },
     {
       "album": {
+        "name": "CHILESCOTA",
+        "url": "https://open.spotify.com/album/59RSermXXf5giWtju9piNn"
+      },
+      "artists": [
+        {
+          "name": "Renaglock",
+          "url": "https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "CHILESCOTA",
+      "url": "https://open.spotify.com/track/1lGgFaEcySfA4xhqd8rZs0"
+    },
+    {
+      "album": {
         "name": "CHINGON",
         "url": "https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe"
       },
@@ -16000,7 +16018,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 180000,
       "name": "DEJA QUE EL MUNDO SE ACABE",
       "url": "https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT"
@@ -23046,7 +23064,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 165750,
       "name": "Fideo Fidel",
       "url": "https://open.spotify.com/track/6RaA7oObOjMzfMDO33oQzy"
@@ -36714,7 +36732,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -45962,7 +45980,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 166956,
       "name": "Otra Nota",
       "url": "https://open.spotify.com/track/5eNnDaOfCivugB1sGkxxer"
@@ -70964,7 +70982,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"

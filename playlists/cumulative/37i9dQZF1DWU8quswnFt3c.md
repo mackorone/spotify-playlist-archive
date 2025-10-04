@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Alice Phoebe Lou
 
-2,634 songs - 6 day 1 hr 50 min
+2,635 songs - 6 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Bahagiakan Dia](https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X), [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Bahagiakan Dia](https://open.spotify.com/album/7bGFqrSeIEOqnljdDI4EVJ) | 3:21 | 2022-08-03 | 2022-09-09 |
 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 | 2023-03-01 | 2023-04-06 |
 | [Baila Conmigo](https://open.spotify.com/track/5Ypzuth3LKAVgMljAoNfP4) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Ole Lorelei](https://open.spotify.com/album/6HjTgcJIUZgyyVJYwn1SQ7) | 4:10 | 2023-10-11 | 2023-11-30 |
-| [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 | 2025-08-06 |  |
+| [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 | 2025-08-06 | 2025-10-04 |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-04-06 | 2022-08-04 |
 | [Balance](https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Balance](https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz) | 2:56 | 2022-09-07 | 2023-01-05 |
 | [Balance](https://open.spotify.com/track/28snZVeMwzYdolW7h1wpHb) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-01-04 | 2023-02-02 |
@@ -1071,6 +1071,7 @@
 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 | 2023-02-01 | 2023-03-02 |
 | [Insônia \- Ao Vivo](https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Insônia \(Ao vivo\)](https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9) | 3:01 | 2022-09-07 | 2023-01-05 |
 | [Internet Love](https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Internet Love](https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB) | 3:39 | 2023-11-08 | 2023-11-16 |
+| [Intimacid](https://open.spotify.com/track/3pphZUFExvnniRhT3FGLZC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Intimacid](https://open.spotify.com/album/60A0CbsSR2NfbckN1uUic7) | 2:17 | 2025-10-01 |  |
 | [Into My Novela](https://open.spotify.com/track/3zu6VYIVqAIsSEQtG729qC) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [Loren Oden](https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 3:56 | 2024-05-20 | 2024-06-06 |
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-10-04 | 2023-11-17 |
 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 | 2025-07-02 | 2025-09-04 |
@@ -1137,7 +1138,7 @@
 | [Kamu Kurang Usaha](https://open.spotify.com/track/2i5RTxltb0Bhn5fcXpqU7M) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/0CmomGvxqIOhb7PDcBPkNL) | 4:45 | 2023-11-08 | 2023-11-30 |
 | [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 | 2024-07-03 | 2025-01-09 |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-05-02 | 2024-05-16 |
-| [Karma](https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Karma](https://open.spotify.com/album/2TrO5yFPGmv1C3QWJcgnkE) | 2:11 | 2025-08-06 |  |
+| [Karma](https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Karma](https://open.spotify.com/album/2TrO5yFPGmv1C3QWJcgnkE) | 2:11 | 2025-08-06 | 2025-10-04 |
 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 | 2025-06-04 | 2025-07-03 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-10-04 | 2022-11-03 |
 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 | 2025-01-08 | 2025-03-20 |
@@ -1326,7 +1327,7 @@
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-03-06 | 2025-01-09 |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2023-10-04 | 2024-11-07 |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2025-09-03 | 2025-09-18 |
-| [Love You Still \(Sunset Version\)](https://open.spotify.com/track/2dVS6UwfGNzzg0AcCV7eLU) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Signature \(Collection\)](https://open.spotify.com/album/0eJ9FlukEoN2iyagyk81VI) | 5:09 | 2025-09-17 | 2025-10-02 |
+| [Love You Still \(Sunset Version\)](https://open.spotify.com/track/2dVS6UwfGNzzg0AcCV7eLU) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Signature \(Collection\)](https://open.spotify.com/album/0eJ9FlukEoN2iyagyk81VI) | 5:09 | 2025-09-17 |  |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-07 | 2022-10-05 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2024-10-16 | 2024-11-07 |
 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 | 2025-08-22 | 2025-09-04 |

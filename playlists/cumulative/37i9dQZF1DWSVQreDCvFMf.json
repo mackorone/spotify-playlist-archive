@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/5WYGOOF3zdLONasoodO2Ic"
+      },
+      "artists": [
+        {
+          "name": "ysabelle",
+          "url": "https://open.spotify.com/artist/6dNoiei43MgIz6y3h4nyGE"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182079,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/1flurBH9LWpbctpKlEaI6n"
+    },
+    {
+      "album": {
         "name": "7:07 (Hay Buhay)",
         "url": "https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn"
       },
@@ -222,7 +240,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 257910,
       "name": "Ahon",
       "url": "https://open.spotify.com/track/2ZNUhyHeCLzwKLBMH0m48Y"
@@ -2385,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "First Luv",
+        "url": "https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176753,
+      "name": "First Luv",
+      "url": "https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP"
+    },
+    {
+      "album": {
         "name": "FLYING KISS",
         "url": "https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA"
       },
@@ -3106,7 +3142,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 291723,
       "name": "Hele",
       "url": "https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 219500,
       "name": "Hingalo",
       "url": "https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka"
@@ -3566,6 +3602,24 @@
       "duration_ms": 249142,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/5qrjL6IfWM5nWERpxn2M0B"
+    },
+    {
+      "album": {
+        "name": "Ikaw",
+        "url": "https://open.spotify.com/album/41jtxGqmlrlUqOl627HmvJ"
+      },
+      "artists": [
+        {
+          "name": "JC Herrero",
+          "url": "https://open.spotify.com/artist/5lsFhJDZsBRdTpm2aL4sRp"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208295,
+      "name": "Ikaw",
+      "url": "https://open.spotify.com/track/38KbpxXHaVIFApcm1M7nHR"
     },
     {
       "album": {
@@ -4049,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Kapag Umuulan",
+        "url": "https://open.spotify.com/album/77Vm6TNKJRAubRoV9I1Vts"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204105,
+      "name": "Kapag Umuulan",
+      "url": "https://open.spotify.com/track/1EEJpwlHs0VGsdiftN3MbX"
+    },
+    {
+      "album": {
         "name": "Pebble House, Vol. 1: Kuwaderno",
         "url": "https://open.spotify.com/album/0UeeygFdIo8k7PgxpLEGWI"
       },
@@ -4328,6 +4400,28 @@
       "duration_ms": 210755,
       "name": "Kulimlim",
       "url": "https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af"
+    },
+    {
+      "album": {
+        "name": "Kumilos (feat. Higit Sa Pag-Ibig, The Musical)",
+        "url": "https://open.spotify.com/album/34fuQMn9RP6OlRMfd0eeFW"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        },
+        {
+          "name": "Higit sa Pag-ibig, the Musical",
+          "url": "https://open.spotify.com/artist/1ZqnECzENAXxqeQFwyokd6"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225260,
+      "name": "Kumilos (feat. Higit Sa Pag-Ibig, The Musical)",
+      "url": "https://open.spotify.com/track/05d53lbB2w11HDe55vGDs2"
     },
     {
       "album": {
@@ -7569,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/6WLO6WeqXtqGplqP2R8jhP"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227363,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/2fRBGvmTf9d7W1pMhyXgn0"
+    },
+    {
+      "album": {
         "name": "PNYT",
         "url": "https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5"
       },
@@ -8867,6 +8979,24 @@
     },
     {
       "album": {
+        "name": "Sulyap",
+        "url": "https://open.spotify.com/album/5yC33EFQQMM6oSUltuvBYp"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Sulyap",
+      "url": "https://open.spotify.com/track/0k1bhzpUq3Ol9B2paSDEaK"
+    },
+    {
+      "album": {
         "name": "Sumaya",
         "url": "https://open.spotify.com/album/6X6Fi3AhXGkxvHUoVgx7uh"
       },
@@ -8900,6 +9030,24 @@
       "duration_ms": 236500,
       "name": "Sumayaw Tayo",
       "url": "https://open.spotify.com/track/4UH0gVeeAeH3OyVhHJwckC"
+    },
+    {
+      "album": {
+        "name": "Sumpa",
+        "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Sumpa",
+      "url": "https://open.spotify.com/track/53TEymid26RSQwfL3UrYru"
     },
     {
       "album": {

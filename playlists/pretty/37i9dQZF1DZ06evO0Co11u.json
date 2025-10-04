@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 195082,
+  "num_followers": 195105,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAC+Wt+w3AvZpgRPeUVlUWqK",
+  "snapshot_id": "aN3AgAAAAADH1e11aeUiFTQynqTitXUp",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Can Anyone Explain?",
-      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
+      "duration_ms": 204333,
+      "name": "(When We Are Dancin') I Get Ideas - Single Version",
+      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 204333,
-      "name": "(When We Are Dancin') I Get Ideas - Single Version",
-      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
+      "duration_ms": 191360,
+      "name": "Can Anyone Explain?",
+      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
     },
     {
       "added_at": null,
@@ -667,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver & His Orchestra",
+          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
+      "duration_ms": 190133,
+      "name": "Cold Cold Heart",
+      "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver & His Orchestra",
-          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Cold Cold Heart",
-      "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
+      "duration_ms": 221173,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
     },
     {
       "added_at": null,

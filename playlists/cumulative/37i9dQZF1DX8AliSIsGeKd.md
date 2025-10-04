@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: TH;EN
 
-5,949 songs - 20 day 16 hr 33 min
+5,949 songs - 20 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Abidos](https://open.spotify.com/track/4SWIbyF0PCdc8S8Q3u3UTv) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn) | [Abidos](https://open.spotify.com/album/7eExGeyD8PxIgh5IWLujHN) | 5:56 | 2024-04-25 | 2024-05-03 |
 | [About Love \- Kadosh Remix](https://open.spotify.com/track/0RiBPTf94I0tATDNCmHf48) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Speakwave](https://open.spotify.com/artist/2Rn9AHu76qqn3BTSEkdm9Y), [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W) | [About Love \(Kadosh Remix\)](https://open.spotify.com/album/5SW43YqROwX3lOhpPRFGZg) | 5:13 | 2024-02-22 | 2024-03-08 |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 | 2022-05-27 |
+| [About the Fox and a Tiger](https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [About the Fox and a Tiger](https://open.spotify.com/album/2jyPMzpXk0PPcjCaPmmND8) | 5:50 | 2025-10-02 |  |
 | [About the World](https://open.spotify.com/track/5Ma7KR24auS3tRpr2v7TUU) | [Beth Lydi](https://open.spotify.com/artist/2JkUSYrh0wdhIvdil0uAhJ) | [About the World](https://open.spotify.com/album/3nfU5B8g3ptWrjSdo76cV7) | 3:34 | 2023-08-17 | 2023-09-01 |
 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 | 2025-05-22 | 2025-06-13 |
 | [About You](https://open.spotify.com/track/2don7eF2hwHssLYDJcg9Yd) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Sayo EP](https://open.spotify.com/album/0PnS7YDXmt2qRdLU1RbdSV) | 6:42 | 2022-09-16 | 2022-09-23 |
@@ -5355,7 +5356,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 2](https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Train to Utogi](https://open.spotify.com/track/14wCCWEzzUsjRl8BPosbPc) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Wasabi Syndrome](https://open.spotify.com/album/1iFX3SJw4IfpLzIb8YMrhh) | 6:22 | 2023-04-20 | 2023-05-05 |
@@ -5906,7 +5906,7 @@
 | [You Run](https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [You Run](https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD) | 5:54 | 2022-08-12 | 2022-09-02 |
 | [You Said No](https://open.spotify.com/track/7ys8pYoFuFocTLF6ng80vK) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [You Said No](https://open.spotify.com/album/0tw0AB7jgkvyBMQHN1YLP4) | 3:39 | 2023-12-14 | 2024-01-19 |
 | [You Want This](https://open.spotify.com/track/22bTukupwvCWePqS9aGhTb) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I), [Nevlin](https://open.spotify.com/artist/4r3FAXZBP4X0unv8oRTgSp) | [You Want This](https://open.spotify.com/album/3Ac6kfx5UiODlBPpvnuhl2) | 4:28 | 2023-10-20 | 2023-11-03 |
-| [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:36 | 2025-10-02 |  |
+| [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 | 2025-10-02 |  |
 | [You're Gonna](https://open.spotify.com/track/0WYptbRbh64wDRvFz3CzIb) | [6sept](https://open.spotify.com/artist/1Dr9cWCoepl93DSYaiPQHs) | [You're Gonna](https://open.spotify.com/album/2IS8wP1sVxaqVVC0ftZfHd) | 2:28 | 2024-10-03 | 2024-10-25 |
 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 | 2024-02-29 | 2024-03-22 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-04-21 | 2022-05-13 |

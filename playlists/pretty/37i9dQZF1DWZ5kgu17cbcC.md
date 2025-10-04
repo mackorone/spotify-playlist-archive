@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Chad Powers, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,242 likes - 104 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,224 likes - 104 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 | 103 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 |
 | 104 | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \(From "She Taught Love"\)](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 |
 
-Snapshot ID: `AAAAAF3Elzr5nn8TblNuV8La9KCji9js`
+Snapshot ID: `AAAAAHZBKp2GH0m/FwuavOWapPWaMClw`

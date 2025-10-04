@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Cate Le Bon
 
-381 songs - 1 day 0 hr 42 min
+382 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Mad Catch](https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Glutton For Punishment](https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT) | 3:10 | 2025-02-07 | 2025-03-28 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-31 |  |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-18 |  |
-| [many lives](https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [many lives](https://open.spotify.com/album/6YcGqNo2BKJBs5uiRRI8f1) | 3:01 | 2025-06-06 |  |
+| [many lives](https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [many lives](https://open.spotify.com/album/6YcGqNo2BKJBs5uiRRI8f1) | 3:01 | 2025-06-06 | 2025-10-04 |
 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 | 2024-06-14 | 2024-07-20 |
 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-30 | 2025-08-29 |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-06-14 | 2024-08-14 |
@@ -384,6 +384,7 @@
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-14 | 2024-08-28 |
 | [World on a String](https://open.spotify.com/track/2DrvOkDbR6GEzBdMTnYBqg) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/6jA0g1Eoa6rRidu501dcJb) | 3:09 | 2024-06-14 | 2024-07-12 |
 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 | 2025-06-20 |  |
+| [Wreck](https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Neon Grey Midnight Green](https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU) | 3:10 | 2025-10-02 |  |
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-10-06 |  |
 | [You Don't Even Need It](https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Burn The Right Things Down](https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2) | 3:16 | 2024-10-17 | 2025-01-31 |
 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-06-14 | 2024-10-07 |

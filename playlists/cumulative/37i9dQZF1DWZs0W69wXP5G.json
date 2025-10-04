@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover:  Ariana Grande ",
+  "description": "Everything Broadway-adjacent. Cover:  Jennifer Lopez",
   "name": "Off Broadway",
   "tracks": [
     {
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 297896,
       "name": "On With the Show",
       "url": "https://open.spotify.com/track/17hoHWF02vMasn0iWhOKSY"
@@ -3969,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "The Constant",
+        "url": "https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "The Constant",
+      "url": "https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD"
+    },
+    {
+      "album": {
         "name": "The First Time Ever I Saw Your Face (with Hozier)",
         "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
       },
@@ -4722,10 +4740,32 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 202977,
       "name": "Where Do I Go From You? (with Josh Groban) - from the musical, Beba's Mambo",
       "url": "https://open.spotify.com/track/4DeOSZwYtLqRDA07gJCPib"
+    },
+    {
+      "album": {
+        "name": "Kiss of the Spider Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Tonatiuh",
+          "url": "https://open.spotify.com/artist/21sCCId36uv35Nqk72EzK2"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280070,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/7xc0n2E5blIA8yeObf69uT"
     },
     {
       "album": {

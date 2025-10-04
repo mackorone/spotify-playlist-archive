@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Ralph Kaminski
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,967 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,994 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 19 | [co to? Miłość](https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [polecie](https://open.spotify.com/album/7b7qFH044TgbZhOhpcQc8f) | 2:49 |
 | 20 | [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 |
 | 21 | [idealny](https://open.spotify.com/track/24QfHaA4Z7tb550oCGyKah) | [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [idealny](https://open.spotify.com/album/2u6tjr3f9PdYPrRuYXvAiM) | 4:42 |
-| 22 | [witaj, powiedz](https://open.spotify.com/track/6oYXTAfUAC4XNrva2XRahP) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [](https://open.spotify.com/album/null) | 2:47 |
+| 22 | [witaj, powiedz](https://open.spotify.com/track/6oYXTAfUAC4XNrva2XRahP) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [witaj, powiedz](https://open.spotify.com/album/0cCuRw3GmNvdVTYhpdSEYO) | 2:47 |
 | 23 | [Zawzięcie \- 2025](https://open.spotify.com/track/7wbjn02KkhT9Lhx25ERDqq) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Zawzięcie \(2025\)](https://open.spotify.com/album/3AKFPr1lAfyMoGA02tOcsQ) | 3:33 |
 | 24 | [2k19](https://open.spotify.com/track/5BoX7Iby2WPJvmw4aL0mqY) | [Michał Kisielewski](https://open.spotify.com/artist/0fi8unZHAE9dNVsLhFIttc) | [2k19](https://open.spotify.com/album/5L0ihUkE8JG3Mk101jsoQ2) | 2:32 |
 | 25 | [matka słońca](https://open.spotify.com/track/4uU49hCSLn7J7iZ5KKhTRt) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [od serca do powiek](https://open.spotify.com/album/2JJlgbOu8XStf7QiwRV5WY) | 3:57 |

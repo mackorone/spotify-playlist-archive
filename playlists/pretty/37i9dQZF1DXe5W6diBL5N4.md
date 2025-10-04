@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: izna\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,003 likes - 111 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,204 likes - 111 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 110 | [Tell me](https://open.spotify.com/track/2E4Z5imTjZDMAIrXsfXSZS) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Tell me](https://open.spotify.com/album/0teL9CDkCXRgvLgUFGQ55B) | 3:38 |
 | 111 | [I meet you who are infinitely beautiful](https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I meet you who are infinitely beautiful](https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO) | 4:07 |
 
-Snapshot ID: `AAAAAKZkTsR4yYgCshzIGacOlU/Ms+qd`
+Snapshot ID: `AAAAAJGKsbC+qUAVcJfxHnBuJ+C3srFP`

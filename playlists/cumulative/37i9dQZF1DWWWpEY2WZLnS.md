@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-393 songs - 18 hr 52 min
+394 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Chupable](https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chikybombom La Pantera](https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chupable](https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb) | 2:57 | 2021-11-19 | 2023-03-11 |
 | [Cintureo \- Remix](https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Cintureo \(Remix\)](https://open.spotify.com/album/4vXmy6wJi0L1Yc9ybulXqk) | 2:44 | 2023-11-28 |  |
 | [Claro Que Sí](https://open.spotify.com/track/3f1XDZ7EwQv62eDGHygmdf) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Claro Que Sí](https://open.spotify.com/album/2cfGH1DMwK3gU4UwCxEwkT) | 2:40 | 2022-03-18 | 2023-06-28 |
-| [COMO TE CONTE](https://open.spotify.com/track/1MbN7WXNGp1ckPmY2TTq2c) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 1:51 | 2025-08-28 |  |
+| [COMO TE CONTE](https://open.spotify.com/track/1MbN7WXNGp1ckPmY2TTq2c) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 1:51 | 2025-08-28 | 2025-10-04 |
 | [Con Chapa](https://open.spotify.com/track/5baVENoXFaLXbrTTT0czSN) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Con Chapa](https://open.spotify.com/album/51IcpKcFOg9hlGbeYWJznO) | 3:32 | 2022-03-18 | 2023-03-11 |
 | [Conmigo No](https://open.spotify.com/track/4qk3rXT02ce6MCLDG3yvjx) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [Conmigo No](https://open.spotify.com/album/2WyFcmJTLoVxLExU4W3PfT) | 2:55 | 2023-02-09 | 2023-05-27 |
 | [Cooperas Con los Federicos](https://open.spotify.com/track/5FzJJHLpEDf39ZSbRnQYSK) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Cooperas Con los Federicos](https://open.spotify.com/album/3P8uMdPghm5rMXsac9cbbU) | 2:58 | 2021-11-19 | 2022-07-16 |
@@ -374,6 +374,7 @@
 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 | 2024-01-04 |  |
 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 | 2023-05-26 | 2023-12-14 |
 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 | 2023-02-09 | 2023-08-04 |
+| [Un Día Tu](https://open.spotify.com/track/1l9BSiIstD2Dtsq9IdAOph) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Un Día Tu](https://open.spotify.com/album/2BwzTUBmFvOQbJhbIpiKqu) | 2:14 | 2025-10-03 |  |
 | [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-23 | 2024-04-12 |
 | [Un Selfie Con 3 Millones](https://open.spotify.com/track/4Buu9Uu1wcv3aqXvrn3igC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:10 | 2023-02-09 | 2023-03-11 |
 | [UN VOLAO](https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [UN VOLAO](https://open.spotify.com/album/2CCXpPq2goAscTXwNXgev8) | 1:39 | 2024-02-08 | 2025-08-15 |

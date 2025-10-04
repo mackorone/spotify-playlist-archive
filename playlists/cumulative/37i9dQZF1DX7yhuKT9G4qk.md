@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-138 songs - 7 hr 50 min
+138 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Breathe](https://open.spotify.com/track/3exG2ufmyQlo2myNhMtFKo) | [Darlyn](https://open.spotify.com/artist/6epX2aWpqv4aTiL1bu4Na8) | [Breathe](https://open.spotify.com/album/6yZt8iJlMkF8JXTi8cGeiz) | 3:23 | 2025-07-16 | 2025-09-16 |
 | [Breathe Deep](https://open.spotify.com/track/5btaMofKOTnk47EEvotbVI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Breathe Deep](https://open.spotify.com/album/6oRgYfOjA2kDIVHZKeFNgd) | 3:44 | 2025-09-18 |  |
 | [But I Can Show U How](https://open.spotify.com/track/61nk9QwdEYLuVqXkefVnmZ) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [But I Can Show U How](https://open.spotify.com/album/4rKbES6D2gvmkIdtdKBDEC) | 2:40 | 2025-07-16 | 2025-09-19 |
+| [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 | 2025-10-02 |  |
 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-07-16 |  |
 | [Changes](https://open.spotify.com/track/70Im6ch9dNGzxoGG6vpxcd) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Changes](https://open.spotify.com/album/4aldFjPokcR0SvHQ5KCP8c) | 5:19 | 2025-07-16 |  |
 | [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 | 2025-07-16 | 2025-08-29 |
@@ -127,7 +128,6 @@
 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 | 2025-07-16 |  |
 | [Through The Echoes](https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 3:41 | 2025-07-16 |  |
 | [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 | 2025-10-03 |
-| [Track 5](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2025-07-16 | 2025-09-19 |
 | [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 | 2025-07-16 |  |
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 | 2025-08-29 |

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 739034,
+  "num_followers": 739137,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
+        "name": "Lest We Forget - The Best Of",
+        "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
-        "name": "Lest We Forget - The Best Of",
-        "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Rock 'n' Roll Fantasy",
-        "url": "https://open.spotify.com/album/0RkumwOgVf3zr9AcYC4VdE"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        },
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Rock 'n' Roll Fantasy",
-      "url": "https://open.spotify.com/track/2tnRDvnf6pldFNeHvGcBlc"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "Rock 'n' Roll Fantasy",
+        "url": "https://open.spotify.com/album/0RkumwOgVf3zr9AcYC4VdE"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Rock 'n' Roll Fantasy",
+      "url": "https://open.spotify.com/track/2tnRDvnf6pldFNeHvGcBlc"
     },
     {
       "added_at": "2025-08-22 04:00:05",

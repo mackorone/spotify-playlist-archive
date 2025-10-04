@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAACOrEIRE0s4sKhBHohUzzW4",
+  "snapshot_id": "aN3AgAAAAADJ5DsNT8NamVpL77RI/aH8",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Me",
-        "url": "https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "Dear Me",
-      "url": "https://open.spotify.com/track/5wj7pNgQbLABItpzF3yH8U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Love",
         "url": "https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 189253,
       "name": "Neon Love",
       "url": "https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Me",
+        "url": "https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "Dear Me",
+      "url": "https://open.spotify.com/track/5wj7pNgQbLABItpzF3yH8U"
     },
     {
       "added_at": null,
@@ -562,15 +562,11 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,
@@ -582,11 +578,15 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-327 songs - 21 hr 28 min
+329 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,10 +318,12 @@
 | [What A Wonderful World \- Live At The BBC](https://open.spotify.com/track/6vy4oVtIlCno1dNYq0wqhc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis In London \(Live At The BBC\)](https://open.spotify.com/album/5agu2tOeRrQKNduqGpRSIq) | 2:32 | 2024-07-12 |  |
 | [What You're Doing / Working Man / Garden Road \- Live At The Forum, Los Angeles, California \- 8/1/2015](https://open.spotify.com/track/7iYtqU4O5yD1VHHdWqJVtu) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Rush 50 \(Anniversary Super Deluxe\)](https://open.spotify.com/album/1vETgUa3FMCGjqTtOzOsWn) | 10:56 | 2025-03-21 |  |
 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2023-10-16 | 2024-05-24 |
+| [While My Guitar Gently Weeps \(Third Version \- Take 27\)](https://open.spotify.com/track/5a974fjTBU2bFJ6GHrX97P) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [While My Guitar Gently Weeps \(Third Version \- Take 27\)](https://open.spotify.com/album/5bjBSHsydS8dtQ4GepROgl) | 3:18 | 2025-10-03 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/6YH9hWz9ypmvbHl1LpCMFz) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:47 | 2024-05-23 |  |
 | [Who Believes In Angels?](https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb) | 5:13 | 2025-02-07 |  |
 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 | 2025-09-19 |  |
 | [Wild World \- Live in Japan, 1974](https://open.spotify.com/track/4MyoaY1V7L0oXJJPO8wzo5) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Saturnight \(Cat Stevens Live In Tokyo\)](https://open.spotify.com/album/0CzQxtLVM0mYgJXeaTT2pF) | 3:15 | 2025-05-02 |  |
+| [Wind Of Change \- On Stage](https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Wind Of Change \(On Stage\)](https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP) | 5:05 | 2025-10-03 |  |
 | [Wise Up](https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Wise Up](https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL) | 3:47 | 2024-05-23 |  |
 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2023-10-16 | 2024-05-24 |
 | [Woman](https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 2:55 | 2023-10-16 | 2024-05-24 |

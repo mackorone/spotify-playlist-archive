@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: んoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,261 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,270 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 2 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 3 | [THE FALL](https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [THE FALL](https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP) | 3:20 |
 | 4 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 |
-| 5 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [](https://open.spotify.com/album/null) | 3:28 |
+| 5 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Roulette](https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME) | 3:28 |
 | 6 | [HOURS:AFTER](https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [HOURS:AFTER](https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI) | 3:50 |
 | 7 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
 | 8 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 |

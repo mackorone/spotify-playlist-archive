@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-581 songs - 1 day 11 hr 24 min
+582 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 | 2023-06-02 | 2025-06-07 |
 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 | 2024-03-15 | 2024-04-19 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2024-06-27 |
-| [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-12-06 |  |
+| [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-12-06 | 2025-10-04 |
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 |  |
 | [Music for the Soul](https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:44 | 2025-08-01 |  |
 | [My Best Western](https://open.spotify.com/track/3rmizqk5SbVCc1phDEiLUM) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/1llw5IJGwZzz7E2YqYQtv2) | 3:15 | 2022-05-13 | 2022-07-29 |
@@ -480,6 +480,7 @@
 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 | 2023-04-21 |  |
 | [Still What I'm Looking For](https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Still What I'm Looking For](https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE) | 3:07 | 2024-07-12 |  |
 | [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 | 2022-10-14 | 2023-05-06 |
+| [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 | 2025-09-26 |  |
 | [Summer Wine](https://open.spotify.com/track/35j22HqMiHRVFz6aMSYlAd) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Summer Wine](https://open.spotify.com/album/171i564OD81tTVFvBxUEIh) | 4:41 | 2022-06-03 | 2022-07-16 |
 | [Supposed To Be](https://open.spotify.com/track/0GTbfwPBpAJ8B4Dpw5Rwka) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [Supposed To Be](https://open.spotify.com/album/1jMFIViRO10jYNe5KEC9cG) | 4:46 | 2022-05-13 | 2022-07-20 |
 | [Sweet Relief](https://open.spotify.com/track/00VZJCC2kTust8GYSlpxHL) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Sweet Relief](https://open.spotify.com/album/6JZ2zxBOyJXLc5pwUTHGGJ) | 4:15 | 2022-08-05 | 2023-04-22 |

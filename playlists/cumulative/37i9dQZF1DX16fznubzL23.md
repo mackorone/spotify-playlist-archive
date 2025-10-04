@@ -4,7 +4,7 @@
 
 > e don cast
 
-257 songs - 13 hr 19 min
+258 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,13 +218,14 @@
 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 | 2022-11-04 | 2023-02-04 |
 | [Solo](https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Solo](https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO) | 3:22 | 2024-11-15 | 2025-01-22 |
 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-21 | 2025-09-05 |
+| [SORRY](https://open.spotify.com/track/1F0UDgoZZBn9XEbGDALLH7) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [SORRY](https://open.spotify.com/album/7sKTQGxs2yMyR0LqFhYd1E) | 2:53 | 2025-09-26 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-18 | 2024-04-19 |
 | [Stranger](https://open.spotify.com/track/5RCJ9b4Qw6mayhWRDwAjrZ) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb) | [Stranger](https://open.spotify.com/album/63BDmIlVAzz5xrie6GwYpH) | 2:13 | 2023-02-16 | 2023-03-18 |
 | [Streets Are Lonely](https://open.spotify.com/track/3JD44UQP4haVSrdqcQ41Np) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:31 | 2025-03-28 |  |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-05-19 | 2023-02-04 |
 | [Take Me Back](https://open.spotify.com/track/0gebFq16ZKEt07j0QwBM3R) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 4:08 | 2022-02-11 | 2022-08-13 |
 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 | 2025-03-06 |  |
-| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-22 |  |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-22 | 2025-10-04 |
 | [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-05-19 | 2023-05-27 |
 | [Thinkin Bout You](https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:20 | 2022-02-11 | 2022-07-29 |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-02-11 | 2022-11-25 |

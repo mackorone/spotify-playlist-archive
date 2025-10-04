@@ -1,13 +1,61 @@
 {
-  "description": "a little indie, a little pop, soda featuring Thomas Day",
+  "description": "a little indie, a little pop, soda featuring Henry Moodie",
   "num_followers": 228590,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKca4W6p0yKO8WksWRHRYMwz398M",
+  "snapshot_id": "AAAAAPGWykpsTKnFGxgWIlWj64xOXDJ1",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 125786,
+      "name": "mood swings",
+      "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Different, Worse Versions",
+        "url": "https://open.spotify.com/album/5xrd3MOx7k8cUP9Z86pgF7"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 183076,
+      "name": "Different, Worse Versions",
+      "url": "https://open.spotify.com/track/6e3kXGh5HwuKZNMSi46qCU"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "The Things",
+        "url": "https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 206075,
+      "name": "The Things",
+      "url": "https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM"
+    },
     {
       "added_at": "2025-09-19 04:00:31",
       "album": {
@@ -41,6 +89,38 @@
       "url": "https://open.spotify.com/track/2q4OrVl17enVQwEP3FqICn"
     },
     {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Suckerpunch",
+        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 154673,
+      "name": "Suckerpunch",
+      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 176985,
+      "name": "Walk Walk Walk",
+      "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
+    },
+    {
       "added_at": "2025-09-27 19:59:59",
       "album": {
         "name": "Shock Treatment",
@@ -71,6 +151,22 @@
       "duration_ms": 178680,
       "name": "Wisdom Tooth",
       "url": "https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2025-09-05 04:00:28",
@@ -575,22 +671,6 @@
     {
       "added_at": "2025-08-22 14:59:17",
       "album": {
-        "name": "You Make All the Right Things Hard",
-        "url": "https://open.spotify.com/album/5wDyRPqxc1Sc3HPgt7yb49"
-      },
-      "artists": [
-        {
-          "name": "Crybabyamy",
-          "url": "https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "You Make All the Right Things Hard",
-      "url": "https://open.spotify.com/track/3ryifQ0G32p56Mhu2Lxp80"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
         "name": "say something",
         "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
       },
@@ -651,22 +731,6 @@
       "duration_ms": 188492,
       "name": "Don't Waste Your Love On Me",
       "url": "https://open.spotify.com/track/6eCdFhskFCVIO5vf6FgDfJ"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "enjoy the ride",
-        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 171237,
-      "name": "enjoy the ride",
-      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
     },
     {
       "added_at": "2025-08-22 14:59:17",
@@ -907,74 +971,6 @@
       "duration_ms": 100920,
       "name": "first date",
       "url": "https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Summer Uptown",
-        "url": "https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ"
-      },
-      "artists": [
-        {
-          "name": "jasontheween",
-          "url": "https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 155364,
-      "name": "Summer Uptown",
-      "url": "https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Blame On You",
-        "url": "https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Blame On You",
-      "url": "https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Everything Anything",
-        "url": "https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 201811,
-      "name": "Everything Anything",
-      "url": "https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "The Fastest Time Of Our Lives",
-        "url": "https://open.spotify.com/album/7r7Q2FOiZugbsWuD9N9ZPl"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 187664,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/2sVZmdIZfmUNwn31rQJuxy"
     }
   ],
   "unique_name": "soda",

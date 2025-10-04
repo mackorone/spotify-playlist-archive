@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,172,586 likes - 57 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,172,768 likes - 57 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 | 56 | [Everglow \- Live from Spotify London](https://open.spotify.com/track/6U8VHaQxzECez4TSt0nmiP) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 4:15 |
 | 57 | [Viva La Vida \- Live in Buenos Aires](https://open.spotify.com/track/4Y9lVjRD82aJOQ2v13UIoF) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live in Buenos Aires](https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2) | 4:11 |
 
-Snapshot ID: `AAAAAJdmkqvFd0N731lb4+8Kz3yP24F9`
+Snapshot ID: `AAAAAPuW5V+MsDnWo9JbXPB/XZVQ06+W`

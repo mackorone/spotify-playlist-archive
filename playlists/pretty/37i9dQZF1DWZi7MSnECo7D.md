@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Mombojó
+> Música brasileira fora da curva\. Foto: Sophia Chablau, Felipe Vaqueiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,393 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,033 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cançãodanoite](https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Cançãodanoite](https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m) | 6:48 |
-| 2 | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/track/52P75ZWt74UHLh5OFhWNUo) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR), [Renan Benini](https://open.spotify.com/artist/10gcx0ieH5QKHttxqRujeD), [Felipe Pacheco Ventura](https://open.spotify.com/artist/4wzBTy6pV1lVE7LJMuh36I) | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/album/2U1lPahfqRqMwLF2y1VSCz) | 9:47 |
-| 3 | [Pra Não Falar Mal](https://open.spotify.com/track/2U6U5C7zDb2JcIZ07dYDM4) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Novo Mundo](https://open.spotify.com/album/09r9cPD6jEwgBmphifZ7TW) | 3:18 |
-| 4 | [Love e Vício em Sunshine \(Ao Vivo\)](https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt) | [Supervão](https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj) | [AVGN na Radio Agulha \(ao vivo\)](https://open.spotify.com/album/6LML6JqiKorFCyfujnNz4t) | 2:38 |
-| 5 | [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 |
-| 6 | [Melhor Assim](https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y](https://open.spotify.com/album/7MLJDclnjQfoTzmAYzsebI) | 3:21 |
-| 7 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |
-| 8 | [Amor Sintético](https://open.spotify.com/track/4MxJkhJ3Pvld6ZYlHAQ9ya) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Amor Sintético](https://open.spotify.com/album/3EabNCXQmD8BhyCrv8YZVB) | 2:48 |
-| 9 | [Melodrama](https://open.spotify.com/track/0kMhHZ0UOf0YOvOqDtQ4ev) | [Undo](https://open.spotify.com/artist/4zwP0H9LBHeBLhpSDw28G3) | [Melodrama](https://open.spotify.com/album/11PxwkrVAy4ijhHhpPxMrf) | 3:36 |
-| 10 | [A cidade é uma selva](https://open.spotify.com/track/53vB6t3mcw3iwMXSHSod8E) | [eliminadorzinho](https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ) | [eternamente,](https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP) | 3:39 |
-| 11 | [2001](https://open.spotify.com/track/3uC5esYU8cTQ8ox8oSrsWV) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [2001](https://open.spotify.com/album/2hggsoOwknLbm71vQZUSwF) | 3:44 |
-| 12 | [pra você saber como eu to:](https://open.spotify.com/track/5md4g4CpeW8q5h1nMh3Ayr) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [pra você saber como eu to:](https://open.spotify.com/album/047G31tkIprK9Ds9DZon9e) | 4:24 |
-| 13 | [Daquilo que Nois Merece](https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Lá Na Zárea Todos Querem Viver Bem](https://open.spotify.com/album/1InkjsA0pPp4AjeDpAOpbK) | 4:45 |
-| 14 | [Frio](https://open.spotify.com/track/3IE8Adpf5OpHUO5zWmXRhD) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Frio](https://open.spotify.com/album/23yV81YgWTvTJmI8XNYlTV) | 2:23 |
-| 15 | [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 |
-| 16 | [os pelados sabem demais](https://open.spotify.com/track/00xQgJ1ve8Pw8AkpMcFv8j) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Contato](https://open.spotify.com/album/2XUCKM3IH9nvHr1VRBgLbe) | 2:38 |
-| 17 | [Você vai me escutar](https://open.spotify.com/track/4RA9sd4OLjmVBZkXsE6h6g) | [eliminadorzinho](https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ) | [eternamente,](https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP) | 4:40 |
-| 18 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
+| 1 | [Viciado em carinho](https://open.spotify.com/track/6ltnZGhEGWF0WGjA8v5JpP) | [Sophia Chablau](https://open.spotify.com/artist/5dYxYokvmpxCELXrTczKZR), [Felipe Vaqueiro](https://open.spotify.com/artist/3s9f0W9ecEnuKJjql7P7s6) | [Handycam](https://open.spotify.com/album/7siRCvSUGl0kJKyLrXgsqO) | 2:47 |
+| 2 | [Cançãodanoite](https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Cançãodanoite](https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m) | 6:48 |
+| 3 | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/track/52P75ZWt74UHLh5OFhWNUo) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR), [Renan Benini](https://open.spotify.com/artist/10gcx0ieH5QKHttxqRujeD), [Felipe Pacheco Ventura](https://open.spotify.com/artist/4wzBTy6pV1lVE7LJMuh36I) | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/album/2U1lPahfqRqMwLF2y1VSCz) | 9:47 |
+| 4 | [Pra Não Falar Mal](https://open.spotify.com/track/2U6U5C7zDb2JcIZ07dYDM4) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Novo Mundo](https://open.spotify.com/album/09r9cPD6jEwgBmphifZ7TW) | 3:18 |
+| 5 | [Love e Vício em Sunshine \(Ao Vivo\)](https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt) | [Supervão](https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj) | [AVGN na Radio Agulha \(ao vivo\)](https://open.spotify.com/album/6LML6JqiKorFCyfujnNz4t) | 2:38 |
+| 6 | [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 |
+| 7 | [Melhor Assim](https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y](https://open.spotify.com/album/7MLJDclnjQfoTzmAYzsebI) | 3:21 |
+| 8 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |
+| 9 | [Amor Sintético](https://open.spotify.com/track/4MxJkhJ3Pvld6ZYlHAQ9ya) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Amor Sintético](https://open.spotify.com/album/3EabNCXQmD8BhyCrv8YZVB) | 2:48 |
+| 10 | [Melodrama](https://open.spotify.com/track/0kMhHZ0UOf0YOvOqDtQ4ev) | [Undo](https://open.spotify.com/artist/4zwP0H9LBHeBLhpSDw28G3) | [Melodrama](https://open.spotify.com/album/11PxwkrVAy4ijhHhpPxMrf) | 3:36 |
+| 11 | [A cidade é uma selva](https://open.spotify.com/track/53vB6t3mcw3iwMXSHSod8E) | [eliminadorzinho](https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ) | [eternamente,](https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP) | 3:39 |
+| 12 | [2001](https://open.spotify.com/track/3uC5esYU8cTQ8ox8oSrsWV) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [2001](https://open.spotify.com/album/2hggsoOwknLbm71vQZUSwF) | 3:44 |
+| 13 | [pra você saber como eu to:](https://open.spotify.com/track/5md4g4CpeW8q5h1nMh3Ayr) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [pra você saber como eu to:](https://open.spotify.com/album/047G31tkIprK9Ds9DZon9e) | 4:24 |
+| 14 | [Daquilo que Nois Merece](https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Lá Na Zárea Todos Querem Viver Bem](https://open.spotify.com/album/1InkjsA0pPp4AjeDpAOpbK) | 4:45 |
+| 15 | [Frio](https://open.spotify.com/track/3IE8Adpf5OpHUO5zWmXRhD) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Frio](https://open.spotify.com/album/23yV81YgWTvTJmI8XNYlTV) | 2:23 |
+| 16 | [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 |
+| 17 | [os pelados sabem demais](https://open.spotify.com/track/00xQgJ1ve8Pw8AkpMcFv8j) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Contato](https://open.spotify.com/album/2XUCKM3IH9nvHr1VRBgLbe) | 2:38 |
+| 18 | [Você vai me escutar](https://open.spotify.com/track/4RA9sd4OLjmVBZkXsE6h6g) | [eliminadorzinho](https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ) | [eternamente,](https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP) | 4:40 |
 | 19 | [Fogos](https://open.spotify.com/track/751Mz7m1H4OLEgRN25jJcR) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [Fogos](https://open.spotify.com/album/3DL6uecdrSVItdPBmNhd4K) | 3:50 |
 | 20 | [Brincos](https://open.spotify.com/track/09aOFoKFKVsNDilKuN374R) | [Marrakesh](https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF) | [Marrakesh](https://open.spotify.com/album/3xeuU8oCeQ3Dn3gS43vaRI) | 3:18 |
 | 21 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Caco](https://open.spotify.com/track/0DhW5Qsf3PBbIz5EfG619L) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Caco](https://open.spotify.com/album/2OBDrtPglyBYXsW7ss1WLk) | 3:06 |
 | 80 | [Parati](https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [Parati](https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV) | 2:46 |
 
-Snapshot ID: `AAAAAJFNdsox9e9BCQ+5vstbFOKh1/lG`
+Snapshot ID: `AAAAANexcLhISvCJHTP9oCu7K8rMJUeL`

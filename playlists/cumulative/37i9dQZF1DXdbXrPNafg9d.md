@@ -2,7 +2,7 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new music every Friday\. Cover: Magdalena Bay
+> The best new music every Friday\. Cover: Chanel Beads
 
 9,455 songs - 23 day 0 hr 25 min
 

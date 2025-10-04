@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
 11,482 songs - 25 day 8 hr 46 min
 

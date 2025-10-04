@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop 💫 Sekou on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,005 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,012 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
-| 2 | [Track 10](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [self destruct mode](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [THE HELL OF APRIL](https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG) | 2:42 |
 | 3 | [Delicate Paws](https://open.spotify.com/track/6V4pMQ8Q765iNTOZpdzGRO) | [Alpha Maria](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Delicate Paws](https://open.spotify.com/album/6WLgx5C2e5akbsl6GQ1nqp) | 2:31 |
-| 4 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [](https://open.spotify.com/album/null) | 3:20 |
+| 4 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 |
 | 5 | [BIRTHDAY CAKE](https://open.spotify.com/track/2c4Y3ZUE7poeSljm40dOen) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ULTRAVI0LET](https://open.spotify.com/album/73YuJ5RfkjIjfuhg7A5mBb) | 2:21 |
 | 6 | [Always Forever In Love](https://open.spotify.com/track/2Rv2O8GPfgTjaP2ItWVwDw) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Everything](https://open.spotify.com/album/23jmfDFKqXzxlMpn7q1yxr) | 4:03 |
 | 7 | [play me like a speaker](https://open.spotify.com/track/2Db4ymX1AivTU8lUJbT8F6) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [play me like a speaker](https://open.spotify.com/album/4rd6PIDkOzq2Xy1hQSf7ki) | 3:09 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 22 | [best case world](https://open.spotify.com/track/6dsFpxrw7C0w6K9916YkP6) | [AIYANA](https://open.spotify.com/artist/7kszFp5zWV6pZauLkmxxcE) | [best case world](https://open.spotify.com/album/4Q1eVH7Qno4DCz3oG2PcqE) | 3:04 |
 | 23 | [3minutes](https://open.spotify.com/track/3WmMhXZRNRMwuuRSTsEB92) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Crying in the Club](https://open.spotify.com/album/65WNXfPnnDlpyTDbq181MF) | 3:13 |
 | 24 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
-| 25 | [Callowman](https://open.spotify.com/track/36e7KXBW3MWm9alOemKiGr) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [](https://open.spotify.com/album/null) | 3:09 |
+| 25 | [Callowman](https://open.spotify.com/track/36e7KXBW3MWm9alOemKiGr) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Callowman](https://open.spotify.com/album/0F2O2LQ3GlFaP13vjdvUnX) | 3:09 |
 | 26 | [don't tell anyone](https://open.spotify.com/track/0euPATSNHOGffOZwrBY08m) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [don't tell anyone](https://open.spotify.com/album/1b5ZOGpcvwc9NdMyqBkDDF) | 2:12 |
 | 27 | [this is what dreams are made of](https://open.spotify.com/track/30SHnh4Juq7dvGMg6rtMQU) | [Emma Bradley](https://open.spotify.com/artist/5xYIRSJkHjlWgZidBISyzk) | [this is what dreams are made of](https://open.spotify.com/album/6Iihb0VfgzpR55jQGS39ra) | 3:00 |
 | 28 | [Catching The Next Train](https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b) | [Beth McKenzie](https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq) | [Does This Make Me A Bitter Woman? \(Deluxe\)](https://open.spotify.com/album/67aB0zwPzsAreTkdTZjarY) | 2:12 |

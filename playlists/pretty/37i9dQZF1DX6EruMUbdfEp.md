@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! \(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,558 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,585 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

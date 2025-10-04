@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/6LIHhgIJEBHu7jeoNXllp3"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233520,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/17gt5nugQdTDH5niCCg1NQ"
+    },
+    {
+      "album": {
         "name": "The Family Jewels",
         "url": "https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg"
       },
@@ -8286,7 +8304,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 310000,
       "name": "The Milk Carton",
       "url": "https://open.spotify.com/track/0uEeF2vQCTu4ucShvarTIH"
@@ -8452,6 +8470,24 @@
       "duration_ms": 266268,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf"
+    },
+    {
+      "album": {
+        "name": "the simlish song",
+        "url": "https://open.spotify.com/album/3bNCCGuJGEtCFZ5H7htePd"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199048,
+      "name": "the simlish song",
+      "url": "https://open.spotify.com/track/70moTZaHJ0CHtG2YbQPXST"
     },
     {
       "album": {
@@ -9430,7 +9466,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 243519,
       "name": "What\u2019s Going On?!",
       "url": "https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26"

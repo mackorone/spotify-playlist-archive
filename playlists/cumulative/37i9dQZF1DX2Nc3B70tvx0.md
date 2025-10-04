@@ -2,9 +2,9 @@
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: mark william lewis
+> A delicious mix of new songs in high rotation\. Cover: Geese
 
-2,953 songs - 7 day 10 hr 42 min
+2,955 songs - 7 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-08-17 | 2022-09-01 |
 | [Atomic Vomit](https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2020-12-22 | 2021-05-28 |
 | [Attaway](https://open.spotify.com/track/3HErXAS9DiVd8C9x6CJTYd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:00 | 2024-10-25 | 2025-01-16 |
+| [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-10-03 |  |
 | [AUATC](https://open.spotify.com/track/2X1PJ3l0wM4D42EiEdVh5W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/22PYhoWaopcOplvKR6o5BA) | 2:22 | 2020-09-04 | 2021-03-22 |
 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-10 | 2022-04-08 |
 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-21 | 2024-10-19 |
@@ -527,7 +528,7 @@
 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 | 2024-10-04 | 2024-12-18 |
 | [Coasting On Fumes](https://open.spotify.com/track/2ugm5xrknLV6xum8cN5zGb) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:46 | 2024-02-16 | 2024-04-19 |
 | [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 | 2024-02-16 | 2024-05-18 |
-| [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-09-26 |  |
+| [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-09-26 | 2025-10-04 |
 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 | 2022-10-12 | 2022-11-05 |
 | [Codependency](https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:11 | 2021-09-02 | 2022-05-20 |
 | [Coffee In The Morning](https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Coffee in the Morning](https://open.spotify.com/album/0lO0JNz7Rz94RoSi8pW65l) | 1:23 | 2025-01-30 | 2025-04-12 |
@@ -643,6 +644,7 @@
 | [Deadhead](https://open.spotify.com/track/54FHlsiPjCazyG91mf7HAW) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Deadhead](https://open.spotify.com/album/63Z4mEljk9OQdp16KoxhnW) | 3:32 | 2025-06-06 | 2025-08-23 |
 | [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 | 2023-10-07 |
 | [Dear Stranger](https://open.spotify.com/track/10cPYHOPt1VpgFGy7NO2JI) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Future Past Life](https://open.spotify.com/album/72tIS6tPTKymncSkk2ezBJ) | 4:31 | 2020-04-18 | 2020-09-25 |
+| [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 | 2025-10-03 |  |
 | [Death Grips](https://open.spotify.com/track/2xXgWlANgNbcuFZhD7NFSc) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Death Grips](https://open.spotify.com/album/0fK8Tmhs1ku4p3XAxJJrXd) | 3:33 | 2024-06-21 | 2024-09-27 |
 | [Deep Diving](https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/26TkLAiSMFSbKFXiveepTM) | 3:22 | 2025-06-27 | 2025-08-23 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-25 | 2022-09-17 |
@@ -1932,7 +1934,7 @@
 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2021-03-19 | 2022-04-06 |
 | [Out Of It](https://open.spotify.com/track/0QwxRaV2qsPeb4mPo0GM82) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Either Light](https://open.spotify.com/album/0hyxilH78jdXnDAoMr7OhZ) | 2:38 | 2020-03-21 | 2020-09-25 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-18 | 2022-09-17 |
-| [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-29 |  |
+| [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-29 | 2025-10-04 |
 | [Outside](https://open.spotify.com/track/7Cx3kiPstZOSKAqTe3LtEi) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/7Dedy1SsrEQ2ofQUw7eGNC) | 3:58 | 2019-05-26\* | 2019-09-21 |
 | [Outside](https://open.spotify.com/track/2FHdkquBesDIZZ0IcVYaFc) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Outside](https://open.spotify.com/album/0yLtZLUcjbZpI7dtmA81rY) | 2:17 | 2021-08-20 | 2022-05-08 |
 | [Outside the Outside \- Edit](https://open.spotify.com/track/5imO7bxhIvRsG9npj3Thig) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Outside the Outside](https://open.spotify.com/album/1IQbtfhWrrlZzkd7tCANJj) | 3:58 | 2021-09-02 | 2022-04-21 |

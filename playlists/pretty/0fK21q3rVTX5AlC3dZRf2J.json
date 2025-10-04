@@ -1,13 +1,33 @@
 {
   "description": "my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! [does not include instrumentals]",
-  "num_followers": 910,
+  "num_followers": 912,
   "original_name": "\ud83d\udc97kittydog songs featured playlist\ud83d\udc99",
   "owner": {
     "name": "kittydogcrystal",
     "url": "https://open.spotify.com/user/kittydogcrystal"
   },
-  "snapshot_id": "AAAAr70vF0A/fruPr1rs7z7ezfQ1bXMU",
+  "snapshot_id": "AAAAsdS14BQMp4UgWSYf1i2Vj6E7Bc3p",
   "tracks": [
+    {
+      "added_at": "2025-10-03 16:36:56",
+      "album": {
+        "name": "Can you take it?",
+        "url": "https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 213683,
+      "name": "Can you take it?",
+      "url": "https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp"
+    },
     {
       "added_at": "2025-09-09 04:35:14",
       "album": {

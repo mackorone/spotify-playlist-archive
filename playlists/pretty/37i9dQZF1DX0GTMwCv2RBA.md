@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,407 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,413 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

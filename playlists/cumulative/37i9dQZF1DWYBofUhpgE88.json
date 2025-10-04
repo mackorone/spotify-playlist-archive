@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
@@ -5540,7 +5540,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 247866,
       "name": "Panda",
       "url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3"
@@ -5602,7 +5602,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 136445,
       "name": "PARTO NATURALE",
       "url": "https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f"
@@ -6987,6 +6987,28 @@
     },
     {
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1TSBIg4sQ5cnZfejy3XHCk"
+      },
+      "artists": [
+        {
+          "name": "LOWRAH",
+          "url": "https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d"
+        },
+        {
+          "name": "Smoothies",
+          "url": "https://open.spotify.com/artist/236WkFGLSfmOX04pQVsrlO"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129374,
+      "name": "Stamina - Smoothies remix",
+      "url": "https://open.spotify.com/track/6ambKHiEZAtKOLnWtNPkfb"
+    },
+    {
+      "album": {
         "name": "Stamm Fort",
         "url": "https://open.spotify.com/album/1oOK2SpMy11lyHC7mraEZ7"
       },
@@ -7006,6 +7028,24 @@
       "duration_ms": 171375,
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7hHf4gz7kGmkuwa6XMc88W"
+    },
+    {
+      "album": {
+        "name": "STESSO RUMORE",
+        "url": "https://open.spotify.com/album/5VOgvNt2tm0fsJYglya0lE"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "STESSO RUMORE",
+      "url": "https://open.spotify.com/track/53c18kDV41gxcLBweIk0Sv"
     },
     {
       "album": {
@@ -8130,6 +8170,36 @@
       "duration_ms": 184320,
       "name": "VVS (feat. Gunna)",
       "url": "https://open.spotify.com/track/6t5avACouegDhYdGljoKt1"
+    },
+    {
+      "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey) [Samurai Jay Remix]",
+        "url": "https://open.spotify.com/album/7rehLKYZhHSCoDvSCImXFf"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121447,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey) [Samurai Jay Remix]",
+      "url": "https://open.spotify.com/track/2qrnZjrU1IpBZSinKljvEW"
     },
     {
       "album": {

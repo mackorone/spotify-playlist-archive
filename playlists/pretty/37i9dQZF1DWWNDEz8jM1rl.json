@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 149699,
+  "num_followers": 149724,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 157168,
       "name": "Segunda Vida",
       "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Envero",
-        "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Subiendo",
-      "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Cartelera",
         "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
       },
@@ -771,22 +751,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Siempre y Nunca",
-        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
+        "name": "Envero",
+        "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
       },
       "artists": [
         {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         },
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 153786,
-      "name": "Siempre y Nunca",
-      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
+      "duration_ms": 219955,
+      "name": "Subiendo",
+      "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -803,6 +783,26 @@
       "duration_ms": 291112,
       "name": "Veo Tu Gloria",
       "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Siempre y Nunca",
+        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Siempre y Nunca",
+      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Al Que Tenga O\u00eddos",
-        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 283425,
-      "name": "Al Que Tenga O\u00eddos",
-      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Somos Cristianos",
         "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+        "name": "Al Que Tenga O\u00eddos",
+        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
         }
       ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+      "duration_ms": 283425,
+      "name": "Al Que Tenga O\u00eddos",
+      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1223,6 +1207,22 @@
       "duration_ms": 188108,
       "name": "closefriend",
       "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "El Dise\u00f1o Original",
-        "url": "https://open.spotify.com/album/4cGchqvnp4BP1oISS1X7dI"
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
       "artists": [
         {
-          "name": "Ovidio Aguilar",
-          "url": "https://open.spotify.com/artist/0j86p3ID78X0k5MHzO08FS"
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
         }
       ],
-      "duration_ms": 278648,
-      "name": "El Campe\u00f3n",
-      "url": "https://open.spotify.com/track/67fuJDDcDN8FMJbqysZ3mz"
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+        "name": "El Dise\u00f1o Original",
+        "url": "https://open.spotify.com/album/4cGchqvnp4BP1oISS1X7dI"
       },
       "artists": [
         {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+          "name": "Ovidio Aguilar",
+          "url": "https://open.spotify.com/artist/0j86p3ID78X0k5MHzO08FS"
         }
       ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+      "duration_ms": 278648,
+      "name": "El Campe\u00f3n",
+      "url": "https://open.spotify.com/track/67fuJDDcDN8FMJbqysZ3mz"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Base y fundamento",
-        "url": "https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "El mood",
-      "url": "https://open.spotify.com/track/3uW6CjftFDfir7OqRPR410"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "SE\u00d1ALES (REMIX)",
         "url": "https://open.spotify.com/album/73AtKrcy1EeMGnXMX0v1bM"
       },
@@ -1651,26 +1635,6 @@
       "duration_ms": 133846,
       "name": "SE\u00d1ALES - REMIX",
       "url": "https://open.spotify.com/track/5eCA0Ler7a6U4cAbSXJzCK"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Fiesta En El Cielo",
-        "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
-      },
-      "artists": [
-        {
-          "name": "Yompy",
-          "url": "https://open.spotify.com/artist/4do7ZNZPgNng5V5zyKXcqY"
-        },
-        {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Fiesta En El Cielo",
-      "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1695,6 +1659,42 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Fiesta En El Cielo",
+        "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
+      },
+      "artists": [
+        {
+          "name": "Yompy",
+          "url": "https://open.spotify.com/artist/4do7ZNZPgNng5V5zyKXcqY"
+        },
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Fiesta En El Cielo",
+      "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Base y fundamento",
+        "url": "https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "El mood",
+      "url": "https://open.spotify.com/track/3uW6CjftFDfir7OqRPR410"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "i missed you!",
-        "url": "https://open.spotify.com/album/0PRY2QMxdewRzdu8bDQGY7"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "i missed you!",
-      "url": "https://open.spotify.com/track/2JtMrFvghega7Q1KlzzM5I"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Cristiano Bacano Rmx",
         "url": "https://open.spotify.com/album/7nFpYENJ5lIz2rJTrS3AR8"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 137750,
       "name": "Cristiano Bacano Rmx",
       "url": "https://open.spotify.com/track/2lljs2Hd9NPWx094U7gDeU"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "i missed you!",
+        "url": "https://open.spotify.com/album/0PRY2QMxdewRzdu8bDQGY7"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "i missed you!",
+      "url": "https://open.spotify.com/track/2JtMrFvghega7Q1KlzzM5I"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1883,18 +1883,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Abre el libro (EDM)",
-        "url": "https://open.spotify.com/album/4djjHQAlcsiDAOYBUztHn6"
+        "name": "Ella Sabe (Remix)",
+        "url": "https://open.spotify.com/album/0C5b9vNu9QBJWHbHcealqH"
       },
       "artists": [
         {
-          "name": "Gerstronik",
-          "url": "https://open.spotify.com/artist/1s4smT9MY7n5RBoPz4jbQE"
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        },
+        {
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
         }
       ],
-      "duration_ms": 174653,
-      "name": "Abre el libro (EDM)",
-      "url": "https://open.spotify.com/track/6jd1hY1pv9g4W6M34P99Fg"
+      "duration_ms": 228688,
+      "name": "Ella Sabe - Remix",
+      "url": "https://open.spotify.com/track/37e1iHb5ByeBGIoLU5bOOZ"
     }
   ],
   "unique_name": "Fiesta Cristiana",

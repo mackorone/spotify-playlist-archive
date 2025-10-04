@@ -4245,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/7sKTQGxs2yMyR0LqFhYd1E"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173399,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1F0UDgoZZBn9XEbGDALLH7"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -4368,7 +4386,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"

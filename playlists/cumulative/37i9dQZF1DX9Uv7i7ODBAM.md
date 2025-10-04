@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-156 songs - 8 hr 58 min
+157 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [The Hero Work Recommendation Project](https://open.spotify.com/track/4vbOT5lWQB92AC19x2VILp) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 3:15 | 2022-10-01 | 2024-04-19 |
 | [The Next Me](https://open.spotify.com/track/6YplgWCRKfomhLBHOmlCmT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:42 | 2023-03-14 | 2024-04-19 |
 | [The Next Me](https://open.spotify.com/track/7CkwAWQgVabTEMQo9JdXaP) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 2:42 | 2023-03-14 |  |
+| [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 | 2025-10-03 |  |
 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 | 2022-10-01 |  |
 | [We'll be everyone's heroes](https://open.spotify.com/track/3L4UcukPfPeMKixozG1nBY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 1:54 | 2023-03-14 | 2024-04-19 |
 | [We'll be everyone's heroes](https://open.spotify.com/track/3dDS6LUInWs66YUcWeCBEM) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 1:54 | 2023-03-14 |  |

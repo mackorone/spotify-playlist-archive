@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Shae Gill",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Marshall Ahmad",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 126947,
       "name": "AURA",
       "url": "https://open.spotify.com/track/3vIkeyO6RXeFlRRJ4wxX3Z"
@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "callmeback",
+        "url": "https://open.spotify.com/album/4XEO54FyeWFRNcxw5ThrQa"
+      },
+      "artists": [
+        {
+          "name": "Salor",
+          "url": "https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118181,
+      "name": "callmeback",
+      "url": "https://open.spotify.com/track/4GvhaVYYfrQeBKkphZtKBQ"
+    },
+    {
+      "album": {
         "name": "Cha Jaa",
         "url": "https://open.spotify.com/album/0eVCvxA7BnQAMlYLLo7F0J"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 274689,
       "name": "Chann Pichay",
       "url": "https://open.spotify.com/track/3JiPLc0eYusXWnWOcyQwzo"
@@ -2009,6 +2027,50 @@
     },
     {
       "album": {
+        "name": "Haseen",
+        "url": "https://open.spotify.com/album/6H1INZIjL9urcvjPdnnEsF"
+      },
+      "artists": [
+        {
+          "name": "Khawaja Sami",
+          "url": "https://open.spotify.com/artist/7KIv8yIytrldHUWtb1QovU"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "Haseen",
+      "url": "https://open.spotify.com/track/4QXKWV5jNGpBtdLZK1fLrj"
+    },
+    {
+      "album": {
+        "name": "Hasraten",
+        "url": "https://open.spotify.com/album/3XEAB7sKFWnPvqsOufnRZB"
+      },
+      "artists": [
+        {
+          "name": "Zack.Haider",
+          "url": "https://open.spotify.com/artist/2CrjscjIQbkggeqHH52suU"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163870,
+      "name": "Hasraten",
+      "url": "https://open.spotify.com/track/2HcTa6J4VOq1mpa0w5QHEv"
+    },
+    {
+      "album": {
         "name": "Hass Kay Bol",
         "url": "https://open.spotify.com/album/0pvqT9O9x5In8SGeix2Ekc"
       },
@@ -2116,6 +2178,32 @@
       "duration_ms": 156400,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/6YKX4QTIbJV4y4I0lFg1uO"
+    },
+    {
+      "album": {
+        "name": "Heeriye",
+        "url": "https://open.spotify.com/album/6J1Az4Bsh1FFLGQve1b9Ay"
+      },
+      "artists": [
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        },
+        {
+          "name": "Aalehaider Gillani",
+          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166753,
+      "name": "Heeriye",
+      "url": "https://open.spotify.com/track/2YMb43SJMapRkI4csygZDY"
     },
     {
       "album": {
@@ -2328,7 +2416,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 172434,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/1cx6J23bwtjH7SISsMsfXc"
@@ -2517,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Judai",
+        "url": "https://open.spotify.com/album/64zUrOxD2z5irNZ99gZsxr"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Judai",
+      "url": "https://open.spotify.com/track/74HUAcGhQ0WFwHD0qAiMwn"
+    },
+    {
+      "album": {
         "name": "JUNE",
         "url": "https://open.spotify.com/album/1qCd5sH6WGnmmSOzTqugA3"
       },
@@ -2572,6 +2678,24 @@
       "duration_ms": 165276,
       "name": "Kaava",
       "url": "https://open.spotify.com/track/1LCvfc2SvDnxfIxkesDZEO"
+    },
+    {
+      "album": {
+        "name": "Kabhi",
+        "url": "https://open.spotify.com/album/6DQxb3MGcxBZE6VzmHY2Sg"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Anwar",
+          "url": "https://open.spotify.com/artist/06ACrU1xT9S6tPcT2junyQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Kabhi",
+      "url": "https://open.spotify.com/track/7gDzErVldp4fffPhDv0W3h"
     },
     {
       "album": {
@@ -2744,6 +2868,24 @@
       "duration_ms": 153000,
       "name": "Kehte Raho",
       "url": "https://open.spotify.com/track/5gwwfepdfUXI6D1PQzxB5W"
+    },
+    {
+      "album": {
+        "name": "Khairaat",
+        "url": "https://open.spotify.com/album/5YPr9fLsUVJM3XRJkbqbEH"
+      },
+      "artists": [
+        {
+          "name": "Salem Sandhu",
+          "url": "https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181212,
+      "name": "Khairaat",
+      "url": "https://open.spotify.com/track/1fu5ZWOJIlN2WxRXUu1PJP"
     },
     {
       "album": {
@@ -3868,6 +4010,32 @@
     {
       "album": {
         "name": "Nasha",
+        "url": "https://open.spotify.com/album/3FoXlD6UQoyq4IPWuP2vry"
+      },
+      "artists": [
+        {
+          "name": "Azaan Ali Bagga",
+          "url": "https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ"
+        },
+        {
+          "name": "The Skinny guy",
+          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Nasha",
+      "url": "https://open.spotify.com/track/3XpWtieesup3tz8VHF8vz0"
+    },
+    {
+      "album": {
+        "name": "Nasha",
         "url": "https://open.spotify.com/album/5YkCVWOSREIl0F4HT4LGM0"
       },
       "artists": [
@@ -3934,6 +4102,28 @@
       "duration_ms": 274181,
       "name": "No Calls",
       "url": "https://open.spotify.com/track/5bjtjVRyBpBVIgqqxwFutG"
+    },
+    {
+      "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/4Zf1OQAPR7CXO2KBcFTSzV"
+      },
+      "artists": [
+        {
+          "name": "Marshall Ahmad",
+          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
+        },
+        {
+          "name": "Reggs",
+          "url": "https://open.spotify.com/artist/5ZiXTiApJhxzxicjIznlLs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/5qXl3Ac11Pyba6gholqM7S"
     },
     {
       "album": {
@@ -4082,7 +4272,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 152500,
       "name": "One Way",
       "url": "https://open.spotify.com/track/3n4aBGwkNpACVuCOwytTaX"
@@ -4539,6 +4729,28 @@
     },
     {
       "album": {
+        "name": "Raatan",
+        "url": "https://open.spotify.com/album/2FQem8AKwqOYAvgdLFXcxD"
+      },
+      "artists": [
+        {
+          "name": "Umar.",
+          "url": "https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm"
+        },
+        {
+          "name": "Aftab Anwar",
+          "url": "https://open.spotify.com/artist/0XXGD9fG219LiRw2JSpENR"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223567,
+      "name": "Raatan",
+      "url": "https://open.spotify.com/track/5Iaj0tK5X0MsWnROFVTONa"
+    },
+    {
+      "album": {
         "name": "Raatein",
         "url": "https://open.spotify.com/album/3n666ul1w9lLb1Hw9qwgTZ"
       },
@@ -4956,7 +5168,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 215510,
       "name": "Saat Din",
       "url": "https://open.spotify.com/track/460aVPwkgwa0rCEP9RbQRS"
@@ -5092,7 +5304,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 229714,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/4FMc0OXn46WcPGi3EULwTW"
@@ -5404,6 +5616,24 @@
       "duration_ms": 191538,
       "name": "Soneya 2.0",
       "url": "https://open.spotify.com/track/6tSIqN2K584QWxJmuKt6Op"
+    },
+    {
+      "album": {
+        "name": "Spectacle",
+        "url": "https://open.spotify.com/album/3LLhUDBetTk00qqcHo7ukH"
+      },
+      "artists": [
+        {
+          "name": "Ali Sheikh",
+          "url": "https://open.spotify.com/artist/0bqSsjDw6CNJDpERpp9vIU"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "Spectacle",
+      "url": "https://open.spotify.com/track/3lzx6IeLfPAWYX0k2Cb3ry"
     },
     {
       "album": {

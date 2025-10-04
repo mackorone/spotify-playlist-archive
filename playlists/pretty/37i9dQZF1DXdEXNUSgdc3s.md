@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,045 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,097 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 83 | [Alpha Drone 8 Hz](https://open.spotify.com/track/1xrw0MIXasQIaD9oLqE4qF) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:36 |
 | 84 | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/track/4yZW295RhtI2vdjNtDpLhb) | [Dramadoria](https://open.spotify.com/artist/7g1qKEMGMmdNxwndbNylbD) | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/album/5WsQeQf7nbbnqaHpw84MaQ) | 2:36 |
 | 85 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 |
-| 86 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 |
+| 86 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [Restovi](https://open.spotify.com/artist/7HtgTmI7yVTGoTsDqWVh5A) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 |
 | 87 | [Binaural Alpha Deep 45,5 + 49 hz](https://open.spotify.com/track/5pGpcXSHImdddmdCylkRWP) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:34 |
-| 88 | [Alpha In The Night Sky 84Hz \- 91Hz](https://open.spotify.com/track/5XYrcHh7I6wfCUpApuiEL5) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Alpha Sinus in the Night Sky](https://open.spotify.com/album/1K0Hlhu2UMjhmiJPmq8POV) | 4:52 |
+| 88 | [Alpha In The Night Sky 84Hz \- 91Hz](https://open.spotify.com/track/5XYrcHh7I6wfCUpApuiEL5) | [Restovi](https://open.spotify.com/artist/7HtgTmI7yVTGoTsDqWVh5A) | [Alpha Sinus in the Night Sky](https://open.spotify.com/album/1K0Hlhu2UMjhmiJPmq8POV) | 4:52 |
 | 89 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
 | 90 | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/track/1iUPb3Uw65EBlhAo5gDDE6) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/album/2kyCvfTIMvavgFc9IGP8K6) | 2:29 |
 | 91 | [Waves 88\-96Hz](https://open.spotify.com/track/0rKPzn3RlT8mIQuiB3lGVW) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Waves 88\-96Hz](https://open.spotify.com/album/6WmmuPGtZ5QaSBDLWxPvYk) | 2:05 |

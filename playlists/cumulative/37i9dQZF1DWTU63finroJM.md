@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-2,189 songs - 4 day 22 hr 12 min
+2,190 songs - 4 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 | 2022-03-24 | 2022-08-02 |
 | [CTRL](https://open.spotify.com/track/2lj1RNDztkIsyzhAX2soEa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:05 | 2022-03-24 | 2022-04-16 |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/5EpNgq3IHbbNKKRT9hIu9W) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Cuando Estoy Contigo/Dulce Amargo](https://open.spotify.com/album/3X7TmpyxaeZNYPeue8lurN) | 2:57 | 2022-03-24 | 2022-04-21 |
-| [Cuando Tú Estás Aquí](https://open.spotify.com/track/0OTGOtlSBcGhN6cjFZMTAR) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:07 | 2025-10-01 |  |
+| [Cuando Tú Estás Aquí](https://open.spotify.com/track/0OTGOtlSBcGhN6cjFZMTAR) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:07 | 2025-10-01 | 2025-10-04 |
 | [Curtain Call](https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock \(Extended Version\)](https://open.spotify.com/album/1OyYinHCauMPSic0CuCBeE) | 3:29 | 2024-03-22 | 2024-04-06 |
 | [Czekam Na Znak](https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Czekam Na Znak](https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn) | 3:18 | 2023-05-22 | 2023-10-21 |
 | [Cáscara de Coco](https://open.spotify.com/track/7MIhpzY1v8U2ha3D8Z6yk8) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Cáscara de Coco](https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh) | 2:57 | 2022-11-11 | 2022-12-03 |
@@ -869,6 +869,7 @@
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2023-11-17 | 2023-12-08 |
 | [it takes two](https://open.spotify.com/track/0c8PbjfgiHKk1V0e8lgjvP) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 2:54 | 2022-06-07 | 2022-08-02 |
 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 | 2024-03-22 | 2024-05-14 |
+| [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/1lSHvN5lfcwHI5oOQ8pLHF) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:40 | 2025-10-01 |  |
 | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 | 2025-05-09 | 2025-07-05 |
 | [Itch](https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Itch](https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3) | 4:25 | 2024-09-23 | 2025-01-28 |
 | [ITSLIKE](https://open.spotify.com/track/02QwLdLDKDEWfMTScV4TeD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [ITSLIKE](https://open.spotify.com/album/64sdHoPoUevnYJc1YxD5v4) | 1:51 | 2024-04-19 | 2024-05-11 |

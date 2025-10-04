@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73671,
+  "num_followers": 73669,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 187823,
       "name": "September - Recorded at The Tracking Room Nashville",
       "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Running Boy",
-        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "Running Boy",
-      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Here's Your Perfect (Acoustic)",
-        "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
+        "name": "Running Boy",
+        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 164669,
-      "name": "Here's Your Perfect - Acoustic",
-      "url": "https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U"
+      "duration_ms": 215660,
+      "name": "Running Boy",
+      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -447,6 +431,22 @@
       "duration_ms": 263633,
       "name": "The Simple Things",
       "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Here's Your Perfect (Acoustic)",
+        "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 164669,
+      "name": "Here's Your Perfect - Acoustic",
+      "url": "https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Morning Coffee",
-        "url": "https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF"
-      },
-      "artists": [
-        {
-          "name": "Chevy",
-          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
-        },
-        {
-          "name": "Nalba",
-          "url": "https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp"
-        }
-      ],
-      "duration_ms": 142659,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Morning Coffee",
+        "url": "https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF"
+      },
+      "artists": [
+        {
+          "name": "Chevy",
+          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
+        },
+        {
+          "name": "Nalba",
+          "url": "https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp"
+        }
+      ],
+      "duration_ms": 142659,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "I Make Sparks",
         "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 218573,
       "name": "I Make Sparks",
       "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "Renee's Song",
         "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 130545,
       "name": "Renee's Song",
       "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1119,34 +1103,18 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Interior Live Oak",
-        "url": "https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2"
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
       "artists": [
         {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 264400,
-      "name": "Missionary Bell",
-      "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"
-    },
-    {
-      "added_at": "2025-09-21 16:00:21",
-      "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -1167,18 +1135,18 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Two Punks In Love",
-        "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
       },
       "artists": [
         {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Two Punks In Love",
-      "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -1199,18 +1167,34 @@
     {
       "added_at": "2025-09-21 16:00:21",
       "album": {
-        "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
-        "url": "https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr"
+        "name": "Two Punks In Love",
+        "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
         }
       ],
-      "duration_ms": 180545,
-      "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
-      "url": "https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13"
+      "duration_ms": 195346,
+      "name": "Two Punks In Love",
+      "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Interior Live Oak",
+        "url": "https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Missionary Bell",
+      "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"
     },
     {
       "added_at": "2025-09-21 16:00:21",
@@ -1227,6 +1211,22 @@
       "duration_ms": 184915,
       "name": "For You - Acoustic",
       "url": "https://open.spotify.com/track/1cZyjXi4MvSVlm0DRevIhc"
+    },
+    {
+      "added_at": "2025-09-21 16:00:21",
+      "album": {
+        "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
+        "url": "https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
+      "url": "https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13"
     },
     {
       "added_at": "2025-09-21 16:00:21",

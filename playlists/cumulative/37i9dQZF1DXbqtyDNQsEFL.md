@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze
 
-618 songs - 2 day 8 hr 36 min
+619 songs - 2 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 | 2024-06-28 |  |
 | [Ebenezer](https://open.spotify.com/track/0igpnDi8h7lcvZLcOYmxQ7) | [Adegrace](https://open.spotify.com/artist/3ycO6fT2nSoiIiXuo2Omoe) | [Ebenezer](https://open.spotify.com/album/2luXTGuNZ7ErHMn9uubKzr) | 2:07 | 2025-09-19 | 2025-09-26 |
 | [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 |  |
+| [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-12-05 | 2023-12-11 |
 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 | 2023-06-09 |  |
 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 | 2024-12-31 | 2025-01-07 |
@@ -477,7 +478,7 @@
 | [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-08-25 | 2023-09-09 |
 | [Shake The Ground](https://open.spotify.com/track/3Gfi0d2EJT1S6f3U72eQuL) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [THE GROUND WE'RE ON](https://open.spotify.com/album/0StZqTmijDIlMMbS0Vq8gH) | 5:58 | 2025-08-15 | 2025-10-03 |
 | [Shammah](https://open.spotify.com/track/1hW8cVgHXcKo9BqSm8mcHM) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [Shammah](https://open.spotify.com/album/3Wi8dsqFQoDzkGyB1qxlsG) | 2:25 | 2025-04-25 | 2025-07-04 |
-| [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 |  |
+| [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 | 2025-10-04 |
 | [Shekinah](https://open.spotify.com/track/0I1tx3WCPqTnIrkrz6pYJM) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Spirituals](https://open.spotify.com/album/2jZxPVHjJY01qg0j9WOvCN) | 7:00 | 2024-12-31 | 2025-01-07 |
 | [SHINE](https://open.spotify.com/track/1fMnYcO3ljhIKHZUt4acye) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 3:48 | 2024-03-25 | 2024-04-12 |
 | [Should I?](https://open.spotify.com/track/6zd6g4oyuAR3PpprTl5EMn) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Should I?](https://open.spotify.com/album/2fUOHajV13i6fcRhXEIxpM) | 2:25 | 2025-08-22 | 2025-09-12 |

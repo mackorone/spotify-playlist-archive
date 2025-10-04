@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Thee Marloes
 
-1,400 songs - 3 day 2 hr 41 min
+1,400 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1039,7 +1039,7 @@
 | [SEEING PINK](https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [SEEING PINK](https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed) | 3:17 | 2023-09-07 | 2023-09-15 |
 | [Seem Better](https://open.spotify.com/track/7pU2HsbNzl6GHwJwwXNQRF) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Seem Better](https://open.spotify.com/album/4VDY9t68UfYCvmZwjyhNRK) | 3:24 | 2022-10-20 | 2023-02-10 |
 | [selfish](https://open.spotify.com/track/1dRYOcpnYbiC3DbDxfMhzs) | [ben chow](https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w) | [selfish](https://open.spotify.com/album/4Oy7WSypCJnsouRM66lZ27) | 2:14 | 2025-06-26 | 2025-09-26 |
-| [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [](https://open.spotify.com/album/null) | 3:10 | 2025-10-02 |  |
+| [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR](https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs) | 3:10 | 2025-10-02 |  |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-01-25 | 2024-07-27 |
 | [Selfish](https://open.spotify.com/track/64WL36LvfiLGQJIDqLPAwB) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:49 | 2024-12-04 | 2025-01-17 |
 | [SELFISH](https://open.spotify.com/track/7y73GJQDozxvtPDx0VTzXO) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [SELFISH](https://open.spotify.com/album/203K7mIwNixbwsD41xwshx) | 3:01 | 2024-02-22 | 2024-04-12 |
@@ -1103,6 +1103,7 @@
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-10-03 | 2024-12-05 |
 | [space \(feat\. Teddy Adhitya\)](https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:30 | 2023-03-23 | 2023-09-08 |
 | [Spanish Restaurant \(Prod\. Liquor well\)](https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx) | [Spanish Restaurant](https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9) | 2:48 | 2022-07-14 | 2022-07-22 |
+| [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 | 2025-10-02 |  |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-09 | 2023-03-04 |
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-01 | 2025-08-15 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-04 | 2024-05-25 |
@@ -1253,7 +1254,6 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 5](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-01 | 2025-08-15 |

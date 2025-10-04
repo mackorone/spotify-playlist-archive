@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 457789,
+  "num_followers": 458393,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkX3gGv7O+bhP6vX0bWCRIPbEQn",
+  "snapshot_id": "AAAAAOir+x0Y2f+1pJXrhko+0QuTKo4O",
   "tracks": [
     {
       "added_at": "2025-08-04 05:46:30",
@@ -157,6 +157,50 @@
       "url": "https://open.spotify.com/track/3UtQB2Z4sNPBGGV1VkFIzT"
     },
     {
+      "added_at": "2025-08-25 10:02:31",
+      "album": {
+        "name": "Koyila",
+        "url": "https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Koyila",
+      "url": "https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw"
+    },
+    {
+      "added_at": "2025-10-03 07:25:20",
+      "album": {
+        "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
+        "url": "https://open.spotify.com/album/7Gb3tz0K3bEADvxkfpxNdV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Adviteeya Vojjala",
+          "url": "https://open.spotify.com/artist/09J325BgRreHJKVVVAECLx"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 256774,
+      "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
+      "url": "https://open.spotify.com/track/3UlG7yRyzw7RsGC0vxVXgO"
+    },
+    {
       "added_at": "2025-09-10 11:02:42",
       "album": {
         "name": "Little Hearts",
@@ -183,22 +227,6 @@
       "duration_ms": 164000,
       "name": "Khathyayani",
       "url": "https://open.spotify.com/track/2mbJs7Lst8tAyJ3DIkfLiI"
-    },
-    {
-      "added_at": "2025-08-25 10:02:31",
-      "album": {
-        "name": "Koyila",
-        "url": "https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Koyila",
-      "url": "https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw"
     },
     {
       "added_at": "2025-07-18 12:14:56",
@@ -260,12 +288,12 @@
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
           "name": "Thaman S",
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
           "name": "Krishna Kanth",
@@ -543,34 +571,6 @@
       "duration_ms": 245000,
       "name": "College Papa",
       "url": "https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI"
-    },
-    {
-      "added_at": "2025-05-28 06:35:31",
-      "album": {
-        "name": "Khaleja (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6U1ZDp9cdKJrgJfoXdrkCu"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Hemachandra Vedala",
-          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Sirivennela Seetharama Sastry",
-          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
-        }
-      ],
-      "duration_ms": 340906,
-      "name": "Pileche",
-      "url": "https://open.spotify.com/track/1mOCb1w5n62jLGHJqpGL2W"
     },
     {
       "added_at": "2024-11-28 12:52:51",

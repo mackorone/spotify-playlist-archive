@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Good Neighbours
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,313 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,388 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [](https://open.spotify.com/album/null) | 2:56 |
+| 1 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 2 | [Madame Tussauds](https://open.spotify.com/track/15r64Red3tBAIc45c5yo6v) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Madame Tussauds](https://open.spotify.com/album/5Ww221R1SkbtkVJcaIdogM) | 3:37 |
 | 3 | [The Heart](https://open.spotify.com/track/3Bbz1AYkHJnzsDxJBV9jkd) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [The Heart](https://open.spotify.com/album/4wdkrtAHHexqVVluu1I16T) | 4:24 |
 | 4 | [Second Best](https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Second Best](https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm) | 3:31 |
@@ -19,21 +19,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 9 | [MiAU](https://open.spotify.com/track/4GrItBzNvHtgxHwOokbcXf) | [Nik Dandelion](https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds) | [MiAU](https://open.spotify.com/album/2IVtsLvnlUNKT1AS7tfbcX) | 1:36 |
 | 10 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
 | 11 | [Code to My Mind](https://open.spotify.com/track/7xHzBljOZEQ3EY1AyFJs4r) | [Lucy Dreams](https://open.spotify.com/artist/7x8nHczUKxMXrHv2iYTRJT) | [Code to My Mind](https://open.spotify.com/album/14cyizh5KWX8HC8jdPD4Jo) | 3:05 |
-| 12 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [](https://open.spotify.com/album/null) | 3:00 |
-| 13 | [Track 1](https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [](https://open.spotify.com/album/null) | 0:00 |
-| 14 | [Swing](https://open.spotify.com/track/2epO8BscK1tCSY27plYy6x) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [](https://open.spotify.com/album/null) | 3:24 |
-| 15 | [Crucify Your Mind](https://open.spotify.com/track/3fLVNsWosMH3YS4Q4DBv0J) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [](https://open.spotify.com/album/null) | 2:43 |
+| 12 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 |
+| 13 | [Baptism](https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [One Simple Trick](https://open.spotify.com/album/3mK0jqmMbU0qXx0bnkirpU) | 3:39 |
+| 14 | [Swing](https://open.spotify.com/track/2epO8BscK1tCSY27plYy6x) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Animals Crossing](https://open.spotify.com/album/7zNEhDIAEQ7xb31w5bhU2s) | 3:24 |
+| 15 | [Crucify Your Mind](https://open.spotify.com/track/3fLVNsWosMH3YS4Q4DBv0J) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Pomegranate Odyssey](https://open.spotify.com/album/1fL2ZvJbLh7mHJhz5GuSKW) | 2:43 |
 | 16 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 17 | [Blue Eyes](https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Blue Eyes](https://open.spotify.com/album/4eQEJgxCdf7B0OF2JTccgQ) | 2:18 |
-| 18 | [Letters on the Floor](https://open.spotify.com/track/0BOiciH7N0rCL5xGxhESpl) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [](https://open.spotify.com/album/null) | 3:48 |
-| 19 | [Two Souls](https://open.spotify.com/track/3Et8QCOvq9uANuk92x3MEw) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [](https://open.spotify.com/album/null) | 3:44 |
+| 18 | [Letters on the Floor](https://open.spotify.com/track/0BOiciH7N0rCL5xGxhESpl) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Laguna Road](https://open.spotify.com/album/0KERQiN2aTGR5FLnXBkS11) | 3:48 |
+| 19 | [Two Souls](https://open.spotify.com/track/3Et8QCOvq9uANuk92x3MEw) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Two Souls](https://open.spotify.com/album/7MNeYlsgiVUrQIdLi2fK63) | 3:44 |
 | 20 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 |
 | 21 | [Silent Baby](https://open.spotify.com/track/3lHDvJh85t17V60MkUKd88) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Silent Baby](https://open.spotify.com/album/2W36fLUSa9n3sh5uJhH7zc) | 4:15 |
-| 22 | [Track 1](https://open.spotify.com/track/6sBjyC6t2aHhfgJmcXP9MU) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 22 | [Feels So Good](https://open.spotify.com/track/6sBjyC6t2aHhfgJmcXP9MU) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq) | [Feels So Good](https://open.spotify.com/album/1eqPrXwT0ugaqadSA8IBkb) | 2:37 |
 | 23 | [biggest failure](https://open.spotify.com/track/5By0Klv0eUGt14XolebFQG) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [biggest failure](https://open.spotify.com/album/50wDFtDw1FX93U9H47ukJU) | 2:22 |
 | 24 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 |
 | 25 | [daydreaming](https://open.spotify.com/track/4UKJUNEd9hutAF4x8VtUcG) | [Havington](https://open.spotify.com/artist/7zxjSp5r2J27m4U7qNZS9n) | [daydreaming](https://open.spotify.com/album/624ABqyJq5JYqfZ3KXfzT0) | 3:14 |
-| 26 | [Number One Fan](https://open.spotify.com/track/0JxmOHLNDZMy6m0vKUMgUh) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [](https://open.spotify.com/album/null) | 3:51 |
+| 26 | [Number One Fan](https://open.spotify.com/track/0JxmOHLNDZMy6m0vKUMgUh) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [R is for Rocket](https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG) | 3:51 |
 | 27 | [I Want to Know What Love Is](https://open.spotify.com/track/3N2sOLpwv49A4lYrzb2nsO) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [I Want to Know What Love Is](https://open.spotify.com/album/1gIxvP2jqMuGavn5jEJ3Dc) | 4:17 |
 | 28 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
 | 29 | [Champagne Supernova](https://open.spotify.com/track/555D98m2LnCiPPu9qH11Gx) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Champagne Supernova](https://open.spotify.com/album/0DWXekbabHNqSmr27QpDkZ) | 2:28 |

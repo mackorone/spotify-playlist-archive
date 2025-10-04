@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Kybba ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,093 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,115 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 14 | [Comportement](https://open.spotify.com/track/2nOZaGwMYt07nXtIeYbEiu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 2:52 |
 | 15 | [Awesome/Poolside](https://open.spotify.com/track/3nkZMDmPu43kkWNXkdaZ0W) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Sunflower](https://open.spotify.com/album/2uxqcqNZXfaAwU0iOBZMnq) | 2:45 |
 | 16 | [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 |
-| 17 | [Track 8](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 |
 | 18 | [Ballie](https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Ballie](https://open.spotify.com/album/55umMdwSFkqtjvJfktDi8K) | 2:53 |
 | 19 | [On Est La](https://open.spotify.com/track/6G9cPvXMkKrbwGZIuADLzZ) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [ON EST LA](https://open.spotify.com/album/7G1sRAJ0SsD0uW47rWV0s2) | 2:19 |
 | 20 | [Einde Van De Wereld](https://open.spotify.com/track/7n9DwD8nFCK7ptRbKRkZ23) | [KYOMA](https://open.spotify.com/artist/3JLzkOgUYA894fFNuLsxnO), [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap) | [Einde Van De Wereld](https://open.spotify.com/album/5p24L6a5vK3oHGJ1tVjZqs) | 3:21 |

@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-616 songs - 1 day 14 hr 1 min
+617 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 | 2025-05-16 | 2025-09-20 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 | 2025-03-10 |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 | 2024-08-01 |
+| [Always](https://open.spotify.com/track/08wHv1wVEL8k1JHGKHlG6B) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Always](https://open.spotify.com/album/5YMkQkcq5IiwJn4KnyDKr7) | 3:35 | 2025-10-03 |  |
 | [Antidote](https://open.spotify.com/track/5WTeFqk3rVakNfKSsZQYrF) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Antidote](https://open.spotify.com/album/3u6dsqF6OwR0UtwQXAt5XX) | 4:53 | 2020-12-22 | 2022-07-29 |
 | [Anxious](https://open.spotify.com/track/1Ym5VTu587kLmzWFzS4ePa) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Anxious](https://open.spotify.com/album/3XitazgHhYwNBfccOAeVte) | 4:45 | 2020-12-22 | 2022-04-21 |
 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2023-11-17 | 2024-05-25 |
@@ -439,7 +440,7 @@
 | [Promised Land](https://open.spotify.com/track/3xTNnjPANR2lwUagT8zDxc) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Promised Land](https://open.spotify.com/album/55n66gPx07Qtmv96vbCDSk) | 3:34 | 2025-03-07 | 2025-03-24 |
 | [Pull Together](https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Pull Together](https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun) | 4:13 | 2025-03-28 |  |
 | [Put Down Your Phone](https://open.spotify.com/track/22ic4Jo5wUgvdoQh8r1rxg) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Put Down Your Phone](https://open.spotify.com/album/2s0pMH73bWJ6QpdvGWGpNl) | 2:43 | 2021-08-27 | 2022-07-29 |
-| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2023-11-17 |  |
+| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2023-11-17 | 2025-10-04 |
 | [Reckless Desires](https://open.spotify.com/track/3YOF6HtXEj91j2SRYXoSEi) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:24 | 2020-12-22 | 2022-07-29 |
 | [Rehearsal](https://open.spotify.com/track/6HUlgmxTiwmTxQN1tVMT9y) | [Klubbhuset](https://open.spotify.com/artist/4A9Wj9aRvLGGuNqsd3ak5v) | [Rehearsal](https://open.spotify.com/album/6GMt3lGcFyWHuI5REHHdjc) | 4:41 | 2020-12-22 | 2022-04-21 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-05-16 | 2024-02-14 |

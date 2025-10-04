@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,426 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,479 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 6 | [Ruk Ja](https://open.spotify.com/track/2XuqqA62np8iBUAxIzDUCB) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 3:27 |
 | 7 | [Saza \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/35PtfO8Xpv2w8jqup2QctA) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:20 |
 | 8 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
-| 9 | [123 Song](https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s) | [123 Song](https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l) | 3:02 |
+| 9 | [Aadhi Shaam](https://open.spotify.com/track/1S2DpK5en1wA5VwPY73SJv) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Aadhi Shaam](https://open.spotify.com/album/77oOS0IEqIejqPW4sGZ3Sk) | 3:09 |
 | 10 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
 | 11 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
 | 12 | [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 |
-| 13 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
-| 14 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
-| 15 | [rukne ki](https://open.spotify.com/track/3HMroRm92lzNVGAOQFY04N) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:28 |
-| 16 | [Kehna Hai Kya?](https://open.spotify.com/track/4rhzHRWaDzu6HxyW8hN1T9) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Kehna Hai Kya?](https://open.spotify.com/album/32haHQ4WhbP8R2pvEVtsKf) | 3:04 |
+| 13 | [123 Song](https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s) | [123 Song](https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l) | 3:02 |
+| 14 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
+| 15 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
+| 16 | [rukne ki](https://open.spotify.com/track/3HMroRm92lzNVGAOQFY04N) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:28 |
 | 17 | [Dil Na Lage](https://open.spotify.com/track/48gCcasMHX3AtrDO8HmHFl) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96) | [Jaana](https://open.spotify.com/album/2VNjjiOf1WNiYJcjuk88it) | 2:35 |
 | 18 | [Bezubaan \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/4PuaOJVMEmYLMObIHZQ5UX) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Taab](https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 4:45 |
 | 19 | [Suljhe Na](https://open.spotify.com/track/1e9AJ9LyLB2oXjE7qMCq2g) | [Sagar Desai](https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Rangeen \(Original Series Soundtrack\)](https://open.spotify.com/album/6UoKIcd7WhB83XcSGQhMXz) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 | 75 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
 
-Snapshot ID: `AAAAAEQNf2AhxhQNKReENikzGWEtoxrU`
+Snapshot ID: `AAAAAC+pgjwr3cvYWkfy+PaGfhU4pIU5`

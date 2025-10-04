@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 328830,
+  "num_followers": 328757,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -605,7 +605,7 @@
         },
         {
           "name": "Mc Danflin",
-          "url": "https://open.spotify.com/artist/09z1CFhb9vDtpiE51XR9ig"
+          "url": "https://open.spotify.com/artist/5FAaE0nqQcRWZUOIObttHr"
         }
       ],
       "duration_ms": 140500,
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Batid\u00e3o Do Playboy 2",
+        "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
+      },
+      "artists": [
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "Pode Me Bloquear",
+      "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -655,18 +671,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Batid\u00e3o Do Playboy 2",
-        "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
+        "name": "Coladinha em Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
       },
       "artists": [
         {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 188695,
-      "name": "Pode Me Bloquear",
-      "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
+      "duration_ms": 170506,
+      "name": "Coladinha em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -719,26 +739,6 @@
       "duration_ms": 245653,
       "name": "Inquilina - Ao Vivo",
       "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Coladinha em Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Coladinha em Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn"
     },
     {
       "added_at": "2023-01-17 01:33:36",

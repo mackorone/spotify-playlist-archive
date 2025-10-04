@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Carín León and Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,519 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,530 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 |
-| 2 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
-| 3 | [Polvo De Gigantes](https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:32 |
-| 4 | [Kbron y Medio](https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Kbron y Medio](https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax) | 4:18 |
-| 5 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
-| 6 | [Vuelvo A Nacer](https://open.spotify.com/track/20r7fLz8xh1Pl0CwHpdRbL) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Vuelvo A Nacer](https://open.spotify.com/album/6v42ufvJvy7cmDuEAkDC0i) | 2:37 |
-| 7 | [Supermujer](https://open.spotify.com/track/13qhmkQ2boDrdEJ4gxZI0E) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Supermujer](https://open.spotify.com/album/2hW3QVn9T8zPzW3TV2Orow) | 3:48 |
+| 1 | [Supermujeres](https://open.spotify.com/track/0kPgAvdXfYEcnROAGNc5vM) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Supermujeres](https://open.spotify.com/album/4AjdiWwy2S4ayVbmgwl5Ge) | 3:48 |
+| 2 | [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 |
+| 3 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
+| 4 | [Polvo De Gigantes](https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:32 |
+| 5 | [Kbron y Medio](https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Kbron y Medio](https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax) | 4:18 |
+| 6 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
+| 7 | [Vuelvo A Nacer](https://open.spotify.com/track/20r7fLz8xh1Pl0CwHpdRbL) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Vuelvo A Nacer](https://open.spotify.com/album/6v42ufvJvy7cmDuEAkDC0i) | 2:37 |
 | 8 | [Feathered Indians](https://open.spotify.com/track/03Ude4OR82LXBtu7219PNQ) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Feathered Indians](https://open.spotify.com/album/2ON8RNhgYzgE0915GuvSet) | 2:51 |
 | 9 | [LOW ROAD \- SPANISH VERSION](https://open.spotify.com/track/0Gk6S8LHNwCj9mUOZVryYD) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALTERNATE VERSIONS](https://open.spotify.com/album/0GnbxvjgEGZ8cbWkmjHIbE) | 2:57 |
 | 10 | [Happiest I've Ever Been \- Spanglish Version](https://open.spotify.com/track/1j0LnJ4yaE1QrAWX3MDVtD) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Happiest I've Ever Been \(Spanglish Version\)](https://open.spotify.com/album/5kQib3n4H6kwDruJAuEAE6) | 2:56 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 73 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 |
 | 74 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
 
-Snapshot ID: `AAAAABSgEcvDkx33L0DHPHxjchM65JcW`
+Snapshot ID: `AAAAAHWvuKLwQ2w6D/tdKLKmqCs6tGD7`

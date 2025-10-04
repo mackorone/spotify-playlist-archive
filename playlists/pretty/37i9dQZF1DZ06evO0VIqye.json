@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 61534,
+  "num_followers": 61531,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAACG6gcYHwNkaBYNrxs8CRYo",
+  "snapshot_id": "aN3AgAAAAADSTprJ61MIVnj+KJIYVpPM",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 232333,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"
+      "duration_ms": 210506,
+      "name": "Light of Day",
+      "url": "https://open.spotify.com/track/2OiHQ7cBMs8rQo8maXgP3U"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Light of Day",
-      "url": "https://open.spotify.com/track/2OiHQ7cBMs8rQo8maXgP3U"
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mindsets",
-        "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "If You're Blue",
-      "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 168400,
       "name": "Shout",
       "url": "https://open.spotify.com/track/55UIB1pXg1Pk9lrfIb8NB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mindsets",
+        "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "If You're Blue",
+      "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unvarnished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "Unvarnished (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
       },
       "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 247470,
-      "name": "I Hate Myself For Loving You",
-      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
+      "duration_ms": 216640,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2"
     },
     {
       "added_at": null,
@@ -611,6 +591,26 @@
       "duration_ms": 161066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 247470,
+      "name": "I Hate Myself For Loving You",
+      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Demento Covered In Punk",
         "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 234795,
       "name": "Science Fiction/Double Feature",
       "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
     },
     {
       "added_at": null,

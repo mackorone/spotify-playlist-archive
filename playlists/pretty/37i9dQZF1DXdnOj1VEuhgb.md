@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Keskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,134 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,159 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HEDEF](https://open.spotify.com/track/7cEo6tHNiOwErTOte8F7bF) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [](https://open.spotify.com/album/null) | 1:58 |
+| 1 | [HEDEF](https://open.spotify.com/track/7cEo6tHNiOwErTOte8F7bF) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [VURGUN](https://open.spotify.com/album/3hKz5wz7ngNZnA3reJ02qV) | 1:58 |
 | 2 | [COOOK PARDON](https://open.spotify.com/track/0P45YtqtAT6AkNDDX1lySE) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [COOOK PARDON](https://open.spotify.com/album/6SuKw9pZ6ryLoUz3b93zUw) | 1:32 |
 | 3 | [gelemez](https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [gelemez](https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW) | 2:32 |
 | 4 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5UIqKlp3KqK3eszxgKdGVh) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
 | 5 | [İHTİYAÇ YOK OTELE](https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [İHTİYAÇ YOK OTELE](https://open.spotify.com/album/0qKnF3hITeGYdXT6VSY81K) | 2:36 |
 | 6 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 |
-| 7 | [Kumdan Kaleler](https://open.spotify.com/track/6nqu4vwfGUHiIgaGjydWvR) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [](https://open.spotify.com/album/null) | 2:45 |
+| 7 | [Kumdan Kaleler](https://open.spotify.com/track/6nqu4vwfGUHiIgaGjydWvR) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Burkut](https://open.spotify.com/album/0G3rUCs3ali73sSqzOiraS) | 2:45 |
 | 8 | [Cehennemde Bi Gölge](https://open.spotify.com/track/4jSbPbS2kSwJ57iFNUJvr0) | [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF), [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Cehennemde Bi Gölge](https://open.spotify.com/album/3UshaNpRPT2JXJCDPULcZF) | 2:34 |
 | 9 | [SON](https://open.spotify.com/track/0pYQmBtGKPpzKvJgStaIvO) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [SON](https://open.spotify.com/album/7wyy2xEHw9Wl5xZoQ6Qd80) | 2:40 |
 | 10 | [PERDE](https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [BARIŞ](https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y) | 3:39 |

@@ -1087,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Could Have Been So Good",
+        "url": "https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "Could Have Been So Good",
+      "url": "https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro"
+    },
+    {
+      "album": {
         "name": "Could This B? / Stay Curious",
         "url": "https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R"
       },
@@ -1238,6 +1260,24 @@
       "duration_ms": 296597,
       "name": "Diamonds (Further Than I Ever Was)",
       "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
+    },
+    {
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
     },
     {
       "album": {
@@ -1944,7 +1984,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 245669,
       "name": "Full Senses",
       "url": "https://open.spotify.com/track/7HPqSOqNJDY0D0x4S2DUEl"
@@ -2102,7 +2142,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
@@ -2432,7 +2472,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 217216,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr"
@@ -2656,7 +2696,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
@@ -2960,6 +3000,24 @@
       "duration_ms": 193770,
       "name": "Intina",
       "url": "https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ"
+    },
+    {
+      "album": {
+        "name": "It Feels Different Now",
+        "url": "https://open.spotify.com/album/6t4sjy5ObPiOqraABIxjWk"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194139,
+      "name": "It Feels Different Now",
+      "url": "https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6"
     },
     {
       "album": {
@@ -3770,7 +3828,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 223345,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/4gqpWEfLRR1cldkjN1mh5q"
@@ -3880,6 +3938,32 @@
     {
       "album": {
         "name": "Moon",
+        "url": "https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog"
+    },
+    {
+      "album": {
+        "name": "Moon",
         "url": "https://open.spotify.com/album/6iVVrWVHA2KE7AzvRoSIU8"
       },
       "artists": [
@@ -3920,6 +4004,36 @@
       "duration_ms": 213000,
       "name": "More than you could give",
       "url": "https://open.spotify.com/track/5fbbmByDHyc65qietqLMvZ"
+    },
+    {
+      "album": {
+        "name": "Most Precious Love",
+        "url": "https://open.spotify.com/album/1ZOKEIxWal7useozipXnXf"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "UDAUFL",
+          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203707,
+      "name": "Most Precious Love",
+      "url": "https://open.spotify.com/track/0ggvWBJsXvs2eHuPbuIwPK"
     },
     {
       "album": {
@@ -4268,7 +4382,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 161368,
       "name": "No Way (feat. VSTRV)",
       "url": "https://open.spotify.com/track/6P6QpKhOiESf2YvyNYzkkl"
@@ -4518,7 +4632,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 216653,
       "name": "Paradise (Feat. Jem Cooke)",
       "url": "https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc"
@@ -4580,7 +4694,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 270518,
       "name": "Places & Spaces",
       "url": "https://open.spotify.com/track/5ZibjIUUEsl7NKwbAHYAjL"
@@ -4767,6 +4881,28 @@
     },
     {
       "album": {
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173554,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
+    },
+    {
+      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
@@ -4882,6 +5018,28 @@
       "duration_ms": 189836,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212985,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5"
     },
     {
       "album": {
@@ -5742,7 +5900,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 206890,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
@@ -6042,6 +6200,24 @@
       "duration_ms": 188157,
       "name": "Unite",
       "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
+    },
+    {
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/4xFAec0DK7ZFuaGyEjXug8"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/7MZRkWQJ5xngon98IOU7Pa"
     },
     {
       "album": {
@@ -6622,6 +6798,28 @@
       "duration_ms": 250666,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7Ebf6mGvStX8TRTJCaC2vB"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/1zKoOadSmBAYkytb6YFcFj"
+      },
+      "artists": [
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225530,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/5ejdipL1lkOyuzsRGiMx5f"
     },
     {
       "album": {

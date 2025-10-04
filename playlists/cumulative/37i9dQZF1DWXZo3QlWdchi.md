@@ -4,7 +4,7 @@
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-117 songs - 7 hr 53 min
+118 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Tarde Vazia \(feat\. Samuel Rosa\) \- Versão Acústica](https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:18 | 2023-05-05 |  |
 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 5:07 | 2023-05-05 | 2024-03-09 |
 | [The Man Who Sold The World](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2023-05-05 | 2023-08-19 |
-| [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 | 2024-03-08 |  |
+| [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 | 2024-03-08 | 2025-10-04 |
 | [Você Vai Lembrar de Mim \- Acústica](https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim \(Edição Especial\)](https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb) | 2:55 | 2023-09-22 | 2024-04-19 |
 | [Welcome To The Sky \(Intro\) \- Ao Vivo](https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Versão Deluxe + Faixa Extra\]](https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN) | 1:05 | 2023-09-01 | 2024-04-20 |
 | [What's Going On \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 3:51 | 2023-05-05 | 2023-09-16 |
@@ -124,6 +124,7 @@
 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 | 2023-05-05 |  |
 | [Wind of Change \(with Morten Harket\) \- MTV Unplugged](https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY), [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 5:31 | 2023-05-05 |  |
 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 | 2023-05-05 |  |
+| [Wonderwall \(Unplugged\)](https://open.spotify.com/track/2kyngSsWvKzqIWRsOoL9qA) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6) | 4:11 | 2025-10-03 |  |
 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

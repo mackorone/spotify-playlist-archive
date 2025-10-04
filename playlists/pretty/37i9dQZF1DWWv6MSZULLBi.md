@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Al Nicol, Hiss Golden Messenger
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,425 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,408 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Only Hoping \(feat\. Hiss Golden Messenger\)](https://open.spotify.com/track/3wMhfV89IJahm0BRoERDrP) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Only Hoping \(feat\. Hiss Golden Messenger\)](https://open.spotify.com/album/0ayn7lN6Og2yeY8yBBxjFT) | 3:39 |
 | 2 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
-| 3 | [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [](https://open.spotify.com/album/null) | 3:15 |
-| 4 | [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [](https://open.spotify.com/album/null) | 4:15 |
-| 5 | [Can't Keep From Singing](https://open.spotify.com/track/75YQt9dU8jRsdCf1Gnxuia) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [](https://open.spotify.com/album/null) | 4:29 |
+| 3 | [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 |
+| 4 | [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [New Highs, Pt\. 1](https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf) | 4:15 |
+| 5 | [Can't Keep From Singing](https://open.spotify.com/track/75YQt9dU8jRsdCf1Gnxuia) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Circle Remains](https://open.spotify.com/album/7Df1VBSYFcpF0tORYYeE6D) | 4:29 |
 | 6 | [Disintegrate \- Edit](https://open.spotify.com/track/5VmQCYBdnjgs2epnrhnhsE) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Disintegrate \(Edit\)](https://open.spotify.com/album/4mdpD8TiSn8EhpO1WQ13tm) | 2:16 |
-| 7 | [Track 4](https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [A Bend In The Light](https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [A Bend In The Light](https://open.spotify.com/album/4mRh3F5YuHK8pALmGcaujN) | 3:00 |
 | 8 | [Who Knows](https://open.spotify.com/track/4Ff9KReGMUOQ9c5zKzb879) | [Somewhere In Between](https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA) | [Who Knows](https://open.spotify.com/album/7fk1YlvRCEGgwNEo8Mr0ud) | 3:26 |
 | 9 | [Wait for Me](https://open.spotify.com/track/4HAEvT4ylhnLybDfl8hmDm) | [Pony Gold](https://open.spotify.com/artist/5olZNeXkXEoJOM0B2cJTRm) | [High Road Reverie](https://open.spotify.com/album/0fvZtAXepoxeCJKsjThct8) | 3:10 |
 | 10 | [Black Water \- Cinematic Version](https://open.spotify.com/track/3pMKzFAcMUDb74NbHitSFr) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Black Water \(Cinematic Version\)](https://open.spotify.com/album/3JLqLjiwfQfK2rUehzH5Dj) | 3:37 |

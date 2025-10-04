@@ -6448,7 +6448,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -9762,7 +9762,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 242720,
       "name": "Da\u013ca R\u012bgas",
       "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
@@ -20456,7 +20456,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -21775,6 +21775,28 @@
     },
     {
       "album": {
+        "name": "KARUSEL\u012a",
+        "url": "https://open.spotify.com/album/1Ex3Uf5OxrIahyYy6XVPgv"
+      },
+      "artists": [
+        {
+          "name": "Deniss",
+          "url": "https://open.spotify.com/artist/7Buj3BepqTe1ACFEa8x93l"
+        },
+        {
+          "name": "Sudrabu Sirds",
+          "url": "https://open.spotify.com/artist/5IxWv5qXFhkzRt91O4i6gU"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "KARUSEL\u012a",
+      "url": "https://open.spotify.com/track/1osBe1ObKuZBhdxrObHRkH"
+    },
+    {
+      "album": {
         "name": "Karuse\u013ci",
         "url": "https://open.spotify.com/album/2QXjbm5zMRrvdIgxuRmMFU"
       },
@@ -22718,7 +22740,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 197052,
       "name": "K\u0101d\u0113\u013c m\u012blest\u012bba past\u0101v?",
       "url": "https://open.spotify.com/track/6i4jqPZwGZqSFjlHw1yuqk"
@@ -23656,7 +23678,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -40426,7 +40448,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -46804,7 +46826,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 164835,
       "name": "UNDERDOGS",
       "url": "https://open.spotify.com/track/2g7qqpd1smARM6UWgPQxnd"
@@ -48632,7 +48654,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -49562,7 +49584,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 176874,
       "name": "Wish (feat. Trippie Redd) - Trippie Mix",
       "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"

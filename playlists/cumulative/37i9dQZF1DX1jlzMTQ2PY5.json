@@ -413,6 +413,32 @@
     },
     {
       "album": {
+        "name": "Back To The Sun (Nu: Tone Remix)",
+        "url": "https://open.spotify.com/album/54l1KpFSLSG1ItLefwZymo"
+      },
+      "artists": [
+        {
+          "name": "In:Most",
+          "url": "https://open.spotify.com/artist/6vRVgeHl41EnFo70a8iYIG"
+        },
+        {
+          "name": "Nu:Tone",
+          "url": "https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251134,
+      "name": "Back To The Sun - Nu: Tone Remix",
+      "url": "https://open.spotify.com/track/1TdL6ORhmGZlgEo7sKRdGQ"
+    },
+    {
+      "album": {
         "name": "Bayside Groove",
         "url": "https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7"
       },
@@ -883,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280601,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG"
+    },
+    {
+      "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/5FvrHHl0xwpdI7xgaYeaGq"
       },
@@ -1332,7 +1380,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 290251,
       "name": "Elastic Soul",
       "url": "https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5"
@@ -3224,7 +3272,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 316500,
       "name": "Only Dreamers",
       "url": "https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG"

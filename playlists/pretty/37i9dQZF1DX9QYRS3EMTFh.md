@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Blaiz Fayah x Kybba
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,335 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,384 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 |
 | 2 | [Many men](https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc) | [Josh](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Many men](https://open.spotify.com/album/4yjmENCAsHDxhF5fZbUAVt) | 2:39 |
 | 3 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 |
 | 4 | [KADDRYO](https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [KADDRYO](https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS) | 2:30 |

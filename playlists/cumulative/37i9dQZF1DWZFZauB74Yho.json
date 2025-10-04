@@ -3767,6 +3767,28 @@
     },
     {
       "album": {
+        "name": "In Control (feat. Lindsay Lou)",
+        "url": "https://open.spotify.com/album/4haxylHYKTWOlgfV4sb3q8"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337129,
+      "name": "In Control (feat. Lindsay Lou)",
+      "url": "https://open.spotify.com/track/46Bl0IGPmuzmIAzCuWcQwg"
+    },
+    {
+      "album": {
         "name": "The Witch",
         "url": "https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC"
       },
@@ -4434,7 +4456,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 206600,
       "name": "Lo, How a Rose E'er Blooming",
       "url": "https://open.spotify.com/track/4TmqCAAP2I21pwv4h8lWSV"
@@ -5529,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/0tuFl65B3YGtFt7mNDpGae"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229730,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/3sNCGaSvUSqW4Hvggrvl65"
+    },
+    {
+      "album": {
         "name": "Pleasantly Aimless",
         "url": "https://open.spotify.com/album/32qk0HjNnHFlOxOSPTGA4W"
       },
@@ -6232,7 +6272,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 228091,
       "name": "Riverside Rest",
       "url": "https://open.spotify.com/track/1xkqCZXuVoPPvFV2FtvOm6"
@@ -7106,6 +7146,24 @@
       "duration_ms": 190000,
       "name": "Talk It All Over With Him",
       "url": "https://open.spotify.com/track/2TG583CfhfgD1AOoo4ygFu"
+    },
+    {
+      "album": {
+        "name": "River Rat",
+        "url": "https://open.spotify.com/album/6AIye9W5mOCZgsbfk6c440"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/7qAIHFtOLHXMsVH3RJA0Ug"
     },
     {
       "album": {

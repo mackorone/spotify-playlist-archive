@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 17607,
+  "num_followers": 17612,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "Eye Open",
-      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
         "name": "Puul",
         "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 172486,
       "name": "Puul",
       "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "Eye Open",
+      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "Lord I'm Amazed",
-        "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "Lord I'm Amazed",
-      "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
         "name": "Jesus Christ 2",
         "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 217399,
       "name": "Jesus Christ 2",
       "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
+        "name": "Lord I'm Amazed",
+        "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 146776,
+      "name": "Lord I'm Amazed",
+      "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "So it Goes",
-        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 223585,
-      "name": "So it Goes",
-      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 210566,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
+        "name": "So it Goes",
+        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 223585,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 140014,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
         "name": "sankofa",
         "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "BALENCIAGA",
-        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
+        "name": "VOICE OF THE CROWN (African Dancehall)",
+        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 140014,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
+      "duration_ms": 175682,
+      "name": "STREET CROWN (African Dancehall)",
+      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -867,22 +883,6 @@
       "duration_ms": 189177,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
-        "name": "VOICE OF THE CROWN (African Dancehall)",
-        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 175682,
-      "name": "STREET CROWN (African Dancehall)",
-      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
+        "name": "Do You Know?",
+        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
+      },
+      "artists": [
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Do You Know?",
+      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
         "name": "Cheat On You",
         "url": "https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz"
       },
@@ -1055,22 +1075,18 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "Do You Know?",
-        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
       "artists": [
         {
-          "name": "siicie",
-          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "duration_ms": 145794,
-      "name": "Do You Know?",
-      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -1095,22 +1111,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
+        "name": "Tracking You",
+        "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "duration_ms": 183719,
+      "name": "Tracking You",
+      "url": "https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -1219,18 +1235,22 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "Tracking You",
-        "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
       },
       "artists": [
         {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         }
       ],
-      "duration_ms": 183719,
-      "name": "Tracking You",
-      "url": "https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw"
+      "duration_ms": 164000,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -1271,26 +1291,6 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "Alhaji Popping",
-        "url": "https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Alhaji Popping",
-      "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
         "name": "Fever II",
         "url": "https://open.spotify.com/album/2KE52ZTSClpoqFlRUIvrPH"
       },
@@ -1387,6 +1371,38 @@
       "duration_ms": 211632,
       "name": "Fever II",
       "url": "https://open.spotify.com/track/4kcoQCoBdUt9VBJDTsZ5KV"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
+        "name": "Alhaji Popping",
+        "url": "https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Alhaji Popping",
+      "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
+    },
+    {
+      "added_at": "2025-09-26 00:01:26",
+      "album": {
+        "name": "SAME TIMBS",
+        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
+      },
+      "artists": [
+        {
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "SAME TIMBS",
+      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
     },
     {
       "added_at": "2025-09-26 00:01:26",
@@ -1427,26 +1443,6 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
-    },
-    {
-      "added_at": "2025-09-26 00:01:26",
-      "album": {
         "name": "Kwaku Ananse",
         "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
       },
@@ -1479,18 +1475,22 @@
     {
       "added_at": "2025-09-26 00:01:26",
       "album": {
-        "name": "SAME TIMBS",
-        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
       "artists": [
         {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 141176,
-      "name": "SAME TIMBS",
-      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     }
   ],
   "unique_name": "Troski Rhythms",

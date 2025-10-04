@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127133,
+  "num_followers": 127130,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2025-09-18 15:00:42",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
-      "added_at": "2025-09-18 15:00:42",
-      "album": {
         "name": "My House Is Not A Home",
         "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 239181,
       "name": "My House Is Not A Home",
       "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "added_at": "2025-09-18 15:00:42",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
     },
     {
       "added_at": "2025-09-18 15:00:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 153101,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
-    },
-    {
-      "added_at": "2025-09-18 15:00:42",
-      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2025-09-18 15:00:42",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 153101,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
       "added_at": "2025-09-18 15:00:42",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
-        "name": "Fix It to Break It",
-        "url": "https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Fix It to Break It",
-      "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
-    },
-    {
-      "added_at": "2025-09-18 15:00:42",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
+    },
+    {
+      "added_at": "2025-09-18 15:00:42",
+      "album": {
+        "name": "Fix It to Break It",
+        "url": "https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Fix It to Break It",
+      "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
     },
     {
       "added_at": "2025-09-18 15:00:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
-        "name": "Looking Back",
-        "url": "https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 235015,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
-    },
-    {
-      "added_at": "2025-09-18 15:00:42",
-      "album": {
         "name": "Black Radio III",
         "url": "https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 295746,
       "name": "Over [Feat. Yebba]",
       "url": "https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg"
+    },
+    {
+      "added_at": "2025-09-18 15:00:42",
+      "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 235015,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
     },
     {
       "added_at": "2025-09-18 15:00:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "IS THIS LOVE (Piano Ver.)",
-      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
-    },
-    {
-      "added_at": "2025-09-18 15:00:42",
-      "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+    },
+    {
+      "added_at": "2025-09-18 15:00:42",
+      "album": {
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 156880,
+      "name": "IS THIS LOVE (Piano Ver.)",
+      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
     },
     {
       "added_at": "2025-09-18 15:00:42",

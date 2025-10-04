@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Spooky season is begonnen! Luister hier naar de meest griezelige halloween hits.👻
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,969 likes - 52 songs - 3 hr 14 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,981 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 | 51 | [Ballroom Blitz](https://open.spotify.com/track/6k6j3ZUljY1QLTMbc8VqB0) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Throwback Tunes: Classic Rock](https://open.spotify.com/album/3fNhyXjcqOWEo4gXnE8UTV) | 4:00 |
 | 52 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |
 
-Snapshot ID: `AAA8sWO7UCE8Lbxe4ApoWsH9Tt3966EM`
+Snapshot ID: `AAA8s4MOnY4PmyttrbpIgTpR8THSC4Pr`

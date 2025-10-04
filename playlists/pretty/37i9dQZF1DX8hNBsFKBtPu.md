@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,040 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,042 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [](https://open.spotify.com/album/null) | 3:21 |
+| 1 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 |
 | 2 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 |
 | 3 | [Voksen](https://open.spotify.com/track/53jXRnb1DFknbia3gyuvnD) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Tændstikmand](https://open.spotify.com/album/2ziEeRnhEpkyou0mL0EYLF) | 2:31 |
 | 4 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 |
 | 5 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 |
-| 6 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [](https://open.spotify.com/album/null) | 2:30 |
+| 6 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 |
 | 7 | [Vi pumper hjertet op](https://open.spotify.com/track/62ZQfNv9W5HlIOYEjsrc33) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Vi pumper hjertet op](https://open.spotify.com/album/4F0Vp7gGV2GQMUfS1PqGaw) | 5:05 |
 | 8 | [Førhen](https://open.spotify.com/track/1IXqxiib1lsQxXZOdTLVZz) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Førhen](https://open.spotify.com/album/0xnoyPKBHoJS9OUmVZAT3F) | 2:45 |
 | 9 | [Dancing in the Smoke \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dancing in the Smoke \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK) | 3:42 |

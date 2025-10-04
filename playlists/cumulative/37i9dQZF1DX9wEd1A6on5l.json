@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
@@ -5815,8 +5815,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
         {
@@ -6332,6 +6332,24 @@
       "duration_ms": 134237,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+    },
+    {
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "album": {

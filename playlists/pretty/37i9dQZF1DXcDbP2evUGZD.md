@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2025</a>! Meet them first at the MU:CON 2025 official playlist\. \(뮤콘 2025 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,890 likes - 99 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,894 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 61 | [Cosmos](https://open.spotify.com/track/6ZfD4mPtAMiMcV8cAVoV3d) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Cosmos](https://open.spotify.com/album/5dRH7Iw5sHyXkfuLLPFrfX) | 3:22 |
 | 62 | [Flower Garden](https://open.spotify.com/track/7FzUHY7u93OqLInE1kbFWd) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Monologue](https://open.spotify.com/album/5Df35FyFYPNScn7wtSvrBi) | 5:15 |
 | 63 | [Igloo](https://open.spotify.com/track/1plxVCiD3Qw2IWDq3EFuYI) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Igloo](https://open.spotify.com/album/1Crb1iwAqk5Ypx5OHZtA0j) | 5:22 |
-| 64 | [Falling](https://open.spotify.com/track/0TbPY0S8vM7YjFfO8xLus0) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [1](https://open.spotify.com/album/0ifMsKpLd2y53PiCljfZCw) | 4:25 |
-| 65 | [Psycho](https://open.spotify.com/track/0uqzNBmLNaVI69rCNinrnW) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [1](https://open.spotify.com/album/0ifMsKpLd2y53PiCljfZCw) | 4:06 |
-| 66 | [Why Are Memories \(Nothing But A Dream\)](https://open.spotify.com/track/6YMmpwEkRfdshc0gL4gRPv) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [2](https://open.spotify.com/album/5vzGOT5ozqJb2bNNzBoL3Q) | 3:53 |
+| 64 | [Falling](https://open.spotify.com/track/0TbPY0S8vM7YjFfO8xLus0) | [Elaine Kim](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [1](https://open.spotify.com/album/0ifMsKpLd2y53PiCljfZCw) | 4:25 |
+| 65 | [Psycho](https://open.spotify.com/track/0uqzNBmLNaVI69rCNinrnW) | [Elaine Kim](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [1](https://open.spotify.com/album/0ifMsKpLd2y53PiCljfZCw) | 4:06 |
+| 66 | [Why Are Memories \(Nothing But A Dream\)](https://open.spotify.com/track/6YMmpwEkRfdshc0gL4gRPv) | [Elaine Kim](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [2](https://open.spotify.com/album/5vzGOT5ozqJb2bNNzBoL3Q) | 3:53 |
 | 67 | [Is It Love](https://open.spotify.com/track/3ZqPFmCR4UgxSMV60CIskQ) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [Is It Love](https://open.spotify.com/album/2zQSMd6xEd1gKNlsQOyImC) | 3:16 |
 | 68 | [Until You](https://open.spotify.com/track/1L5JFGfnXeVby01GXRpD22) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [Until You](https://open.spotify.com/album/6KEqSI4dlI22hHeWMo9Ulq) | 3:01 |
 | 69 | [A Little More](https://open.spotify.com/track/39HnEYj4EAhri7sAOCTg1n) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [A Little More](https://open.spotify.com/album/1eXQRrGcttMAMNMvZgSRaA) | 3:05 |

@@ -2,9 +2,9 @@
 
 ### [Evolver](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> Multi\-hyphenate pop 🩵 ft\. Tate McRae
+> Multi\-hyphenate pop 🩵 ft\. Danny L Harle & Caroline Polachek
 
-1,986 songs - 4 day 3 hr 28 min
+1,988 songs - 4 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 | 2023-09-21 | 2024-02-09 |
 | [BLAH](https://open.spotify.com/track/212qRRJMxvpN3FNkW6g3rH) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [BLAH](https://open.spotify.com/album/6PZzsTjoax4776aLr6U4jh) | 2:54 | 2025-05-15 | 2025-07-12 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-16 | 2023-04-01 |
+| [Blasting Through the Speakers](https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Blasting Through the Speakers](https://open.spotify.com/album/2ZaBTwE8ma5O8QMyLON6Wf) | 2:46 | 2025-10-03 |  |
 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 | 2021-08-28 | 2021-12-04 |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-17 | 2024-03-05 |
 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-09-23 | 2022-11-19 |
@@ -641,7 +642,7 @@
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-21 | 2024-11-09 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2023-04-01 |
 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 | 2023-04-14 | 2023-06-17 |
-| [GET HIGHER](https://open.spotify.com/track/3MiqSOZesQI2NctPFdSyzP) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:00 | 2025-06-23 |  |
+| [GET HIGHER](https://open.spotify.com/track/3MiqSOZesQI2NctPFdSyzP) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:00 | 2025-06-23 | 2025-10-04 |
 | [Get To Know Me First](https://open.spotify.com/track/6cWpktAau07CQ29s39inYU) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Get To Know Me First](https://open.spotify.com/album/3agkwlYcrKO8FjWzCxGKZU) | 2:48 | 2020-10-13\* | 2020-10-24 |
 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 | 2024-07-05 | 2024-09-06 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-01-27 | 2023-07-08 |
@@ -765,6 +766,7 @@
 | [hell is a teenage girl](https://open.spotify.com/track/4FvcW8lzYpZ4bq9awSHZ1N) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 3:15 | 2023-07-14 | 2023-09-16 |
 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 | 2024-04-19 | 2024-06-22 |
 | [Hello, Anxiety](https://open.spotify.com/track/4vsijqIw4L3Nu0skOLeew2) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc), [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Hello, Anxiety](https://open.spotify.com/album/3NyyHz86QDi0kvzEVbaCKN) | 3:05 | 2024-12-20 | 2025-03-07 |
+| [Here All Night \- Banoffee Remix](https://open.spotify.com/track/2bBkeSYNBIBvbaYU9mFutO) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Here All Night \(Remixes\)](https://open.spotify.com/album/2FmBAje1pzPUlv2JRxMm2Y) | 3:48 | 2025-10-03 |  |
 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 | 2024-04-19 | 2024-06-22 |
 | [Here's To Another](https://open.spotify.com/track/4Ob4ZQ6yiB6WhFGcZaC5qo) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Here's To Another](https://open.spotify.com/album/5HhdWgcutL2dYPUazA2OO0) | 3:07 | 2021-03-27 | 2021-05-22 |
 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 | 2024-04-19 | 2024-06-05 |
@@ -1056,7 +1058,7 @@
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-01 | 2024-02-03 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-27 | 2021-04-17 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-03-10 | 2023-04-29 |
-| [Limit](https://open.spotify.com/track/5eSIszkbwri1GjLKwadnY1) | [Alexis](https://open.spotify.com/artist/6ThJ96c5tGyteRAoHFJelN) | [Limit](https://open.spotify.com/album/0wVguyxOjSDT62DPSG1xU3) | 2:30 | 2025-08-01 |  |
+| [Limit](https://open.spotify.com/track/5eSIszkbwri1GjLKwadnY1) | [Alexis](https://open.spotify.com/artist/6ThJ96c5tGyteRAoHFJelN) | [Limit](https://open.spotify.com/album/0wVguyxOjSDT62DPSG1xU3) | 2:30 | 2025-08-01 | 2025-10-04 |
 | [Liquorice](https://open.spotify.com/track/3OpOpqGleYocPKljUPKPEb) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [lmk \(if you wanna see me\)](https://open.spotify.com/album/6pCzO9GHk5BwemP3eyAX2b) | 3:55 | 2021-06-12 | 2021-08-21 |
 | [Listen 2 Nicole](https://open.spotify.com/track/1DYQLstC1uyHFlt29xBMam) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Listen 2 Nicole](https://open.spotify.com/album/2JahYcKq8jlbQFyzOMJLVy) | 3:19 | 2022-05-27 | 2022-09-04 |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-05-03 | 2021-07-04 |

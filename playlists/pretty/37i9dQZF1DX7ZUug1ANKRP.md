@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: twocolors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,829,162 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828,351 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 44 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 |
 | 45 | [WILD](https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [WILD](https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv) | 2:20 |
 | 46 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 |
-| 47 | [Born To Be Lonely](https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Shy Bandit](https://open.spotify.com/artist/4qQYqpUCGQvPIHkHmnbC7p) | [Born To Be Lonely](https://open.spotify.com/album/2bo04wJjiFwDR4g7n1tBr3) | 2:23 |
+| 47 | [Born To Be Lonely](https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [shy bandit](https://open.spotify.com/artist/4qQYqpUCGQvPIHkHmnbC7p) | [Born To Be Lonely](https://open.spotify.com/album/2bo04wJjiFwDR4g7n1tBr3) | 2:23 |
 | 48 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
 | 49 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 | 50 | [Movie Star](https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Movie Star](https://open.spotify.com/album/5cRJaHx3DiAQAg5MfGkHWs) | 2:17 |

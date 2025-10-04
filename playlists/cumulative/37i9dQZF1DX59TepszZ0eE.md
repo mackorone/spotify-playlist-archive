@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-416 songs - 1 day 19 hr 40 min
+416 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,6 @@
 | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq) | [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv) | 3:55 | 2024-04-19 | 2024-08-23 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [To The Deep](https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [To The Deep](https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33) | 5:49 | 2025-09-19 |  |
-| [Track 10](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-05-30 |
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 | 2023-06-16 |
 | [Uhlaleleni Kusizani](https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/1sDS2OlxaG5j2zrYoA7ODt) | 7:25 | 2023-11-03 | 2024-02-02 |
@@ -360,6 +359,7 @@
 | [Unkulunkulu Emuhle \(Live\)](https://open.spotify.com/track/24H0F6gQ45Pvco4WYE0lCc) | [Nomthie Sibisi](https://open.spotify.com/artist/38cQ56IeLpwr5XL6KTGrR5) | [My God My Heart My Experience \(Live at the House of Treasures Ministries\)](https://open.spotify.com/album/36BvBmNB5SaPF6SgIdfUhx) | 6:56 | 2024-03-29 | 2024-04-05 |
 | [Unusual \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 6:23 | 2024-03-15 | 2024-08-23 |
 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 | 2024-05-10 |
+| [Usibiyele \(Live\)](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise 11 Next Level \(Live\)](https://open.spotify.com/album/0N0j10dgpGDWxeWkE3jdgP) | 11:27 | 2025-10-03 |  |
 | [Usibonile](https://open.spotify.com/track/7nA2rLPo11Xlz435ChhhCs) | [Lusanda Beja](https://open.spotify.com/artist/0YUGmCeW5yRmxinae7xxPe) | [Usibonile](https://open.spotify.com/album/19eBJuWCxI1IgDw0fjT3i4) | 7:24 | 2024-03-29 | 2024-04-05 |
 | [Uthando Lukababa](https://open.spotify.com/track/2SNJi1c3lzCHPvTvOf8B7f) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lukababa](https://open.spotify.com/album/0t5jvuMSjM0Ls6Dzq2gGzo) | 3:41 | 2025-03-14 | 2025-08-01 |
 | [Uthando Lwakhe \(Medley 8\) \- Jehovah Wase Mandulo](https://open.spotify.com/track/3nZzeBYFUzraylvt8RERKq) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakhe \(Medley 8\) \[Jehovah Wase Mandulo\]](https://open.spotify.com/album/3gvnYd70HXpkj8MrvF4Q8k) | 5:11 | 2024-11-22 | 2025-02-28 |

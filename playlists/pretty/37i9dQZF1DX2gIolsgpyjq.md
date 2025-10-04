@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: .blank
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,761 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,789 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 7 | [The Bar](https://open.spotify.com/track/4FDOkBj2PHhFTRfjEzaL17) | [MÄKI](https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa) | [The Bar](https://open.spotify.com/album/6Ch3vzUNWP5ZZ6VTOSPyYZ) | 2:11 |
 | 8 | [Dandelion](https://open.spotify.com/track/5kJ4xd2tfeGLZ5eodkhwo8) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Dandelion](https://open.spotify.com/album/2rFhXh9VvwVBY9sbDXEqXQ) | 2:50 |
 | 9 | [Come Closer](https://open.spotify.com/track/6GEcRHaJbfKkvUMgL3CEvK) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Come Closer](https://open.spotify.com/album/1MbFXd6D2Iw58t1mQliGg8) | 4:23 |
-| 10 | [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [](https://open.spotify.com/album/null) | 4:08 |
+| 10 | [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [Sodalite](https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S) | 4:08 |
 | 11 | [Energy](https://open.spotify.com/track/4O31bgaZWxZkF3uHrdyavg) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Energy](https://open.spotify.com/album/3RqIFGcrmoqWMV7t9S4lh2) | 3:02 |
 | 12 | [Dealerz](https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Dealerz](https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT) | 2:46 |
 | 13 | [Fall in Love](https://open.spotify.com/track/4yLczxNi1nsP6GQesHJEgq) | [Ellove](https://open.spotify.com/artist/4h7s8I7V3aPlVE90BlzJbc) | [Fall in Love](https://open.spotify.com/album/6N3YfcTTTAiT9GU8xFSeLr) | 3:05 |

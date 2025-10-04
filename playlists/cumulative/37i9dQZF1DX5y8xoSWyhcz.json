@@ -17299,6 +17299,24 @@
     },
     {
       "album": {
+        "name": "dog years",
+        "url": "https://open.spotify.com/album/50mjtzsNGH18GWiE8DQljM"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174520,
+      "name": "preaching to the choir",
+      "url": "https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug"
+    },
+    {
+      "album": {
         "name": "predictable",
         "url": "https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to"
       },
@@ -23030,24 +23048,6 @@
       "duration_ms": 139200,
       "name": "Town I Called My Home",
       "url": "https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Chris LaRocca",
-          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug"
     },
     {
       "album": {

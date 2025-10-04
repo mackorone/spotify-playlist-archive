@@ -4,7 +4,7 @@
 
 > gusto ko lang naman ng kayakap
 
-132 songs - 8 hr 12 min
+134 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-12-03 | 2025-07-22 |
 | [Ako Nalang Kasi](https://open.spotify.com/track/2LLwBk9FOlKZ8wT0lUQzOw) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Ako Nalang Kasi](https://open.spotify.com/album/6LlYmFWzlucUOBJsSch4dW) | 5:58 | 2023-10-18 | 2025-07-22 |
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-08 | 2025-07-22 |
+| [ANTOXIC](https://open.spotify.com/track/5QttlrC4uyjZt15VI4LulN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 4:10 | 2025-10-03 |  |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-22 | 2025-09-14 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2025-07-21 | 2025-09-27 |
 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 | 2025-07-21 |  |
@@ -36,6 +37,7 @@
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-09 |  |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-07-21 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 | 2023-11-11 |
+| [Gabi\-Gabi](https://open.spotify.com/track/0VD8nNbhZwthMjutmj4O5X) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Gabi\-Gabi](https://open.spotify.com/album/4T6XW4vmK6Zlcw2mP2tNdl) | 4:25 | 2025-10-03 |  |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 | 2024-01-24 |
 | [Halika Na](https://open.spotify.com/track/2Jh7V0RVCWuPLTTPuS7NRO) | [Ippo Huwano](https://open.spotify.com/artist/2aCY4b5Z1tUWSyAbUNLrr6) | [Halika Na](https://open.spotify.com/album/3Gl4ywlE1QM8AhlONldKdm) | 6:44 | 2023-10-18 | 2024-01-11 |
 | [Hanggang Kailan](https://open.spotify.com/track/2y4Dm1k5X8VXAqkeKOHH30) | [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S), [Rox Santos](https://open.spotify.com/artist/6Gkb685FETNxe4IdeQyHEi) | [Hanggang Kailan](https://open.spotify.com/album/5fgiAaMzlod4qElTfAliNl) | 4:31 | 2023-10-18 | 2023-11-11 |
@@ -105,7 +107,7 @@
 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 | 2025-07-21 |  |
 | [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 | 2025-01-22 | 2025-07-22 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-10-18 | 2024-08-19 |
-| [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 |  |
+| [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 | 2025-10-04 |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-18 | 2025-07-22 |
 | [Sunsets With You](https://open.spotify.com/track/2VeGifKR8RbINCfWcRb5qH) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/7jqLuEgexemjXBbT1Q6oWf) | 4:13 | 2024-04-17 | 2024-08-19 |
 | [Sunsets With You](https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X) | 4:13 | 2023-10-18 | 2024-04-19 |
@@ -133,7 +135,7 @@
 | [waiting 4 u \(delulu\)](https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [waiting 4 u \(delulu\)](https://open.spotify.com/album/4IT8FqSv8iUlPJUZdwU29r) | 3:28 | 2023-11-10 | 2024-04-19 |
 | [Walking Back Home](https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Walking Back Home](https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS) | 2:16 | 2023-11-10 | 2025-07-22 |
 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-26 |  |
-| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-10 |  |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-10 | 2025-10-04 |
 | [Wildfire](https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR) | [Paul Mac](https://open.spotify.com/artist/0xUzRd8sfsuuDvgzYAUXlF) | [Wildfire](https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ) | 3:51 | 2023-10-18 | 2024-01-11 |
 | [YAMETE!](https://open.spotify.com/track/1GAQ7Gl4Ku6fMZKUaseygg) | [Cerisé](https://open.spotify.com/artist/5HeWKf0GFjz9Nje8pfhubj) | [YAMETE!](https://open.spotify.com/album/1uUxrDqlltYtgi4xx5bVFJ) | 5:00 | 2025-09-12 |  |
 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-04-21 |  |

@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Bassline Therapy Radio on SoundCloud
 
-847 songs - 1 day 20 hr 49 min
+848 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Light Show](https://open.spotify.com/track/2iojI0ItNpJ7IoHke35CJ2) | [Sherm](https://open.spotify.com/artist/5GaFjMsAVZru8XDlDkCaN0) | [Light Show](https://open.spotify.com/album/647PYEX0U886SZ5t8wgoQC) | 2:50 | 2024-01-15 | 2024-01-30 |
 | [Light The Fire](https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Light The Fire](https://open.spotify.com/album/1Y0EMZfHy9iiUcrVE0Hzfb) | 3:02 | 2025-04-12 | 2025-06-22 |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-04-19 | 2025-07-05 |
+| [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 | 2025-10-03 |  |
 | [Lights Out](https://open.spotify.com/track/0oxaM718smCBM4edmJ9A2z) | [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [Lights Out](https://open.spotify.com/album/2vH7I0sXABwBSh9HxpVEyX) | 3:00 | 2024-06-23 | 2024-08-20 |
 | [Lights Out \- Radio Edit](https://open.spotify.com/track/1IDD9pR56Z9Pwdvb5CdHFI) | [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd) | [Lights Out / In The Club](https://open.spotify.com/album/3IZvIgDHFlI3V3BbXobXQ6) | 3:05 | 2024-11-04 | 2025-02-04 |
 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-07-12 | 2025-09-28 |
@@ -739,7 +740,7 @@
 | [The Music](https://open.spotify.com/track/1TKUDR2YwE9ff67dsKcnIW) | [Nariman](https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va) | [The Music](https://open.spotify.com/album/5eLE5uECJHi9H2qW5Fxcem) | 2:51 | 2025-04-27 | 2025-07-13 |
 | [The Music Began To Play \- TR760](https://open.spotify.com/track/3RhWuPbQKnjUV4dWreTqg6) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Toolroom Radio EP760 \- Presented by Mark Knight](https://open.spotify.com/album/0MCYMHmQbTnHcJsTC62BIb) | 2:19 | 2024-11-04 | 2025-01-26 |
 | [THE ONLY ONE \- Mixed](https://open.spotify.com/track/38ZvhEgLB3mQzsf98iy8Oh) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt), [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [SkyTop Residency 355 \(DJ Mix\)](https://open.spotify.com/album/0AvHespwzT6G9PqymHZViO) | 3:38 | 2025-03-09 | 2025-05-11 |
-| [The Rhythm](https://open.spotify.com/track/54u05DJVY3qQ9GfLhUBG19) | [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn) | [The Rhythm](https://open.spotify.com/album/1EKtBiMswY0ulnozSY1eUC) | 3:30 | 2025-07-18 |  |
+| [The Rhythm](https://open.spotify.com/track/54u05DJVY3qQ9GfLhUBG19) | [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn) | [The Rhythm](https://open.spotify.com/album/1EKtBiMswY0ulnozSY1eUC) | 3:30 | 2025-07-18 | 2025-10-04 |
 | [The Sound](https://open.spotify.com/track/6S4LzX0Wu4wBqRsQ75boMv) | [Control Room](https://open.spotify.com/artist/0tLJ8fk8oulNkMQRAj4Toi), [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Ghetto Ghetto ADE V](https://open.spotify.com/album/6r0RBk3AGdRksJHHZPcXAa) | 2:52 | 2023-11-20 | 2024-04-30 |
 | [The Sound](https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 3:51 | 2025-03-02 | 2025-05-03 |
 | [The Sound Of House](https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [The Sound Of House](https://open.spotify.com/album/1QmtTqMYdMIGegxlOYprUI) | 2:34 | 2024-11-04 | 2025-02-04 |

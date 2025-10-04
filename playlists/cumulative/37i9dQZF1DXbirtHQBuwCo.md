@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>Wonstein\(원슈타인\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>Yerin Baek\(백예린\)\)
 
-863 songs - 1 day 21 hr 41 min
+864 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2022-12-09 | 2023-01-11 |
 | [Microphone](https://open.spotify.com/track/4qaVcA4yzqG1dlGNdvyTh4) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:16 | 2022-07-07 | 2022-07-23 |
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2024-09-20 |
+| [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-10-03 |  |
 | [Mm Mm](https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:46 | 2022-04-19 | 2022-07-28 |
 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2022-08-01 | 2024-10-04 |
 | [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-12 | 2025-06-05 |
@@ -796,7 +797,7 @@
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-08-19 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [Valentine](https://open.spotify.com/track/3lgIAJyBSEF48IlcZ9ShnO) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Valentine](https://open.spotify.com/album/2zLaoBA72aPQIubIbUSCXN) | 2:40 | 2024-03-14 | 2024-03-28 |
-| [Valentine \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/7hnnB1g67ey0Agj43XAjBF) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [TENT](https://open.spotify.com/album/75zKG2sCdsnY9PhAZKIGnJ) | 3:28 | 2025-09-29 |  |
+| [Valentine \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/7hnnB1g67ey0Agj43XAjBF) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [TENT](https://open.spotify.com/album/75zKG2sCdsnY9PhAZKIGnJ) | 3:28 | 2025-09-29 | 2025-10-04 |
 | [Vanishing Cats](https://open.spotify.com/track/33DQMWkaKTBkpKlmXuuNT0) | [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [LOVE is DRUG](https://open.spotify.com/album/2zv1UOpGFgfJ5GC7Wb3kF0) | 3:15 | 2022-11-22 | 2022-12-10 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 | 2024-04-19 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-05-04 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop co\-curada por Vizinhos
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,426 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,521 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 23 | [Só Existo Contigo](https://open.spotify.com/track/6KSp8SF1M4DmlO3FA3JU9G) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Só Existo Contigo](https://open.spotify.com/album/3H9BKvBxbel1z3lFbgY57r) | 3:27 |
 | 24 | [Como Tens Estado](https://open.spotify.com/track/2gEhamLKrRmJJqanA7uVm1) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [Como Tens Estado](https://open.spotify.com/album/4UdQsscUHyDclkcoFm60QG) | 3:04 |
 | 25 | [Beijo](https://open.spotify.com/track/3303s19agScDaCsPYdCu7i) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Toy](https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd), [Tony Carreira](https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu) | [Beijo](https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw) | 3:29 |
-| 26 | [Pessoa \- Living Room Sessions](https://open.spotify.com/track/0dnFk4Ey4ETEHlp03hV1XL) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [](https://open.spotify.com/album/null) | 4:32 |
+| 26 | [Pessoa \- Living Room Sessions](https://open.spotify.com/track/0dnFk4Ey4ETEHlp03hV1XL) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mantra \(Living Room Sessions\)](https://open.spotify.com/album/0BlQqX8I4gCGxn6f8GTTAu) | 4:32 |
 | 27 | [Tanto Tempo](https://open.spotify.com/track/003pENpxbAlWY7nMscpC05) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Tanto Tempo](https://open.spotify.com/album/2ItHTcdJBMsxn1q4zjf9Fr) | 3:45 |
 | 28 | [Amor Borderline \(Doutor\)](https://open.spotify.com/track/6ZamBK5t2OJECKYVuWdrlt) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Amor Borderline \(Doutor\)](https://open.spotify.com/album/3ZfKdr84Q5Fgqdch2X5XA4) | 2:52 |
 | 29 | [Somos par](https://open.spotify.com/track/2K1KhnE1gF7iAUq0qlTv2Y) | [HMB](https://open.spotify.com/artist/4zV7RMrLwCXYZyzLyGqDFC) | [Somos par](https://open.spotify.com/album/3eJT96x3RKw5SR1f1CNiJl) | 3:29 |

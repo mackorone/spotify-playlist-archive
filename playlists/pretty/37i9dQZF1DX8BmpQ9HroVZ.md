@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Ali Sethi, Shae Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,740 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,802 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 64 | [Laal Pari \(From "Housefull 5"\)](https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Alfaaz](https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C) | [Laal Pari \(From "Housefull 5"\)](https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L) | 4:16 |
 | 65 | [Aaj Ki Raat](https://open.spotify.com/track/7w781Nnk4MnRsZrZ4TO2XY) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Rkpg1IvjxuGhvcfceIfVW) | 3:48 |
 
-Snapshot ID: `AAAAAK7qStFHak2omRAbKVZb7G/WrSfM`
+Snapshot ID: `AAAAAO+4sClAhhR2KGhbn24K0EVnL7X+`

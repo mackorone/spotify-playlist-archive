@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 ### [Common Thread](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> storytelling songwriting ✨ Cover: Liang Lawrence
+> From the heart..\. with Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,207 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,209 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 6 | [In Other Words](https://open.spotify.com/track/03qAI5HA2LS4Bm8SGpTp1X) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:42 |
 | 7 | [Imagine It](https://open.spotify.com/track/37gB6gWZ6Ic8Qk7FjzIyDo) | [Shay O'Dowd](https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu) | [Imagine It](https://open.spotify.com/album/3KqQYAEi5mhJfjK4DzeeH9) | 3:20 |
 | 8 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 9 | [Nothing Else Matters](https://open.spotify.com/track/4XP2eIS4TFcdRskn8IyjQF) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [](https://open.spotify.com/album/null) | 2:47 |
+| 9 | [Nothing Else Matters](https://open.spotify.com/track/4XP2eIS4TFcdRskn8IyjQF) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Notes From An Open Book](https://open.spotify.com/album/5C6GqcKYDH96BfFZkTiJEf) | 2:47 |
 | 10 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
 | 11 | [Ghost](https://open.spotify.com/track/7cHC1Nuj4HKiBUoJsNQVpQ) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Salt Stained Lungs \(Extended\)](https://open.spotify.com/album/7w9BV1fohwgNXOinUjujlc) | 3:29 |
 | 12 | [evergreen](https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [evergreen](https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3) | 2:59 |
-| 13 | [Something That I Can't Forget](https://open.spotify.com/track/3Ea73OugiZpZ2vkuUVAw3l) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [](https://open.spotify.com/album/null) | 3:49 |
+| 13 | [Something That I Can't Forget](https://open.spotify.com/track/3Ea73OugiZpZ2vkuUVAw3l) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/1fJwJU0qxtEcHmYDwulQvj) | 3:49 |
 | 14 | [A Love Like This](https://open.spotify.com/track/1UxFKQhrTBHkvIfwj1w7mK) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [A Love Like This](https://open.spotify.com/album/1A2Fp5UH4hSe7Lf788gQtW) | 3:23 |
 | 15 | [Your Nonsense Makes Sense](https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Easy Street](https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8) | 3:13 |
 | 16 | [The Best Is Yet To Come](https://open.spotify.com/track/6QqxkhFWS49pq67T6Vrfjq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Best Is Yet To Come](https://open.spotify.com/album/7adbWwMsonRMUpGFqwBuDg) | 3:18 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 18 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
 | 19 | [At the Back of My Mind](https://open.spotify.com/track/5dcfbE5nPOISGqGqeLEi1d) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [At the Back of My Mind](https://open.spotify.com/album/61wWyNEz7U5iVuZcUaJ5Mt) | 3:24 |
 | 20 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 |
-| 21 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [](https://open.spotify.com/album/null) | 3:20 |
+| 21 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 |
 | 22 | [Cure for Emptiness \(with Bello\)](https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Bello](https://open.spotify.com/artist/2T51pCP4efnt6zBBOj6CZT) | [Cure for Emptiness \(with Bello\)](https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT) | 3:20 |
 | 23 | [It's Been A Year](https://open.spotify.com/track/2noyEc0rcO8RWS6vsfrif6) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF), [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [It's Been A Year](https://open.spotify.com/album/1pVmUWIpVBbtEvnHWlj3PQ) | 4:16 |
 | 24 | [The Valley](https://open.spotify.com/track/1TKjOHN1FDNcClMQyKQRgw) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [The Valley](https://open.spotify.com/album/4S2932lDiFz0RbLvNlHwWu) | 2:39 |

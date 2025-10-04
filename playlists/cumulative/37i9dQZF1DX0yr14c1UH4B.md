@@ -2,7 +2,7 @@
 
 ### [Common Thread](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> storytelling songwriting ✨ Cover: Liang Lawrence
+> From the heart..\. with Leith Ross
 
 566 songs - 1 day 7 hr 40 min
 
@@ -336,7 +336,7 @@
 | [Nobody](https://open.spotify.com/track/4POSbPMxN0VrfighTfRtuc) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Nobody](https://open.spotify.com/album/1Rx0kVYmGys2Lcg6TtnVKu) | 3:04 | 2025-06-19 | 2025-09-26 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 | 2025-03-14 |
 | [Not Getting Better](https://open.spotify.com/track/0l1w6Ukv7YBrkgcppMcseq) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Not Getting Better](https://open.spotify.com/album/02Fi5JDPyEl2LzZByBaFj4) | 3:15 | 2025-08-29 | 2025-09-12 |
-| [Nothing Else Matters](https://open.spotify.com/track/4XP2eIS4TFcdRskn8IyjQF) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [](https://open.spotify.com/album/null) | 2:47 | 2025-10-02 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/4XP2eIS4TFcdRskn8IyjQF) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Notes From An Open Book](https://open.spotify.com/album/5C6GqcKYDH96BfFZkTiJEf) | 2:47 | 2025-10-02 |  |
 | [Oh I](https://open.spotify.com/track/6Zii2QVdPFQkccXb6xfVyp) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3EPXB5kegS61bKckB7EBkh) | 3:57 | 2024-09-13 | 2025-02-28 |
 | [OH OK](https://open.spotify.com/track/4EzO3zS74C4M1riJX2UFoy) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [OH OK](https://open.spotify.com/album/45izLLJLKrNwYUS5xRFnwg) | 2:50 | 2025-05-22 | 2025-07-25 |
 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 | 2025-07-10 | 2025-10-03 |
@@ -435,7 +435,7 @@
 | [Someone For Me](https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:34 | 2024-10-25 | 2025-03-14 |
 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 | 2024-08-16 | 2025-01-31 |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-19 |  |
-| [Something That I Can't Forget](https://open.spotify.com/track/3Ea73OugiZpZ2vkuUVAw3l) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [](https://open.spotify.com/album/null) | 3:49 | 2025-10-02 |  |
+| [Something That I Can't Forget](https://open.spotify.com/track/3Ea73OugiZpZ2vkuUVAw3l) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/1fJwJU0qxtEcHmYDwulQvj) | 3:49 | 2025-10-02 |  |
 | [Something to Say](https://open.spotify.com/track/2ZZP27kh5hf4yl3JJhlf4V) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Something to Say](https://open.spotify.com/album/1EgA5STWtP2nbY4kBGcre2) | 2:26 | 2025-09-11 |  |
 | [Song That I Sing](https://open.spotify.com/track/5FYz0KlyvUxKx5cbfkJiwJ) | [Billy Reekie](https://open.spotify.com/artist/4HtYFOtukrRd7RPkTqUAVr) | [Song That I Sing](https://open.spotify.com/album/4ve29uplr8eRg4MOHR4I9H) | 2:57 | 2025-07-31 | 2025-08-29 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-28 | 2025-03-21 |
@@ -504,7 +504,7 @@
 | [Time & Place](https://open.spotify.com/track/2hmVOGwrx2F9BrWBicv1fA) | [Opheliah](https://open.spotify.com/artist/28xj48nWyAvwEEyk1IWAtt) | [Time & Place](https://open.spotify.com/album/74TUBXQLbvtfUpoAgqMR0R) | 3:37 | 2025-09-04 | 2025-10-03 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-09-05 |
 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 | 2025-08-22 | 2025-10-03 |
-| [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [](https://open.spotify.com/album/null) | 3:20 | 2025-10-02 |  |
+| [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 | 2025-10-02 |  |
 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 | 2025-05-09 | 2025-07-18 |
 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 | 2025-05-22 | 2025-09-26 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-05-31 | 2025-01-31 |

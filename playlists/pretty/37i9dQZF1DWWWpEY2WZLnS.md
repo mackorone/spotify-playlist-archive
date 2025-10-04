@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,796 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,950 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 4 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
 | 5 | [SINSENTI](https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 2:06 |
 | 6 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
-| 7 | [A Guevo A Guevo](https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt) | [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [La Grimita](https://open.spotify.com/artist/08XZwESYiRiL4oIQMIsnQA), [TOLO DESAPARECELO](https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5) | [A Guevo A Guevo](https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj) | 1:48 |
-| 8 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 9 | [Silla](https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Silla](https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7) | 2:21 |
-| 10 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
-| 11 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
-| 12 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
-| 13 | [COMO TE CONTE](https://open.spotify.com/track/1MbN7WXNGp1ckPmY2TTq2c) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 1:51 |
+| 7 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
+| 8 | [A Guevo A Guevo](https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt) | [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [La Grimita](https://open.spotify.com/artist/08XZwESYiRiL4oIQMIsnQA), [TOLO DESAPARECELO](https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5) | [A Guevo A Guevo](https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj) | 1:48 |
+| 9 | [Un Día Tu](https://open.spotify.com/track/1l9BSiIstD2Dtsq9IdAOph) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Un Día Tu](https://open.spotify.com/album/2BwzTUBmFvOQbJhbIpiKqu) | 2:14 |
+| 10 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
+| 11 | [Silla](https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Silla](https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7) | 2:21 |
+| 12 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
+| 13 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
 | 14 | [Crazy Design \- Que Rica](https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Que Rica](https://open.spotify.com/album/7asfVYRPtTeyHzdBTVw133) | 1:55 |
 | 15 | [A 30](https://open.spotify.com/track/2h2Kllyx5wpXvrYN3M8CG1) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [A 30](https://open.spotify.com/album/5axWGwuaUWpgDWbHMRVLXk) | 1:55 |
 | 16 | [Rulay y Pico](https://open.spotify.com/track/22hHcBsrTT43c3rZUBKFZF) | [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX), [Megadivo Produce](https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN) | [Rulay y Pico](https://open.spotify.com/album/45OhNC88b4cu2bbGWAHc4b) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
 | 50 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
 
-Snapshot ID: `AAAAANJm1sUt3DIwPbxd64cCqT5reQST`
+Snapshot ID: `AAAAAJREI7tgaaZHgvfF1HLTsANxA7Tm`

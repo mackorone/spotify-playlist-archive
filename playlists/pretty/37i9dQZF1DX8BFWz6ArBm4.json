@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Konstantinos Pantelidis",
-  "num_followers": 36766,
+  "num_followers": 36791,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
+        "name": "maZW Akoma (Ola Mou Ta Thelo)",
+        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "maZW Akoma (Ola Mou Ta Thelo)",
+      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+    },
+    {
+      "added_at": "2025-10-02 21:00:25",
+      "album": {
         "name": "Mavra Matia",
         "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 181894,
       "name": "Mavra Matia",
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
-    },
-    {
-      "added_at": "2025-10-02 21:00:25",
-      "album": {
-        "name": "maZW Akoma (Ola Mou Ta Thelo)",
-        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "maZW Akoma (Ola Mou Ta Thelo)",
-      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Bam",
-        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
+        "name": "24 Ores",
+        "url": "https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844"
       },
       "artists": [
         {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
         }
       ],
-      "duration_ms": 166198,
-      "name": "Bam",
-      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
+      "duration_ms": 197378,
+      "name": "24 Ores",
+      "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "24 Ores",
-        "url": "https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844"
+        "name": "Bam",
+        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
       },
       "artists": [
         {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
         }
       ],
-      "duration_ms": 197378,
-      "name": "24 Ores",
-      "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
+      "duration_ms": 166198,
+      "name": "Bam",
+      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
     },
     {
       "added_at": "2025-10-02 21:00:25",

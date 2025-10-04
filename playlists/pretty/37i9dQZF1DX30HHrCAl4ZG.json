@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Geese",
-  "num_followers": 814497,
+  "num_followers": 814073,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANM+fXGvU9BKqp76PeIYeKMgjHWo",
+  "snapshot_id": "AAAAAOyPh8morzMlb9H/2fXaLVvlEgT2",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:11",
@@ -23,6 +23,54 @@
       "duration_ms": 185152,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Cross Your Heart",
+        "url": "https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Cross Your Heart",
+      "url": "https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Strung Out Symphony",
+        "url": "https://open.spotify.com/album/4vkZh7v970FaGHlF16IDeW"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 189772,
+      "name": "detroit",
+      "url": "https://open.spotify.com/track/0ESmbstBQI4arPAsNkHZ8g"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "R is for Rocket",
+        "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
+      },
+      "artists": [
+        {
+          "name": "Rocket",
+          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
+        }
+      ],
+      "duration_ms": 231228,
+      "name": "Number One Fan",
+      "url": "https://open.spotify.com/track/0JxmOHLNDZMy6m0vKUMgUh"
     },
     {
       "added_at": "2025-09-26 04:00:11",
@@ -71,6 +119,38 @@
       "duration_ms": 195306,
       "name": "Townies",
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2025-09-26 04:00:11",
@@ -303,22 +383,6 @@
       "duration_ms": 222224,
       "name": "Salesman",
       "url": "https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG"
-    },
-    {
-      "added_at": "2025-09-05 19:44:07",
-      "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 227070,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
       "added_at": "2025-09-19 04:00:29",
@@ -743,22 +807,6 @@
     {
       "added_at": "2025-08-22 04:00:27",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
         "name": "Trinidad",
         "url": "https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x"
       },
@@ -885,20 +933,20 @@
       "url": "https://open.spotify.com/track/6lgMxz2iOpeiDTIeuIR7Be"
     },
     {
-      "added_at": "2025-08-22 04:00:27",
+      "added_at": "2025-09-05 19:44:07",
       "album": {
-        "name": "Mirtazapine",
-        "url": "https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L"
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
       "artists": [
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 201372,
-      "name": "Mirtazapine",
-      "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
       "added_at": "2025-08-22 04:00:27",

@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-83 songs - 4 hr 40 min
+84 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Who Took The Merry Out Of Christmas \- Single Version](https://open.spotify.com/track/41U86awdgg7CKQUA4twR68) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 2:29 | 2021-11-12 |  |
 | [Winter Melody](https://open.spotify.com/track/1zHOjqf8DqjNq6OB7Y5mrF) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Four Seasons Of Love \(Reissue\)](https://open.spotify.com/album/7K5qRyPS0glYiCzgqJdEjt) | 6:28 | 2021-11-12 |  |
 | [Wish You A Merry Christmas](https://open.spotify.com/track/0jG8bVu9lXJcvPAIqiWHvS) | [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [The Ultimate Motown Christmas Collection](https://open.spotify.com/album/273oV10n4O57Q5n3vYYi73) | 2:47 | 2022-12-06 |  |
+| [Xmas In The Hood](https://open.spotify.com/track/2qMx9EqL28rUQmGI6c9jxp) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Soul Funk Xmas](https://open.spotify.com/album/4FL5Nt8rTgXlBKGEgTCHvU) | 4:47 | 2025-10-03 |  |
 | [Xmas Twist](https://open.spotify.com/track/6jWoQ3rQIs61fYI6tFF45O) | [The Twistin' Kings](https://open.spotify.com/artist/7CwF0SRvwcDYNGbYa4R4Lk) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:42 | 2021-11-12 |  |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2021-11-12 |  |
 | [You Won't Have To Wait Til Xmas](https://open.spotify.com/track/2cinI0VmjNv5XsvUDlEPvO) | [Lee Rogers](https://open.spotify.com/artist/43h66lHTpDsF4e3EFC3QP6) | [Boss Love: The United Kingdom Collection](https://open.spotify.com/album/6Fh8Gx2zPSXOG37F1AUZIB) | 2:30 | 2022-12-06 |  |

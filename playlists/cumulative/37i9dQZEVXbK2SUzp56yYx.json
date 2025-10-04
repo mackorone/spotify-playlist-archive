@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 79578,
       "name": "aromat",
       "url": "https://open.spotify.com/track/5R7rlvOCZj7JvhHZPxilbZ"
@@ -8571,6 +8571,28 @@
     },
     {
       "album": {
+        "name": "Brightest Blue",
+        "url": "https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU"
+    },
+    {
+      "album": {
         "name": "HAZA",
         "url": "https://open.spotify.com/album/4IvwBhdB1Z56g8nqmp4Ndk"
       },
@@ -10234,7 +10256,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -13006,6 +13028,28 @@
     {
       "album": {
         "name": "SWAT",
+        "url": "https://open.spotify.com/album/2dZ0APHp9odDMxKUTxIPQh"
+      },
+      "artists": [
+        {
+          "name": "overtonight throwaways",
+          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
+        },
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105437,
+      "name": "mirrors demo",
+      "url": "https://open.spotify.com/track/3LDEJgX75Dh0HzEDtQY7lv"
+    },
+    {
+      "album": {
+        "name": "SWAT",
         "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
       },
       "artists": [
@@ -13020,7 +13064,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -20082,7 +20126,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 241499,
       "name": "THE DEATH OF PEACE OF MIND",
       "url": "https://open.spotify.com/track/4otwFzkVBdVNTBu7gxJA4A"
@@ -26872,7 +26916,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 106666,
       "name": "\u0434\u044b\u0440\u043a\u0438 \u0432 \u0448\u0442\u0430\u043d\u0430\u0445",
       "url": "https://open.spotify.com/track/2w3N3Ov4IoK8eZt0hC86HH"
@@ -34364,7 +34408,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 108265,
       "name": "\u0441\u043d\u0430\u0439\u043f\u0435\u0440",
       "url": "https://open.spotify.com/track/5PwbYuCq5S2re838YAVfDT"
@@ -35458,7 +35502,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 205191,
       "name": "\u0422\u0435\u0440\u0435\u043d\u0442\u0438\u0439",
       "url": "https://open.spotify.com/track/2XirHTDW0DvbvwKnVKIdDR"
@@ -38208,7 +38252,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 234093,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A"

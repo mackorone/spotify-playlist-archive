@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "About the Fox and a Tiger",
+        "url": "https://open.spotify.com/album/2jyPMzpXk0PPcjCaPmmND8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350590,
+      "name": "About the Fox and a Tiger",
+      "url": "https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0"
+    },
+    {
+      "album": {
         "name": "About the World",
         "url": "https://open.spotify.com/album/3nfU5B8g3ptWrjSdo76cV7"
       },
@@ -107071,24 +107089,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5YnSfRStdRwBPeCokwKXU0"
-    },
-    {
-      "album": {
         "name": "Track Your Steps",
         "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
       },
@@ -118057,7 +118057,7 @@
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 216521,
+      "duration_ms": 219130,
       "name": "you're a star",
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },

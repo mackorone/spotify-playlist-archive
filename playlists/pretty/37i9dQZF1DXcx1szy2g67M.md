@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Dé playlist voor het najaar van 2025! 🌦️☔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,844 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,020 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [Color \(Sun Goes Down\)](https://open.spotify.com/track/717aa8CvM7xQTBpBM7eYD5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Color \(Sun Goes Down\)](https://open.spotify.com/album/45ESfgcoI640fL4gbSU5xD) | 2:36 |
 | 100 | [Burning Down](https://open.spotify.com/track/4sRKsQ7zQEACvXTi7hPyjX) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down \(Alex’s Version\)](https://open.spotify.com/album/44SlAPqGthCRERcF5874so) | 2:59 |
 
-Snapshot ID: `AAAAAMn5WKDJPjVyFi4ERsl3ei834Ga0`
+Snapshot ID: `AAAAANQTM/pS7P2I05HzrctTHEC5vUJP`

@@ -316,6 +316,24 @@
     {
       "album": {
         "name": "In De Tent",
+        "url": "https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd"
+      },
+      "artists": [
+        {
+          "name": "Zirkus Zirkus",
+          "url": "https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215463,
+      "name": "Blockparty",
+      "url": "https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax"
+    },
+    {
+      "album": {
+        "name": "In De Tent",
         "url": "https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy"
       },
       "artists": [
@@ -326,7 +344,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 216906,
       "name": "Blockparty",
       "url": "https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5"
@@ -1056,6 +1074,24 @@
     {
       "album": {
         "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/63rceqrBYQJBdpOXheMZmU"
+      },
+      "artists": [
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146956,
+      "name": "Slaaptekort",
+      "url": "https://open.spotify.com/track/3p2Z2ql0Lh5Ywa6sfQOjlC"
+    },
+    {
+      "album": {
+        "name": "Slaaptekort",
         "url": "https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3"
       },
       "artists": [
@@ -1066,7 +1102,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 146956,
       "name": "Slaaptekort",
       "url": "https://open.spotify.com/track/4zAbjQvRdn3FLgoS3775Jx"
@@ -1356,6 +1392,32 @@
     {
       "album": {
         "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/3ROg8rapFYVq5IJmOwDHlq"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/2IV6ArKIuTpNxqXCCHd0mG"
+    },
+    {
+      "album": {
+        "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
       "artists": [
@@ -1374,7 +1436,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 148467,
       "name": "Vluchtstrook",
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
@@ -1484,10 +1546,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 154843,
       "name": "Wat Jij Ook Zegt",
       "url": "https://open.spotify.com/track/2NJiiDb6ztLlPYChbQeNZF"
+    },
+    {
+      "album": {
+        "name": "Wat Jij Ook Zegt",
+        "url": "https://open.spotify.com/album/2WG1qDr9yBtHulvy5bftBD"
+      },
+      "artists": [
+        {
+          "name": "Hansie",
+          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154843,
+      "name": "Wat Jij Ook Zegt",
+      "url": "https://open.spotify.com/track/5gMNp4ZY0CnbWf2eZLcPEX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFSbtdIJNST3R"

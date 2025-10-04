@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: \[Alexandros\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,591 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,770 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 40 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
 | 41 | [What's for dinner today?](https://open.spotify.com/track/4NKJxYKXxlAhJqQRNdl43e) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [What's for dinner today?](https://open.spotify.com/album/7gfEUykZUfEDznPHXr3gxF) | 3:29 |
 | 42 | [Bassist](https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Bassist](https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs) | 3:11 |
-| 43 | [Abduct](https://open.spotify.com/track/6fy7KzYetbfLyZIjRaEgn3) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [Abduct](https://open.spotify.com/album/3xNhPdVyaKJNbuYTz5Dkje) | 3:43 |
+| 43 | [Abduct](https://open.spotify.com/track/6fy7KzYetbfLyZIjRaEgn3) | [KEPURA](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [Abduct](https://open.spotify.com/album/3xNhPdVyaKJNbuYTz5Dkje) | 3:43 |
 | 44 | [High\-Spin Coffee\-Cup](https://open.spotify.com/track/613IIESO1zDVaBW45zSy6d) | [BIGMAMA](https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k) | [High\-Spin Coffee\-Cup](https://open.spotify.com/album/4d3FNw08vtNfU7M8HRIpkx) | 4:00 |
 | 45 | [Kanaimasenkane](https://open.spotify.com/track/626Gdtfm2RgScpMKKKTMNH) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Kanaimasenkane](https://open.spotify.com/album/5RooSsSfxYYJ29F6navtyA) | 4:41 |
 | 46 | [OH MY LOVE](https://open.spotify.com/track/5lrioAK70nst2EGS7QszoA) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Hump Back](https://open.spotify.com/album/3NqqrUA6nVcBFLAakLUeE0) | 3:44 |

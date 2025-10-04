@@ -2,7 +2,7 @@
 
 ### [\(AR\)](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 CCINNI
+> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Marvio.
 
 326 songs - 1 day 7 hr 14 min
 

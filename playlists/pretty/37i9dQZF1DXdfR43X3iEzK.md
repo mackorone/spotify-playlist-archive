@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: florence road
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,097 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,100 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 4 | [Big Bad Pearl](https://open.spotify.com/track/7cPH1QXuEtdtGGJ7f1bn6j) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Big Bad Pearl](https://open.spotify.com/album/46WHnnpAdHD3vQgtJA6e8i) | 3:42 |
 | 5 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
 | 6 | [u don't have to tell me](https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [eat me alive / u don't have to tell me](https://open.spotify.com/album/3mxQzFNEhn2XAr2UvCt2bI) | 2:15 |
-| 7 | [Track 13](https://open.spotify.com/track/2Rpu0oXgMlxSJkpsY6Vdtz) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [WOULDN'T I MAKE A GOOD FATHER \(feat\. JayaHadADream\)](https://open.spotify.com/track/2Rpu0oXgMlxSJkpsY6Vdtz) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [I'M A HURRICANE I'M A WOMAN IN LOVE](https://open.spotify.com/album/07nlICOpAmXfEbi8mXRNox) | 3:31 |
 | 8 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
 | 9 | [CANNIBALISM!](https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CANNIBALISM!](https://open.spotify.com/album/20PiiYxiYvWiagbQ65z1Qo) | 2:47 |
 | 10 | [You Won't Love Me](https://open.spotify.com/track/7HIuSHLcpC3AnW5tCNKBd4) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [You Won't Love Me](https://open.spotify.com/album/73O6oBbbIP9mzOxxqsSZLH) | 2:11 |
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 14 | [Rage Song](https://open.spotify.com/track/1mZsxI7QtNxMEZvBKnRPFN) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Rage Song](https://open.spotify.com/album/4qJlBhyclw8Dz0uRzfiyzL) | 2:54 |
 | 15 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 |
 | 16 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
-| 17 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [](https://open.spotify.com/album/null) | 2:56 |
+| 17 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 18 | [Own Me](https://open.spotify.com/track/3t7lmi5cCWlqkDCHPLxs1N) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Own Me](https://open.spotify.com/album/5gYK8rsyQvHAHplAmFpplG) | 2:47 |
 | 19 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
 | 20 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
 | 21 | [PARALYSED](https://open.spotify.com/track/7x5siS0kelqoM5nrAniNQb) | [Delojho](https://open.spotify.com/artist/76yzZfpsxUIFE0117HYxny) | [PARALYSED](https://open.spotify.com/album/6LSSbowVEWy0WM9ALyMNGW) | 2:54 |
-| 22 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [](https://open.spotify.com/album/null) | 3:00 |
+| 22 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 |
 | 23 | [100 degrees](https://open.spotify.com/track/7aHHWISzIJkbIZdDHvnqtS) | [bodydrive](https://open.spotify.com/artist/5tnWqhwxkbOnWHzTObneAc) | [100 degrees](https://open.spotify.com/album/6oJ8zAqD2KcEj0ZnSqflAH) | 2:39 |
 | 24 | [Blue Eyes](https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Blue Eyes](https://open.spotify.com/album/4eQEJgxCdf7B0OF2JTccgQ) | 2:18 |
 | 25 | [L 4 U](https://open.spotify.com/track/6B7Wtk23dzqMMs74WPQPoj) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [L 4 U](https://open.spotify.com/album/5nye3GvEkleWWUSjeUwxCl) | 1:54 |

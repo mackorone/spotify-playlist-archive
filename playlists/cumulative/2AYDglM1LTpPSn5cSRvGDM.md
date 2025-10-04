@@ -4,7 +4,7 @@
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-147 songs - 8 hr 18 min
+148 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 | 2025-07-11 |  |
 | [Fantasy](https://open.spotify.com/track/1D2KxqvSvixHkRs3yaHkmT) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 3:52 | 2025-07-11 |  |
 | [Feel](https://open.spotify.com/track/3A6hpJWNrYJxRq6TYFajEE) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [Feel](https://open.spotify.com/album/59MzHs1g6eEn1gaO3ioeSq) | 3:42 | 2025-07-11 |  |
+| [Feel It](https://open.spotify.com/track/7MyVESXODLC38Mn7Wse08B) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Feel It](https://open.spotify.com/album/3jTwNuh1IeoiYeBzLINoMt) | 3:18 | 2025-10-03 |  |
 | [Fine Day](https://open.spotify.com/track/09eWCNjHzXXOUcvLzXKvAq) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Fine Day](https://open.spotify.com/album/765HkHd46H8HL4NqQpkakp) | 3:38 | 2025-07-11 |  |
 | [Flustered](https://open.spotify.com/track/1AApZ7YFEkRGGIztqpR6LH) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg) | [Flustered](https://open.spotify.com/album/3mewVkqU5pRfLfvRovc8uk) | 2:19 | 2025-09-15 |  |
 | [Free](https://open.spotify.com/track/4hop8KnUSBre41V0IDIbt0) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Raiku](https://open.spotify.com/artist/0X6oat1RJhoAYizMmEXAOq) | [Free](https://open.spotify.com/album/7HGnXodhePTyFj8gikSOZx) | 4:09 | 2025-07-11 | 2025-09-06 |
@@ -88,7 +89,7 @@
 | [Losing My Mind](https://open.spotify.com/track/56iS3PFiFfZHGV5FXYm2fq) | [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB), [Delayz](https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX) | [Losing My Mind](https://open.spotify.com/album/0sjiOcEYautpiNZjTtYt4o) | 3:55 | 2025-07-25 | 2025-08-09 |
 | [Lost and Found](https://open.spotify.com/track/10ZxS2ESRcGo774KZXMcX8) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Jamie Scott](https://open.spotify.com/artist/3GmfV6ZlTLGA669yMuLplT) | [Lost and Found](https://open.spotify.com/album/4I4neDTr7ebLtrhmVijhai) | 3:07 | 2025-07-11 |  |
 | [Love Parade](https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Love Parade](https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv) | 3:26 | 2025-09-26 |  |
-| [LOW](https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt) | [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [LOW](https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43) | 3:05 | 2025-09-05 |  |
+| [LOW](https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt) | [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [LOW](https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43) | 3:05 | 2025-09-05 | 2025-10-04 |
 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-05 |  |
 | [Madan](https://open.spotify.com/track/7ljzf9Lu5hbzLrE6jU0nLd) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [Spectorsonic](https://open.spotify.com/artist/73xgdt1MLi3493DXG5koga), [Alex Believe](https://open.spotify.com/artist/6QtCY1hjuTMMf0e3T6u8z5), [INNA JAYA](https://open.spotify.com/artist/7sJXnbiOYLH3CCmCfT3bo2) | [Madan](https://open.spotify.com/album/6NvgXX3065McysQS0PjvED) | 2:26 | 2025-08-22 |  |
 | [Man Down](https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Man Down](https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd) | 2:29 | 2025-07-11 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new music every Friday\. Cover: Magdalena Bay
+> The best new music every Friday\. Cover: Chanel Beads
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,875 likes - 166 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,617 likes - 166 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 165 | [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 |
 | 166 | [Outbound](https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Outbound](https://open.spotify.com/album/04PB5ijhEf7SJnQp1D1G9K) | 3:47 |
 
-Snapshot ID: `AAAAAF/5yLD/7/TSN1OpKcPOeCrjFnRp`
+Snapshot ID: `AAAAAGbP0qfpJR7fuCPH/N8vXlUg945J`

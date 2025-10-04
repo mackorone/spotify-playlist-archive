@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Ozzy Osbourne & Judas Priest
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
 1,139 songs - 3 day 11 hr 6 min
 

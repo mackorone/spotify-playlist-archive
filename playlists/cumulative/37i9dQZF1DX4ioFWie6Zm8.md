@@ -2,9 +2,9 @@
 
 ### [Café Africa](https://open.spotify.com/playlist/37i9dQZF1DX4ioFWie6Zm8)
 
-> A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
+> A pastoral, uplifting pan\-African café sound.
 
-239 songs - 17 hr 41 min
+240 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Sohlangana khona \(We Will Meet There\)](https://open.spotify.com/track/5R53of9PqwA6RyDwht0Sun) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E), [Brian Bangura](https://open.spotify.com/artist/1DzpwojcAYW8Pu3e90sJls), [Ramadu](https://open.spotify.com/artist/1xChafGbiQpAoWuyxFLWkY), [Handsome Mabhiza](https://open.spotify.com/artist/6AZhQmpoUMvqdA8b4r3q9b), [Othnell Mangoma Moyo](https://open.spotify.com/artist/2BTkglCPvt9QTqWZUWFxTn) | [Vusa Mkhaya: Vocalism](https://open.spotify.com/album/6YkNFMEvza2qgoyLKKYvfY) | 5:09 | 2022-08-05 | 2024-04-19 |
 | [Soni Lene](https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Soni Lene](https://open.spotify.com/album/1BSFzidGa1HoyMS4i3Kzvu) | 5:07 | 2023-03-14 |  |
 | [Sonkolon](https://open.spotify.com/track/30fDVObwlcnIxC5WWlaKh2) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:30 | 2023-10-27 | 2024-04-19 |
-| [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 | 2022-08-05 |  |
+| [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 | 2022-08-05 | 2025-10-04 |
 | [Speak Low](https://open.spotify.com/track/2E5ekqXKBEWFCgOzvSsHhT) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 4:21 | 2022-08-05 | 2023-03-15 |
 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 | 2024-09-24 |  |
 | [Sutu Kun](https://open.spotify.com/track/2apsDSuPwQ4OklRmplb6gV) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Vieux Diop \(Via Jo\)](https://open.spotify.com/album/1GZJUcQ1L3KXGhquWVilzP) | 6:21 | 2022-08-05 | 2023-11-24 |
@@ -218,6 +218,7 @@
 | [Tutu Jara](https://open.spotify.com/track/2chWRRkUFWSowfNmWyjtaV) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands \(The Instrumentals\)](https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR) | 2:35 | 2022-08-05 |  |
 | [Ubaba](https://open.spotify.com/track/3QWNXhctFFysLOmMokjr7K) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg) | [Udondolo](https://open.spotify.com/album/2JVIW82O1VMiPUHfHNItgw) | 4:37 | 2022-08-05 | 2024-05-08 |
 | [Umhlaba Wonke](https://open.spotify.com/track/7IgPv2WtRzonmCFtAFJEt1) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Umhlaba Wonke](https://open.spotify.com/album/2Mj7SHIVIuNWZcBDzefbuO) | 3:40 | 2022-08-05 |  |
+| [Usho Njalo](https://open.spotify.com/track/4WaxUZXoPeHNDu0NTXyBrY) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [Sibusile Xaba](https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ) | [Usho Njalo](https://open.spotify.com/album/3kuvnvsAF1JcT9wGKdZiqd) | 4:02 | 2025-10-03 |  |
 | [Uzoma](https://open.spotify.com/track/2CAqtVOt19JLoSvcx66kZL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Uzoma](https://open.spotify.com/album/5uKp2O0nl9TwCxfe1iCsxv) | 4:13 | 2023-03-14 | 2024-05-08 |
 | [Vi Gnin](https://open.spotify.com/track/5FV1Kewlc6bUNcPUxzRMzJ) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 5:37 | 2022-08-05 | 2024-05-08 |
 | [Vivi](https://open.spotify.com/track/2XfYkILzLPQdiNrqqLgtzE) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:18 | 2022-08-05 | 2023-11-17 |

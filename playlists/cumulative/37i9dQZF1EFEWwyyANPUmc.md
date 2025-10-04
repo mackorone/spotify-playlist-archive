@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 29 min
+68 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Boom Shakalaka](https://open.spotify.com/track/5ijp0ctfwwkmkR6hWDQnwn) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF), [Digitzz](https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 2:58 | 2022-06-04 |  |
 | [Bum](https://open.spotify.com/track/4bS57BQrwhwhWROvMPG98U) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Repow](https://open.spotify.com/artist/2o5HEaDbSZee4AcoksPIO2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Bum](https://open.spotify.com/album/5IF6tYxUjg2HPgXkEt8R77) | 2:52 | 2022-06-04 |  |
 | [Calm Down](https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Digitzz](https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Moksi Crew](https://open.spotify.com/album/2bqqu0KeHqcsDlGKDCEneE) | 4:51 | 2025-01-09 | 2025-04-12 |
-| [Cocaina](https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina](https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk) | 3:04 | 2022-06-04 |  |
+| [Cocaina](https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina](https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk) | 3:04 | 2022-06-04 | 2025-10-04 |
+| [Cocaina \(feat\. Emy Perez\)](https://open.spotify.com/track/6M7SrgWmctDecpmE31qDzO) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/7zQ4pgdx0xfMAl5I2dQ3bd), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina \(feat\. Emy Perez\)](https://open.spotify.com/album/0wgY2mP9qbxTodGmOraclu) | 3:04 | 2025-10-03 |  |
 | [Down By The River \(feat\. Emy Perez\)](https://open.spotify.com/track/2rBq9rceYqbr4YIqbSLhNg) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Down By The River \(feat\. Emy Perez\)](https://open.spotify.com/album/1Nl1SBGIkh5xfBRWrJffCg) | 2:20 | 2022-06-04 |  |
 | [Dumb](https://open.spotify.com/track/1GDcRmGNKfntcKeyM2ZY3p) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 3:18 | 2022-09-11 |  |
 | [Dumb](https://open.spotify.com/track/3XaRZNhz6eOU1Fjk2aYCsE) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Dumb](https://open.spotify.com/album/2LwVV5oGRP5viAyph9T22b) | 3:18 | 2022-06-04 | 2022-09-12 |

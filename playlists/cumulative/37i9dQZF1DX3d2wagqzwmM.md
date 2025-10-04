@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-629 songs - 1 day 7 hr 59 min
+630 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Hero \- Dubvision Remix](https://open.spotify.com/track/1zz4r1u9x46gVmY5qZthEC) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Hero \(Dubvision Remix\)](https://open.spotify.com/album/35sT9OK0TguT214N9u70rS) | 3:51 | 2022-04-14 | 2022-07-26 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-18 | 2023-04-09 |
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-11 | 2024-09-20 |
-| [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 | 2024-10-24 |  |
+| [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 | 2024-10-24 | 2025-10-04 |
 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 | 2025-03-13 | 2025-09-12 |
 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-08 |  |
 | [How We Do](https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Les Pays Bass](https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I) | 2:30 | 2023-02-09 | 2023-02-17 |
@@ -446,6 +446,7 @@
 | [Rave Generator](https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Rave Generator](https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf) | 1:52 | 2024-06-13 | 2024-09-20 |
 | [Rave Is Our Religion](https://open.spotify.com/track/3O2pzENAozkiSYveNxAz3z) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Rave Is Our Religion](https://open.spotify.com/album/6P1elYDoJJlnERSm9Nisy2) | 2:49 | 2022-04-14 | 2023-08-25 |
 | [Rave Love](https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Rave Love](https://open.spotify.com/album/2OHcuJm8NlukM33GBSQUke) | 3:09 | 2022-04-14 | 2023-08-25 |
+| [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 | 2025-09-25 |  |
 | [Rave Music](https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Rave Music](https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl) | 3:00 | 2025-06-16 | 2025-06-21 |
 | [Rave Till My Grave](https://open.spotify.com/track/7w0OLfAqXs05KpUU34ngWd) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Rave Till My Grave](https://open.spotify.com/album/24pocT8fPZICPOt99SR5rO) | 2:48 | 2025-08-07 |  |
 | [Rave Time \(W&W Edit\)](https://open.spotify.com/track/0UVBULfbKPCgJc779Zun1M) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Rave Time \(W&W Edit\)](https://open.spotify.com/album/6rc64cETuaFKfFjcxnJyDL) | 2:49 | 2022-09-22 | 2023-09-08 |

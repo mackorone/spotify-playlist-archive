@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Jaritz
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: dayys
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,321 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,326 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 |
-| 2 | [ไม่ใช่เธอ](https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ไม่ใช่เธอ](https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO) | 4:18 |
-| 3 | [ห่าง \(Aloof\)](https://open.spotify.com/track/3acoUHcihLubnQzclzNXlb) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ห่าง \(Aloof\)](https://open.spotify.com/album/1SWDtRDueKEWt0o1eEd3ZE) | 4:51 |
-| 4 | [Neon](https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [Neon](https://open.spotify.com/album/79tXYEdO6Be0QmvLAMnb9v) | 4:00 |
-| 5 | [ชอบเธอ](https://open.spotify.com/track/0FOc92GRPbae31VCQw0q9K) | [Hoya](https://open.spotify.com/artist/0HyvUBCc0axDJKu9CiMnkb) | [ชอบเธอ](https://open.spotify.com/album/783VUCa1KcyZaRs41IlfSV) | 3:44 |
-| 6 | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/track/5liFOEE4mS3huno31RLWKr) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/album/2p3CeQf3LunuPbDqjBFWcN) | 5:34 |
-| 7 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
-| 8 | [Wake Up](https://open.spotify.com/track/3t0M8p4j9eWsXZ7Iueia9C) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Wake Up](https://open.spotify.com/album/6V99yT7iaz8KK5LRKjbVFV) | 4:31 |
-| 9 | [หลุม](https://open.spotify.com/track/6SZB6PN3AzUy4gjg6cwhyj) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [หลุม](https://open.spotify.com/album/4PQy5sDgIlkwxtwmojS1XD) | 4:39 |
-| 10 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
-| 11 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |
-| 12 | [ประคอง](https://open.spotify.com/track/1IwyRB4uI2sQM1WwkhLuV1) | [Town Tolwer](https://open.spotify.com/artist/2Rz7PNBRihBNbev6lsaxdd) | [ประคอง](https://open.spotify.com/album/2NpvpCnqR1BaMgVlfUtl42) | 4:29 |
-| 13 | [Clone](https://open.spotify.com/track/1bQXHQFkMvhzvjGePw9y3v) | [Mary James](https://open.spotify.com/artist/1gb0nqPqawTkD59BzsOODD), [My Wratred](https://open.spotify.com/artist/2r3fZlFsIxkUPvJRC8smmI) | [Clone](https://open.spotify.com/album/2QaChV46PMPrCjvEnKqKOZ) | 5:16 |
-| 14 | [ไม่เจอกันอีก \(Look Back\)](https://open.spotify.com/track/2ZuPkRvr3WBIf7dd0J5i4k) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [ไม่เจอกันอีก \(Look Back\)](https://open.spotify.com/album/7Ie0cujBU9qB3vDDcb6oPt) | 4:03 |
-| 15 | [โทรปลุกเธอ](https://open.spotify.com/track/3t0UIgHDKNd4xuaBQ2ZUFh) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [โทรปลุกเธอ](https://open.spotify.com/album/2lsxZhrYKMUl4iUcj9fGUk) | 3:41 |
+| 1 | [ห่าง \(Aloof\)](https://open.spotify.com/track/3acoUHcihLubnQzclzNXlb) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ห่าง \(Aloof\)](https://open.spotify.com/album/1SWDtRDueKEWt0o1eEd3ZE) | 4:51 |
+| 2 | [Neon](https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [Neon](https://open.spotify.com/album/79tXYEdO6Be0QmvLAMnb9v) | 4:00 |
+| 3 | [8:59](https://open.spotify.com/track/0moqYos5WpFIhluMp9wtZh) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [8:59](https://open.spotify.com/album/0cTNGQQ0kWtZlS1FyxeOkR) | 3:24 |
+| 4 | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 |
+| 5 | [ปรากฏการณ์ที่ไม่เคยมีใครเขาบอก](https://open.spotify.com/track/7bUbPGXIyVruAJ4tMeAoNn) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [Thisis242](https://open.spotify.com/album/1uq7TK6zNGPRmyi2E2ziYS) | 3:48 |
+| 6 | [ไม่ใช่เธอ](https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ไม่ใช่เธอ](https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO) | 4:18 |
+| 7 | [หน้าต่าง \(Drops\)](https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หน้าต่าง \(Drops\)](https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM) | 3:52 |
+| 8 | [ชอบเธอ](https://open.spotify.com/track/0FOc92GRPbae31VCQw0q9K) | [Hoya](https://open.spotify.com/artist/0HyvUBCc0axDJKu9CiMnkb) | [ชอบเธอ](https://open.spotify.com/album/783VUCa1KcyZaRs41IlfSV) | 3:44 |
+| 9 | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/track/5ml3Eo88k00gSP1ZwWQEZT) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/album/1CnobFpjURpP4JmJbvmgXJ) | 2:30 |
+| 10 | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/track/5liFOEE4mS3huno31RLWKr) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/album/2p3CeQf3LunuPbDqjBFWcN) | 5:34 |
+| 11 | [al dente](https://open.spotify.com/track/1hkAWiahjurKmvtmNyPmSO) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [al dente](https://open.spotify.com/album/4WiFKWtJ6EsHsLx6TkimZj) | 3:50 |
+| 12 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
+| 13 | [Call me](https://open.spotify.com/track/3oY2opO1jwxQgXl89OqUMz) | [00.01](https://open.spotify.com/artist/0j5wRYC2KjvFjqultH07BQ) | [Call me](https://open.spotify.com/album/5CkKwX9KPrXh6ZOSiHvFoJ) | 3:57 |
+| 14 | [Wake Up](https://open.spotify.com/track/3t0M8p4j9eWsXZ7Iueia9C) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Wake Up](https://open.spotify.com/album/6V99yT7iaz8KK5LRKjbVFV) | 4:31 |
+| 15 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
 | 16 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
 | 17 | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/track/1Xpp5yTaFEzLtPrITfIMdd) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/album/4AkJbg6p4uzfChGRwyklWd) | 7:09 |
 | 18 | [ไม่อยากให้เธอหายไป \(Before u go\)](https://open.spotify.com/track/6Q1eZLRcZsU6LEK5r1LgN0) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R), [Daisy](https://open.spotify.com/artist/0EubXtpso45245tzrMHtKZ) | [ไม่อยากให้เธอหายไป \(Before u go\)](https://open.spotify.com/album/6pf3J33KdDrfIdbizm0Qjj) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 |
 | 50 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 |
 
-Snapshot ID: `AAAAAB/4odoHUbbtL5+vdXLpY1nOvE5l`
+Snapshot ID: `AAAAABbcYFODVLKfVmjRe3J8VrQG+nk0`

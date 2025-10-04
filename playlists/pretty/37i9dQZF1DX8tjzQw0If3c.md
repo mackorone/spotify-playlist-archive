@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [](https://open.spotify.com/album/null) | 3:18 |
+| 1 | [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [ECHOES](https://open.spotify.com/album/0yj6MHkeUuy7XwB3sOEsYi) | 3:18 |
 | 2 | [Infatuated](https://open.spotify.com/track/5e9ecyMtZkutM6KpFrqbv2) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 3:46 |
 | 3 | [someone like u](https://open.spotify.com/track/6VMuD05WDxorQZJr5e9sDI) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:52 |
 | 4 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFStJ34qXTzDG\">Shane Stevens</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFyc6Dzxvb74b\">Jesse Saint John</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 198530,
       "name": "(S)he",
       "url": "https://open.spotify.com/track/3k74XuFZsSQK1i07rdE8uk"
+    },
+    {
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
     },
     {
       "album": {
@@ -56,7 +78,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 209417,
       "name": "69",
       "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
@@ -848,7 +870,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 221624,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5"
@@ -866,10 +888,28 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
+    },
+    {
+      "album": {
+        "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208986,
+      "name": "Don't Blink",
+      "url": "https://open.spotify.com/track/2P3j9QelzILN9OP7zGVVnW"
     },
     {
       "album": {
@@ -884,7 +924,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
@@ -1086,10 +1126,28 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 227600,
       "name": "Filthy / Gorgeous",
       "url": "https://open.spotify.com/track/2NNiCmCyITuhyYblpmhRWA"
+    },
+    {
+      "album": {
+        "name": "Scissor Sisters",
+        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Filthy/Gorgeous",
+      "url": "https://open.spotify.com/track/487uZHjPqwQWAMKdabHJnZ"
     },
     {
       "album": {
@@ -1220,7 +1278,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 183821,
       "name": "Good Dream",
       "url": "https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV"
@@ -1412,6 +1470,24 @@
     {
       "album": {
         "name": "Ta-Dah",
+        "url": "https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "I Can't Decide",
+      "url": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
+    },
+    {
+      "album": {
+        "name": "Ta-Dah",
         "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
       },
       "artists": [
@@ -1422,7 +1498,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 166573,
       "name": "I Can't Decide",
       "url": "https://open.spotify.com/track/7f6RiVFXqUT3dWi35OznLI"
@@ -1498,10 +1574,28 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 195940,
       "name": "if i was ur boy",
       "url": "https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o"
+    },
+    {
+      "album": {
+        "name": "if jesus saw what we did last night",
+        "url": "https://open.spotify.com/album/78aOpZFTy9KnghoyhkKkNJ"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "if jesus saw what we did last night",
+      "url": "https://open.spotify.com/track/31VoUgAK5KV2OegkCaVtZl"
     },
     {
       "album": {
@@ -1516,7 +1610,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 168000,
       "name": "if jesus saw what we did last night",
       "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
@@ -1632,7 +1726,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 212320,
       "name": "It's a Mirror",
       "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
@@ -1762,6 +1856,24 @@
       "duration_ms": 198577,
       "name": "Little Fires",
       "url": "https://open.spotify.com/track/5DqueuZvSp6DQGg855Eez4"
+    },
+    {
+      "album": {
+        "name": "Glory (Japan Deluxe Version)",
+        "url": "https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198640,
+      "name": "Love Me Down",
+      "url": "https://open.spotify.com/track/7pVHcXp7fu41CJjj0mlnWK"
     },
     {
       "album": {
@@ -2018,7 +2130,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 132773,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
@@ -2094,7 +2206,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -2368,7 +2480,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 149508,
       "name": "Runway",
       "url": "https://open.spotify.com/track/2DQPfTQ1WAlEEh3OOpo3xF"
@@ -2465,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205099,
+      "name": "Secret (Shh)",
+      "url": "https://open.spotify.com/track/1NvAqtx7PytXUytohhYXbk"
+    },
+    {
+      "album": {
         "name": "Original Songwriter Demos",
         "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
       },
@@ -2523,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "SALVATION",
+        "url": "https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174296,
+      "name": "Sugar Water Cyanide",
+      "url": "https://open.spotify.com/track/2Km5bhOuAWctboSc7w6Lur"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T"
       },
@@ -2570,10 +2718,28 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 271866,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt"
+    },
+    {
+      "album": {
+        "name": "Scissor Sisters",
+        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271906,
+      "name": "Take Your Mama",
+      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
     },
     {
       "album": {
@@ -2872,6 +3038,24 @@
       "duration_ms": 170769,
       "name": "True Religion",
       "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
+    },
+    {
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173325,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
     },
     {
       "album": {
@@ -3184,7 +3368,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 179138,
       "name": "\u00e9chame la culpa <3",
       "url": "https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw"

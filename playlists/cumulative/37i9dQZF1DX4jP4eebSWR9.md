@@ -4,7 +4,7 @@
 
 > 50 Hits in einer Playlist! Cover: James Hype
 
-269 songs - 12 hr 49 min
+270 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-25 | 2025-04-09 |
 | [DAS GEHT VORBEi](https://open.spotify.com/track/1e321Mp5Ybqoh9ts2erLFi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [DAS GEHT VORBEi](https://open.spotify.com/album/2rrbJbztjdoe9zb4boMqYa) | 2:55 | 2024-10-08 | 2025-01-29 |
 | [Das Leben ruft](https://open.spotify.com/track/4tOCLn5F0GHaPl4p9RPQAb) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Das Leben ruft](https://open.spotify.com/album/4FcnAk8XMzv1OyykKl3HQS) | 2:05 | 2025-01-10 | 2025-04-02 |
-| [Daytona](https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Daytona](https://open.spotify.com/album/5Z4MoX4CpiFQI7M9mH5S5e) | 3:31 | 2025-09-16 |  |
+| [Daytona](https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Daytona](https://open.spotify.com/album/5Z4MoX4CpiFQI7M9mH5S5e) | 3:31 | 2025-09-16 | 2025-10-04 |
 | [Dein Mann Freestyle](https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [Dein Mann Freestyle](https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu) | 2:25 | 2025-04-01 | 2025-06-18 |
 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 | 2025-02-18 | 2025-03-19 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-10 | 2025-05-07 |
@@ -233,6 +233,7 @@
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-14 | 2025-08-14 |
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-05 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-10 | 2025-04-16 |
+| [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-03 |  |
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-17 | 2025-07-23 |
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-06-17 | 2025-07-30 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-05 | 2025-09-10 |

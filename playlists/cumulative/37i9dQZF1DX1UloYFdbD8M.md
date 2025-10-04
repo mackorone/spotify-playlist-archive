@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-410 songs - 1 day 1 hr 38 min
+411 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 | 2025-04-04 |  |
 | [Karthi Kalyani](https://open.spotify.com/track/6dvZ9YupWV18hSwdDo8jza) | [Joel Johns](https://open.spotify.com/artist/0BiabvD708qvkGYVADsHA3), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Karthi Kalyani](https://open.spotify.com/album/5fvzCfvjT7yKgP3yEiNweZ) | 4:41 | 2023-07-18 | 2023-07-28 |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 | 2024-08-21 |
+| [Karupp](https://open.spotify.com/track/6NH0ta5RMkQZUjxNYoVeKg) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [anxious](https://open.spotify.com/artist/6PGTb8THZQGSwivV5z26Vj) | [Varthamanam](https://open.spotify.com/album/7LOWpo19ROx5TL0qYTEsnp) | 3:07 | 2025-10-03 |  |
 | [Karutha Pookal](https://open.spotify.com/track/5RMoZxbhHJdgb9dH12dcdL) | [Ian Camerson Paiva](https://open.spotify.com/artist/0QBe9WoPk3s1zyUFhHfva6), [Rishab Baiju](https://open.spotify.com/artist/16BRiW2O7JQQd2q5KeEZOD), [Anupama Sreedevi](https://open.spotify.com/artist/4jF3Fv8Q1JUTGWnHkV7Paf), [Mushin Muhammed](https://open.spotify.com/artist/0uNE4R0OdrI5uygEpiQMkV) | [Sorry](https://open.spotify.com/album/146kqGPQrWcgtda2IrgUTL) | 3:45 | 2025-03-17 | 2025-06-17 |
 | [Katturumbu](https://open.spotify.com/track/2jjzkXKzLB0iqq6YHXxeOD) | [Sangeeth](https://open.spotify.com/artist/3eLmrMxtn3oTcqng8BNoPZ) | [Katturumbu](https://open.spotify.com/album/0AVeHvPxaAuhDVprmsL4J8) | 4:56 | 2023-10-10 | 2025-02-20 |
 | [Kiliyo](https://open.spotify.com/track/1NgJjC3GOpKJw0Z06P7geV) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [JORJ.](https://open.spotify.com/artist/2itDiy3z59T67qlYGJSIiO) | [Kiliyo](https://open.spotify.com/album/1i0zVVIWvyELuDV87VIu4h) | 3:50 | 2025-08-08 |  |

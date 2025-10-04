@@ -1,12 +1,12 @@
 {
   "description": "This is Tokyo Ska Paradise Orchestra. The essential tracks, all in one playlist.",
-  "num_followers": 38854,
+  "num_followers": 38859,
   "original_name": "This Is Tokyo Ska Paradise Orchestra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAABB6vEi1J62s1UPdObzYqMl",
+  "snapshot_id": "aN3AgAAAAAAQr4V1xTCgmqVGmGA9fO/x",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD SKA SYMPHONY",
-        "url": "https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 273280,
-      "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35",
         "url": "https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk"
       },
@@ -575,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
+        "name": "WORLD SKA SYMPHONY",
+        "url": "https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL"
       },
       "artists": [
-        {
-          "name": "Kavka Shishido",
-          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
-        },
         {
           "name": "Tokyo Ska Paradise Orchestra",
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Remember Me (End Credit Version) - Japanese Version",
-      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
+      "duration_ms": 273280,
+      "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
     },
     {
       "added_at": null,
@@ -611,6 +591,26 @@
       "duration_ms": 163900,
       "name": "Dale Dale! \u301c\u30c0\u30ec\u30fb\u30c0\u30ec!\u301c - feat.\u30c1\u30d0\u30e6\u30a6\u30b9\u30b1",
       "url": "https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
+      },
+      "artists": [
+        {
+          "name": "Kavka Shishido",
+          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Remember Me (End Credit Version) - Japanese Version",
+      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST OF TOKYO SKA 1998-2007",
-        "url": "https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "\u30eb\u30d1\u30f3\u4e09\u4e16'78",
-      "url": "https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
         "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 131893,
       "name": "\u541b\u3068\u50d5",
       "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST OF TOKYO SKA 1998-2007",
+        "url": "https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "\u30eb\u30d1\u30f3\u4e09\u4e16'78",
+      "url": "https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. [Share One Sorrow] (feat.Tokyo Tanaka & Jean-Ken Johnny)",
         "url": "https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 242791,
       "name": "S.O.S. [Share One Sorrow] - feat.Tokyo Tanaka & Jean-Ken Johnny",
       "url": "https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7"
     },
     {
       "added_at": null,

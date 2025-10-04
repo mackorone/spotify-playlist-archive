@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-227 songs - 11 hr 52 min
+228 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2025-07-09 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Like I'm Gonna Lose You \(Official Music Video\)](https://open.spotify.com/album/3eGYlBiey7oowDv1Or4RY4) | 3:47 | 2023-12-31 | 2024-02-02 |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2023-12-30 | 2025-03-30 |
-| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 |  |
+| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 | 2025-10-04 |
 | [Lips Are Movin](https://open.spotify.com/track/3fNaQSMgFrYTkTshRX7J1u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:01 | 2025-03-29 | 2025-07-12 |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2024-01-01 | 2025-03-30 |
 | [Lips Are Movin](https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Lips Are Movin \(Official Music Video\)](https://open.spotify.com/album/6V4bZzTmEU9sw8JQ26H2MC) | 3:05 | 2023-12-30 | 2024-01-31 |
@@ -204,7 +204,8 @@
 | [The Best Part \(Interlude\)](https://open.spotify.com/track/6uFZbboK1A4h4jNc87AaOl) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 0:24 | 2023-12-30 | 2025-03-30 |
 | [The Best Part \(Interlude\)](https://open.spotify.com/track/7oNEuFACp53VjotAhPqU8p) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 0:24 | 2025-03-29 |  |
 | [Throwback Love](https://open.spotify.com/track/2EbY1Lm4zrb2SOKsknxNRK) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:13 | 2023-12-30 | 2025-07-12 |
-| [Thuis Met Kerst](https://open.spotify.com/track/7GPYBjORxZHTRkzlWdg9ZH) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/57F06YWxjejADp9Flm5eFJ) | 3:10 | 2025-07-28 |  |
+| [Thuis Met Kerst](https://open.spotify.com/track/1zzI82oUDwnWnXFNyJyZie) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/5HMDVCG3cAOcCxwIomVMff) | 3:10 | 2025-10-03 |  |
+| [Thuis Met Kerst](https://open.spotify.com/track/7GPYBjORxZHTRkzlWdg9ZH) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/57F06YWxjejADp9Flm5eFJ) | 3:10 | 2025-07-28 | 2025-10-04 |
 | [Timeless](https://open.spotify.com/track/5VwoyOFisHUeHxUMsh96Jk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:13 | 2025-01-08 |  |
 | [Title](https://open.spotify.com/track/18IwlUCETTJSrS0fYkZGEo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 2:54 | 2025-03-29 | 2025-07-12 |
 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:54 | 2024-01-01 | 2025-03-30 |

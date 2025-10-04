@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Zaho de Sagazan
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,458 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,529 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 |
 | 2 | [Les passantes](https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les passantes](https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg) | 3:02 |
 | 3 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
 | 4 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |

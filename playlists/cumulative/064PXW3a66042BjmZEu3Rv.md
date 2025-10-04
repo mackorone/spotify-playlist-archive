@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-108 songs - 5 hr 13 min
+109 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beste Fout](https://open.spotify.com/track/6vYnml6p32VEStxD8ke7aX) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Beste Fout](https://open.spotify.com/album/7dAUv80dbGXyDebYTU489n) | 2:51 | 2025-09-05 |  |
 | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/track/2zpyzN6xxDwgNVFogR0s63) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/album/6FkGLWXQjDAbOVWfzDEc9l) | 2:49 | 2025-09-02 |  |
 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2025-07-04 | 2025-08-22 |
+| [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-10-03 |  |
 | [C'est La Vie](https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C'est La Vie](https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV) | 3:03 | 2025-08-27 |  |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-07-04 | 2025-08-22 |
 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 | 2025-07-04 | 2025-08-22 |

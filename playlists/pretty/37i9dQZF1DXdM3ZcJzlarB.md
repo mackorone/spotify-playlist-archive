@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 ### [\(AR\)](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 CCINNI
+> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Marvio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,966 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,968 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

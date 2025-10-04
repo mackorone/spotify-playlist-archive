@@ -107,6 +107,6 @@
 | [Як ти кохаєш](https://open.spotify.com/track/0UqgBHsrxSICRMyeeF83zI) | [M1SHKA](https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i) | [Як ти кохаєш](https://open.spotify.com/album/1Xg8V03QQh4DjQP5VJD7SR) | 2:48 | 2024-12-04 |  |
 | [Янголом](https://open.spotify.com/track/2jGCkNQKjwgcvrDPiage1O) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Янголом](https://open.spotify.com/album/3IO9YeIXhEX1eFJuuVHuLg) | 2:16 | 2024-12-04 |  |
 | [Інші ми](https://open.spotify.com/track/7BRVhxiEktGAkTa6qmF6Jo) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Інші ми](https://open.spotify.com/album/26XEuZ4CMdbRl32ltBZLez) | 2:09 | 2023-11-29 | 2024-12-05 |
-| [Їде дах](https://open.spotify.com/track/4bzlZyxyHwBug39xuGdrNS) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/5mzVAYB0NoFtJsCtknChFj) | 3:00 | 2024-12-04 |  |
+| [Їде дах](https://open.spotify.com/track/4bzlZyxyHwBug39xuGdrNS) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/5mzVAYB0NoFtJsCtknChFj) | 2:55 | 2024-12-04 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

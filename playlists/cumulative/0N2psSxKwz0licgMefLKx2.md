@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
+> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-376 songs - 20 hr 32 min
+378 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 | 2024-02-23 | 2024-04-06 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-10-05 |
 | [It Ain’t The Whiskey](https://open.spotify.com/track/0AsrOS8HktHe9TaB1i9W3v) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [It Ain’t The Whiskey](https://open.spotify.com/album/7ItxZgvgYMcyvGODShsiup) | 3:03 | 2025-04-25 |  |
+| [IYKYK](https://open.spotify.com/track/13I2ADgSEWeA5sS4UZ7E8i) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Broken Branches \(Extended\)](https://open.spotify.com/album/2OBSAgRDYsKDjd7MPxaKWt) | 2:40 | 2025-10-03 |  |
 | [Jenni](https://open.spotify.com/track/4kI5LZmzlDyRgURUueKZ63) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Jenni](https://open.spotify.com/album/7yAh8gTk7oykUml3DThvdc) | 3:29 | 2025-01-26 | 2025-04-26 |
 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 | 2024-04-12 | 2024-07-30 |
 | [John Deere Green](https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 4:27 | 2023-11-10 | 2024-08-17 |
@@ -313,6 +314,7 @@
 | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/track/7ccQIxIpqbY4PHtPZVeTgT) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/album/7J42i27HBSFw2ne3Upoj1T) | 3:02 | 2023-11-03 | 2024-03-09 |
 | [Sweet Lady](https://open.spotify.com/track/3qki7H1syBM1mvFXAVgjn8) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward](https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V) | 2:59 | 2025-07-18 |  |
 | [Tail Lights](https://open.spotify.com/track/2V0OXn4Bum36a6tcVdDEci) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Tail Lights](https://open.spotify.com/album/3UnKGVmIllBTCsAbj4i9Wk) | 3:34 | 2025-01-31 |  |
+| [Taillight This Town](https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Taillight This Town](https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH) | 3:06 | 2025-10-03 |  |
 | [Take Me Out](https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Take Me Out](https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ) | 4:03 | 2023-11-03 | 2024-01-13 |
 | [Talk With Me](https://open.spotify.com/track/15yl5Tuk1QhV8ScQ8chspI) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Talk With Me](https://open.spotify.com/album/7k6FBmrJzoUkCAw1gN2855) | 3:16 | 2025-02-28 | 2025-05-10 |
 | [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 | 2025-08-08 |  |

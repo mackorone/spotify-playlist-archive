@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,532 likes - 17 songs - 59 min 18 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,532 likes - 17 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In Jesus city 2](https://open.spotify.com/track/2IGTO3hYsKmembAEryWuiM) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [In Jesus City 2](https://open.spotify.com/album/2cuRPM4tBSIkQxH4hCP1wq) | 3:12 |
-| 2 | [Octagon City](https://open.spotify.com/track/6kL9jb0TEaEhKHe6uFy12M) | [zabutom](https://open.spotify.com/artist/3z9XCKFZ4a6xxvMK9haQy5) | [Splendors of the Past](https://open.spotify.com/album/48RQ9wsBjeJXvPJLD2nHlJ) | 4:22 |
-| 3 | [Cover Me Up](https://open.spotify.com/track/6XSayYHdnOgmDYuiQxhnlZ) | [Per\-Håkans](https://open.spotify.com/artist/65VE1lymx9BmXzKJ3AqAFU) | [Cover Me Up](https://open.spotify.com/album/22GszAnPDtyZHlYmdQTaG2) | 4:51 |
-| 4 | [CapperKing](https://open.spotify.com/track/6p4x1P71NjuHBGdUWHqhuo) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [SIDE STORIES](https://open.spotify.com/album/32cFJuKI5poeGWhrh8QGFD) | 2:50 |
-| 5 | [Ballon d’Or](https://open.spotify.com/track/7hFUBPCjlZIGOxctlQfcHw) | [Sultan](https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM) | [Ballon d’Or](https://open.spotify.com/album/48cDr4s1INdBx37mIJ1h40) | 2:32 |
-| 6 | [Teini](https://open.spotify.com/track/7EegI2q0f2E2VHirJ753fU) | [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e), [BRAT SIMPSON](https://open.spotify.com/artist/40ERvKf28p7G49Ryyp53n8) | [Teini](https://open.spotify.com/album/7bzgrUZIMswnrlMKPTp6TC) | 2:56 |
-| 7 | [You Can't See Me](https://open.spotify.com/track/5EWzyL1Op0Fzrwd7en33rO) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo) | [You Can't See Me](https://open.spotify.com/album/1W3tM2xhsgfaoZ5Boenetz) | 3:40 |
-| 8 | [Ingenting Som](https://open.spotify.com/track/01pZc8QVL6QULYFcwBHCbQ) | [Tracy Irve](https://open.spotify.com/artist/47eYIpNYpouTNbJnYz7cdb) | [Ännu Rund](https://open.spotify.com/album/1YNtXdFKcrbXQPLfWZwWJD) | 3:32 |
-| 9 | [Streetflowers](https://open.spotify.com/track/2Z72FsUwKKCHB6qnEvaghT) | [Moon Landing](https://open.spotify.com/artist/2MzYWU19YFhWthKTObl0xc) | [Streetflowers](https://open.spotify.com/album/4Hh7MTsfKRONwk41X27O8x) | 3:01 |
-| 10 | [WAVES](https://open.spotify.com/track/1O7HSEnh0JjYD78aIDqH5y) | [AANG](https://open.spotify.com/artist/1LisaP0b1DCrVz5SM9A3Pt), [Inferno](https://open.spotify.com/artist/1Qjcv69fa6cK23POwRk9OO) | [WAVES](https://open.spotify.com/album/1Pnf2F2AvLzKJ1mJgbvKyY) | 3:00 |
-| 11 | [Poirot](https://open.spotify.com/track/7vSg1jz6ac2nNjzO7Xji4x) | [Routaraja](https://open.spotify.com/artist/75AuKfZdrrWlq60rz4KIed) | [Poirot](https://open.spotify.com/album/1bdq8rS4FcJcgUToHvv1uC) | 3:47 |
-| 12 | [Sover du över hos mig](https://open.spotify.com/track/2OwAQfKVAk3OKDn1UMIZfd) | [Jonas Tilly](https://open.spotify.com/artist/4Xb58LELv57OvVpO0b04Pm) | [Sover du över hos mig](https://open.spotify.com/album/7xZrzSEIYf1vwciGIWeUcL) | 2:31 |
-| 13 | [I Don't Belong Here](https://open.spotify.com/track/6GTC1vMV8cGFEWNP6yu3yl) | [Red Heart](https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW) | [I Don't Belong Here](https://open.spotify.com/album/66PhaGtN6b0Z9qitiVrQHR) | 3:02 |
-| 14 | [Magic Night](https://open.spotify.com/track/3sFhBmEBdWIrj1cmWydvVa) | [Priority](https://open.spotify.com/artist/3xbjGbRseIlhdXvOfDls4N), [Lotta Hedlund](https://open.spotify.com/artist/1Hpermh5l5RDN8oGog2kZb) | [Undercover](https://open.spotify.com/album/4TONpP7KzkCIttWlEO7GKT) | 4:40 |
-| 15 | [Chal Diye](https://open.spotify.com/track/650Qha5fzawAUBByjTz6t6) | [Fahad Nasim](https://open.spotify.com/artist/5sUWMxtcwTJGL2zXnNpkot) | [Chal Diye](https://open.spotify.com/album/1BWTVAqynSbY314XkFJrhQ) | 3:34 |
-| 16 | [Breath](https://open.spotify.com/track/39EOq9gETM8EKhaTln8RSX) | [Henrik Baudou Fjelkman](https://open.spotify.com/artist/6otUulLr8xmmqqiD7tQ12z) | [Breath](https://open.spotify.com/album/1cgYTSajHqLP3BiBzvwxr7) | 3:14 |
-| 17 | [Salaisuus](https://open.spotify.com/track/0CgjJwugKRkZHbakv2PzwJ) | [Arna](https://open.spotify.com/artist/2XbJijNbX22C4FadA8vXZO) | [Salaisuus](https://open.spotify.com/album/5okHPyx9qi3plJT0lZlUth) | 4:28 |
+| 1 | [Rebirth](https://open.spotify.com/track/2wrWZ1msPPZGi88BurNpoQ) | [Aidoneus](https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5) | [Rebirth](https://open.spotify.com/album/6wGKZbkQ4olQsuFmR2qfDc) | 3:47 |
+| 2 | [Sa Presensya Mo](https://open.spotify.com/track/0ikISo8yiXX5Afb4YQ5l3W) | [Doulos Worship](https://open.spotify.com/artist/7pAZRbuC51YWEGtazqDrUi) | [Sa Presensya Mo](https://open.spotify.com/album/4Vu4CClbnCrfTgS0uonELg) | 8:52 |
+| 3 | [Reverie](https://open.spotify.com/track/2s6GARZ7crWnXJg1v4L6qq) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Reverie](https://open.spotify.com/album/3Oz72nV1sKkxMzcN8l25GU) | 2:50 |
+| 4 | [Talkoopäivä](https://open.spotify.com/track/5hDQG8MFf8XBMc1uEB8cDy) | [1Tipe](https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7) | [Talkoopäivä / Muuttoauto](https://open.spotify.com/album/66h5aXff5uhg3jdukCdTI0) | 3:26 |
+| 5 | [Bromsarna de brumma](https://open.spotify.com/track/61DNdb7LJYlNltlIBOhc7I) | [Alice!](https://open.spotify.com/artist/65d1TQRQUu0vI2jaTvWXyP) | [Bromsarna de brumma](https://open.spotify.com/album/4y9TsyfJkE6fIkZqLWOcfw) | 1:47 |
+| 6 | [Syksypäivien täysikuu](https://open.spotify.com/track/4XUWPIEbRyCnsknDSZteZp) | [Ekumenia](https://open.spotify.com/artist/5jDVTTrneg0Tu3IQAGs8XZ) | [Syksypäivien täysikuu](https://open.spotify.com/album/3U5s2MOcUWF1xbu4HRuthE) | 4:10 |
+| 7 | [Sweatman](https://open.spotify.com/track/4BDmbSjwkd5JIIBM52DLGO) | [Adrenalistic](https://open.spotify.com/artist/145uYYpQHwR4Hejeyz1hdh) | [Sweatman](https://open.spotify.com/album/2zjHp8GHhqNOjo3vlGUtOe) | 3:00 |
+| 8 | [Allt måste inte vara sant](https://open.spotify.com/track/4ALEUQoq73vExTnasWGbQz) | [Blynatten](https://open.spotify.com/artist/257RcEWNivnw3tNTeQnbgB) | [En sån dag](https://open.spotify.com/album/3pcEVEOeUgh63fdjGSuas9) | 2:15 |
+| 9 | [ratata](https://open.spotify.com/track/6yGWr5BjHUtnFbenas17oo) | [Limpie & de Treurwilg](https://open.spotify.com/artist/3XgPQ5XuCLTjsho7Y1xK7i) | [ratata](https://open.spotify.com/album/0529S08nXehvzOiyKHbcwz) | 2:12 |
+| 10 | [Kallt i rymden \(utan dig\)](https://open.spotify.com/track/0ujCvK2egcjwQW9XxAKoBA) | [Martin Bärjed](https://open.spotify.com/artist/7e6I6sQ4nJYDqD4JF4bvQZ) | [Kallt i rymden \(utan dig\)](https://open.spotify.com/album/1iwL9ZMtsMWpwrQDuQaMD7) | 3:55 |
+| 11 | [You did it for me](https://open.spotify.com/track/1DwjPksqHQAfe1kYOFxRFf) | [Jenny Rudell](https://open.spotify.com/artist/3Ynel6yIJR20CfRqomNgEp) | [You did it for me](https://open.spotify.com/album/21JvG4ShqMxS59kjrFzmr0) | 3:13 |
+| 12 | [Dansa Med Din Skugga](https://open.spotify.com/track/1bwq3oGLIFNAltje0eV5Ub) | [Johan Bernauer](https://open.spotify.com/artist/7gZuUsGpZxu1QRCSzUQXjy) | [Idiot](https://open.spotify.com/album/4emkrAVLxQDsGG37JBp9SJ) | 3:46 |
+| 13 | [Circles](https://open.spotify.com/track/09G5amuRJXRuFKbl657pGZ) | [Chris Stark](https://open.spotify.com/artist/17dT4LUORr8ewbAbnyNMud) | [Circles](https://open.spotify.com/album/7AxtQD9XM8kdmLgZx38AB4) | 4:34 |
+| 14 | [Willa Vaggvisa](https://open.spotify.com/track/0eBwKiNk7xIcseiMBXuyFL) | [Willa Dottson](https://open.spotify.com/artist/0TgCQHrWzIE3n4wcgXbd7i) | [Willa Vaggvisa](https://open.spotify.com/album/39V3oN5NJSzVQOG8UOQPeF) | 2:50 |
+| 15 | [You Choose](https://open.spotify.com/track/7oYvW1FTuQiBHEFXg1r75e) | [SINE NOMINE](https://open.spotify.com/artist/0DZ3X6bmPT6MMNtzyVSdp9) | [You Choose](https://open.spotify.com/album/4F5U2PeJboT3bLFKUfcG7d) | 5:44 |
+| 16 | [Table for one blues \- Remix](https://open.spotify.com/track/6SrRqCE1P3hn4ZZVPlA2DY) | [Thornton Lee](https://open.spotify.com/artist/5MMHIw6EytZMnzjbciY5kA), [Thorton Lee](https://open.spotify.com/artist/0WaHOkorzvPReSqOWtdooP) | [Table for one blues \(Remix\)](https://open.spotify.com/album/28zJrXyhVpqmboZBGNuxFO) | 7:32 |
+| 17 | [Recipe](https://open.spotify.com/track/7EK3PY8tvMAluPL3753Twq) | [Gut Feelings](https://open.spotify.com/artist/6waMZtLAGiMfho6zx5CZl6) | [It's your friends...](https://open.spotify.com/album/0uKm4Aco3ieLRscuyomNZF) | 3:44 |
 
-Snapshot ID: `AAAEUq2fR0cIw0bwYKYGLFEOWBM0f58D`
+Snapshot ID: `AAAEVMr6a52bAqNQQPtFeulSoy4ttoPZ`

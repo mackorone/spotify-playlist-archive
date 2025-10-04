@@ -8403,8 +8403,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Earthday",
+        "url": "https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm"
       },
       "artists": [
         {
@@ -9308,6 +9308,24 @@
       "duration_ms": 213203,
       "name": "Seeing Angels",
       "url": "https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z"
+    },
+    {
+      "album": {
+        "name": "THE HELL OF APRIL",
+        "url": "https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG"
+      },
+      "artists": [
+        {
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "self destruct mode",
+      "url": "https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL"
     },
     {
       "album": {
@@ -11180,24 +11198,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103534,
+  "num_followers": 103537,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAD1kOvrJGbGMiJxbl5TO8vz",
+  "snapshot_id": "aN3AgAAAAAA+ZxOsLA6q+ERzRkkCUNMg",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+        "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
+        "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Artful Dodger",
+          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
+      "duration_ms": 240704,
+      "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
+      "url": "https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
-        "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
       },
       "artists": [
         {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 240704,
-      "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
-      "url": "https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN"
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 210319,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Commitment Pt. 2",
         "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 210319,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "My Heart's Been Waiting for You - feat. Duvall",
-      "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 167796,
       "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
       "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "My Heart's Been Waiting for You - feat. Duvall",
+      "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
     },
     {
       "added_at": null,

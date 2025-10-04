@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-173 songs - 11 hr 43 min
+174 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Lungisa Indlela Yakho \(The Path Is Clear\)](https://open.spotify.com/track/3bPEJki9i3Q6KcAcar5NS1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inkanyezi Nezazi](https://open.spotify.com/album/4P7GY4C1i5T2yCHAZh6xPJ) | 3:47 | 2022-10-11 | 2023-06-04 |
 | [Mavungangidluli Jesu](https://open.spotify.com/track/0zE8Rsb271BUh8mLwA3xrQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ukusindiswa](https://open.spotify.com/album/4tGHNw6RoB8XZ7Swm9L9Yi) | 3:07 | 2021-12-29 | 2022-09-16 |
 | [Mavungangidluli Jesu](https://open.spotify.com/track/6GEmEnuo4OHhscONrVczG8) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ukusindiswa](https://open.spotify.com/album/4rTX8SKB6oCgWWCgqUxDCA) | 3:07 | 2023-04-18 | 2023-05-24 |
-| [Mbube \(The Lion Sleeps Tonight\)](https://open.spotify.com/track/3T9NzoLzJZH801UAzGR3rl) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Gift Of The Tortoise: A Musical Journey Through Southern Africa](https://open.spotify.com/album/7BvcUSWIg6eH89Gy5qHZEe) | 3:10 | 2021-12-28 |  |
+| [Mbube \(The Lion Sleeps Tonight\)](https://open.spotify.com/track/3T9NzoLzJZH801UAzGR3rl) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Gift Of The Tortoise: A Musical Journey Through Southern Africa](https://open.spotify.com/album/7BvcUSWIg6eH89Gy5qHZEe) | 3:10 | 2021-12-28 | 2025-10-04 |
 | [Mbube \(Wimoweh\)](https://open.spotify.com/track/08NFba3Px3Oy2AvX5vOtyG) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:01 | 2022-10-27 | 2025-10-03 |
 | [Mbube \(Wimoweh\)](https://open.spotify.com/track/42puzIUfTXWBx5CBGIY07j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:01 | 2022-10-01 | 2022-10-28 |
 | [Mhlangidinwa Ngikhathele](https://open.spotify.com/track/3rz3aI4jgUIPhM0Mz1FGr1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:01 | 2025-04-27 | 2025-05-10 |
@@ -112,6 +112,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:30 | 2022-10-05 | 2022-10-25 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2021-12-28 | 2022-10-06 |
+| [Nkosi Yama Khosi](https://open.spotify.com/track/601yCRAHvab7ayl2DuuiST) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Amabutho](https://open.spotify.com/album/0K1hHIOKtRK8zJccos9PUH) | 3:01 | 2025-10-04 |  |
 | [Nkosi Yami Ngabusiswa](https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 4:16 | 2024-11-04 |  |
 | [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 | 2025-09-17 |
 | [Nonqonqo](https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 2:20 | 2023-01-14 | 2024-03-06 |

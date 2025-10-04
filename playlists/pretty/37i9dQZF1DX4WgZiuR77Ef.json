@@ -1,13 +1,37 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 394134,
+  "num_followers": 394026,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgx6IRe0YhuHOZG2ZPgAsonhY6I",
+  "snapshot_id": "AAAAAEwPQvufLZd0ran5PJL7zTfnlwNH",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:46",
+      "album": {
+        "name": "Is Anybody Out There?",
+        "url": "https://open.spotify.com/album/3HILXvxiUdiBq7VftSQ82D"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Myra Washington",
+          "url": "https://open.spotify.com/artist/4ajqCfjC2IXQds6NlmKQVp"
+        },
+        {
+          "name": "Brother Nature",
+          "url": "https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "Is Anybody Out There?",
+      "url": "https://open.spotify.com/track/1rBbyvA46Jxa6MCIQzgKA7"
+    },
     {
       "added_at": "2025-05-23 04:00:42",
       "album": {
@@ -29,24 +53,24 @@
       "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
     },
     {
-      "added_at": "2025-03-07 05:00:22",
+      "added_at": "2025-10-03 04:00:46",
       "album": {
-        "name": "That's What's Up",
-        "url": "https://open.spotify.com/album/2KVWasEMx9UsoVFwr97w3W"
+        "name": "Make it Fun-K",
+        "url": "https://open.spotify.com/album/5RGEXruQBr4cDnse4NoWhg"
       },
       "artists": [
         {
-          "name": "Mojoflo",
-          "url": "https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED"
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
         },
         {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          "name": "Randy Skinner",
+          "url": "https://open.spotify.com/artist/6PlKzyG3XFbKG0ItNro1n8"
         }
       ],
-      "duration_ms": 186079,
-      "name": "That's What's Up",
-      "url": "https://open.spotify.com/track/27hPKztj4ifgnVZytiQ2Ew"
+      "duration_ms": 330233,
+      "name": "Make it Fun-K",
+      "url": "https://open.spotify.com/track/7kyUjhRWTEFoGNYmRN4huV"
     },
     {
       "added_at": "2025-01-31 05:00:20",
@@ -101,6 +125,26 @@
       "url": "https://open.spotify.com/track/1De4SmmQ81AzPP04NNSCR6"
     },
     {
+      "added_at": "2025-03-07 05:00:22",
+      "album": {
+        "name": "That's What's Up",
+        "url": "https://open.spotify.com/album/2KVWasEMx9UsoVFwr97w3W"
+      },
+      "artists": [
+        {
+          "name": "Mojoflo",
+          "url": "https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 186079,
+      "name": "That's What's Up",
+      "url": "https://open.spotify.com/track/27hPKztj4ifgnVZytiQ2Ew"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Something Better",
@@ -131,42 +175,6 @@
       "duration_ms": 60000,
       "name": "Make Me Move",
       "url": "https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "The JB's Tribute Pastor P",
-        "url": "https://open.spotify.com/album/7i8dKoKQVmpqZidUH4Fxzy"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Daru Jones",
-          "url": "https://open.spotify.com/artist/4ePL94kqqEdFhDGGhc7kzi"
-        },
-        {
-          "name": "Harry Mack",
-          "url": "https://open.spotify.com/artist/3XOZM0DtztbmC1IE3amUnn"
-        },
-        {
-          "name": "Clyde Stubblefield",
-          "url": "https://open.spotify.com/artist/687p4CLJvjm9dX82QHgzBf"
-        },
-        {
-          "name": "Fred Wesley",
-          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
-        },
-        {
-          "name": "John (Jabo) Starks",
-          "url": "https://open.spotify.com/artist/2c2mb74jyj2bluIvHQvXpS"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "The JB's Tribute Pastor P",
-      "url": "https://open.spotify.com/track/0DX8pn3evBgD1aWQIH8KZt"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1803,26 +1811,6 @@
       "duration_ms": 255227,
       "name": "Hard Up",
       "url": "https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/3B6JmsgFu4k50ctzvjQ414"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 281605,
-      "name": "Dance Like This",
-      "url": "https://open.spotify.com/track/4KeZ70RzWqbcplRkOfrku9"
     },
     {
       "added_at": "2020-10-30 04:02:00",

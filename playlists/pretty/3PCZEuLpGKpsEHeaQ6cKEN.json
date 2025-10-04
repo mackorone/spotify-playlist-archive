@@ -1,13 +1,29 @@
 {
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Lily Palmer",
-  "num_followers": 263359,
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Nick Schilder",
+  "num_followers": 263258,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADUxRklLEuqfQg+5P532SFjN+nhOP6M",
+  "snapshot_id": "AADUydv/UZWFHIPI5H5Bcz8QPA6arDIu",
   "tracks": [
+    {
+      "added_at": "2025-10-03 08:27:10",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6b4gvnc05CDFgSJXQ7HzUl"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 139845,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/6EcfGwbyvNTkKoxl5BiWQO"
+    },
     {
       "added_at": "2025-10-03 02:00:28",
       "album": {
@@ -5359,6 +5375,50 @@
       "duration_ms": 195743,
       "name": "Flashdance - Deep Dish Does The Chug Remix",
       "url": "https://open.spotify.com/track/4UnkTkVICLjugSNhyDkHo3"
+    },
+    {
+      "added_at": "2025-10-03 09:03:17",
+      "album": {
+        "name": "Lux Tua",
+        "url": "https://open.spotify.com/album/7EZdQqx4k2EP50N7regahp"
+      },
+      "artists": [
+        {
+          "name": "Anna Tur",
+          "url": "https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH"
+        },
+        {
+          "name": "Hibernate",
+          "url": "https://open.spotify.com/artist/1sl6CA5h955ypJte6GPuo0"
+        },
+        {
+          "name": "Victoria Gydov",
+          "url": "https://open.spotify.com/artist/50rad0cLT5q8qgJhnHCwmz"
+        }
+      ],
+      "duration_ms": 224318,
+      "name": "Lux Tua",
+      "url": "https://open.spotify.com/track/6fgCknv83OG9BcgvoqN0MV"
+    },
+    {
+      "added_at": "2025-10-03 09:12:11",
+      "album": {
+        "name": "Your Loving Arms",
+        "url": "https://open.spotify.com/album/2dByyhL1GQ7OQImrYSN1et"
+      },
+      "artists": [
+        {
+          "name": "Going Deeper",
+          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
+        },
+        {
+          "name": "Karen Overton",
+          "url": "https://open.spotify.com/artist/1lIWmG51qV9UGl0H9hr9mR"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Your Loving Arms",
+      "url": "https://open.spotify.com/track/1SBzqytVBwH1fENIufSHIq"
     }
   ],
   "unique_name": "Armada Today",

@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 25 min
+72 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Jesus Paid It All \(Worthy of The Price\)](https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Jesus Paid It All](https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7) | 3:56 | 2025-04-09 |  |
 | [Lately](https://open.spotify.com/track/58ijtNiLXPW6d24WmoMCAP) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:27 | 2025-04-09 | 2025-05-19 |
 | [LEMONADE](https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF) | [LEMONADE](https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4) | 3:02 | 2025-08-03 |  |
+| [LEMONADE \(FOLK\)](https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a) | [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LEMONADE \(FOLK\)](https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ) | 3:03 | 2025-10-04 |  |
 | [LIFT MY HANDS](https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:39 | 2025-04-09 |  |
 | [LIVE YOUR LIFE](https://open.spotify.com/track/0ee793vMCGz624rQFx90Yz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:41 | 2025-05-15 | 2025-05-16 |
 | [LOW KEY](https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LOW KEY](https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8) | 2:30 | 2025-04-09 |  |

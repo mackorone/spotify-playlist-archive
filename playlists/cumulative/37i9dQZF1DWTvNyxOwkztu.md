@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-332 songs - 18 hr 24 min
+333 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Kalmar \- Lassjo's Dive](https://open.spotify.com/track/7sjPnJvroufu2baQuwoZ7Z) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Kalmar](https://open.spotify.com/album/2KxqTqUFYM335WGrCy9V4T) | 4:00 | 2022-03-25 | 2022-07-16 |
 | [Karma](https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Karma](https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh) | 3:04 | 2023-11-14 |  |
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2022-03-25 | 2022-04-21 |
-| [Keep You](https://open.spotify.com/track/12MuNOUBqDSd52jzDIjrLJ) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Keep You](https://open.spotify.com/album/0m3q4whKBww4O5QnQAiduJ) | 2:26 | 2025-04-18 |  |
+| [Keep You](https://open.spotify.com/track/12MuNOUBqDSd52jzDIjrLJ) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Keep You](https://open.spotify.com/album/0m3q4whKBww4O5QnQAiduJ) | 2:26 | 2025-04-18 | 2025-10-04 |
 | [Keep Your Cool](https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Keep Your Cool](https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW) | 3:19 | 2023-06-30 | 2023-08-25 |
 | [Kobicha](https://open.spotify.com/track/1G8KzCELG4AXvmpf1WRMY6) | [Soul Flower](https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra) | [Kobicha](https://open.spotify.com/album/0suJmrWbXjCIT6bgR4AYhR) | 3:01 | 2022-02-26 | 2022-10-01 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2021-12-09 | 2022-09-13 |
@@ -302,6 +302,7 @@
 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 | 2021-12-09 |  |
 | [The Third in Line](https://open.spotify.com/track/0aCzk0rLcSarPylQmx6txM) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Third in Line](https://open.spotify.com/album/242CvoMDlEco9NHuSlcFZR) | 6:16 | 2021-12-09 | 2022-04-21 |
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2022-02-26 | 2022-05-21 |
+| [Thoughts](https://open.spotify.com/track/3jBvkafezQpQfmA6ASA9Be) | [Iskarelyn](https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd), [terro](https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g) | [Thoughts](https://open.spotify.com/album/1aUifNtiFDSV7WRKxxLOjO) | 2:59 | 2025-08-22 |  |
 | [Time to Chill](https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Time to Chill](https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko) | 5:12 | 2023-11-14 |  |
 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 | 2022-02-26 | 2023-01-14 |
 | [Toybox](https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Toybox](https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s) | 3:41 | 2023-09-13 | 2025-05-26 |

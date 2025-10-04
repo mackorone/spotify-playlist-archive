@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> PRESIDENT are on top of today's best Metal playlist.
+> Megadeth are on top of today's best Metal playlist.
 
 1,108 songs - 3 day 0 hr 26 min
 

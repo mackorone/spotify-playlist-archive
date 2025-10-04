@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 210640,
       "name": "Born in the U.S.A. - Electric Nebraska",
       "url": "https://open.spotify.com/track/48gTzjCPe7A6Zs59indY51"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 215426,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl"
@@ -2082,6 +2082,24 @@
       "duration_ms": 298400,
       "name": "Spirit in the Night",
       "url": "https://open.spotify.com/track/2D9YnxyNwj7qqA1JLyKYPR"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191293,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
     },
     {
       "album": {

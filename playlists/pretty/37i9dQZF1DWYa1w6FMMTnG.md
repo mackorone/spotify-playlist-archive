@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,398 likes - 112 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,085 likes - 113 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,13 +112,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 102 | [Arabian Nights \(2019\)](https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:13 |
 | 103 | [The Court of Miracles](https://open.spotify.com/track/5iI1EQlyyo8FzkdT7XnTd7) | [Paul Kandel](https://open.spotify.com/artist/6M3XR163Q68THc9IFMwfAH), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 1:27 |
 | 104 | [Snuff Out the Light \(Yzma's Song\) \- From "The Emperor's New Groove"](https://open.spotify.com/track/7pJe253H3qkzBql4xCJuLE) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Disney Villains: Simply Sinister Songs](https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O) | 3:36 |
-| 105 | [Jálale \- Instrumental](https://open.spotify.com/track/3867GnEX4Jd10J0pNNfwpH) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:54 |
-| 106 | [Cruella De Vil \- Original Version](https://open.spotify.com/track/0PQ8MsAxETdEW3LigpDujI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Disneymania 6](https://open.spotify.com/album/4wbsqx9AwCeNFzT3PjikMb) | 3:21 |
-| 107 | [My Evil Buddies and Me](https://open.spotify.com/track/5ujiiDDR3mBEFmS4Ztf3PA) | [Danny Jacob](https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS) | [Phineas and Ferb: Rockin' and Rollin'](https://open.spotify.com/album/2NlTgt3Btt2QZlolG41J1j) | 1:24 |
-| 108 | [I Put a Spell on You](https://open.spotify.com/track/0G5zekG6CBSUMVRr5O5DZ6) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Luke Cage: Season 2](https://open.spotify.com/album/1Y1xgrYHw2lcDqWStVl6rK) | 4:44 |
-| 109 | [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 |
-| 110 | [Grim Grinning Ghosts](https://open.spotify.com/track/3zZY85lUqZz9gDe5a3Djpc) | [andysocialclub](https://open.spotify.com/artist/3ZU0e9k7EnHIod4BfOOg8L) | [Disney Halloween: Haunting Vibes](https://open.spotify.com/album/7tLJwt4OWzwGhYft6czoHv) | 3:34 |
-| 111 | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U) | 2:40 |
-| 112 | [Remember Me \(Reunion\)](https://open.spotify.com/track/3uCcoxif1cNSDivDOsi69C) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Ana Ofelia Murguía](https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:13 |
+| 105 | [Magic Mirror](https://open.spotify.com/track/51BLKfs3PaDRtFpYEBE8Qz) | [John Barnick](https://open.spotify.com/artist/4P5gGKqkO7OSd6sdqYTUBp) | [Music from Disney Villains: Unfairly Ever After](https://open.spotify.com/album/6SqHcELKNY3AJFcLw3uQux) | 2:39 |
+| 106 | [Jálale \- Instrumental](https://open.spotify.com/track/3867GnEX4Jd10J0pNNfwpH) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:54 |
+| 107 | [Cruella De Vil \- Original Version](https://open.spotify.com/track/0PQ8MsAxETdEW3LigpDujI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Disneymania 6](https://open.spotify.com/album/4wbsqx9AwCeNFzT3PjikMb) | 3:21 |
+| 108 | [My Evil Buddies and Me](https://open.spotify.com/track/5ujiiDDR3mBEFmS4Ztf3PA) | [Danny Jacob](https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS) | [Phineas and Ferb: Rockin' and Rollin'](https://open.spotify.com/album/2NlTgt3Btt2QZlolG41J1j) | 1:24 |
+| 109 | [I Put a Spell on You](https://open.spotify.com/track/0G5zekG6CBSUMVRr5O5DZ6) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Luke Cage: Season 2](https://open.spotify.com/album/1Y1xgrYHw2lcDqWStVl6rK) | 4:44 |
+| 110 | [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 |
+| 111 | [Grim Grinning Ghosts](https://open.spotify.com/track/3zZY85lUqZz9gDe5a3Djpc) | [andysocialclub](https://open.spotify.com/artist/3ZU0e9k7EnHIod4BfOOg8L) | [Disney Halloween: Haunting Vibes](https://open.spotify.com/album/7tLJwt4OWzwGhYft6czoHv) | 3:34 |
+| 112 | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U) | 2:40 |
+| 113 | [Remember Me \(Reunion\)](https://open.spotify.com/track/3uCcoxif1cNSDivDOsi69C) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Ana Ofelia Murguía](https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:13 |
 
-Snapshot ID: `AAAAAOO2Kt0u3sHhmZKMcedrMe3XwrcQ`
+Snapshot ID: `AAAAALsPpEHuiISMzGBkBAQ6tHlyP7lK`

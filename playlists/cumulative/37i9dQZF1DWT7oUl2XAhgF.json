@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Adi Oasis",
+  "description": "A new take on a classic sound. Cover: Sekou",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -5388,7 +5388,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 185049,
       "name": "Love's Graveyard",
       "url": "https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE"
@@ -6106,6 +6106,24 @@
       "duration_ms": 252692,
       "name": "Never Gonna Take Away My Love",
       "url": "https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I"
+    },
+    {
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "album": {
@@ -9210,6 +9228,24 @@
       "duration_ms": 197000,
       "name": "Tied To You",
       "url": "https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4nd5WNhqkFX7CWuJbS2Hpq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199965,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ"
     },
     {
       "album": {

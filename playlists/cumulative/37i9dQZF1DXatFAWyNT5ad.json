@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Company Hunting",
+        "url": "https://open.spotify.com/album/3RfMYoc6ypAt7N5kmHhn2u"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172018,
+      "name": "Company Hunting",
+      "url": "https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU"
+    },
+    {
+      "album": {
         "name": "5SOS5",
         "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
       },
@@ -5428,7 +5446,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 224805,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX"

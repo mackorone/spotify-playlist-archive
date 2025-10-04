@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Nicki Nicole, Rauw Alejandro  Shakira, and more!!! Cover: Milo J ",
-  "num_followers": 53151,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Nicki Nicole, Rauw Alejandro  Shakira, and more!!! Cover: Ricky MArtin &amp; Carin Le\u00f3n",
+  "num_followers": 53145,
   "original_name": "Pop Latin Hits 2025",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAATyuX5dLlTNE4+Iv3U6CnAw+LurK1F",
+  "snapshot_id": "AAATz/1cNegT0tDD6DgBrDDQ7fuksXol",
   "tracks": [
+    {
+      "added_at": "2025-10-03 14:15:42",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232458,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
+    },
     {
       "added_at": "2025-09-26 13:06:08",
       "album": {
@@ -39,6 +59,26 @@
       "duration_ms": 161622,
       "name": "Besito en la Frente",
       "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+    },
+    {
+      "added_at": "2025-09-19 00:50:36",
+      "album": {
+        "name": "La Tirana",
+        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 244059,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
     },
     {
       "added_at": "2025-09-18 14:56:20",
@@ -1947,26 +1987,6 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
-    },
-    {
-      "added_at": "2025-09-19 00:50:36",
-      "album": {
-        "name": "La Tirana",
-        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 244059,
-      "name": "La Tirana",
-      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
     }
   ],
   "unique_name": "Pop Latin Hits 2025",

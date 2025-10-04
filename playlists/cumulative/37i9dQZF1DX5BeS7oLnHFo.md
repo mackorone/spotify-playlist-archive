@@ -4,7 +4,7 @@
 
 > كافيار الراب العربي
 
-77 songs - 3 hr 40 min
+78 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cima](https://open.spotify.com/track/0Aa8tvJw1AaDPF29mmBECv) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Cima](https://open.spotify.com/album/3c90YV2TtEGpmoMXSttMFf) | 3:18 | 2025-10-02 |  |
 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 | 2024-06-24 |  |
 | [DOMA](https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8) | [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [DOMA](https://open.spotify.com/album/1mMvVmB0dpOWxJvIIF564a) | 3:00 | 2025-10-02 |  |
+| [Donia](https://open.spotify.com/track/1Eb7vspAiXYvlwtFCTY0JK) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Donia](https://open.spotify.com/album/5tawL1TpvFCJyHa59wPlpW) | 2:34 | 2025-10-03 |  |
 | [Drb Almahalik](https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Drb Almahalik](https://open.spotify.com/album/3PveDVWQRW4vBfMuTDeCUP) | 4:04 | 2025-10-02 |  |
 | [Ducati](https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Ducati](https://open.spotify.com/album/7gaCM4sEj6b9OD55PNoXH4) | 3:06 | 2025-10-02 |  |
 | [Eshara](https://open.spotify.com/track/4uWwdosghKo3SrsTACvvFc) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Memento](https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH) | 2:21 | 2025-10-02 |  |
@@ -73,7 +74,7 @@
 | [انترو](https://open.spotify.com/track/1sFyZPz49MR7xin3LiJqin) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [انترو](https://open.spotify.com/album/0xRUHDEuShsfDJfPzfYAK7) | 4:02 | 2025-10-02 |  |
 | [بابا عود](https://open.spotify.com/track/2uDm5lEDJgJYuzu6bz1IuW) | [Confait](https://open.spotify.com/artist/5mwZ6RqB8G5jCGHKFkQfPE) | [بابا عود](https://open.spotify.com/album/3Wk8rHziR5A4LXT3pcbo9U) | 1:40 | 2024-06-24 | 2025-04-30 |
 | [بدايات](https://open.spotify.com/track/0fhqxwrZvlq9b3wlKQvKkO) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [WD Alzain](https://open.spotify.com/artist/3mzfnmgUapSxcuTwgjDwFB) | [بدايات](https://open.spotify.com/album/2INHlJhKf8FNId99YNWxDX) | 2:55 | 2025-10-02 |  |
-| [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 | 2024-06-24 |  |
+| [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 | 2024-06-24 | 2025-10-04 |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2024-06-24 | 2024-09-20 |
 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 | 2025-10-03 |
 | [ذا يوث](https://open.spotify.com/track/6oOmNuCn3DtEm6esZc42BQ) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope) | [ذا يوث](https://open.spotify.com/album/4JBr0ctu1dWtJvarwrwMdN) | 3:09 | 2024-06-24 | 2025-04-30 |

@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Tkandz
 
-2,174 songs - 4 day 11 hr 58 min
+2,175 songs - 4 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,7 +762,7 @@
 | [Fruitella](https://open.spotify.com/track/2rfzs6KSwUv5QPZvg0It88) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:40 | 2022-03-17 | 2022-04-29 |
 | [FSSH](https://open.spotify.com/track/7rhBC0NllkFAaLfxxjv4IL) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [FSSH](https://open.spotify.com/album/7Hv1UGF3PZzXZ3ZTxGuIn4) | 3:10 | 2024-10-10 | 2025-03-14 |
 | [Fuego](https://open.spotify.com/track/2PPD8ikfbuuTyx3kglvJJs) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Close To Home](https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R) | 2:36 | 2022-08-18 | 2022-11-19 |
-| [Fuji](https://open.spotify.com/track/4L2TUAADvZXXGr9gW0DvB9) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Mixtape J](https://open.spotify.com/album/4E5F5RxKp7mZwwXiiuuiGw) | 4:17 | 2025-06-05 |  |
+| [Fuji](https://open.spotify.com/track/4L2TUAADvZXXGr9gW0DvB9) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Mixtape J](https://open.spotify.com/album/4E5F5RxKp7mZwwXiiuuiGw) | 4:17 | 2025-06-05 | 2025-10-04 |
 | [Full Flick](https://open.spotify.com/track/2tvGgvYKsmtdD0nzEXnkI0) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Full Flick](https://open.spotify.com/album/60df0jGgMf496GnSbVpCqW) | 2:57 | 2020-08-21 | 2020-10-02 |
 | [Full Throttle](https://open.spotify.com/track/6TvIdHBRPUJtjF1tSResuq) | [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu) | [Dinner For One](https://open.spotify.com/album/3V3XGjfaJIoky5ntlIvGiP) | 3:01 | 2021-03-06 | 2021-06-26 |
 | [Fully Involved, Pt\. 2](https://open.spotify.com/track/6ik85jQgYWbIMtrcKSfRV9) | [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Fully Involved, Pt\. 2](https://open.spotify.com/album/2aU393DlRplh2Do4ZCt28q) | 3:24 | 2024-04-26 | 2024-05-25 |
@@ -2155,6 +2155,7 @@
 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 | 2021-06-05 | 2022-04-15 |
 | [Writer's Block](https://open.spotify.com/track/6qwvEY4USRrNbOLjN7KHuG) | [Tskinz](https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap) | [Writer's Block](https://open.spotify.com/album/7GkZ6kUXHyYVa4npDZYwK8) | 1:55 | 2024-05-17 | 2024-06-08 |
 | [Writers Block](https://open.spotify.com/track/3vASP3wHrxVBNDOsAuEBAh) | [Queenie](https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO) | [Writers Block](https://open.spotify.com/album/52T2kYL27LnT541KG46plN) | 3:16 | 2024-03-08 | 2024-04-19 |
+| [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 | 2025-10-02 |  |
 | [WTF](https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [WTF](https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV) | 3:05 | 2022-08-18 | 2022-10-01 |
 | [WW2](https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [WW2](https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52) | 3:21 | 2021-01-08 | 2021-06-19 |
 | [Xabsi](https://open.spotify.com/track/7jPGkISdoPTCMDU8RQvOo7) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Xabsi](https://open.spotify.com/album/4yubB7drdZKKBqafypuKuo) | 2:41 | 2020-11-13 | 2021-01-23 |

@@ -2,9 +2,9 @@
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Reznik
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Sofiya Nzau, Madism
 
-4,687 songs - 9 day 6 hr 58 min
+4,688 songs - 9 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2592,7 +2592,7 @@
 | [Make It Right](https://open.spotify.com/track/5x9cWMWwD2qAUZgClxigw0) | [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq) | [Make It Right](https://open.spotify.com/album/2dGZ2ADf34o7P7jCaBgN55) | 2:47 | 2025-05-15 | 2025-05-23 |
 | [Make It Right](https://open.spotify.com/track/1ZOJTWzIo70uY4WOpcTrds) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Make It Right](https://open.spotify.com/album/2NXGp4A6BI26ECtQpwE4Jx) | 2:21 | 2025-07-10 | 2025-07-25 |
 | [Make Luv](https://open.spotify.com/track/5bEyOobplcoZlaXapxhPzt) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232) | [Make Luv](https://open.spotify.com/album/07ptUmOyhn6EJzonbxJXAg) | 2:15 | 2025-07-24 | 2025-08-09 |
-| [Make Me Forget](https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [](https://open.spotify.com/album/null) | 3:15 | 2025-10-02 |  |
+| [Make Me Forget](https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [First Love](https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP) | 3:15 | 2025-10-02 |  |
 | [Make Some Noise](https://open.spotify.com/track/5KghyXMZvQuLVjoRRttnMc) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Make Some Noise](https://open.spotify.com/album/0h1RHZiRE1IQxHveJUaiMP) | 2:17 | 2025-04-17 | 2025-04-25 |
 | [Make That Thang Go](https://open.spotify.com/track/50taiksUqgCwOs5dxD463g) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Unity](https://open.spotify.com/artist/1CcaeP1tU7SDKqopjRYywA) | [Make That Thang Go](https://open.spotify.com/album/7A6F092MypW8vyBqn9hWj5) | 1:58 | 2025-06-26 | 2025-07-04 |
 | [Make Up](https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Up](https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R) | 2:31 | 2024-07-11 | 2024-07-27 |
@@ -2613,7 +2613,7 @@
 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 | 2024-06-06 | 2024-06-28 |
 | [Man in the Mirror](https://open.spotify.com/track/2GNVEJH74Sw4ObYoT35uiq) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [Man in the Mirror](https://open.spotify.com/album/1iIflDcqV0jXafyBsZx1rE) | 2:22 | 2024-12-05 | 2024-12-13 |
 | [Man On Fire](https://open.spotify.com/track/4OKkbosoXkfKYXxibXRmt5) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Man On Fire](https://open.spotify.com/album/77eJN6kno441IKlu6A0DcB) | 2:24 | 2024-09-26 | 2024-10-18 |
-| [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [](https://open.spotify.com/album/null) | 4:41 | 2025-10-02 |  |
+| [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 | 2025-10-02 |  |
 | [Maneye feat\. Sofiya Nzau](https://open.spotify.com/track/0rF4ASFVywWVt8IG7hueiR) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Maneye feat\. Sofiya Nzau](https://open.spotify.com/album/5R6dQ95TypjuWVa4HjC7km) | 3:06 | 2024-07-11 | 2024-07-27 |
 | [Maniac](https://open.spotify.com/track/3wkLVtVnFvpCaBYhbdjMWq) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW), [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Maniac](https://open.spotify.com/album/3pZlHzYxi7AbbCf9uVV106) | 2:54 | 2025-01-24 | 2025-02-14 |
 | [MANSA MUSA](https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MANSA MUSA](https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K) | 3:24 | 2024-07-04 | 2024-07-19 |
@@ -2769,6 +2769,7 @@
 | [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 | 2023-09-28 | 2023-10-13 |
 | [Morumbi](https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tocadisco](https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe) | [Morumbi](https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw) | 3:05 | 2025-04-10 | 2025-04-18 |
 | [Motel 6](https://open.spotify.com/track/1lMZo6S6kAZoalFtzfgf1b) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Motel 6](https://open.spotify.com/album/7JkYx5RrVdmdyWOZpAmXbX) | 2:40 | 2024-01-04 | 2024-01-12 |
+| [Moth To A Flame](https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht) | 3:10 | 2025-10-02 |  |
 | [Motivated](https://open.spotify.com/track/0BxqVQhPOQjMMKowpm5W74) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Motivated](https://open.spotify.com/album/1DQimPEysFvVZRR2SI1aP1) | 3:13 | 2024-09-26 | 2024-10-11 |
 | [Motor City](https://open.spotify.com/track/3gbGUNc6xOkzPCoQv1746E) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Motor City](https://open.spotify.com/album/5totGwHUzknOagoRGx3l7w) | 2:30 | 2025-07-10 | 2025-08-01 |
 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 | 2024-05-09 | 2024-06-01 |

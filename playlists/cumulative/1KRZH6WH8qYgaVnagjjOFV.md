@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-141 songs - 9 hr 36 min
+144 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 | 2024-05-24 |  |
 | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/track/6zVrfIqS5aymzVww9f8DR0) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Arie Camp](https://open.spotify.com/artist/38LL4aTJrwk1PwZNx5Ipcx), [Bella Camp](https://open.spotify.com/artist/2ehPZFpqtj6ObUkkbJ5wtD) | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/album/6biPeOhkhcgDYVOf1jhyM4) | 3:39 | 2025-05-09 |  |
 | [Alaba \- Live At Intimidad Con Dios / 2023](https://open.spotify.com/track/2zLgzu8nD1GLLFwuJxirRl) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [Alaba \(Live\)](https://open.spotify.com/album/6gXra4SIHn4IZuOURl0b8k) | 5:11 | 2025-01-31 | 2025-09-20 |
+| [All This In A Name](https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe) | 4:26 | 2025-10-03 |  |
 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 | 2025-05-16 |  |
 | [Awestruck](https://open.spotify.com/track/3gNXfvAvAaozZlySToX3fU) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/2zoxv5L1T1KR1ojW19bKBW) | 4:52 | 2025-01-31 |  |
 | [Beautiful Life \(with CAIN\)](https://open.spotify.com/track/7iMQOgRClzocidxewxXMvc) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Beautiful Life \(with CAIN\)](https://open.spotify.com/album/7oNy4QL6dUZXdUa7HQlWZZ) | 3:18 | 2024-05-24 |  |
@@ -27,9 +28,11 @@
 | [call to me.](https://open.spotify.com/track/6TYNbZdj8Jdht86Kf1yaeQ) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3) | [TO THE SEARCHING, THE LOST AND THE FOUND](https://open.spotify.com/album/7MtHCKUQ46QKt88K5jd6pD) | 5:27 | 2025-01-31 |  |
 | [Calvary's Enough](https://open.spotify.com/track/2nvTbUn32EyCE4gVS2NXQd) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 3:17 | 2025-01-31 |  |
 | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/album/5Fa88waql5QY9FE23Hj9bI) | 3:33 | 2025-01-10 |  |
+| [Carry Me](https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Carry Me](https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy) | 3:13 | 2025-10-03 |  |
 | [Chances \- Radio Version](https://open.spotify.com/track/6rx4jmRjAJVdxx76XHnUrr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances \(Radio Version\)](https://open.spotify.com/album/6IgUDtPqKI36z3o55Y8PrT) | 3:33 | 2025-01-31 |  |
 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 | 2025-01-31 |  |
 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 | 2025-09-19 |  |
+| [Church Clothes](https://open.spotify.com/track/2GyzxYTYOcOn2gABrdIUmU) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Church Clothes](https://open.spotify.com/album/15lWZw31EqIp9YKOqu24Fp) | 3:04 | 2025-10-03 |  |
 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 | 2024-10-11 |  |
 | [Consider Him](https://open.spotify.com/track/3jxmJxj1fGRmV9ZGyOdCvr) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Consider Him](https://open.spotify.com/album/3ycOePI4xr5Z9z66XWPm5w) | 9:28 | 2025-09-12 |  |
 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 | 2024-05-24 |  |

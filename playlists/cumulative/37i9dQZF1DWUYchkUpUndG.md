@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey
 
-6,360 songs - 19 day 9 hr 42 min
+6,360 songs - 19 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5566,8 +5566,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 10](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
-| [Track 4](https://open.spotify.com/track/0HOOj7Hpt8mQoGBxngEZZE) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Sarah\-Grace](https://open.spotify.com/artist/5ElsrYiIntK4rwAh79Dbe6) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-03 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |
@@ -5706,6 +5704,7 @@
 | [Upside Down Kingdom](https://open.spotify.com/track/1slPTN5JJaHPazUX8UzEjz) | [Carli Lessing](https://open.spotify.com/artist/2FgucmZTEnoevQEb0T5rcC), [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p) | [Upside Down Kingdom](https://open.spotify.com/album/6A4bMbBoxy2AvtzYCaSk21) | 3:05 | 2023-12-01 | 2023-12-15 |
 | [Use Me Lord](https://open.spotify.com/track/0LSc7AyO1Cb7gfu3p28r5N) | [Bhablo](https://open.spotify.com/artist/2lUQnvjefUuhYjRd7XuXBi) | [Use Me Lord](https://open.spotify.com/album/11uAgLpqCxG6Ku5djPDCot) | 2:58 | 2025-01-17 | 2025-01-31 |
 | [Use Me Lord](https://open.spotify.com/track/3XfsgBwb38RYE1ONm1S7Ly) | [Miracle V](https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ) | [Use Me Lord](https://open.spotify.com/album/6iPWYieSog8N92DWBAK6xA) | 5:51 | 2024-05-17 | 2024-06-01 |
+| [Usibiyele \(Live\)](https://open.spotify.com/track/3hSxs180UkvMsMlewxgKrk) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise 11 Next Level \(Live\)](https://open.spotify.com/album/0N0j10dgpGDWxeWkE3jdgP) | 11:27 | 2025-10-03 |  |
 | [Usichelewe](https://open.spotify.com/track/5x8QDSx5hM7esdrYctNlmY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Usichelewe](https://open.spotify.com/album/6PpM4u4Xv6dFitIVEJezSq) | 3:36 | 2025-03-14 | 2025-03-28 |
 | [Usikubali](https://open.spotify.com/track/5gBgut3hVjharEPQOnqriU) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Usikubali](https://open.spotify.com/album/0JWlr7UlSqz2Hm44js2e92) | 6:24 | 2025-06-27 | 2025-07-11 |
 | [Usizo lwami](https://open.spotify.com/track/2T7peEBCVkgcsN06HNoenA) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC) | [Usizo lwami](https://open.spotify.com/album/58zxvQ0gCN6IMs9hdkpTqR) | 8:10 | 2024-10-25 | 2024-11-08 |
@@ -6090,6 +6089,7 @@
 | [YAHWEH is in the room \(Aya Ya\)](https://open.spotify.com/track/1zfJyhYv1rDinVbAmNcE2z) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K) | [YAHWEH is in the room \(Aya Ya\)](https://open.spotify.com/album/7EgDBqYDx2H3ISM8RZ2BLS) | 9:30 | 2024-11-08 | 2024-11-22 |
 | [Yahweh Sabaoth](https://open.spotify.com/track/510rJddHvl9rLcy7Yc0PZg) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Osadebey](https://open.spotify.com/artist/2wGTUsd53tt4zLvK5dU8YB) | [Yahweh Sabaoth](https://open.spotify.com/album/44FJj7kcLho67X50txq02j) | 2:44 | 2024-12-20 | 2025-01-10 |
 | [Yahweh Sabaoth](https://open.spotify.com/track/3tghupfyRKdv7wFyzzNd9b) | [Skie Music](https://open.spotify.com/artist/5P4rch630qIMkSGKTlpZlO), [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq) | [Yahweh Sabaoth](https://open.spotify.com/album/1PrEtUNeLNV8xXeHZXbqEE) | 3:01 | 2025-01-03 | 2025-01-17 |
+| [Yahweh Sabaoth \- Bvrn London '25](https://open.spotify.com/track/0HOOj7Hpt8mQoGBxngEZZE) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Sarah\-Grace](https://open.spotify.com/artist/5ElsrYiIntK4rwAh79Dbe6) | [Songs From The Altar](https://open.spotify.com/album/2Rc7mm3bupLoKTVYKp3sRP) | 7:52 | 2025-10-03 |  |
 | [Yahweh Sabaoth \- Remix](https://open.spotify.com/track/3cwv0CRtXnZ4Pzl0YGLbsG) | [Skie Music](https://open.spotify.com/artist/5P4rch630qIMkSGKTlpZlO), [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Yahweh Sabaoth \(Remix\)](https://open.spotify.com/album/1kheTmXiJSHJvSnGm3YYvM) | 3:04 | 2025-03-07 | 2025-03-14 |
 | [Yahweh Yahweh \- Worship Rendition](https://open.spotify.com/track/3N5YHio1i2DICcUFY4McSB) | [Eunice Morgan](https://open.spotify.com/artist/3CYKuHycuyqxDyPU2NkV5E) | [Yahweh Yahweh \(Worship Rendition\)](https://open.spotify.com/album/6pxMbdPJgqosR77coxLvA2) | 11:56 | 2024-05-17 | 2024-06-01 |
 | [Yahweh Yahweh Live](https://open.spotify.com/track/00R0TlcmrzdHKClAM1xW13) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Yahweh Yahweh Live](https://open.spotify.com/album/6YAUYIwp6jBtIf16Nfr2Zx) | 4:24 | 2024-11-22 | 2024-12-06 |

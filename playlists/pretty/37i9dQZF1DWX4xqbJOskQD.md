@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,007 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 29 | [Fun And Fancy Free](https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:40 |
 | 30 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
 | 31 | [Give Me Time](https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:39 |
-| 32 | [Lullaby of Birdland](https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH) | [Kirby Stone Four](https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9) | [The Kirby Stone Touch](https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA) | 2:09 |
-| 33 | [My One Sin](https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV) | [The Four Coins](https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH) | [Best Of The Four Coins](https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9) | 2:19 |
-| 34 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
-| 35 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
+| 32 | [My One Sin](https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV) | [The Four Coins](https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH) | [Best Of The Four Coins](https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9) | 2:19 |
+| 33 | [Lullaby of Birdland](https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH) | [Kirby Stone Four](https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9) | [The Kirby Stone Touch](https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA) | 2:09 |
+| 34 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
+| 35 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
 | 36 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
 | 37 | [Mr\. Sandman \- 1954 \#1 Billboard chart hit](https://open.spotify.com/track/3zopUGxKy1Uz4cKtDGjZry) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | ["They're Riding High" Says Archie](https://open.spotify.com/album/2fBVKQwJG7e5NvOizP3jCm) | 2:23 |
 | 38 | [Tuxedo Junction](https://open.spotify.com/track/2gE1UVwRrEW7Q09ht0SpHJ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/27PX6QHcZXHdepfrNqbPh8) | 3:05 |

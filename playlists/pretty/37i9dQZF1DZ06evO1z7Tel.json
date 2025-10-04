@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 37050,
+  "num_followers": 37063,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAAihP4QSlN9xzlZP5S+Kr9X",
+  "snapshot_id": "aN3AgAAAAACBKf4KQb/MsnDpdaf7Uz1J",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Caballos Famosos Con",
-        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noches Eternas",
         "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 149826,
       "name": "El Sauce Y La Palma",
       "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Caballos Famosos Con",
+        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo A Mi Lupe",
-        "url": "https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD"
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Canci\u00f3n Mixteca",
-      "url": "https://open.spotify.com/track/7ewaV9utuWtFJKhK5P04GY"
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP"
     }
   ],
   "unique_name": "This Is Carlos Y Jose",

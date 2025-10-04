@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 510037,
+  "num_followers": 510128,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAABkpx58ZRG8ShSY4qjyVCIY",
+  "snapshot_id": "aN3AgAAAAABvWt5wdhNmT5BvKW3lO0pG",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Irremediable",
+      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Felic\u00edtalo",
         "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Irremediable",
-      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carlos Rivera",
-        "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
       "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 208800,
-      "name": "En el Amor No Se Manda (with Yuridia)",
-      "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
+      "duration_ms": 199946,
+      "name": "No Son Horas - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/4rr6n7cchA3zFkI7Ec1UgN"
     },
     {
       "added_at": null,
@@ -791,6 +787,26 @@
       "duration_ms": 225720,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carlos Rivera",
+        "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "En el Amor No Se Manda (with Yuridia)",
+      "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
     },
     {
       "added_at": null,
@@ -820,25 +836,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 199946,
-      "name": "No Son Horas - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/4rr6n7cchA3zFkI7Ec1UgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
+      "duration_ms": 174071,
+      "name": "Dime - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 153373,
-      "name": "Viento y Cielo Alcanzar",
-      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
+      "duration_ms": 236906,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
     }
   ],
   "unique_name": "This Is Yuridia",

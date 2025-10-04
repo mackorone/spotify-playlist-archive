@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring the new eves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,195 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,183 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 33 | [7:45](https://open.spotify.com/track/7rWPhrTYchWZeUfH5dRMTD) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Sunsoaked](https://open.spotify.com/album/6QEZ9ErgKKIn7n5a68dNMl) | 3:43 |
 | 34 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
 | 35 | [Far Away So Close \- Radio Edit](https://open.spotify.com/track/4dpMSYudYsJR1nPQfkcuPe) | [Why Horses?](https://open.spotify.com/artist/1R0IeELEhgNJjMfuXPHYjy) | [Far Away So Close \(Radio Edit\)](https://open.spotify.com/album/1F8X82Xvo6PPVZdoAgGWf2) | 3:13 |
-| 36 | [Hanging on a Bassline](https://open.spotify.com/track/4z0lcaGvXOHJsZozZkBcao) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [](https://open.spotify.com/album/null) | 2:38 |
+| 36 | [Hanging on a Bassline](https://open.spotify.com/track/4z0lcaGvXOHJsZozZkBcao) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Beautiful Noise](https://open.spotify.com/album/2mWsjpD66CjqxhrRef9ML6) | 2:38 |
 | 37 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 |
 | 38 | [Ascension](https://open.spotify.com/track/4JVzP13jx3I5pXi5VFv8Vf) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Ascension](https://open.spotify.com/album/2EpbiW6Oj4cm8S3TyqCwp9) | 4:20 |
 | 39 | [Crawl Ball](https://open.spotify.com/track/7lBbcQXJ83SJzpaORoYkY4) | [foot foot](https://open.spotify.com/artist/2p5r5XfjZiMvulO5tvIMw3) | [still waters, empty house](https://open.spotify.com/album/7frVxZoUWY2IajDOpCexo4) | 3:49 |

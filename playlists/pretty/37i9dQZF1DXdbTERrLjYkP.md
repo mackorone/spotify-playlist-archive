@@ -2,43 +2,43 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Kaleb Cohen
+> Discover the next wave of talent writing their own songs\. Cover: Hohnen Ford
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,212 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,225 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
-| 2 | [LOCK](https://open.spotify.com/track/2KdFMIMbLkQ0DbSZ3kR73H) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [LOCK](https://open.spotify.com/album/7ED6azlDo3agTJlhBVgD8a) | 3:22 |
-| 3 | [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 |
-| 4 | [Sleeping With The Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping With The Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 |
-| 5 | [Silence](https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Silence](https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1) | 2:06 |
-| 6 | [The Real You](https://open.spotify.com/track/5fJ4NkMs0mYRfv1ZShIGKq) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [The Real You](https://open.spotify.com/album/3a4R1LkmIWzXuVnyxAwx5p) | 2:59 |
-| 7 | [Hysteria](https://open.spotify.com/track/6gTnxcDgHr1Io7s4AYNH7P) | [LUELLA](https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9) | [Hysteria](https://open.spotify.com/album/3SWt53l66wE5SyUfHclnDi) | 3:20 |
-| 8 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 |
-| 9 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [WOMEN WHO LOVE TOO MUCH](https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V) | 3:34 |
-| 10 | [Just Like Us](https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Just Like Us](https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD) | 3:15 |
-| 11 | [Blood Moon](https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Blood Moon](https://open.spotify.com/album/1T1wPY475CLErkq858TqWR) | 4:51 |
-| 12 | [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 |
-| 13 | [Endless Summer](https://open.spotify.com/track/6Jbf2PeG82AKgBZgS6vlfD) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Endless Summer](https://open.spotify.com/album/0EfOnOaJ07w3Sx3ISX9Kut) | 2:47 |
-| 14 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
-| 15 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 |
-| 16 | [Hit Me Where It Hurts](https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [No Good At Hanging Up](https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe) | 3:25 |
-| 17 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
-| 18 | [nice & slow](https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [fawn](https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS) | 2:54 |
-| 19 | [Eating Me Alive](https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Eating Me Alive](https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m) | 3:12 |
-| 20 | [His Loss](https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [His Loss](https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn) | 2:30 |
-| 21 | [Avalon](https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Avalon](https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be) | 3:27 |
-| 22 | [Closer](https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW) | [annelisa](https://open.spotify.com/artist/6Mof9K9NoAKSQZzjQv8iZL) | [Closer](https://open.spotify.com/album/0mDWtT9H3sbdqq3ih6ks1i) | 3:24 |
-| 23 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 |
-| 24 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
-| 25 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 |
-| 26 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [Leah Dong](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
-| 27 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 |
-| 28 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 |
-| 29 | [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 |
-| 30 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
-| 31 | [Ordinary](https://open.spotify.com/track/0LZcaKNQB55dAoq2s4sstA) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Ordinary](https://open.spotify.com/album/2vPCpsqDBfAR15SAFT8lib) | 3:31 |
+| 1 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 |
+| 2 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
+| 3 | [LOCK](https://open.spotify.com/track/2KdFMIMbLkQ0DbSZ3kR73H) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [LOCK](https://open.spotify.com/album/7ED6azlDo3agTJlhBVgD8a) | 3:22 |
+| 4 | [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 |
+| 5 | [Sleeping With The Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping With The Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 |
+| 6 | [Silence](https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Silence](https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1) | 2:06 |
+| 7 | [The Real You](https://open.spotify.com/track/5fJ4NkMs0mYRfv1ZShIGKq) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [The Real You](https://open.spotify.com/album/3a4R1LkmIWzXuVnyxAwx5p) | 2:59 |
+| 8 | [Hysteria](https://open.spotify.com/track/6gTnxcDgHr1Io7s4AYNH7P) | [LUELLA](https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9) | [Hysteria](https://open.spotify.com/album/3SWt53l66wE5SyUfHclnDi) | 3:20 |
+| 9 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 |
+| 10 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [WOMEN WHO LOVE TOO MUCH](https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V) | 3:34 |
+| 11 | [Just Like Us](https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Just Like Us](https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD) | 3:15 |
+| 12 | [Blood Moon](https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Blood Moon](https://open.spotify.com/album/1T1wPY475CLErkq858TqWR) | 4:51 |
+| 13 | [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 |
+| 14 | [Endless Summer](https://open.spotify.com/track/6Jbf2PeG82AKgBZgS6vlfD) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Endless Summer](https://open.spotify.com/album/0EfOnOaJ07w3Sx3ISX9Kut) | 2:47 |
+| 15 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
+| 16 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 |
+| 17 | [Hit Me Where It Hurts](https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [No Good At Hanging Up](https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe) | 3:25 |
+| 18 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
+| 19 | [nice & slow](https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [fawn](https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS) | 2:54 |
+| 20 | [Eating Me Alive](https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Eating Me Alive](https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m) | 3:12 |
+| 21 | [His Loss](https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [His Loss](https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn) | 2:30 |
+| 22 | [Avalon](https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Avalon](https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be) | 3:27 |
+| 23 | [Closer](https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW) | [annelisa](https://open.spotify.com/artist/6Mof9K9NoAKSQZzjQv8iZL) | [Closer](https://open.spotify.com/album/0mDWtT9H3sbdqq3ih6ks1i) | 3:24 |
+| 24 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 |
+| 25 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
+| 26 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 |
+| 27 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
+| 28 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 |
+| 29 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 |
+| 30 | [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 |
+| 31 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
 | 32 | [Who I've Been](https://open.spotify.com/track/4sL7wZTCXvxK075MiMopjk) | [Caroline Quinn](https://open.spotify.com/artist/5Y0muXMkSFnDw4eMguwGo4) | [The End of May](https://open.spotify.com/album/0Oca1Oe5Vo5KXf8nevlsjk) | 4:46 |
 | 33 | [Horses Run](https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Horses Run](https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR) | 3:28 |
 | 34 | [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 49 | [tightrope](https://open.spotify.com/track/16GBUPnzB2pSU5x0Vby14u) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [tightrope](https://open.spotify.com/album/5lvUj2vXEFl5Zd2T18szOg) | 5:09 |
 | 50 | [The Only Good Thing In This City](https://open.spotify.com/track/6clLMpnHUkoHawSUn1SGod) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [The Only Good Thing In This City](https://open.spotify.com/album/2b3qbzeJSVrfl64JdnOvHi) | 3:30 |
 
-Snapshot ID: `AAAAAAzDXg3dHtuwVXxhmxkxM31xLpWh`
+Snapshot ID: `AAAAAFd52KjP1gC8bWF9BYGu0lcmalkt`

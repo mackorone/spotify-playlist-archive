@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "A Bend In The Light",
+        "url": "https://open.spotify.com/album/4mRh3F5YuHK8pALmGcaujN"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "A Bend In The Light",
+      "url": "https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF"
+    },
+    {
+      "album": {
         "name": "A Different Kind of Light",
         "url": "https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES"
       },
@@ -3233,8 +3251,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Circle Remains",
+        "url": "https://open.spotify.com/album/7Df1VBSYFcpF0tORYYeE6D"
       },
       "artists": [
         {
@@ -4723,8 +4741,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Watercress",
+        "url": "https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW"
       },
       "artists": [
         {
@@ -14907,8 +14925,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "New Highs, Pt. 1",
+        "url": "https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf"
       },
       "artists": [
         {
@@ -22450,24 +22468,6 @@
       "duration_ms": 190520,
       "name": "tout \u00e7a",
       "url": "https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4tQrsftIMrqSXYcr86zdOF"
     },
     {
       "album": {

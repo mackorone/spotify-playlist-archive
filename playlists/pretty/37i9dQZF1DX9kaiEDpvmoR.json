@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93673,
+  "num_followers": 93686,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -47,8 +47,8 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
       "artists": [
         {
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Tillbaka",
+        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "Tillbaka",
+      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Tillbaka",
-        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
       },
       "artists": [
         {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
         }
       ],
-      "duration_ms": 211233,
-      "name": "Tillbaka",
-      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "EXISTENS",
-        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "EXISTENS",
-      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "B\u00e4ttre h\u00e4r",
         "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
       },
@@ -395,6 +379,38 @@
       "duration_ms": 188695,
       "name": "B\u00e4ttre h\u00e4r",
       "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -471,22 +487,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "F\u00f6r evigt ny",
-        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 248624,
-      "name": "F\u00f6r evigt ny",
-      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 243137,
       "name": "L\u00e5ngholmsgatan 2",
       "url": "https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "F\u00f6r evigt ny",
+        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 248624,
+      "name": "F\u00f6r evigt ny",
+      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 345866,
-      "name": "Unsatisfied Heart",
-      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Springer Ikapp",
-        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "Springer ikapp",
-      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 172333,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -699,6 +683,22 @@
       "duration_ms": 265786,
       "name": "\u00c4r det upp till dig och mig",
       "url": "https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Springer Ikapp",
+        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "Springer ikapp",
+      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -751,6 +751,38 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Sunday Love",
+        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 316373,
+      "name": "Sunday Love",
+      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Vegas Nights",
+        "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Vegas Nights",
+      "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "Gnistrande sn\u00f6",
         "url": "https://open.spotify.com/album/5aXylFhjDZBUiYsy97O9hJ"
       },
@@ -767,22 +799,6 @@
       "duration_ms": 262493,
       "name": "Gnistrande sn\u00f6",
       "url": "https://open.spotify.com/track/2xUX9AeYODZQZ5iubWdC7a"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Sunday Love",
-        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 316373,
-      "name": "Sunday Love",
-      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -807,24 +823,8 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Vegas Nights",
-        "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Vegas Nights",
-      "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+        "name": "Benjamin (From the TV series 'Etter Benjamin')",
+        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
       },
       "artists": [
         {
@@ -832,9 +832,25 @@
           "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
+      "duration_ms": 200360,
+      "name": "Benjamin - From the TV series 'Etter Benjamin'",
+      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -871,54 +887,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
-      },
-      "artists": [
-        {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        }
-      ],
-      "duration_ms": 324360,
-      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "ICONIC EP",
         "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
       },
@@ -935,18 +903,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "N\u00e5gonting som aldrig h\u00e4nt",
-        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 181829,
-      "name": "N\u00e5gonting som aldrig h\u00e4nt",
-      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -975,6 +943,38 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "N\u00e5gonting som aldrig h\u00e4nt",
+        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "N\u00e5gonting som aldrig h\u00e4nt",
+      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "Bl\u00e5jeans och stj\u00e4rnljus",
         "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
@@ -991,8 +991,8 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Benjamin (From the TV series 'Etter Benjamin')",
-        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Benjamin - From the TV series 'Etter Benjamin'",
-      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Stj\u00e4rnorna",
-        "url": "https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS"
+        "name": "Mjuk extas",
+        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
       },
       "artists": [
         {
-          "name": "crescenterna",
-          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 260489,
-      "name": "Stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem"
+      "duration_ms": 271874,
+      "name": "L\u00e4gg den h\u00e4r, bredvid min",
+      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Stj\u00e4rnorna",
+        "url": "https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS"
+      },
+      "artists": [
+        {
+          "name": "crescenterna",
+          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
+        }
+      ],
+      "duration_ms": 260489,
+      "name": "Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "The Spectrum of Love",
         "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
       },
@@ -1071,38 +1087,6 @@
       "duration_ms": 193114,
       "name": "The Spectrum of Love",
       "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Mjuk extas",
-        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 271874,
-      "name": "L\u00e4gg den h\u00e4r, bredvid min",
-      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Blommor",
-        "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Blommor",
-      "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1139,6 +1123,22 @@
       "duration_ms": 173447,
       "name": "Henrys gitarr",
       "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Blommor",
+        "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Blommor",
+      "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1227,34 +1227,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "\u00c4rligt misstag",
-        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
         }
       ],
-      "duration_ms": 263360,
-      "name": "Stillhet",
-      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1275,58 +1259,50 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Arvet",
-        "url": "https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF"
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
       "artists": [
         {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        },
-        {
-          "name": "Anna Ahnlund",
-          "url": "https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 347626,
-      "name": "Arvet",
-      "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+        "name": "L\u00e5nat",
+        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
       },
       "artists": [
         {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
         }
       ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
+      "duration_ms": 257000,
+      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
+      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
     },
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Hold fast",
-        "url": "https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW"
+        "name": "\u00c4rligt misstag",
+        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
       },
       "artists": [
         {
-          "name": "Charlotte Qvale",
-          "url": "https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Hold fast",
-      "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
+      "duration_ms": 263360,
+      "name": "Stillhet",
+      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1351,18 +1327,42 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "L\u00e5nat",
-        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
+        "name": "Arvet",
+        "url": "https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF"
       },
       "artists": [
         {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        },
+        {
+          "name": "Anna Ahnlund",
+          "url": "https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
-      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
+      "duration_ms": 347626,
+      "name": "Arvet",
+      "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Hold fast",
+        "url": "https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Qvale",
+          "url": "https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Hold fast",
+      "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 192148,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     }
   ],
   "unique_name": "Aktuellt",

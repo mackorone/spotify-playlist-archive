@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Vanco, Ti\u00ebsto",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Thakzin",
   "name": "Afro House Pulse",
   "tracks": [
+    {
+      "album": {
+        "name": "Abewe",
+        "url": "https://open.spotify.com/album/5fekFoFqgcMDHn18fe4jUA"
+      },
+      "artists": [
+        {
+          "name": "Miishu",
+          "url": "https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf"
+        },
+        {
+          "name": "Nick Degree",
+          "url": "https://open.spotify.com/artist/5gQYREYJc3mdqDpP2oIBEv"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266419,
+      "name": "Abewe",
+      "url": "https://open.spotify.com/track/1LVXGbpSNcIKiOt397YgBq"
+    },
     {
       "album": {
         "name": "Africa Mumba",
@@ -274,7 +300,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 314000,
       "name": "Babize Bonke",
       "url": "https://open.spotify.com/track/776VsoM6lxkSKbf4Q0nW8d"
@@ -390,7 +416,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 357838,
       "name": "Basheshe Bahleka",
       "url": "https://open.spotify.com/track/1VGjNRUkiOiyT45NGBzLuj"
@@ -420,7 +446,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 358008,
       "name": "Bengicela (feat. Jazzworx)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
@@ -1088,7 +1114,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 344716,
       "name": "Fola",
       "url": "https://open.spotify.com/track/1eNDjEyChzvxfpHpsUsXmu"
@@ -1415,6 +1441,32 @@
     },
     {
       "album": {
+        "name": "Hutia",
+        "url": "https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9"
+      },
+      "artists": [
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171858,
+      "name": "Hutia",
+      "url": "https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu"
+    },
+    {
+      "album": {
         "name": "I Love You So (Shimza Remix)",
         "url": "https://open.spotify.com/album/1e8F5LJb5wKfJzT7m4eDSQ"
       },
@@ -1530,7 +1582,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 331836,
       "name": "Imikhuleko",
       "url": "https://open.spotify.com/track/0eCIJB7EZg4EShvFGsUiYc"
@@ -1772,7 +1824,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 349910,
       "name": "Isaka (6am)",
       "url": "https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu"
@@ -1828,6 +1880,44 @@
       "duration_ms": 204998,
       "name": "Isaka (6am) Vanco Mix - In Joburg",
       "url": "https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4"
+    },
+    {
+      "album": {
+        "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
+        "url": "https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285239,
+      "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
+      "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
     },
     {
       "album": {
@@ -2751,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Mkungu Close",
+        "url": "https://open.spotify.com/album/7ACwTemsRt37b4U1IqmMLM"
+      },
+      "artists": [
+        {
+          "name": "Ashley Black",
+          "url": "https://open.spotify.com/artist/0haVCtKAMRG26tl7IUTBMo"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479999,
+      "name": "Mkungu Close",
+      "url": "https://open.spotify.com/track/65dHkpBCNGp9FB4IK8yerM"
+    },
+    {
+      "album": {
         "name": "The Anointed",
         "url": "https://open.spotify.com/album/5tqKPk41o7wLaPbGDM0YHF"
       },
@@ -2774,7 +2882,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 359618,
       "name": "Molo",
       "url": "https://open.spotify.com/track/528qE2NWaL6Yl3l4iMl2Dk"
@@ -2870,7 +2978,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 412899,
       "name": "Music is You (Oscar Mbo Remix)",
       "url": "https://open.spotify.com/track/6C6NOCRFX1ZGkVl6rYHIYj"
@@ -3024,7 +3132,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 262378,
       "name": "Nanini Na (feat. Nkosazana Daughter, Azana & Musa Keys)",
       "url": "https://open.spotify.com/track/0Vfh6Se5EqFA0Hu197bwG6"
@@ -3072,7 +3180,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 315116,
       "name": "Ndisize",
       "url": "https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO"
@@ -3340,7 +3448,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 431186,
       "name": "Nkosi",
       "url": "https://open.spotify.com/track/7yrgmkjqLrljc7Ei0rb8t8"
@@ -4490,7 +4598,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 368135,
       "name": "Ulwembu",
       "url": "https://open.spotify.com/track/0pA2QyewlswtbJ72IadWgC"
@@ -4520,7 +4628,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 396629,
       "name": "uMA weNGANE",
       "url": "https://open.spotify.com/track/0BWHYs2o4OGjJlvhFlrmTS"
@@ -4778,7 +4886,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 467145,
       "name": "Uzizwa Kanjan",
       "url": "https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a"
@@ -4892,7 +5000,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 327451,
       "name": "Vuka (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
@@ -5040,6 +5148,28 @@
       "duration_ms": 259672,
       "name": "What's There Not to Love About Here ?",
       "url": "https://open.spotify.com/track/6SdLwNv5vIByW02nmKAEyY"
+    },
+    {
+      "album": {
+        "name": "Gods window, Pt. 1",
+        "url": "https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Xolani Guitars",
+          "url": "https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513893,
+      "name": "When We Play",
+      "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"
     },
     {
       "album": {

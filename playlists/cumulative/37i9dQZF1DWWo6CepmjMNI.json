@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jaritz",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: dayys",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -63,6 +63,42 @@
     },
     {
       "album": {
+        "name": "8:59",
+        "url": "https://open.spotify.com/album/0cTNGQQ0kWtZlS1FyxeOkR"
+      },
+      "artists": [
+        {
+          "name": "dayys",
+          "url": "https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "8:59",
+      "url": "https://open.spotify.com/track/0moqYos5WpFIhluMp9wtZh"
+    },
+    {
+      "album": {
+        "name": "al dente",
+        "url": "https://open.spotify.com/album/4WiFKWtJ6EsHsLx6TkimZj"
+      },
+      "artists": [
+        {
+          "name": "di age",
+          "url": "https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230043,
+      "name": "al dente",
+      "url": "https://open.spotify.com/track/1hkAWiahjurKmvtmNyPmSO"
+    },
+    {
+      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/7MXQM8X8uJs8UsmAjzMiFy"
       },
@@ -121,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/5CkKwX9KPrXh6ZOSiHvFoJ"
+      },
+      "artists": [
+        {
+          "name": "00.01",
+          "url": "https://open.spotify.com/artist/0j5wRYC2KjvFjqultH07BQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/3oY2opO1jwxQgXl89OqUMz"
+    },
+    {
+      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/2QaChV46PMPrCjvEnKqKOZ"
       },
@@ -136,7 +190,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 316105,
       "name": "Clone",
       "url": "https://open.spotify.com/track/1bQXHQFkMvhzvjGePw9y3v"
@@ -1367,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e2d\u0e19\u0e40\u0e2a\u0e34\u0e23\u0e4c\u0e15\u0e40\u0e25\u0e47\u0e01 (our concert)",
+        "url": "https://open.spotify.com/album/1CnobFpjURpP4JmJbvmgXJ"
+      },
+      "artists": [
+        {
+          "name": "_less",
+          "url": "https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150526,
+      "name": "\u0e04\u0e2d\u0e19\u0e40\u0e2a\u0e34\u0e23\u0e4c\u0e15\u0e40\u0e25\u0e47\u0e01 (our concert)",
+      "url": "https://open.spotify.com/track/5ml3Eo88k00gSP1ZwWQEZT"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (fleck.)",
         "url": "https://open.spotify.com/album/351cCT7UIXXgcWoF1Lpkxw"
       },
@@ -1792,7 +1864,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 206124,
       "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (TUA LEK)",
       "url": "https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9"
@@ -2242,7 +2314,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 269268,
       "name": "\u0e1b\u0e23\u0e30\u0e04\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/1IwyRB4uI2sQM1WwkhLuV1"
@@ -2264,6 +2336,24 @@
       "duration_ms": 393311,
       "name": "\u0e1b\u0e23\u0e32\u0e01\u0e0f\u0e01\u0e32\u0e23\u0e13\u0e4c",
       "url": "https://open.spotify.com/track/3toRtI5cws8X1MNt2n4y1x"
+    },
+    {
+      "album": {
+        "name": "Thisis242",
+        "url": "https://open.spotify.com/album/1uq7TK6zNGPRmyi2E2ziYS"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u0e1b\u0e23\u0e32\u0e01\u0e0f\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e43\u0e04\u0e23\u0e40\u0e02\u0e32\u0e1a\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/7bUbPGXIyVruAJ4tMeAoNn"
     },
     {
       "album": {
@@ -3299,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07 (Drops)",
+        "url": "https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM"
+      },
+      "artists": [
+        {
+          "name": "JOYE",
+          "url": "https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232563,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07 (Drops)",
+      "url": "https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e21\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2"
       },
@@ -3400,7 +3508,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 279763,
       "name": "\u0e2b\u0e25\u0e38\u0e21",
       "url": "https://open.spotify.com/track/6SZB6PN3AzUy4gjg6cwhyj"
@@ -4290,7 +4398,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 221917,
       "name": "\u0e42\u0e17\u0e23\u0e1b\u0e25\u0e38\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/3t0UIgHDKNd4xuaBQ2ZUFh"
@@ -4726,7 +4834,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 243552,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01 (Look Back)",
       "url": "https://open.spotify.com/track/2ZuPkRvr3WBIf7dd0J5i4k"

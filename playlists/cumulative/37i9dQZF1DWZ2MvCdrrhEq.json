@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/5CbejhKUD9skksKHfdq9GT"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156796,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/1A3ic2z0rbonwSKL7A6dMF"
+    },
+    {
+      "album": {
         "name": "Tina!",
         "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
       },

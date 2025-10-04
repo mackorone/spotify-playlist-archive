@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 148800,
       "name": "ANGELITO",
       "url": "https://open.spotify.com/track/39aKSV96PcGcjxqwz35hq3"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 127832,
       "name": "Bellakiti",
       "url": "https://open.spotify.com/track/2kDCwtnBqAw2MhCoCZCdy9"
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "FUEGO EN EL 22",
+        "url": "https://open.spotify.com/album/2HTnoURcBMHXI7tzsrO4fZ"
+      },
+      "artists": [
+        {
+          "name": "Lorduy",
+          "url": "https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "DELI",
+      "url": "https://open.spotify.com/track/6a9pfdLPL95dqzGki5RGiT"
+    },
+    {
+      "album": {
         "name": "Demasiado Pa' M\u00ed",
         "url": "https://open.spotify.com/album/2BDIWoBmjfRW4dFPMcnT6b"
       },
@@ -872,7 +890,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 142250,
       "name": "DILE A TU GATO",
       "url": "https://open.spotify.com/track/1QOhuJfXAPwRSGPDBNXqBU"
@@ -3259,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/5Kr3hR7TsGPf8uetmcRNYV"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/0CyZIh9olFTztxvyHJ4LwP"
+    },
+    {
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -3566,6 +3606,28 @@
       "duration_ms": 170654,
       "name": "SE LO JURO MOR",
       "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
+    },
+    {
+      "album": {
+        "name": "SE ME CHISPOTE\u00d3",
+        "url": "https://open.spotify.com/album/1goKCAHGUUnVqD17jH1yXO"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "SE ME CHISPOTE\u00d3",
+      "url": "https://open.spotify.com/track/6T4RgvuFxt3HzW1uKbd9Lr"
     },
     {
       "album": {

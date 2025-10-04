@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Kane
 
-275 songs - 12 hr 23 min
+275 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 | 2024-06-28 |  |
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2024-08-01 | 2024-08-13 |
 | [AUSGERUTSCHT](https://open.spotify.com/track/71epxkNy3UZ1B6PydH176F) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [DEN UMSTÄNDEN WIDERSPRECHEND](https://open.spotify.com/album/74ZaEXX990KpZCW53Esv00) | 3:26 | 2025-06-18 | 2025-07-04 |
+| [Baltimore \(feat\. Trettmann\)](https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [orange \(Deluxe Version\)](https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ) | 2:21 | 2025-10-02 |  |
 | [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 | 2025-09-02 |
 | [Bei Nacht](https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Bei Nacht](https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B) | 2:54 | 2024-06-28 | 2025-05-22 |
 | [Benzin](https://open.spotify.com/track/13UTiKaRrV0yUvSQ284uzs) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Benzin](https://open.spotify.com/album/0dYNsffN16lSLauaeIPhy7) | 2:43 | 2025-10-02 |  |
@@ -240,7 +241,6 @@
 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-15 |  |
 | [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 | 2024-12-10 |
 | [Tochter](https://open.spotify.com/track/4FQ4jb3BC5ZieMSeOJGwMc) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Tochter](https://open.spotify.com/album/0pf0lpX0VnYbL1aBgxEz1o) | 2:50 | 2025-08-14 | 2025-09-24 |
-| [Track 13](https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-02 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 | 2024-11-09 |
 | [ufos](https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [ufos](https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH) | 2:14 | 2024-08-22 | 2024-11-23 |
 | [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 | 2025-01-22 |

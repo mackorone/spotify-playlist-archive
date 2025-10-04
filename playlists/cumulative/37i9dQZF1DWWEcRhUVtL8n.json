@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "5",
+      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
+    },
+    {
+      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8"
       },
@@ -24238,7 +24260,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 274443,
       "name": "Mothers of Riches",
       "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
@@ -35763,6 +35785,24 @@
     },
     {
       "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "album": {
         "name": "TESSELLATE",
         "url": "https://open.spotify.com/album/5WkeI79ASFJb7GEzCOeD79"
       },
@@ -36940,7 +36980,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 181002,
       "name": "Til The Morning Comes",
       "url": "https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV"

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Ernia sulla cover della playlist più grande in Italia 🏆
+> Olly \(ancora una volta!\) sulla cover della playlist più grande in Italia 🏆
 
 242 songs - 12 hr 28 min
 

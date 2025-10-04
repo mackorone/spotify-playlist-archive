@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Cornelio Vega Y Su Dinast\u00eda en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Palomo en portada.",
   "name": "Norte\u00f1o 2025",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 131476,
       "name": "105 y 710",
       "url": "https://open.spotify.com/track/7HtnVFdeKSKHgAPNjJyOjv"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 207498,
       "name": "Ausencia Eterna",
       "url": "https://open.spotify.com/track/43fY4ZQ1x3Ga0UuKazgbEJ"
@@ -1110,6 +1110,24 @@
       "duration_ms": 191103,
       "name": "Ay mam\u00e1 por dios",
       "url": "https://open.spotify.com/track/1GYBUOYZaFzrOJTj7vsysI"
+    },
+    {
+      "album": {
+        "name": "Ayer y Hoy",
+        "url": "https://open.spotify.com/album/1MxM4Uv2xdemsA3O5ijBNZ"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224679,
+      "name": "Ayer y Hoy",
+      "url": "https://open.spotify.com/track/0yMpP1fa9iOQ4bAgttJ6aN"
     },
     {
       "album": {
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 115555,
       "name": "De Principio A Fin",
       "url": "https://open.spotify.com/track/6rJLwFg4n8iGBpE6jS7Zl5"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 240292,
       "name": "El Se\u00f1or De La Monta\u00f1a - Live",
       "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 218495,
       "name": "El Se\u00f1or Talento",
       "url": "https://open.spotify.com/track/4GCE45y0iERgP9IZbNKDXZ"
@@ -4818,6 +4836,28 @@
       "duration_ms": 184560,
       "name": "El Taliban",
       "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
+    },
+    {
+      "album": {
+        "name": "Cumbias y Bebidas (En Vivo)",
+        "url": "https://open.spotify.com/album/3KwBIKAKzJ3XM2mHH6snYi"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        },
+        {
+          "name": "Kevyn Contreras",
+          "url": "https://open.spotify.com/artist/49eTheTHZO9PnCbv7EuAsg"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "El Telegrama - En Vivo",
+      "url": "https://open.spotify.com/track/3xg5EScCiYfA5OqbTqbNA5"
     },
     {
       "album": {
@@ -4970,6 +5010,24 @@
       "duration_ms": 146421,
       "name": "Ella Es Mi Novia",
       "url": "https://open.spotify.com/track/4EoZjUqOu7epooq8uYmwlL"
+    },
+    {
+      "album": {
+        "name": "Ella No Entiende",
+        "url": "https://open.spotify.com/album/0MknX2dNYFru7TyPbkkAno"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Oro",
+          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Ella No Entiende",
+      "url": "https://open.spotify.com/track/22QDFBY9qit4V5ZT9C5vyz"
     },
     {
       "album": {
@@ -7266,7 +7324,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
@@ -7284,7 +7342,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 183733,
       "name": "La Peor Versi\u00f3n De M\u00ed",
       "url": "https://open.spotify.com/track/428pQHhl8JPcGAIwqDRSIO"
@@ -8838,7 +8896,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 164866,
       "name": "Mi Mas Grande Error",
       "url": "https://open.spotify.com/track/71KHZWC5lH7GHibnJuZTTt"
@@ -9408,7 +9466,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 182141,
       "name": "Ni Que Tuvieras Tanta Suerte",
       "url": "https://open.spotify.com/track/72jGlGdhSiCHhwAdRbDPXA"
@@ -10943,6 +11001,24 @@
     },
     {
       "album": {
+        "name": "Por Que Me Ilusionaste",
+        "url": "https://open.spotify.com/album/1N4AmTaGLJUcQcsflZiOen"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217675,
+      "name": "Por Que Me Ilusionaste",
+      "url": "https://open.spotify.com/track/5x1XYATCTKlIkm7C1gxCE9"
+    },
+    {
+      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -11450,7 +11526,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
@@ -11976,7 +12052,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 155654,
       "name": "Si Te Llam\u00e9",
       "url": "https://open.spotify.com/track/5FGPXSXclxwKFTwJGnjUkF"
@@ -12222,7 +12298,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 188188,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/3KQnFgSf4hWggmyOQsvana"
@@ -12686,7 +12762,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 225532,
       "name": "Taking Over La Ciudad",
       "url": "https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6"
@@ -12726,6 +12802,24 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida - En Vivo",
       "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+    },
+    {
+      "album": {
+        "name": "Tan Il\u00f3gico",
+        "url": "https://open.spotify.com/album/4bCIsqj4PNtpvWNSSHRRvb"
+      },
+      "artists": [
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184223,
+      "name": "Tan Il\u00f3gico",
+      "url": "https://open.spotify.com/track/5bhLbPkQbypM6gXMBit71a"
     },
     {
       "album": {
@@ -13308,7 +13402,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 208295,
       "name": "Tus L\u00e1grimas",
       "url": "https://open.spotify.com/track/6gq1Octkv0VQAqFWR5zoBx"
@@ -14362,6 +14456,24 @@
       "duration_ms": 199354,
       "name": "\u00bfAs\u00ed o M\u00e1s?",
       "url": "https://open.spotify.com/track/0DnnpeEsFgvuhXNLyHgxkn"
+    },
+    {
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2rkBvFtZtiTUkRQq1DMVs3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Anexxado",
+          "url": "https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191365,
+      "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/7EPqGwFErwo8Phwt1U9P9v"
     },
     {
       "album": {

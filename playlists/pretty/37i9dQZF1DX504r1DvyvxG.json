@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2647448,
+  "num_followers": 2647218,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Rubber Soul (Remastered 2009)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Michelle - Remastered 2009",
-      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Rubber Soul (Remastered 2009)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "The Very Best of the Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "In the Wind",
         "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 177360,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "In the Wind",
         "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "It's So Hard To Tell Who's Going To Love You The Best",
-        "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Little Bit Of Rain",
-      "url": "https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 258333,
       "name": "The Watchman's Gone",
       "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "It's So Hard To Tell Who's Going To Love You The Best",
+        "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Little Bit Of Rain",
+      "url": "https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Best Of The Band",
-        "url": "https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "The Weight",
-      "url": "https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Dublin Blues",
         "url": "https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 259120,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Best Of The Band",
+        "url": "https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "The Last Of The True Believers",
         "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 279266,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "1966",
-        "url": "https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Reason to Believe",
-      "url": "https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "It's My Way",
         "url": "https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 140000,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "1966",
+        "url": "https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Reason to Believe",
+      "url": "https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Living With Ghosts",
         "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 272933,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Black Gold (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Turn, Turn, Turn (To Everything There Is a Season) - Live in Munich, Germany - April 1969",
-      "url": "https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "We're Children Of Coincidence And Harpo Marx",
         "url": "https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 223546,
       "name": "Woman Soul",
       "url": "https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Black Gold (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 274613,
+      "name": "Turn, Turn, Turn (To Everything There Is a Season) - Live in Munich, Germany - April 1969",
+      "url": "https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Music For The Motion Picture Into The Wild",
-        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Fair and Square",
         "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 267133,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Music For The Motion Picture Into The Wild",
+        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 321760,
+      "name": "Hard Sun",
+      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
     }
   ],
   "unique_name": "Classic Acoustic",

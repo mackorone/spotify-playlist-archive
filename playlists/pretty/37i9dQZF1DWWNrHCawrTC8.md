@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 
 > revisit one of hip\-hop's most of exciting eras
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,600 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,673 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 | 29 | [Brooklyn Girls](https://open.spotify.com/track/7EY4Lim0kVHB0yyJJvco8D) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Brooklyn Girls](https://open.spotify.com/album/0wEM0TreRAv7VQrVCf6UHM) | 4:33 |
 | 30 | [Car Service](https://open.spotify.com/track/4g1N1VBIeSqSQ913eoGLGg) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [How Fly](https://open.spotify.com/album/1fEjilMRfQBc7Inoebl8xo) | 3:00 |
 | 31 | [Top Down \(feat\. Casey Veggies & Skeme\)](https://open.spotify.com/track/7o071OVnp48OGfBmiWX6ns) | [Pac Div](https://open.spotify.com/artist/5504Qqp7s40bqBqzWMEByl), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Skeme](https://open.spotify.com/artist/6TlLdicGl92pqnySP64n2g) | [The Div \(Deluxe Version\)](https://open.spotify.com/album/6KDQywf3IPZq1kxRSREJIX) | 4:20 |
-| 32 | [Exhibit C](https://open.spotify.com/track/4Mb5DVgLbFjlSwcuMdOw7B) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Exhibit C](https://open.spotify.com/album/6U3XutCfhGxFFCDK1AFCbb) | 5:31 |
+| 32 | [Exhibit C](https://open.spotify.com/track/4Mb5DVgLbFjlSwcuMdOw7B) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Exhibit C](https://open.spotify.com/album/6U3XutCfhGxFFCDK1AFCbb) | 5:31 |
 | 33 | [Uptown \(feat\. Bun B & Lil Wayne\)](https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 6:22 |
 | 34 | [Dead Presidents](https://open.spotify.com/track/6n7IN1ggUQFWT57ye4CxxX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 3:09 |
 | 35 | [XXX](https://open.spotify.com/track/3fMYdbxKBDKtLa1HB9iBDK) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [XXX \(Deluxe Version\)](https://open.spotify.com/album/3vyMhFtK8R0cFoMfnBfztb) | 1:50 |

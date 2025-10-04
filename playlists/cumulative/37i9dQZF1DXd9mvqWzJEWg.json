@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=irKY8BeDQDuBPttjatD_Qg\">Surreal Sessions</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Babes Wodumo",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -2445,6 +2445,40 @@
     },
     {
       "album": {
+        "name": "Ekhoneni",
+        "url": "https://open.spotify.com/album/0DihIQXz0N6Ddqb31ium2x"
+      },
+      "artists": [
+        {
+          "name": "Babes Wodumo",
+          "url": "https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e"
+        },
+        {
+          "name": "Lelowhatsgood",
+          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
+        },
+        {
+          "name": "Unkle Ken",
+          "url": "https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH"
+        },
+        {
+          "name": "Madanon",
+          "url": "https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ"
+        },
+        {
+          "name": "Rifle Deep",
+          "url": "https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400629,
+      "name": "Ekhoneni",
+      "url": "https://open.spotify.com/track/12YzvBC1XT9dJv0oPsJhJJ"
+    },
+    {
+      "album": {
         "name": "Electrify",
         "url": "https://open.spotify.com/album/2gMGY3l2emLqHgepoVyeNe"
       },
@@ -3980,6 +4014,28 @@
       "duration_ms": 435156,
       "name": "Impande",
       "url": "https://open.spotify.com/track/7nus4PmUoUQQUWD0ALl1ne"
+    },
+    {
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/1jIktzvVuhYsXOmY1ErmUp"
+      },
+      "artists": [
+        {
+          "name": "Glisten",
+          "url": "https://open.spotify.com/artist/5GLIwkxBHSyAiNuASLISZW"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270745,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/3PFU0cg5pV82dZL6rpk33i"
     },
     {
       "album": {
@@ -6496,7 +6552,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 372182,
       "name": "New Page",
       "url": "https://open.spotify.com/track/7tXY2PUNnMd38KBrcpokhA"
@@ -11334,7 +11390,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 360237,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/0E7igrvy7mrtzw7kX1h2zF"

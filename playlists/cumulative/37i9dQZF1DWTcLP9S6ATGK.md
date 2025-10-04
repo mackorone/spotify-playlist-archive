@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Betrand Putra Onsu
 
-653 songs - 1 day 18 hr 45 min
+658 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Cincin](https://open.spotify.com/track/4GLpdZC3ospV3mbKkZBIRj) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Cincin](https://open.spotify.com/album/1uWkss1dRCmiM9Cfs50Bxf) | 3:54 | 2025-09-11 |  |
 | [Cinta](https://open.spotify.com/track/1j3eWKRafYva5xQTXzW7Fk) | [Angel Pieters](https://open.spotify.com/artist/4bT41417k6fO14RdxgyYg7) | [Cinta](https://open.spotify.com/album/4pPZf44vGGfWj5CAiwyybi) | 4:52 | 2025-05-29 | 2025-07-11 |
 | [Cinta](https://open.spotify.com/track/6vCs4HpalLGus3xMzarL2O) | [Ariyo Wahab](https://open.spotify.com/artist/4eqKmDfuX9hX0g08p1GYw9) | [Cinta](https://open.spotify.com/album/6b7yfmuTlzrsBlOCzvAi0K) | 3:17 | 2025-01-30 | 2025-03-21 |
+| [Cinta dan Air Mata](https://open.spotify.com/track/30uxypVmxd8vPrD4WtHuIV) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Cinta dan Air Mata](https://open.spotify.com/album/1zMZELWesRtKQ6ATpCPXt0) | 3:28 | 2025-10-03 |  |
 | [Cinta Pertama](https://open.spotify.com/track/4DhguEbKGhNE2sdhR4DCKx) | [Wayang](https://open.spotify.com/artist/5V9J1S3UkLy41GPRi0Kvx2), [Lovely](https://open.spotify.com/artist/26EXpkLQIJpG9jClj9ujRW) | [Cinta Pertama](https://open.spotify.com/album/0Kjov73AaKDRFloqQMt4Sd) | 3:14 | 2025-05-22 | 2025-06-27 |
 | [Cinta Rahasia](https://open.spotify.com/track/3aIaHN3TbPK8QZbZnoMmi0) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Cinta Rahasia](https://open.spotify.com/album/6Tgp2oKTLa1mtyz64YSwLn) | 4:11 | 2025-08-14 | 2025-10-03 |
 | [Cinta Sejati Takkan Mati](https://open.spotify.com/track/7dpp297nSdsTnLLKzyHzvz) | [Agus Subiyanto](https://open.spotify.com/artist/72dNzUqlWyBypqSlrDt4lR), [Pasha](https://open.spotify.com/artist/0UO2FX8p9mbsDj1Q8fSIhv) | [Cinta Sejati Takkan Mati](https://open.spotify.com/album/7KvyQagqJlR7mcagxOYHQy) | 4:35 | 2025-07-24 | 2025-08-22 |
@@ -161,6 +162,7 @@
 | [Demi Masa \- Original](https://open.spotify.com/track/75Mumvea7xvKUkMGcaOasj) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Demi Masa \(Original\)](https://open.spotify.com/album/4n10tgR9SBZQN5pd6SsY63) | 4:45 | 2025-03-13 | 2025-05-09 |
 | [Denganmu](https://open.spotify.com/track/5p461soYJ343QtPTQYIlJF) | [Dodi Hidayatullah](https://open.spotify.com/artist/5DtLvjtL1gcVENNNoAETCL), [Ray Shareza](https://open.spotify.com/artist/5FbshoTq38tzlL25gymuli) | [Denganmu](https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP) | 4:31 | 2024-06-27 | 2024-08-16 |
 | [Denganmu Saja](https://open.spotify.com/track/4omzwua07r446XUkL5wWZd) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Denganmu Saja](https://open.spotify.com/album/75j86bk7gv09xfjMk0vbxS) | 3:32 | 2025-06-26 |  |
+| [Dengar](https://open.spotify.com/track/42DjdTUa4b2GYEp4AJobHm) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Dengar](https://open.spotify.com/album/3nYXHpIRps6HLXJgTp9Af8) | 3:28 | 2025-10-03 |  |
 | [Dengar Cintaku](https://open.spotify.com/track/55AZqVlk2nbZIA3gfyzDEQ) | [Adrian Takndare](https://open.spotify.com/artist/4YuIFWHntQQjfumbtyFdKH) | [Dengar Cintaku](https://open.spotify.com/album/3rTYFFeVMh2ap3kQBppshF) | 3:29 | 2025-02-06 | 2025-03-07 |
 | [Denyut](https://open.spotify.com/track/1JfKPwPFswBi3kiOkDSkcj) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Denyut](https://open.spotify.com/album/4pdboVIJyZygcV6279tVPk) | 4:20 | 2025-02-20 | 2025-05-16 |
 | [Dewi](https://open.spotify.com/track/6mLXNg1MubMhI0Pv54KXQX) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Dewi](https://open.spotify.com/album/1Pp634QTWs33YqKIBlSYvF) | 4:17 | 2025-05-08 | 2025-06-06 |
@@ -177,6 +179,7 @@
 | [Dilematika](https://open.spotify.com/track/5fRyXs8qRcD2bPFaOUv1Nh) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [SATU 7AN](https://open.spotify.com/album/2pn9DNWXKIlQsWwwySEt26) | 3:53 | 2025-05-01 | 2025-06-06 |
 | [Dingin](https://open.spotify.com/track/2lvwzTXOtBvvam0h3T8mZV) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Dingin](https://open.spotify.com/album/4OiLWFuoJYtN9pEFOWnHlA) | 4:16 | 2025-02-13 | 2025-03-21 |
 | [Dipersatukan Semesta](https://open.spotify.com/track/56ps7jbVX0iVOwCyieF42M) | [Fredo Aquinaldo](https://open.spotify.com/artist/5XygoDukeHMwxWq0XITRoh) | [Dipersatukan Semesta](https://open.spotify.com/album/5ASMxe2HmlnZ14JiqJNXBB) | 4:06 | 2024-06-27 | 2024-09-27 |
+| [Doa Anak Negeri](https://open.spotify.com/track/0UMYhVKbRXN9iHhyD6e9c0) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Doa Anak Negeri](https://open.spotify.com/album/0wLUD7fD9GgUzF4JlWXEQA) | 3:30 | 2025-10-03 |  |
 | [dua tahun](https://open.spotify.com/track/5uqrv56qfnAxeLprqBvaJZ) | [Luthfi Aulia](https://open.spotify.com/artist/1LUNypbU0AXcWNgrcyHzVN) | [dua tahun](https://open.spotify.com/album/32FbzIGASXCBFcIDX4FukU) | 3:37 | 2025-08-08 | 2025-10-03 |
 | [Ego \- Live Version](https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Tujuh Belas](https://open.spotify.com/album/5LMiSpyLeOxZBpYZmu0Uiu) | 4:20 | 2025-07-03 | 2025-08-22 |
 | [Engga Ngerti](https://open.spotify.com/track/67CTTGTfgRhs33BXhbqDqa) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Engga Ngerti](https://open.spotify.com/album/22T1vhAbJGoKk3gL0lKswt) | 4:20 | 2025-06-05 |  |
@@ -374,6 +377,7 @@
 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-07-17 |  |
 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 | 2024-12-20 | 2025-03-21 |
 | [Milikku Seutuhnya](https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Milikku Seutuhnya](https://open.spotify.com/album/2SFeCcYE2PvbARW3CMOKeh) | 3:53 | 2024-07-25 | 2024-09-27 |
+| [MONSTER](https://open.spotify.com/track/3rw9rjplRXaJyRPvxIcLf7) | [PIAFARHAN](https://open.spotify.com/artist/0M7CsP09MKGoHKNcOqJ4kV) | [MONSTER](https://open.spotify.com/album/0crjWUx4z8Vm13Gar8K4cL) | 3:36 | 2025-10-03 |  |
 | [Munajat Cinta](https://open.spotify.com/track/4xvQFWJ1QQ1SDJDJcoVdYa) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [17](https://open.spotify.com/album/7Bnv9riHf254iV9yh2XLCk) | 3:45 | 2025-02-20 | 2025-04-25 |
 | [Muncul terus](https://open.spotify.com/track/2LFTRnyl1iojlTOQv9Lo32) | [Baim](https://open.spotify.com/artist/1xtClintZXLr9RrzKzwBeM), [Aurélie](https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH) | [Muncul terus](https://open.spotify.com/album/0M62mgWNRB3bcOnMyNyZCL) | 2:18 | 2024-06-27 | 2024-08-16 |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-06-27 | 2024-07-27 |
@@ -421,6 +425,7 @@
 | [Percuma](https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf), [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Percuma](https://open.spotify.com/album/1enR50jqoFl1yz75axX2sF) | 4:07 | 2025-06-26 |  |
 | [Pergi](https://open.spotify.com/track/6TduHSqJfQwyX83s9ZpuJJ) | [Abirama](https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq) | [Pergi](https://open.spotify.com/album/4TpRSDXW8CBVTDyqOi1S4Z) | 4:23 | 2024-09-19 | 2024-11-08 |
 | [Pergi Secepat Ini](https://open.spotify.com/track/6yBsvbgwdvoHdpYX8OB87X) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 5:02 | 2024-06-27 | 2024-10-11 |
+| [Pergilah Kasih](https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Pergilah Kasih](https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv) | 4:17 | 2025-10-03 |  |
 | [Pernah Di Sana](https://open.spotify.com/track/0K2gS9lawq974gyuaDRCXs) | [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI), [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Pernah Di Sana](https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF) | 4:05 | 2024-10-17 | 2024-11-22 |
 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 | 2025-04-11 | 2025-07-11 |
 | [Pertanda Cinta](https://open.spotify.com/track/4kZ6NggFpCEtm1V0Vu3n1L) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe), [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Pertanda Cinta](https://open.spotify.com/album/7ovNo1CUdp7I4uIprwFKdd) | 4:22 | 2024-07-18 | 2024-09-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "New music from Thakzin, Tyler ICU, Lloyiso, Doja Cat and Vigro Deep",
+  "description": "New music from Langa Mavuso, Taylor Swift, Lwah Ndlunkulu and more.",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -3720,6 +3720,28 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T"
     },
     {
       "album": {
@@ -10686,6 +10708,28 @@
       "duration_ms": 330730,
       "name": "Another Day (feat. Ziyon)",
       "url": "https://open.spotify.com/track/2L15MnmC7NHo6OsKHFuNtp"
+    },
+    {
+      "album": {
+        "name": "Another Day (feat. Ziyon)",
+        "url": "https://open.spotify.com/album/6sZceN54Woo8HHuXdlO7fk"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Ziyon",
+          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383589,
+      "name": "Another Day (feat. Ziyon) - Nutty Nys Retake",
+      "url": "https://open.spotify.com/track/1Q8flecpK4sQ71n1R8VnE2"
     },
     {
       "album": {
@@ -33583,8 +33627,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sounds of Bantu",
+        "url": "https://open.spotify.com/album/6vMIa5PDPU1JEGluGgQn7O"
       },
       "artists": [
         {
@@ -41903,6 +41947,24 @@
     },
     {
       "album": {
+        "name": "Amaciko",
+        "url": "https://open.spotify.com/album/3tHmkwiPqacINoXkGQ7Dda"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234747,
+      "name": "Edolobheni",
+      "url": "https://open.spotify.com/track/0tFeS01erQ0ISegzQiWZzN"
+    },
+    {
+      "album": {
         "name": "Natural Selection",
         "url": "https://open.spotify.com/album/2eyqIjCDd2YTbBhdwFRZYX"
       },
@@ -42578,6 +42640,40 @@
       "duration_ms": 201698,
       "name": "Ekhaya",
       "url": "https://open.spotify.com/track/0y9VOHUeAy9AqLkGnyKxWN"
+    },
+    {
+      "album": {
+        "name": "Ekhoneni",
+        "url": "https://open.spotify.com/album/0DihIQXz0N6Ddqb31ium2x"
+      },
+      "artists": [
+        {
+          "name": "Babes Wodumo",
+          "url": "https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e"
+        },
+        {
+          "name": "Lelowhatsgood",
+          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
+        },
+        {
+          "name": "Unkle Ken",
+          "url": "https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH"
+        },
+        {
+          "name": "Madanon",
+          "url": "https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ"
+        },
+        {
+          "name": "Rifle Deep",
+          "url": "https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400629,
+      "name": "Ekhoneni",
+      "url": "https://open.spotify.com/track/12YzvBC1XT9dJv0oPsJhJJ"
     },
     {
       "album": {
@@ -51875,8 +51971,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
         {
@@ -60245,6 +60341,36 @@
     },
     {
       "album": {
+        "name": "Phase N",
+        "url": "https://open.spotify.com/album/5WhblkEhhbx6LWfAqbAXsj"
+      },
+      "artists": [
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "JayMea",
+          "url": "https://open.spotify.com/artist/6IXTM7xwUdJTE6Pb6jWA8l"
+        },
+        {
+          "name": "Morena Deh Keys",
+          "url": "https://open.spotify.com/artist/72M3JYXoCWnXFUhUrhiKWF"
+        },
+        {
+          "name": "Nation Deep",
+          "url": "https://open.spotify.com/artist/1q2d9E5Lp9a8p0YbJwSh9T"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382354,
+      "name": "HECTOR GRIME (feat. Morena Deh keys & Nation Deep)",
+      "url": "https://open.spotify.com/track/6e0X8aRc8w9567FKERrJG4"
+    },
+    {
+      "album": {
         "name": "Heel Maak",
         "url": "https://open.spotify.com/album/6tyaBV81N9L5UjIOqX1Qdw"
       },
@@ -66459,6 +66585,24 @@
     },
     {
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
+    },
+    {
+      "album": {
         "name": "I Need Some Money (Mia Moretti Remix)",
         "url": "https://open.spotify.com/album/0xgBDJbWE9bQwxkofRJZiC"
       },
@@ -71497,6 +71641,28 @@
     },
     {
       "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/1jIktzvVuhYsXOmY1ErmUp"
+      },
+      "artists": [
+        {
+          "name": "Glisten",
+          "url": "https://open.spotify.com/artist/5GLIwkxBHSyAiNuASLISZW"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270745,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/3PFU0cg5pV82dZL6rpk33i"
+    },
+    {
+      "album": {
         "name": "Patience & Heart / In your absence",
         "url": "https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw"
       },
@@ -76290,6 +76456,40 @@
       "duration_ms": 154937,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
+    },
+    {
+      "album": {
+        "name": "Answers & Change",
+        "url": "https://open.spotify.com/album/10ZR4qx8IOkBv2fGMS3nuR"
+      },
+      "artists": [
+        {
+          "name": "9umba",
+          "url": "https://open.spotify.com/artist/1roTzbKGDx7ZFBA5oibNPW"
+        },
+        {
+          "name": "Dj Mremz",
+          "url": "https://open.spotify.com/artist/4FAiNahbQ2lseYfdTLEfjn"
+        },
+        {
+          "name": "Nathaniel",
+          "url": "https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE"
+        },
+        {
+          "name": "Tlotso",
+          "url": "https://open.spotify.com/artist/2Zvh86LeAjZSWL8pbH3TvP"
+        },
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/21xKMhlqoP32Mqm4nx6GmF"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461946,
+      "name": "IT'S YOU (feat. Nathaniel, Tlotso & Joel)",
+      "url": "https://open.spotify.com/track/15yHLNKkj6xDwM2pFRAix4"
     },
     {
       "album": {
@@ -121275,6 +121475,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
+    },
+    {
+      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f"
       },
@@ -140847,6 +141065,24 @@
     },
     {
       "album": {
+        "name": "R!CK",
+        "url": "https://open.spotify.com/album/6AhyffqjWITfFu41SqUoOn"
+      },
+      "artists": [
+        {
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "SLACK",
+      "url": "https://open.spotify.com/track/0YrxIWKxfvpxIeuFTUKEKc"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
       },
@@ -147114,7 +147350,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 170514,
       "name": "Stuck at the top",
       "url": "https://open.spotify.com/track/0FF5CWrlJ3E5vcww1CES7I"
@@ -149808,10 +150044,6 @@
         {
           "name": "Arcader",
           "url": "https://open.spotify.com/artist/2fDBCyZafANVBtUywfKetN"
-        },
-        {
-          "name": "Don Edward & Arcader",
-          "url": "https://open.spotify.com/artist/5vIIqwkr2b8qj2B07GtPiV"
         }
       ],
       "date_added": "2025-10-03",
@@ -153341,8 +153573,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
@@ -159490,76 +159722,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sculptured Music",
-          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
-        },
-        {
-          "name": "Ziyon",
-          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1Q8flecpK4sQ71n1R8VnE2"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Nandipha808",
-          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
-        },
-        {
-          "name": "JayMea",
-          "url": "https://open.spotify.com/artist/6IXTM7xwUdJTE6Pb6jWA8l"
-        },
-        {
-          "name": "Morena Deh Keys",
-          "url": "https://open.spotify.com/artist/72M3JYXoCWnXFUhUrhiKWF"
-        },
-        {
-          "name": "Nation Deep",
-          "url": "https://open.spotify.com/artist/1q2d9E5Lp9a8p0YbJwSh9T"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6e0X8aRc8w9567FKERrJG4"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/0tFeS01erQ0ISegzQiWZzN"
     },
     {
       "album": {
@@ -171597,8 +171759,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
       "artists": [
         {
@@ -181175,7 +181337,7 @@
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 216521,
+      "duration_ms": 219130,
       "name": "you're a star",
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },

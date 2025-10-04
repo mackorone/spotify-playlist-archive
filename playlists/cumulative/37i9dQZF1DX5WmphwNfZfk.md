@@ -2,7 +2,7 @@
 
 ### [RADAR Canada](https://open.spotify.com/playlist/37i9dQZF1DX5WmphwNfZfk)
 
-> Celebrate 1000 RADAR artists by listening to some of the most streamed RADAR artists from Canada\. Cover: 347aidan
+> 30 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Bells Larsen
 
 2,250 songs - 4 day 19 hr 28 min
 

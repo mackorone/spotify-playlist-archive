@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,378 likes - 38 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,390 likes - 38 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 37 | [Reverse the Curse](https://open.spotify.com/track/5quzpeYK7lXAYpcioucm6d) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil \(LIVE in London, UK 2025\)](https://open.spotify.com/album/5E1UnuDMTYTIhtTt57Q36b) | 3:54 |
 | 38 | [Mistaken Information](https://open.spotify.com/track/4O8blCM7QOTY09cAzkfp6W) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:48 |
 
-Snapshot ID: `aNxvAAAAAABPhMMBKJ6EYWhz4IkvCVs+`
+Snapshot ID: `aN3AgAAAAADwg54z229dJ2ggpPRdqDBh`

@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Kaleb Cohen",
-  "num_followers": 219212,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Hohnen Ford",
+  "num_followers": 219225,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAzDXg3dHtuwVXxhmxkxM31xLpWh",
+  "snapshot_id": "AAAAAFd52KjP1gC8bWF9BYGu0lcmalkt",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:31",
+      "album": {
+        "name": "Incurable Optimist",
+        "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Tomorrow's Tomorrow",
+      "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
+    },
     {
       "added_at": "2025-09-26 04:00:18",
       "album": {
@@ -416,8 +432,8 @@
       },
       "artists": [
         {
-          "name": "Leah Dong",
-          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
+          "name": "hey leah!",
+          "url": "https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0"
         }
       ],
       "duration_ms": 247955,
@@ -487,22 +503,6 @@
       "duration_ms": 222840,
       "name": "coming around",
       "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
-    },
-    {
-      "added_at": "2025-08-19 02:56:57",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/2vPCpsqDBfAR15SAFT8lib"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 211722,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/0LZcaKNQB55dAoq2s4sstA"
     },
     {
       "added_at": "2025-08-19 02:56:57",

@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Madharaasi",
-  "num_followers": 722519,
+  "num_followers": 722618,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGU8JcTs7YgOQ6hgGpgttrRCLc7U",
+  "snapshot_id": "AAAAADkPSKRJFrU1SB24CrffBcT75yzY",
   "tracks": [
     {
       "added_at": "2025-08-28 13:30:26",
@@ -61,28 +61,20 @@
       "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
     },
     {
-      "added_at": "2025-07-31 13:51:13",
+      "added_at": "2025-09-10 13:03:15",
       "album": {
-        "name": "Salambala (From \"Madharaasi\") (Tamil)",
-        "url": "https://open.spotify.com/album/0uPX3t1nPedZmaRY5w8ylG"
+        "name": "Coolie (Original Background Score)",
+        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Super Subu",
-          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
         }
       ],
-      "duration_ms": 207219,
-      "name": "Salambala (From \"Madharaasi\") (Tamil)",
-      "url": "https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE"
+      "duration_ms": 85917,
+      "name": "Powerhouse x Disco",
+      "url": "https://open.spotify.com/track/6SSnh9P1xYHjTfbVBMmsTv"
     },
     {
       "added_at": "2025-09-20 08:26:29",
@@ -133,20 +125,76 @@
       "url": "https://open.spotify.com/track/21SEPOmx6RwiXtavoSY5Uy"
     },
     {
-      "added_at": "2025-09-10 13:03:15",
+      "added_at": "2025-07-31 13:51:13",
       "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
+        "name": "Salambala (From \"Madharaasi\") (Tamil)",
+        "url": "https://open.spotify.com/album/0uPX3t1nPedZmaRY5w8ylG"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
         }
       ],
-      "duration_ms": 85917,
-      "name": "Powerhouse x Disco",
-      "url": "https://open.spotify.com/track/6SSnh9P1xYHjTfbVBMmsTv"
+      "duration_ms": 207219,
+      "name": "Salambala (From \"Madharaasi\") (Tamil)",
+      "url": "https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE"
+    },
+    {
+      "added_at": "2025-08-27 13:55:57",
+      "album": {
+        "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
+        "url": "https://open.spotify.com/album/07dZfgVCNQhJFd1euhpppX"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 291789,
+      "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
+      "url": "https://open.spotify.com/track/3xsszPcM3byg2C90m2f7bG"
+    },
+    {
+      "added_at": "2025-10-03 11:56:02",
+      "album": {
+        "name": "Aaruyire (From \"Diesel\")",
+        "url": "https://open.spotify.com/album/2g7RnKZKB2R9pbAwMrd75Z"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 128458,
+      "name": "Aaruyire - From \"Diesel\"",
+      "url": "https://open.spotify.com/track/1CUn6N4tlRsgEMZ3uPQjh1"
     },
     {
       "added_at": "2025-09-25 14:36:46",
@@ -160,13 +208,45 @@
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+          "name": "A. R. Ameen",
+          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Falcon",
+          "url": "https://open.spotify.com/artist/1SwTotKCkOviHc4HNvt3QA"
         }
       ],
-      "duration_ms": 153184,
-      "name": "Kulasamy Kaaval Kaaka",
-      "url": "https://open.spotify.com/track/28qnVA8aVD146U6KWr0zOL"
+      "duration_ms": 152678,
+      "name": "My Heartu Spinning",
+      "url": "https://open.spotify.com/track/4QaCrEqOFiyveDXTzBIqp6"
+    },
+    {
+      "added_at": "2025-10-03 06:32:07",
+      "album": {
+        "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Tamil\")",
+        "url": "https://open.spotify.com/album/39ryHju2PxwRIQ85eJAACP"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Pazhani Bharathi",
+          "url": "https://open.spotify.com/artist/7vhumPYAPpJSEUnmPbRBjo"
+        },
+        {
+          "name": "Muthu Sirpi",
+          "url": "https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm"
+        }
+      ],
+      "duration_ms": 239142,
+      "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Tamil\")",
+      "url": "https://open.spotify.com/track/6cSkdwWOIlGcxZEzqyC2hf"
     },
     {
       "added_at": "2025-08-23 16:10:02",
@@ -193,6 +273,30 @@
       "url": "https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS"
     },
     {
+      "added_at": "2025-07-28 09:54:01",
+      "album": {
+        "name": "Enna Sugam (From \"Idli Kadai\")",
+        "url": "https://open.spotify.com/album/3aUkyC2xD3z5NeGQnUJWCc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Enna Sugam (From \"Idli Kadai\")",
+      "url": "https://open.spotify.com/track/5eapD8IF5Ha70315fHiwbK"
+    },
+    {
       "added_at": "2025-08-02 11:46:37",
       "album": {
         "name": "Coolie (Original Motion Picture Soundtrack)",
@@ -215,6 +319,30 @@
       "duration_ms": 217627,
       "name": "Monica",
       "url": "https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei"
+    },
+    {
+      "added_at": "2025-10-03 06:32:07",
+      "album": {
+        "name": "Thennaadu (From \"Bison Kaalamaadan\")",
+        "url": "https://open.spotify.com/album/4Eq5ZrKjr3JIKL26JSZJgO"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Sathyan Mahalingam",
+          "url": "https://open.spotify.com/artist/0VXtbLfOdJp6egQJhjEqn2"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "duration_ms": 301263,
+      "name": "Thennaadu - From \"Bison Kaalamaadan\"",
+      "url": "https://open.spotify.com/track/73NOcDlEPAEot7xBgD3Rqj"
     },
     {
       "added_at": "2025-09-18 12:54:22",
@@ -248,21 +376,13 @@
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "A. R. Ameen",
-          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Falcon",
-          "url": "https://open.spotify.com/artist/1SwTotKCkOviHc4HNvt3QA"
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
         }
       ],
-      "duration_ms": 152678,
-      "name": "My Heartu Spinning",
-      "url": "https://open.spotify.com/track/4QaCrEqOFiyveDXTzBIqp6"
+      "duration_ms": 153184,
+      "name": "Kulasamy Kaaval Kaaka",
+      "url": "https://open.spotify.com/track/28qnVA8aVD146U6KWr0zOL"
     },
     {
       "added_at": "2025-09-16 14:37:44",
@@ -397,30 +517,6 @@
       "url": "https://open.spotify.com/track/4xpUatnBnKckoRJggjJ5Yw"
     },
     {
-      "added_at": "2025-07-28 09:54:01",
-      "album": {
-        "name": "Enna Sugam (From \"Idli Kadai\")",
-        "url": "https://open.spotify.com/album/3aUkyC2xD3z5NeGQnUJWCc"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Enna Sugam (From \"Idli Kadai\")",
-      "url": "https://open.spotify.com/track/5eapD8IF5Ha70315fHiwbK"
-    },
-    {
       "added_at": "2025-09-22 14:54:55",
       "album": {
         "name": "Trending",
@@ -443,6 +539,26 @@
       "duration_ms": 207567,
       "name": "Ennile Ennile",
       "url": "https://open.spotify.com/track/52ItniXVg91NTxNIiiPhpm"
+    },
+    {
+      "added_at": "2025-10-03 06:32:07",
+      "album": {
+        "name": "Kaaladheera (From \"Shakthi Thirumagan\")",
+        "url": "https://open.spotify.com/album/0B0csX7BHU5069tGjDb3ve"
+      },
+      "artists": [
+        {
+          "name": "Vijay Antony",
+          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        },
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        }
+      ],
+      "duration_ms": 201554,
+      "name": "Kaaladheera (From \"Shakthi Thirumagan\")",
+      "url": "https://open.spotify.com/track/0RQAugw99ggoOtxVm6Fetx"
     },
     {
       "added_at": "2025-09-29 07:47:07",
@@ -681,30 +797,6 @@
       "url": "https://open.spotify.com/track/46xZmHZD4hIpfy9flmHTsi"
     },
     {
-      "added_at": "2025-08-27 13:55:57",
-      "album": {
-        "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
-        "url": "https://open.spotify.com/album/07dZfgVCNQhJFd1euhpppX"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 291789,
-      "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
-      "url": "https://open.spotify.com/track/3xsszPcM3byg2C90m2f7bG"
-    },
-    {
       "added_at": "2025-09-18 12:54:22",
       "album": {
         "name": "Karuppu Car (From \"Think Indie\")",
@@ -831,30 +923,6 @@
       "duration_ms": 218666,
       "name": "Kanmani Poove",
       "url": "https://open.spotify.com/track/0e1se52NNtUV0XNfIgWczi"
-    },
-    {
-      "added_at": "2025-09-22 14:47:09",
-      "album": {
-        "name": "Machi Nee Paadu Daa (From \"Madharas Mafia Company\")",
-        "url": "https://open.spotify.com/album/5B5wKk9wicg5xDn1pBzs0a"
-      },
-      "artists": [
-        {
-          "name": "Srikanth Deva",
-          "url": "https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh"
-        },
-        {
-          "name": "Deva",
-          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
-        },
-        {
-          "name": "Ku Karthik",
-          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Machi Nee Paadu Daa (From \"Madharas Mafia Company\")",
-      "url": "https://open.spotify.com/track/4R7W1vVICAX0YIA4B5hcw5"
     },
     {
       "added_at": "2025-09-17 09:43:07",
@@ -1381,30 +1449,6 @@
       "url": "https://open.spotify.com/track/50nCF4GehfQABo4g2Fv6us"
     },
     {
-      "added_at": "2025-09-15 11:02:40",
-      "album": {
-        "name": "Unnala Thaane (From \"Marutham\")",
-        "url": "https://open.spotify.com/album/2g4jC8dmz56lMVDGkcLWn4"
-      },
-      "artists": [
-        {
-          "name": "N.R. Raghunanthan",
-          "url": "https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh"
-        },
-        {
-          "name": "Anand Aravindakshan",
-          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
-        },
-        {
-          "name": "Neethi",
-          "url": "https://open.spotify.com/artist/4ZbN10eBfFQsN8bbc9v5dH"
-        }
-      ],
-      "duration_ms": 258625,
-      "name": "Unnala Thaane (From \"Marutham\")",
-      "url": "https://open.spotify.com/track/6RzUcdsRi7gfqTzp3OQ7eM"
-    },
-    {
       "added_at": "2025-07-24 12:35:04",
       "album": {
         "name": "Maarudho (From \"Shakthi Thirumagan\")",
@@ -1763,34 +1807,6 @@
       "duration_ms": 181477,
       "name": "Yeman Yaaru",
       "url": "https://open.spotify.com/track/0Rw6XRfRK8k4wIRGaBH6wW"
-    },
-    {
-      "added_at": "2025-08-18 13:24:36",
-      "album": {
-        "name": "Kaattupoochi (From \"Chinnadha Oru Padam\")",
-        "url": "https://open.spotify.com/album/7AZerosAJkWsSab3vUJJn8"
-      },
-      "artists": [
-        {
-          "name": "Harish Venkat",
-          "url": "https://open.spotify.com/artist/5m8LjXS3VaOGVm1dT9yvhP"
-        },
-        {
-          "name": "Prashanth Techno",
-          "url": "https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc"
-        },
-        {
-          "name": "Super Subu",
-          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        }
-      ],
-      "duration_ms": 238777,
-      "name": "Kaattupoochi (From \"Chinnadha Oru Padam\")",
-      "url": "https://open.spotify.com/track/3QPtK1fjvPq7pxhYRypkMR"
     },
     {
       "added_at": "2025-08-06 12:52:24",

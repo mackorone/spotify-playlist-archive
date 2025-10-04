@@ -2748,12 +2748,12 @@
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
           "name": "Thaman S",
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
           "name": "Krishna Kanth",
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 340906,
       "name": "Pileche",
       "url": "https://open.spotify.com/track/1mOCb1w5n62jLGHJqpGL2W"
@@ -4650,6 +4650,36 @@
       "duration_ms": 285040,
       "name": "Sehari Sehari",
       "url": "https://open.spotify.com/track/2SIQgKcQP0ztLtV6APZ9y8"
+    },
+    {
+      "album": {
+        "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
+        "url": "https://open.spotify.com/album/7Gb3tz0K3bEADvxkfpxNdV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Adviteeya Vojjala",
+          "url": "https://open.spotify.com/artist/09J325BgRreHJKVVVAECLx"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256774,
+      "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
+      "url": "https://open.spotify.com/track/3UlG7yRyzw7RsGC0vxVXgO"
     },
     {
       "album": {

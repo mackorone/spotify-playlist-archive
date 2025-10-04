@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,299 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,370 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kalt gemacht](https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kalt gemacht](https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64) | 3:05 |
 | 2 | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY) | 3:03 |
 | 3 | [Wie du](https://open.spotify.com/track/2wgmhgtrg8mxD8Y7sBRXbo) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Wie du](https://open.spotify.com/album/56yu5IAes8T5s5uxD4zMqB) | 2:21 |
-| 4 | [Shoutout](https://open.spotify.com/track/4uaj1cSrmvtBXjh0NUsIOo) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [](https://open.spotify.com/album/null) | 2:46 |
+| 4 | [Shoutout](https://open.spotify.com/track/4uaj1cSrmvtBXjh0NUsIOo) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Backup '25](https://open.spotify.com/album/1jD7rC3RAV2O4SARc3I6sW) | 2:46 |
 | 5 | [kommst du mich trösten](https://open.spotify.com/track/6Kc5IHSE54g8wIE1hXYTNe) | [freddy](https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [kommst du mich trösten](https://open.spotify.com/album/1b6djekUXcXxezSNuGHAYh) | 2:27 |
 | 6 | [wiese](https://open.spotify.com/track/0vSO5CRh7l4mIW4FLLCK8L) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Keule](https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y) | [wiese](https://open.spotify.com/album/3w7VwjR8aUeZKQtJzX4imH) | 2:07 |
 | 7 | [Kreise](https://open.spotify.com/track/6KfWdQ15gSsuNKNmTxhXRa) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Kreise](https://open.spotify.com/album/4xpl7dnHx7Dh6Y3ekKZ40y) | 2:24 |

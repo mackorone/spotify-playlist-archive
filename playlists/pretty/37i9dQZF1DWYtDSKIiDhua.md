@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Thee Marloes
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,012 likes - 104 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,017 likes - 104 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
 | 2 | [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 |
-| 3 | [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [](https://open.spotify.com/album/null) | 3:10 |
+| 3 | [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR](https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs) | 3:10 |
 | 4 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 5 | [out of body](https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [out of body](https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE) | 2:55 |
 | 6 | [RIP](https://open.spotify.com/track/2WBKIq4LHfxg29Uo1R2arA) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [RIP](https://open.spotify.com/album/2g2DrGWizKKb5wIA1FnUW5) | 2:44 |
 | 7 | [Made 4 Two \(feat\. Charli Taft, SIRUP\)](https://open.spotify.com/track/5RlWyohsph62rIAPBbgLGV) | [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Made 4 Two \(feat\. Charli Taft, SIRUP\)](https://open.spotify.com/album/6Xdk6YsOTrb8iTWDCexKYh) | 2:30 |
-| 8 | [Track 5](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 |
 | 9 | [Teach Me How To Love \(Polo & Pan Remix\)](https://open.spotify.com/track/0YWlV6WywTnEzqHxvz9UMg) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Teach Me How To Love \(Remixes\)](https://open.spotify.com/album/6ZnkksYlpCEcUezjtfXe9j) | 3:25 |
 | 10 | [Mr.Stealyourgurl](https://open.spotify.com/track/09D9vxQUhvChltLsdZiNLs) | [Kid Ani](https://open.spotify.com/artist/2qNY1Sy5Xgafu64DPqqKST), [GANIAL](https://open.spotify.com/artist/4dCpw5lYuXLZSCnb1HWvdC) | [Mr.Stealyourgurl](https://open.spotify.com/album/5LAbji1PkZcziPVeMX5ybH) | 4:08 |
 | 11 | [So Alive](https://open.spotify.com/track/7nY4LhLAJgzNRWvM82B5uH) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [So Alive](https://open.spotify.com/album/1mJGw16514dnMaq0AU2IvW) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Simon Grossmann en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Maffio en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 241850,
       "name": "Agua que Lleg\u00f3",
       "url": "https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 199200,
       "name": "Agua Que Quema",
       "url": "https://open.spotify.com/track/4ZycfilbjT0c4s9p4qFuO6"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 232241,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
@@ -1564,6 +1564,32 @@
       "duration_ms": 199640,
       "name": "Cumbia Bajo El Sol",
       "url": "https://open.spotify.com/track/1AOwWFdeZeAxN5ay2EEavb"
+    },
+    {
+      "album": {
+        "name": "Cumbia Kokoro",
+        "url": "https://open.spotify.com/album/1k5IZgB7EBHylPcUMEnOu0"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Yugo Taguchi",
+          "url": "https://open.spotify.com/artist/4tQ007tpS1ODHBDgbmVjju"
+        },
+        {
+          "name": "Los Ahijados De La Changa",
+          "url": "https://open.spotify.com/artist/0JYMyW0fXkMRqvCicBlWBz"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197277,
+      "name": "Cumbia Kokoro",
+      "url": "https://open.spotify.com/track/6D8RFQmiusyVRSe2Ri7fQp"
     },
     {
       "album": {
@@ -2112,7 +2138,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 188520,
       "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
       "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
@@ -3119,6 +3145,36 @@
     },
     {
       "album": {
+        "name": "R.D.L.D.",
+        "url": "https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151604,
+      "name": "Incondicional - Les Trois Monde",
+      "url": "https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA"
+    },
+    {
+      "album": {
         "name": "Joyas",
         "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
       },
@@ -3602,10 +3658,32 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 365146,
       "name": "La Princesa",
       "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
+    },
+    {
+      "album": {
+        "name": "La Punta",
+        "url": "https://open.spotify.com/album/6vgWpAwr7V0XHMFZf4Mj1q"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238937,
+      "name": "La Punta",
+      "url": "https://open.spotify.com/track/4DYgUjM43h7LsCOGkT9XYr"
     },
     {
       "album": {
@@ -4964,7 +5042,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 203582,
       "name": "No Parar\u00e1",
       "url": "https://open.spotify.com/track/5gnsv6OSaOHo0Si19gU5PR"
@@ -6719,6 +6797,24 @@
     },
     {
       "album": {
+        "name": "TANRiCO",
+        "url": "https://open.spotify.com/album/4pKxNlIWcgUYljoJiCIqRb"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179191,
+      "name": "TANRiCO",
+      "url": "https://open.spotify.com/track/6zHG7SW5ZfwcsaAEusL7sy"
+    },
+    {
+      "album": {
         "name": "Te Olvidaste",
         "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
@@ -6930,6 +7026,32 @@
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
+    },
+    {
+      "album": {
+        "name": "Tormenta Solar",
+        "url": "https://open.spotify.com/album/30lTmvLqiQOniFpRN5KGjK"
+      },
+      "artists": [
+        {
+          "name": "DUSU",
+          "url": "https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX"
+        },
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        },
+        {
+          "name": "MJ Baez",
+          "url": "https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293739,
+      "name": "Tormenta Solar",
+      "url": "https://open.spotify.com/track/16pt6SWkfn0kPlL3cSHSaB"
     },
     {
       "album": {
@@ -7192,6 +7314,24 @@
       "duration_ms": 171868,
       "name": "Vamos a la Selva",
       "url": "https://open.spotify.com/track/1Lkqvx3dZyy2q74UMKVqlC"
+    },
+    {
+      "album": {
+        "name": "Cerca del Lugar",
+        "url": "https://open.spotify.com/album/37CQ20F36JmmHtRuSGpTux"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Vaquera Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/5eEnXoscc8v5AT6NLlBHt2"
     },
     {
       "album": {

@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 120708,
       "name": "$100 Cheesesteak",
       "url": "https://open.spotify.com/track/1cUFl28NSsGqQoC4wZjMU4"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 325833,
       "name": "1019",
       "url": "https://open.spotify.com/track/6rOLIMHvCZtpJWl0N9oP3F"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 155533,
       "name": "ANNIE.",
       "url": "https://open.spotify.com/track/73vcLsWOQkvhXvhqYFVgvE"
@@ -6511,6 +6511,28 @@
     },
     {
       "album": {
+        "name": "DeadStock",
+        "url": "https://open.spotify.com/album/7A2xLZSQRiSZWInw4fUoC0"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167894,
+      "name": "DeadStock",
+      "url": "https://open.spotify.com/track/69xH7PCfjipUSctvJj8c8C"
+    },
+    {
+      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
@@ -10881,6 +10903,28 @@
     },
     {
       "album": {
+        "name": "DRIVING BLIND",
+        "url": "https://open.spotify.com/album/01g6wAabY0JMAleDidQvCX"
+      },
+      "artists": [
+        {
+          "name": "LIFEOFTHOM",
+          "url": "https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me"
+        },
+        {
+          "name": "Plain Pat",
+          "url": "https://open.spotify.com/artist/1JR66NsDvTBEJRrnsIBBWu"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/059AB3wZw6KWrIQym2sk3A"
+    },
+    {
+      "album": {
         "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/3prLqNXoNF7GI8SjxCJyBZ"
       },
@@ -13437,6 +13481,28 @@
     },
     {
       "album": {
+        "name": "LONERWRLD, vol 2",
+        "url": "https://open.spotify.com/album/4NnYugJpHrRVwx5BgbQO7I"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123191,
+      "name": "JAMAICAN CUISINE.",
+      "url": "https://open.spotify.com/track/4elVJENtMYgnSLOJlxcAow"
+    },
+    {
+      "album": {
         "name": "I've Never Been Here Before",
         "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
       },
@@ -13744,6 +13810,28 @@
       "duration_ms": 137262,
       "name": "Jumbo Jet",
       "url": "https://open.spotify.com/track/6Ph92j9V7ZI0A67BxFbzhb"
+    },
+    {
+      "album": {
+        "name": "DRIVING BLIND",
+        "url": "https://open.spotify.com/album/01g6wAabY0JMAleDidQvCX"
+      },
+      "artists": [
+        {
+          "name": "LIFEOFTHOM",
+          "url": "https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me"
+        },
+        {
+          "name": "Plain Pat",
+          "url": "https://open.spotify.com/artist/1JR66NsDvTBEJRrnsIBBWu"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "JUMPIN' IN",
+      "url": "https://open.spotify.com/track/5Dh5kCJH6pOTym7oGOjJpo"
     },
     {
       "album": {
@@ -16231,6 +16319,28 @@
     },
     {
       "album": {
+        "name": "Midnight in Hawaii 2",
+        "url": "https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198694,
+      "name": "Midnight in Hawaii 2",
+      "url": "https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN"
+    },
+    {
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
       },
@@ -17214,7 +17324,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 288000,
       "name": "Never Fold",
       "url": "https://open.spotify.com/track/3qXKedpMh4zUFRUljwHT8C"
@@ -21034,6 +21144,28 @@
       "duration_ms": 256786,
       "name": "Ruby Rosary (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
+    },
+    {
+      "album": {
+        "name": "LONERWRLD, vol 2",
+        "url": "https://open.spotify.com/album/4NnYugJpHrRVwx5BgbQO7I"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205925,
+      "name": "RUNITUP.",
+      "url": "https://open.spotify.com/track/08OT6WJFsBHUXfSXLDTizK"
     },
     {
       "album": {
@@ -26054,7 +26186,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-04",
       "duration_ms": 151232,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/6Gcow77fOMmdIxc3atXDyt"

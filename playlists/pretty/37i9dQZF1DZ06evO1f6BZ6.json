@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123331,
+  "num_followers": 123349,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAACtqx9xSIuIym7FKskBG4Cq",
+  "snapshot_id": "aN3AgAAAAACf3Qz+hQJfeYqsyiCBuabf",
   "tracks": [
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rodeo Rock And Roll Collection",
+        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
+      },
+      "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worst Country Song Of All Time",
         "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 197666,
       "name": "The Worst Country Song Of All Time",
       "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rodeo Rock And Roll Collection",
-        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
-      },
-      "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Copenhagen",
-      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
     },
     {
       "added_at": null,

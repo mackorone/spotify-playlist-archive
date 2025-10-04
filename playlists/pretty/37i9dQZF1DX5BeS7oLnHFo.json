@@ -1,12 +1,12 @@
 {
   "description": "\u0643\u0627\u0641\u064a\u0627\u0631 \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0639\u0631\u0628\u064a",
-  "num_followers": 38990,
+  "num_followers": 39002,
   "original_name": "\u0647\u064a\u0628 \u0647\u0648\u0628\u0646\u0627",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN2/5aOvxkONLDamU/49EKzZZKal",
+  "snapshot_id": "AAAAALU1M/E+QxdK/awM0UtKoMQvGhK5",
   "tracks": [
     {
       "added_at": "2025-10-02 08:53:38",
@@ -41,24 +41,20 @@
       "url": "https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2025-10-03 11:40:35",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
+        "name": "Donia",
+        "url": "https://open.spotify.com/album/5tawL1TpvFCJyHa59wPlpW"
       },
       "artists": [
         {
           "name": "Soulja",
           "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
-        },
-        {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
         }
       ],
-      "duration_ms": 160752,
-      "name": "London",
-      "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
+      "duration_ms": 154434,
+      "name": "Donia",
+      "url": "https://open.spotify.com/track/1Eb7vspAiXYvlwtFCTY0JK"
     },
     {
       "added_at": "2025-07-15 07:06:38",
@@ -307,6 +303,26 @@
       "duration_ms": 211200,
       "name": "Ma Radeet",
       "url": "https://open.spotify.com/track/10Iwvjz3GkcdgSAA5mlGXx"
+    },
+    {
+      "added_at": "2025-10-02 08:53:38",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        },
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        }
+      ],
+      "duration_ms": 160752,
+      "name": "London",
+      "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
     },
     {
       "added_at": "2025-10-02 08:53:38",
@@ -903,26 +919,6 @@
       "duration_ms": 195419,
       "name": "FOG",
       "url": "https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "\u0628\u0631\u0627\u0646\u062f",
-        "url": "https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe"
-      },
-      "artists": [
-        {
-          "name": "Khalz",
-          "url": "https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope"
-        },
-        {
-          "name": "MOHAMEDMEM",
-          "url": "https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI"
-        }
-      ],
-      "duration_ms": 157052,
-      "name": "\u0628\u0631\u0627\u0646\u062f",
-      "url": "https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx"
     }
   ],
   "unique_name": "\u0647\u064a\u0628 \u0647\u0648\u0628\u0646\u0627",

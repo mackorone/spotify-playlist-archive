@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carín León and Kacey Musgraves
 
-203 songs - 11 hr 9 min
+204 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Stay](https://open.spotify.com/track/3KutMcHEOPYflktQz9vIsH) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Stay](https://open.spotify.com/album/2KIi0B9YE2ud6CwvYjWiNu) | 4:54 | 2024-09-13 |  |
 | [Streetlights](https://open.spotify.com/track/1jt3qpuuzQaO1XrUzuV1QW) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:09 | 2023-09-29 | 2024-04-10 |
 | [Streetlights](https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Streetlights](https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL) | 3:10 | 2021-12-10 | 2023-11-03 |
-| [Supermujer](https://open.spotify.com/track/13qhmkQ2boDrdEJ4gxZI0E) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Supermujer](https://open.spotify.com/album/2hW3QVn9T8zPzW3TV2Orow) | 3:48 | 2025-08-29 |  |
+| [Supermujer](https://open.spotify.com/track/13qhmkQ2boDrdEJ4gxZI0E) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Supermujer](https://open.spotify.com/album/2hW3QVn9T8zPzW3TV2Orow) | 3:48 | 2025-08-29 | 2025-10-04 |
+| [Supermujeres](https://open.spotify.com/track/0kPgAvdXfYEcnROAGNc5vM) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Supermujeres](https://open.spotify.com/album/4AjdiWwy2S4ayVbmgwl5Ge) | 3:48 | 2025-10-03 |  |
 | [take my phone.](https://open.spotify.com/track/1uI8U4FO4fvFa0d5dd1UYl) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [take my phone.](https://open.spotify.com/album/0TdqvonMraWculqLZrmVYJ) | 2:31 | 2021-12-10 | 2022-08-27 |
 | [Tears Of Gold](https://open.spotify.com/track/1GmQN5AYSmZFYTw10AfcLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Tears Of Gold](https://open.spotify.com/album/2US38BIkYb1habQEAGJyfD) | 2:56 | 2021-12-10 |  |
 | [Tennessee Whiskey \- Spanglish](https://open.spotify.com/track/4U33IIV3vNMxPQqiDt375f) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 3:34 | 2023-12-15 | 2023-12-23 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 185224,
+  "num_followers": 185300,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNxvAAAAAAArBLqcF1YoZChFzhGX5ISo",
+  "snapshot_id": "aN3AgAAAAAAtCn7Dwifstkbp2SYGlOha",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mucho M\u00e1s Que Ayer",
-        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Mucho M\u00e1s Que Ayer",
-      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
-    },
     {
       "added_at": null,
       "album": {
@@ -155,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mucho M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Mucho M\u00e1s Que Ayer",
+      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
@@ -167,6 +167,38 @@
       "duration_ms": 195970,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 229405,
+      "name": "Afuera Del Planeta",
+      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Nenita",
+      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
     },
     {
       "added_at": null,
@@ -191,38 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 256948,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Nenita",
-      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tropical Jesus",
         "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
       },
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 256948,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERFECTO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 204069,
       "name": "Lib\u00e9rame",
       "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 229405,
-      "name": "Afuera Del Planeta",
-      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Hay Una Luz Dentro De Ti",
-      "url": "https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 169398,
       "name": "Donde Nadie Pueda Ir",
       "url": "https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Hay Una Luz Dentro De Ti",
+      "url": "https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 183926,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buena",
         "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 218013,
       "name": "Buena",
       "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197680,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Que Te Vi",
         "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 171789,
       "name": "Desde Que Te Vi",
       "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
     },
     {
       "added_at": null,

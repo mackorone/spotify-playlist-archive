@@ -1,18 +1,38 @@
 {
   "description": "music from the underworld\n",
-  "num_followers": 671924,
+  "num_followers": 671971,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCDPERLa477DCnGmC4SgOuY+IWc",
+  "snapshot_id": "AAAAAMy+tKbTD8HjTOyICQpxFvNmwW/9",
   "tracks": [
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
-        "name": "HEAVY LOVE",
-        "url": "https://open.spotify.com/album/6IPnW1tlA4tZ2RNP77STlv"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2zlKhUN6HkQl8a8bpL41eT"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/5BlmYG4oJ4eJk7sMlXaI5G"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "ECSTASY",
+        "url": "https://open.spotify.com/album/0mFjMrcrtU6I8qTfVcMUC8"
       },
       "artists": [
         {
@@ -20,12 +40,12 @@
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 142261,
-      "name": "HEAVY LOVE",
-      "url": "https://open.spotify.com/track/608gR8geDwag74CiyseUsH"
+      "duration_ms": 144437,
+      "name": "ECSTASY",
+      "url": "https://open.spotify.com/track/1mP5WcJAIELCi31TVVIaFo"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "TRIBAL HELL",
         "url": "https://open.spotify.com/album/5MfnDZUqQfJ2YbKANPjMAX"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/63OJkmqUT3dl49kvlkP6Hd"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "AURA of GLORY",
         "url": "https://open.spotify.com/album/0ytGmF6zsRMGW0Wf3lBjGI"
@@ -57,7 +77,27 @@
       "url": "https://open.spotify.com/track/6lAsYn0DdP9nGlDdrdzNig"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "CAROUSEL",
+        "url": "https://open.spotify.com/album/5zbFYXrj5J3TmwQibOmmlL"
+      },
+      "artists": [
+        {
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "CAROUSEL",
+      "url": "https://open.spotify.com/track/7Ewks37NVUFBbAh3VRf8gv"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Y-SLIDE",
         "url": "https://open.spotify.com/album/6lRqQd7qNihYaQRfOHF0uY"
@@ -77,7 +117,7 @@
       "url": "https://open.spotify.com/track/2i7JW6YBfRy832sjm1quKs"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Red Light",
         "url": "https://open.spotify.com/album/3Ow1LjWwNkxd2VpJiS9gdc"
@@ -97,27 +137,23 @@
       "url": "https://open.spotify.com/track/2EiJ8L7AFkiKXHqqU6x96K"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
-        "name": "BLOODBATH",
-        "url": "https://open.spotify.com/album/6sQM9QliULfS4QOLrxK8Jk"
+        "name": "HEAVY LOVE",
+        "url": "https://open.spotify.com/album/6IPnW1tlA4tZ2RNP77STlv"
       },
       "artists": [
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 132998,
-      "name": "BLOODBATH",
-      "url": "https://open.spotify.com/track/30IcVPNfNfWeEqbSzQhMi6"
+      "duration_ms": 142261,
+      "name": "HEAVY LOVE",
+      "url": "https://open.spotify.com/track/608gR8geDwag74CiyseUsH"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "GLITTERFORCEXRIDE (Slowed Version)",
         "url": "https://open.spotify.com/album/7rCxcwRCqPIid3wBBzoIJv"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/08kEBHCpJTps6nCJplTrLv"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy"
@@ -157,71 +193,27 @@
       "url": "https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
-        "name": "SMB (w/ Hongjoong of ATEEZ)",
-        "url": "https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2zlKhUN6HkQl8a8bpL41eT"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         },
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
         }
       ],
-      "duration_ms": 133565,
-      "name": "SMB (w/ Hongjoong of ATEEZ)",
-      "url": "https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg"
+      "duration_ms": 120000,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/46cdEl9gJxePB1IHT0ng1p"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
-      "album": {
-        "name": "DRIFT",
-        "url": "https://open.spotify.com/album/6S5hVidKHCnyrFYDPWaUcb"
-      },
-      "artists": [
-        {
-          "name": "Vyzer",
-          "url": "https://open.spotify.com/artist/5jLQxZDFd3vrRb7t8OETCA"
-        },
-        {
-          "name": "Lytra",
-          "url": "https://open.spotify.com/artist/765caWhYCY7Yiw5F6jZZHg"
-        },
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 116160,
-      "name": "DRIFT",
-      "url": "https://open.spotify.com/track/0QSh05v4E3vSul9upXDxQv"
-    },
-    {
-      "added_at": "2025-03-14 14:06:02",
-      "album": {
-        "name": "UP FREESTYLE (w/ Odetari)",
-        "url": "https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 119964,
-      "name": "UP FREESTYLE (w/ Odetari)",
-      "url": "https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB"
-    },
-    {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Pretty Scene Girl!",
         "url": "https://open.spotify.com/album/6OfC8fXFOLdsF3sjU7vq11"
@@ -245,7 +237,71 @@
       "url": "https://open.spotify.com/track/0On2m1x86sC0Quwsu0JXQl"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "SMB (w/ Hongjoong of ATEEZ)",
+        "url": "https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "SMB (w/ Hongjoong of ATEEZ)",
+      "url": "https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "DRIFT",
+        "url": "https://open.spotify.com/album/6S5hVidKHCnyrFYDPWaUcb"
+      },
+      "artists": [
+        {
+          "name": "Vyzer",
+          "url": "https://open.spotify.com/artist/5jLQxZDFd3vrRb7t8OETCA"
+        },
+        {
+          "name": "Lytra",
+          "url": "https://open.spotify.com/artist/765caWhYCY7Yiw5F6jZZHg"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 116160,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/0QSh05v4E3vSul9upXDxQv"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "UP FREESTYLE (w/ Odetari)",
+        "url": "https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 119964,
+      "name": "UP FREESTYLE (w/ Odetari)",
+      "url": "https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "NASTYWERKKKK!",
         "url": "https://open.spotify.com/album/0eFoFhftAdNeb0vtTJ0iSB"
@@ -265,7 +321,7 @@
       "url": "https://open.spotify.com/track/7kvQptbfqq5b4MWRQOMrZC"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "JUST ME!",
         "url": "https://open.spotify.com/album/5QehyjULJXpxyaYkeUsw94"
@@ -281,7 +337,23 @@
       "url": "https://open.spotify.com/track/6BbG6krLjxYmkqFqrxJ99f"
     },
     {
-      "added_at": "2025-03-14 14:06:02",
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "BLUNT BITCHES",
+        "url": "https://open.spotify.com/album/2UhqcHM9MvbTlHQf6FdnSf"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "BLUNT BITCHES",
+      "url": "https://open.spotify.com/track/0bCb1xn7rZXY1FdP0RhVlr"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BLAME HER",
         "url": "https://open.spotify.com/album/4xmwWx7TDOqaG5h4SxtxK3"
@@ -301,7 +373,7 @@
       "url": "https://open.spotify.com/track/5ZOGg0PbjdFRbo19tDS5NL"
     },
     {
-      "added_at": "2024-10-17 21:21:34",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BRAINS OUT",
         "url": "https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr"
@@ -317,7 +389,7 @@
       "url": "https://open.spotify.com/track/5PPGxJs9esA47j65JSvliC"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "LOSS",
         "url": "https://open.spotify.com/album/5FSoEYwr5CjLMeTheWpmHd"
@@ -337,7 +409,7 @@
       "url": "https://open.spotify.com/track/5X1sglbu3MB4Uz5xFXKFu8"
     },
     {
-      "added_at": "2024-11-08 18:46:03",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "grandiose delusional disorder",
         "url": "https://open.spotify.com/album/1rEyG4IBWmeh12JCjDxq79"
@@ -357,7 +429,7 @@
       "url": "https://open.spotify.com/track/4v26UmNahA9G5yk5ku0FNp"
     },
     {
-      "added_at": "2024-07-19 20:53:15",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "wutiwant",
         "url": "https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx"
@@ -373,7 +445,7 @@
       "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
     },
     {
-      "added_at": "2024-02-21 14:57:30",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Remixes)",
         "url": "https://open.spotify.com/album/6m5OWHRT8APtCCY0Rf1c4S"
@@ -389,7 +461,7 @@
       "url": "https://open.spotify.com/track/440DONUaYDRuHmNKMJcz0R"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "ecstacy (slowed)",
         "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
@@ -405,7 +477,7 @@
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2024-09-18 21:19:13",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "LEGACY",
         "url": "https://open.spotify.com/album/2O75ivwd1VnIU7hhTjRmwT"
@@ -421,7 +493,7 @@
       "url": "https://open.spotify.com/track/1rq0nbpxSLVy9Z9m755ZOu"
     },
     {
-      "added_at": "2024-10-17 21:21:34",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BRAINS OUT",
         "url": "https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr"
@@ -437,7 +509,7 @@
       "url": "https://open.spotify.com/track/6aOZOwdGDThb7z3BS8JXFr"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Faster n Harder",
         "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
@@ -453,7 +525,7 @@
       "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "AVANGARD",
         "url": "https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD"
@@ -469,7 +541,7 @@
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
     },
     {
-      "added_at": "2024-03-29 14:56:57",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "HA-HA!",
         "url": "https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu"
@@ -485,7 +557,23 @@
       "url": "https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR"
     },
     {
-      "added_at": "2024-07-31 16:30:35",
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "Bronze Claw Iso",
+        "url": "https://open.spotify.com/album/6qVrpKWa2A5QG200JYa7X1"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        }
+      ],
+      "duration_ms": 154022,
+      "name": "Slug Song",
+      "url": "https://open.spotify.com/track/5rg66yM2srFONrhJFFLpCk"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
@@ -501,7 +589,7 @@
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
-      "added_at": "2024-09-18 21:19:13",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "ROCKST4R",
         "url": "https://open.spotify.com/album/3uCTv5sotyLk7SzbyyVOe9"
@@ -517,7 +605,7 @@
       "url": "https://open.spotify.com/track/6Gd9ab4irg5sQOrS9GA18T"
     },
     {
-      "added_at": "2024-06-21 14:00:51",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Pop like this Pt. 2 (Slowed)",
         "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
@@ -533,7 +621,7 @@
       "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
     },
     {
-      "added_at": "2024-03-13 04:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "EYES ON ME",
         "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "I'm so crazy for youuu </3",
         "url": "https://open.spotify.com/album/3uW306euM0l6tAJpae90LS"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg"
     },
     {
-      "added_at": "2024-09-18 21:19:13",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "CR4CK HOUSE",
         "url": "https://open.spotify.com/album/5Cm7ZRDa3KEnpc9nNrNxO5"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/0dUnW52SwzwPEAHS1oM9xT"
     },
     {
-      "added_at": "2024-08-16 17:58:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "HEADSHOT",
         "url": "https://open.spotify.com/album/5q4APfGSboWnF8OCJxvEQl"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/5NfrtBvM1z7sY7vfceTt5b"
     },
     {
-      "added_at": "2024-03-21 23:05:36",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "DICE AND ROLL",
         "url": "https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a"
@@ -613,7 +701,7 @@
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
     },
     {
-      "added_at": "2024-02-13 14:24:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "EMBRACE CHAOS I",
         "url": "https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde"
@@ -629,7 +717,7 @@
       "url": "https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "ON THE FLOOR!",
         "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
@@ -649,7 +737,7 @@
       "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
     },
     {
-      "added_at": "2024-07-31 16:37:24",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "without u",
         "url": "https://open.spotify.com/album/4SsXKvJuR3CIJh1CKLzNgR"
@@ -673,7 +761,7 @@
       "url": "https://open.spotify.com/track/5ywNbjAfEstdONCpRzZg06"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BREAK A NECK (w/ Ayesha Erotica)",
         "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
@@ -693,7 +781,7 @@
       "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "WHAT YOU WANT!",
         "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
@@ -709,7 +797,7 @@
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "XIII SORROWS",
         "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
@@ -725,7 +813,7 @@
       "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
     },
     {
-      "added_at": "2024-04-12 04:50:36",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "CUTE DEPRESSED",
         "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
@@ -741,7 +829,7 @@
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "F\u039bSHION (Slow + Speed Up Edit)",
         "url": "https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm"
@@ -757,7 +845,7 @@
       "url": "https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3"
     },
     {
-      "added_at": "2024-01-25 17:08:18",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
@@ -777,7 +865,7 @@
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Untitled #13 (Super Slowed)",
         "url": "https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ"
@@ -793,7 +881,7 @@
       "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "ICEWHORE!",
         "url": "https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK"
@@ -809,7 +897,7 @@
       "url": "https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua"
     },
     {
-      "added_at": "2024-08-16 17:58:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "cupcakes_pt2.mp3",
         "url": "https://open.spotify.com/album/7aq8NMxPVMGRTZnqyO6W8U"
@@ -825,7 +913,7 @@
       "url": "https://open.spotify.com/track/20Xu4YrbVVOUnMdfEJQJ1V"
     },
     {
-      "added_at": "2024-06-13 20:10:34",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "TELL ME LIES (w/ Odetari)",
         "url": "https://open.spotify.com/album/2aqRDu300Y685accgkSGhr"
@@ -845,7 +933,7 @@
       "url": "https://open.spotify.com/track/12Lbz6z4cu9HlltYVqwcPR"
     },
     {
-      "added_at": "2024-07-31 16:36:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "DDR (Dance Dance Revolution)",
         "url": "https://open.spotify.com/album/4OPFTrKsaY0pbRaLxcFCLv"
@@ -861,7 +949,7 @@
       "url": "https://open.spotify.com/track/71NY8f0OrMX3ty1oqwMTvi"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "GMFU (w/ 6arelyhuman)",
         "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
@@ -881,7 +969,27 @@
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "BLOODBATH",
+        "url": "https://open.spotify.com/album/6sQM9QliULfS4QOLrxK8Jk"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 132998,
+      "name": "BLOODBATH",
+      "url": "https://open.spotify.com/track/30IcVPNfNfWeEqbSzQhMi6"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "SHAKE THAT SHIT!",
         "url": "https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs"
@@ -905,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
     },
     {
-      "added_at": "2024-02-13 14:24:02",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "krushed!",
         "url": "https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo"
@@ -929,7 +1037,7 @@
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
     },
     {
-      "added_at": "2024-04-10 19:09:04",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "noir",
         "url": "https://open.spotify.com/album/68buIxo0GiCtikqj7sNoUP"
@@ -945,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1Qv9RlQrACS2sIvuVZQHiO"
     },
     {
-      "added_at": "2024-03-29 14:56:57",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "DOOR TO DUSK",
         "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
@@ -961,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3QV4m1LpUixah1Ab2woVxl"
     },
     {
-      "added_at": "2024-03-29 14:56:57",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "What I Want",
         "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
@@ -977,7 +1085,7 @@
       "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
-      "added_at": "2024-06-13 20:10:34",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "drained to my core",
         "url": "https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl"
@@ -993,7 +1101,7 @@
       "url": "https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP"
     },
     {
-      "added_at": "2024-05-17 14:42:57",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Party Like The 80s (w/ asteria & kets4eki)",
         "url": "https://open.spotify.com/album/4344P6IpfJORVbqtsn6axP"
@@ -1017,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3XOXq8XRUukhuLmRBVKhi1"
     },
     {
-      "added_at": "2024-06-13 20:10:34",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "pick & choose",
         "url": "https://open.spotify.com/album/2tjSmb4wml4iZIJj0zi43n"
@@ -1037,7 +1145,7 @@
       "url": "https://open.spotify.com/track/45mWLCeuB5YnzqSp5eufV7"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Ketamine Girl",
         "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
@@ -1061,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
-      "added_at": "2024-04-26 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "KATAMARI",
         "url": "https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E"
@@ -1077,7 +1185,7 @@
       "url": "https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0"
     },
     {
-      "added_at": "2024-05-31 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "LET YOU GO!",
         "url": "https://open.spotify.com/album/2Vct5auPWASW2Ze51Qb6Zk"
@@ -1101,7 +1209,31 @@
       "url": "https://open.spotify.com/track/0mkbtM3GMMIxFBU6PLWchU"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
+      "album": {
+        "name": "i know",
+        "url": "https://open.spotify.com/album/2tlcnT0wFtCBKY2cqZMmXg"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "Marluxiam",
+          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "i know",
+      "url": "https://open.spotify.com/track/5y4ozftPtZ3yZFOQxzKbv5"
+    },
+    {
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
@@ -1117,7 +1249,7 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BAIXO",
         "url": "https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc"
@@ -1133,7 +1265,7 @@
       "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "HOUSE PARTY",
         "url": "https://open.spotify.com/album/3ss4oRlgOMDgYoJ6uDmoLg"
@@ -1149,7 +1281,7 @@
       "url": "https://open.spotify.com/track/63BMFfN0SjDw7mPzp8S2kn"
     },
     {
-      "added_at": "2024-03-29 14:56:57",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "SKELLY",
         "url": "https://open.spotify.com/album/49yuEdA79idYEVbiMiGjVu"
@@ -1165,7 +1297,7 @@
       "url": "https://open.spotify.com/track/4uTRXCFrOQ97tKYCLj9Dm8"
     },
     {
-      "added_at": "2024-06-13 20:10:34",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "HOSTAGE!",
         "url": "https://open.spotify.com/album/0QMW9peEFpoXLuN6rma5kW"
@@ -1185,7 +1317,7 @@
       "url": "https://open.spotify.com/track/52P2a3fasZIVdnle074lHY"
     },
     {
-      "added_at": "2024-03-08 16:57:59",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Rock Your Body",
         "url": "https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt"
@@ -1205,7 +1337,7 @@
       "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
@@ -1225,7 +1357,7 @@
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Tidal Memory Exo",
         "url": "https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g"
@@ -1241,7 +1373,7 @@
       "url": "https://open.spotify.com/track/43IxujU228QDYxlnMcotzW"
     },
     {
-      "added_at": "2024-05-24 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "FUCKED UP BRAIN!",
         "url": "https://open.spotify.com/album/60teuvy4vmsVsbv2iRueFu"
@@ -1265,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0CICooqqgcHvmuuxOcMoBq"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "party addict",
         "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
@@ -1289,7 +1421,7 @@
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "MONEY! (Money Money, Green Green)",
         "url": "https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX"
@@ -1305,7 +1437,7 @@
       "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "LOVELY BASTARDS",
         "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
@@ -1325,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
-      "added_at": "2024-05-17 14:42:57",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "VULTURES.",
         "url": "https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT"
@@ -1341,7 +1473,7 @@
       "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
     },
     {
-      "added_at": "2024-11-08 18:50:22",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Life Strobe",
         "url": "https://open.spotify.com/album/0bYCZhpi0D56yPE3Vk9YYa"
@@ -1357,7 +1489,7 @@
       "url": "https://open.spotify.com/track/4qSrPcAaCo1AH9qlmxFpuS"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "CANADA (w/ jnhygs)",
         "url": "https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th"
@@ -1377,27 +1509,7 @@
       "url": "https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK"
     },
     {
-      "added_at": "2024-06-21 14:00:51",
-      "album": {
-        "name": "TARTARIA",
-        "url": "https://open.spotify.com/album/5xbNoOPPMMWANOPqSNTFLx"
-      },
-      "artists": [
-        {
-          "name": "Jane Die",
-          "url": "https://open.spotify.com/artist/0h0D84gzMvpPD1VVQ28Ghq"
-        },
-        {
-          "name": "yuurusu",
-          "url": "https://open.spotify.com/artist/2cYc0guWARdHOu5cI9xQlx"
-        }
-      ],
-      "duration_ms": 182900,
-      "name": "ORGANS",
-      "url": "https://open.spotify.com/track/2u5GKUgS8mysknyb6A3pQR"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Ezekiel Singles \u201918-\u201820",
         "url": "https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v"
@@ -1413,7 +1525,7 @@
       "url": "https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p"
     },
     {
-      "added_at": "2024-05-24 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "OD",
         "url": "https://open.spotify.com/album/3ohsSrvgaCsEctiXLHQA1e"
@@ -1441,7 +1553,7 @@
       "url": "https://open.spotify.com/track/0ElVra0U2mjIVh8eXGsj71"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
@@ -1457,7 +1569,7 @@
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Love Game",
         "url": "https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO"
@@ -1473,7 +1585,7 @@
       "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "JERK!",
         "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
@@ -1493,7 +1605,7 @@
       "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "POSSESSIVE LOVE DISORDER",
         "url": "https://open.spotify.com/album/5yq3vYECtmWY0TMpFVtZle"
@@ -1513,7 +1625,7 @@
       "url": "https://open.spotify.com/track/0D2xaGV4gxw3gKYnjbxrjz"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Pink flame",
         "url": "https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ"
@@ -1529,7 +1641,7 @@
       "url": "https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "TO MY CRUSH <3",
         "url": "https://open.spotify.com/album/0153fn9zFs8emEIe5gzXEz"
@@ -1545,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1ZfSUYyMou1qU29TsrWycZ"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Suffocation (Slowed)",
         "url": "https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e"
@@ -1561,7 +1673,7 @@
       "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BodyPartz",
         "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
@@ -1577,7 +1689,7 @@
       "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
@@ -1601,7 +1713,7 @@
       "url": "https://open.spotify.com/track/3UEyIvpZcGvqEqIZdw6Sey"
     },
     {
-      "added_at": "2024-03-22 17:31:56",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/4QwGaVHr7cP7lgFsmuIXBw"
@@ -1617,7 +1729,7 @@
       "url": "https://open.spotify.com/track/4mVjPiUXDBxX63pxnldaBR"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
@@ -1637,7 +1749,7 @@
       "url": "https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "FIGHT!",
         "url": "https://open.spotify.com/album/1o7LVMFB5i9sLyFxx86FBC"
@@ -1657,7 +1769,7 @@
       "url": "https://open.spotify.com/track/4kH0eBEIesgcCDE4WZA3zL"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "crystallize",
         "url": "https://open.spotify.com/album/283UywJaDCdRfr9pjnUTEQ"
@@ -1673,7 +1785,7 @@
       "url": "https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "NALGOTICA!",
         "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
@@ -1689,7 +1801,7 @@
       "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "KNOW WHAT YOU WANT",
         "url": "https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4"
@@ -1709,7 +1821,7 @@
       "url": "https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "BABY I'M HOME (w/ Kanii & 9lives)",
         "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
@@ -1733,7 +1845,7 @@
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "FCKNSTR",
         "url": "https://open.spotify.com/album/1LXC62pD9hPjQaMWT4wKuD"
@@ -1753,7 +1865,7 @@
       "url": "https://open.spotify.com/track/4hFlAmJ6zJ53nZNRbsNpTn"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "SO WHY DON'T YOU GO?",
         "url": "https://open.spotify.com/album/6rVkMcr9TxeElU2ftov4DG"
@@ -1769,7 +1881,7 @@
       "url": "https://open.spotify.com/track/7fTDFUbjVOq3Qoljln1NYj"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "CRIME SCENE",
         "url": "https://open.spotify.com/album/0BOvxHLcyWn1RvCzSqCsDj"
@@ -1789,7 +1901,7 @@
       "url": "https://open.spotify.com/track/7c6Rp8BZF1o9cEPFQaGY32"
     },
     {
-      "added_at": "2024-04-12 04:50:36",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Destruction Age",
         "url": "https://open.spotify.com/album/31gFYgdxJKoqU8r0xhp0qk"
@@ -1813,7 +1925,7 @@
       "url": "https://open.spotify.com/track/2H0WNvfr7lQ3aazMoyzRdr"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Grim Reaper",
         "url": "https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y"
@@ -1829,7 +1941,7 @@
       "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "PARTY ALL NIGHT!",
         "url": "https://open.spotify.com/album/3R7c7RQHgK0a7lMyIwq0Km"
@@ -1845,7 +1957,7 @@
       "url": "https://open.spotify.com/track/3IV3qgNIzvlf2dmeXX6ADw"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "#exclusive",
         "url": "https://open.spotify.com/album/2MOmOE5tp2Y8PGoOxN4iXA"
@@ -1861,7 +1973,7 @@
       "url": "https://open.spotify.com/track/0RBL2CU9e3x13GFEzMGG3z"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Dead n Gone",
         "url": "https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza"
@@ -1877,7 +1989,7 @@
       "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
     },
     {
-      "added_at": "2024-03-08 16:57:59",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "DXXXRTY!",
         "url": "https://open.spotify.com/album/1Yrk0XGuAur0a6RWGGD2CN"
@@ -1897,7 +2009,7 @@
       "url": "https://open.spotify.com/track/7fWWHphEvrMCEFyLYbCv3J"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "GAME OVER",
         "url": "https://open.spotify.com/album/030Jb57zSFdga6o06m7IDu"
@@ -1917,7 +2029,7 @@
       "url": "https://open.spotify.com/track/3tVzkAo4dmzdYxbnrWIwxM"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Kurxxed Emeraldz",
         "url": "https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy"
@@ -1933,7 +2045,7 @@
       "url": "https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "sharp fangs",
         "url": "https://open.spotify.com/album/2LHH01c9fE0F4ZdJxlY1qa"
@@ -1953,7 +2065,7 @@
       "url": "https://open.spotify.com/track/5FvE6L92NLw7qQcmtl6dPB"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "HOSTAGE",
         "url": "https://open.spotify.com/album/2iETy4VvjZT3I6smiL21Zh"
@@ -1969,7 +2081,7 @@
       "url": "https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Narcissistic gem",
         "url": "https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD"
@@ -1985,7 +2097,7 @@
       "url": "https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE"
     },
     {
-      "added_at": "2024-04-26 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "runaway girl",
         "url": "https://open.spotify.com/album/5ngKBXTdzNKq4z5TRHfON8"
@@ -2001,23 +2113,7 @@
       "url": "https://open.spotify.com/track/2lP4HXZCxBEk4pu4dv0P8f"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
-      "album": {
-        "name": "Die Sterne",
-        "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
-      },
-      "artists": [
-        {
-          "name": "Edwin Rosen",
-          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
-        }
-      ],
-      "duration_ms": 88000,
-      "name": "Die Sterne",
-      "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "2BIPOLAR",
         "url": "https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe"
@@ -2037,7 +2133,7 @@
       "url": "https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Thot K",
         "url": "https://open.spotify.com/album/1uXiSa6UrQXZdbxMVnrYm5"
@@ -2053,7 +2149,7 @@
       "url": "https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB"
     },
     {
-      "added_at": "2024-03-08 16:57:59",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "higher",
         "url": "https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b"
@@ -2077,7 +2173,7 @@
       "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "snorting up ur blood!",
         "url": "https://open.spotify.com/album/51SSmdLlvcuLX9biV02SGx"
@@ -2101,7 +2197,7 @@
       "url": "https://open.spotify.com/track/6q94uCmVq3S7zNucgTy875"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "So What If I'm A Freak",
         "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
@@ -2117,7 +2213,7 @@
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
     },
     {
-      "added_at": "2024-04-26 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "reclaimer (feat. Nuvfr)",
         "url": "https://open.spotify.com/album/3ojxaH4Z9d4KJPORtcbBlq"
@@ -2137,23 +2233,7 @@
       "url": "https://open.spotify.com/track/1Qp2NeiBQRoHEHY1SwsH9E"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "amends",
-        "url": "https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "amends",
-      "url": "https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "33.1FM",
         "url": "https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ"
@@ -2169,27 +2249,7 @@
       "url": "https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt"
     },
     {
-      "added_at": "2024-05-17 14:42:57",
-      "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/6fN1ijjm75vtLaetlir1qE"
-      },
-      "artists": [
-        {
-          "name": "pluto",
-          "url": "https://open.spotify.com/artist/3uFkM20bHYbCDR5E1u0yGX"
-        },
-        {
-          "name": "Clover!",
-          "url": "https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD"
-        }
-      ],
-      "duration_ms": 110058,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/32al0E3UafdMmOytlHwOK4"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "LIGHTS OFF TONIGHT",
         "url": "https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v"
@@ -2213,7 +2273,7 @@
       "url": "https://open.spotify.com/track/0Xsrwyt3rLpGCJb7IWB0NA"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "DOOR TO DUSK",
         "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
@@ -2233,7 +2293,7 @@
       "url": "https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw"
     },
     {
-      "added_at": "2024-10-17 21:20:28",
+      "added_at": "2025-10-03 20:38:10",
       "album": {
         "name": "Night Killaz Vol. 1",
         "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"

@@ -1,13 +1,97 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Oct 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Oct 03:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVJaTlPJoHwFXwx4IU0PUu+EAT+2qv",
+  "snapshot_id": "AAAVLR9hJSioB+4yjU1BeIqheMnI5Q+9",
   "tracks": [
+    {
+      "added_at": "2025-10-03 13:04:04",
+      "album": {
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
+    },
+    {
+      "added_at": "2025-10-03 13:04:04",
+      "album": {
+        "name": "you're a star",
+        "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "you're a star",
+      "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
+    },
+    {
+      "added_at": "2025-10-03 08:05:38",
+      "album": {
+        "name": "Love Zombie",
+        "url": "https://open.spotify.com/album/5g9hVCsMeumCJXNVWH106J"
+      },
+      "artists": [
+        {
+          "name": "Victoria Justice",
+          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Love Zombie",
+      "url": "https://open.spotify.com/track/1feaNhFish38mS3fxDCqem"
+    },
+    {
+      "added_at": "2025-10-03 18:04:51",
+      "album": {
+        "name": "PIRRI",
+        "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 192214,
+      "name": "PIRRI",
+      "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
+    },
+    {
+      "added_at": "2025-10-04 03:04:14",
+      "album": {
+        "name": "Doppler",
+        "url": "https://open.spotify.com/album/2buXav8ZMjRE2INuK0cbd1"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/2x23h454OSMdlbw4TxmXrQ"
+    },
     {
       "added_at": "2025-10-02 22:05:08",
       "album": {
@@ -23,6 +107,38 @@
       "duration_ms": 218813,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
+    },
+    {
+      "added_at": "2025-10-03 13:04:04",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/1YbR53uEZCtctOv9HgnaCX"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5WFOdaZWB9bYhRq8MR2uON"
+    },
+    {
+      "added_at": "2025-10-03 13:04:04",
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "added_at": "2025-10-03 03:04:44",
@@ -103,6 +219,22 @@
       "duration_ms": 251477,
       "name": "Itsumo",
       "url": "https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw"
+    },
+    {
+      "added_at": "2025-10-03 18:04:51",
+      "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/2g2DrGWizKKb5wIA1FnUW5"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/2WBKIq4LHfxg29Uo1R2arA"
     },
     {
       "added_at": "2025-10-01 08:07:21",
@@ -483,7 +615,7 @@
     {
       "added_at": "2025-09-26 18:06:00",
       "album": {
-        "name": "go spin",
+        "name": "Go Spin",
         "url": "https://open.spotify.com/album/7JZLqZVLSujl2CAPRRabj5"
       },
       "artists": [
@@ -493,7 +625,7 @@
         }
       ],
       "duration_ms": 104721,
-      "name": "go spin",
+      "name": "Go Spin",
       "url": "https://open.spotify.com/track/1kpl9OjwsYHpdFBrkkfbfX"
     },
     {
@@ -699,138 +831,6 @@
       "duration_ms": 158037,
       "name": "Chinatown Pt 2",
       "url": "https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E"
-    },
-    {
-      "added_at": "2025-09-23 22:04:51",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Moon (Feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
-      "added_at": "2025-09-23 18:04:40",
-      "album": {
-        "name": "yezzir",
-        "url": "https://open.spotify.com/album/4bnx218mT9gJOQILkqDo1t"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 106814,
-      "name": "yezzir",
-      "url": "https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga"
-    },
-    {
-      "added_at": "2025-09-25 22:05:03",
-      "album": {
-        "name": "Starburst",
-        "url": "https://open.spotify.com/album/4hm1LQhtqHqqXkJoBcSAYO"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 298891,
-      "name": "Starburst",
-      "url": "https://open.spotify.com/track/5BwcOGxss3yjlEru57ZY4Y"
-    },
-    {
-      "added_at": "2025-09-26 08:06:07",
-      "album": {
-        "name": "Is You Coo",
-        "url": "https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 151201,
-      "name": "Is You Coo",
-      "url": "https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc"
-    },
-    {
-      "added_at": "2025-09-26 13:06:43",
-      "album": {
-        "name": "Hippie Sunshine",
-        "url": "https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 186289,
-      "name": "Hippie Sunshine",
-      "url": "https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP"
-    },
-    {
-      "added_at": "2025-09-23 22:04:51",
-      "album": {
-        "name": "Head Shoulders Knees Toes",
-        "url": "https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Head Shoulders Knees Toes",
-      "url": "https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy"
-    },
-    {
-      "added_at": "2025-09-19 18:05:28",
-      "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 173452,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
-    },
-    {
-      "added_at": "2025-09-25 08:07:53",
-      "album": {
-        "name": "DEPRESSED",
-        "url": "https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 138332,
-      "name": "DEPRESSED",
-      "url": "https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW"
     }
   ],
   "unique_name": "New Singles Now",

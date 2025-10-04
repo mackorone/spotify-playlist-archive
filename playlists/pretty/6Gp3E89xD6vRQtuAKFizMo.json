@@ -1,13 +1,65 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43839,
+  "num_followers": 43821,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAabQy8/xJjAuMbIR5ObqjDspwIEV3a",
+  "snapshot_id": "AAAacJNVFV1qe9IabYdPlgkosQTq1Zo2",
   "tracks": [
+    {
+      "added_at": "2025-10-03 16:38:38",
+      "album": {
+        "name": "Carry The Light",
+        "url": "https://open.spotify.com/album/2BDFOQ4GpJvhnqb95vOJsa"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "Carry The Light",
+      "url": "https://open.spotify.com/track/3S30OSuIAobYT2aBY18zx2"
+    },
+    {
+      "added_at": "2025-10-03 16:38:57",
+      "album": {
+        "name": "CROWDWORK",
+        "url": "https://open.spotify.com/album/7r1TvLGR7ZwN5Oi8NUL28X"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Bump",
+      "url": "https://open.spotify.com/track/19QowqpUbEtar2rSIYdHne"
+    },
+    {
+      "added_at": "2025-10-03 16:39:11",
+      "album": {
+        "name": "CROWDWORK",
+        "url": "https://open.spotify.com/album/7r1TvLGR7ZwN5Oi8NUL28X"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        }
+      ],
+      "duration_ms": 126852,
+      "name": "Headbanga",
+      "url": "https://open.spotify.com/track/4Asj48VLpUcgyZ2dUwwJ8k"
+    },
     {
       "added_at": "2025-09-26 17:36:29",
       "album": {
